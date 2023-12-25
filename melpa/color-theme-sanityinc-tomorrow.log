@@ -1,0 +1,28 @@
+Package: color-theme-sanityinc-tomorrow
+Fetcher: github
+Source:  https://github.com/purcell/color-theme-sanityinc-tomorrow.git
+
+Updating /mnt/store/melpa/working/color-theme-sanityinc-tomorrow/
+Checking out b6703bb326da6ba08fb1f73b88445ba52abda499
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/color-theme-sanityinc-tomorrow/
+  to /tmp/color-theme-sanityinc-tomorrowA9vBIJ/color-theme-sanityinc-tomorrow-20231213.1748
+    color-theme-sanityinc-tomorrow.el -> color-theme-sanityinc-tomorrow.el
+    sanityinc-tomorrow-blue-theme.el -> sanityinc-tomorrow-blue-theme.el
+    sanityinc-tomorrow-bright-theme.el -> sanityinc-tomorrow-bright-theme.el
+    sanityinc-tomorrow-day-theme.el -> sanityinc-tomorrow-day-theme.el
+    sanityinc-tomorrow-eighties-theme.el -> sanityinc-tomorrow-eighties-theme.el
+    sanityinc-tomorrow-night-theme.el -> sanityinc-tomorrow-night-theme.el
+Created color-theme-sanityinc-tomorrow-20231213.1748.tar containing:
+  color-theme-sanityinc-tomorrow-20231213.1748/
+  color-theme-sanityinc-tomorrow-20231213.1748/color-theme-sanityinc-tomorrow-pkg.el
+  color-theme-sanityinc-tomorrow-20231213.1748/color-theme-sanityinc-tomorrow.el
+  color-theme-sanityinc-tomorrow-20231213.1748/sanityinc-tomorrow-blue-theme.el
+  color-theme-sanityinc-tomorrow-20231213.1748/sanityinc-tomorrow-bright-theme.el
+  color-theme-sanityinc-tomorrow-20231213.1748/sanityinc-tomorrow-day-theme.el
+  color-theme-sanityinc-tomorrow-20231213.1748/sanityinc-tomorrow-eighties-theme.el
+  color-theme-sanityinc-tomorrow-20231213.1748/sanityinc-tomorrow-night-theme.el
+ ✓ Success:
+  2023-12-25T12:06:19+0000  color-theme-sanityinc-tomorrow-20231213.1748.entry
+  2023-12-25T12:06:19+0000  color-theme-sanityinc-tomorrow-20231213.1748.tar
+Built color-theme-sanityinc-tomorrow in 4.300s, finished at 2023-12-25T12:06:21+0000

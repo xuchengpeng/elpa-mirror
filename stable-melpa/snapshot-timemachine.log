@@ -1,0 +1,18 @@
+Package: snapshot-timemachine
+Fetcher: github
+Source:  https://github.com/mrBliss/snapshot-timemachine.git
+
+Updating /mnt/store/melpa/working/snapshot-timemachine/
+Checking out 99efcebab309b11ed512a8dc62555d3834df5efb
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/snapshot-timemachine/
+  to /tmp/snapshot-timemachinea8pMQD/snapshot-timemachine-20161221.929
+    snapshot-timemachine.el -> snapshot-timemachine.el
+Created snapshot-timemachine-20161221.929.tar containing:
+  snapshot-timemachine-20161221.929/
+  snapshot-timemachine-20161221.929/snapshot-timemachine-pkg.el
+  snapshot-timemachine-20161221.929/snapshot-timemachine.el
+ ✓ Success:
+  2023-12-25T11:03:20+0000  snapshot-timemachine-20161221.929.entry
+  2023-12-25T11:03:20+0000  snapshot-timemachine-20161221.929.tar
+Built snapshot-timemachine in 3.967s, finished at 2023-12-25T11:03:22+0000

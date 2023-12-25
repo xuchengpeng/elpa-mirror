@@ -1,0 +1,18 @@
+Package: sr-speedbar
+Fetcher: github
+Source:  https://github.com/emacsorphanage/sr-speedbar.git
+
+Updating /mnt/store/melpa/working/sr-speedbar/
+Checking out 77a83fb50f763a465c021eca7343243f465b4a47
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/sr-speedbar/
+  to /tmp/sr-speedbar6hTWTX/sr-speedbar-20161025.831
+    sr-speedbar.el -> sr-speedbar.el
+Created sr-speedbar-20161025.831.tar containing:
+  sr-speedbar-20161025.831/
+  sr-speedbar-20161025.831/sr-speedbar-pkg.el
+  sr-speedbar-20161025.831/sr-speedbar.el
+ ✓ Success:
+  2023-12-25T11:04:19+0000  sr-speedbar-20161025.831.entry
+  2023-12-25T11:04:19+0000  sr-speedbar-20161025.831.tar
+Built sr-speedbar in 3.925s, finished at 2023-12-25T11:04:21+0000

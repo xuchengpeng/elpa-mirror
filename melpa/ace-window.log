@@ -1,0 +1,20 @@
+Package: ace-window
+Fetcher: github
+Source:  https://github.com/abo-abo/ace-window.git
+
+Updating /mnt/store/melpa/working/ace-window/
+Checking out 77115afc1b0b9f633084cf7479c767988106c196
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/ace-window/
+  to /tmp/ace-windowVTB0y5/ace-window-20220911.358
+    ace-window-posframe.el -> ace-window-posframe.el
+    ace-window.el -> ace-window.el
+Created ace-window-20220911.358.tar containing:
+  ace-window-20220911.358/
+  ace-window-20220911.358/ace-window-pkg.el
+  ace-window-20220911.358/ace-window-posframe.el
+  ace-window-20220911.358/ace-window.el
+ ✓ Success:
+  2023-12-25T11:58:44+0000  ace-window-20220911.358.entry
+  2023-12-25T11:58:44+0000  ace-window-20220911.358.tar
+Built ace-window in 3.941s, finished at 2023-12-25T11:58:46+0000

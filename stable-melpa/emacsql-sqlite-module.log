@@ -1,0 +1,18 @@
+Package: emacsql-sqlite-module
+Fetcher: github
+Source:  https://github.com/magit/emacsql.git
+
+Updating /mnt/store/melpa/working/emacsql-sqlite-module/
+Checking out f25de357fee74aae7a538e8eae3d9be5eb55c20e
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/emacsql-sqlite-module/
+  to /tmp/emacsql-sqlite-moduleVAi3TD/emacsql-sqlite-module-20230409.1847
+    emacsql-sqlite-module.el -> emacsql-sqlite-module.el
+Created emacsql-sqlite-module-20230409.1847.tar containing:
+  emacsql-sqlite-module-20230409.1847/
+  emacsql-sqlite-module-20230409.1847/emacsql-sqlite-module-pkg.el
+  emacsql-sqlite-module-20230409.1847/emacsql-sqlite-module.el
+ ✓ Success:
+  2023-12-25T12:15:47+0000  emacsql-sqlite-module-20230409.1847.entry
+  2023-12-25T12:15:47+0000  emacsql-sqlite-module-20230409.1847.tar
+Built emacsql-sqlite-module in 3.831s, finished at 2023-12-25T12:15:49+0000

@@ -1,0 +1,18 @@
+Package: indicators
+Fetcher: github
+Source:  https://github.com/Fuco1/indicators.el.git
+
+Updating /mnt/store/melpa/working/indicators/
+Checking out f62a1201f21453e3aca93f48483e65ae8251432e
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/indicators/
+  to /tmp/indicators3JF6Mg/indicators-20161211.1126
+    indicators.el -> indicators.el
+Created indicators-20161211.1126.tar containing:
+  indicators-20161211.1126/
+  indicators-20161211.1126/indicators-pkg.el
+  indicators-20161211.1126/indicators.el
+ ✓ Success:
+  2023-12-25T10:33:59+0000  indicators-20161211.1126.entry
+  2023-12-25T10:33:59+0000  indicators-20161211.1126.tar
+Built indicators in 3.688s, finished at 2023-12-25T10:34:00+0000

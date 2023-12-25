@@ -1,0 +1,20 @@
+Package: @
+Fetcher: github
+Source:  https://github.com/skeeto/at-el.git
+
+Updating /mnt/store/melpa/working/@/
+Checking out 0a6189f8be42dbbc5d9358cbd447d471236135a2
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/@/
+  to /tmp/@lTlXPr/@-20181225.1438
+    @-mixins.el -> @-mixins.el
+    @.el -> @.el
+Created @-20181225.1438.tar containing:
+  @-20181225.1438/
+  @-20181225.1438/@-mixins.el
+  @-20181225.1438/@-pkg.el
+  @-20181225.1438/@.el
+ ✓ Success:
+  2023-12-25T11:58:03+0000  @-20181225.1438.entry
+  2023-12-25T11:58:03+0000  @-20181225.1438.tar
+Built @ in 4.319s, finished at 2023-12-25T11:58:05+0000

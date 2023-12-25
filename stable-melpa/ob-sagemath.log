@@ -1,0 +1,20 @@
+Package: ob-sagemath
+Fetcher: github
+Source:  https://github.com/sagemath/ob-sagemath.git
+
+Updating /mnt/store/melpa/working/ob-sagemath/
+Checking out 79645bce0c25a650bae61e550434bed836995dce
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/ob-sagemath/
+  to /tmp/ob-sagemathXNX1Jg/ob-sagemath-20191106.828
+    ob-sagemath.el -> ob-sagemath.el
+    emacs_ob_sagemath.py -> emacs_ob_sagemath.py
+Created ob-sagemath-20191106.828.tar containing:
+  ob-sagemath-20191106.828/
+  ob-sagemath-20191106.828/emacs_ob_sagemath.py
+  ob-sagemath-20191106.828/ob-sagemath-pkg.el
+  ob-sagemath-20191106.828/ob-sagemath.el
+ ✓ Success:
+  2023-12-25T10:47:02+0000  ob-sagemath-20191106.828.entry
+  2023-12-25T10:47:02+0000  ob-sagemath-20191106.828.tar
+Built ob-sagemath in 6.193s, finished at 2023-12-25T10:47:05+0000

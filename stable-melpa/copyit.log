@@ -1,0 +1,18 @@
+Package: copyit
+Fetcher: github
+Source:  https://github.com/zonuexe/emacs-copyit.git
+
+Updating /mnt/store/melpa/working/copyit/
+Checking out c4f2c28e5b6270e8e3364341619f1154bb4e682e
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/copyit/
+  to /tmp/copyitalBgVv/copyit-20190919.1258
+    copyit.el -> copyit.el
+Created copyit-20190919.1258.tar containing:
+  copyit-20190919.1258/
+  copyit-20190919.1258/copyit-pkg.el
+  copyit-20190919.1258/copyit.el
+ ✓ Success:
+  2023-12-25T12:08:12+0000  copyit-20190919.1258.entry
+  2023-12-25T12:08:12+0000  copyit-20190919.1258.tar
+Built copyit in 6.833s, finished at 2023-12-25T12:08:15+0000

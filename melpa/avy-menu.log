@@ -1,0 +1,18 @@
+Package: avy-menu
+Fetcher: github
+Source:  https://github.com/mrkkrp/avy-menu.git
+
+Updating /mnt/store/melpa/working/avy-menu/
+Checking out e79d892afd974105a6b24e8985fef0c9a1b10b4c
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/avy-menu/
+  to /tmp/avy-menuicY8xf/avy-menu-20230606.1519
+    avy-menu.el -> avy-menu.el
+Created avy-menu-20230606.1519.tar containing:
+  avy-menu-20230606.1519/
+  avy-menu-20230606.1519/avy-menu-pkg.el
+  avy-menu-20230606.1519/avy-menu.el
+ ✓ Success:
+  2023-12-25T12:01:10+0000  avy-menu-20230606.1519.entry
+  2023-12-25T12:01:10+0000  avy-menu-20230606.1519.tar
+Built avy-menu in 3.967s, finished at 2023-12-25T12:01:11+0000

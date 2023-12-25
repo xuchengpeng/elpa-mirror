@@ -1,0 +1,19 @@
+Package: creds
+Fetcher: github
+Source:  https://github.com/ardumont/emacs-creds.git
+
+Updating /mnt/store/melpa/working/creds/
+Checking out 00ebefd10005c170b790a01380cb6a98f798ce5c
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/creds/
+  to /tmp/credsTkPIWh/creds-20140510.1706
+    creds-pkg.el -> creds-pkg.el
+    creds.el -> creds.el
+Created creds-20140510.1706.tar containing:
+  creds-20140510.1706/
+  creds-20140510.1706/creds-pkg.el
+  creds-20140510.1706/creds.el
+ ✓ Success:
+  2023-12-25T12:09:09+0000  creds-20140510.1706.entry
+  2023-12-25T12:09:09+0000  creds-20140510.1706.tar
+Built creds in 3.716s, finished at 2023-12-25T12:09:10+0000

@@ -1,0 +1,18 @@
+Package: evil-tabs
+Fetcher: github
+Source:  https://github.com/krisajenkins/evil-tabs.git
+
+Updating /mnt/store/melpa/working/evil-tabs/
+Checking out 53d3314a810017b6056ab6796aef671f5ea1c063
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/evil-tabs/
+  to /tmp/evil-tabswDSPRl/evil-tabs-20160217.1520
+    evil-tabs.el -> evil-tabs.el
+Created evil-tabs-20160217.1520.tar containing:
+  evil-tabs-20160217.1520/
+  evil-tabs-20160217.1520/evil-tabs-pkg.el
+  evil-tabs-20160217.1520/evil-tabs.el
+ ✓ Success:
+  2023-12-25T12:18:22+0000  evil-tabs-20160217.1520.entry
+  2023-12-25T12:18:22+0000  evil-tabs-20160217.1520.tar
+Built evil-tabs in 3.275s, finished at 2023-12-25T12:18:23+0000

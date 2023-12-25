@@ -1,0 +1,20 @@
+Package: kite-mini
+Fetcher: github
+Source:  https://github.com/tungd/kite-mini.el.git
+
+Updating /mnt/store/melpa/working/kite-mini/
+Checking out 48734092e735033ad7664a9933acd4556e095f79
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/kite-mini/
+  to /tmp/kite-miniUjuPzp/kite-mini-20160508.1106
+    kite-mini-console.el -> kite-mini-console.el
+    kite-mini.el -> kite-mini.el
+Created kite-mini-20160508.1106.tar containing:
+  kite-mini-20160508.1106/
+  kite-mini-20160508.1106/kite-mini-console.el
+  kite-mini-20160508.1106/kite-mini-pkg.el
+  kite-mini-20160508.1106/kite-mini.el
+ ✓ Success:
+  2023-12-25T10:37:34+0000  kite-mini-20160508.1106.entry
+  2023-12-25T10:37:34+0000  kite-mini-20160508.1106.tar
+Built kite-mini in 3.877s, finished at 2023-12-25T10:37:36+0000

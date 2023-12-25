@@ -1,0 +1,19 @@
+Package: git-commit
+Fetcher: github
+Source:  https://github.com/magit/magit.git
+
+Updating /mnt/store/melpa/working/git-commit/
+Checking out 51fc450b6eb440381708bdfcade351c9efc31f2d
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/git-commit/
+  to /tmp/git-commitEP6b2d/git-commit-20231204.1839
+  ! lisp/git-commit.el -> git-commit.el
+  ! lisp/git-commit-pkg.el -> git-commit-pkg.el
+Created git-commit-20231204.1839.tar containing:
+  git-commit-20231204.1839/
+  git-commit-20231204.1839/git-commit-pkg.el
+  git-commit-20231204.1839/git-commit.el
+ ✓ Success:
+  2023-12-25T12:24:29+0000  git-commit-20231204.1839.entry
+  2023-12-25T12:24:29+0000  git-commit-20231204.1839.tar
+Built git-commit in 4.866s, finished at 2023-12-25T12:24:30+0000

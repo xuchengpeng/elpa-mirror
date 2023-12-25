@@ -1,0 +1,28 @@
+Package: lem
+Fetcher: codeberg
+Source:  https://codeberg.org/martianh/lem.el.git
+
+Updating /mnt/store/melpa/working/lem/
+Checking out 521dd44fae5852c1d91d682f541cb381d2d0c233
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/lem/
+  to /tmp/lemvqObMN/lem-20231221.1623
+  ! lisp/lem-api.el -> lem-api.el
+  ! lisp/lem-post.el -> lem-post.el
+  ! lisp/lem-request.el -> lem-request.el
+  ! lisp/lem-search.el -> lem-search.el
+  ! lisp/lem-ui.el -> lem-ui.el
+  ! lisp/lem.el -> lem.el
+Created lem-20231221.1623.tar containing:
+  lem-20231221.1623/
+  lem-20231221.1623/lem-api.el
+  lem-20231221.1623/lem-pkg.el
+  lem-20231221.1623/lem-post.el
+  lem-20231221.1623/lem-request.el
+  lem-20231221.1623/lem-search.el
+  lem-20231221.1623/lem-ui.el
+  lem-20231221.1623/lem.el
+ ✓ Success:
+  2023-12-25T10:38:37+0000  lem-20231221.1623.entry
+  2023-12-25T10:38:37+0000  lem-20231221.1623.tar
+Built lem in 4.892s, finished at 2023-12-25T10:38:39+0000

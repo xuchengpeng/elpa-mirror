@@ -1,0 +1,18 @@
+Package: epkg-marginalia
+Fetcher: github
+Source:  https://github.com/emacscollective/epkg-marginalia.git
+
+Updating /mnt/store/melpa/working/epkg-marginalia/
+Checking out f5eda857a99d02aad9e89bd80c327930e815fc8a
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/epkg-marginalia/
+  to /tmp/epkg-marginaliaZBGOwB/epkg-marginalia-20230603.1401
+    epkg-marginalia.el -> epkg-marginalia.el
+Created epkg-marginalia-20230603.1401.tar containing:
+  epkg-marginalia-20230603.1401/
+  epkg-marginalia-20230603.1401/epkg-marginalia-pkg.el
+  epkg-marginalia-20230603.1401/epkg-marginalia.el
+ ✓ Success:
+  2023-12-25T12:16:24+0000  epkg-marginalia-20230603.1401.entry
+  2023-12-25T12:16:24+0000  epkg-marginalia-20230603.1401.tar
+Built epkg-marginalia in 3.915s, finished at 2023-12-25T12:16:26+0000

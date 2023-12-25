@@ -1,0 +1,20 @@
+Package: evil-tutor-sc
+Fetcher: github
+Source:  https://github.com/clsty/evil-tutor-sc.git
+
+Updating /mnt/store/melpa/working/evil-tutor-sc/
+Checking out 1a1bc93eeb432159591b6dbe6684068311c89a46
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/evil-tutor-sc/
+  to /tmp/evil-tutor-sc4Eik8J/evil-tutor-sc-20230705.656
+    evil-tutor-sc.el -> evil-tutor-sc.el
+    tutor-sc.txt -> tutor-sc.txt
+Created evil-tutor-sc-20230705.656.tar containing:
+  evil-tutor-sc-20230705.656/
+  evil-tutor-sc-20230705.656/evil-tutor-sc-pkg.el
+  evil-tutor-sc-20230705.656/evil-tutor-sc.el
+  evil-tutor-sc-20230705.656/tutor-sc.txt
+ ✓ Success:
+  2023-12-25T12:18:33+0000  evil-tutor-sc-20230705.656.entry
+  2023-12-25T12:18:33+0000  evil-tutor-sc-20230705.656.tar
+Built evil-tutor-sc in 4.045s, finished at 2023-12-25T12:18:35+0000

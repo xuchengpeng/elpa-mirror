@@ -1,0 +1,355 @@
+                        ━━━━━━━━━━━━━━━━━━━━━━━
+                         LLM PACKAGE FOR EMACS
+                        ━━━━━━━━━━━━━━━━━━━━━━━
+
+
+
+
+
+1 Introduction
+══════════════
+
+  This is a library for interfacing with Large Language Models.  It
+  allows elisp code to use LLMs, but allows gives the end-user an option
+  to choose which LLM they would prefer.  This is especially useful for
+  LLMs, since there are various high-quality ones that in which API
+  access costs money, as well as locally installed ones that are free,
+  but of medium quality.  Applications using LLMs can use this library
+  to make sure their application works regardless of whether the user
+  has a local LLM or is paying for API access.
+
+  The functionality supported by LLMs is not completely consistent, nor
+  are their APIs.  In this library we attempt to abstract functionality
+  to a higher level, because sometimes those higher level concepts are
+  supported by an API, and othertimes they must be put in more low-level
+  concepts.  One such higher-level concept is "examples" where the
+  client can show example interactions to demonstrate a pattern for the
+  LLM.  The GCloud Vertex API has an explicit API for examples, but for
+  Open AI's API, examples must be specified by modifying the system
+  prompt.  Open AI has the concept of a system prompt, whereas Vertex
+  API does not.  These are the kinds of API differences we attempt to
+  hide by having higher-level concepts in our API.
+
+  Some functionality may not be supported by LLMs.  Any unsupported
+  functionality with throw a `'not-implemented' signal.
+
+  This package is simple at the moment, but will grow as both LLMs and
+  functionality is added.
+
+
+2 Setting up providers
+══════════════════════
+
+  Users who use an application that uses this package should not need to
+  install it.  The llm module should be installed as a dependency when
+  you install the package that uses it.  You do need to make sure to
+  both require and set up the provider you will be using.  Typically,
+  applications will have a variable you can set.  For example, let's say
+  there's a package called "llm-refactoring", which has a variable
+  `llm-refactoring-provider'.  You would set it up like so:
+
+  ┌────
+  │ (use-package llm-refactoring
+  │   :init
+  │   (require 'llm-openai)
+  │   (setq llm-refactoring-provider (make-llm-openai :key my-openai-key))
+  └────
+
+  Here `my-openai-key' would be a variable you set up before with your
+  Open AI key.  Or, just substitute the key itself as a string.  It's
+  important that you remember never to check your key into a public
+  repository such as github, because your key must be kept private.
+  Anyone with your key can use the API, and you will be charged.
+
+
+2.1 Open AI
+───────────
+
+  You can set up with `make-llm-openai', with the following parameters:
+  • `:key', the Open AI key that you get when you sign up to use Open
+    AI's APIs.  Remember to keep this private.  This is non-optional.
+  • `:chat-model': A model name from the [list of Open AI's model
+    names.]  Keep in mind some of these are not available to everyone.
+    This is optional, and will default to a reasonable 3.5 model.
+  • `:embedding-model': A model name from [list of Open AI's embedding
+    model names.]  This is optional, and will default to a reasonable
+    model.
+
+
+[list of Open AI's model names.]
+<https://platform.openai.com/docs/models/gpt-4>
+
+[list of Open AI's embedding model names.]
+<https://platform.openai.com/docs/guides/embeddings/embedding-models>
+
+
+2.2 Gemini (not via Google Cloud)
+─────────────────────────────────
+
+  This is Google's AI model.  You can get an API key via their [page on
+  Google AI Studio].  Set this up with `make-llm-gemini', with the
+  following parameters:
+  • `:key', the Google AI key that you get from Google AI Studio.
+  • `:chat-model', the model name, from the
+    [[<https://ai.google.dev/models>][list of models.  This is optional
+    and will default to the text Gemini model.
+  • `:embedding-model': the model name, currently must be
+    "embedding-001".  This is optional and will default to
+    "embedding-001".
+
+
+[page on Google AI Studio] <https://makersuite.google.com/app/apikey>
+
+
+2.3 Vertex (Gemini via Google Cloud)
+────────────────────────────────────
+
+  This is mostly for those who want to use Google Cloud specifically,
+  most users should use Gemini instead, which is easier to set up.
+
+  You can set up with `make-llm-vertex', with the following parameters:
+  • `:project': Your project number from Google Cloud that has Vertex
+    API enabled.
+  • `:chat-model': A model name from the [list of Vertex's model names.]
+    This is optional, and will default to a reasonable model.
+  • `:embedding-model': A model name from the [list of Vertex's
+    embedding model names.]  This is optional, and will default to a
+    reasonable model.
+
+  In addition to the provider, which you may want multiple of (for
+  example, to charge against different projects), there are customizable
+  variables:
+  • `llm-vertex-gcloud-binary': The binary to use for generating the API
+    key.
+  • `llm-vertex-gcloud-region': The gcloud region to use.  It's good to
+    set this to a region near where you are for best latency.  Defaults
+    to "us-central1".
+
+    If you haven't already, you must run the following command before
+    using this:
+    ┌────
+    │ gcloud beta services identity create --service=aiplatform.googleapis.com --project=PROJECT_ID
+    └────
+
+
+[list of Vertex's model names.]
+<https://cloud.google.com/vertex-ai/docs/generative-ai/chat/chat-prompts#supported_model>
+
+[list of Vertex's embedding model names.]
+<https://cloud.google.com/vertex-ai/docs/generative-ai/embeddings/get-text-embeddings#supported_models>
+
+
+2.4 Ollama
+──────────
+
+  [Ollama] is a way to run large language models locally. There are
+  [many different models] you can use with it. You set it up with the
+  following parameters:
+  • `:scheme': The scheme (http/https) for the connection to ollama.
+    This default to "http".
+  • `:host': The host that ollama is run on.  This is optional and will
+    default to localhost.
+  • `:port': The port that ollama is run on.  This is optional and will
+    default to the default ollama port.
+  • `:chat-model': The model name to use for chat.  This is not optional
+    for chat use, since there is no default.
+  • `:embedding-model': The model name to use for embeddings.  This is
+    not optional for embedding use, since there is no default.
+
+
+[Ollama] <https://ollama.ai/>
+
+[many different models] <https://ollama.ai/library>
+
+
+2.5 GPT4All
+───────────
+
+  [GPT4All] is a way to run large language models locally.  To use it
+  with `llm' package, you must click "Enable API Server" in the
+  settings.  It does not offer embeddings or streaming functionality,
+  though, so Ollama might be a better fit for users who are not already
+  set up with local models.  You can set it up with the following
+  parameters:
+  • `:host': The host that GPT4All is run on.  This is optional and will
+    default to localhost.
+  • `:port': The port that GPT4All is run on.  This is optional and will
+    default to the default ollama port.
+  • `:chat-model': The model name to use for chat.  This is not optional
+    for chat use, since there is no default.
+
+
+[GPT4All] <https://gpt4all.io/index.html>
+
+
+2.6 llama.cpp
+─────────────
+
+  [llama.cpp] is a way to run large language models locally.  To use it
+  with the `llm' package, you need to start the server (with the
+  "–embedding" flag if you plan on using embeddings).  The server must
+  be started with a model, so it is not possible to switch models until
+  the server is restarted to use the new model.  As such, model is not a
+  parameter to the provider, since the model choice is already set once
+  the server starts.
+
+  Llama.cpp does not have native chat interfaces, so is not as good at
+  multi-round conversations as other solutions such as Ollama.  It will
+  perform better at single-responses.
+
+  The parameters default to optional values, so mostly users should just
+  be creating a model with `(make-llm-llamacpp)'.  The parameters are:
+  • `:scheme': The scheme (http/https) for the connection to ollama.
+    This default to "http".
+  • `:host': The host that llama.cpp server is run on.  This is optional
+    and will default to localhost.
+  • `:port': The port that llama.cpp server is run on.  This is optional
+    and will default to 8080, the default llama.cpp port.
+
+
+[llama.cpp] <https://github.com/ggerganov/llama.cpp>
+
+
+2.7 Fake
+────────
+
+  This is a client that makes no call, but it just there for testing and
+  debugging.  Mostly this is of use to programmatic clients of the llm
+  package, but end users can also use it to understand what will be sent
+  to the LLMs.  It has the following parameters:
+  • `:output-to-buffer': if non-nil, the buffer or buffer name to append
+    the request sent to the LLM to.
+  • `:chat-action-func': a function that will be called to provide a
+    string or symbol and message cons which are used to raise an error.
+  • `:embedding-action-func': a function that will be called to provide
+    a vector or symbol and message cons which are used to raise an
+    error.
+
+
+3 `llm' and the use of non-free LLMs
+════════════════════════════════════
+
+  The `llm' package is part of GNU Emacs by being part of GNU ELPA.
+  Unfortunately, the most popular LLMs in use are non-free, which is not
+  what GNU software should be promoting by inclusion.  On the other
+  hand, by use of the `llm' package, the user can make sure that any
+  client that codes against it will work with free models that come
+  along.  It's likely that sophisticated free LLMs will, emerge,
+  although it's unclear right now what free software means with respsect
+  to LLMs.  Because of this tradeoff, we have decided to warn the user
+  when using non-free LLMs (which is every LLM supported right now
+  except the fake one).  You can turn this off the same way you turn off
+  any other warning, by clicking on the left arrow next to the warning
+  when it comes up.  Alternatively, you can set `llm-warn-on-nonfree' to
+  `nil'.  This can be set via customization as well.
+
+  To build upon the example from before:
+  ┌────
+  │ (use-package llm-refactoring
+  │   :init
+  │   (require 'llm-openai)
+  │   (setq llm-refactoring-provider (make-llm-openai :key my-openai-key)
+  │ 	llm-warn-on-nonfree nil)
+  └────
+
+
+4 Programmatic use
+══════════════════
+
+  Client applications should require the `llm' package, and code against
+  it.  Most functions are generic, and take a struct representing a
+  provider as the first argument. The client code, or the user
+  themselves can then require the specific module, such as `llm-openai',
+  and create a provider with a function such as `(make-llm-openai :key
+  user-api-key)'.  The client application will use this provider to call
+  all the generic functions.
+
+  For all callbacks, the callback will be executed in the buffer the
+  function was first called from.  If the buffer has been killed, it
+  will be executed in a temporary buffer instead.
+
+
+4.1 Main functions
+──────────────────
+
+  • `llm-chat provider prompt': With user-chosen `provider' , and a
+    `llm-chat-prompt' structure (containing context, examples,
+    interactions, and parameters such as temperature and max tokens),
+    send that prompt to the LLM and wait for the string output.
+  • `llm-chat-async provider prompt response-callback error-callback':
+    Same as `llm-chat', but executes in the background.  Takes a
+    `response-callback' which will be called with the text response.
+    The `error-callback' will be called in case of error, with the error
+    symbol and an error message.
+  • `llm-chat-streaming provider prompt partial-callback
+    response-callback error-callback': Similar to `llm-chat-async', but
+    request a streaming response.  As the response is built up,
+    `partial-callback' is called with the all the text retrieved up to
+    the current point.  Finally, `reponse-callback' is called with the
+    complete text.
+  • `llm-embedding provider string': With the user-chosen `provider',
+    send a string and get an embedding, which is a large vector of
+    floating point values.  The embedding represents the semantic
+    meaning of the string, and the vector can be compared against other
+    vectors, where smaller distances between the vectors represent
+    greater semantic similarity.
+  • `llm-embedding-async provider string vector-callback
+    error-callback': Same as `llm-embedding' but this is processed
+    asynchronously. `vector-callback' is called with the vector
+    embedding, and, in case of error, `error-callback' is called with
+    the same arguments as in `llm-chat-async'.
+  • `llm-count-tokens provider string': Count how many tokens are in
+    `string'.  This may vary by `provider', because some provideres
+    implement an API for this, but typically is always about the same.
+    This gives an estimate if the provider has no API support.
+
+    And the following helper functions:
+    • `llm-make-simple-chat-prompt text': For the common case of just
+      wanting a simple text prompt without the richness that
+      `llm-chat-prompt' struct provides, use this to turn a string into
+      a `llm-chat-prompt' that can be passed to the main functions
+      above.
+    • `llm-chat-prompt-to-text prompt': Somewhat opposite of the above,
+      from a prompt, return a string representation.  This is not
+      usually suitable for passing to LLMs, but for debugging purposes.
+    • `llm-chat-streaming-to-point provider prompt buffer point
+      finish-callback': Same basic arguments as `llm-chat-streaming',
+      but will stream to `point' in `buffer'.
+    • `llm-chat-prompt-append-response prompt response role': Append a
+      new response (from the user, usually) to the prompt.  The `role'
+      is optional, and defaults to `'user'.
+
+
+4.2 How to handle conversations
+───────────────────────────────
+
+  Conversations can take place by repeatedly calling `llm-chat' and its
+  variants.  For a conversation, the entire prompt must be a variable,
+  because the `llm-chat-prompt-interactions' slot will be getting
+  changed by the chat functions to store the conversation.  For some
+  providers, this will store the history directly in
+  `llm-chat-prompt-interactions', but for others (such as ollama), the
+  conversation history is opaque.  For that reason, the correct way to
+  handle a conversation is to repeatedly call `llm-chat' or variants,
+  and after each time, add the new user text with
+  `llm-chat-prompt-append-response'.  The following is an example:
+
+  ┌────
+  │ (defvar-local llm-chat-streaming-prompt nil)
+  │ (defun start-or-continue-conversation (text)
+  │   "Called when the user has input TEXT as the next input."
+  │   (if llm-chat-streaming-prompt
+  │       (llm-chat-prompt-append-response llm-chat-streaming-prompt text)
+  │     (setq llm-chat-streaming-prompt (llm-make-simple-chat-prompt text))
+  │     (llm-chat-streaming-to-point provider llm-chat-streaming-prompt (current-buffer) (point-max) (lambda ()))))
+  └────
+
+
+5 Contributions
+═══════════════
+
+  If you are interested in creating a provider, please send a pull
+  request, or open a bug.  This library is part of GNU ELPA, so any
+  major provider that we include in this module needs to be written by
+  someone with FSF papers.  However, you can always write a module and
+  put it on a different package archive, such as MELPA.

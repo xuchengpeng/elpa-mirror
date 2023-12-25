@@ -1,0 +1,18 @@
+Package: auto-virtualenv
+Fetcher: github
+Source:  https://github.com/marcwebbie/auto-virtualenv.git
+
+Updating /mnt/store/melpa/working/auto-virtualenv/
+Checking out 1e58a878984dbd2c91b4f128ded03fd954336907
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/auto-virtualenv/
+  to /tmp/auto-virtualenvrOYVuC/auto-virtualenv-20220712.1612
+    auto-virtualenv.el -> auto-virtualenv.el
+Created auto-virtualenv-20220712.1612.tar containing:
+  auto-virtualenv-20220712.1612/
+  auto-virtualenv-20220712.1612/auto-virtualenv-pkg.el
+  auto-virtualenv-20220712.1612/auto-virtualenv.el
+ ✓ Success:
+  2023-12-25T12:00:58+0000  auto-virtualenv-20220712.1612.entry
+  2023-12-25T12:00:58+0000  auto-virtualenv-20220712.1612.tar
+Built auto-virtualenv in 3.693s, finished at 2023-12-25T12:01:00+0000

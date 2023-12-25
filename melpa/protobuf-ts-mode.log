@@ -1,0 +1,9 @@
+Package: protobuf-ts-mode
+Fetcher: git
+Source:  https://git.ookami.one/cgit/protobuf-ts-mode
+
+Updating /mnt/store/melpa/working/protobuf-ts-mode/
+Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
+fatal: unable to access 'https://git.ookami.one/cgit/protobuf-ts-mode/': Could not resolve host: git.ookami.one
+
+Command `git fetch -f --tags origin' exited with non-zero exit-code: 128

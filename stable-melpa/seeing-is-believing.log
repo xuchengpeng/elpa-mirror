@@ -1,0 +1,18 @@
+Package: seeing-is-believing
+Fetcher: github
+Source:  https://github.com/jcinnamond/seeing-is-believing.git
+
+Updating /mnt/store/melpa/working/seeing-is-believing/
+Checking out fbbe246c0fda87bb26227bb826eebadb418a220f
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/seeing-is-believing/
+  to /tmp/seeing-is-believingbmQAxS/seeing-is-believing-20170214.1320
+    seeing-is-believing.el -> seeing-is-believing.el
+Created seeing-is-believing-20170214.1320.tar containing:
+  seeing-is-believing-20170214.1320/
+  seeing-is-believing-20170214.1320/seeing-is-believing-pkg.el
+  seeing-is-believing-20170214.1320/seeing-is-believing.el
+ ✓ Success:
+  2023-12-25T11:00:58+0000  seeing-is-believing-20170214.1320.entry
+  2023-12-25T11:00:58+0000  seeing-is-believing-20170214.1320.tar
+Built seeing-is-believing in 3.924s, finished at 2023-12-25T11:01:00+0000

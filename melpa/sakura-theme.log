@@ -1,0 +1,18 @@
+Package: sakura-theme
+Fetcher: github
+Source:  https://github.com/emacsfodder/emacs-theme-sakura.git
+
+Updating /mnt/store/melpa/working/sakura-theme/
+Checking out d78648632a94dd5354d2fed0f94fcb7aece29132
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/sakura-theme/
+  to /tmp/sakura-theme7TFjVU/sakura-theme-20220822.254
+    sakura-theme.el -> sakura-theme.el
+Created sakura-theme-20220822.254.tar containing:
+  sakura-theme-20220822.254/
+  sakura-theme-20220822.254/sakura-theme-pkg.el
+  sakura-theme-20220822.254/sakura-theme.el
+ ✓ Success:
+  2023-12-25T11:00:22+0000  sakura-theme-20220822.254.entry
+  2023-12-25T11:00:22+0000  sakura-theme-20220822.254.tar
+Built sakura-theme in 5.879s, finished at 2023-12-25T11:00:25+0000

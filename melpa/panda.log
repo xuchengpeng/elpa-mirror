@@ -1,0 +1,18 @@
+Package: panda
+Fetcher: github
+Source:  https://github.com/sebasmonia/panda.git
+
+Updating /mnt/store/melpa/working/panda/
+Checking out 3c0e3e4e91c5a7e75eacc07e9efa6e6631aa9b90
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/panda/
+  to /tmp/pandaaz6nY2/panda-20230930.2224
+    panda.el -> panda.el
+Created panda-20230930.2224.tar containing:
+  panda-20230930.2224/
+  panda-20230930.2224/panda-pkg.el
+  panda-20230930.2224/panda.el
+ ✓ Success:
+  2023-12-25T10:51:57+0000  panda-20230930.2224.entry
+  2023-12-25T10:51:57+0000  panda-20230930.2224.tar
+Built panda in 3.562s, finished at 2023-12-25T10:51:59+0000

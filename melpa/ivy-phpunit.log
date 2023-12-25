@@ -1,0 +1,11 @@
+Package: ivy-phpunit
+Fetcher: github
+Source:  https://github.com/12pt/ivy-phpunit.git
+
+Updating /mnt/store/melpa/working/ivy-phpunit/
+
+Command '' exited with non-zero exit-code: 128
+
+fatal: could not read Username for 'https://github.com': No such device or address
+
+Command exited with non-zero exit-code: 128

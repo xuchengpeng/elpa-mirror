@@ -1,0 +1,18 @@
+Package: lurk-mode
+Fetcher: github
+Source:  https://github.com/lurk-lab/lurk-emacs.git
+
+Updating /mnt/store/melpa/working/lurk-mode/
+Checking out 59a3f956944a5ddd43cfd57deeff6b647fc46554
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/lurk-mode/
+  to /tmp/lurk-modeQtY47j/lurk-mode-20230120.2226
+    lurk-mode.el -> lurk-mode.el
+Created lurk-mode-20230120.2226.tar containing:
+  lurk-mode-20230120.2226/
+  lurk-mode-20230120.2226/lurk-mode-pkg.el
+  lurk-mode-20230120.2226/lurk-mode.el
+ ✓ Success:
+  2023-12-25T10:40:20+0000  lurk-mode-20230120.2226.entry
+  2023-12-25T10:40:20+0000  lurk-mode-20230120.2226.tar
+Built lurk-mode in 3.979s, finished at 2023-12-25T10:40:21+0000

@@ -1,0 +1,20 @@
+Package: livereload
+Fetcher: github
+Source:  https://github.com/joaotavora/emacs-livereload.git
+
+Updating /mnt/store/melpa/working/livereload/
+Checking out 1e501d7e46dbd476c2c7cc9d20b5ac9d41fb1955
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/livereload/
+  to /tmp/livereloadDTzxyF/livereload-20170629.650
+    livereload.el -> livereload.el
+    livereload.js -> livereload.js
+Created livereload-20170629.650.tar containing:
+  livereload-20170629.650/
+  livereload-20170629.650/livereload-pkg.el
+  livereload-20170629.650/livereload.el
+  livereload-20170629.650/livereload.js
+ ✓ Success:
+  2023-12-25T10:39:26+0000  livereload-20170629.650.entry
+  2023-12-25T10:39:25+0000  livereload-20170629.650.tar
+Built livereload in 4.125s, finished at 2023-12-25T10:39:27+0000

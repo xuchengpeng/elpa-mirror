@@ -1,0 +1,18 @@
+Package: jsdoc
+Fetcher: github
+Source:  https://github.com/isamert/jsdoc.el.git
+
+Updating /mnt/store/melpa/working/jsdoc/
+Checking out 4efdae3b94b1bedc167625d5705daed74fcbc967
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/jsdoc/
+  to /tmp/jsdocvUpDHE/jsdoc-20230831.2205
+    jsdoc.el -> jsdoc.el
+Created jsdoc-20230831.2205.tar containing:
+  jsdoc-20230831.2205/
+  jsdoc-20230831.2205/jsdoc-pkg.el
+  jsdoc-20230831.2205/jsdoc.el
+ ✓ Success:
+  2023-12-25T10:36:25+0000  jsdoc-20230831.2205.entry
+  2023-12-25T10:36:25+0000  jsdoc-20230831.2205.tar
+Built jsdoc in 3.669s, finished at 2023-12-25T10:36:27+0000

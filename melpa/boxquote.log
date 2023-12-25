@@ -1,0 +1,18 @@
+Package: boxquote
+Fetcher: github
+Source:  https://github.com/davep/boxquote.el.git
+
+Updating /mnt/store/melpa/working/boxquote/
+Checking out 8d6c307ab3b783c5042065d0ae54961adb506484
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/boxquote/
+  to /tmp/boxquoteB225Qp/boxquote-20231216.852
+    boxquote.el -> boxquote.el
+Created boxquote-20231216.852.tar containing:
+  boxquote-20231216.852/
+  boxquote-20231216.852/boxquote-pkg.el
+  boxquote-20231216.852/boxquote.el
+ ✓ Success:
+  2023-12-25T12:03:07+0000  boxquote-20231216.852.entry
+  2023-12-25T12:03:07+0000  boxquote-20231216.852.tar
+Built boxquote in 5.265s, finished at 2023-12-25T12:03:09+0000

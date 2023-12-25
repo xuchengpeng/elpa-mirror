@@ -1,0 +1,18 @@
+Package: shell-current-directory
+Fetcher: github
+Source:  https://github.com/metaperl/shell-current-directory.git
+
+Updating /mnt/store/melpa/working/shell-current-directory/
+Checking out bf843771bf9a4aa05e054ade799eb8862f3be89a
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/shell-current-directory/
+  to /tmp/shell-current-directoryYOqwIb/shell-current-directory-20140101.2354
+    shell-current-directory.el -> shell-current-directory.el
+Created shell-current-directory-20140101.2354.tar containing:
+  shell-current-directory-20140101.2354/
+  shell-current-directory-20140101.2354/shell-current-directory-pkg.el
+  shell-current-directory-20140101.2354/shell-current-directory.el
+ ✓ Success:
+  2023-12-25T11:01:34+0000  shell-current-directory-20140101.2354.entry
+  2023-12-25T11:01:34+0000  shell-current-directory-20140101.2354.tar
+Built shell-current-directory in 3.940s, finished at 2023-12-25T11:01:35+0000

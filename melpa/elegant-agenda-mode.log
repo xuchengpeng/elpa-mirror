@@ -1,0 +1,18 @@
+Package: elegant-agenda-mode
+Fetcher: github
+Source:  https://github.com/justinbarclay/elegant-agenda-mode.git
+
+Updating /mnt/store/melpa/working/elegant-agenda-mode/
+Checking out 5cbc688584ba103ea3be7d7b30e5d94e52f59eb6
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/elegant-agenda-mode/
+  to /tmp/elegant-agenda-modeFewPqz/elegant-agenda-mode-20210115.353
+    elegant-agenda-mode.el -> elegant-agenda-mode.el
+Created elegant-agenda-mode-20210115.353.tar containing:
+  elegant-agenda-mode-20210115.353/
+  elegant-agenda-mode-20210115.353/elegant-agenda-mode-pkg.el
+  elegant-agenda-mode-20210115.353/elegant-agenda-mode.el
+ ✓ Success:
+  2023-12-25T12:14:49+0000  elegant-agenda-mode-20210115.353.entry
+  2023-12-25T12:14:49+0000  elegant-agenda-mode-20210115.353.tar
+Built elegant-agenda-mode in 3.421s, finished at 2023-12-25T12:14:51+0000

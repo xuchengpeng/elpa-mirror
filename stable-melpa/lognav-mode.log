@@ -1,0 +1,10 @@
+Package: lognav-mode
+Fetcher: hg
+Source:  https://hg.osdn.net/view/lognav-mode/lognav-mode
+
+Updating /mnt/store/melpa/working/lognav-mode/
+Command `hg pull' exited with non-zero exit-code: 255
+pulling from https://hg.osdn.net/view/lognav-mode/lognav-mode
+abort: error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1123)
+
+Command `hg pull' exited with non-zero exit-code: 255

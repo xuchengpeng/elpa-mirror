@@ -1,0 +1,18 @@
+Package: charmap
+Fetcher: github
+Source:  https://github.com/lateau/charmap.git
+
+Updating /mnt/store/melpa/working/charmap/
+Checking out feac50b87d2a596c5e5b7b82b79ddd65b6dedd8c
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/charmap/
+  to /tmp/charmapErsPoi/charmap-20200616.1418
+    charmap.el -> charmap.el
+Created charmap-20200616.1418.tar containing:
+  charmap-20200616.1418/
+  charmap-20200616.1418/charmap-pkg.el
+  charmap-20200616.1418/charmap.el
+ ✓ Success:
+  2023-12-25T12:04:45+0000  charmap-20200616.1418.entry
+  2023-12-25T12:04:44+0000  charmap-20200616.1418.tar
+Built charmap in 3.921s, finished at 2023-12-25T12:04:46+0000

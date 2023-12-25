@@ -1,0 +1,18 @@
+Package: exwm-modeline
+Fetcher: github
+Source:  https://github.com/SqrtMinusOne/exwm-modeline.git
+
+Updating /mnt/store/melpa/working/exwm-modeline/
+Checking out 852a88a58714e3e59675b79b185f036f7b0300e8
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/exwm-modeline/
+  to /tmp/exwm-modelineMcyFJb/exwm-modeline-20230331.1747
+    exwm-modeline.el -> exwm-modeline.el
+Created exwm-modeline-20230331.1747.tar containing:
+  exwm-modeline-20230331.1747/
+  exwm-modeline-20230331.1747/exwm-modeline-pkg.el
+  exwm-modeline-20230331.1747/exwm-modeline.el
+ ✓ Success:
+  2023-12-25T12:18:58+0000  exwm-modeline-20230331.1747.entry
+  2023-12-25T12:18:58+0000  exwm-modeline-20230331.1747.tar
+Built exwm-modeline in 3.516s, finished at 2023-12-25T12:18:59+0000

@@ -1,0 +1,18 @@
+Package: one
+Fetcher: github
+Source:  https://github.com/tonyaldon/one.el.git
+
+Updating /mnt/store/melpa/working/one/
+Checking out fa52cf0144f89eabee06f598b021a37087c69670
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/one/
+  to /tmp/one8VfTn5/one-20231205.1423
+    one.el -> one.el
+Created one-20231205.1423.tar containing:
+  one-20231205.1423/
+  one-20231205.1423/one-pkg.el
+  one-20231205.1423/one.el
+ ✓ Success:
+  2023-12-25T10:47:46+0000  one-20231205.1423.entry
+  2023-12-25T10:47:46+0000  one-20231205.1423.tar
+Built one in 4.102s, finished at 2023-12-25T10:47:48+0000

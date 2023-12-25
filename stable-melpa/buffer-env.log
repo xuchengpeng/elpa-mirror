@@ -1,0 +1,18 @@
+Package: buffer-env
+Fetcher: github
+Source:  https://github.com/astoff/buffer-env.git
+
+Updating /mnt/store/melpa/working/buffer-env/
+Checking out 8ba30f5b7df3a219e792377b1d7163a536896a4b
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/buffer-env/
+  to /tmp/buffer-envAWTTuI/buffer-env-20231028.1617
+    buffer-env.el -> buffer-env.el
+Created buffer-env-20231028.1617.tar containing:
+  buffer-env-20231028.1617/
+  buffer-env-20231028.1617/buffer-env-pkg.el
+  buffer-env-20231028.1617/buffer-env.el
+ ✓ Success:
+  2023-12-25T12:03:24+0000  buffer-env-20231028.1617.entry
+  2023-12-25T12:03:24+0000  buffer-env-20231028.1617.tar
+Built buffer-env in 4.483s, finished at 2023-12-25T12:03:26+0000

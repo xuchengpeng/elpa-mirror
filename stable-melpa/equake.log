@@ -1,0 +1,18 @@
+Package: equake
+Fetcher: gitlab
+Source:  https://gitlab.com/emacsomancer/equake.git
+
+Updating /mnt/store/melpa/working/equake/
+Checking out 7aa2e1715e6ea286b08bb446d2d9915afa0fdf03
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/equake/
+  to /tmp/equakeudmHGd/equake-20220627.2248
+    equake.el -> equake.el
+Created equake-20220627.2248.tar containing:
+  equake-20220627.2248/
+  equake-20220627.2248/equake-pkg.el
+  equake-20220627.2248/equake.el
+ ✓ Success:
+  2023-12-25T12:16:30+0000  equake-20220627.2248.entry
+  2023-12-25T12:16:29+0000  equake-20220627.2248.tar
+Built equake in 4.012s, finished at 2023-12-25T12:16:31+0000

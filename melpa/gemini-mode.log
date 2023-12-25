@@ -1,0 +1,9 @@
+Package: gemini-mode
+Fetcher: git
+Source:  https://git.carcosa.net/jmcbray/gemini.el.git
+
+Updating /mnt/store/melpa/working/gemini-mode/
+Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
+fatal: unable to access 'https://git.carcosa.net/jmcbray/gemini.el.git/': Failed to connect to git.carcosa.net port 443: No route to host
+
+Command `git fetch -f --tags origin' exited with non-zero exit-code: 128

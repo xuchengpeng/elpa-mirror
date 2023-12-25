@@ -1,0 +1,34 @@
+Package: epkg
+Fetcher: github
+Source:  https://github.com/emacscollective/epkg.git
+
+Updating /mnt/store/melpa/working/epkg/
+Checking out ad290b27eca53a4a8d69f5d21c681853e4985419
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/epkg/
+  to /tmp/epkgtKwm4u/epkg-20231218.2236
+  ! lisp/epkg-desc.el -> epkg-desc.el
+  ! lisp/epkg-elpa.el -> epkg-elpa.el
+  ! lisp/epkg-list.el -> epkg-list.el
+  ! lisp/epkg-org.el -> epkg-org.el
+  ! lisp/epkg-schemata.el -> epkg-schemata.el
+  ! lisp/epkg-utils.el -> epkg-utils.el
+  ! lisp/epkg.el -> epkg.el
+  ! docs/epkg.texi -> epkg.texi
+Generating /tmp/epkgtKwm4u/epkg-20231218.2236/epkg.info
+Created epkg-20231218.2236.tar containing:
+  epkg-20231218.2236/
+  epkg-20231218.2236/dir
+  epkg-20231218.2236/epkg-desc.el
+  epkg-20231218.2236/epkg-elpa.el
+  epkg-20231218.2236/epkg-list.el
+  epkg-20231218.2236/epkg-org.el
+  epkg-20231218.2236/epkg-pkg.el
+  epkg-20231218.2236/epkg-schemata.el
+  epkg-20231218.2236/epkg-utils.el
+  epkg-20231218.2236/epkg.el
+  epkg-20231218.2236/epkg.info
+ ✓ Success:
+  2023-12-25T12:16:27+0000  epkg-20231218.2236.entry
+  2023-12-25T12:16:27+0000  epkg-20231218.2236.tar
+Built epkg in 6.668s, finished at 2023-12-25T12:16:28+0000

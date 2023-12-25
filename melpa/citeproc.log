@@ -1,0 +1,68 @@
+Package: citeproc
+Fetcher: github
+Source:  https://github.com/andras-simonyi/citeproc-el.git
+
+Updating /mnt/store/melpa/working/citeproc/
+Checking out 9fe5f28b274eda5212fe1936c1b58184b63cca6d
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/citeproc/
+  to /tmp/citeprocoMnhUs/citeproc-20231216.1221
+    citeproc-biblatex.el -> citeproc-biblatex.el
+    citeproc-bibtex.el -> citeproc-bibtex.el
+    citeproc-choose.el -> citeproc-choose.el
+    citeproc-cite.el -> citeproc-cite.el
+    citeproc-context.el -> citeproc-context.el
+    citeproc-date.el -> citeproc-date.el
+    citeproc-disamb.el -> citeproc-disamb.el
+    citeproc-formatters.el -> citeproc-formatters.el
+    citeproc-generic-elements.el -> citeproc-generic-elements.el
+    citeproc-itemdata.el -> citeproc-itemdata.el
+    citeproc-itemgetters.el -> citeproc-itemgetters.el
+    citeproc-lib.el -> citeproc-lib.el
+    citeproc-locale.el -> citeproc-locale.el
+    citeproc-macro.el -> citeproc-macro.el
+    citeproc-name.el -> citeproc-name.el
+    citeproc-number.el -> citeproc-number.el
+    citeproc-prange.el -> citeproc-prange.el
+    citeproc-proc.el -> citeproc-proc.el
+    citeproc-rt.el -> citeproc-rt.el
+    citeproc-s.el -> citeproc-s.el
+    citeproc-sort.el -> citeproc-sort.el
+    citeproc-style.el -> citeproc-style.el
+    citeproc-subbibs.el -> citeproc-subbibs.el
+    citeproc-term.el -> citeproc-term.el
+    citeproc-test-human.el -> citeproc-test-human.el
+    citeproc.el -> citeproc.el
+Created citeproc-20231216.1221.tar containing:
+  citeproc-20231216.1221/
+  citeproc-20231216.1221/citeproc-biblatex.el
+  citeproc-20231216.1221/citeproc-bibtex.el
+  citeproc-20231216.1221/citeproc-choose.el
+  citeproc-20231216.1221/citeproc-cite.el
+  citeproc-20231216.1221/citeproc-context.el
+  citeproc-20231216.1221/citeproc-date.el
+  citeproc-20231216.1221/citeproc-disamb.el
+  citeproc-20231216.1221/citeproc-formatters.el
+  citeproc-20231216.1221/citeproc-generic-elements.el
+  citeproc-20231216.1221/citeproc-itemdata.el
+  citeproc-20231216.1221/citeproc-itemgetters.el
+  citeproc-20231216.1221/citeproc-lib.el
+  citeproc-20231216.1221/citeproc-locale.el
+  citeproc-20231216.1221/citeproc-macro.el
+  citeproc-20231216.1221/citeproc-name.el
+  citeproc-20231216.1221/citeproc-number.el
+  citeproc-20231216.1221/citeproc-pkg.el
+  citeproc-20231216.1221/citeproc-prange.el
+  citeproc-20231216.1221/citeproc-proc.el
+  citeproc-20231216.1221/citeproc-rt.el
+  citeproc-20231216.1221/citeproc-s.el
+  citeproc-20231216.1221/citeproc-sort.el
+  citeproc-20231216.1221/citeproc-style.el
+  citeproc-20231216.1221/citeproc-subbibs.el
+  citeproc-20231216.1221/citeproc-term.el
+  citeproc-20231216.1221/citeproc-test-human.el
+  citeproc-20231216.1221/citeproc.el
+ ✓ Success:
+  2023-12-25T12:05:20+0000  citeproc-20231216.1221.entry
+  2023-12-25T12:05:20+0000  citeproc-20231216.1221.tar
+Built citeproc in 4.322s, finished at 2023-12-25T12:05:22+0000

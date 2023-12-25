@@ -1,0 +1,18 @@
+Package: async-backup
+Fetcher: codeberg
+Source:  https://codeberg.org/contrapunctus/async-backup.git
+
+Updating /mnt/store/melpa/working/async-backup/
+Checking out 6ddb39fe77d66cdef48b87cb0d0554ad7d132308
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/async-backup/
+  to /tmp/async-backupgKtXSG/async-backup-20220131.1438
+    async-backup.el -> async-backup.el
+Created async-backup-20220131.1438.tar containing:
+  async-backup-20220131.1438/
+  async-backup-20220131.1438/async-backup-pkg.el
+  async-backup-20220131.1438/async-backup.el
+ ✓ Success:
+  2023-12-25T12:00:22+0000  async-backup-20220131.1438.entry
+  2023-12-25T12:00:22+0000  async-backup-20220131.1438.tar
+Built async-backup in 4.999s, finished at 2023-12-25T12:00:24+0000

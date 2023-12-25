@@ -1,0 +1,18 @@
+Package: org2issue
+Fetcher: github
+Source:  https://github.com/lujun9972/org2issue.git
+
+Updating /mnt/store/melpa/working/org2issue/
+Checking out 910b98c858762fd14b11d261626c5e979dde0833
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/org2issue/
+  to /tmp/org2issueD9OtK3/org2issue-20190531.941
+    org2issue.el -> org2issue.el
+Created org2issue-20190531.941.tar containing:
+  org2issue-20190531.941/
+  org2issue-20190531.941/org2issue-pkg.el
+  org2issue-20190531.941/org2issue.el
+ ✓ Success:
+  2023-12-25T10:50:28+0000  org2issue-20190531.941.entry
+  2023-12-25T10:50:28+0000  org2issue-20190531.941.tar
+Built org2issue in 3.684s, finished at 2023-12-25T10:50:30+0000

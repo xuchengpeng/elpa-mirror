@@ -1,0 +1,18 @@
+Package: pfuture
+Fetcher: github
+Source:  https://github.com/Alexander-Miller/pfuture.git
+
+Updating /mnt/store/melpa/working/pfuture/
+Checking out 19b53aebbc0f2da31de6326c495038901bffb73c
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/pfuture/
+  to /tmp/pfutureL23BDd/pfuture-20220913.1401
+    pfuture.el -> pfuture.el
+Created pfuture-20220913.1401.tar containing:
+  pfuture-20220913.1401/
+  pfuture-20220913.1401/pfuture-pkg.el
+  pfuture-20220913.1401/pfuture.el
+ ✓ Success:
+  2023-12-25T10:53:44+0000  pfuture-20220913.1401.entry
+  2023-12-25T10:53:44+0000  pfuture-20220913.1401.tar
+Built pfuture in 3.933s, finished at 2023-12-25T10:53:45+0000

@@ -1,0 +1,18 @@
+Package: challenger-deep-theme
+Fetcher: github
+Source:  https://github.com/challenger-deep-theme/emacs.git
+
+Updating /mnt/store/melpa/working/challenger-deep-theme/
+Checking out 1afd5787374c2bf3bfb46beb18e64d5677c07366
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/challenger-deep-theme/
+  to /tmp/challenger-deep-themero0Doo/challenger-deep-theme-20231218.1042
+    challenger-deep-theme.el -> challenger-deep-theme.el
+Created challenger-deep-theme-20231218.1042.tar containing:
+  challenger-deep-theme-20231218.1042/
+  challenger-deep-theme-20231218.1042/challenger-deep-theme-pkg.el
+  challenger-deep-theme-20231218.1042/challenger-deep-theme.el
+ ✓ Success:
+  2023-12-25T12:04:40+0000  challenger-deep-theme-20231218.1042.entry
+  2023-12-25T12:04:40+0000  challenger-deep-theme-20231218.1042.tar
+Built challenger-deep-theme in 3.847s, finished at 2023-12-25T12:04:42+0000

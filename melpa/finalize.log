@@ -1,0 +1,21 @@
+Package: finalize
+Fetcher: github
+Source:  https://github.com/skeeto/elisp-finalize.git
+
+Updating /mnt/store/melpa/working/finalize/
+Checking out 0f7d47c4d50f1c76fc3b43bfc2d4886dd3e8ca27
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/finalize/
+  to /tmp/finalizeCwFsvT/finalize-20170418.1945
+    finalizable.el -> finalizable.el
+    finalize-pkg.el -> finalize-pkg.el
+    finalize.el -> finalize.el
+Created finalize-20170418.1945.tar containing:
+  finalize-20170418.1945/
+  finalize-20170418.1945/finalizable.el
+  finalize-20170418.1945/finalize-pkg.el
+  finalize-20170418.1945/finalize.el
+ ✓ Success:
+  2023-12-25T12:19:37+0000  finalize-20170418.1945.entry
+  2023-12-25T12:19:37+0000  finalize-20170418.1945.tar
+Built finalize in 3.907s, finished at 2023-12-25T12:19:39+0000

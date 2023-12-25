@@ -1,0 +1,19 @@
+Package: buffer-sets
+Fetcher: sourcehut
+Source:  https://git.sr.ht/~swflint/buffer-sets
+
+Updating /mnt/store/melpa/working/buffer-sets/
+Checking out 951e894ef96d533324f7f24c2a0def45ae89d558
+Warning: buffer-sets :files spec is equivalent to the default
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/buffer-sets/
+  to /tmp/buffer-setsmX2wGe/buffer-sets-20230319.1822
+    buffer-sets.el -> buffer-sets.el
+Created buffer-sets-20230319.1822.tar containing:
+  buffer-sets-20230319.1822/
+  buffer-sets-20230319.1822/buffer-sets-pkg.el
+  buffer-sets-20230319.1822/buffer-sets.el
+ ✓ Success:
+  2023-12-25T12:03:29+0000  buffer-sets-20230319.1822.entry
+  2023-12-25T12:03:29+0000  buffer-sets-20230319.1822.tar
+Built buffer-sets in 3.977s, finished at 2023-12-25T12:03:30+0000

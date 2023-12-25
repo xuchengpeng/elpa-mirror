@@ -1,0 +1,55 @@
+Package: vhdl-ext
+Fetcher: github
+Source:  https://github.com/gmlarumbe/vhdl-ext.git
+
+Updating /mnt/store/melpa/working/vhdl-ext/
+Checking out 2cc1bce731ef6075638b12afc4c9b079644940fd
+Warning: vhdl-ext :files spec is equivalent to the default
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/vhdl-ext/
+  to /tmp/vhdl-extWAjC6g/vhdl-ext-20231222.1305
+    vhdl-ext-beautify.el -> vhdl-ext-beautify.el
+    vhdl-ext-capf.el -> vhdl-ext-capf.el
+    vhdl-ext-compile.el -> vhdl-ext-compile.el
+    vhdl-ext-eglot.el -> vhdl-ext-eglot.el
+    vhdl-ext-flycheck.el -> vhdl-ext-flycheck.el
+    vhdl-ext-font-lock.el -> vhdl-ext-font-lock.el
+    vhdl-ext-hierarchy.el -> vhdl-ext-hierarchy.el
+    vhdl-ext-hs.el -> vhdl-ext-hs.el
+    vhdl-ext-imenu.el -> vhdl-ext-imenu.el
+    vhdl-ext-lsp.el -> vhdl-ext-lsp.el
+    vhdl-ext-nav.el -> vhdl-ext-nav.el
+    vhdl-ext-ports.el -> vhdl-ext-ports.el
+    vhdl-ext-tags.el -> vhdl-ext-tags.el
+    vhdl-ext-template.el -> vhdl-ext-template.el
+    vhdl-ext-time-stamp.el -> vhdl-ext-time-stamp.el
+    vhdl-ext-utils.el -> vhdl-ext-utils.el
+    vhdl-ext-which-func.el -> vhdl-ext-which-func.el
+    vhdl-ext-xref.el -> vhdl-ext-xref.el
+    vhdl-ext.el -> vhdl-ext.el
+Created vhdl-ext-20231222.1305.tar containing:
+  vhdl-ext-20231222.1305/
+  vhdl-ext-20231222.1305/vhdl-ext-beautify.el
+  vhdl-ext-20231222.1305/vhdl-ext-capf.el
+  vhdl-ext-20231222.1305/vhdl-ext-compile.el
+  vhdl-ext-20231222.1305/vhdl-ext-eglot.el
+  vhdl-ext-20231222.1305/vhdl-ext-flycheck.el
+  vhdl-ext-20231222.1305/vhdl-ext-font-lock.el
+  vhdl-ext-20231222.1305/vhdl-ext-hierarchy.el
+  vhdl-ext-20231222.1305/vhdl-ext-hs.el
+  vhdl-ext-20231222.1305/vhdl-ext-imenu.el
+  vhdl-ext-20231222.1305/vhdl-ext-lsp.el
+  vhdl-ext-20231222.1305/vhdl-ext-nav.el
+  vhdl-ext-20231222.1305/vhdl-ext-pkg.el
+  vhdl-ext-20231222.1305/vhdl-ext-ports.el
+  vhdl-ext-20231222.1305/vhdl-ext-tags.el
+  vhdl-ext-20231222.1305/vhdl-ext-template.el
+  vhdl-ext-20231222.1305/vhdl-ext-time-stamp.el
+  vhdl-ext-20231222.1305/vhdl-ext-utils.el
+  vhdl-ext-20231222.1305/vhdl-ext-which-func.el
+  vhdl-ext-20231222.1305/vhdl-ext-xref.el
+  vhdl-ext-20231222.1305/vhdl-ext.el
+ ✓ Success:
+  2023-12-25T11:10:23+0000  vhdl-ext-20231222.1305.entry
+  2023-12-25T11:10:23+0000  vhdl-ext-20231222.1305.tar
+Built vhdl-ext in 6.886s, finished at 2023-12-25T11:10:26+0000

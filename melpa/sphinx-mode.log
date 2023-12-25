@@ -1,0 +1,21 @@
+Package: sphinx-mode
+Fetcher: github
+Source:  https://github.com/Fuco1/sphinx-mode.git
+
+Updating /mnt/store/melpa/working/sphinx-mode/
+Checking out 77ca51adf9ee877f3a8f43e744f59e650772f121
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/sphinx-mode/
+  to /tmp/sphinx-moderJEj5l/sphinx-mode-20220417.1552
+    sphinx-mode-pkg.el -> sphinx-mode-pkg.el
+    sphinx-mode.el -> sphinx-mode.el
+    sphinx-src.el -> sphinx-src.el
+Created sphinx-mode-20220417.1552.tar containing:
+  sphinx-mode-20220417.1552/
+  sphinx-mode-20220417.1552/sphinx-mode-pkg.el
+  sphinx-mode-20220417.1552/sphinx-mode.el
+  sphinx-mode-20220417.1552/sphinx-src.el
+ ✓ Success:
+  2023-12-25T11:04:02+0000  sphinx-mode-20220417.1552.entry
+  2023-12-25T11:04:02+0000  sphinx-mode-20220417.1552.tar
+Built sphinx-mode in 4.464s, finished at 2023-12-25T11:04:04+0000

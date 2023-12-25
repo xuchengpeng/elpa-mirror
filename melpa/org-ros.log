@@ -1,0 +1,18 @@
+Package: org-ros
+Fetcher: github
+Source:  https://github.com/LionyxML/ros.git
+
+Updating /mnt/store/melpa/working/org-ros/
+Checking out 70e0f33ee027ca1dce68351ad14a9e47a452fc17
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/org-ros/
+  to /tmp/org-rostY2DTb/org-ros-20220320.1705
+    org-ros.el -> org-ros.el
+Created org-ros-20220320.1705.tar containing:
+  org-ros-20220320.1705/
+  org-ros-20220320.1705/org-ros-pkg.el
+  org-ros-20220320.1705/org-ros.el
+ ✓ Success:
+  2023-12-25T10:49:50+0000  org-ros-20220320.1705.entry
+  2023-12-25T10:49:49+0000  org-ros-20220320.1705.tar
+Built org-ros in 3.998s, finished at 2023-12-25T10:49:51+0000

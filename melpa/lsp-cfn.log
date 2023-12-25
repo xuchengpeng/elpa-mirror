@@ -1,0 +1,26 @@
+Package: lsp-cfn
+Fetcher: github
+Source:  https://github.com/LaurenceWarne/lsp-cfn.el.git
+
+Updating /mnt/store/melpa/working/lsp-cfn/
+Checking out afef283ae27dc7dfbec997982ba5dc0e062f0a03
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/lsp-cfn/
+  to /tmp/lsp-cfnvNU3Al/lsp-cfn-20230701.1533
+    lsp-cfn.el -> lsp-cfn.el
+    snippets => snippets
+Created lsp-cfn-20230701.1533.tar containing:
+  lsp-cfn-20230701.1533/
+  lsp-cfn-20230701.1533/lsp-cfn-pkg.el
+  lsp-cfn-20230701.1533/lsp-cfn.el
+  lsp-cfn-20230701.1533/snippets/
+  lsp-cfn-20230701.1533/snippets/js-mode/
+  lsp-cfn-20230701.1533/snippets/js-mode/aws
+  lsp-cfn-20230701.1533/snippets/js-mode/sam
+  lsp-cfn-20230701.1533/snippets/yaml-mode/
+  lsp-cfn-20230701.1533/snippets/yaml-mode/aws
+  lsp-cfn-20230701.1533/snippets/yaml-mode/sam
+ ✓ Success:
+  2023-12-25T10:39:54+0000  lsp-cfn-20230701.1533.entry
+  2023-12-25T10:39:54+0000  lsp-cfn-20230701.1533.tar
+Built lsp-cfn in 4.226s, finished at 2023-12-25T10:39:56+0000

@@ -1,0 +1,34 @@
+Package: citar
+Fetcher: github
+Source:  https://github.com/emacs-citar/citar.git
+
+Updating /mnt/store/melpa/working/citar/
+Checking out 8115bed9d4ce0b7a0765de6fbe6b4efdad23b89e
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/citar/
+  to /tmp/citarR5m1P5/citar-20231112.1605
+    citar-cache.el -> citar-cache.el
+    citar-capf.el -> citar-capf.el
+    citar-citeproc.el -> citar-citeproc.el
+    citar-file.el -> citar-file.el
+    citar-format.el -> citar-format.el
+    citar-latex.el -> citar-latex.el
+    citar-markdown.el -> citar-markdown.el
+    citar-org.el -> citar-org.el
+    citar.el -> citar.el
+Created citar-20231112.1605.tar containing:
+  citar-20231112.1605/
+  citar-20231112.1605/citar-cache.el
+  citar-20231112.1605/citar-capf.el
+  citar-20231112.1605/citar-citeproc.el
+  citar-20231112.1605/citar-file.el
+  citar-20231112.1605/citar-format.el
+  citar-20231112.1605/citar-latex.el
+  citar-20231112.1605/citar-markdown.el
+  citar-20231112.1605/citar-org.el
+  citar-20231112.1605/citar-pkg.el
+  citar-20231112.1605/citar.el
+ ✓ Success:
+  2023-12-25T12:05:15+0000  citar-20231112.1605.entry
+  2023-12-25T12:05:15+0000  citar-20231112.1605.tar
+Built citar in 4.084s, finished at 2023-12-25T12:05:17+0000

@@ -1,0 +1,10 @@
+Package: multi-project
+Fetcher: hg
+Source:  https://hg.osdn.net/view/multi-project/multi-project
+
+Updating /mnt/store/melpa/working/multi-project/
+Command `hg pull' exited with non-zero exit-code: 255
+pulling from https://hg.osdn.net/view/multi-project/multi-project
+abort: error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1123)
+
+Command `hg pull' exited with non-zero exit-code: 255

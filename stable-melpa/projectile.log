@@ -1,0 +1,18 @@
+Package: projectile
+Fetcher: github
+Source:  https://github.com/bbatsov/projectile.git
+
+Updating /mnt/store/melpa/working/projectile/
+Checking out e0fc464d1e41c8d7267636ea2b7330491087c19d
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/projectile/
+  to /tmp/projectilehgtetY/projectile-20231130.1934
+    projectile.el -> projectile.el
+Created projectile-20231130.1934.tar containing:
+  projectile-20231130.1934/
+  projectile-20231130.1934/projectile-pkg.el
+  projectile-20231130.1934/projectile.el
+ ✓ Success:
+  2023-12-25T10:56:01+0000  projectile-20231130.1934.entry
+  2023-12-25T10:56:01+0000  projectile-20231130.1934.tar
+Built projectile in 4.120s, finished at 2023-12-25T10:56:03+0000

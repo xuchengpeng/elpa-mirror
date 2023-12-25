@@ -1,0 +1,18 @@
+Package: free-keys
+Fetcher: github
+Source:  https://github.com/Fuco1/free-keys.git
+
+Updating /mnt/store/melpa/working/free-keys/
+Checking out 7348ce68192871b8a69b687ec124d9f816d493ca
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/free-keys/
+  to /tmp/free-keyskHa1lv/free-keys-20211116.1501
+    free-keys.el -> free-keys.el
+Created free-keys-20211116.1501.tar containing:
+  free-keys-20211116.1501/
+  free-keys-20211116.1501/free-keys-pkg.el
+  free-keys-20211116.1501/free-keys.el
+ ✓ Success:
+  2023-12-25T12:23:19+0000  free-keys-20211116.1501.entry
+  2023-12-25T12:23:19+0000  free-keys-20211116.1501.tar
+Built free-keys in 3.598s, finished at 2023-12-25T12:23:21+0000

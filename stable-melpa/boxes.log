@@ -1,0 +1,18 @@
+Package: boxes
+Fetcher: github
+Source:  https://github.com/ascii-boxes/boxes.git
+
+Updating /mnt/store/melpa/working/boxes/
+Checking out 77d02890a749a30bc228c848ec1d4bc9b09ac6c0
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/boxes/
+  to /tmp/boxesZxa5Wh/boxes-20230326.1932
+  ! doc/boxes.el -> boxes.el
+Created boxes-20230326.1932.tar containing:
+  boxes-20230326.1932/
+  boxes-20230326.1932/boxes-pkg.el
+  boxes-20230326.1932/boxes.el
+ ✓ Success:
+  2023-12-25T12:03:07+0000  boxes-20230326.1932.entry
+  2023-12-25T12:03:07+0000  boxes-20230326.1932.tar
+Built boxes in 6.315s, finished at 2023-12-25T12:03:09+0000

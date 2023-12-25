@@ -1,0 +1,23 @@
+Package: burly
+Fetcher: github
+Source:  https://github.com/alphapapa/burly.el.git
+
+Updating /mnt/store/melpa/working/burly/
+Checking out 6626df0c2054cb0662bf113ba4cbad641b588d0f
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/burly/
+  to /tmp/burlywWUGgS/burly-20231218.1045
+    burly-tabs.el -> burly-tabs.el
+    burly.el -> burly.el
+    burly.info -> burly.info
+Created burly-20231218.1045.tar containing:
+  burly-20231218.1045/
+  burly-20231218.1045/burly-pkg.el
+  burly-20231218.1045/burly-tabs.el
+  burly-20231218.1045/burly.el
+  burly-20231218.1045/burly.info
+  burly-20231218.1045/dir
+ ✓ Success:
+  2023-12-25T12:03:37+0000  burly-20231218.1045.entry
+  2023-12-25T12:03:37+0000  burly-20231218.1045.tar
+Built burly in 4.025s, finished at 2023-12-25T12:03:39+0000

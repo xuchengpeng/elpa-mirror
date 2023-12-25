@@ -1,0 +1,18 @@
+Package: flatland-black-theme
+Fetcher: github
+Source:  https://github.com/emacsfodder/emacs-flatland-black-theme.git
+
+Updating /mnt/store/melpa/working/flatland-black-theme/
+Checking out 348c5d5fe615e6ea13cadc17f046e506e789ce07
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/flatland-black-theme/
+  to /tmp/flatland-black-themePQDQvE/flatland-black-theme-20170808.1312
+    flatland-black-theme.el -> flatland-black-theme.el
+Created flatland-black-theme-20170808.1312.tar containing:
+  flatland-black-theme-20170808.1312/
+  flatland-black-theme-20170808.1312/flatland-black-theme-pkg.el
+  flatland-black-theme-20170808.1312/flatland-black-theme.el
+ ✓ Success:
+  2023-12-25T12:20:09+0000  flatland-black-theme-20170808.1312.entry
+  2023-12-25T12:20:09+0000  flatland-black-theme-20170808.1312.tar
+Built flatland-black-theme in 6.418s, finished at 2023-12-25T12:20:12+0000

@@ -1,0 +1,42 @@
+Package: hyperdrive
+Fetcher: sourcehut
+Source:  https://git.sr.ht/~ushin/hyperdrive.el
+
+Updating /mnt/store/melpa/working/hyperdrive/
+Checking out 8411cd13cea7f4183eb6ae7352af4baba13740ca
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/hyperdrive/
+  to /tmp/hyperdriveuPyQzc/hyperdrive-20231217.1523
+    hyperdrive-describe.el -> hyperdrive-describe.el
+    hyperdrive-diff.el -> hyperdrive-diff.el
+    hyperdrive-dir.el -> hyperdrive-dir.el
+    hyperdrive-ewoc.el -> hyperdrive-ewoc.el
+    hyperdrive-history.el -> hyperdrive-history.el
+    hyperdrive-lib.el -> hyperdrive-lib.el
+    hyperdrive-menu.el -> hyperdrive-menu.el
+    hyperdrive-mirror.el -> hyperdrive-mirror.el
+    hyperdrive-org.el -> hyperdrive-org.el
+    hyperdrive-vars.el -> hyperdrive-vars.el
+    hyperdrive.el -> hyperdrive.el
+  ! doc/hyperdrive.texi -> hyperdrive.texi
+Generating /tmp/hyperdriveuPyQzc/hyperdrive-20231217.1523/hyperdrive.info
+Created hyperdrive-20231217.1523.tar containing:
+  hyperdrive-20231217.1523/
+  hyperdrive-20231217.1523/dir
+  hyperdrive-20231217.1523/hyperdrive-describe.el
+  hyperdrive-20231217.1523/hyperdrive-diff.el
+  hyperdrive-20231217.1523/hyperdrive-dir.el
+  hyperdrive-20231217.1523/hyperdrive-ewoc.el
+  hyperdrive-20231217.1523/hyperdrive-history.el
+  hyperdrive-20231217.1523/hyperdrive-lib.el
+  hyperdrive-20231217.1523/hyperdrive-menu.el
+  hyperdrive-20231217.1523/hyperdrive-mirror.el
+  hyperdrive-20231217.1523/hyperdrive-org.el
+  hyperdrive-20231217.1523/hyperdrive-pkg.el
+  hyperdrive-20231217.1523/hyperdrive-vars.el
+  hyperdrive-20231217.1523/hyperdrive.el
+  hyperdrive-20231217.1523/hyperdrive.info
+ ✓ Success:
+  2023-12-25T10:33:01+0000  hyperdrive-20231217.1523.entry
+  2023-12-25T10:33:00+0000  hyperdrive-20231217.1523.tar
+Built hyperdrive in 9.576s, finished at 2023-12-25T10:33:02+0000

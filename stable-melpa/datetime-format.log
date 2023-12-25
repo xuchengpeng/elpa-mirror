@@ -1,0 +1,18 @@
+Package: datetime-format
+Fetcher: github
+Source:  https://github.com/emacs-php/emacs-datetime.git
+
+Updating /mnt/store/melpa/working/datetime-format/
+Checking out e6427538b547cbe02e1bd6ed4b765c73620bdae8
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/datetime-format/
+  to /tmp/datetime-formatVjvCfi/datetime-format-20160612.1715
+    datetime-format.el -> datetime-format.el
+Created datetime-format-20160612.1715.tar containing:
+  datetime-format-20160612.1715/
+  datetime-format-20160612.1715/datetime-format-pkg.el
+  datetime-format-20160612.1715/datetime-format.el
+ ✓ Success:
+  2023-12-25T12:10:14+0000  datetime-format-20160612.1715.entry
+  2023-12-25T12:10:14+0000  datetime-format-20160612.1715.tar
+Built datetime-format in 3.889s, finished at 2023-12-25T12:10:15+0000

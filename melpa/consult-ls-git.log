@@ -1,0 +1,18 @@
+Package: consult-ls-git
+Fetcher: github
+Source:  https://github.com/rcj/consult-ls-git.git
+
+Updating /mnt/store/melpa/working/consult-ls-git/
+Checking out 3ccd9d80da73a05ef2a74616ffdc469860f74c21
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/consult-ls-git/
+  to /tmp/consult-ls-gitrs1Ruf/consult-ls-git-20230924.810
+    consult-ls-git.el -> consult-ls-git.el
+Created consult-ls-git-20230924.810.tar containing:
+  consult-ls-git-20230924.810/
+  consult-ls-git-20230924.810/consult-ls-git-pkg.el
+  consult-ls-git-20230924.810/consult-ls-git.el
+ ✓ Success:
+  2023-12-25T12:07:58+0000  consult-ls-git-20230924.810.entry
+  2023-12-25T12:07:57+0000  consult-ls-git-20230924.810.tar
+Built consult-ls-git in 4.385s, finished at 2023-12-25T12:07:59+0000

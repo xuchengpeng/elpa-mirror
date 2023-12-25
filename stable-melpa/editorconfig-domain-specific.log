@@ -1,0 +1,18 @@
+Package: editorconfig-domain-specific
+Fetcher: github
+Source:  https://github.com/lassik/editorconfig-emacs-domain-specific.git
+
+Updating /mnt/store/melpa/working/editorconfig-domain-specific/
+Checking out e9824160fb2e466afa755240ee3ab7cc5657fb04
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/editorconfig-domain-specific/
+  to /tmp/editorconfig-domain-specificpLo09h/editorconfig-domain-specific-20180505.924
+    editorconfig-domain-specific.el -> editorconfig-domain-specific.el
+Created editorconfig-domain-specific-20180505.924.tar containing:
+  editorconfig-domain-specific-20180505.924/
+  editorconfig-domain-specific-20180505.924/editorconfig-domain-specific-pkg.el
+  editorconfig-domain-specific-20180505.924/editorconfig-domain-specific.el
+ ✓ Success:
+  2023-12-25T12:13:44+0000  editorconfig-domain-specific-20180505.924.entry
+  2023-12-25T12:13:44+0000  editorconfig-domain-specific-20180505.924.tar
+Built editorconfig-domain-specific in 3.919s, finished at 2023-12-25T12:13:45+0000

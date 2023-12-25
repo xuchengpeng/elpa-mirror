@@ -1,0 +1,54 @@
+Package: projection
+Fetcher: github
+Source:  https://github.com/mohkale/projection.git
+
+Updating /mnt/store/melpa/working/projection/
+Checking out f6802f1827dcf1bdc02482eb4ed8bd65de3c09f4
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/projection/
+  to /tmp/projectioniINF8Q/projection-20231205.840
+  ! src/projection-commands.el -> projection-commands.el
+  ! src/projection-core-cache.el -> projection-core-cache.el
+  ! src/projection-core-commands.el -> projection-core-commands.el
+  ! src/projection-core-completion.el -> projection-core-completion.el
+  ! src/projection-core-log.el -> projection-core-log.el
+  ! src/projection-core-match.el -> projection-core-match.el
+  ! src/projection-core-misc.el -> projection-core-misc.el
+  ! src/projection-core-type.el -> projection-core-type.el
+  ! src/projection-core.el -> projection-core.el
+  ! src/projection-find.el -> projection-find.el
+  ! src/projection-hook.el -> projection-hook.el
+  ! src/projection-ibuffer.el -> projection-ibuffer.el
+  ! src/projection-recentf.el -> projection-recentf.el
+  ! src/projection-types.el -> projection-types.el
+  ! src/projection-utils-cmake.el -> projection-utils-cmake.el
+  ! src/projection-utils-golang.el -> projection-utils-golang.el
+  ! src/projection-utils-meson.el -> projection-utils-meson.el
+  ! src/projection-utils.el -> projection-utils.el
+  ! src/projection.el -> projection.el
+Created projection-20231205.840.tar containing:
+  projection-20231205.840/
+  projection-20231205.840/projection-commands.el
+  projection-20231205.840/projection-core-cache.el
+  projection-20231205.840/projection-core-commands.el
+  projection-20231205.840/projection-core-completion.el
+  projection-20231205.840/projection-core-log.el
+  projection-20231205.840/projection-core-match.el
+  projection-20231205.840/projection-core-misc.el
+  projection-20231205.840/projection-core-type.el
+  projection-20231205.840/projection-core.el
+  projection-20231205.840/projection-find.el
+  projection-20231205.840/projection-hook.el
+  projection-20231205.840/projection-ibuffer.el
+  projection-20231205.840/projection-pkg.el
+  projection-20231205.840/projection-recentf.el
+  projection-20231205.840/projection-types.el
+  projection-20231205.840/projection-utils-cmake.el
+  projection-20231205.840/projection-utils-golang.el
+  projection-20231205.840/projection-utils-meson.el
+  projection-20231205.840/projection-utils.el
+  projection-20231205.840/projection.el
+ ✓ Success:
+  2023-12-25T10:56:08+0000  projection-20231205.840.entry
+  2023-12-25T10:56:08+0000  projection-20231205.840.tar
+Built projection in 3.936s, finished at 2023-12-25T10:56:10+0000

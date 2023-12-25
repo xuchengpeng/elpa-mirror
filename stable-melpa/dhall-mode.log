@@ -1,0 +1,18 @@
+Package: dhall-mode
+Fetcher: github
+Source:  https://github.com/psibi/dhall-mode.git
+
+Updating /mnt/store/melpa/working/dhall-mode/
+Checking out 87ab69fe765d87b3bb1604a306a8c44d6887681d
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/dhall-mode/
+  to /tmp/dhall-mode9pVKTQ/dhall-mode-20230228.1005
+    dhall-mode.el -> dhall-mode.el
+Created dhall-mode-20230228.1005.tar containing:
+  dhall-mode-20230228.1005/
+  dhall-mode-20230228.1005/dhall-mode-pkg.el
+  dhall-mode-20230228.1005/dhall-mode.el
+ ✓ Success:
+  2023-12-25T12:10:51+0000  dhall-mode-20230228.1005.entry
+  2023-12-25T12:10:51+0000  dhall-mode-20230228.1005.tar
+Built dhall-mode in 3.513s, finished at 2023-12-25T12:10:53+0000

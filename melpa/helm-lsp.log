@@ -1,0 +1,18 @@
+Package: helm-lsp
+Fetcher: github
+Source:  https://github.com/emacs-lsp/helm-lsp.git
+
+Updating /mnt/store/melpa/working/helm-lsp/
+Checking out c2c6974dadfac459b1a69a1217441283874cea92
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/helm-lsp/
+  to /tmp/helm-lspJw2MPa/helm-lsp-20210419.2014
+    helm-lsp.el -> helm-lsp.el
+Created helm-lsp-20210419.2014.tar containing:
+  helm-lsp-20210419.2014/
+  helm-lsp-20210419.2014/helm-lsp-pkg.el
+  helm-lsp-20210419.2014/helm-lsp.el
+ ✓ Success:
+  2023-12-25T10:30:43+0000  helm-lsp-20210419.2014.entry
+  2023-12-25T10:30:43+0000  helm-lsp-20210419.2014.tar
+Built helm-lsp in 3.717s, finished at 2023-12-25T10:30:45+0000

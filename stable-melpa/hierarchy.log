@@ -1,0 +1,18 @@
+Package: hierarchy
+Fetcher: github
+Source:  https://github.com/DamienCassou/hierarchy.git
+
+Updating /mnt/store/melpa/working/hierarchy/
+Checking out a5bc6bf2e1bbd48cc17c508043134f24abb41944
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/hierarchy/
+  to /tmp/hierarchyFuyRli/hierarchy-20190425.842
+    hierarchy.el -> hierarchy.el
+Created hierarchy-20190425.842.tar containing:
+  hierarchy-20190425.842/
+  hierarchy-20190425.842/hierarchy-pkg.el
+  hierarchy-20190425.842/hierarchy.el
+ ✓ Success:
+  2023-12-25T10:31:53+0000  hierarchy-20190425.842.entry
+  2023-12-25T10:31:53+0000  hierarchy-20190425.842.tar
+Built hierarchy in 3.720s, finished at 2023-12-25T10:31:54+0000

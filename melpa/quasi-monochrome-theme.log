@@ -1,0 +1,19 @@
+Package: quasi-monochrome-theme
+Fetcher: github
+Source:  https://github.com/lbolla/emacs-quasi-monochrome.git
+
+Updating /mnt/store/melpa/working/quasi-monochrome-theme/
+Checking out b38d71860fdea945e10e8a766ac9dfa1410ade67
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/quasi-monochrome-theme/
+  to /tmp/quasi-monochrome-themesh5lId/quasi-monochrome-theme-20200415.705
+    quasi-monochrome-theme-pkg.el -> quasi-monochrome-theme-pkg.el
+    quasi-monochrome-theme.el -> quasi-monochrome-theme.el
+Created quasi-monochrome-theme-20200415.705.tar containing:
+  quasi-monochrome-theme-20200415.705/
+  quasi-monochrome-theme-20200415.705/quasi-monochrome-theme-pkg.el
+  quasi-monochrome-theme-20200415.705/quasi-monochrome-theme.el
+ ✓ Success:
+  2023-12-25T10:57:21+0000  quasi-monochrome-theme-20200415.705.entry
+  2023-12-25T10:57:20+0000  quasi-monochrome-theme-20200415.705.tar
+Built quasi-monochrome-theme in 4.139s, finished at 2023-12-25T10:57:22+0000

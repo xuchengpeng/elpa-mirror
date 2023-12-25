@@ -1,0 +1,18 @@
+Package: async-job-queue
+Fetcher: github
+Source:  https://github.com/owinebar/emacs-async-job-queue.git
+
+Updating /mnt/store/melpa/working/async-job-queue/
+Checking out eeafcce7f960305666b2a51aec55cc6333f6af1b
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/async-job-queue/
+  to /tmp/async-job-queuefNjJPf/async-job-queue-20230427.2122
+    async-job-queue.el -> async-job-queue.el
+Created async-job-queue-20230427.2122.tar containing:
+  async-job-queue-20230427.2122/
+  async-job-queue-20230427.2122/async-job-queue-pkg.el
+  async-job-queue-20230427.2122/async-job-queue.el
+ ✓ Success:
+  2023-12-25T12:00:22+0000  async-job-queue-20230427.2122.entry
+  2023-12-25T12:00:22+0000  async-job-queue-20230427.2122.tar
+Built async-job-queue in 4.195s, finished at 2023-12-25T12:00:24+0000

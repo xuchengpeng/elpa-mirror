@@ -1,0 +1,18 @@
+Package: cowsay
+Fetcher: github
+Source:  https://github.com/lassik/emacs-cowsay.git
+
+Updating /mnt/store/melpa/working/cowsay/
+Checking out d8a72a311c6875f1aef6a30b3d23a1b02df75941
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/cowsay/
+  to /tmp/cowsayGYpmJe/cowsay-20210510.1540
+    cowsay.el -> cowsay.el
+Created cowsay-20210510.1540.tar containing:
+  cowsay-20210510.1540/
+  cowsay-20210510.1540/cowsay-pkg.el
+  cowsay-20210510.1540/cowsay.el
+ ✓ Success:
+  2023-12-25T12:08:58+0000  cowsay-20210510.1540.entry
+  2023-12-25T12:08:57+0000  cowsay-20210510.1540.tar
+Built cowsay in 4.801s, finished at 2023-12-25T12:08:59+0000

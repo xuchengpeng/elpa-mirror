@@ -1,0 +1,20 @@
+Package: constant-theme
+Fetcher: github
+Source:  https://github.com/Jannis/emacs-constant-theme.git
+
+Updating /mnt/store/melpa/working/constant-theme/
+Checking out 0feb9f99d708633d62fa548c953ebbe68fd70de0
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/constant-theme/
+  to /tmp/constant-themewyegZb/constant-theme-20180921.1012
+    constant-light-theme.el -> constant-light-theme.el
+    constant-theme.el -> constant-theme.el
+Created constant-theme-20180921.1012.tar containing:
+  constant-theme-20180921.1012/
+  constant-theme-20180921.1012/constant-light-theme.el
+  constant-theme-20180921.1012/constant-theme-pkg.el
+  constant-theme-20180921.1012/constant-theme.el
+ ✓ Success:
+  2023-12-25T12:07:43+0000  constant-theme-20180921.1012.entry
+  2023-12-25T12:07:43+0000  constant-theme-20180921.1012.tar
+Built constant-theme in 4.728s, finished at 2023-12-25T12:07:45+0000

@@ -1,0 +1,28 @@
+Package: all-the-icons
+Fetcher: github
+Source:  https://github.com/domtronn/all-the-icons.el.git
+
+Updating /mnt/store/melpa/working/all-the-icons/
+Checking out be9d5dcda9c892e8ca1535e288620eec075eb0be
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/all-the-icons/
+  to /tmp/all-the-icons9vEDYj/all-the-icons-20230909.2053
+    all-the-icons-faces.el -> all-the-icons-faces.el
+    all-the-icons.el -> all-the-icons.el
+    data => data
+Created all-the-icons-20230909.2053.tar containing:
+  all-the-icons-20230909.2053/
+  all-the-icons-20230909.2053/all-the-icons-faces.el
+  all-the-icons-20230909.2053/all-the-icons-pkg.el
+  all-the-icons-20230909.2053/all-the-icons.el
+  all-the-icons-20230909.2053/data/
+  all-the-icons-20230909.2053/data/data-alltheicons.el
+  all-the-icons-20230909.2053/data/data-faicons.el
+  all-the-icons-20230909.2053/data/data-fileicons.el
+  all-the-icons-20230909.2053/data/data-material.el
+  all-the-icons-20230909.2053/data/data-octicons.el
+  all-the-icons-20230909.2053/data/data-weathericons.el
+ ✓ Success:
+  2023-12-25T11:59:19+0000  all-the-icons-20230909.2053.entry
+  2023-12-25T11:59:19+0000  all-the-icons-20230909.2053.tar
+Built all-the-icons in 4.094s, finished at 2023-12-25T11:59:20+0000

@@ -1,0 +1,35 @@
+Package: ghub
+Fetcher: github
+Source:  https://github.com/magit/ghub.git
+
+Updating /mnt/store/melpa/working/ghub/
+Checking out 0d7c81eee3ba0c6e029605e545173721c39947d7
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/ghub/
+  to /tmp/ghubVS9n5a/ghub-20231026.1306
+    ghub-pkg.el -> ghub-pkg.el
+  ! lisp/buck.el -> buck.el
+  ! lisp/ghub-graphql.el -> ghub-graphql.el
+  ! lisp/ghub.el -> ghub.el
+  ! lisp/glab.el -> glab.el
+  ! lisp/gogs.el -> gogs.el
+  ! lisp/gsexp.el -> gsexp.el
+  ! lisp/gtea.el -> gtea.el
+  ! docs/ghub.texi -> ghub.texi
+Generating /tmp/ghubVS9n5a/ghub-20231026.1306/ghub.info
+Created ghub-20231026.1306.tar containing:
+  ghub-20231026.1306/
+  ghub-20231026.1306/buck.el
+  ghub-20231026.1306/dir
+  ghub-20231026.1306/ghub-graphql.el
+  ghub-20231026.1306/ghub-pkg.el
+  ghub-20231026.1306/ghub.el
+  ghub-20231026.1306/ghub.info
+  ghub-20231026.1306/glab.el
+  ghub-20231026.1306/gogs.el
+  ghub-20231026.1306/gsexp.el
+  ghub-20231026.1306/gtea.el
+ ✓ Success:
+  2023-12-25T12:24:20+0000  ghub-20231026.1306.entry
+  2023-12-25T12:24:20+0000  ghub-20231026.1306.tar
+Built ghub in 7.376s, finished at 2023-12-25T12:24:21+0000

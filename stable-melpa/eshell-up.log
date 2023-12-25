@@ -1,0 +1,18 @@
+Package: eshell-up
+Fetcher: github
+Source:  https://github.com/peterwvj/eshell-up.git
+
+Updating /mnt/store/melpa/working/eshell-up/
+Checking out b00e447ad7941ab31bcbb6bc0205fd492e887e7d
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/eshell-up/
+  to /tmp/eshell-upCDtSek/eshell-up-20170425.1737
+    eshell-up.el -> eshell-up.el
+Created eshell-up-20170425.1737.tar containing:
+  eshell-up-20170425.1737/
+  eshell-up-20170425.1737/eshell-up-pkg.el
+  eshell-up-20170425.1737/eshell-up.el
+ ✓ Success:
+  2023-12-25T12:17:08+0000  eshell-up-20170425.1737.entry
+  2023-12-25T12:17:08+0000  eshell-up-20170425.1737.tar
+Built eshell-up in 3.611s, finished at 2023-12-25T12:17:10+0000

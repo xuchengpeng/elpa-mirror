@@ -1,0 +1,34 @@
+Package: sniem
+Fetcher: github
+Source:  https://github.com/SpringHan/sniem.git
+
+Updating /mnt/store/melpa/working/sniem/
+Checking out 3800d7d03688eae67d17084f15e3812633188b1d
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/sniem/
+  to /tmp/sniemligmp0/sniem-20231224.1116
+    sniem-cheatsheet.el -> sniem-cheatsheet.el
+    sniem-common.el -> sniem-common.el
+    sniem-linked-file.el -> sniem-linked-file.el
+    sniem-macro.el -> sniem-macro.el
+    sniem-mark-jump.el -> sniem-mark-jump.el
+    sniem-object-catch.el -> sniem-object-catch.el
+    sniem-operation.el -> sniem-operation.el
+    sniem-var.el -> sniem-var.el
+    sniem.el -> sniem.el
+Created sniem-20231224.1116.tar containing:
+  sniem-20231224.1116/
+  sniem-20231224.1116/sniem-cheatsheet.el
+  sniem-20231224.1116/sniem-common.el
+  sniem-20231224.1116/sniem-linked-file.el
+  sniem-20231224.1116/sniem-macro.el
+  sniem-20231224.1116/sniem-mark-jump.el
+  sniem-20231224.1116/sniem-object-catch.el
+  sniem-20231224.1116/sniem-operation.el
+  sniem-20231224.1116/sniem-pkg.el
+  sniem-20231224.1116/sniem-var.el
+  sniem-20231224.1116/sniem.el
+ ✓ Success:
+  2023-12-25T11:03:22+0000  sniem-20231224.1116.entry
+  2023-12-25T11:03:22+0000  sniem-20231224.1116.tar
+Built sniem in 4.510s, finished at 2023-12-25T11:03:24+0000

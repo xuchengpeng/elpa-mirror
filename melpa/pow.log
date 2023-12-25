@@ -1,0 +1,30 @@
+Package: pow
+Fetcher: github
+Source:  https://github.com/yukihr/emacs-pow.git
+
+Updating /mnt/store/melpa/working/pow/
+Checking out 782532d5d3582fe8fd67014507b20077f3f2d292
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/pow/
+  to /tmp/pow4eyTk9/pow-20140420.806
+    pow-app-list.el -> pow-app-list.el
+    pow-app.el -> pow-app.el
+    pow-commands.el -> pow-commands.el
+    pow-helpers.el -> pow-helpers.el
+    pow-tail-log.el -> pow-tail-log.el
+    pow-variables.el -> pow-variables.el
+    pow.el -> pow.el
+Created pow-20140420.806.tar containing:
+  pow-20140420.806/
+  pow-20140420.806/pow-app-list.el
+  pow-20140420.806/pow-app.el
+  pow-20140420.806/pow-commands.el
+  pow-20140420.806/pow-helpers.el
+  pow-20140420.806/pow-pkg.el
+  pow-20140420.806/pow-tail-log.el
+  pow-20140420.806/pow-variables.el
+  pow-20140420.806/pow.el
+ ✓ Success:
+  2023-12-25T10:55:21+0000  pow-20140420.806.entry
+  2023-12-25T10:55:20+0000  pow-20140420.806.tar
+Built pow in 5.098s, finished at 2023-12-25T10:55:23+0000

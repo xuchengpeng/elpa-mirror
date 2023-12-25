@@ -1,0 +1,18 @@
+Package: pos-tip
+Fetcher: github
+Source:  https://github.com/pitkali/pos-tip.git
+
+Updating /mnt/store/melpa/working/pos-tip/
+Checking out 90a9babc829b298af36be695009894fc00a97935
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/pos-tip/
+  to /tmp/pos-tippJf9EQ/pos-tip-20230721.834
+    pos-tip.el -> pos-tip.el
+Created pos-tip-20230721.834.tar containing:
+  pos-tip-20230721.834/
+  pos-tip-20230721.834/pos-tip-pkg.el
+  pos-tip-20230721.834/pos-tip.el
+ ✓ Success:
+  2023-12-25T10:55:14+0000  pos-tip-20230721.834.entry
+  2023-12-25T10:55:14+0000  pos-tip-20230721.834.tar
+Built pos-tip in 5.299s, finished at 2023-12-25T10:55:16+0000

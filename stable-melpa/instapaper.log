@@ -1,0 +1,9 @@
+Package: instapaper
+Fetcher: git
+Source:  https://git.carcosa.net/jmcbray/emacs-instapaper.git
+
+Updating /mnt/store/melpa/working/instapaper/
+Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
+fatal: unable to access 'https://git.carcosa.net/jmcbray/emacs-instapaper.git/': Failed to connect to git.carcosa.net port 443: No route to host
+
+Command `git fetch -f --tags origin' exited with non-zero exit-code: 128

@@ -1,0 +1,18 @@
+Package: nov
+Fetcher: git
+Source:  https://depp.brause.cc/nov.el.git
+
+Updating /mnt/store/melpa/working/nov/
+Checking out cc31ce0356226c3a2128119b08de6107e38fdd17
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/nov/
+  to /tmp/nov4ViWpG/nov-20230715.1434
+    nov.el -> nov.el
+Created nov-20230715.1434.tar containing:
+  nov-20230715.1434/
+  nov-20230715.1434/nov-pkg.el
+  nov-20230715.1434/nov.el
+ ✓ Success:
+  2023-12-25T10:45:48+0000  nov-20230715.1434.entry
+  2023-12-25T10:45:48+0000  nov-20230715.1434.tar
+Built nov in 4.478s, finished at 2023-12-25T10:45:50+0000

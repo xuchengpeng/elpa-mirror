@@ -1,0 +1,18 @@
+Package: devdocs-browser
+Fetcher: github
+Source:  https://github.com/blahgeek/emacs-devdocs-browser.git
+
+Updating /mnt/store/melpa/working/devdocs-browser/
+Checking out 237720eae1ec55b1bd7ddf207921058bb4cc06ca
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/devdocs-browser/
+  to /tmp/devdocs-browserruMYI0/devdocs-browser-20231217.1202
+    devdocs-browser.el -> devdocs-browser.el
+Created devdocs-browser-20231217.1202.tar containing:
+  devdocs-browser-20231217.1202/
+  devdocs-browser-20231217.1202/devdocs-browser-pkg.el
+  devdocs-browser-20231217.1202/devdocs-browser.el
+ ✓ Success:
+  2023-12-25T12:10:49+0000  devdocs-browser-20231217.1202.entry
+  2023-12-25T12:10:49+0000  devdocs-browser-20231217.1202.tar
+Built devdocs-browser in 3.826s, finished at 2023-12-25T12:10:51+0000

@@ -1,0 +1,18 @@
+Package: go-errcheck
+Fetcher: github
+Source:  https://github.com/dominikh/go-errcheck.el.git
+
+Updating /mnt/store/melpa/working/go-errcheck/
+Checking out 9db21eccecedc2490793f176246094167164af31
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/go-errcheck/
+  to /tmp/go-errcheckGrvkH2/go-errcheck-20160723.43
+    go-errcheck.el -> go-errcheck.el
+Created go-errcheck-20160723.43.tar containing:
+  go-errcheck-20160723.43/
+  go-errcheck-20160723.43/go-errcheck-pkg.el
+  go-errcheck-20160723.43/go-errcheck.el
+ ✓ Success:
+  2023-12-25T10:27:26+0000  go-errcheck-20160723.43.entry
+  2023-12-25T10:27:26+0000  go-errcheck-20160723.43.tar
+Built go-errcheck in 4.233s, finished at 2023-12-25T10:27:28+0000

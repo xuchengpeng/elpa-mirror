@@ -1,0 +1,7 @@
+2023-12-25T11:58:14+0000  2048-game                  Command `hg purge' exited with non-zero exit-code: 255
+2023-12-25T12:04:28+0000  caser                      Command `hg purge' exited with non-zero exit-code: 255
+2023-12-25T12:12:14+0000  ditz-mode                  Command `hg purge' exited with non-zero exit-code: 255
+2023-12-25T12:16:30+0000  enlightened-theme          Command `hg purge' exited with non-zero exit-code: 255
+2023-12-25T12:19:14+0000  eshell-outline             Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
+2023-12-25T12:22:11+0000  flymake-golangci           Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
+2023-12-25T12:23:59+0000  gemini-mode                Command `git fetch -f --tags origin' exited with non-zero exit-code: 128

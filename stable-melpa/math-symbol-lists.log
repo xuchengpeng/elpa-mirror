@@ -1,0 +1,20 @@
+Package: math-symbol-lists
+Fetcher: github
+Source:  https://github.com/vspinu/math-symbol-lists.git
+
+Updating /mnt/store/melpa/working/math-symbol-lists/
+Checking out ac3eb053d3b576fcdd192b0ac6ad5090ea3a7079
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/math-symbol-lists/
+  to /tmp/math-symbol-listsysyrm1/math-symbol-lists-20220828.2047
+    math-symbol-lists.el -> math-symbol-lists.el
+    msl-build.el -> msl-build.el
+Created math-symbol-lists-20220828.2047.tar containing:
+  math-symbol-lists-20220828.2047/
+  math-symbol-lists-20220828.2047/math-symbol-lists-pkg.el
+  math-symbol-lists-20220828.2047/math-symbol-lists.el
+  math-symbol-lists-20220828.2047/msl-build.el
+ ✓ Success:
+  2023-12-25T10:41:52+0000  math-symbol-lists-20220828.2047.entry
+  2023-12-25T10:41:52+0000  math-symbol-lists-20220828.2047.tar
+Built math-symbol-lists in 3.924s, finished at 2023-12-25T10:41:54+0000

@@ -1,0 +1,41 @@
+Package: eldev
+Fetcher: github
+Source:  https://github.com/emacs-eldev/eldev.git
+
+Updating /mnt/store/melpa/working/eldev/
+Checking out 65e00433b5673f18328fc824cbdb54e6f7b872bc
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/eldev/
+  to /tmp/eldevjHBrOi/eldev-20231116.1642
+    eldev-build.el -> eldev-build.el
+    eldev-buttercup.el -> eldev-buttercup.el
+    eldev-doctor.el -> eldev-doctor.el
+    eldev-ecukes.el -> eldev-ecukes.el
+    eldev-ert.el -> eldev-ert.el
+    eldev-plugins.el -> eldev-plugins.el
+    eldev-util.el -> eldev-util.el
+    eldev-vc.el -> eldev-vc.el
+    eldev.el -> eldev.el
+    bin/eldev -> bin/eldev
+    bin/eldev.bat -> bin/eldev.bat
+    bin/eldev.ps1 -> bin/eldev.ps1
+Created eldev-20231116.1642.tar containing:
+  eldev-20231116.1642/
+  eldev-20231116.1642/bin/
+  eldev-20231116.1642/bin/eldev
+  eldev-20231116.1642/bin/eldev.bat
+  eldev-20231116.1642/bin/eldev.ps1
+  eldev-20231116.1642/eldev-build.el
+  eldev-20231116.1642/eldev-buttercup.el
+  eldev-20231116.1642/eldev-doctor.el
+  eldev-20231116.1642/eldev-ecukes.el
+  eldev-20231116.1642/eldev-ert.el
+  eldev-20231116.1642/eldev-pkg.el
+  eldev-20231116.1642/eldev-plugins.el
+  eldev-20231116.1642/eldev-util.el
+  eldev-20231116.1642/eldev-vc.el
+  eldev-20231116.1642/eldev.el
+ ✓ Success:
+  2023-12-25T12:14:34+0000  eldev-20231116.1642.entry
+  2023-12-25T12:14:34+0000  eldev-20231116.1642.tar
+Built eldev in 7.184s, finished at 2023-12-25T12:14:37+0000

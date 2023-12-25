@@ -1,0 +1,18 @@
+Package: ox-minutes
+Fetcher: github
+Source:  https://github.com/kaushalmodi/ox-minutes.git
+
+Updating /mnt/store/melpa/working/ox-minutes/
+Checking out 27c29f3fdb9181322ae56f8bace8d95e621230e5
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/ox-minutes/
+  to /tmp/ox-minutesyxHuWp/ox-minutes-20180202.1734
+    ox-minutes.el -> ox-minutes.el
+Created ox-minutes-20180202.1734.tar containing:
+  ox-minutes-20180202.1734/
+  ox-minutes-20180202.1734/ox-minutes-pkg.el
+  ox-minutes-20180202.1734/ox-minutes.el
+ ✓ Success:
+  2023-12-25T10:51:24+0000  ox-minutes-20180202.1734.entry
+  2023-12-25T10:51:24+0000  ox-minutes-20180202.1734.tar
+Built ox-minutes in 3.407s, finished at 2023-12-25T10:51:25+0000

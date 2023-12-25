@@ -1,0 +1,18 @@
+Package: flymake-languagetool
+Fetcher: github
+Source:  https://github.com/emacs-languagetool/flymake-languagetool.git
+
+Updating /mnt/store/melpa/working/flymake-languagetool/
+Checking out 6f04572a92a71828e0daf3b322ba6f3ec27e874c
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/flymake-languagetool/
+  to /tmp/flymake-languagetoolWGLlqX/flymake-languagetool-20231224.119
+    flymake-languagetool.el -> flymake-languagetool.el
+Created flymake-languagetool-20231224.119.tar containing:
+  flymake-languagetool-20231224.119/
+  flymake-languagetool-20231224.119/flymake-languagetool-pkg.el
+  flymake-languagetool-20231224.119/flymake-languagetool.el
+ ✓ Success:
+  2023-12-25T12:22:21+0000  flymake-languagetool-20231224.119.entry
+  2023-12-25T12:22:21+0000  flymake-languagetool-20231224.119.tar
+Built flymake-languagetool in 4.093s, finished at 2023-12-25T12:22:23+0000

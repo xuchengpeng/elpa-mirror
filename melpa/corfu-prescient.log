@@ -1,0 +1,18 @@
+Package: corfu-prescient
+Fetcher: github
+Source:  https://github.com/radian-software/prescient.el.git
+
+Updating /mnt/store/melpa/working/corfu-prescient/
+Checking out c0eca3328313f1e93d24e686307516f43a484ba2
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/corfu-prescient/
+  to /tmp/corfu-prescientgcqWhe/corfu-prescient-20231123.2208
+    corfu-prescient.el -> corfu-prescient.el
+Created corfu-prescient-20231123.2208.tar containing:
+  corfu-prescient-20231123.2208/
+  corfu-prescient-20231123.2208/corfu-prescient-pkg.el
+  corfu-prescient-20231123.2208/corfu-prescient.el
+ ✓ Success:
+  2023-12-25T12:08:20+0000  corfu-prescient-20231123.2208.entry
+  2023-12-25T12:08:20+0000  corfu-prescient-20231123.2208.tar
+Built corfu-prescient in 5.915s, finished at 2023-12-25T12:08:22+0000

@@ -1,0 +1,18 @@
+Package: buffer-ring
+Fetcher: github
+Source:  https://github.com/countvajhula/buffer-ring.git
+
+Updating /mnt/store/melpa/working/buffer-ring/
+Checking out 177d67238c4d126a0270585e21c0f03ae750ca2a
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/buffer-ring/
+  to /tmp/buffer-ring36BSL4/buffer-ring-20220120.124
+    buffer-ring.el -> buffer-ring.el
+Created buffer-ring-20220120.124.tar containing:
+  buffer-ring-20220120.124/
+  buffer-ring-20220120.124/buffer-ring-pkg.el
+  buffer-ring-20220120.124/buffer-ring.el
+ ✓ Success:
+  2023-12-25T12:03:27+0000  buffer-ring-20220120.124.entry
+  2023-12-25T12:03:27+0000  buffer-ring-20220120.124.tar
+Built buffer-ring in 3.982s, finished at 2023-12-25T12:03:29+0000

@@ -1,0 +1,18 @@
+Package: twtxt
+Fetcher: github
+Source:  https://github.com/deadblackclover/twtxt-el.git
+
+Updating /mnt/store/melpa/working/twtxt/
+Checking out eb9efa19086fcae343353f6a5e88c3377fd06dd4
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/twtxt/
+  to /tmp/twtxtKwLTGM/twtxt-20220628.309
+    twtxt.el -> twtxt.el
+Created twtxt-20220628.309.tar containing:
+  twtxt-20220628.309/
+  twtxt-20220628.309/twtxt-pkg.el
+  twtxt-20220628.309/twtxt.el
+ ✓ Success:
+  2023-12-25T11:08:51+0000  twtxt-20220628.309.entry
+  2023-12-25T11:08:51+0000  twtxt-20220628.309.tar
+Built twtxt in 3.320s, finished at 2023-12-25T11:08:52+0000

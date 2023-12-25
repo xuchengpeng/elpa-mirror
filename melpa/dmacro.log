@@ -1,0 +1,18 @@
+Package: dmacro
+Fetcher: github
+Source:  https://github.com/emacs-jp/dmacro.git
+
+Updating /mnt/store/melpa/working/dmacro/
+Checking out 0008e7d2403a20f444b29a63fad65819aefabe18
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/dmacro/
+  to /tmp/dmacroMutRvv/dmacro-20200803.633
+    dmacro.el -> dmacro.el
+Created dmacro-20200803.633.tar containing:
+  dmacro-20200803.633/
+  dmacro-20200803.633/dmacro-pkg.el
+  dmacro-20200803.633/dmacro.el
+ ✓ Success:
+  2023-12-25T12:12:11+0000  dmacro-20200803.633.entry
+  2023-12-25T12:12:11+0000  dmacro-20200803.633.tar
+Built dmacro in 3.871s, finished at 2023-12-25T12:12:13+0000

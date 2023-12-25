@@ -1,0 +1,9 @@
+Package: xit-mode
+Fetcher: github
+Source:  https://github.com/ryanolsonx/xit-mode.git
+
+Updating /mnt/store/melpa/working/xit-mode/
+Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
+fatal: could not read Username for 'https://github.com': No such device or address
+
+Command `git fetch -f --tags origin' exited with non-zero exit-code: 128

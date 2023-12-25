@@ -1,0 +1,28 @@
+Package: mic
+Fetcher: github
+Source:  https://github.com/ROCKTAKEY/mic.git
+
+Updating /mnt/store/melpa/working/mic/
+Checking out 95dcc9fa306f579e8de6e417839841efe88ae1fc
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/mic/
+  to /tmp/mic3vtrWG/mic-20230725.1139
+    mic-adapter.el -> mic-adapter.el
+    mic-deffilter.el -> mic-deffilter.el
+    mic-definputter.el -> mic-definputter.el
+    mic-filter.el -> mic-filter.el
+    mic-utils.el -> mic-utils.el
+    mic.el -> mic.el
+Created mic-20230725.1139.tar containing:
+  mic-20230725.1139/
+  mic-20230725.1139/mic-adapter.el
+  mic-20230725.1139/mic-deffilter.el
+  mic-20230725.1139/mic-definputter.el
+  mic-20230725.1139/mic-filter.el
+  mic-20230725.1139/mic-pkg.el
+  mic-20230725.1139/mic-utils.el
+  mic-20230725.1139/mic.el
+ ✓ Success:
+  2023-12-25T10:42:34+0000  mic-20230725.1139.entry
+  2023-12-25T10:42:34+0000  mic-20230725.1139.tar
+Built mic in 4.830s, finished at 2023-12-25T10:42:37+0000

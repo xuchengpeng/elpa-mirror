@@ -1,0 +1,18 @@
+Package: flyspell-correct-avy-menu
+Fetcher: github
+Source:  https://github.com/d12frosted/flyspell-correct.git
+
+Updating /mnt/store/melpa/working/flyspell-correct-avy-menu/
+Checking out 7d7b6b01188bd28e20a13736ac9f36c3367bd16e
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/flyspell-correct-avy-menu/
+  to /tmp/flyspell-correct-avy-menuuDq1bE/flyspell-correct-avy-menu-20220520.630
+    flyspell-correct-avy-menu.el -> flyspell-correct-avy-menu.el
+Created flyspell-correct-avy-menu-20220520.630.tar containing:
+  flyspell-correct-avy-menu-20220520.630/
+  flyspell-correct-avy-menu-20220520.630/flyspell-correct-avy-menu-pkg.el
+  flyspell-correct-avy-menu-20220520.630/flyspell-correct-avy-menu.el
+ ✓ Success:
+  2023-12-25T12:22:44+0000  flyspell-correct-avy-menu-20220520.630.entry
+  2023-12-25T12:22:44+0000  flyspell-correct-avy-menu-20220520.630.tar
+Built flyspell-correct-avy-menu in 4.225s, finished at 2023-12-25T12:22:46+0000

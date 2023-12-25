@@ -1,0 +1,18 @@
+Package: typst-mode
+Fetcher: github
+Source:  https://github.com/Ziqi-Yang/typst-mode.el.git
+
+Updating /mnt/store/melpa/working/typst-mode/
+Checking out bbc08e88b5454849debb1c4022af56ff3a7f916e
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/typst-mode/
+  to /tmp/typst-modeOVuGyD/typst-mode-20230819.928
+    typst-mode.el -> typst-mode.el
+Created typst-mode-20230819.928.tar containing:
+  typst-mode-20230819.928/
+  typst-mode-20230819.928/typst-mode-pkg.el
+  typst-mode-20230819.928/typst-mode.el
+ ✓ Success:
+  2023-09-24T22:34:16+0000  typst-mode-20230819.928.entry
+  2023-09-24T22:34:16+0000  typst-mode-20230819.928.tar
+Built typst-mode in 4.346s, finished at 2023-09-24T22:34:18+0000
