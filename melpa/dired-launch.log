@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/dired-launch/
 Checking out d36bbed96ca8db8e18b005568f79c3728ce0171b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/dired-launch/
-  to /tmp/dired-launchQ3DT8S/dired-launch-20231016.2048
+  to /tmp/dired-launch1ETfta/dired-launch-20231016.2048
     dired-launch-x-on-dir.el -> dired-launch-x-on-dir.el
     dired-launch.el -> dired-launch.el
 Created dired-launch-20231016.2048.tar containing:
@@ -15,6 +15,6 @@ Created dired-launch-20231016.2048.tar containing:
   dired-launch-20231016.2048/dired-launch-x-on-dir.el
   dired-launch-20231016.2048/dired-launch.el
  ✓ Success:
-  2023-12-25T12:11:28+0000  dired-launch-20231016.2048.entry
-  2023-12-25T12:11:28+0000  dired-launch-20231016.2048.tar
-Built dired-launch in 3.717s, finished at 2023-12-25T12:11:30+0000
+  2023-12-25T23:56:38+0000  dired-launch-20231016.2048.entry
+  2023-12-25T23:56:37+0000  dired-launch-20231016.2048.tar
+Built dired-launch in 3.594s, finished at 2023-12-25T23:56:39+0000
