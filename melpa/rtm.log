@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/rtm/
 Checking out 3e3d09387cb84801343ecca8fb02e82f213e7bbe
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/rtm/
-  to /tmp/rtmFoaVom/rtm-20180329.1508
+  to /tmp/rtmlzdfPv/rtm-20180329.1508
     rtm.el -> rtm.el
 Created rtm-20180329.1508.tar containing:
   rtm-20180329.1508/
   rtm-20180329.1508/rtm-pkg.el
   rtm-20180329.1508/rtm.el
  ✓ Success:
-  2023-12-26T00:42:22+0000  rtm-20180329.1508.entry
-  2023-12-26T00:42:22+0000  rtm-20180329.1508.tar
-Built rtm in 3.701s, finished at 2023-12-26T00:42:23+0000
+  2023-12-26T06:29:25+0000  rtm-20180329.1508.entry
+  2023-12-26T06:29:25+0000  rtm-20180329.1508.tar
+Built rtm in 3.510s, finished at 2023-12-26T06:29:26+0000

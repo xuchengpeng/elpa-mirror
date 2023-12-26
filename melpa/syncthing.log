@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/syncthing/
 Checking out df2efd31689efe8ad340d53f602a777e5e0d78f3
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/syncthing/
-  to /tmp/syncthingOHNRP9/syncthing-20231225.1505
+  to /tmp/syncthingHgeSfs/syncthing-20231225.1505
     syncthing.el -> syncthing.el
 Created syncthing-20231225.1505.tar containing:
   syncthing-20231225.1505/
   syncthing-20231225.1505/syncthing-pkg.el
   syncthing-20231225.1505/syncthing.el
  ✓ Success:
-  2023-12-26T00:48:23+0000  syncthing-20231225.1505.entry
-  2023-12-26T00:48:22+0000  syncthing-20231225.1505.tar
-Built syncthing in 3.882s, finished at 2023-12-26T00:48:24+0000
+  2023-12-26T06:35:12+0000  syncthing-20231225.1505.entry
+  2023-12-26T06:35:12+0000  syncthing-20231225.1505.tar
+Built syncthing in 3.943s, finished at 2023-12-26T06:35:13+0000

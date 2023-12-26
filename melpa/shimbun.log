@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/shimbun/
 Checking out e3b87d61dfef3a9d44872c50db360732ba949d57
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/shimbun/
-  to /tmp/shimbunF3Nnj5/shimbun-20231026.455
+  to /tmp/shimbunUI5N1n/shimbun-20231026.455
   ! shimbun/mew-shimbun.el -> mew-shimbun.el
   ! shimbun/nnshimbun.el -> nnshimbun.el
   ! shimbun/sb-2ch.el -> sb-2ch.el
@@ -281,6 +281,6 @@ Created shimbun-20231026.455.tar containing:
   shimbun-20231026.455/shimbun-pkg.el
   shimbun-20231026.455/shimbun.el
  ✓ Success:
-  2023-12-26T00:44:09+0000  shimbun-20231026.455.entry
-  2023-12-26T00:44:09+0000  shimbun-20231026.455.tar
-Built shimbun in 4.568s, finished at 2023-12-26T00:44:11+0000
+  2023-12-26T06:31:15+0000  shimbun-20231026.455.entry
+  2023-12-26T06:31:14+0000  shimbun-20231026.455.tar
+Built shimbun in 4.978s, finished at 2023-12-26T06:31:16+0000

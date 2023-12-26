@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/one/
 Checking out fa52cf0144f89eabee06f598b021a37087c69670
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/one/
-  to /tmp/oneaI8BYU/one-20231205.1423
+  to /tmp/onejYhQo7/one-20231205.1423
     one.el -> one.el
 Created one-20231205.1423.tar containing:
   one-20231205.1423/
   one-20231205.1423/one-pkg.el
   one-20231205.1423/one.el
  ✓ Success:
-  2023-12-26T00:30:54+0000  one-20231205.1423.entry
-  2023-12-26T00:30:54+0000  one-20231205.1423.tar
-Built one in 3.739s, finished at 2023-12-26T00:30:56+0000
+  2023-12-26T08:13:49+0000  one-20231205.1423.entry
+  2023-12-26T08:13:48+0000  one-20231205.1423.tar
+Built one in 6.509s, finished at 2023-12-26T08:13:51+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/litecoin-ticker/
 Checking out 3d8047c736e4ee0b8638953f8cc63eaefad34106
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/litecoin-ticker/
-  to /tmp/litecoin-tickereg4rr6/litecoin-ticker-20160612.11
+  to /tmp/litecoin-tickerJVY8fT/litecoin-ticker-20160612.11
     litecoin-ticker.el -> litecoin-ticker.el
 Created litecoin-ticker-20160612.11.tar containing:
   litecoin-ticker-20160612.11/
   litecoin-ticker-20160612.11/litecoin-ticker-pkg.el
   litecoin-ticker-20160612.11/litecoin-ticker.el
  ✓ Success:
-  2023-12-26T00:23:00+0000  litecoin-ticker-20160612.11.entry
-  2023-12-26T00:23:00+0000  litecoin-ticker-20160612.11.tar
-Built litecoin-ticker in 3.668s, finished at 2023-12-26T00:23:02+0000
+  2023-12-26T08:05:32+0000  litecoin-ticker-20160612.11.entry
+  2023-12-26T08:05:32+0000  litecoin-ticker-20160612.11.tar
+Built litecoin-ticker in 3.923s, finished at 2023-12-26T08:05:34+0000

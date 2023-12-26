@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/typescript-mode/
 Checking out 4fcb4594819caf472ae42ea068a1c7795cf07f46
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/typescript-mode/
-  to /tmp/typescript-mode9p8B5o/typescript-mode-20230116.1533
+  to /tmp/typescript-modercC8jX/typescript-mode-20230116.1533
     typescript-mode-test-utilities.el -> typescript-mode-test-utilities.el
     typescript-mode.el -> typescript-mode.el
 Created typescript-mode-20230116.1533.tar containing:
@@ -15,6 +15,6 @@ Created typescript-mode-20230116.1533.tar containing:
   typescript-mode-20230116.1533/typescript-mode-test-utilities.el
   typescript-mode-20230116.1533/typescript-mode.el
  ✓ Success:
-  2023-12-26T00:51:29+0000  typescript-mode-20230116.1533.entry
-  2023-12-26T00:51:29+0000  typescript-mode-20230116.1533.tar
-Built typescript-mode in 3.709s, finished at 2023-12-26T00:51:30+0000
+  2023-12-26T06:37:59+0000  typescript-mode-20230116.1533.entry
+  2023-12-26T06:37:59+0000  typescript-mode-20230116.1533.tar
+Built typescript-mode in 4.294s, finished at 2023-12-26T06:38:01+0000

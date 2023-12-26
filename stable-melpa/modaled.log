@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/modaled/
 Checking out 22e10677eb359a2dfb1a989a1beb62ef809d51c5
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/modaled/
-  to /tmp/modaleddhNJRZ/modaled-20231028.1648
+  to /tmp/modaled5AOwqQ/modaled-20231028.1648
     modaled.el -> modaled.el
 Created modaled-20231028.1648.tar containing:
   modaled-20231028.1648/
   modaled-20231028.1648/modaled-pkg.el
   modaled-20231028.1648/modaled.el
  ✓ Success:
-  2023-12-26T00:26:26+0000  modaled-20231028.1648.entry
-  2023-12-26T00:26:26+0000  modaled-20231028.1648.tar
-Built modaled in 3.956s, finished at 2023-12-26T00:26:28+0000
+  2023-12-26T08:09:19+0000  modaled-20231028.1648.entry
+  2023-12-26T08:09:19+0000  modaled-20231028.1648.tar
+Built modaled in 4.325s, finished at 2023-12-26T08:09:21+0000

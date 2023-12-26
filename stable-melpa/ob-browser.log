@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/ob-browser/
 Checking out a347d9df1c87b7eb660be8723982c7ad2563631a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ob-browser/
-  to /tmp/ob-browserh6X9pA/ob-browser-20170720.1918
+  to /tmp/ob-browserDuESLe/ob-browser-20170720.1918
     ob-browser.js -> ob-browser.js
     ob-browser.el -> ob-browser.el
 Created ob-browser-20170720.1918.tar containing:
@@ -15,6 +15,6 @@ Created ob-browser-20170720.1918.tar containing:
   ob-browser-20170720.1918/ob-browser.el
   ob-browser-20170720.1918/ob-browser.js
  ✓ Success:
-  2023-12-26T00:29:42+0000  ob-browser-20170720.1918.entry
-  2023-12-26T00:29:42+0000  ob-browser-20170720.1918.tar
-Built ob-browser in 4.039s, finished at 2023-12-26T00:29:44+0000
+  2023-12-26T08:12:21+0000  ob-browser-20170720.1918.entry
+  2023-12-26T08:12:21+0000  ob-browser-20170720.1918.tar
+Built ob-browser in 3.883s, finished at 2023-12-26T08:12:22+0000

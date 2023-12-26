@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/lyrics-fetcher/
 Checking out bcde34a7ae8db84170bfe76260eefed64686ddf0
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/lyrics-fetcher/
-  to /tmp/lyrics-fetcherOOwF63/lyrics-fetcher-20231225.2350
+  to /tmp/lyrics-fetcherWdnOGL/lyrics-fetcher-20231225.2350
     lyrics-fetcher-analyze.el -> lyrics-fetcher-analyze.el
     lyrics-fetcher-genius.el -> lyrics-fetcher-genius.el
     lyrics-fetcher-neteasecloud.el -> lyrics-fetcher-neteasecloud.el
@@ -19,8 +19,6 @@ Created lyrics-fetcher-20231225.2350.tar containing:
   lyrics-fetcher-20231225.2350/lyrics-fetcher-pkg.el
   lyrics-fetcher-20231225.2350/lyrics-fetcher.el
  ✓ Success:
-  2023-12-25T22:28:22+0000  lyrics-fetcher-20220717.1716.entry
-  2023-12-25T22:28:22+0000  lyrics-fetcher-20220717.1716.tar
-  2023-12-26T00:24:07+0000  lyrics-fetcher-20231225.2350.entry
-  2023-12-26T00:24:07+0000  lyrics-fetcher-20231225.2350.tar
-Built lyrics-fetcher in 3.974s, finished at 2023-12-26T00:24:09+0000
+  2023-12-26T08:06:40+0000  lyrics-fetcher-20231225.2350.entry
+  2023-12-26T08:06:40+0000  lyrics-fetcher-20231225.2350.tar
+Built lyrics-fetcher in 4.099s, finished at 2023-12-26T08:06:42+0000
