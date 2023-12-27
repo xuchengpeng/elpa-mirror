@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/cwl-mode/
 Checking out 23a333119efaac78453cba95d316109805bd6aec
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/cwl-mode/
-  to /tmp/cwl-modeRQd6P8/cwl-mode-20210510.1150
+  to /tmp/cwl-modeHcWMhS/cwl-mode-20210510.1150
     cwl-mode.el -> cwl-mode.el
 Created cwl-mode-20210510.1150.tar containing:
   cwl-mode-20210510.1150/
   cwl-mode-20210510.1150/cwl-mode-pkg.el
   cwl-mode-20210510.1150/cwl-mode.el
  ✓ Success:
-  2023-12-27T00:50:30+0000  cwl-mode-20210510.1150.entry
-  2023-12-27T00:50:30+0000  cwl-mode-20210510.1150.tar
-Built cwl-mode in 4.000s, finished at 2023-12-27T00:50:32+0000
+  2023-12-27T06:44:10+0000  cwl-mode-20210510.1150.entry
+  2023-12-27T06:44:10+0000  cwl-mode-20210510.1150.tar
+Built cwl-mode in 4.298s, finished at 2023-12-27T06:44:12+0000
