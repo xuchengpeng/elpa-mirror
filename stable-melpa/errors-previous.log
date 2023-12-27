@@ -1,22 +1,19 @@
-2023-12-26T05:30:14+0000  2048-game                  Command `hg purge' exited with non-zero exit-code: 255
-2023-12-26T05:36:21+0000  caser                      Command `hg purge' exited with non-zero exit-code: 255
-2023-12-26T05:43:40+0000  ditz-mode                  Command `hg purge' exited with non-zero exit-code: 255
-2023-12-26T05:47:52+0000  enlightened-theme          Command `hg purge' exited with non-zero exit-code: 255
-2023-12-26T05:50:37+0000  eshell-outline             Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
-2023-12-26T05:53:12+0000  flymake-golangci           Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
-2023-12-26T05:55:08+0000  gemini-mode                Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
-2023-12-26T06:01:58+0000  hoa-mode                   Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
-2023-12-26T06:03:56+0000  instapaper                 Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
-2023-12-26T06:04:55+0000  jabber                     No define-package found in jabber-pkg.el
-2023-12-26T06:06:48+0000  kanban                     Command `hg purge' exited with non-zero exit-code: 255
-2023-12-26T06:09:24+0000  lognav-mode                Command `hg pull' exited with non-zero exit-code: 255
-2023-12-26T06:09:27+0000  lms                        Command `hg purge' exited with non-zero exit-code: 255
-2023-12-26T06:12:38+0000  minesweeper                Command `hg purge' exited with non-zero exit-code: 255
-2023-12-26T06:13:51+0000  multi-project              Command `hg pull' exited with non-zero exit-code: 255
-2023-12-26T06:19:11+0000  org-parser                 Command `hg purge' exited with non-zero exit-code: 255
-2023-12-26T06:22:51+0000  per-buffer-theme           Command `hg purge' exited with non-zero exit-code: 255
-2023-12-26T06:24:22+0000  pmdm                       Command `hg purge' exited with non-zero exit-code: 255
-2023-12-26T06:25:41+0000  protobuf-ts-mode           Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
-2023-12-26T06:41:37+0000  wisp-mode                  Command `hg purge' exited with non-zero exit-code: 255
-2023-12-26T06:42:45+0000  yatex                      Command `hg purge' exited with non-zero exit-code: 255
-2023-12-26T06:43:23+0000  zpresent                   Command `hg purge' exited with non-zero exit-code: 255
+2023-12-26T22:41:07+0000  2048-game                  Command `hg purge' exited with non-zero exit-code: 255
+2023-12-26T22:47:18+0000  caser                      Command `hg purge' exited with non-zero exit-code: 255
+2023-12-26T22:54:53+0000  ditz-mode                  Command `hg purge' exited with non-zero exit-code: 255
+2023-12-26T22:59:28+0000  enlightened-theme          Command `hg purge' exited with non-zero exit-code: 255
+2023-12-26T23:02:16+0000  eshell-outline             Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
+2023-12-26T23:05:21+0000  flymake-golangci           Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
+2023-12-26T23:16:42+0000  jabber                     No define-package found in jabber-pkg.el
+2023-12-26T23:18:14+0000  kanban                     Command `hg purge' exited with non-zero exit-code: 255
+2023-12-26T23:21:05+0000  lognav-mode                Command `hg pull' exited with non-zero exit-code: 255
+2023-12-26T23:21:08+0000  lms                        Command `hg purge' exited with non-zero exit-code: 255
+2023-12-26T23:23:55+0000  minesweeper                Command `hg purge' exited with non-zero exit-code: 255
+2023-12-26T23:25:27+0000  multi-project              Command `hg pull' exited with non-zero exit-code: 255
+2023-12-26T23:31:22+0000  org-parser                 Command `hg purge' exited with non-zero exit-code: 255
+2023-12-26T23:34:45+0000  per-buffer-theme           Command `hg purge' exited with non-zero exit-code: 255
+2023-12-26T23:35:55+0000  pmdm                       Command `hg purge' exited with non-zero exit-code: 255
+2023-12-26T23:37:29+0000  protobuf-ts-mode           Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
+2023-12-26T23:52:58+0000  wisp-mode                  Command `hg purge' exited with non-zero exit-code: 255
+2023-12-26T23:54:28+0000  yatex                      Command `hg purge' exited with non-zero exit-code: 255
+2023-12-26T23:55:06+0000  zpresent                   Command `hg purge' exited with non-zero exit-code: 255

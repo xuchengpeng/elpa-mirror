@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/coercion/
 Checking out 89c0c399b851002f4169667ffd6a2b697ad190c1
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/coercion/
-  to /tmp/coercionNvWHxP/coercion-20231218.1949
+  to /tmp/coercionMxKsC5/coercion-20231218.1949
     coercion.el -> coercion.el
 Created coercion-20231218.1949.tar containing:
   coercion-20231218.1949/
   coercion-20231218.1949/coercion-pkg.el
   coercion-20231218.1949/coercion.el
  ✓ Success:
-  2023-12-26T07:34:50+0000  coercion-20231218.1949.entry
-  2023-12-26T07:34:50+0000  coercion-20231218.1949.tar
-Built coercion in 4.308s, finished at 2023-12-26T07:34:52+0000
+  2023-12-27T00:47:33+0000  coercion-20231218.1949.entry
+  2023-12-27T00:47:33+0000  coercion-20231218.1949.tar
+Built coercion in 3.913s, finished at 2023-12-27T00:47:35+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/digitalocean/
 Checking out 6c32d3593286e2a62d9afab0057c829407b0d1e8
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/digitalocean/
-  to /tmp/digitaloceanaKiNXj/digitalocean-20190607.726
+  to /tmp/digitaloceandpXZDa/digitalocean-20190607.726
     digitalocean.el -> digitalocean.el
 Created digitalocean-20190607.726.tar containing:
   digitalocean-20190607.726/
   digitalocean-20190607.726/digitalocean-pkg.el
   digitalocean-20190607.726/digitalocean.el
  ✓ Success:
-  2023-12-26T07:39:29+0000  digitalocean-20190607.726.entry
-  2023-12-26T07:39:29+0000  digitalocean-20190607.726.tar
-Built digitalocean in 3.621s, finished at 2023-12-26T07:39:30+0000
+  2023-12-27T00:52:15+0000  digitalocean-20190607.726.entry
+  2023-12-27T00:52:15+0000  digitalocean-20190607.726.tar
+Built digitalocean in 5.144s, finished at 2023-12-27T00:52:17+0000

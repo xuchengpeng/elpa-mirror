@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/sendto/
 Checking out 076b81d7a53f75b0a59b0ef3448f35570567054c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/sendto/
-  to /tmp/sendtoKtyZBv/sendto-20160425.1250
+  to /tmp/sendtoig6grA/sendto-20160425.1250
     sendto.el -> sendto.el
 Created sendto-20160425.1250.tar containing:
   sendto-20160425.1250/
   sendto-20160425.1250/sendto-pkg.el
   sendto-20160425.1250/sendto.el
  ✓ Success:
-  2023-12-26T06:30:38+0000  sendto-20160425.1250.entry
-  2023-12-26T06:30:38+0000  sendto-20160425.1250.tar
-Built sendto in 3.460s, finished at 2023-12-26T06:30:39+0000
+  2023-12-26T23:42:07+0000  sendto-20160425.1250.entry
+  2023-12-26T23:42:07+0000  sendto-20160425.1250.tar
+Built sendto in 6.423s, finished at 2023-12-26T23:42:10+0000

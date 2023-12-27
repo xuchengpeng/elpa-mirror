@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/codesearch/
 Checking out f6eb96f034a925444412cfa03e45e0ccbbafe3f2
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/codesearch/
-  to /tmp/codesearchfCS1uo/codesearch-20181006.1431
+  to /tmp/codesearchdKDaGF/codesearch-20181006.1431
     codesearch.el -> codesearch.el
     listing-codesearch.el -> listing-codesearch.el
 Created codesearch-20181006.1431.tar containing:
@@ -15,6 +15,6 @@ Created codesearch-20181006.1431.tar containing:
   codesearch-20181006.1431/codesearch.el
   codesearch-20181006.1431/listing-codesearch.el
  ✓ Success:
-  2023-12-26T07:34:50+0000  codesearch-20181006.1431.entry
-  2023-12-26T07:34:50+0000  codesearch-20181006.1431.tar
-Built codesearch in 4.402s, finished at 2023-12-26T07:34:52+0000
+  2023-12-27T00:47:33+0000  codesearch-20181006.1431.entry
+  2023-12-27T00:47:33+0000  codesearch-20181006.1431.tar
+Built codesearch in 3.950s, finished at 2023-12-27T00:47:35+0000
