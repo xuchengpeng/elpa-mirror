@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/nix-ts-mode/
 Checking out 2dddc6e9ca33be211675afca3896fd661fc38a0c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/nix-ts-mode/
-  to /tmp/nix-ts-modeEdIa5e/nix-ts-mode-20231107.1639
+  to /tmp/nix-ts-modeFCLuLq/nix-ts-mode-20231107.1639
     nix-ts-mode.el -> nix-ts-mode.el
 Created nix-ts-mode-20231107.1639.tar containing:
   nix-ts-mode-20231107.1639/
   nix-ts-mode-20231107.1639/nix-ts-mode-pkg.el
   nix-ts-mode-20231107.1639/nix-ts-mode.el
  ✓ Success:
-  2023-12-27T07:19:02+0000  nix-ts-mode-20231107.1639.entry
-  2023-12-27T07:19:02+0000  nix-ts-mode-20231107.1639.tar
-Built nix-ts-mode in 4.285s, finished at 2023-12-27T07:19:03+0000
+  2023-12-27T15:17:55+0000  nix-ts-mode-20231107.1639.entry
+  2023-12-27T15:17:55+0000  nix-ts-mode-20231107.1639.tar
+Built nix-ts-mode in 4.460s, finished at 2023-12-27T15:17:57+0000
