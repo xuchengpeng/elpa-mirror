@@ -3,10 +3,10 @@ Fetcher: github
 Source:  https://github.com/minad/consult.git
 
 Updating /mnt/store/melpa/working/consult/
-Checking out bfff7e13f0fce3938f49871d379482a1b547dd7a
+Checking out 0e7f3ec8e7e959e262158fa4ddb73de80b52ccc0
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/consult/
-  to /tmp/consultKYNPTK/consult-20231215.1505
+  to /tmp/consultoPhHPc/consult-20231227.1928
     consult-compile.el -> consult-compile.el
     consult-flymake.el -> consult-flymake.el
     consult-imenu.el -> consult-imenu.el
@@ -16,19 +16,19 @@ Copying files (->) and directories (=>)
     consult-register.el -> consult-register.el
     consult-xref.el -> consult-xref.el
     consult.el -> consult.el
-Created consult-20231215.1505.tar containing:
-  consult-20231215.1505/
-  consult-20231215.1505/consult-compile.el
-  consult-20231215.1505/consult-flymake.el
-  consult-20231215.1505/consult-imenu.el
-  consult-20231215.1505/consult-info.el
-  consult-20231215.1505/consult-kmacro.el
-  consult-20231215.1505/consult-org.el
-  consult-20231215.1505/consult-pkg.el
-  consult-20231215.1505/consult-register.el
-  consult-20231215.1505/consult-xref.el
-  consult-20231215.1505/consult.el
+Created consult-20231227.1928.tar containing:
+  consult-20231227.1928/
+  consult-20231227.1928/consult-compile.el
+  consult-20231227.1928/consult-flymake.el
+  consult-20231227.1928/consult-imenu.el
+  consult-20231227.1928/consult-info.el
+  consult-20231227.1928/consult-kmacro.el
+  consult-20231227.1928/consult-org.el
+  consult-20231227.1928/consult-pkg.el
+  consult-20231227.1928/consult-register.el
+  consult-20231227.1928/consult-xref.el
+  consult-20231227.1928/consult.el
  ✓ Success:
-  2023-12-27T14:40:33+0000  consult-20231215.1505.entry
-  2023-12-27T14:40:33+0000  consult-20231215.1505.tar
-Built consult in 4.517s, finished at 2023-12-27T14:40:35+0000
+  2023-12-28T00:48:30+0000  consult-20231227.1928.entry
+  2023-12-28T00:48:29+0000  consult-20231227.1928.tar
+Built consult in 4.616s, finished at 2023-12-28T00:48:31+0000

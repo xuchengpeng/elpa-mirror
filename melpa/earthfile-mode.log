@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/earthfile-mode/
 Checking out 3029e5ab06171ca5947041e95053561e10e5ba41
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/earthfile-mode/
-  to /tmp/earthfile-mode4RBw9f/earthfile-mode-20230809.2250
+  to /tmp/earthfile-modeuQR0XW/earthfile-mode-20230809.2250
     earthfile-mode.el -> earthfile-mode.el
 Created earthfile-mode-20230809.2250.tar containing:
   earthfile-mode-20230809.2250/
   earthfile-mode-20230809.2250/earthfile-mode-pkg.el
   earthfile-mode-20230809.2250/earthfile-mode.el
  ✓ Success:
-  2023-12-27T14:46:07+0000  earthfile-mode-20230809.2250.entry
-  2023-12-27T14:46:07+0000  earthfile-mode-20230809.2250.tar
-Built earthfile-mode in 3.914s, finished at 2023-12-27T14:46:08+0000
+  2023-12-28T00:53:37+0000  earthfile-mode-20230809.2250.entry
+  2023-12-28T00:53:37+0000  earthfile-mode-20230809.2250.tar
+Built earthfile-mode in 6.878s, finished at 2023-12-28T00:53:40+0000
