@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/rotate/
 Checking out 4e9ac3ff800880bd9b705794ef0f7c99d72900a6
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/rotate/
-  to /tmp/rotateQrk3KH/rotate-20210126.637
+  to /tmp/rotatelyEATF/rotate-20210126.637
     rotate.el -> rotate.el
 Created rotate-20210126.637.tar containing:
   rotate-20210126.637/
   rotate-20210126.637/rotate-pkg.el
   rotate-20210126.637/rotate.el
  ✓ Success:
-  2023-12-28T09:36:02+0000  rotate-20210126.637.entry
-  2023-12-28T09:36:02+0000  rotate-20210126.637.tar
-Built rotate in 4.455s, finished at 2023-12-28T09:36:04+0000
+  2023-12-28T15:38:07+0000  rotate-20210126.637.entry
+  2023-12-28T15:38:07+0000  rotate-20210126.637.tar
+Built rotate in 3.724s, finished at 2023-12-28T15:38:09+0000
