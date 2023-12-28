@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/bluesound/
 Checking out 92f6ebacfa20e89ccd10d27bdb84c74b6413cc68
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/bluesound/
-  to /tmp/bluesoundFYBPlN/bluesound-20231124.1347
+  to /tmp/bluesound5CDnQF/bluesound-20231124.1347
     bluesound.el -> bluesound.el
 Created bluesound-20231124.1347.tar containing:
   bluesound-20231124.1347/
   bluesound-20231124.1347/bluesound-pkg.el
   bluesound-20231124.1347/bluesound.el
  ✓ Success:
-  2023-12-28T00:43:03+0000  bluesound-20231124.1347.entry
-  2023-12-28T00:43:03+0000  bluesound-20231124.1347.tar
-Built bluesound in 3.839s, finished at 2023-12-28T00:43:05+0000
+  2023-12-28T08:40:17+0000  bluesound-20231124.1347.entry
+  2023-12-28T08:40:17+0000  bluesound-20231124.1347.tar
+Built bluesound in 3.912s, finished at 2023-12-28T08:40:19+0000

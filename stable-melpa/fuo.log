@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/fuo/
 Checking out 0e4122f94a336a50c02bc96652d25ac3d74bedeb
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/fuo/
-  to /tmp/fuoXGQ0Mx/fuo-20190812.927
+  to /tmp/fuodU7JS4/fuo-20190812.927
     fuo.el -> fuo.el
 Created fuo-20190812.927.tar containing:
   fuo-20190812.927/
   fuo-20190812.927/fuo-pkg.el
   fuo-20190812.927/fuo.el
  ✓ Success:
-  2023-12-28T01:04:28+0000  fuo-20190812.927.entry
-  2023-12-28T01:04:28+0000  fuo-20190812.927.tar
-Built fuo in 3.968s, finished at 2023-12-28T01:04:30+0000
+  2023-12-28T09:01:19+0000  fuo-20190812.927.entry
+  2023-12-28T09:01:19+0000  fuo-20190812.927.tar
+Built fuo in 4.222s, finished at 2023-12-28T09:01:22+0000

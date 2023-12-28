@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/cape/
 Checking out 1a52302e1bb051f1f0fc8a9e49780bf9af797e15
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/cape/
-  to /tmp/capeL0tak1/cape-20231227.1929
+  to /tmp/capeypaFgt/cape-20231227.1929
     cape-char.el -> cape-char.el
     cape-keyword.el -> cape-keyword.el
     cape.el -> cape.el
@@ -17,6 +17,6 @@ Created cape-20231227.1929.tar containing:
   cape-20231227.1929/cape-pkg.el
   cape-20231227.1929/cape.el
  ✓ Success:
-  2023-12-28T00:44:17+0000  cape-20231227.1929.entry
-  2023-12-28T00:44:17+0000  cape-20231227.1929.tar
-Built cape in 6.632s, finished at 2023-12-28T00:44:20+0000
+  2023-12-28T08:41:51+0000  cape-20231227.1929.entry
+  2023-12-28T08:41:51+0000  cape-20231227.1929.tar
+Built cape in 4.271s, finished at 2023-12-28T08:41:53+0000

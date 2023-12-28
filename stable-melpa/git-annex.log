@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/git-annex/
 Checking out 92f2d97c89980d2cea85850353836c68903514a1
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/git-annex/
-  to /tmp/git-annexzRSFAQ/git-annex-20220807.1542
+  to /tmp/git-annexyLRo5d/git-annex-20220807.1542
     git-annex.el -> git-annex.el
 Created git-annex-20220807.1542.tar containing:
   git-annex-20220807.1542/
   git-annex-20220807.1542/git-annex-pkg.el
   git-annex-20220807.1542/git-annex.el
  ✓ Success:
-  2023-12-28T01:05:23+0000  git-annex-20220807.1542.entry
-  2023-12-28T01:05:23+0000  git-annex-20220807.1542.tar
-Built git-annex in 9.912s, finished at 2023-12-28T01:05:28+0000
+  2023-12-28T09:02:07+0000  git-annex-20220807.1542.entry
+  2023-12-28T09:02:07+0000  git-annex-20220807.1542.tar
+Built git-annex in 4.298s, finished at 2023-12-28T09:02:09+0000
