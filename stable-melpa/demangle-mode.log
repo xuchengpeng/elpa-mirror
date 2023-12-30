@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/demangle-mode/
 Checking out 04f545adab066708d6151f13da65aaf519f8ac4e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/demangle-mode/
-  to /tmp/demangle-modeoR5DtR/demangle-mode-20210822.2210
+  to /tmp/demangle-modelYwP8B/demangle-mode-20210822.2210
     demangle-mode.el -> demangle-mode.el
 Created demangle-mode-20210822.2210.tar containing:
   demangle-mode-20210822.2210/
   demangle-mode-20210822.2210/demangle-mode-pkg.el
   demangle-mode-20210822.2210/demangle-mode.el
  ✓ Success:
-  2023-12-30T00:30:13+0000  demangle-mode-20210822.2210.entry
-  2023-12-30T00:30:13+0000  demangle-mode-20210822.2210.tar
-Built demangle-mode in 4.080s, finished at 2023-12-30T00:30:15+0000
+  2023-12-30T08:09:49+0000  demangle-mode-20210822.2210.entry
+  2023-12-30T08:09:49+0000  demangle-mode-20210822.2210.tar
+Built demangle-mode in 3.797s, finished at 2023-12-30T08:09:51+0000
