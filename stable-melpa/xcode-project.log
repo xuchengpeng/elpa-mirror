@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/xcode-project/
 Checking out 90aef198df5b51dfdb9ad205aa5b412c471fd418
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/xcode-project/
-  to /tmp/xcode-projectyxGdRT/xcode-project-20200810.2010
+  to /tmp/xcode-projectkm7P1T/xcode-project-20200810.2010
     xcode-parser.el -> xcode-parser.el
     xcode-project.el -> xcode-project.el
 Created xcode-project-20200810.2010.tar containing:
@@ -15,6 +15,6 @@ Created xcode-project-20200810.2010.tar containing:
   xcode-project-20200810.2010/xcode-project-pkg.el
   xcode-project-20200810.2010/xcode-project.el
  ✓ Success:
-  2023-12-31T00:38:14+0000  xcode-project-20200810.2010.entry
-  2023-12-31T00:38:14+0000  xcode-project-20200810.2010.tar
-Built xcode-project in 3.638s, finished at 2023-12-31T00:38:16+0000
+  2023-12-31T08:17:13+0000  xcode-project-20200810.2010.entry
+  2023-12-31T08:17:13+0000  xcode-project-20200810.2010.tar
+Built xcode-project in 3.602s, finished at 2023-12-31T08:17:15+0000

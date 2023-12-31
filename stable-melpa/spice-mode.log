@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/spice-mode/
 Checking out f55c2b6dd35caace0ec7250b5c7b5d119235a23d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/spice-mode/
-  to /tmp/spice-moderEK2VD/spice-mode-20220210.1414
+  to /tmp/spice-modeL9Z5Mf/spice-mode-20220210.1414
     spice-mode.el -> spice-mode.el
 Created spice-mode-20220210.1414.tar containing:
   spice-mode-20220210.1414/
   spice-mode-20220210.1414/spice-mode-pkg.el
   spice-mode-20220210.1414/spice-mode.el
  ✓ Success:
-  2023-12-31T00:29:46+0000  spice-mode-20220210.1414.entry
-  2023-12-31T00:29:46+0000  spice-mode-20220210.1414.tar
-Built spice-mode in 4.191s, finished at 2023-12-31T00:29:48+0000
+  2023-12-31T08:08:41+0000  spice-mode-20220210.1414.entry
+  2023-12-31T08:08:41+0000  spice-mode-20220210.1414.tar
+Built spice-mode in 9.377s, finished at 2023-12-31T08:08:45+0000

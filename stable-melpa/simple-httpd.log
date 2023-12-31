@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/simple-httpd/
 Checking out 347c30494d3bcfc79de35e54538f92f4e4a46ecd
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/simple-httpd/
-  to /tmp/simple-httpde3ZndB/simple-httpd-20230821.1458
+  to /tmp/simple-httpd7enCXw/simple-httpd-20230821.1458
     simple-httpd.el -> simple-httpd.el
 Created simple-httpd-20230821.1458.tar containing:
   simple-httpd-20230821.1458/
   simple-httpd-20230821.1458/simple-httpd-pkg.el
   simple-httpd-20230821.1458/simple-httpd.el
  ✓ Success:
-  2023-12-31T00:28:01+0000  simple-httpd-20230821.1458.entry
-  2023-12-31T00:28:01+0000  simple-httpd-20230821.1458.tar
-Built simple-httpd in 4.122s, finished at 2023-12-31T00:28:03+0000
+  2023-12-31T08:06:36+0000  simple-httpd-20230821.1458.entry
+  2023-12-31T08:06:36+0000  simple-httpd-20230821.1458.tar
+Built simple-httpd in 4.455s, finished at 2023-12-31T08:06:38+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/timecop/
 Checking out 3a1871613facc928ff250ed8f12fbc7073e46b75
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/timecop/
-  to /tmp/timecopDZluLF/timecop-20160520.1052
+  to /tmp/timecop8J5F4h/timecop-20160520.1052
     timecop.el -> timecop.el
 Created timecop-20160520.1052.tar containing:
   timecop-20160520.1052/
   timecop-20160520.1052/timecop-pkg.el
   timecop-20160520.1052/timecop.el
  ✓ Success:
-  2023-12-31T00:32:56+0000  timecop-20160520.1052.entry
-  2023-12-31T00:32:56+0000  timecop-20160520.1052.tar
-Built timecop in 3.574s, finished at 2023-12-31T00:32:58+0000
+  2023-12-31T08:11:57+0000  timecop-20160520.1052.entry
+  2023-12-31T08:11:57+0000  timecop-20160520.1052.tar
+Built timecop in 4.245s, finished at 2023-12-31T08:11:59+0000
