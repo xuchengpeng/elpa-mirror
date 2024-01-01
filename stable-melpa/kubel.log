@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/abrochard/kubel.git
 
 Updating /mnt/store/melpa/working/kubel/
-Checking out 58e0e98ba0f9c91c91380fc55ab708198e770ebb
+Checking out f6858ccd1ee3fa247f4de78da46673ce8354146e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/kubel/
-  to /tmp/kubelubvXof/kubel-20231224.1345
+  to /tmp/kubelz3thKM/kubel-20231231.1805
     kubel.el -> kubel.el
-Created kubel-20231224.1345.tar containing:
-  kubel-20231224.1345/
-  kubel-20231224.1345/kubel-pkg.el
-  kubel-20231224.1345/kubel.el
+Created kubel-20231231.1805.tar containing:
+  kubel-20231231.1805/
+  kubel-20231231.1805/kubel-pkg.el
+  kubel-20231231.1805/kubel.el
  ✓ Success:
-  2023-12-31T07:43:27+0000  kubel-20231224.1345.entry
-  2023-12-31T07:43:27+0000  kubel-20231224.1345.tar
-Built kubel in 3.760s, finished at 2023-12-31T07:43:28+0000
+  2024-01-01T00:57:43+0000  kubel-20231231.1805.entry
+  2024-01-01T00:57:43+0000  kubel-20231231.1805.tar
+Built kubel in 5.942s, finished at 2024-01-01T00:57:46+0000

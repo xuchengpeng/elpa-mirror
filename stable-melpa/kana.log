@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/kana/
 Checking out d3d550aad67ef8625b3860598bf3622f5b2a7d32
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/kana/
-  to /tmp/kanakr0cp0/kana-20210531.1427
+  to /tmp/kanaythQCf/kana-20210531.1427
     kana.el -> kana.el
 Created kana-20210531.1427.tar containing:
   kana-20210531.1427/
   kana-20210531.1427/kana-pkg.el
   kana-20210531.1427/kana.el
  ✓ Success:
-  2023-12-31T07:42:34+0000  kana-20210531.1427.entry
-  2023-12-31T07:42:34+0000  kana-20210531.1427.tar
-Built kana in 3.845s, finished at 2023-12-31T07:42:36+0000
+  2024-01-01T00:56:44+0000  kana-20210531.1427.entry
+  2024-01-01T00:56:43+0000  kana-20210531.1427.tar
+Built kana in 3.210s, finished at 2024-01-01T00:56:45+0000

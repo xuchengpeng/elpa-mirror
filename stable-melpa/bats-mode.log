@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/bats-mode/
 Checking out fa88930b1baba101ae6474f289a239a236a7d19f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/bats-mode/
-  to /tmp/bats-modeVIZoZh/bats-mode-20230325.7
+  to /tmp/bats-modesdmJyY/bats-mode-20230325.7
     bats-mode.el -> bats-mode.el
 Created bats-mode-20230325.7.tar containing:
   bats-mode-20230325.7/
   bats-mode-20230325.7/bats-mode-pkg.el
   bats-mode-20230325.7/bats-mode.el
  ✓ Success:
-  2023-12-31T07:09:43+0000  bats-mode-20230325.7.entry
-  2023-12-31T07:09:43+0000  bats-mode-20230325.7.tar
-Built bats-mode in 5.253s, finished at 2023-12-31T07:09:46+0000
+  2024-01-01T00:24:04+0000  bats-mode-20230325.7.entry
+  2024-01-01T00:24:04+0000  bats-mode-20230325.7.tar
+Built bats-mode in 3.442s, finished at 2024-01-01T00:24:06+0000

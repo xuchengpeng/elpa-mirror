@@ -1,0 +1,18 @@
+Package: zig-mode
+Fetcher: github
+Source:  https://github.com/ziglang/zig-mode.git
+
+Updating /mnt/store/melpa/working/zig-mode/
+Checking out 079149a19fc869343130e69d7b944afd3a1813cc
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/zig-mode/
+  to /tmp/zig-modeG1NJSL/zig-mode-20230815.2033
+    zig-mode.el -> zig-mode.el
+Created zig-mode-20230815.2033.tar containing:
+  zig-mode-20230815.2033/
+  zig-mode-20230815.2033/zig-mode-pkg.el
+  zig-mode-20230815.2033/zig-mode.el
+ ✓ Success:
+  2023-12-31T23:37:55+0000  zig-mode-20230815.2033.entry
+  2023-12-31T23:37:55+0000  zig-mode-20230815.2033.tar
+Built zig-mode in 3.578s, finished at 2023-12-31T23:37:57+0000
