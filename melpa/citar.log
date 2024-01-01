@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/citar/
 Checking out 885b86f6733fd70f42c32dd7791d3447f93db990
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/citar/
-  to /tmp/citaraATKlU/citar-20231226.1453
+  to /tmp/citar8VTk80/citar-20231226.1453
     citar-cache.el -> citar-cache.el
     citar-capf.el -> citar-capf.el
     citar-citeproc.el -> citar-citeproc.el
@@ -29,6 +29,6 @@ Created citar-20231226.1453.tar containing:
   citar-20231226.1453/citar-pkg.el
   citar-20231226.1453/citar.el
  ✓ Success:
-  2024-01-01T00:27:20+0000  citar-20231226.1453.entry
-  2024-01-01T00:27:20+0000  citar-20231226.1453.tar
-Built citar in 4.085s, finished at 2024-01-01T00:27:22+0000
+  2024-01-01T08:08:36+0000  citar-20231226.1453.entry
+  2024-01-01T08:08:36+0000  citar-20231226.1453.tar
+Built citar in 3.936s, finished at 2024-01-01T08:08:38+0000
