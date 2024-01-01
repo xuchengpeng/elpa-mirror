@@ -1,0 +1,18 @@
+Package: ergoemacs-status
+Fetcher: github
+Source:  https://github.com/ergoemacs/ergoemacs-status.git
+
+Updating /mnt/store/melpa/working/ergoemacs-status/
+Checking out d952cc2361adf6eb4d6af60950ad4ab699c81320
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/ergoemacs-status/
+  to /tmp/ergoemacs-statusOxP0px/ergoemacs-status-20160318.538
+    ergoemacs-status.el -> ergoemacs-status.el
+Created ergoemacs-status-20160318.538.tar containing:
+  ergoemacs-status-20160318.538/
+  ergoemacs-status-20160318.538/ergoemacs-status-pkg.el
+  ergoemacs-status-20160318.538/ergoemacs-status.el
+ ✓ Success:
+  2024-01-01T15:58:31+0000  ergoemacs-status-20160318.538.entry
+  2024-01-01T15:58:31+0000  ergoemacs-status-20160318.538.tar
+Built ergoemacs-status in 3.796s, finished at 2024-01-01T15:58:33+0000

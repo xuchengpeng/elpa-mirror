@@ -4,3 +4,32 @@ Source:  https://github.com/erlang/otp.git
 
 Updating /mnt/store/melpa/working/erlang/
 Checking out bd55bb110c2ae8e51e14f4a26c9116e1db3b3cc3
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/erlang/
+  to /tmp/erlangChFyQh/erlang-20231110.1018
+  ! lib/tools/emacs/erlang-edoc.el -> erlang-edoc.el
+  ! lib/tools/emacs/erlang-eunit.el -> erlang-eunit.el
+  ! lib/tools/emacs/erlang-flymake.el -> erlang-flymake.el
+  ! lib/tools/emacs/erlang-pkg.el -> erlang-pkg.el
+  ! lib/tools/emacs/erlang-skels-old.el -> erlang-skels-old.el
+  ! lib/tools/emacs/erlang-skels.el -> erlang-skels.el
+  ! lib/tools/emacs/erlang-start.el -> erlang-start.el
+  ! lib/tools/emacs/erlang-test.el -> erlang-test.el
+  ! lib/tools/emacs/erlang.el -> erlang.el
+  ! lib/tools/emacs/erldoc.el -> erldoc.el
+Created erlang-20231110.1018.tar containing:
+  erlang-20231110.1018/
+  erlang-20231110.1018/erlang-edoc.el
+  erlang-20231110.1018/erlang-eunit.el
+  erlang-20231110.1018/erlang-flymake.el
+  erlang-20231110.1018/erlang-pkg.el
+  erlang-20231110.1018/erlang-skels-old.el
+  erlang-20231110.1018/erlang-skels.el
+  erlang-20231110.1018/erlang-start.el
+  erlang-20231110.1018/erlang-test.el
+  erlang-20231110.1018/erlang.el
+  erlang-20231110.1018/erldoc.el
+ ✓ Success:
+  2024-01-01T15:58:43+0000  erlang-20231110.1018.entry
+  2024-01-01T15:58:43+0000  erlang-20231110.1018.tar
+Built erlang in 13.619s, finished at 2024-01-01T15:58:45+0000

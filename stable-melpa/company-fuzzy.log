@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/jcs-elpa/company-fuzzy.git
 
 Updating /mnt/store/melpa/working/company-fuzzy/
-Checking out eb80c961f7ff34bbec724b933161986575ad4aec
+Checking out 059e3e0893a2b3c0ad4bf27b6963e7547b97b5d4
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/company-fuzzy/
-  to /tmp/company-fuzzyaMLcNs/company-fuzzy-20231229.1311
+  to /tmp/company-fuzzyg4mf0f/company-fuzzy-20240101.943
     company-fuzzy.el -> company-fuzzy.el
-Created company-fuzzy-20231229.1311.tar containing:
-  company-fuzzy-20231229.1311/
-  company-fuzzy-20231229.1311/company-fuzzy-pkg.el
-  company-fuzzy-20231229.1311/company-fuzzy.el
+Created company-fuzzy-20240101.943.tar containing:
+  company-fuzzy-20240101.943/
+  company-fuzzy-20240101.943/company-fuzzy-pkg.el
+  company-fuzzy-20240101.943/company-fuzzy.el
  ✓ Success:
-  2024-01-01T08:10:09+0000  company-fuzzy-20231229.1311.entry
-  2024-01-01T08:10:09+0000  company-fuzzy-20231229.1311.tar
-Built company-fuzzy in 4.147s, finished at 2024-01-01T08:10:10+0000
+  2024-01-01T15:49:02+0000  company-fuzzy-20240101.943.entry
+  2024-01-01T15:49:02+0000  company-fuzzy-20240101.943.tar
+Built company-fuzzy in 4.116s, finished at 2024-01-01T15:49:03+0000
