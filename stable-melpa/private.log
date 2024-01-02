@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/private/
 Checking out f57f1c2f6bfe900bd40b252688df4c6ed6a5f44b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/private/
-  to /tmp/privatelxsUBS/private-20150122.157
+  to /tmp/privatekDmqOf/private-20150122.157
     private.el -> private.el
 Created private-20150122.157.tar containing:
   private-20150122.157/
   private-20150122.157/private-pkg.el
   private-20150122.157/private.el
  ✓ Success:
-  2024-01-02T00:26:16+0000  private-20150122.157.entry
-  2024-01-02T00:26:16+0000  private-20150122.157.tar
-Built private in 3.180s, finished at 2024-01-02T00:26:17+0000
+  2024-01-02T08:19:40+0000  private-20150122.157.entry
+  2024-01-02T08:19:39+0000  private-20150122.157.tar
+Built private in 5.711s, finished at 2024-01-02T08:19:43+0000
