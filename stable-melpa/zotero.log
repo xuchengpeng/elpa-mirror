@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/zotero/
 Checking out a4416c61d6e60d993a27bf2ee5dbc1b94caae278
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/zotero/
-  to /tmp/zotero7pmE4f/zotero-20240102.934
+  to /tmp/zoterou4oi9x/zotero-20240102.934
     zotero-arxiv.el -> zotero-arxiv.el
     zotero-auth.el -> zotero-auth.el
     zotero-browser.el -> zotero-browser.el
@@ -98,6 +98,6 @@ Created zotero-20240102.934.tar containing:
   zotero-20240102.934/zotero-sync.el
   zotero-20240102.934/zotero.el
  ✓ Success:
-  2024-01-03T00:22:40+0000  zotero-20240102.934.entry
-  2024-01-03T00:22:40+0000  zotero-20240102.934.tar
-Built zotero in 6.535s, finished at 2024-01-03T00:22:43+0000
+  2024-01-03T15:50:46+0000  zotero-20240102.934.entry
+  2024-01-03T15:50:46+0000  zotero-20240102.934.tar
+Built zotero in 4.489s, finished at 2024-01-03T15:50:48+0000

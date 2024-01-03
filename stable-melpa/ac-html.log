@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/ac-html/
 Checking out 3de94a46d8cb93e8e62a1b6bdebbde4d65dc7cc2
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ac-html/
-  to /tmp/ac-html5QuGLk/ac-html-20151005.731
+  to /tmp/ac-htmlWvmFNw/ac-html-20151005.731
     ac-haml.el -> ac-haml.el
     ac-html-core.el -> ac-html-core.el
     ac-html-default-data-provider.el -> ac-html-default-data-provider.el
@@ -3166,6 +3166,6 @@ Created ac-html-20151005.731.tar containing:
   ac-html-20151005.731/completion-data/html-tag-short-docs/wbr
   ac-html-20151005.731/completion-data/html-tag-short-docs/xmp
  ✓ Success:
-  2024-01-03T01:05:24+0000  ac-html-20151005.731.entry
-  2024-01-03T01:05:22+0000  ac-html-20151005.731.tar
-Built ac-html in 14.978s, finished at 2024-01-03T01:05:28+0000
+  2024-01-03T14:37:57+0000  ac-html-20151005.731.entry
+  2024-01-03T14:37:53+0000  ac-html-20151005.731.tar
+Built ac-html in 17.278s, finished at 2024-01-03T14:38:02+0000
