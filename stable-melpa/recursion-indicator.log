@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/minad/recursion-indicator.git
 
 Updating /mnt/store/melpa/working/recursion-indicator/
-Checking out 0133ab27085625983d09a82f518e735aa9ec6d0d
+Checking out dd9195da974c330d00e63e14cafc855590154ff5
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/recursion-indicator/
-  to /tmp/recursion-indicatorCGzsEY/recursion-indicator-20240102.333
+  to /tmp/recursion-indicatorJ009zq/recursion-indicator-20240102.1630
     recursion-indicator.el -> recursion-indicator.el
-Created recursion-indicator-20240102.333.tar containing:
-  recursion-indicator-20240102.333/
-  recursion-indicator-20240102.333/recursion-indicator-pkg.el
-  recursion-indicator-20240102.333/recursion-indicator.el
+Created recursion-indicator-20240102.1630.tar containing:
+  recursion-indicator-20240102.1630/
+  recursion-indicator-20240102.1630/recursion-indicator-pkg.el
+  recursion-indicator-20240102.1630/recursion-indicator.el
  ✓ Success:
-  2024-01-02T06:21:34+0000  recursion-indicator-20240102.333.entry
-  2024-01-02T06:21:34+0000  recursion-indicator-20240102.333.tar
-Built recursion-indicator in 3.779s, finished at 2024-01-02T06:21:36+0000
+  2024-01-03T00:07:04+0000  recursion-indicator-20240102.1630.entry
+  2024-01-03T00:07:04+0000  recursion-indicator-20240102.1630.tar
+Built recursion-indicator in 3.824s, finished at 2024-01-03T00:07:05+0000
