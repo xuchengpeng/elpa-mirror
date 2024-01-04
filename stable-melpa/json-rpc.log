@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/json-rpc/
 Checking out 81a5a520072e20d18aeab2aac4d66c046b031e56
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/json-rpc/
-  to /tmp/json-rpcTlHbei/json-rpc-20200417.1629
+  to /tmp/json-rpcfalRkW/json-rpc-20200417.1629
     json-rpc.el -> json-rpc.el
 Created json-rpc-20200417.1629.tar containing:
   json-rpc-20200417.1629/
   json-rpc-20200417.1629/json-rpc-pkg.el
   json-rpc-20200417.1629/json-rpc.el
  ✓ Success:
-  2024-01-03T15:13:43+0000  json-rpc-20200417.1629.entry
-  2024-01-03T15:13:43+0000  json-rpc-20200417.1629.tar
-Built json-rpc in 3.994s, finished at 2024-01-03T15:13:44+0000
+  2024-01-04T00:56:26+0000  json-rpc-20200417.1629.entry
+  2024-01-04T00:56:26+0000  json-rpc-20200417.1629.tar
+Built json-rpc in 3.873s, finished at 2024-01-04T00:56:28+0000
