@@ -3,16 +3,7 @@ Fetcher: git
 Source:  https://repo.or.cz/eldoc-overlay.git
 
 Updating /mnt/store/melpa/working/eldoc-overlay/
-Checking out 14a9e141918c2e18a107920e8631e622c580b3ef
-Copying files (->) and directories (=>)
-  from /mnt/store/melpa/working/eldoc-overlay/
-  to /tmp/eldoc-overlayioJXt5/eldoc-overlay-20230406.959
-    eldoc-overlay.el -> eldoc-overlay.el
-Created eldoc-overlay-20230406.959.tar containing:
-  eldoc-overlay-20230406.959/
-  eldoc-overlay-20230406.959/eldoc-overlay-pkg.el
-  eldoc-overlay-20230406.959/eldoc-overlay.el
- ✓ Success:
-  2024-01-04T23:18:17+0000  eldoc-overlay-20230406.959.entry
-  2024-01-04T23:18:17+0000  eldoc-overlay-20230406.959.tar
-Built eldoc-overlay in 6.959s, finished at 2024-01-04T23:18:20+0000
+Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
+fatal: unable to access 'https://repo.or.cz/eldoc-overlay.git/': Failed to connect to repo.or.cz port 443: Connection timed out
+
+Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
