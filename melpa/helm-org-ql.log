@@ -6,15 +6,13 @@ Updating /mnt/store/melpa/working/helm-org-ql/
 Checking out 51869fd7f968a8beaebf0dbaeaeaa08a21bb252a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/helm-org-ql/
-  to /tmp/helm-org-ql6l8z8i/helm-org-ql-20240104.47
+  to /tmp/helm-org-qlo02FnF/helm-org-ql-20240104.47
     helm-org-ql.el -> helm-org-ql.el
 Created helm-org-ql-20240104.47.tar containing:
   helm-org-ql-20240104.47/
   helm-org-ql-20240104.47/helm-org-ql-pkg.el
   helm-org-ql-20240104.47/helm-org-ql.el
  ✓ Success:
-  2024-01-03T22:56:00+0000  helm-org-ql-20231221.2314.entry
-  2024-01-03T22:56:00+0000  helm-org-ql-20231221.2314.tar
-  2024-01-04T00:51:05+0000  helm-org-ql-20240104.47.entry
-  2024-01-04T00:51:05+0000  helm-org-ql-20240104.47.tar
-Built helm-org-ql in 4.925s, finished at 2024-01-04T00:51:06+0000
+  2024-01-04T23:32:33+0000  helm-org-ql-20240104.47.entry
+  2024-01-04T23:32:33+0000  helm-org-ql-20240104.47.tar
+Built helm-org-ql in 4.679s, finished at 2024-01-04T23:32:35+0000

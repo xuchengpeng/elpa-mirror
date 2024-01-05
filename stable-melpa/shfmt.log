@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/purcell/emacs-shfmt.git
 
 Updating /mnt/store/melpa/working/shfmt/
-Checking out 52f063c5daa32d0337373f9ee4dcd9083d97fbe1
+Checking out 1a747c53eab1c0cd4d2708e5ffb953f9761ca7fb
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/shfmt/
-  to /tmp/shfmtb0gIyQ/shfmt-20231206.1010
+  to /tmp/shfmt2lDG33/shfmt-20240104.1218
     shfmt.el -> shfmt.el
-Created shfmt-20231206.1010.tar containing:
-  shfmt-20231206.1010/
-  shfmt-20231206.1010/shfmt-pkg.el
-  shfmt-20231206.1010/shfmt.el
+Created shfmt-20240104.1218.tar containing:
+  shfmt-20240104.1218/
+  shfmt-20240104.1218/shfmt-pkg.el
+  shfmt-20240104.1218/shfmt.el
  ✓ Success:
-  2024-01-03T23:25:24+0000  shfmt-20231206.1010.entry
-  2024-01-03T23:25:24+0000  shfmt-20231206.1010.tar
-Built shfmt in 4.088s, finished at 2024-01-03T23:25:26+0000
+  2024-01-05T00:02:00+0000  shfmt-20240104.1218.entry
+  2024-01-05T00:02:00+0000  shfmt-20240104.1218.tar
+Built shfmt in 4.013s, finished at 2024-01-05T00:02:02+0000

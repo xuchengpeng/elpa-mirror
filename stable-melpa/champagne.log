@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/champagne/
 Checking out 2106273c47f898006a799f0c5e35922af4b41f54
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/champagne/
-  to /tmp/champagnehwti4d/champagne-20231229.947
+  to /tmp/champagne39644J/champagne-20231229.947
   ! lisp/champagne.el -> champagne.el
 Created champagne-20231229.947.tar containing:
   champagne-20231229.947/
   champagne-20231229.947/champagne-pkg.el
   champagne-20231229.947/champagne.el
  ✓ Success:
-  2024-01-04T00:27:19+0000  champagne-20231229.947.entry
-  2024-01-04T00:27:19+0000  champagne-20231229.947.tar
-Built champagne in 3.895s, finished at 2024-01-04T00:27:20+0000
+  2024-01-05T01:04:43+0000  champagne-20231229.947.entry
+  2024-01-05T01:04:43+0000  champagne-20231229.947.tar
+Built champagne in 4.068s, finished at 2024-01-05T01:04:45+0000

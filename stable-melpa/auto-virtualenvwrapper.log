@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/auto-virtualenvwrapper/
 Checking out 8cc2616af46d7e26c1d9ecea5fffd8974e5b1acb
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/auto-virtualenvwrapper/
-  to /tmp/auto-virtualenvwrapperzux1i0/auto-virtualenvwrapper-20230317.1313
+  to /tmp/auto-virtualenvwrapper5hMjOU/auto-virtualenvwrapper-20230317.1313
     auto-virtualenvwrapper.el -> auto-virtualenvwrapper.el
 Created auto-virtualenvwrapper-20230317.1313.tar containing:
   auto-virtualenvwrapper-20230317.1313/
   auto-virtualenvwrapper-20230317.1313/auto-virtualenvwrapper-pkg.el
   auto-virtualenvwrapper-20230317.1313/auto-virtualenvwrapper.el
  ✓ Success:
-  2024-01-04T00:23:47+0000  auto-virtualenvwrapper-20230317.1313.entry
-  2024-01-04T00:23:47+0000  auto-virtualenvwrapper-20230317.1313.tar
-Built auto-virtualenvwrapper in 6.144s, finished at 2024-01-04T00:23:50+0000
+  2024-01-05T01:00:54+0000  auto-virtualenvwrapper-20230317.1313.entry
+  2024-01-05T01:00:54+0000  auto-virtualenvwrapper-20230317.1313.tar
+Built auto-virtualenvwrapper in 4.300s, finished at 2024-01-05T01:00:56+0000

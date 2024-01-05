@@ -3,16 +3,3 @@ Fetcher: github
 Source:  https://github.com/company-mode/company-quickhelp.git
 
 Updating /mnt/store/melpa/working/company-quickhelp/
-Checking out 5bda859577582cc42d16fc0eaf5f7c8bedfd9e69
-Copying files (->) and directories (=>)
-  from /mnt/store/melpa/working/company-quickhelp/
-  to /tmp/company-quickhelppI6gng/company-quickhelp-20231026.1714
-    company-quickhelp.el -> company-quickhelp.el
-Created company-quickhelp-20231026.1714.tar containing:
-  company-quickhelp-20231026.1714/
-  company-quickhelp-20231026.1714/company-quickhelp-pkg.el
-  company-quickhelp-20231026.1714/company-quickhelp.el
- ✓ Success:
-  2024-01-04T00:30:07+0000  company-quickhelp-20231026.1714.entry
-  2024-01-04T00:30:07+0000  company-quickhelp-20231026.1714.tar
-Built company-quickhelp in 7.136s, finished at 2024-01-04T00:30:10+0000
