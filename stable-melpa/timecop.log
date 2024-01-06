@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/emacs-php/emacs-datetime.git
 
 Updating /mnt/store/melpa/working/timecop/
-Checking out 3a1871613facc928ff250ed8f12fbc7073e46b75
+Checking out 090bfff5c28fa0a6cb629512003c49b3f43ed72d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/timecop/
-  to /tmp/timecoposnayG/timecop-20160520.1052
+  to /tmp/timecopQXgR3j/timecop-20240105.2100
     timecop.el -> timecop.el
-Created timecop-20160520.1052.tar containing:
-  timecop-20160520.1052/
-  timecop-20160520.1052/timecop-pkg.el
-  timecop-20160520.1052/timecop.el
+Created timecop-20240105.2100.tar containing:
+  timecop-20240105.2100/
+  timecop-20240105.2100/timecop-pkg.el
+  timecop-20240105.2100/timecop.el
  ✓ Success:
-  2024-01-05T15:25:19+0000  timecop-20160520.1052.entry
-  2024-01-05T15:25:19+0000  timecop-20160520.1052.tar
-Built timecop in 4.300s, finished at 2024-01-05T15:25:21+0000
+  2024-01-05T23:17:36+0000  timecop-20240105.2100.entry
+  2024-01-05T23:17:36+0000  timecop-20240105.2100.tar
+Built timecop in 4.176s, finished at 2024-01-05T23:17:37+0000
