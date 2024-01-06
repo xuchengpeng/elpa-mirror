@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/mic/
 Checking out 95dcc9fa306f579e8de6e417839841efe88ae1fc
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mic/
-  to /tmp/micpP9vKC/mic-20230725.1139
+  to /tmp/micBT8e2r/mic-20230725.1139
     mic-adapter.el -> mic-adapter.el
     mic-deffilter.el -> mic-deffilter.el
     mic-definputter.el -> mic-definputter.el
@@ -23,6 +23,6 @@ Created mic-20230725.1139.tar containing:
   mic-20230725.1139/mic-utils.el
   mic-20230725.1139/mic.el
  ✓ Success:
-  2024-01-06T00:51:08+0000  mic-20230725.1139.entry
-  2024-01-06T00:51:08+0000  mic-20230725.1139.tar
-Built mic in 4.167s, finished at 2024-01-06T00:51:10+0000
+  2024-01-06T14:32:47+0000  mic-20230725.1139.entry
+  2024-01-06T14:32:47+0000  mic-20230725.1139.tar
+Built mic in 3.624s, finished at 2024-01-06T14:32:48+0000

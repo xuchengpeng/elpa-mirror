@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/fpga/
 Checking out 9cf7b25ab7364f4e690e86b364cc3279cdffc25e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/fpga/
-  to /tmp/fpgacQ3XNV/fpga-20230913.2241
+  to /tmp/fpgamlevXM/fpga-20230913.2241
     fpga-altera.el -> fpga-altera.el
     fpga-cadence.el -> fpga-cadence.el
     fpga-lattice.el -> fpga-lattice.el
@@ -29,6 +29,6 @@ Created fpga-20230913.2241.tar containing:
   fpga-20230913.2241/fpga-yosys.el
   fpga-20230913.2241/fpga.el
  ✓ Success:
-  2024-01-06T00:33:28+0000  fpga-20230913.2241.entry
-  2024-01-06T00:33:28+0000  fpga-20230913.2241.tar
-Built fpga in 3.910s, finished at 2024-01-06T00:33:30+0000
+  2024-01-06T16:15:44+0000  fpga-20230913.2241.entry
+  2024-01-06T16:15:44+0000  fpga-20230913.2241.tar
+Built fpga in 2.803s, finished at 2024-01-06T16:15:45+0000

@@ -3,16 +3,7 @@ Fetcher: sourcehut
 Source:  https://git.sr.ht/~swflint/emacs-universal-sidecar
 
 Updating /mnt/store/melpa/working/universal-sidecar-elfeed-score/
-Checking out cf2cdcef95f5e3c30943506dda269c4295f2f5a0
-Copying files (->) and directories (=>)
-  from /mnt/store/melpa/working/universal-sidecar-elfeed-score/
-  to /tmp/universal-sidecar-elfeed-score6Jaxt8/universal-sidecar-elfeed-score-20240103.2118
-    universal-sidecar-elfeed-score.el -> universal-sidecar-elfeed-score.el
-Created universal-sidecar-elfeed-score-20240103.2118.tar containing:
-  universal-sidecar-elfeed-score-20240103.2118/
-  universal-sidecar-elfeed-score-20240103.2118/universal-sidecar-elfeed-score-pkg.el
-  universal-sidecar-elfeed-score-20240103.2118/universal-sidecar-elfeed-score.el
- ✓ Success:
-  2024-01-05T23:19:35+0000  universal-sidecar-elfeed-score-20240103.2118.entry
-  2024-01-05T23:19:35+0000  universal-sidecar-elfeed-score-20240103.2118.tar
-Built universal-sidecar-elfeed-score in 3.892s, finished at 2024-01-05T23:19:37+0000
+Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
+fatal: unable to access 'https://git.sr.ht/~swflint/emacs-universal-sidecar/': Failed to connect to git.sr.ht port 443: Connection timed out
+
+Command `git fetch -f --tags origin' exited with non-zero exit-code: 128

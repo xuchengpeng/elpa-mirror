@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/emacsql-sqlite/
 Checking out b436adf09ebe058c28e0f473bed90ccd7084f6aa
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/emacsql-sqlite/
-  to /tmp/emacsql-sqliteJWHxcv/emacsql-sqlite-20230225.2205
+  to /tmp/emacsql-sqliteB3CLhe/emacsql-sqlite-20230225.2205
     emacsql-sqlite.el -> emacsql-sqlite.el
     sqlite => sqlite
 Created emacsql-sqlite-20230225.2205.tar containing:
@@ -19,6 +19,6 @@ Created emacsql-sqlite-20230225.2205.tar containing:
   emacsql-sqlite-20230225.2205/sqlite/sqlite3.c
   emacsql-sqlite-20230225.2205/sqlite/sqlite3.h
  ✓ Success:
-  2024-01-06T00:25:37+0000  emacsql-sqlite-20230225.2205.entry
-  2024-01-06T00:25:37+0000  emacsql-sqlite-20230225.2205.tar
-Built emacsql-sqlite in 7.529s, finished at 2024-01-06T00:25:40+0000
+  2024-01-06T16:07:53+0000  emacsql-sqlite-20230225.2205.entry
+  2024-01-06T16:07:53+0000  emacsql-sqlite-20230225.2205.tar
+Built emacsql-sqlite in 1.782s, finished at 2024-01-06T16:07:53+0000
