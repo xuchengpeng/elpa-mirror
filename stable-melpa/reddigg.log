@@ -3,18 +3,16 @@ Fetcher: github
 Source:  https://github.com/thanhvg/emacs-reddigg.git
 
 Updating /mnt/store/melpa/working/reddigg/
-Checking out 3d7e167d1d2d23c0ce6c807adde602219068da3c
+Checking out 633c628d4544616cd023ca540819b784a6986426
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/reddigg/
-  to /tmp/reddigg5Fd0ZH/reddigg-20240106.2356
+  to /tmp/reddigg0s7xCJ/reddigg-20240107.235
     reddigg.el -> reddigg.el
-Created reddigg-20240106.2356.tar containing:
-  reddigg-20240106.2356/
-  reddigg-20240106.2356/reddigg-pkg.el
-  reddigg-20240106.2356/reddigg.el
+Created reddigg-20240107.235.tar containing:
+  reddigg-20240107.235/
+  reddigg-20240107.235/reddigg-pkg.el
+  reddigg-20240107.235/reddigg.el
  ✓ Success:
-  2024-01-06T22:48:07+0000  reddigg-20230810.2059.entry
-  2024-01-06T22:48:07+0000  reddigg-20230810.2059.tar
-  2024-01-07T00:46:56+0000  reddigg-20240106.2356.entry
-  2024-01-07T00:46:56+0000  reddigg-20240106.2356.tar
-Built reddigg in 3.555s, finished at 2024-01-07T00:46:58+0000
+  2024-01-07T15:43:23+0000  reddigg-20240107.235.entry
+  2024-01-07T15:43:23+0000  reddigg-20240107.235.tar
+Built reddigg in 3.425s, finished at 2024-01-07T15:43:25+0000

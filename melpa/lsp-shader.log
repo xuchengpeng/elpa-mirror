@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/lsp-shader/
 Checking out 65b90c66222043dfed07e193670eb8e9e9a396b5
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/lsp-shader/
-  to /tmp/lsp-shaderPq8RsN/lsp-shader-20240101.952
+  to /tmp/lsp-shaderc9ltAE/lsp-shader-20240101.952
     lsp-shader.el -> lsp-shader.el
 Created lsp-shader-20240101.952.tar containing:
   lsp-shader-20240101.952/
   lsp-shader-20240101.952/lsp-shader-pkg.el
   lsp-shader-20240101.952/lsp-shader.el
  ✓ Success:
-  2024-01-07T00:29:27+0000  lsp-shader-20240101.952.entry
-  2024-01-07T00:29:27+0000  lsp-shader-20240101.952.tar
-Built lsp-shader in 3.206s, finished at 2024-01-07T00:29:28+0000
+  2024-01-07T15:25:52+0000  lsp-shader-20240101.952.entry
+  2024-01-07T15:25:52+0000  lsp-shader-20240101.952.tar
+Built lsp-shader in 2.780s, finished at 2024-01-07T15:25:53+0000
