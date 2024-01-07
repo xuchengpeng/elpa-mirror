@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/jlumpe/ox-json.git
 
 Updating /mnt/store/melpa/working/ox-json/
-Checking out 4d2e0aa7f92d07e16cea2dd5e1d250a3f243c3cf
+Checking out 57a43e3b3e400d219b80008c51373796b844c6b8
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ox-json/
-  to /tmp/ox-jsonqdtceE/ox-json-20210928.347
+  to /tmp/ox-jsonVvfwSB/ox-json-20240106.2116
     ox-json.el -> ox-json.el
-Created ox-json-20210928.347.tar containing:
-  ox-json-20210928.347/
-  ox-json-20210928.347/ox-json-pkg.el
-  ox-json-20210928.347/ox-json.el
+Created ox-json-20240106.2116.tar containing:
+  ox-json-20240106.2116/
+  ox-json-20240106.2116/ox-json-pkg.el
+  ox-json-20240106.2116/ox-json.el
  ✓ Success:
-  2024-01-06T14:42:00+0000  ox-json-20210928.347.entry
-  2024-01-06T14:42:00+0000  ox-json-20210928.347.tar
-Built ox-json in 2.020s, finished at 2024-01-06T14:42:01+0000
+  2024-01-07T00:40:37+0000  ox-json-20240106.2116.entry
+  2024-01-07T00:40:37+0000  ox-json-20240106.2116.tar
+Built ox-json in 3.423s, finished at 2024-01-07T00:40:38+0000
