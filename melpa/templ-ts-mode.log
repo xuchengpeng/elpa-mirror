@@ -2,17 +2,17 @@ Package: templ-ts-mode
 Fetcher: github
 Source:  https://github.com/danderson/templ-ts-mode.git
 
-Cloning https://github.com/danderson/templ-ts-mode.git to /mnt/store/melpa/working/templ-ts-mode/
-Checking out 38ecce8e5f33ecda7bcf540f0b89c58398c1a315
+Updating /mnt/store/melpa/working/templ-ts-mode/
+Checking out a39f1ed82fffe38647bec3c9de717f2be20e885a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/templ-ts-mode/
-  to /tmp/templ-ts-mode1xAMHj/templ-ts-mode-20240104.523
+  to /tmp/templ-ts-modeseAnGh/templ-ts-mode-20240108.506
     templ-ts-mode.el -> templ-ts-mode.el
-Created templ-ts-mode-20240104.523.tar containing:
-  templ-ts-mode-20240104.523/
-  templ-ts-mode-20240104.523/templ-ts-mode-pkg.el
-  templ-ts-mode-20240104.523/templ-ts-mode.el
+Created templ-ts-mode-20240108.506.tar containing:
+  templ-ts-mode-20240108.506/
+  templ-ts-mode-20240108.506/templ-ts-mode-pkg.el
+  templ-ts-mode-20240108.506/templ-ts-mode.el
  ✓ Success:
-  2024-01-07T23:43:41+0000  templ-ts-mode-20240104.523.entry
-  2024-01-07T23:43:41+0000  templ-ts-mode-20240104.523.tar
-Built templ-ts-mode in 2.133s, finished at 2024-01-07T23:43:42+0000
+  2024-01-08T07:37:17+0000  templ-ts-mode-20240108.506.entry
+  2024-01-08T07:37:17+0000  templ-ts-mode-20240108.506.tar
+Built templ-ts-mode in 2.866s, finished at 2024-01-08T07:37:18+0000
