@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/ta/
 Checking out 668ad41e71f374f8c32c8d0532f3d8485b355d35
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ta/
-  to /tmp/ta0V1j1J/ta-20160619.1645
+  to /tmp/tapCD2cl/ta-20160619.1645
     ta.el -> ta.el
 Created ta-20160619.1645.tar containing:
   ta-20160619.1645/
   ta-20160619.1645/ta-pkg.el
   ta-20160619.1645/ta.el
  ✓ Success:
-  2024-01-09T07:15:22+0000  ta-20160619.1645.entry
-  2024-01-09T07:15:22+0000  ta-20160619.1645.tar
-Built ta in 3.225s, finished at 2024-01-09T07:15:24+0000
+  2024-01-09T15:14:17+0000  ta-20160619.1645.entry
+  2024-01-09T15:14:17+0000  ta-20160619.1645.tar
+Built ta in 3.040s, finished at 2024-01-09T15:14:18+0000
