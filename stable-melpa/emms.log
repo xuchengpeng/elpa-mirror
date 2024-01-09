@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/emms/
 Checking out 1a56772dee80bf6a2f05e14adb5431355813fd89
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/emms/
-  to /tmp/emmsxbQnmy/emms-20240109.30
+  to /tmp/emmslHf6wJ/emms-20240109.30
     emms-bookmarks.el -> emms-bookmarks.el
     emms-browser.el -> emms-browser.el
     emms-cache.el -> emms-cache.el
@@ -69,7 +69,7 @@ Copying files (->) and directories (=>)
     emms-volume.el -> emms-volume.el
     emms.el -> emms.el
   ! doc/emms.texinfo -> emms.texinfo
-Generating /tmp/emmsxbQnmy/emms-20240109.30/emms.info
+Generating /tmp/emmslHf6wJ/emms-20240109.30/emms.info
 Created emms-20240109.30.tar containing:
   emms-20240109.30/
   emms-20240109.30/dir
@@ -137,8 +137,6 @@ Created emms-20240109.30.tar containing:
   emms-20240109.30/emms.el
   emms-20240109.30/emms.info
  ✓ Success:
-  2024-01-08T22:33:52+0000  emms-20240108.52.entry
-  2024-01-08T22:33:52+0000  emms-20240108.52.tar
-  2024-01-09T00:32:10+0000  emms-20240109.30.entry
-  2024-01-09T00:32:10+0000  emms-20240109.30.tar
-Built emms in 3.357s, finished at 2024-01-09T00:32:11+0000
+  2024-01-09T06:26:51+0000  emms-20240109.30.entry
+  2024-01-09T06:26:51+0000  emms-20240109.30.tar
+Built emms in 3.120s, finished at 2024-01-09T06:26:52+0000

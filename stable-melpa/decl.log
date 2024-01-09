@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/decl/
 Checking out 1b11ee91c4b2a2d30b236debf65538fbe4bf10a9
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/decl/
-  to /tmp/declu8TLqp/decl-20221027.1823
+  to /tmp/declp2UdkQ/decl-20221027.1823
     decl.el -> decl.el
 Created decl-20221027.1823.tar containing:
   decl-20221027.1823/
   decl-20221027.1823/decl-pkg.el
   decl-20221027.1823/decl.el
  ✓ Success:
-  2024-01-09T00:26:39+0000  decl-20221027.1823.entry
-  2024-01-09T00:26:39+0000  decl-20221027.1823.tar
-Built decl in 2.418s, finished at 2024-01-09T00:26:40+0000
+  2024-01-09T06:21:16+0000  decl-20221027.1823.entry
+  2024-01-09T06:21:16+0000  decl-20221027.1823.tar
+Built decl in 2.494s, finished at 2024-01-09T06:21:17+0000
