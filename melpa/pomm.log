@@ -3,23 +3,3 @@ Fetcher: github
 Source:  https://github.com/SqrtMinusOne/pomm.el.git
 
 Updating /mnt/store/melpa/working/pomm/
-Checking out a717c3a05352cb8a233a5b4330186ead077746ba
-Copying files (->) and directories (=>)
-  from /mnt/store/melpa/working/pomm/
-  to /tmp/pomm6O0BsR/pomm-20231225.2308
-    pomm-third-time.el -> pomm-third-time.el
-    pomm.el -> pomm.el
-    resources => resources
-Created pomm-20231225.2308.tar containing:
-  pomm-20231225.2308/
-  pomm-20231225.2308/pomm-pkg.el
-  pomm-20231225.2308/pomm-third-time.el
-  pomm-20231225.2308/pomm.el
-  pomm-20231225.2308/resources/
-  pomm-20231225.2308/resources/air_horn.wav
-  pomm-20231225.2308/resources/bell.wav
-  pomm-20231225.2308/resources/tick.wav
- ✓ Success:
-  2024-01-08T15:19:07+0000  pomm-20231225.2308.entry
-  2024-01-08T15:19:07+0000  pomm-20231225.2308.tar
-Built pomm in 3.520s, finished at 2024-01-08T15:19:09+0000
