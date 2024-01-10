@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/jxq0/org-tidy.git
 
 Updating /mnt/store/melpa/working/org-tidy/
-Checking out 7f07201ebdfb683718d90b208280a2eedcc01747
+Checking out 26d9636f0c43f1ee3f0528880111a4c1dd2bed32
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/org-tidy/
-  to /tmp/org-tidyS9QzxL/org-tidy-20231215.127
+  to /tmp/org-tidyJi4ElQ/org-tidy-20240110.114
     org-tidy.el -> org-tidy.el
-Created org-tidy-20231215.127.tar containing:
-  org-tidy-20231215.127/
-  org-tidy-20231215.127/org-tidy-pkg.el
-  org-tidy-20231215.127/org-tidy.el
+Created org-tidy-20240110.114.tar containing:
+  org-tidy-20240110.114/
+  org-tidy-20240110.114/org-tidy-pkg.el
+  org-tidy-20240110.114/org-tidy.el
  ✓ Success:
-  2024-01-10T00:54:15+0000  org-tidy-20231215.127.entry
-  2024-01-10T00:54:15+0000  org-tidy-20231215.127.tar
-Built org-tidy in 1.882s, finished at 2024-01-10T00:54:16+0000
+  2024-01-10T06:47:14+0000  org-tidy-20240110.114.entry
+  2024-01-10T06:47:14+0000  org-tidy-20240110.114.tar
+Built org-tidy in 3.371s, finished at 2024-01-10T06:47:15+0000
