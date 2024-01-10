@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/helm-sly/
 Checking out 3691626c80620e992a338c3222283d9149f1ecb5
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/helm-sly/
-  to /tmp/helm-sly2FPK8m/helm-sly-20210205.1424
+  to /tmp/helm-slyFQLHLq/helm-sly-20210205.1424
     helm-sly.el -> helm-sly.el
 Created helm-sly-20210205.1424.tar containing:
   helm-sly-20210205.1424/
   helm-sly-20210205.1424/helm-sly-pkg.el
   helm-sly-20210205.1424/helm-sly.el
  ✓ Success:
-  2024-01-09T14:40:23+0000  helm-sly-20210205.1424.entry
-  2024-01-09T14:40:23+0000  helm-sly-20210205.1424.tar
-Built helm-sly in 4.088s, finished at 2024-01-09T14:40:24+0000
+  2024-01-10T00:35:52+0000  helm-sly-20210205.1424.entry
+  2024-01-10T00:35:52+0000  helm-sly-20210205.1424.tar
+Built helm-sly in 3.856s, finished at 2024-01-10T00:35:54+0000
