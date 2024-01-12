@@ -3,16 +3,7 @@ Fetcher: codeberg
 Source:  https://codeberg.org/bram85/kagi.el.git
 
 Updating /mnt/store/melpa/working/kagi/
-Checking out 1cfb4c68867bf002ec528aa740e729acde57665a
-Copying files (->) and directories (=>)
-  from /mnt/store/melpa/working/kagi/
-  to /tmp/kagiDpri2d/kagi-20240110.2046
-    kagi.el -> kagi.el
-Created kagi-20240110.2046.tar containing:
-  kagi-20240110.2046/
-  kagi-20240110.2046/kagi-pkg.el
-  kagi-20240110.2046/kagi.el
- ✓ Success:
-  2024-01-11T16:15:39+0000  kagi-20240110.2046.entry
-  2024-01-11T16:15:38+0000  kagi-20240110.2046.tar
-Built kagi in 4.883s, finished at 2024-01-11T16:15:40+0000
+Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
+fatal: unable to access 'https://codeberg.org/bram85/kagi.el.git/': Failed to connect to codeberg.org port 443: Connection timed out
+
+Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
