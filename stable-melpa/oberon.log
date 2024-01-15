@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/oberon/
 Checking out fb57d18ce13835a8a69b6bafecdd9193ca9a59a3
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/oberon/
-  to /tmp/oberonpwO8sp/oberon-20120715.909
+  to /tmp/oberonpPrW8v/oberon-20120715.909
     oberon.el -> oberon.el
 Created oberon-20120715.909.tar containing:
   oberon-20120715.909/
   oberon-20120715.909/oberon-pkg.el
   oberon-20120715.909/oberon.el
  ✓ Success:
-  2024-01-14T15:24:42+0000  oberon-20120715.909.entry
-  2024-01-14T15:24:42+0000  oberon-20120715.909.tar
-Built oberon in 3.603s, finished at 2024-01-14T15:24:43+0000
+  2024-01-15T01:05:31+0000  oberon-20120715.909.entry
+  2024-01-15T01:05:31+0000  oberon-20120715.909.tar
+Built oberon in 4.091s, finished at 2024-01-15T01:05:33+0000
