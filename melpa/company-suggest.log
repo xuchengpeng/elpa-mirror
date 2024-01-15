@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/company-suggest/
 Checking out 1c89c9de3852f07ce28b0bedf1fbf56fe6eedcdc
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/company-suggest/
-  to /tmp/company-suggestKSm3AP/company-suggest-20200911.1845
+  to /tmp/company-suggestEIxUnM/company-suggest-20200911.1845
     company-suggest.el -> company-suggest.el
 Created company-suggest-20200911.1845.tar containing:
   company-suggest-20200911.1845/
   company-suggest-20200911.1845/company-suggest-pkg.el
   company-suggest-20200911.1845/company-suggest.el
  ✓ Success:
-  2024-01-15T00:28:41+0000  company-suggest-20200911.1845.entry
-  2024-01-15T00:28:41+0000  company-suggest-20200911.1845.tar
-Built company-suggest in 4.415s, finished at 2024-01-15T00:28:42+0000
+  2024-01-15T08:11:19+0000  company-suggest-20200911.1845.entry
+  2024-01-15T08:11:19+0000  company-suggest-20200911.1845.tar
+Built company-suggest in 5.185s, finished at 2024-01-15T08:11:20+0000

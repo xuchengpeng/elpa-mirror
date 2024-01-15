@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/cider/
 Checking out 7272ee4fffe85c187becc9e418ff534b4925c3ab
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/cider/
-  to /tmp/cider4iE9lt/cider-20240114.2321
+  to /tmp/ciderNI1xR9/cider-20240114.2321
     cider-apropos.el -> cider-apropos.el
     cider-browse-ns.el -> cider-browse-ns.el
     cider-browse-spec.el -> cider-browse-spec.el
@@ -97,8 +97,6 @@ Created cider-20240114.2321.tar containing:
   cider-20240114.2321/nrepl-client.el
   cider-20240114.2321/nrepl-dict.el
  ✓ Success:
-  2024-01-14T22:30:57+0000  cider-20240102.1938.entry
-  2024-01-14T22:30:57+0000  cider-20240102.1938.tar
-  2024-01-15T00:26:15+0000  cider-20240114.2321.entry
-  2024-01-15T00:26:15+0000  cider-20240114.2321.tar
-Built cider in 4.403s, finished at 2024-01-15T00:26:16+0000
+  2024-01-15T08:08:48+0000  cider-20240114.2321.entry
+  2024-01-15T08:08:48+0000  cider-20240114.2321.tar
+Built cider in 4.699s, finished at 2024-01-15T08:08:49+0000
