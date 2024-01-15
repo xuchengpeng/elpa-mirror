@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/edts/
 Checking out 5c3cded3fab56baa60874f4e1efd14155cec587f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/edts/
-  to /tmp/edtsrI2G5p/edts-20230926.2146
+  to /tmp/edtsJqx8KR/edts-20230926.2146
     edts-mode.el -> edts-mode.el
     edts-pkg.el -> edts-pkg.el
     edts-start.el -> edts-start.el
@@ -203,6 +203,6 @@ Created edts-20230926.2146.tar containing:
   edts-20230926.2146/start
   edts-20230926.2146/start.bat
  ✓ Success:
-  2024-01-15T08:17:28+0000  edts-20230926.2146.entry
-  2024-01-15T08:17:28+0000  edts-20230926.2146.tar
-Built edts in 4.315s, finished at 2024-01-15T08:17:30+0000
+  2024-01-15T15:56:37+0000  edts-20230926.2146.entry
+  2024-01-15T15:56:36+0000  edts-20230926.2146.tar
+Built edts in 4.243s, finished at 2024-01-15T15:56:38+0000

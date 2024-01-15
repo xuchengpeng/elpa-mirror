@@ -3,16 +3,18 @@ Fetcher: codeberg
 Source:  https://codeberg.org/bram85/kagi.el.git
 
 Updating /mnt/store/melpa/working/kagi/
-Checking out f82823c422ef5c07ef4c45669df0b72ac5217fbc
+Checking out f054879d376aef2f3533bcb9cc70cae1dd2e0824
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/kagi/
-  to /tmp/kagiv7ARI9/kagi-20240114.706
+  to /tmp/kagipmIpOl/kagi-20240115.1535
     kagi.el -> kagi.el
-Created kagi-20240114.706.tar containing:
-  kagi-20240114.706/
-  kagi-20240114.706/kagi-pkg.el
-  kagi-20240114.706/kagi.el
+Created kagi-20240115.1535.tar containing:
+  kagi-20240115.1535/
+  kagi-20240115.1535/kagi-pkg.el
+  kagi-20240115.1535/kagi.el
  ✓ Success:
-  2024-01-15T06:41:41+0000  kagi-20240114.706.entry
-  2024-01-15T06:41:40+0000  kagi-20240114.706.tar
-Built kagi in 4.509s, finished at 2024-01-15T06:41:42+0000
+  2024-01-15T14:21:36+0000  kagi-20240114.706.entry
+  2024-01-15T14:21:36+0000  kagi-20240114.706.tar
+  2024-01-15T16:17:34+0000  kagi-20240115.1535.entry
+  2024-01-15T16:17:34+0000  kagi-20240115.1535.tar
+Built kagi in 5.354s, finished at 2024-01-15T16:17:36+0000
