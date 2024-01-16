@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/json-rpc-server/
 Checking out 349e1f4722474bf1f75dbc8eb9d9c59d790b8083
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/json-rpc-server/
-  to /tmp/json-rpc-serverTgMIj1/json-rpc-server-20220205.1504
+  to /tmp/json-rpc-serverufihVx/json-rpc-server-20220205.1504
     json-rpc-server.el -> json-rpc-server.el
 Created json-rpc-server-20220205.1504.tar containing:
   json-rpc-server-20220205.1504/
   json-rpc-server-20220205.1504/json-rpc-server-pkg.el
   json-rpc-server-20220205.1504/json-rpc-server.el
  ✓ Success:
-  2024-01-15T16:17:10+0000  json-rpc-server-20220205.1504.entry
-  2024-01-15T16:17:10+0000  json-rpc-server-20220205.1504.tar
-Built json-rpc-server in 3.809s, finished at 2024-01-15T16:17:12+0000
+  2024-01-16T16:18:44+0000  json-rpc-server-20220205.1504.entry
+  2024-01-16T16:18:44+0000  json-rpc-server-20220205.1504.tar
+Built json-rpc-server in 6.337s, finished at 2024-01-16T16:18:47+0000
