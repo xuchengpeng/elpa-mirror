@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/hcl-mode/
 Checking out 35784854efd29fa8c9fe827654d747a2ace5cb19
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/hcl-mode/
-  to /tmp/hcl-modeJ8Zfdj/hcl-mode-20230302.1029
+  to /tmp/hcl-modegUPDeP/hcl-mode-20230302.1029
     hcl-mode.el -> hcl-mode.el
 Created hcl-mode-20230302.1029.tar containing:
   hcl-mode-20230302.1029/
   hcl-mode-20230302.1029/hcl-mode-pkg.el
   hcl-mode-20230302.1029/hcl-mode.el
  ✓ Success:
-  2024-01-18T00:38:04+0000  hcl-mode-20230302.1029.entry
-  2024-01-18T00:38:04+0000  hcl-mode-20230302.1029.tar
-Built hcl-mode in 3.655s, finished at 2024-01-18T00:38:05+0000
+  2024-01-18T08:09:08+0000  hcl-mode-20230302.1029.entry
+  2024-01-18T08:09:08+0000  hcl-mode-20230302.1029.tar
+Built hcl-mode in 4.047s, finished at 2024-01-18T08:09:10+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/kagi/
 Checking out d75542ac7f7f1745badae6722b10369be50caa37
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/kagi/
-  to /tmp/kagiIEHtOf/kagi-20240116.530
+  to /tmp/kagiKoXcI7/kagi-20240116.530
     kagi.el -> kagi.el
 Created kagi-20240116.530.tar containing:
   kagi-20240116.530/
   kagi-20240116.530/kagi-pkg.el
   kagi-20240116.530/kagi.el
  ✓ Success:
-  2024-01-18T00:45:33+0000  kagi-20240116.530.entry
-  2024-01-18T00:45:32+0000  kagi-20240116.530.tar
-Built kagi in 9.665s, finished at 2024-01-18T00:45:36+0000
+  2024-01-18T08:16:16+0000  kagi-20240116.530.entry
+  2024-01-18T08:16:16+0000  kagi-20240116.530.tar
+Built kagi in 4.701s, finished at 2024-01-18T08:16:18+0000
