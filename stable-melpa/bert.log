@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/bert/
 Checking out a3eec6980a725aa4abd2019e4c00246450260490
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/bert/
-  to /tmp/bertW7sKWR/bert-20131117.1014
+  to /tmp/bert4i9oXd/bert-20131117.1014
     bert.el -> bert.el
 Created bert-20131117.1014.tar containing:
   bert-20131117.1014/
   bert-20131117.1014/bert-pkg.el
   bert-20131117.1014/bert.el
  ✓ Success:
-  2024-01-19T00:53:38+0000  bert-20131117.1014.entry
-  2024-01-19T00:53:38+0000  bert-20131117.1014.tar
-Built bert in 3.298s, finished at 2024-01-19T00:53:39+0000
+  2024-01-19T16:12:20+0000  bert-20131117.1014.entry
+  2024-01-19T16:12:20+0000  bert-20131117.1014.tar
+Built bert in 3.541s, finished at 2024-01-19T16:12:21+0000
