@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/pkgbuild-mode/
 Checking out 9525be8ecbd3a0d0bc7cc27e6d0f403e111aa067
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/pkgbuild-mode/
-  to /tmp/pkgbuild-modeF7VYvo/pkgbuild-mode-20220802.1951
+  to /tmp/pkgbuild-modeaOX0Vu/pkgbuild-mode-20220802.1951
     pkgbuild-mode.el -> pkgbuild-mode.el
 Created pkgbuild-mode-20220802.1951.tar containing:
   pkgbuild-mode-20220802.1951/
   pkgbuild-mode-20220802.1951/pkgbuild-mode-pkg.el
   pkgbuild-mode-20220802.1951/pkgbuild-mode.el
  ✓ Success:
-  2024-01-19T15:05:51+0000  pkgbuild-mode-20220802.1951.entry
-  2024-01-19T15:05:51+0000  pkgbuild-mode-20220802.1951.tar
-Built pkgbuild-mode in 6.443s, finished at 2024-01-19T15:05:54+0000
+  2024-01-20T08:12:01+0000  pkgbuild-mode-20220802.1951.entry
+  2024-01-20T08:12:01+0000  pkgbuild-mode-20220802.1951.tar
+Built pkgbuild-mode in 4.336s, finished at 2024-01-20T08:12:03+0000
