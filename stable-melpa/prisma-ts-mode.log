@@ -4,15 +4,3 @@ Source:  https://github.com/nverno/prisma-ts-mode.git
 
 Updating /mnt/store/melpa/working/prisma-ts-mode/
 Checking out a7029980140ae60612ef876efa17ab81bf4b3add
-Copying files (->) and directories (=>)
-  from /mnt/store/melpa/working/prisma-ts-mode/
-  to /tmp/prisma-ts-modevUPOdR/prisma-ts-mode-20231022.1802
-    prisma-ts-mode.el -> prisma-ts-mode.el
-Created prisma-ts-mode-20231022.1802.tar containing:
-  prisma-ts-mode-20231022.1802/
-  prisma-ts-mode-20231022.1802/prisma-ts-mode-pkg.el
-  prisma-ts-mode-20231022.1802/prisma-ts-mode.el
- ✓ Success:
-  2024-01-20T08:13:29+0000  prisma-ts-mode-20231022.1802.entry
-  2024-01-20T08:13:29+0000  prisma-ts-mode-20231022.1802.tar
-Built prisma-ts-mode in 3.455s, finished at 2024-01-20T08:13:31+0000

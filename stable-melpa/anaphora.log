@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/rolandwalker/anaphora.git
 
 Updating /mnt/store/melpa/working/anaphora/
-Checking out 3b2da3f759b244975852e79721c4a2dbad3905cf
+Checking out a755afa7db7f3fa515f8dd2c0518113be0b027f6
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/anaphora/
-  to /tmp/anaphorasfOel5/anaphora-20180618.2200
+  to /tmp/anaphoraH0AzVb/anaphora-20240120.1744
     anaphora.el -> anaphora.el
-Created anaphora-20180618.2200.tar containing:
-  anaphora-20180618.2200/
-  anaphora-20180618.2200/anaphora-pkg.el
-  anaphora-20180618.2200/anaphora.el
+Created anaphora-20240120.1744.tar containing:
+  anaphora-20240120.1744/
+  anaphora-20240120.1744/anaphora-pkg.el
+  anaphora-20240120.1744/anaphora.el
  ✓ Success:
-  2024-01-20T07:21:40+0000  anaphora-20180618.2200.entry
-  2024-01-20T07:21:40+0000  anaphora-20180618.2200.tar
-Built anaphora in 4.385s, finished at 2024-01-20T07:21:42+0000
+  2024-01-21T00:21:54+0000  anaphora-20240120.1744.entry
+  2024-01-21T00:21:54+0000  anaphora-20240120.1744.tar
+Built anaphora in 5.763s, finished at 2024-01-21T00:21:56+0000
