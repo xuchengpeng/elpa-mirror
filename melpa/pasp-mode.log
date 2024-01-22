@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/pasp-mode/
 Checking out 59385eb0e8ebcfc8c11dd811fb145d4b0fa3cc92
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/pasp-mode/
-  to /tmp/pasp-modePXlclP/pasp-mode-20180404.1700
+  to /tmp/pasp-modeKG0Rwl/pasp-mode-20180404.1700
     pasp-mode.el -> pasp-mode.el
 Created pasp-mode-20180404.1700.tar containing:
   pasp-mode-20180404.1700/
   pasp-mode-20180404.1700/pasp-mode-pkg.el
   pasp-mode-20180404.1700/pasp-mode.el
  ✓ Success:
-  2024-01-21T16:17:33+0000  pasp-mode-20180404.1700.entry
-  2024-01-21T16:17:33+0000  pasp-mode-20180404.1700.tar
-Built pasp-mode in 4.166s, finished at 2024-01-21T16:17:34+0000
+  2024-01-21T23:51:26+0000  pasp-mode-20180404.1700.entry
+  2024-01-21T23:51:26+0000  pasp-mode-20180404.1700.tar
+Built pasp-mode in 4.036s, finished at 2024-01-21T23:51:28+0000

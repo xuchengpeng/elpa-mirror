@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/wasp-mode/
 Checking out 76198cdd5f0ece3770c3a586115caea3ea613169
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/wasp-mode/
-  to /tmp/wasp-modesQQ49p/wasp-mode-20230424.1307
+  to /tmp/wasp-modevwB8X8/wasp-mode-20230424.1307
     wasp-mode.el -> wasp-mode.el
 Created wasp-mode-20230424.1307.tar containing:
   wasp-mode-20230424.1307/
   wasp-mode-20230424.1307/wasp-mode-pkg.el
   wasp-mode-20230424.1307/wasp-mode.el
  ✓ Success:
-  2024-01-21T14:40:24+0000  wasp-mode-20230424.1307.entry
-  2024-01-21T14:40:24+0000  wasp-mode-20230424.1307.tar
-Built wasp-mode in 3.672s, finished at 2024-01-21T14:40:26+0000
+  2024-01-22T00:09:14+0000  wasp-mode-20230424.1307.entry
+  2024-01-22T00:09:14+0000  wasp-mode-20230424.1307.tar
+Built wasp-mode in 3.864s, finished at 2024-01-22T00:09:16+0000
