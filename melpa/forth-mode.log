@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/forth-mode/
 Checking out 59c5ea89ca7593bd49cdde6caefa0893a8780105
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/forth-mode/
-  to /tmp/forth-modeFnz4dw/forth-mode-20231206.1127
+  to /tmp/forth-modeqjVNfL/forth-mode-20231206.1127
     forth-block-mode.el -> forth-block-mode.el
     forth-interaction-mode.el -> forth-interaction-mode.el
     forth-mode.el -> forth-mode.el
@@ -16,7 +16,7 @@ Copying files (->) and directories (=>)
     forth-syntax.el -> forth-syntax.el
     forth-mode.texi -> forth-mode.texi
     backend => backend
-Generating /tmp/forth-modeFnz4dw/forth-mode-20231206.1127/forth-mode.info
+Generating /tmp/forth-modeqjVNfL/forth-mode-20231206.1127/forth-mode.info
 Created forth-mode-20231206.1127.tar containing:
   forth-mode-20231206.1127/
   forth-mode-20231206.1127/backend/
@@ -38,6 +38,6 @@ Created forth-mode-20231206.1127.tar containing:
   forth-mode-20231206.1127/forth-spec.el
   forth-mode-20231206.1127/forth-syntax.el
  ✓ Success:
-  2024-01-24T08:17:53+0000  forth-mode-20231206.1127.entry
-  2024-01-24T08:17:53+0000  forth-mode-20231206.1127.tar
-Built forth-mode in 5.745s, finished at 2024-01-24T08:17:55+0000
+  2024-01-24T16:05:58+0000  forth-mode-20231206.1127.entry
+  2024-01-24T16:05:58+0000  forth-mode-20231206.1127.tar
+Built forth-mode in 5.784s, finished at 2024-01-24T16:06:00+0000
