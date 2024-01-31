@@ -6,14 +6,18 @@ Updating /mnt/store/melpa/working/elpher/
 Checking out 81f2883614c303184116449ec3583ef5c136ec2f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/elpher/
-  to /tmp/elphervhCxii/elpher-20230505.817
+  to /tmp/elpherpSF0z3/elpher-20230505.817
     elpher-pkg.el -> elpher-pkg.el
     elpher.el -> elpher.el
     elpher.texi -> elpher.texi
-Generating /tmp/elphervhCxii/elpher-20230505.817/elpher.info
+Generating /tmp/elpherpSF0z3/elpher-20230505.817/elpher.info
 Created elpher-20230505.817.tar containing:
   elpher-20230505.817/
   elpher-20230505.817/dir
   elpher-20230505.817/elpher-pkg.el
   elpher-20230505.817/elpher.el
   elpher-20230505.817/elpher.info
+ ✓ Success:
+  2024-01-31T14:53:53+0000  elpher-20230505.817.entry
+  2024-01-31T14:53:53+0000  elpher-20230505.817.tar
+Built elpher in 4.224s, finished at 2024-01-31T14:53:54+0000
