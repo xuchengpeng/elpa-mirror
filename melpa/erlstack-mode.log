@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/erlstack-mode/
 Checking out 51e3cd10a2fe77eb8eb60643aba6f8178374b069
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/erlstack-mode/
-  to /tmp/erlstack-mode1q2dXQ/erlstack-mode-20230608.909
+  to /tmp/erlstack-modeMmV7Mr/erlstack-mode-20230608.909
     erlstack-mode.el -> erlstack-mode.el
 Created erlstack-mode-20230608.909.tar containing:
   erlstack-mode-20230608.909/
   erlstack-mode-20230608.909/erlstack-mode-pkg.el
   erlstack-mode-20230608.909/erlstack-mode.el
  ✓ Success:
-  2024-02-01T00:56:38+0000  erlstack-mode-20230608.909.entry
-  2024-02-01T00:56:38+0000  erlstack-mode-20230608.909.tar
-Built erlstack-mode in 3.147s, finished at 2024-02-01T00:56:39+0000
+  2024-02-01T16:08:21+0000  erlstack-mode-20230608.909.entry
+  2024-02-01T16:08:21+0000  erlstack-mode-20230608.909.tar
+Built erlstack-mode in 4.250s, finished at 2024-02-01T16:08:22+0000

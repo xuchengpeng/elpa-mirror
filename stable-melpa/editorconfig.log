@@ -6,14 +6,14 @@ Updating /mnt/store/melpa/working/editorconfig/
 Checking out 4b81a5992858cbf03bcd7ed6ef31e4be0b55a7c1
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/editorconfig/
-  to /tmp/editorconfigYgHKy4/editorconfig-20240129.257
+  to /tmp/editorconfigu8dMW5/editorconfig-20240129.257
     editorconfig-conf-mode.el -> editorconfig-conf-mode.el
     editorconfig-core-handle.el -> editorconfig-core-handle.el
     editorconfig-core.el -> editorconfig-core.el
     editorconfig-fnmatch.el -> editorconfig-fnmatch.el
     editorconfig.el -> editorconfig.el
   ! doc/editorconfig.texi -> editorconfig.texi
-Generating /tmp/editorconfigYgHKy4/editorconfig-20240129.257/editorconfig.info
+Generating /tmp/editorconfigu8dMW5/editorconfig-20240129.257/editorconfig.info
 Created editorconfig-20240129.257.tar containing:
   editorconfig-20240129.257/
   editorconfig-20240129.257/dir
@@ -25,6 +25,6 @@ Created editorconfig-20240129.257.tar containing:
   editorconfig-20240129.257/editorconfig.el
   editorconfig-20240129.257/editorconfig.info
  ✓ Success:
-  2024-02-01T00:54:23+0000  editorconfig-20240129.257.entry
-  2024-02-01T00:54:23+0000  editorconfig-20240129.257.tar
-Built editorconfig in 5.350s, finished at 2024-02-01T00:54:25+0000
+  2024-02-01T16:06:02+0000  editorconfig-20240129.257.entry
+  2024-02-01T16:06:02+0000  editorconfig-20240129.257.tar
+Built editorconfig in 5.756s, finished at 2024-02-01T16:06:03+0000

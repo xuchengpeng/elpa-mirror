@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/comint-hyperlink/
 Checking out 905f2db1f95950899301b9f71faed9e9362cf5dc
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/comint-hyperlink/
-  to /tmp/comint-hyperlinkQ3u9Ns/comint-hyperlink-20211026.100
+  to /tmp/comint-hyperlinkkkG7vi/comint-hyperlink-20211026.100
     comint-hyperlink.el -> comint-hyperlink.el
 Created comint-hyperlink-20211026.100.tar containing:
   comint-hyperlink-20211026.100/
   comint-hyperlink-20211026.100/comint-hyperlink-pkg.el
   comint-hyperlink-20211026.100/comint-hyperlink.el
  ✓ Success:
-  2024-02-01T00:48:03+0000  comint-hyperlink-20211026.100.entry
-  2024-02-01T00:48:03+0000  comint-hyperlink-20211026.100.tar
-Built comint-hyperlink in 3.349s, finished at 2024-02-01T00:48:04+0000
+  2024-02-01T15:59:38+0000  comint-hyperlink-20211026.100.entry
+  2024-02-01T15:59:38+0000  comint-hyperlink-20211026.100.tar
+Built comint-hyperlink in 6.095s, finished at 2024-02-01T15:59:40+0000

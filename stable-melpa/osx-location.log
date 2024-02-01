@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/osx-location/
 Checking out 733f116dbc56ac73bee3cebe4a489dc9eb37ab78
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/osx-location/
-  to /tmp/osx-locationyLC2jL/osx-location-20200304.2209
+  to /tmp/osx-locationBjIgN2/osx-location-20200304.2209
     osx-location.el -> osx-location.el
     EmacsLocationHelper -> EmacsLocationHelper
 Created osx-location-20200304.2209.tar containing:
@@ -15,6 +15,6 @@ Created osx-location-20200304.2209.tar containing:
   osx-location-20200304.2209/osx-location-pkg.el
   osx-location-20200304.2209/osx-location.el
  ✓ Success:
-  2024-01-31T23:44:05+0000  osx-location-20200304.2209.entry
-  2024-01-31T23:44:05+0000  osx-location-20200304.2209.tar
-Built osx-location in 3.559s, finished at 2024-01-31T23:44:06+0000
+  2024-02-01T14:54:30+0000  osx-location-20200304.2209.entry
+  2024-02-01T14:54:30+0000  osx-location-20200304.2209.tar
+Built osx-location in 3.310s, finished at 2024-02-01T14:54:32+0000

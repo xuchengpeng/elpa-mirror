@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/pcache/
 Checking out cae29ddbc3d12fac18ab5cfc26fa3ef13eb97dad
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/pcache/
-  to /tmp/pcacheNBgRcO/pcache-20220724.1841
+  to /tmp/pcache4Wl9Di/pcache-20220724.1841
     pcache.el -> pcache.el
 Created pcache-20220724.1841.tar containing:
   pcache-20220724.1841/
   pcache-20220724.1841/pcache-pkg.el
   pcache-20220724.1841/pcache.el
  ✓ Success:
-  2024-01-31T23:45:21+0000  pcache-20220724.1841.entry
-  2024-01-31T23:45:21+0000  pcache-20220724.1841.tar
-Built pcache in 3.001s, finished at 2024-01-31T23:45:22+0000
+  2024-02-01T14:56:10+0000  pcache-20220724.1841.entry
+  2024-02-01T14:56:10+0000  pcache-20220724.1841.tar
+Built pcache in 3.169s, finished at 2024-02-01T14:56:11+0000
