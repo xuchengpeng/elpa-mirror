@@ -3,8 +3,16 @@ Fetcher: codeberg
 Source:  https://codeberg.org/hjudt/dired-duplicates.git
 
 Updating /mnt/store/melpa/working/dired-duplicates/
-Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
-error: RPC failed; HTTP 500 curl 22 The requested URL returned error: 500
-fatal: expected flush after ref listing
-
-Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
+Checking out e07552323b26ce68956f8b03aa66af145bae4d86
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/dired-duplicates/
+  to /tmp/dired-duplicates90YFQA/dired-duplicates-20231114.2150
+    dired-duplicates.el -> dired-duplicates.el
+Created dired-duplicates-20231114.2150.tar containing:
+  dired-duplicates-20231114.2150/
+  dired-duplicates-20231114.2150/dired-duplicates-pkg.el
+  dired-duplicates-20231114.2150/dired-duplicates.el
+ ✓ Success:
+  2024-02-01T00:51:59+0000  dired-duplicates-20231114.2150.entry
+  2024-02-01T00:51:59+0000  dired-duplicates-20231114.2150.tar
+Built dired-duplicates in 4.590s, finished at 2024-02-01T00:52:01+0000

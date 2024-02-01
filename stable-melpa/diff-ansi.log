@@ -3,8 +3,16 @@ Fetcher: codeberg
 Source:  https://codeberg.org/ideasman42/emacs-diff-ansi.git
 
 Updating /mnt/store/melpa/working/diff-ansi/
-Command `git remote set-head origin --auto' exited with non-zero exit-code: 128
-error: RPC failed; HTTP 500 curl 22 The requested URL returned error: 500
-fatal: expected flush after ref listing
-
-Command `git remote set-head origin --auto' exited with non-zero exit-code: 128
+Checking out cdae72a4713704692aa4edf3433d6b6df1d84746
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/diff-ansi/
+  to /tmp/diff-ansiCj3QoY/diff-ansi-20231221.57
+    diff-ansi.el -> diff-ansi.el
+Created diff-ansi-20231221.57.tar containing:
+  diff-ansi-20231221.57/
+  diff-ansi-20231221.57/diff-ansi-pkg.el
+  diff-ansi-20231221.57/diff-ansi.el
+ ✓ Success:
+  2024-02-01T00:51:41+0000  diff-ansi-20231221.57.entry
+  2024-02-01T00:51:41+0000  diff-ansi-20231221.57.tar
+Built diff-ansi in 4.532s, finished at 2024-02-01T00:51:43+0000

@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/aproject/
 Checking out 13e176ee69851403bec6471c5cceed17b7912b6f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/aproject/
-  to /tmp/aprojectBOFSRD/aproject-20220410.541
+  to /tmp/aproject0miI1n/aproject-20220410.541
     aproject-bookmark.el -> aproject-bookmark.el
     aproject-desktop.el -> aproject-desktop.el
     aproject-environ.el -> aproject-environ.el
@@ -23,6 +23,6 @@ Created aproject-20220410.541.tar containing:
   aproject-20220410.541/aproject-recentf.el
   aproject-20220410.541/aproject.el
  ✓ Success:
-  2024-01-31T14:41:35+0000  aproject-20220410.541.entry
-  2024-01-31T14:41:35+0000  aproject-20220410.541.tar
-Built aproject in 2.868s, finished at 2024-01-31T14:41:36+0000
+  2024-02-01T00:42:43+0000  aproject-20220410.541.entry
+  2024-02-01T00:42:43+0000  aproject-20220410.541.tar
+Built aproject in 2.932s, finished at 2024-02-01T00:42:44+0000
