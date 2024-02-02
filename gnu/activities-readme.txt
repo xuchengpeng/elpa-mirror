@@ -282,7 +282,26 @@ activity.
 5 Changelog
 ═══════════
 
-5.1 v0.3.3
+5.1 v0.4
+────────
+
+  *Additions*
+  ⁃ Option `activities-anti-save-predicates' prevents saving activity
+    states at inappropriate times.
+
+  *Fixes*
+  ⁃ Don't save activity state if a minibuffer is active.
+  ⁃ Offer only active activities for suspending.
+  ⁃ Don't raise frame when saving activity states.  (See [#4].  Thanks
+    to [JD Smith] for reporting.)
+
+
+[#4] <https://github.com/alphapapa/activities.el/issues/4>
+
+[JD Smith] <https://github.com/jdtsmith>
+
+
+5.2 v0.3.3
 ──────────
 
   *Fixes*
@@ -297,13 +316,13 @@ activity.
 [fuzy112] <https://github.com/fuzy112>
 
 
-5.2 v0.3.2
+5.3 v0.3.2
 ──────────
 
   Updated documentation, etc.
 
 
-5.3 v0.3.1
+5.4 v0.3.1
 ──────────
 
   *Fixes*
@@ -315,7 +334,7 @@ activity.
 [#7] <https://github.com/alphapapa/activities.el/issues/7>
 
 
-5.4 v0.3
+5.5 v0.3
 ────────
 
   *Additions*
@@ -326,7 +345,7 @@ activity.
   ⁃ Record times at which activities' states were updated.
 
 
-5.5 v0.2
+5.6 v0.2
 ────────
 
   *Additions*
@@ -345,7 +364,7 @@ activity.
 [JD Smith] <https://github.com/jdtsmith>
 
 
-5.6 v0.1.3
+5.7 v0.1.3
 ──────────
 
   *Fixes*
@@ -353,22 +372,22 @@ activity.
   ⁃ Command aliases.
 
 
-5.7 v0.1.2
+5.8 v0.1.2
 ──────────
 
   *Fixes*
   ⁃ Some single-window configurations were not restored properly.
 
 
-5.8 v0.1.1
+5.9 v0.1.1
 ──────────
 
   *Fixes*
   ⁃ Silence message about non-file-visiting buffers.
 
 
-5.9 v0.1
-────────
+5.10 v0.1
+─────────
 
   Initial release.
 
