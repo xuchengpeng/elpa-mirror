@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/treemacs/
 Checking out df26b6ab9a0f467e5ff99f7ed97551ccf756e06c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/treemacs/
-  to /tmp/treemacsWz0Kls/treemacs-20240126.642
+  to /tmp/treemacsH2lKXv/treemacs-20240126.642
     Changelog.org -> Changelog.org
     icons => icons
   ! src/elisp/treemacs-annotations.el -> treemacs-annotations.el
@@ -327,6 +327,6 @@ Created treemacs-20240126.642.tar containing:
   treemacs-20240126.642/treemacs-workspaces.el
   treemacs-20240126.642/treemacs.el
  ✓ Success:
-  2024-02-01T23:34:22+0000  treemacs-20240126.642.entry
-  2024-02-01T23:34:21+0000  treemacs-20240126.642.tar
-Built treemacs in 4.392s, finished at 2024-02-01T23:34:23+0000
+  2024-02-02T07:54:32+0000  treemacs-20240126.642.entry
+  2024-02-02T07:54:31+0000  treemacs-20240126.642.tar
+Built treemacs in 4.858s, finished at 2024-02-02T07:54:33+0000

@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/consult/
 Checking out 42aaed5cc85dfc21c9c31a43ccbf3db5b347e593
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/consult/
-  to /tmp/consultStavrc/consult-20240129.1525
+  to /tmp/consultJN2EoB/consult-20240129.1525
     consult-compile.el -> consult-compile.el
     consult-flymake.el -> consult-flymake.el
     consult-imenu.el -> consult-imenu.el
@@ -29,6 +29,6 @@ Created consult-20240129.1525.tar containing:
   consult-20240129.1525/consult-xref.el
   consult-20240129.1525/consult.el
  ✓ Success:
-  2024-02-02T00:25:40+0000  consult-20240129.1525.entry
-  2024-02-02T00:25:40+0000  consult-20240129.1525.tar
-Built consult in 3.024s, finished at 2024-02-02T00:25:40+0000
+  2024-02-02T07:05:17+0000  consult-20240129.1525.entry
+  2024-02-02T07:05:17+0000  consult-20240129.1525.tar
+Built consult in 3.369s, finished at 2024-02-02T07:05:18+0000

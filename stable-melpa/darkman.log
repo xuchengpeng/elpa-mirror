@@ -6,10 +6,10 @@ Updating /mnt/store/melpa/working/darkman/
 Checking out ecbeeee3b596123755ebb2d2b4bc0399b086ccbf
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/darkman/
-  to /tmp/darkmanCaTeTZ/darkman-20240105.1401
+  to /tmp/darkmanB5tBYb/darkman-20240105.1401
     darkman.el -> darkman.el
     MANUAL.texi -> MANUAL.texi
-Generating /tmp/darkmanCaTeTZ/darkman-20240105.1401/MANUAL.info
+Generating /tmp/darkmanB5tBYb/darkman-20240105.1401/MANUAL.info
 Created darkman-20240105.1401.tar containing:
   darkman-20240105.1401/
   darkman-20240105.1401/MANUAL.info
@@ -17,6 +17,6 @@ Created darkman-20240105.1401.tar containing:
   darkman-20240105.1401/darkman.el
   darkman-20240105.1401/dir
  ✓ Success:
-  2024-02-02T00:27:14+0000  darkman-20240105.1401.entry
-  2024-02-02T00:27:14+0000  darkman-20240105.1401.tar
-Built darkman in 7.072s, finished at 2024-02-02T00:27:16+0000
+  2024-02-02T07:06:54+0000  darkman-20240105.1401.entry
+  2024-02-02T07:06:53+0000  darkman-20240105.1401.tar
+Built darkman in 5.651s, finished at 2024-02-02T07:06:55+0000
