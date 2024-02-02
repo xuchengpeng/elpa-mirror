@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/popup/
 Checking out 6fa7c440879ade009dd0ea37eccc771ced0ef86d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/popup/
-  to /tmp/popupo6qAww/popup-20240101.830
+  to /tmp/popupbgKjcd/popup-20240101.830
     popup.el -> popup.el
 Created popup-20240101.830.tar containing:
   popup-20240101.830/
   popup-20240101.830/popup-pkg.el
   popup-20240101.830/popup.el
  ✓ Success:
-  2024-02-01T14:57:42+0000  popup-20240101.830.entry
-  2024-02-01T14:57:42+0000  popup-20240101.830.tar
-Built popup in 3.286s, finished at 2024-02-01T14:57:43+0000
+  2024-02-01T23:23:37+0000  popup-20240101.830.entry
+  2024-02-01T23:23:37+0000  popup-20240101.830.tar
+Built popup in 5.540s, finished at 2024-02-01T23:23:39+0000

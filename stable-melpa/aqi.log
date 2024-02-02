@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/aqi/
 Checking out cbff3c6ce691a3a1d2f5636384e29d43f0e1d236
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/aqi/
-  to /tmp/aqiDRURFA/aqi-20230530.1204
+  to /tmp/aqip2CqBk/aqi-20230530.1204
     aqi.el -> aqi.el
 Created aqi-20230530.1204.tar containing:
   aqi-20230530.1204/
   aqi-20230530.1204/aqi-pkg.el
   aqi-20230530.1204/aqi.el
  ✓ Success:
-  2024-02-01T15:54:19+0000  aqi-20230530.1204.entry
-  2024-02-01T15:54:19+0000  aqi-20230530.1204.tar
-Built aqi in 2.888s, finished at 2024-02-01T15:54:20+0000
+  2024-02-02T00:19:02+0000  aqi-20230530.1204.entry
+  2024-02-02T00:19:01+0000  aqi-20230530.1204.tar
+Built aqi in 3.368s, finished at 2024-02-02T00:19:03+0000

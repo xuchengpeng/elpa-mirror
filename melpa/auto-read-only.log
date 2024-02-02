@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/auto-read-only/
 Checking out db209bf5b7f76f4c3dc4d0892fc6a24430779f29
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/auto-read-only/
-  to /tmp/auto-read-onlybvc6FN/auto-read-only-20200827.1754
+  to /tmp/auto-read-only9ZK3Tb/auto-read-only-20200827.1754
     auto-read-only.el -> auto-read-only.el
 Created auto-read-only-20200827.1754.tar containing:
   auto-read-only-20200827.1754/
   auto-read-only-20200827.1754/auto-read-only-pkg.el
   auto-read-only-20200827.1754/auto-read-only.el
  ✓ Success:
-  2024-02-01T15:55:01+0000  auto-read-only-20200827.1754.entry
-  2024-02-01T15:55:01+0000  auto-read-only-20200827.1754.tar
-Built auto-read-only in 3.344s, finished at 2024-02-01T15:55:03+0000
+  2024-02-02T00:19:57+0000  auto-read-only-20200827.1754.entry
+  2024-02-02T00:19:57+0000  auto-read-only-20200827.1754.tar
+Built auto-read-only in 3.537s, finished at 2024-02-02T00:19:59+0000

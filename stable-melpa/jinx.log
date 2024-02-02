@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/jinx/
 Checking out 50dfdcdbdeb320fe0cf02006c90d087eb7a9787d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/jinx/
-  to /tmp/jinx76YP7n/jinx-20240129.1524
+  to /tmp/jinxQaFIW4/jinx-20240129.1524
     jinx.el -> jinx.el
     jinx-mod.c -> jinx-mod.c
     emacs-module.h -> emacs-module.h
@@ -17,6 +17,6 @@ Created jinx-20240129.1524.tar containing:
   jinx-20240129.1524/jinx-pkg.el
   jinx-20240129.1524/jinx.el
  ✓ Success:
-  2024-02-01T14:41:39+0000  jinx-20240129.1524.entry
-  2024-02-01T14:41:39+0000  jinx-20240129.1524.tar
-Built jinx in 2.804s, finished at 2024-02-01T14:41:40+0000
+  2024-02-02T00:47:32+0000  jinx-20240129.1524.entry
+  2024-02-02T00:47:32+0000  jinx-20240129.1524.tar
+Built jinx in 3.419s, finished at 2024-02-02T00:47:34+0000

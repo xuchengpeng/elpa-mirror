@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/fstar-mode/
 Checking out 56039769454d3b71cad7248d144d04bb6f97a522
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/fstar-mode/
-  to /tmp/fstar-modeq2D0Yz/fstar-mode-20230506.1606
+  to /tmp/fstar-modeDWqNwI/fstar-mode-20230506.1606
     fstar-mode.el -> fstar-mode.el
     etc => etc
 Created fstar-mode-20230506.1606.tar containing:
@@ -186,6 +186,6 @@ Created fstar-mode-20230506.1606.tar containing:
   fstar-mode-20230506.1606/fstar-mode-pkg.el
   fstar-mode-20230506.1606/fstar-mode.el
  ✓ Success:
-  2024-02-01T16:14:17+0000  fstar-mode-20230506.1606.entry
-  2024-02-01T16:14:16+0000  fstar-mode-20230506.1606.tar
-Built fstar-mode in 3.915s, finished at 2024-02-01T16:14:18+0000
+  2024-02-02T00:38:42+0000  fstar-mode-20230506.1606.entry
+  2024-02-02T00:38:42+0000  fstar-mode-20230506.1606.tar
+Built fstar-mode in 4.671s, finished at 2024-02-02T00:38:44+0000
