@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/json-mode/
 Checking out a93a0c76784376fbb9105719f25c7489991056a1
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/json-mode/
-  to /tmp/json-mode6YGOY1/json-mode-20231223.548
+  to /tmp/json-mode8J5Bfn/json-mode-20231223.548
     json-mode.el -> json-mode.el
 Created json-mode-20231223.548.tar containing:
   json-mode-20231223.548/
   json-mode-20231223.548/json-mode-pkg.el
   json-mode-20231223.548/json-mode.el
  ✓ Success:
-  2024-02-02T07:27:50+0000  json-mode-20231223.548.entry
-  2024-02-02T07:27:50+0000  json-mode-20231223.548.tar
-Built json-mode in 5.133s, finished at 2024-02-02T07:27:53+0000
+  2024-02-03T00:21:19+0000  json-mode-20231223.548.entry
+  2024-02-03T00:21:19+0000  json-mode-20231223.548.tar
+Built json-mode in 3.009s, finished at 2024-02-03T00:21:20+0000

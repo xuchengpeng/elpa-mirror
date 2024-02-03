@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/sql-clickhouse/
 Checking out 8403a4a5d332dbb6459b7fbce6ea95c36d390a5b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/sql-clickhouse/
-  to /tmp/sql-clickhouseNLun2b/sql-clickhouse-20191209.1443
+  to /tmp/sql-clickhouseGjDAeX/sql-clickhouse-20191209.1443
     sql-clickhouse.el -> sql-clickhouse.el
 Created sql-clickhouse-20191209.1443.tar containing:
   sql-clickhouse-20191209.1443/
   sql-clickhouse-20191209.1443/sql-clickhouse-pkg.el
   sql-clickhouse-20191209.1443/sql-clickhouse.el
  ✓ Success:
-  2024-02-02T07:50:55+0000  sql-clickhouse-20191209.1443.entry
-  2024-02-02T07:50:55+0000  sql-clickhouse-20191209.1443.tar
-Built sql-clickhouse in 3.265s, finished at 2024-02-02T07:50:56+0000
+  2024-02-03T00:44:18+0000  sql-clickhouse-20191209.1443.entry
+  2024-02-03T00:44:18+0000  sql-clickhouse-20191209.1443.tar
+Built sql-clickhouse in 2.822s, finished at 2024-02-03T00:44:20+0000

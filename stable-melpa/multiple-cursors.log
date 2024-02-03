@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/multiple-cursors/
 Checking out 234806c832994cadedb42596fe235e91bbd59e8c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/multiple-cursors/
-  to /tmp/multiple-cursors7tosrl/multiple-cursors-20230728.518
+  to /tmp/multiple-cursors9AFo5w/multiple-cursors-20230728.518
     mc-cycle-cursors.el -> mc-cycle-cursors.el
     mc-edit-lines.el -> mc-edit-lines.el
     mc-hide-unmatched-lines-mode.el -> mc-hide-unmatched-lines-mode.el
@@ -30,6 +30,6 @@ Created multiple-cursors-20230728.518.tar containing:
   multiple-cursors-20230728.518/multiple-cursors.el
   multiple-cursors-20230728.518/rectangular-region-mode.el
  ✓ Success:
-  2024-02-02T07:35:02+0000  multiple-cursors-20230728.518.entry
-  2024-02-02T07:35:02+0000  multiple-cursors-20230728.518.tar
-Built multiple-cursors in 3.390s, finished at 2024-02-02T07:35:03+0000
+  2024-02-03T00:28:06+0000  multiple-cursors-20230728.518.entry
+  2024-02-03T00:28:06+0000  multiple-cursors-20230728.518.tar
+Built multiple-cursors in 6.719s, finished at 2024-02-03T00:28:09+0000

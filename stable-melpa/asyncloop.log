@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/meedstrom/asyncloop.git
 
 Updating /mnt/store/melpa/working/asyncloop/
-Checking out e988dac99390b2cfb889c8610c7f8f1f15708ecc
+Checking out 11259ed27aa87ab119ddcbd06f447411e0610a32
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/asyncloop/
-  to /tmp/asyncloopHBxzQu/asyncloop-20231115.2156
+  to /tmp/asyncloopitsdOl/asyncloop-20240202.2051
     asyncloop.el -> asyncloop.el
-Created asyncloop-20231115.2156.tar containing:
-  asyncloop-20231115.2156/
-  asyncloop-20231115.2156/asyncloop-pkg.el
-  asyncloop-20231115.2156/asyncloop.el
+Created asyncloop-20240202.2051.tar containing:
+  asyncloop-20240202.2051/
+  asyncloop-20240202.2051/asyncloop-pkg.el
+  asyncloop-20240202.2051/asyncloop.el
  ✓ Success:
-  2024-02-02T06:58:48+0000  asyncloop-20231115.2156.entry
-  2024-02-02T06:58:47+0000  asyncloop-20231115.2156.tar
-Built asyncloop in 6.336s, finished at 2024-02-02T06:58:50+0000
+  2024-02-02T23:52:26+0000  asyncloop-20240202.2051.entry
+  2024-02-02T23:52:26+0000  asyncloop-20240202.2051.tar
+Built asyncloop in 3.481s, finished at 2024-02-02T23:52:27+0000
