@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/vega-view/
 Checking out 3793025a523a86acc6255b4183b12ebfc95e1116
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/vega-view/
-  to /tmp/vega-viewfpH6Sa/vega-view-20210401.1115
+  to /tmp/vega-viewrFTPf9/vega-view-20210401.1115
     vega-view.el -> vega-view.el
 Created vega-view-20210401.1115.tar containing:
   vega-view-20210401.1115/
   vega-view-20210401.1115/vega-view-pkg.el
   vega-view-20210401.1115/vega-view.el
  ✓ Success:
-  2024-02-03T07:29:04+0000  vega-view-20210401.1115.entry
-  2024-02-03T07:29:04+0000  vega-view-20210401.1115.tar
-Built vega-view in 3.548s, finished at 2024-02-03T07:29:06+0000
+  2024-02-03T15:51:11+0000  vega-view-20210401.1115.entry
+  2024-02-03T15:51:11+0000  vega-view-20210401.1115.tar
+Built vega-view in 3.044s, finished at 2024-02-03T15:51:13+0000

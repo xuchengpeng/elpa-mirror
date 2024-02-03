@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/tiktoken/
 Checking out 1dec1547024c10f32cd49129f937fa1d3ee39d01
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/tiktoken/
-  to /tmp/tiktokenIHx1DJ/tiktoken-20240103.340
+  to /tmp/tiktokenSIPjwT/tiktoken-20240103.340
     tiktoken.el -> tiktoken.el
 Created tiktoken-20240103.340.tar containing:
   tiktoken-20240103.340/
   tiktoken-20240103.340/tiktoken-pkg.el
   tiktoken-20240103.340/tiktoken.el
  ✓ Success:
-  2024-02-03T07:26:06+0000  tiktoken-20240103.340.entry
-  2024-02-03T07:26:06+0000  tiktoken-20240103.340.tar
-Built tiktoken in 3.285s, finished at 2024-02-03T07:26:08+0000
+  2024-02-03T15:48:28+0000  tiktoken-20240103.340.entry
+  2024-02-03T15:48:28+0000  tiktoken-20240103.340.tar
+Built tiktoken in 5.236s, finished at 2024-02-03T15:48:30+0000

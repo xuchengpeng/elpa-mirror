@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/borkdude/flycheck-clj-kondo.git
 
 Updating /mnt/store/melpa/working/flycheck-clj-kondo/
-Checking out d8a6ee9a16aa24b5be01f1edf9843d41bdc75555
+Checking out 9089ade9e01b091139321c78ad75946944ff845d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/flycheck-clj-kondo/
-  to /tmp/flycheck-clj-kondoEvoVB7/flycheck-clj-kondo-20211227.2226
+  to /tmp/flycheck-clj-kondowXkXkf/flycheck-clj-kondo-20240203.1224
     flycheck-clj-kondo.el -> flycheck-clj-kondo.el
-Created flycheck-clj-kondo-20211227.2226.tar containing:
-  flycheck-clj-kondo-20211227.2226/
-  flycheck-clj-kondo-20211227.2226/flycheck-clj-kondo-pkg.el
-  flycheck-clj-kondo-20211227.2226/flycheck-clj-kondo.el
+Created flycheck-clj-kondo-20240203.1224.tar containing:
+  flycheck-clj-kondo-20240203.1224/
+  flycheck-clj-kondo-20240203.1224/flycheck-clj-kondo-pkg.el
+  flycheck-clj-kondo-20240203.1224/flycheck-clj-kondo.el
  ✓ Success:
-  2024-02-03T06:48:48+0000  flycheck-clj-kondo-20211227.2226.entry
-  2024-02-03T06:48:48+0000  flycheck-clj-kondo-20211227.2226.tar
-Built flycheck-clj-kondo in 3.099s, finished at 2024-02-03T06:48:50+0000
+  2024-02-03T15:11:01+0000  flycheck-clj-kondo-20240203.1224.entry
+  2024-02-03T15:11:00+0000  flycheck-clj-kondo-20240203.1224.tar
+Built flycheck-clj-kondo in 3.430s, finished at 2024-02-03T15:11:02+0000

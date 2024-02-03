@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/forge/
 Checking out b3215a4a826556743ab8cbe7bfed9a920ec786ae
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/forge/
-  to /tmp/forget8XDiZ/forge-20240202.107
+  to /tmp/forgeSuGHbe/forge-20240202.107
     forge-pkg.el -> forge-pkg.el
   ! lisp/forge-bitbucket.el -> forge-bitbucket.el
   ! lisp/forge-commands.el -> forge-commands.el
@@ -27,7 +27,7 @@ Copying files (->) and directories (=>)
   ! lisp/forge-topic.el -> forge-topic.el
   ! lisp/forge.el -> forge.el
   ! docs/forge.texi -> forge.texi
-Generating /tmp/forget8XDiZ/forge-20240202.107/forge.info
+Generating /tmp/forgeSuGHbe/forge-20240202.107/forge.info
 Created forge-20240202.107.tar containing:
   forge-20240202.107/
   forge-20240202.107/dir
@@ -52,6 +52,6 @@ Created forge-20240202.107.tar containing:
   forge-20240202.107/forge.el
   forge-20240202.107/forge.info
  ✓ Success:
-  2024-02-03T06:50:48+0000  forge-20240202.107.entry
-  2024-02-03T06:50:48+0000  forge-20240202.107.tar
-Built forge in 8.112s, finished at 2024-02-03T06:50:49+0000
+  2024-02-03T15:12:58+0000  forge-20240202.107.entry
+  2024-02-03T15:12:58+0000  forge-20240202.107.tar
+Built forge in 7.200s, finished at 2024-02-03T15:12:59+0000

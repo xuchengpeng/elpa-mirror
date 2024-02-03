@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/vbasense/
 Checking out 8c61a492d7c15218ae1a96e2aebfe6f78bfff6db
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/vbasense/
-  to /tmp/vbasenseGCTzDP/vbasense-20140221.2353
+  to /tmp/vbasenseI4FVTz/vbasense-20140221.2353
     vbasense.el -> vbasense.el
     chkTLI.vbs -> chkTLI.vbs
     getProgIDAll.vbs -> getProgIDAll.vbs
@@ -25,6 +25,6 @@ Created vbasense-20140221.2353.tar containing:
   vbasense-20140221.2353/vbasense-pkg.el
   vbasense-20140221.2353/vbasense.el
  ✓ Success:
-  2024-02-03T07:28:47+0000  vbasense-20140221.2353.entry
-  2024-02-03T07:28:47+0000  vbasense-20140221.2353.tar
-Built vbasense in 4.905s, finished at 2024-02-03T07:28:49+0000
+  2024-02-03T15:50:59+0000  vbasense-20140221.2353.entry
+  2024-02-03T15:50:59+0000  vbasense-20140221.2353.tar
+Built vbasense in 3.353s, finished at 2024-02-03T15:51:00+0000

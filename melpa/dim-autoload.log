@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/dim-autoload/
 Checking out ace955cd85b3775a028cfda71f2665f33d85bf5d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/dim-autoload/
-  to /tmp/dim-autoload9kxxJM/dim-autoload-20240101.2213
+  to /tmp/dim-autoloadPIauhK/dim-autoload-20240101.2213
     dim-autoload.el -> dim-autoload.el
 Created dim-autoload-20240101.2213.tar containing:
   dim-autoload-20240101.2213/
   dim-autoload-20240101.2213/dim-autoload-pkg.el
   dim-autoload-20240101.2213/dim-autoload.el
  ✓ Success:
-  2024-02-03T06:40:47+0000  dim-autoload-20240101.2213.entry
-  2024-02-03T06:40:47+0000  dim-autoload-20240101.2213.tar
-Built dim-autoload in 5.088s, finished at 2024-02-03T06:40:49+0000
+  2024-02-03T15:02:42+0000  dim-autoload-20240101.2213.entry
+  2024-02-03T15:02:42+0000  dim-autoload-20240101.2213.tar
+Built dim-autoload in 3.372s, finished at 2024-02-03T15:02:43+0000

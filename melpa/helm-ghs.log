@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/helm-ghs/
 Checking out f9d4ab80e8a33b21cd635285289ec5779bbe629f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/helm-ghs/
-  to /tmp/helm-ghskREwNw/helm-ghs-20170715.541
+  to /tmp/helm-ghsBWE1ed/helm-ghs-20170715.541
     helm-ghs.el -> helm-ghs.el
 Created helm-ghs-20170715.541.tar containing:
   helm-ghs-20170715.541/
   helm-ghs-20170715.541/helm-ghs-pkg.el
   helm-ghs-20170715.541/helm-ghs.el
  ✓ Success:
-  2024-02-03T06:55:11+0000  helm-ghs-20170715.541.entry
-  2024-02-03T06:55:11+0000  helm-ghs-20170715.541.tar
-Built helm-ghs in 2.884s, finished at 2024-02-03T06:55:12+0000
+  2024-02-03T15:17:26+0000  helm-ghs-20170715.541.entry
+  2024-02-03T15:17:25+0000  helm-ghs-20170715.541.tar
+Built helm-ghs in 3.302s, finished at 2024-02-03T15:17:27+0000
