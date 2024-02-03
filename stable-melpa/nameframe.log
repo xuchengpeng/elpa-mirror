@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/nameframe/
 Checking out 06d3400750c6b33ae215b9ac2922ee4dafd6b506
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/nameframe/
-  to /tmp/nameframeAQbBpb/nameframe-20221023.957
+  to /tmp/nameframeCdv25a/nameframe-20221023.957
     nameframe.el -> nameframe.el
 Created nameframe-20221023.957.tar containing:
   nameframe-20221023.957/
   nameframe-20221023.957/nameframe-pkg.el
   nameframe-20221023.957/nameframe.el
  ✓ Success:
-  2024-02-03T00:28:31+0000  nameframe-20221023.957.entry
-  2024-02-03T00:28:30+0000  nameframe-20221023.957.tar
-Built nameframe in 5.170s, finished at 2024-02-03T00:28:33+0000
+  2024-02-03T07:07:39+0000  nameframe-20221023.957.entry
+  2024-02-03T07:07:39+0000  nameframe-20221023.957.tar
+Built nameframe in 3.319s, finished at 2024-02-03T07:07:40+0000

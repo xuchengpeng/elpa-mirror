@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/ednc/
 Checking out d4d604f95e9b7955ee596210c2e47fccbd12a21d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ednc/
-  to /tmp/ednc5M59TX/ednc-20240107.2214
+  to /tmp/edncPZOc3N/ednc-20240107.2214
     ednc.el -> ednc.el
 Created ednc-20240107.2214.tar containing:
   ednc-20240107.2214/
   ednc-20240107.2214/ednc-pkg.el
   ednc-20240107.2214/ednc.el
  ✓ Success:
-  2024-02-03T00:03:35+0000  ednc-20240107.2214.entry
-  2024-02-03T00:03:35+0000  ednc-20240107.2214.tar
-Built ednc in 3.141s, finished at 2024-02-03T00:03:37+0000
+  2024-02-03T06:43:03+0000  ednc-20240107.2214.entry
+  2024-02-03T06:43:03+0000  ednc-20240107.2214.tar
+Built ednc in 3.739s, finished at 2024-02-03T06:43:05+0000

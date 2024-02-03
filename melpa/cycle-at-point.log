@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/cycle-at-point/
 Checking out cbbd8721af0cbc84ba737d42bdf702d9a80fa3fb
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/cycle-at-point/
-  to /tmp/cycle-at-pointZt2c84/cycle-at-point-20230805.925
+  to /tmp/cycle-at-pointSLM7iB/cycle-at-point-20230805.925
     cycle-at-point-find-alphabet.el -> cycle-at-point-find-alphabet.el
     cycle-at-point-find-integer.el -> cycle-at-point-find-integer.el
     cycle-at-point-preset-c++-mode.el -> cycle-at-point-preset-c++-mode.el
@@ -29,6 +29,6 @@ Created cycle-at-point-20230805.925.tar containing:
   cycle-at-point-20230805.925/cycle-at-point-preset-python-mode.el
   cycle-at-point-20230805.925/cycle-at-point.el
  ✓ Success:
-  2024-02-02T23:59:59+0000  cycle-at-point-20230805.925.entry
-  2024-02-02T23:59:59+0000  cycle-at-point-20230805.925.tar
-Built cycle-at-point in 4.150s, finished at 2024-02-03T00:00:01+0000
+  2024-02-03T06:39:19+0000  cycle-at-point-20230805.925.entry
+  2024-02-03T06:39:19+0000  cycle-at-point-20230805.925.tar
+Built cycle-at-point in 3.851s, finished at 2024-02-03T06:39:20+0000

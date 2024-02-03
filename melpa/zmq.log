@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/zmq/
 Checking out 9d5679c54f361f518a426586b51686674fd3b0fa
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/zmq/
-  to /tmp/zmqeC4erG/zmq-20230608.1856
+  to /tmp/zmqyL3J5m/zmq-20230608.1856
     zmq.el -> zmq.el
     Makefile -> Makefile
     src => src
@@ -35,6 +35,6 @@ Created zmq-20230608.1856.tar containing:
   zmq-20230608.1856/zmq-pkg.el
   zmq-20230608.1856/zmq.el
  ✓ Success:
-  2024-02-03T00:52:53+0000  zmq-20230608.1856.entry
-  2024-02-03T00:52:53+0000  zmq-20230608.1856.tar
-Built zmq in 3.602s, finished at 2024-02-03T00:52:55+0000
+  2024-02-03T07:32:10+0000  zmq-20230608.1856.entry
+  2024-02-03T07:32:10+0000  zmq-20230608.1856.tar
+Built zmq in 3.216s, finished at 2024-02-03T07:32:11+0000
