@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/emacsql-pg/
 Checking out 7c533fb6c27c3a10b6ab05bddf663e37c109e459
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/emacsql-pg/
-  to /tmp/emacsql-pgu95pfn/emacsql-pg-20230224.1201
+  to /tmp/emacsql-pg4mXH3q/emacsql-pg-20230224.1201
     emacsql-pg.el -> emacsql-pg.el
 Created emacsql-pg-20230224.1201.tar containing:
   emacsql-pg-20230224.1201/
   emacsql-pg-20230224.1201/emacsql-pg-pkg.el
   emacsql-pg-20230224.1201/emacsql-pg.el
  ✓ Success:
-  2024-02-04T01:06:37+0000  emacsql-pg-20230224.1201.entry
-  2024-02-04T01:06:37+0000  emacsql-pg-20230224.1201.tar
-Built emacsql-pg in 2.946s, finished at 2024-02-04T01:06:38+0000
+  2024-02-04T07:45:28+0000  emacsql-pg-20230224.1201.entry
+  2024-02-04T07:45:28+0000  emacsql-pg-20230224.1201.tar
+Built emacsql-pg in 3.675s, finished at 2024-02-04T07:45:29+0000

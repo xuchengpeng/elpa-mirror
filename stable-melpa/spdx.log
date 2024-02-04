@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/spdx/
 Checking out accd26eba9dd9209479d2c935fc90083fefb5f67
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/spdx/
-  to /tmp/spdxhS3RHH/spdx-20240203.58
+  to /tmp/spdxEeXs2v/spdx-20240203.58
     spdx-data.el -> spdx-data.el
     spdx.el -> spdx.el
 Created spdx-20240203.58.tar containing:
@@ -15,6 +15,6 @@ Created spdx-20240203.58.tar containing:
   spdx-20240203.58/spdx-pkg.el
   spdx-20240203.58/spdx.el
  ✓ Success:
-  2024-02-04T00:05:32+0000  spdx-20240203.58.entry
-  2024-02-04T00:05:32+0000  spdx-20240203.58.tar
-Built spdx in 2.998s, finished at 2024-02-04T00:05:33+0000
+  2024-02-04T06:42:35+0000  spdx-20240203.58.entry
+  2024-02-04T06:42:35+0000  spdx-20240203.58.tar
+Built spdx in 2.790s, finished at 2024-02-04T06:42:36+0000
