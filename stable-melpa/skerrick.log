@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/skerrick/
 Checking out 015de8369b8b6be0d4d1e21c24239a037350e87e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/skerrick/
-  to /tmp/skerricktYmWRY/skerrick-20220306.2139
+  to /tmp/skerricktZJ8l4/skerrick-20220306.2139
     skerrick.el -> skerrick.el
 Created skerrick-20220306.2139.tar containing:
   skerrick-20220306.2139/
   skerrick-20220306.2139/skerrick-pkg.el
   skerrick-20220306.2139/skerrick.el
  ✓ Success:
-  2024-02-04T06:41:18+0000  skerrick-20220306.2139.entry
-  2024-02-04T06:41:18+0000  skerrick-20220306.2139.tar
-Built skerrick in 3.543s, finished at 2024-02-04T06:41:20+0000
+  2024-02-04T15:03:56+0000  skerrick-20220306.2139.entry
+  2024-02-04T15:03:56+0000  skerrick-20220306.2139.tar
+Built skerrick in 3.038s, finished at 2024-02-04T15:03:58+0000

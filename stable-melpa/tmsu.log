@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/tmsu/
 Checking out c7dc44c97bf420ff0da5d552abfc9782bed70602
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/tmsu/
-  to /tmp/tmsuc1MlWb/tmsu-20240117.1813
+  to /tmp/tmsuC2skuh/tmsu-20240117.1813
     tmsu-dired-overlay.el -> tmsu-dired-overlay.el
     tmsu-dired.el -> tmsu-dired.el
     tmsu.el -> tmsu.el
@@ -17,6 +17,6 @@ Created tmsu-20240117.1813.tar containing:
   tmsu-20240117.1813/tmsu-pkg.el
   tmsu-20240117.1813/tmsu.el
  ✓ Success:
-  2024-02-04T06:45:22+0000  tmsu-20240117.1813.entry
-  2024-02-04T06:45:22+0000  tmsu-20240117.1813.tar
-Built tmsu in 3.340s, finished at 2024-02-04T06:45:23+0000
+  2024-02-04T15:08:34+0000  tmsu-20240117.1813.entry
+  2024-02-04T15:08:34+0000  tmsu-20240117.1813.tar
+Built tmsu in 3.077s, finished at 2024-02-04T15:08:35+0000

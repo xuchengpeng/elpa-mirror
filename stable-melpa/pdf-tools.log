@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/pdf-tools/
 Checking out c69e7656a4678fe25afbd29f3503dd19ee7f9896
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/pdf-tools/
-  to /tmp/pdf-toolsczk0W1/pdf-tools-20230611.239
+  to /tmp/pdf-toolsNT1eGa/pdf-tools-20230611.239
   ! lisp/pdf-annot.el -> pdf-annot.el
   ! lisp/pdf-cache.el -> pdf-cache.el
   ! lisp/pdf-dev.el -> pdf-dev.el
@@ -102,6 +102,6 @@ Created pdf-tools-20230611.239.tar containing:
   pdf-tools-20230611.239/pdf-view.el
   pdf-tools-20230611.239/pdf-virtual.el
  ✓ Success:
-  2024-02-04T08:15:50+0000  pdf-tools-20230611.239.entry
-  2024-02-04T08:15:49+0000  pdf-tools-20230611.239.tar
-Built pdf-tools in 3.620s, finished at 2024-02-04T08:15:51+0000
+  2024-02-04T14:56:36+0000  pdf-tools-20230611.239.entry
+  2024-02-04T14:56:36+0000  pdf-tools-20230611.239.tar
+Built pdf-tools in 4.050s, finished at 2024-02-04T14:56:38+0000
