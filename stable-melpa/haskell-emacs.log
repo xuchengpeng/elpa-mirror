@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/haskell-emacs/
 Checking out a2c6a079175904689eed7c6c200754bfa85d1ed9
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/haskell-emacs/
-  to /tmp/haskell-emacsJciMGa/haskell-emacs-20160904.2026
+  to /tmp/haskell-emacsb0alEX/haskell-emacs-20160904.2026
     haskell-emacs.el -> haskell-emacs.el
     HaskellEmacs.hs -> HaskellEmacs.hs
     README.org -> README.org
@@ -22,6 +22,6 @@ Created haskell-emacs-20160904.2026.tar containing:
   haskell-emacs-20160904.2026/haskell-emacs-pkg.el
   haskell-emacs-20160904.2026/haskell-emacs.el
  ✓ Success:
-  2024-02-03T15:16:32+0000  haskell-emacs-20160904.2026.entry
-  2024-02-03T15:16:32+0000  haskell-emacs-20160904.2026.tar
-Built haskell-emacs in 2.983s, finished at 2024-02-03T15:16:34+0000
+  2024-02-03T23:37:03+0000  haskell-emacs-20160904.2026.entry
+  2024-02-03T23:37:03+0000  haskell-emacs-20160904.2026.tar
+Built haskell-emacs in 3.311s, finished at 2024-02-03T23:37:05+0000

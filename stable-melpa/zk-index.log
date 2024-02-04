@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/zk-index/
 Checking out 82f636c1edda416794c7115757ecded64f22afbf
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/zk-index/
-  to /tmp/zk-index72E2ZI/zk-index-20240102.1405
+  to /tmp/zk-indexbGTy9t/zk-index-20240102.1405
     zk-index.el -> zk-index.el
 Created zk-index-20240102.1405.tar containing:
   zk-index-20240102.1405/
   zk-index-20240102.1405/zk-index-pkg.el
   zk-index-20240102.1405/zk-index.el
  ✓ Success:
-  2024-02-03T15:54:13+0000  zk-index-20240102.1405.entry
-  2024-02-03T15:54:13+0000  zk-index-20240102.1405.tar
-Built zk-index in 4.346s, finished at 2024-02-03T15:54:15+0000
+  2024-02-04T00:13:45+0000  zk-index-20240102.1405.entry
+  2024-02-04T00:13:45+0000  zk-index-20240102.1405.tar
+Built zk-index in 2.951s, finished at 2024-02-04T00:13:46+0000

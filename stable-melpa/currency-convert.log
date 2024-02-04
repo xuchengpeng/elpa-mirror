@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/currency-convert/
 Checking out 125a718e73f826f461856aabd19bb2de9327531b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/currency-convert/
-  to /tmp/currency-convertVemrYC/currency-convert-20231215.1526
+  to /tmp/currency-convertPJR37R/currency-convert-20231215.1526
     currency-convert.el -> currency-convert.el
 Created currency-convert-20231215.1526.tar containing:
   currency-convert-20231215.1526/
   currency-convert-20231215.1526/currency-convert-pkg.el
   currency-convert-20231215.1526/currency-convert.el
  ✓ Success:
-  2024-02-03T15:01:03+0000  currency-convert-20231215.1526.entry
-  2024-02-03T15:01:03+0000  currency-convert-20231215.1526.tar
-Built currency-convert in 3.526s, finished at 2024-02-03T15:01:05+0000
+  2024-02-04T01:01:09+0000  currency-convert-20231215.1526.entry
+  2024-02-04T01:01:09+0000  currency-convert-20231215.1526.tar
+Built currency-convert in 3.597s, finished at 2024-02-04T01:01:11+0000

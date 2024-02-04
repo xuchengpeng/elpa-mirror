@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/pinyin/
 Checking out b7a0aad8ff35e50d1c536df4c0e73fc7e9d06700
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/pinyin/
-  to /tmp/pinyinADwNCa/pinyin-20220815.1239
+  to /tmp/pinyin1I2QrL/pinyin-20220815.1239
     pinyin.el -> pinyin.el
     pinyin-data/pinyin.txt -> pinyin-data/pinyin.txt
 Created pinyin-20220815.1239.tar containing:
@@ -16,6 +16,6 @@ Created pinyin-20220815.1239.tar containing:
   pinyin-20220815.1239/pinyin-pkg.el
   pinyin-20220815.1239/pinyin.el
  ✓ Success:
-  2024-02-03T15:37:37+0000  pinyin-20220815.1239.entry
-  2024-02-03T15:37:37+0000  pinyin-20220815.1239.tar
-Built pinyin in 3.323s, finished at 2024-02-03T15:37:38+0000
+  2024-02-03T23:57:13+0000  pinyin-20220815.1239.entry
+  2024-02-03T23:57:13+0000  pinyin-20220815.1239.tar
+Built pinyin in 2.861s, finished at 2024-02-03T23:57:14+0000

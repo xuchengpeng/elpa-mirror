@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/cquery/
 Checking out 555e50984ebda177421fdcdc8c76cb29235d9694
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/cquery/
-  to /tmp/cqueryvXvhDb/cquery-20190118.542
+  to /tmp/cqueryEU3sgn/cquery-20190118.542
     cquery-call-hierarchy.el -> cquery-call-hierarchy.el
     cquery-code-lens.el -> cquery-code-lens.el
     cquery-common.el -> cquery-common.el
@@ -25,6 +25,6 @@ Created cquery-20190118.542.tar containing:
   cquery-20190118.542/cquery-tree.el
   cquery-20190118.542/cquery.el
  ✓ Success:
-  2024-02-03T15:00:39+0000  cquery-20190118.542.entry
-  2024-02-03T15:00:38+0000  cquery-20190118.542.tar
-Built cquery in 3.181s, finished at 2024-02-03T15:00:40+0000
+  2024-02-04T01:00:42+0000  cquery-20190118.542.entry
+  2024-02-04T01:00:42+0000  cquery-20190118.542.tar
+Built cquery in 3.327s, finished at 2024-02-04T01:00:43+0000
