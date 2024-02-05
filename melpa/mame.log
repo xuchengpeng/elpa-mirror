@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/mame/
 Checking out 04322e0b036198112417cf688ddf6b711010561e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mame/
-  to /tmp/mameeXlxcc/mame-20231021.1522
+  to /tmp/mameByEI2z/mame-20231021.1522
     mame-base.el -> mame-base.el
     mame-config.el -> mame-config.el
     mame-machine-info-loader.el -> mame-machine-info-loader.el
@@ -19,6 +19,6 @@ Created mame-20231021.1522.tar containing:
   mame-20231021.1522/mame-pkg.el
   mame-20231021.1522/mame.el
  ✓ Success:
-  2024-02-04T14:47:02+0000  mame-20231021.1522.entry
-  2024-02-04T14:47:02+0000  mame-20231021.1522.tar
-Built mame in 3.550s, finished at 2024-02-04T14:47:03+0000
+  2024-02-05T00:46:04+0000  mame-20231021.1522.entry
+  2024-02-05T00:46:04+0000  mame-20231021.1522.tar
+Built mame in 3.496s, finished at 2024-02-05T00:46:05+0000

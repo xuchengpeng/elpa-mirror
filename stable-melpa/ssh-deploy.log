@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/ssh-deploy/
 Checking out 95fb076c9b657c5f1bfad3ee5bf1f8691c50d428
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ssh-deploy/
-  to /tmp/ssh-deployUYLOGg/ssh-deploy-20230702.928
+  to /tmp/ssh-deploy8KNXjc/ssh-deploy-20230702.928
     ssh-deploy-diff-mode.el -> ssh-deploy-diff-mode.el
     ssh-deploy-hydra.el -> ssh-deploy-hydra.el
     ssh-deploy.el -> ssh-deploy.el
@@ -17,6 +17,6 @@ Created ssh-deploy-20230702.928.tar containing:
   ssh-deploy-20230702.928/ssh-deploy-pkg.el
   ssh-deploy-20230702.928/ssh-deploy.el
  ✓ Success:
-  2024-02-04T15:05:39+0000  ssh-deploy-20230702.928.entry
-  2024-02-04T15:05:39+0000  ssh-deploy-20230702.928.tar
-Built ssh-deploy in 3.689s, finished at 2024-02-04T15:05:40+0000
+  2024-02-05T01:05:21+0000  ssh-deploy-20230702.928.entry
+  2024-02-05T01:05:20+0000  ssh-deploy-20230702.928.tar
+Built ssh-deploy in 4.181s, finished at 2024-02-05T01:05:23+0000

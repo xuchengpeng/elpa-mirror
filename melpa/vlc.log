@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/vlc/
 Checking out 07c4a12904f2700fb8420c4e71395fd59a5e6faa
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/vlc/
-  to /tmp/vlczqkt8q/vlc-20200328.1143
+  to /tmp/vlcNPZlR5/vlc-20200328.1143
     vlc.el -> vlc.el
 Created vlc-20200328.1143.tar containing:
   vlc-20200328.1143/
   vlc-20200328.1143/vlc-pkg.el
   vlc-20200328.1143/vlc.el
  ✓ Success:
-  2024-02-04T15:11:01+0000  vlc-20200328.1143.entry
-  2024-02-04T15:11:01+0000  vlc-20200328.1143.tar
-Built vlc in 2.927s, finished at 2024-02-04T15:11:02+0000
+  2024-02-04T23:30:23+0000  vlc-20200328.1143.entry
+  2024-02-04T23:30:23+0000  vlc-20200328.1143.tar
+Built vlc in 3.398s, finished at 2024-02-04T23:30:25+0000

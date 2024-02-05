@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/svnwrapper/
 Checking out de5069f5784e5d9e87a0af0159ba5f28a3716583
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/svnwrapper/
-  to /tmp/svnwrapper95Folq/svnwrapper-20180414.1843
+  to /tmp/svnwrappero1slle/svnwrapper-20180414.1843
     svnwrapper.el -> svnwrapper.el
     bin => bin
 Created svnwrapper-20180414.1843.tar containing:
@@ -16,6 +16,6 @@ Created svnwrapper-20180414.1843.tar containing:
   svnwrapper-20180414.1843/svnwrapper-pkg.el
   svnwrapper-20180414.1843/svnwrapper.el
  ✓ Success:
-  2024-02-04T15:06:19+0000  svnwrapper-20180414.1843.entry
-  2024-02-04T15:06:19+0000  svnwrapper-20180414.1843.tar
-Built svnwrapper in 3.248s, finished at 2024-02-04T15:06:20+0000
+  2024-02-04T23:26:02+0000  svnwrapper-20180414.1843.entry
+  2024-02-04T23:26:02+0000  svnwrapper-20180414.1843.tar
+Built svnwrapper in 3.164s, finished at 2024-02-04T23:26:03+0000

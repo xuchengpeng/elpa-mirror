@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/sidecar-locals/
 Checking out b6b66b6d5a8963256d87d87d02f94ae36b39e6f6
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/sidecar-locals/
-  to /tmp/sidecar-localspGB635/sidecar-locals-20230518.1422
+  to /tmp/sidecar-localsQiswTc/sidecar-locals-20230518.1422
     sidecar-locals.el -> sidecar-locals.el
 Created sidecar-locals-20230518.1422.tar containing:
   sidecar-locals-20230518.1422/
   sidecar-locals-20230518.1422/sidecar-locals-pkg.el
   sidecar-locals-20230518.1422/sidecar-locals.el
  ✓ Success:
-  2024-02-04T15:03:40+0000  sidecar-locals-20230518.1422.entry
-  2024-02-04T15:03:40+0000  sidecar-locals-20230518.1422.tar
-Built sidecar-locals in 4.127s, finished at 2024-02-04T15:03:42+0000
+  2024-02-05T01:03:11+0000  sidecar-locals-20230518.1422.entry
+  2024-02-05T01:03:11+0000  sidecar-locals-20230518.1422.tar
+Built sidecar-locals in 4.106s, finished at 2024-02-05T01:03:12+0000
