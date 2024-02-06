@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/celery/
 Checking out b3378dd81e5a717432123fb13d70201da5dc841a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/celery/
-  to /tmp/celery5Gw7vN/celery-20170225.924
+  to /tmp/celery8dQpWe/celery-20170225.924
     celery.el -> celery.el
 Created celery-20170225.924.tar containing:
   celery-20170225.924/
   celery-20170225.924/celery-pkg.el
   celery-20170225.924/celery.el
  ✓ Success:
-  2024-02-06T00:46:43+0000  celery-20170225.924.entry
-  2024-02-06T00:46:43+0000  celery-20170225.924.tar
-Built celery in 1.657s, finished at 2024-02-06T00:46:44+0000
+  2024-02-06T07:57:20+0000  celery-20170225.924.entry
+  2024-02-06T07:57:20+0000  celery-20170225.924.tar
+Built celery in 1.750s, finished at 2024-02-06T07:57:21+0000
