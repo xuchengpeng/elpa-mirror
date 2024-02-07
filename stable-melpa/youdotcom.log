@@ -3,16 +3,3 @@ Fetcher: github
 Source:  https://github.com/SamuelVanie/youdotcom.el.git
 
 Updating /mnt/store/melpa/working/youdotcom/
-Checking out 4a715db5a9ecb3b3ccf9aa9f51bb8599428dd655
-Copying files (->) and directories (=>)
-  from /mnt/store/melpa/working/youdotcom/
-  to /tmp/youdotcomU3EAWP/youdotcom-20240114.2127
-    youdotcom.el -> youdotcom.el
-Created youdotcom-20240114.2127.tar containing:
-  youdotcom-20240114.2127/
-  youdotcom-20240114.2127/youdotcom-pkg.el
-  youdotcom-20240114.2127/youdotcom.el
- ✓ Success:
-  2024-02-06T07:10:23+0000  youdotcom-20240114.2127.entry
-  2024-02-06T07:10:23+0000  youdotcom-20240114.2127.tar
-Built youdotcom in 4.345s, finished at 2024-02-06T07:10:24+0000
