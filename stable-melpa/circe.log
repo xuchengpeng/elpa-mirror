@@ -1,0 +1,55 @@
+Package: circe
+Fetcher: github
+Source:  https://github.com/emacs-circe/circe.git
+
+Updating /mnt/store/melpa/working/circe/
+Checking out d374042741cfd0691135f215d311dca8b7a47d19
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/circe/
+  to /tmp/circeMjt4mf/circe-20231119.1420
+    circe-chanop.el -> circe-chanop.el
+    circe-color-nicks.el -> circe-color-nicks.el
+    circe-compat.el -> circe-compat.el
+    circe-display-images.el -> circe-display-images.el
+    circe-lagmon.el -> circe-lagmon.el
+    circe-new-day-notifier.el -> circe-new-day-notifier.el
+    circe-pkg.el -> circe-pkg.el
+    circe.el -> circe.el
+    irc.el -> irc.el
+    lcs.el -> lcs.el
+    lui-autopaste.el -> lui-autopaste.el
+    lui-format.el -> lui-format.el
+    lui-irc-colors.el -> lui-irc-colors.el
+    lui-logging.el -> lui-logging.el
+    lui-track-bar.el -> lui-track-bar.el
+    lui-track.el -> lui-track.el
+    lui.el -> lui.el
+    make-tls-process.el -> make-tls-process.el
+    shorten.el -> shorten.el
+    tracking.el -> tracking.el
+Created circe-20231119.1420.tar containing:
+  circe-20231119.1420/
+  circe-20231119.1420/circe-chanop.el
+  circe-20231119.1420/circe-color-nicks.el
+  circe-20231119.1420/circe-compat.el
+  circe-20231119.1420/circe-display-images.el
+  circe-20231119.1420/circe-lagmon.el
+  circe-20231119.1420/circe-new-day-notifier.el
+  circe-20231119.1420/circe-pkg.el
+  circe-20231119.1420/circe.el
+  circe-20231119.1420/irc.el
+  circe-20231119.1420/lcs.el
+  circe-20231119.1420/lui-autopaste.el
+  circe-20231119.1420/lui-format.el
+  circe-20231119.1420/lui-irc-colors.el
+  circe-20231119.1420/lui-logging.el
+  circe-20231119.1420/lui-track-bar.el
+  circe-20231119.1420/lui-track.el
+  circe-20231119.1420/lui.el
+  circe-20231119.1420/make-tls-process.el
+  circe-20231119.1420/shorten.el
+  circe-20231119.1420/tracking.el
+ ✓ Success:
+  2024-02-09T07:20:08+0000  circe-20231119.1420.entry
+  2024-02-09T07:20:08+0000  circe-20231119.1420.tar
+Built circe in 2.750s, finished at 2024-02-09T07:20:09+0000
