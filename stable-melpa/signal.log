@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/signal/
 Checking out aa58327e2297df921d72a0370468b48663efd438
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/signal/
-  to /tmp/signalpmio4a/signal-20160816.1438
+  to /tmp/signalcn75Uu/signal-20160816.1438
     signal.el -> signal.el
 Created signal-20160816.1438.tar containing:
   signal-20160816.1438/
   signal-20160816.1438/signal-pkg.el
   signal-20160816.1438/signal.el
  ✓ Success:
-  2024-02-11T00:55:47+0000  signal-20160816.1438.entry
-  2024-02-11T00:55:47+0000  signal-20160816.1438.tar
-Built signal in 3.534s, finished at 2024-02-11T00:55:49+0000
+  2024-02-11T08:14:23+0000  signal-20160816.1438.entry
+  2024-02-11T08:14:23+0000  signal-20160816.1438.tar
+Built signal in 3.322s, finished at 2024-02-11T08:14:24+0000
