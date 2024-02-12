@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/alexmurray/apparmor-mode.git
 
 Updating /mnt/store/melpa/working/apparmor-mode/
-Checking out a40fb1b0857ef39bb82aacc6ce507d74a08590a6
+Checking out 05a67cba7508cf63bed22763a8949e55a7bf6786
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/apparmor-mode/
-  to /tmp/apparmor-modeAMdAPf/apparmor-mode-20240119.542
+  to /tmp/apparmor-modeFoA2fu/apparmor-mode-20240211.2243
     apparmor-mode.el -> apparmor-mode.el
-Created apparmor-mode-20240119.542.tar containing:
-  apparmor-mode-20240119.542/
-  apparmor-mode-20240119.542/apparmor-mode-pkg.el
-  apparmor-mode-20240119.542/apparmor-mode.el
+Created apparmor-mode-20240211.2243.tar containing:
+  apparmor-mode-20240211.2243/
+  apparmor-mode-20240211.2243/apparmor-mode-pkg.el
+  apparmor-mode-20240211.2243/apparmor-mode.el
  ✓ Success:
-  2024-02-11T07:19:32+0000  apparmor-mode-20240119.542.entry
-  2024-02-11T07:19:32+0000  apparmor-mode-20240119.542.tar
-Built apparmor-mode in 2.811s, finished at 2024-02-11T07:19:33+0000
+  2024-02-12T07:11:15+0000  apparmor-mode-20240211.2243.entry
+  2024-02-12T07:11:15+0000  apparmor-mode-20240211.2243.tar
+Built apparmor-mode in 2.663s, finished at 2024-02-12T07:11:16+0000
