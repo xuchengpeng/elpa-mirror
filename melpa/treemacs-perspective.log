@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/Alexander-Miller/treemacs.git
 
 Updating /mnt/store/melpa/working/treemacs-perspective/
-Checking out 2c576bebccd56ec8e65f4ec5ed5de864d9684fbf
+Checking out bcba09c1581c4bd93ff0217d464aead04f6d26d4
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/treemacs-perspective/
-  to /tmp/treemacs-perspectiveMaOQmh/treemacs-perspective-20230703.1929
+  to /tmp/treemacs-perspectivexRIdSM/treemacs-perspective-20240131.2042
   ! src/extra/treemacs-perspective.el -> treemacs-perspective.el
-Created treemacs-perspective-20230703.1929.tar containing:
-  treemacs-perspective-20230703.1929/
-  treemacs-perspective-20230703.1929/treemacs-perspective-pkg.el
-  treemacs-perspective-20230703.1929/treemacs-perspective.el
+Created treemacs-perspective-20240131.2042.tar containing:
+  treemacs-perspective-20240131.2042/
+  treemacs-perspective-20240131.2042/treemacs-perspective-pkg.el
+  treemacs-perspective-20240131.2042/treemacs-perspective.el
  ✓ Success:
-  2024-02-14T15:58:40+0000  treemacs-perspective-20230703.1929.entry
-  2024-02-14T15:58:40+0000  treemacs-perspective-20230703.1929.tar
-Built treemacs-perspective in 2.180s, finished at 2024-02-14T15:58:40+0000
+  2024-02-15T14:54:00+0000  treemacs-perspective-20240131.2042.entry
+  2024-02-15T14:54:00+0000  treemacs-perspective-20240131.2042.tar
+Built treemacs-perspective in 1.942s, finished at 2024-02-15T14:54:00+0000

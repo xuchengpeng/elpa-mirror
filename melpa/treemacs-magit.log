@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/Alexander-Miller/treemacs.git
 
 Updating /mnt/store/melpa/working/treemacs-magit/
-Checking out 3cd2a0d64b4afc76503706f90567e8914836da18
+Checking out bcba09c1581c4bd93ff0217d464aead04f6d26d4
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/treemacs-magit/
-  to /tmp/treemacs-magit14NP05/treemacs-magit-20230830.1936
+  to /tmp/treemacs-magit06aEgH/treemacs-magit-20240131.2042
   ! src/extra/treemacs-magit.el -> treemacs-magit.el
-Created treemacs-magit-20230830.1936.tar containing:
-  treemacs-magit-20230830.1936/
-  treemacs-magit-20230830.1936/treemacs-magit-pkg.el
-  treemacs-magit-20230830.1936/treemacs-magit.el
+Created treemacs-magit-20240131.2042.tar containing:
+  treemacs-magit-20240131.2042/
+  treemacs-magit-20240131.2042/treemacs-magit-pkg.el
+  treemacs-magit-20240131.2042/treemacs-magit.el
  ✓ Success:
-  2024-02-14T15:58:38+0000  treemacs-magit-20230830.1936.entry
-  2024-02-14T15:58:38+0000  treemacs-magit-20230830.1936.tar
-Built treemacs-magit in 1.865s, finished at 2024-02-14T15:58:39+0000
+  2024-02-15T14:53:58+0000  treemacs-magit-20240131.2042.entry
+  2024-02-15T14:53:58+0000  treemacs-magit-20240131.2042.tar
+Built treemacs-magit in 2.496s, finished at 2024-02-15T14:53:59+0000
