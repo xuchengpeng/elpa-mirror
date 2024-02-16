@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/helm-aws/
 Checking out b36c744b3f00f458635a91d1f5158fccbb5baef6
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/helm-aws/
-  to /tmp/helm-aws0Z86oA/helm-aws-20180514.1032
+  to /tmp/helm-awsrZgxn5/helm-aws-20180514.1032
     helm-aws.el -> helm-aws.el
 Created helm-aws-20180514.1032.tar containing:
   helm-aws-20180514.1032/
   helm-aws-20180514.1032/helm-aws-pkg.el
   helm-aws-20180514.1032/helm-aws.el
  ✓ Success:
-  2024-02-15T16:08:51+0000  helm-aws-20180514.1032.entry
-  2024-02-15T16:08:51+0000  helm-aws-20180514.1032.tar
-Built helm-aws in 2.598s, finished at 2024-02-15T16:08:52+0000
+  2024-02-16T01:03:02+0000  helm-aws-20180514.1032.entry
+  2024-02-16T01:03:02+0000  helm-aws-20180514.1032.tar
+Built helm-aws in 4.399s, finished at 2024-02-16T01:03:04+0000
