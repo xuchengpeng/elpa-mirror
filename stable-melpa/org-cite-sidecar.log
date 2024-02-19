@@ -3,7 +3,16 @@ Fetcher: sourcehut
 Source:  https://git.sr.ht/~swflint/emacs-universal-sidecar
 
 Updating /mnt/store/melpa/working/org-cite-sidecar/
-Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
-fatal: unable to access 'https://git.sr.ht/~swflint/emacs-universal-sidecar/': Failed to connect to git.sr.ht port 443: Connection timed out
-
-Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
+Checking out 94e349534e049c9bcf08eb70ef4ebfc9b9f80d0d
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/org-cite-sidecar/
+  to /tmp/org-cite-sidecaramKBId/org-cite-sidecar-20240218.1917
+    org-cite-sidecar.el -> org-cite-sidecar.el
+Created org-cite-sidecar-20240218.1917.tar containing:
+  org-cite-sidecar-20240218.1917/
+  org-cite-sidecar-20240218.1917/org-cite-sidecar-pkg.el
+  org-cite-sidecar-20240218.1917/org-cite-sidecar.el
+ ✓ Success:
+  2024-02-18T23:54:32+0000  org-cite-sidecar-20240218.1917.entry
+  2024-02-18T23:54:32+0000  org-cite-sidecar-20240218.1917.tar
+Built org-cite-sidecar in 5.750s, finished at 2024-02-18T23:54:34+0000
