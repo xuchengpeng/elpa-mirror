@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/bazel/
 Checking out 769b30dc18282564d614d7044195b5a0c1a0a5f3
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/bazel/
-  to /tmp/bazelxSzRmd/bazel-20230919.1445
+  to /tmp/bazelseYn1X/bazel-20230919.1445
     bazel.el -> bazel.el
 Created bazel-20230919.1445.tar containing:
   bazel-20230919.1445/
   bazel-20230919.1445/bazel-pkg.el
   bazel-20230919.1445/bazel.el
  ✓ Success:
-  2024-02-19T00:59:49+0000  bazel-20230919.1445.entry
-  2024-02-19T00:59:48+0000  bazel-20230919.1445.tar
-Built bazel in 3.430s, finished at 2024-02-19T00:59:50+0000
+  2024-02-20T01:01:27+0000  bazel-20230919.1445.entry
+  2024-02-20T01:01:26+0000  bazel-20230919.1445.tar
+Built bazel in 7.631s, finished at 2024-02-20T01:01:30+0000
