@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/ccls/
 Checking out 9b4a47e0418de8cc2fc93317e27cbdde75286df1
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ccls/
-  to /tmp/cclss2bvwm/ccls-20240124.1050
+  to /tmp/ccls8c2lNk/ccls-20240124.1050
     ccls-call-hierarchy.el -> ccls-call-hierarchy.el
     ccls-code-lens.el -> ccls-code-lens.el
     ccls-common.el -> ccls-common.el
@@ -27,6 +27,6 @@ Created ccls-20240124.1050.tar containing:
   ccls-20240124.1050/ccls-tree.el
   ccls-20240124.1050/ccls.el
  ✓ Success:
-  2024-02-20T01:03:50+0000  ccls-20240124.1050.entry
-  2024-02-20T01:03:50+0000  ccls-20240124.1050.tar
-Built ccls in 4.942s, finished at 2024-02-20T01:03:52+0000
+  2024-02-21T01:10:37+0000  ccls-20240124.1050.entry
+  2024-02-21T01:10:37+0000  ccls-20240124.1050.tar
+Built ccls in 3.364s, finished at 2024-02-21T01:10:38+0000

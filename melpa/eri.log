@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/agda/agda.git
 
 Updating /mnt/store/melpa/working/eri/
-Checking out aa5e3a127bf17a8c80d947f3c286758a36dadc36
+Checking out d4ac6d038e25bb8d4912da7a4c5df91a856e1c9c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/eri/
-  to /tmp/erix0IReb/eri-20200914.644
+  to /tmp/erikhJTLT/eri-20240220.2129
   ! src/data/emacs-mode/eri.el -> eri.el
-Created eri-20200914.644.tar containing:
-  eri-20200914.644/
-  eri-20200914.644/eri-pkg.el
-  eri-20200914.644/eri.el
+Created eri-20240220.2129.tar containing:
+  eri-20240220.2129/
+  eri-20240220.2129/eri-pkg.el
+  eri-20240220.2129/eri.el
  ✓ Success:
-  2024-02-19T23:30:47+0000  eri-20200914.644.entry
-  2024-02-19T23:30:47+0000  eri-20200914.644.tar
-Built eri in 8.559s, finished at 2024-02-19T23:30:48+0000
+  2024-02-20T23:37:59+0000  eri-20240220.2129.entry
+  2024-02-20T23:37:59+0000  eri-20240220.2129.tar
+Built eri in 6.244s, finished at 2024-02-20T23:38:01+0000
