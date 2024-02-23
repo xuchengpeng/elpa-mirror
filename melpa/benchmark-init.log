@@ -3,18 +3,18 @@ Fetcher: github
 Source:  https://github.com/dholm/benchmark-init-el.git
 
 Updating /mnt/store/melpa/working/benchmark-init/
-Checking out 4108505db5be3455dfeb1540fda0717c4cb87b10
+Checking out 80ba80eb62c9449b3920164d999d41b1dd7230eb
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/benchmark-init/
-  to /tmp/benchmark-initllwdbJ/benchmark-init-20240212.1303
+  to /tmp/benchmark-initqwbyol/benchmark-init-20240221.701
     benchmark-init-modes.el -> benchmark-init-modes.el
     benchmark-init.el -> benchmark-init.el
-Created benchmark-init-20240212.1303.tar containing:
-  benchmark-init-20240212.1303/
-  benchmark-init-20240212.1303/benchmark-init-modes.el
-  benchmark-init-20240212.1303/benchmark-init-pkg.el
-  benchmark-init-20240212.1303/benchmark-init.el
+Created benchmark-init-20240221.701.tar containing:
+  benchmark-init-20240221.701/
+  benchmark-init-20240221.701/benchmark-init-modes.el
+  benchmark-init-20240221.701/benchmark-init-pkg.el
+  benchmark-init-20240221.701/benchmark-init.el
  ✓ Success:
-  2024-02-21T01:08:27+0000  benchmark-init-20240212.1303.entry
-  2024-02-21T01:08:27+0000  benchmark-init-20240212.1303.tar
-Built benchmark-init in 5.545s, finished at 2024-02-21T01:08:30+0000
+  2024-02-23T01:07:55+0000  benchmark-init-20240221.701.entry
+  2024-02-23T01:07:55+0000  benchmark-init-20240221.701.tar
+Built benchmark-init in 4.746s, finished at 2024-02-23T01:07:56+0000
