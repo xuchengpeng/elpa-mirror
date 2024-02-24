@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/ts/
 Checking out 552936017cfdec89f7fc20c254ae6b37c3f22c5b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ts/
-  to /tmp/tsYYG8uX/ts-20220822.2313
+  to /tmp/tsAjp2tS/ts-20220822.2313
     ts.el -> ts.el
 Created ts-20220822.2313.tar containing:
   ts-20220822.2313/
   ts-20220822.2313/ts-pkg.el
   ts-20220822.2313/ts.el
  ✓ Success:
-  2024-02-23T00:20:07+0000  ts-20220822.2313.entry
-  2024-02-23T00:20:07+0000  ts-20220822.2313.tar
-Built ts in 3.372s, finished at 2024-02-23T00:20:09+0000
+  2024-02-24T00:50:05+0000  ts-20220822.2313.entry
+  2024-02-24T00:50:05+0000  ts-20220822.2313.tar
+Built ts in 3.207s, finished at 2024-02-24T00:50:06+0000

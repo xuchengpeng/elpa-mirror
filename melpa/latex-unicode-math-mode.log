@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/latex-unicode-math-mode/
 Checking out af6a28c3c7e8652f1e9c124beeccaa81133b1d88
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/latex-unicode-math-mode/
-  to /tmp/latex-unicode-math-modeTVVHdc/latex-unicode-math-mode-20231210.2234
+  to /tmp/latex-unicode-math-mode4tFGue/latex-unicode-math-mode-20231210.2234
     latex-unicode-math-mode.el -> latex-unicode-math-mode.el
     unicode-math-mode.sty -> unicode-math-mode.sty
 Created latex-unicode-math-mode-20231210.2234.tar containing:
@@ -15,6 +15,6 @@ Created latex-unicode-math-mode-20231210.2234.tar containing:
   latex-unicode-math-mode-20231210.2234/latex-unicode-math-mode.el
   latex-unicode-math-mode-20231210.2234/unicode-math-mode.sty
  ✓ Success:
-  2024-02-22T23:54:08+0000  latex-unicode-math-mode-20231210.2234.entry
-  2024-02-22T23:54:08+0000  latex-unicode-math-mode-20231210.2234.tar
-Built latex-unicode-math-mode in 3.324s, finished at 2024-02-22T23:54:09+0000
+  2024-02-24T00:24:20+0000  latex-unicode-math-mode-20231210.2234.entry
+  2024-02-24T00:24:19+0000  latex-unicode-math-mode-20231210.2234.tar
+Built latex-unicode-math-mode in 3.942s, finished at 2024-02-24T00:24:22+0000

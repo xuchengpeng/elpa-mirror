@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/slime-docker/
 Checking out c7d073720f2bd8e9f72a20309fff2afa4c4e798d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/slime-docker/
-  to /tmp/slime-dockerjZ8fZY/slime-docker-20210426.1422
+  to /tmp/slime-dockerNSO8IX/slime-docker-20210426.1422
     slime-docker.el -> slime-docker.el
     bin => bin
 Created slime-docker-20210426.1422.tar containing:
@@ -16,6 +16,6 @@ Created slime-docker-20210426.1422.tar containing:
   slime-docker-20210426.1422/slime-docker-pkg.el
   slime-docker-20210426.1422/slime-docker.el
  ✓ Success:
-  2024-02-23T00:15:06+0000  slime-docker-20210426.1422.entry
-  2024-02-23T00:15:06+0000  slime-docker-20210426.1422.tar
-Built slime-docker in 5.328s, finished at 2024-02-23T00:15:09+0000
+  2024-02-24T00:44:46+0000  slime-docker-20210426.1422.entry
+  2024-02-24T00:44:46+0000  slime-docker-20210426.1422.tar
+Built slime-docker in 4.033s, finished at 2024-02-24T00:44:48+0000

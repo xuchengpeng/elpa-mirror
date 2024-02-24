@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/pkryger/difftastic.el.git
 
 Updating /mnt/store/melpa/working/difftastic/
-Checking out dc3e96c57af777ea068eff0dfc7cc523506aeeb9
+Checking out 029baa91145f72ffa95b23fab86c6598de654cfc
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/difftastic/
-  to /tmp/difftastic2v6aYt/difftastic-20240217.1141
+  to /tmp/difftasticQy2z1W/difftastic-20240223.1630
     difftastic.el -> difftastic.el
-Created difftastic-20240217.1141.tar containing:
-  difftastic-20240217.1141/
-  difftastic-20240217.1141/difftastic-pkg.el
-  difftastic-20240217.1141/difftastic.el
+Created difftastic-20240223.1630.tar containing:
+  difftastic-20240223.1630/
+  difftastic-20240223.1630/difftastic-pkg.el
+  difftastic-20240223.1630/difftastic.el
  ✓ Success:
-  2024-02-22T23:32:06+0000  difftastic-20240217.1141.entry
-  2024-02-22T23:32:06+0000  difftastic-20240217.1141.tar
-Built difftastic in 3.880s, finished at 2024-02-22T23:32:08+0000
+  2024-02-24T00:01:44+0000  difftastic-20240223.1630.entry
+  2024-02-24T00:01:44+0000  difftastic-20240223.1630.tar
+Built difftastic in 3.331s, finished at 2024-02-24T00:01:46+0000

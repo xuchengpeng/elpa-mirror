@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/uuidgen/
 Checking out cebbe09d27c63abe61fe8c2e2248587d90265b59
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/uuidgen/
-  to /tmp/uuidgenRTZK4O/uuidgen-20240201.2318
+  to /tmp/uuidgenajMmVi/uuidgen-20240201.2318
     uuidgen.el -> uuidgen.el
 Created uuidgen-20240201.2318.tar containing:
   uuidgen-20240201.2318/
   uuidgen-20240201.2318/uuidgen-pkg.el
   uuidgen-20240201.2318/uuidgen.el
  ✓ Success:
-  2024-02-23T00:21:33+0000  uuidgen-20240201.2318.entry
-  2024-02-23T00:21:33+0000  uuidgen-20240201.2318.tar
-Built uuidgen in 3.999s, finished at 2024-02-23T00:21:35+0000
+  2024-02-24T00:51:03+0000  uuidgen-20240201.2318.entry
+  2024-02-24T00:51:03+0000  uuidgen-20240201.2318.tar
+Built uuidgen in 3.899s, finished at 2024-02-24T00:51:04+0000

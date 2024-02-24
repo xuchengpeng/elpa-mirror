@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/sticky/
 Checking out fec4e1af38f17f5cd80eca361d8e8ef8772db366
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/sticky/
-  to /tmp/stickyf4vhFe/sticky-20170926.36
+  to /tmp/stickyti7fXo/sticky-20170926.36
     sticky.el -> sticky.el
 Created sticky-20170926.36.tar containing:
   sticky-20170926.36/
   sticky-20170926.36/sticky-pkg.el
   sticky-20170926.36/sticky.el
  ✓ Success:
-  2024-02-23T00:17:02+0000  sticky-20170926.36.entry
-  2024-02-23T00:17:01+0000  sticky-20170926.36.tar
-Built sticky in 3.343s, finished at 2024-02-23T00:17:03+0000
+  2024-02-24T00:46:54+0000  sticky-20170926.36.entry
+  2024-02-24T00:46:54+0000  sticky-20170926.36.tar
+Built sticky in 3.315s, finished at 2024-02-24T00:46:55+0000
