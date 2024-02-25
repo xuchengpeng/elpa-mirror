@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/shelltest-mode/
 Checking out 5fea8c9394380e822971a171905b6b5ab9be812d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/shelltest-mode/
-  to /tmp/shelltest-modeDqMOxL/shelltest-mode-20180501.141
+  to /tmp/shelltest-modeB5jbxZ/shelltest-mode-20180501.141
     shelltest-mode.el -> shelltest-mode.el
 Created shelltest-mode-20180501.141.tar containing:
   shelltest-mode-20180501.141/
   shelltest-mode-20180501.141/shelltest-mode-pkg.el
   shelltest-mode-20180501.141/shelltest-mode.el
  ✓ Success:
-  2024-02-24T00:44:07+0000  shelltest-mode-20180501.141.entry
-  2024-02-24T00:44:07+0000  shelltest-mode-20180501.141.tar
-Built shelltest-mode in 3.130s, finished at 2024-02-24T00:44:08+0000
+  2024-02-25T01:07:59+0000  shelltest-mode-20180501.141.entry
+  2024-02-25T01:07:59+0000  shelltest-mode-20180501.141.tar
+Built shelltest-mode in 3.158s, finished at 2024-02-25T01:08:01+0000

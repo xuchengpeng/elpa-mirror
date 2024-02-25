@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/modelica-mode/
 Checking out 7064a4abdae68fc074a85a2e7c159e067c44c0e1
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/modelica-mode/
-  to /tmp/modelica-modeP5uwYl/modelica-mode-20230508.1020
+  to /tmp/modelica-mode2n8Kwt/modelica-mode-20230508.1020
     modelica-mode.el -> modelica-mode.el
 Created modelica-mode-20230508.1020.tar containing:
   modelica-mode-20230508.1020/
   modelica-mode-20230508.1020/modelica-mode-pkg.el
   modelica-mode-20230508.1020/modelica-mode.el
  ✓ Success:
-  2024-02-24T00:28:16+0000  modelica-mode-20230508.1020.entry
-  2024-02-24T00:28:16+0000  modelica-mode-20230508.1020.tar
-Built modelica-mode in 3.172s, finished at 2024-02-24T00:28:17+0000
+  2024-02-25T00:52:41+0000  modelica-mode-20230508.1020.entry
+  2024-02-25T00:52:41+0000  modelica-mode-20230508.1020.tar
+Built modelica-mode in 3.081s, finished at 2024-02-25T00:52:42+0000

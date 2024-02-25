@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/julia-snail/
 Checking out ce6994a548c3da051eb9104cad2c1056aa3cf4c1
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/julia-snail/
-  to /tmp/julia-snail5WsjJN/julia-snail-20240205.2228
+  to /tmp/julia-snailc5CkCK/julia-snail-20240205.2228
     julia-snail.el -> julia-snail.el
     JuliaSnail.jl -> JuliaSnail.jl
     Project.toml -> Project.toml
@@ -31,6 +31,6 @@ Created julia-snail-20240205.2228.tar containing:
   julia-snail-20240205.2228/julia-snail-pkg.el
   julia-snail-20240205.2228/julia-snail.el
  ✓ Success:
-  2024-02-24T00:22:42+0000  julia-snail-20240205.2228.entry
-  2024-02-24T00:22:42+0000  julia-snail-20240205.2228.tar
-Built julia-snail in 5.443s, finished at 2024-02-24T00:22:45+0000
+  2024-02-25T00:46:54+0000  julia-snail-20240205.2228.entry
+  2024-02-25T00:46:54+0000  julia-snail-20240205.2228.tar
+Built julia-snail in 3.099s, finished at 2024-02-25T00:46:55+0000
