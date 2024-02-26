@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/okamsn/loopy.git
 
 Updating /mnt/store/melpa/working/loopy-dash/
-Checking out fc0296ca155c32ad3455f36602b7b34f2163bfd7
+Checking out eeebd2713d636b3cf08c6af22f46d23b9aa06592
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/loopy-dash/
-  to /tmp/loopy-dashuwsJ6u/loopy-dash-20240220.114
+  to /tmp/loopy-dashnUyYt3/loopy-dash-20240225.1740
     loopy-dash.el -> loopy-dash.el
-Created loopy-dash-20240220.114.tar containing:
-  loopy-dash-20240220.114/
-  loopy-dash-20240220.114/loopy-dash-pkg.el
-  loopy-dash-20240220.114/loopy-dash.el
+Created loopy-dash-20240225.1740.tar containing:
+  loopy-dash-20240225.1740/
+  loopy-dash-20240225.1740/loopy-dash-pkg.el
+  loopy-dash-20240225.1740/loopy-dash.el
  ✓ Success:
-  2024-02-25T00:49:39+0000  loopy-dash-20240220.114.entry
-  2024-02-25T00:49:39+0000  loopy-dash-20240220.114.tar
-Built loopy-dash in 3.352s, finished at 2024-02-25T00:49:40+0000
+  2024-02-26T01:08:05+0000  loopy-dash-20240225.1740.entry
+  2024-02-26T01:08:05+0000  loopy-dash-20240225.1740.tar
+Built loopy-dash in 4.059s, finished at 2024-02-26T01:08:07+0000

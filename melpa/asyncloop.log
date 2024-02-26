@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/asyncloop/
 Checking out 8bc72f51c52c108ece0655625dedc10b9fe1cb8d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/asyncloop/
-  to /tmp/asyncloopBBAdLX/asyncloop-20240219.1742
+  to /tmp/asyncloopdUUI5V/asyncloop-20240219.1742
     asyncloop.el -> asyncloop.el
 Created asyncloop-20240219.1742.tar containing:
   asyncloop-20240219.1742/
   asyncloop-20240219.1742/asyncloop-pkg.el
   asyncloop-20240219.1742/asyncloop.el
  ✓ Success:
-  2024-02-25T00:16:45+0000  asyncloop-20240219.1742.entry
-  2024-02-25T00:16:44+0000  asyncloop-20240219.1742.tar
-Built asyncloop in 9.089s, finished at 2024-02-25T00:16:48+0000
+  2024-02-26T00:34:52+0000  asyncloop-20240219.1742.entry
+  2024-02-26T00:34:52+0000  asyncloop-20240219.1742.tar
+Built asyncloop in 3.801s, finished at 2024-02-26T00:34:53+0000

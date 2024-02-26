@@ -3,10 +3,10 @@ Fetcher: github
 Source:  https://github.com/joostkremers/ebib.git
 
 Updating /mnt/store/melpa/working/ebib/
-Checking out 2c5a2c42708302c40d19c36b35422df9e8fc6c73
+Checking out b893be004b230f1cf12a85dc52c67cb599dcbe38
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ebib/
-  to /tmp/ebibVOKSBD/ebib-20240205.1511
+  to /tmp/ebibSX1XNv/ebib-20240225.1154
     ebib-biblio.el -> ebib-biblio.el
     ebib-db.el -> ebib-db.el
     ebib-filters.el -> ebib-filters.el
@@ -18,22 +18,22 @@ Copying files (->) and directories (=>)
     ebib.el -> ebib.el
     org-ebib.el -> org-ebib.el
     ebib.info -> ebib.info
-Created ebib-20240205.1511.tar containing:
-  ebib-20240205.1511/
-  ebib-20240205.1511/dir
-  ebib-20240205.1511/ebib-biblio.el
-  ebib-20240205.1511/ebib-db.el
-  ebib-20240205.1511/ebib-filters.el
-  ebib-20240205.1511/ebib-ivy.el
-  ebib-20240205.1511/ebib-keywords.el
-  ebib-20240205.1511/ebib-notes.el
-  ebib-20240205.1511/ebib-pkg.el
-  ebib-20240205.1511/ebib-reading-list.el
-  ebib-20240205.1511/ebib-utils.el
-  ebib-20240205.1511/ebib.el
-  ebib-20240205.1511/ebib.info
-  ebib-20240205.1511/org-ebib.el
+Created ebib-20240225.1154.tar containing:
+  ebib-20240225.1154/
+  ebib-20240225.1154/dir
+  ebib-20240225.1154/ebib-biblio.el
+  ebib-20240225.1154/ebib-db.el
+  ebib-20240225.1154/ebib-filters.el
+  ebib-20240225.1154/ebib-ivy.el
+  ebib-20240225.1154/ebib-keywords.el
+  ebib-20240225.1154/ebib-notes.el
+  ebib-20240225.1154/ebib-pkg.el
+  ebib-20240225.1154/ebib-reading-list.el
+  ebib-20240225.1154/ebib-utils.el
+  ebib-20240225.1154/ebib.el
+  ebib-20240225.1154/ebib.info
+  ebib-20240225.1154/org-ebib.el
  ✓ Success:
-  2024-02-25T00:27:47+0000  ebib-20240205.1511.entry
-  2024-02-25T00:27:47+0000  ebib-20240205.1511.tar
-Built ebib in 2.938s, finished at 2024-02-25T00:27:48+0000
+  2024-02-26T00:46:16+0000  ebib-20240225.1154.entry
+  2024-02-26T00:46:16+0000  ebib-20240225.1154.tar
+Built ebib in 3.295s, finished at 2024-02-26T00:46:17+0000

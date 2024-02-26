@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/beans/
 Checking out 0d04b79222812aa4978b6486a9ccac461850fe7a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/beans/
-  to /tmp/beans31Hhxs/beans-20221114.1634
+  to /tmp/beanslJmQoz/beans-20221114.1634
     beans.el -> beans.el
 Created beans-20221114.1634.tar containing:
   beans-20221114.1634/
   beans-20221114.1634/beans-pkg.el
   beans-20221114.1634/beans.el
  ✓ Success:
-  2024-02-25T00:18:03+0000  beans-20221114.1634.entry
-  2024-02-25T00:18:03+0000  beans-20221114.1634.tar
-Built beans in 3.164s, finished at 2024-02-25T00:18:04+0000
+  2024-02-26T00:36:01+0000  beans-20221114.1634.entry
+  2024-02-26T00:36:01+0000  beans-20221114.1634.tar
+Built beans in 3.264s, finished at 2024-02-26T00:36:02+0000
