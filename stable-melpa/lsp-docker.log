@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/emacs-lsp/lsp-docker.git
 
 Updating /mnt/store/melpa/working/lsp-docker/
-Checking out 60e1103ac7c8e30d036ea65fad489210682d6259
+Checking out f5eb3f47a083d8d1eec397264fbb47cebda20532
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/lsp-docker/
-  to /tmp/lsp-dockernwpT8k/lsp-docker-20231121.1644
+  to /tmp/lsp-dockerbmUS6X/lsp-docker-20240226.1701
     lsp-docker.el -> lsp-docker.el
-Created lsp-docker-20231121.1644.tar containing:
-  lsp-docker-20231121.1644/
-  lsp-docker-20231121.1644/lsp-docker-pkg.el
-  lsp-docker-20231121.1644/lsp-docker.el
+Created lsp-docker-20240226.1701.tar containing:
+  lsp-docker-20240226.1701/
+  lsp-docker-20240226.1701/lsp-docker-pkg.el
+  lsp-docker-20240226.1701/lsp-docker.el
  ✓ Success:
-  2024-02-26T01:08:09+0000  lsp-docker-20231121.1644.entry
-  2024-02-26T01:08:09+0000  lsp-docker-20231121.1644.tar
-Built lsp-docker in 3.622s, finished at 2024-02-26T01:08:10+0000
+  2024-02-27T00:21:30+0000  lsp-docker-20240226.1701.entry
+  2024-02-27T00:21:30+0000  lsp-docker-20240226.1701.tar
+Built lsp-docker in 3.356s, finished at 2024-02-27T00:21:32+0000

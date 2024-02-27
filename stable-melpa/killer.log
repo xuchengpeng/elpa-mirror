@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/killer/
 Checking out ace0547944933440384ceeb5876b1f68c082d540
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/killer/
-  to /tmp/killerqeXrKA/killer-20190128.10
+  to /tmp/killerZ1e8Ek/killer-20190128.10
     killer.el -> killer.el
 Created killer-20190128.10.tar containing:
   killer-20190128.10/
   killer-20190128.10/killer-pkg.el
   killer-20190128.10/killer.el
  ✓ Success:
-  2024-02-26T01:05:47+0000  killer-20190128.10.entry
-  2024-02-26T01:05:47+0000  killer-20190128.10.tar
-Built killer in 3.174s, finished at 2024-02-26T01:05:48+0000
+  2024-02-27T00:19:04+0000  killer-20190128.10.entry
+  2024-02-27T00:19:04+0000  killer-20190128.10.tar
+Built killer in 5.582s, finished at 2024-02-27T00:19:06+0000
