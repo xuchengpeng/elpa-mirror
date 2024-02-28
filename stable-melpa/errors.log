@@ -1,18 +1,6 @@
-2024-02-26T23:45:11+0000  2048-game                  Command `hg purge' exited with non-zero exit-code: 255
-2024-02-26T23:50:51+0000  caser                      Command `hg purge' exited with non-zero exit-code: 255
-2024-02-26T23:57:29+0000  ditz-mode                  Command `hg purge' exited with non-zero exit-code: 255
-2024-02-27T00:01:40+0000  enlightened-theme          Command `hg purge' exited with non-zero exit-code: 255
-2024-02-27T00:04:26+0000  eshell-outline             Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
-2024-02-27T00:06:28+0000  flymake-golangci           Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
-2024-02-27T00:17:11+0000  jabber                     No define-package found in jabber-pkg.el
-2024-02-27T00:18:40+0000  kanban                     Command `hg purge' exited with non-zero exit-code: 255
-2024-02-27T00:21:24+0000  lms                        Command `hg purge' exited with non-zero exit-code: 255
-2024-02-27T00:23:57+0000  minesweeper                Command `hg purge' exited with non-zero exit-code: 255
-2024-02-27T00:30:00+0000  org-parser                 Command `hg purge' exited with non-zero exit-code: 255
-2024-02-27T00:33:26+0000  per-buffer-theme           Command `hg purge' exited with non-zero exit-code: 255
-2024-02-27T00:34:27+0000  pmdm                       Command `hg purge' exited with non-zero exit-code: 255
-2024-02-27T00:35:35+0000  protobuf-ts-mode           Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
-2024-02-27T00:47:35+0000  use-package-el-get         Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
-2024-02-27T00:50:17+0000  wisp-mode                  Command `hg purge' exited with non-zero exit-code: 255
-2024-02-27T00:51:24+0000  yatex                      Command `hg purge' exited with non-zero exit-code: 255
-2024-02-27T00:51:54+0000  zpresent                   Command `hg purge' exited with non-zero exit-code: 255
+2024-02-28T00:44:08+0000  2048-game                  Command `hg purge' exited with non-zero exit-code: 255
+2024-02-28T00:49:51+0000  caser                      Command `hg purge' exited with non-zero exit-code: 255
+2024-02-28T00:56:31+0000  ditz-mode                  Command `hg purge' exited with non-zero exit-code: 255
+2024-02-28T01:00:27+0000  enlightened-theme          Command `hg purge' exited with non-zero exit-code: 255
+2024-02-28T01:03:12+0000  eshell-outline             Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
+2024-02-28T01:05:46+0000  flymake-golangci           Command `git fetch -f --tags origin' exited with non-zero exit-code: 128

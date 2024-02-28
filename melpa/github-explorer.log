@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/github-explorer/
 Checking out 49e5c350169b556deaabdcb67e9440bd4d5b4f8b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/github-explorer/
-  to /tmp/github-explorerPLvuT0/github-explorer-20220305.1450
+  to /tmp/github-explorerFJAvPf/github-explorer-20220305.1450
     github-explorer.el -> github-explorer.el
 Created github-explorer-20220305.1450.tar containing:
   github-explorer-20220305.1450/
   github-explorer-20220305.1450/github-explorer-pkg.el
   github-explorer-20220305.1450/github-explorer.el
  ✓ Success:
-  2024-02-27T00:09:10+0000  github-explorer-20220305.1450.entry
-  2024-02-27T00:09:10+0000  github-explorer-20220305.1450.tar
-Built github-explorer in 3.314s, finished at 2024-02-27T00:09:12+0000
+  2024-02-28T01:08:05+0000  github-explorer-20220305.1450.entry
+  2024-02-28T01:08:05+0000  github-explorer-20220305.1450.tar
+Built github-explorer in 3.035s, finished at 2024-02-28T01:08:06+0000

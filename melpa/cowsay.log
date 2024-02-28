@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/cowsay/
 Checking out d8a72a311c6875f1aef6a30b3d23a1b02df75941
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/cowsay/
-  to /tmp/cowsayIaXR3q/cowsay-20210510.1540
+  to /tmp/cowsay53En2T/cowsay-20210510.1540
     cowsay.el -> cowsay.el
 Created cowsay-20210510.1540.tar containing:
   cowsay-20210510.1540/
   cowsay-20210510.1540/cowsay-pkg.el
   cowsay-20210510.1540/cowsay.el
  ✓ Success:
-  2024-02-26T23:54:22+0000  cowsay-20210510.1540.entry
-  2024-02-26T23:54:22+0000  cowsay-20210510.1540.tar
-Built cowsay in 3.209s, finished at 2024-02-26T23:54:23+0000
+  2024-02-28T00:53:41+0000  cowsay-20210510.1540.entry
+  2024-02-28T00:53:41+0000  cowsay-20210510.1540.tar
+Built cowsay in 3.073s, finished at 2024-02-28T00:53:43+0000

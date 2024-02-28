@@ -7,13 +7,13 @@ Checking out f3342da46b0864ae8db4e82b553d9e617b090534
 Warning: bitlbee :files spec is equivalent to the default
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/bitlbee/
-  to /tmp/bitlbeeoyoqms/bitlbee-20151203.0
+  to /tmp/bitlbeetCPpqf/bitlbee-20151203.0
   ! lisp/bitlbee.el -> bitlbee.el
 Created bitlbee-20151203.0.tar containing:
   bitlbee-20151203.0/
   bitlbee-20151203.0/bitlbee-pkg.el
   bitlbee-20151203.0/bitlbee.el
  ✓ Success:
-  2024-02-26T23:48:49+0000  bitlbee-20151203.0.entry
-  2024-02-26T23:48:49+0000  bitlbee-20151203.0.tar
-Built bitlbee in 3.955s, finished at 2024-02-26T23:48:50+0000
+  2024-02-28T00:48:15+0000  bitlbee-20151203.0.entry
+  2024-02-28T00:48:15+0000  bitlbee-20151203.0.tar
+Built bitlbee in 3.106s, finished at 2024-02-28T00:48:16+0000

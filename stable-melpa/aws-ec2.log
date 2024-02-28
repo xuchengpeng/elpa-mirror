@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/aws-ec2/
 Checking out 7b500097ac3c2addbe1644f78595dc2ea4eb87c4
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/aws-ec2/
-  to /tmp/aws-ec2KkLmE1/aws-ec2-20221011.538
+  to /tmp/aws-ec2pXbK2g/aws-ec2-20221011.538
     aws-ec2.el -> aws-ec2.el
 Created aws-ec2-20221011.538.tar containing:
   aws-ec2-20221011.538/
   aws-ec2-20221011.538/aws-ec2-pkg.el
   aws-ec2-20221011.538/aws-ec2.el
  ✓ Success:
-  2024-02-26T23:47:49+0000  aws-ec2-20221011.538.entry
-  2024-02-26T23:47:49+0000  aws-ec2-20221011.538.tar
-Built aws-ec2 in 3.105s, finished at 2024-02-26T23:47:51+0000
+  2024-02-28T00:47:02+0000  aws-ec2-20221011.538.entry
+  2024-02-28T00:47:02+0000  aws-ec2-20221011.538.tar
+Built aws-ec2 in 5.153s, finished at 2024-02-28T00:47:04+0000

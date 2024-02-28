@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/echo-bar/
 Checking out 1138151e55fdfd43126c79caf13169a644b47c00
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/echo-bar/
-  to /tmp/echo-barlFaH70/echo-bar-20231121.1720
+  to /tmp/echo-barZydURt/echo-bar-20231121.1720
     echo-bar.el -> echo-bar.el
 Created echo-bar-20231121.1720.tar containing:
   echo-bar-20231121.1720/
   echo-bar-20231121.1720/echo-bar-pkg.el
   echo-bar-20231121.1720/echo-bar.el
  ✓ Success:
-  2024-02-26T23:58:33+0000  echo-bar-20231121.1720.entry
-  2024-02-26T23:58:33+0000  echo-bar-20231121.1720.tar
-Built echo-bar in 3.049s, finished at 2024-02-26T23:58:34+0000
+  2024-02-28T00:57:33+0000  echo-bar-20231121.1720.entry
+  2024-02-28T00:57:33+0000  echo-bar-20231121.1720.tar
+Built echo-bar in 3.037s, finished at 2024-02-28T00:57:34+0000

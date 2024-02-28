@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/dtk/
 Checking out 5d7fc18eee0d219f52585e05b303f494dc5831cd
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/dtk/
-  to /tmp/dtkFLxWzN/dtk-20230924.2038
+  to /tmp/dtkWW1CUj/dtk-20230924.2038
     dtk.el -> dtk.el
 Created dtk-20230924.2038.tar containing:
   dtk-20230924.2038/
   dtk-20230924.2038/dtk-pkg.el
   dtk-20230924.2038/dtk.el
  ✓ Success:
-  2024-02-26T23:58:00+0000  dtk-20230924.2038.entry
-  2024-02-26T23:58:00+0000  dtk-20230924.2038.tar
-Built dtk in 4.055s, finished at 2024-02-26T23:58:02+0000
+  2024-02-28T00:57:02+0000  dtk-20230924.2038.entry
+  2024-02-28T00:57:02+0000  dtk-20230924.2038.tar
+Built dtk in 5.210s, finished at 2024-02-28T00:57:03+0000
