@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/disaster/
 Checking out 16bba9afb92aacf06c088c29ba47813b65a80d87
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/disaster/
-  to /tmp/disaster1lpmd1/disaster-20230311.2324
+  to /tmp/disasterxoMDmz/disaster-20230311.2324
     disaster.el -> disaster.el
 Created disaster-20230311.2324.tar containing:
   disaster-20230311.2324/
   disaster-20230311.2324/disaster-pkg.el
   disaster-20230311.2324/disaster.el
  ✓ Success:
-  2024-02-28T00:56:09+0000  disaster-20230311.2324.entry
-  2024-02-28T00:56:09+0000  disaster-20230311.2324.tar
-Built disaster in 4.236s, finished at 2024-02-28T00:56:11+0000
+  2024-02-29T00:29:51+0000  disaster-20230311.2324.entry
+  2024-02-29T00:29:51+0000  disaster-20230311.2324.tar
+Built disaster in 3.650s, finished at 2024-02-29T00:29:52+0000

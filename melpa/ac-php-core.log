@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/ac-php-core/
 Checking out d4378a857aa1c60b34d86557aa10238785d1ac66
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ac-php-core/
-  to /tmp/ac-php-coreePVzF3/ac-php-core-20240222.320
+  to /tmp/ac-php-corefiLeRb/ac-php-core-20240222.320
     ac-php-comm-tags-data.el -> ac-php-comm-tags-data.el
     ac-php-core.el -> ac-php-core.el
     phpctags -> phpctags
@@ -19,6 +19,6 @@ Created ac-php-core-20240222.320.tar containing:
   ac-php-core-20240222.320/ac-php-core.el
   ac-php-core-20240222.320/phpctags
  ✓ Success:
-  2024-02-28T00:44:25+0000  ac-php-core-20240222.320.entry
-  2024-02-28T00:44:24+0000  ac-php-core-20240222.320.tar
-Built ac-php-core in 5.801s, finished at 2024-02-28T00:44:27+0000
+  2024-02-29T00:17:22+0000  ac-php-core-20240222.320.entry
+  2024-02-29T00:17:22+0000  ac-php-core-20240222.320.tar
+Built ac-php-core in 6.913s, finished at 2024-02-29T00:17:25+0000

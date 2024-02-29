@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/json-emacs/json-mode.git
 
 Updating /mnt/store/melpa/working/json-mode/
-Checking out bfd1557aaa20b7518b808fdc869f094b52205234
+Checking out 72f340d3fb4b796589e75cb5985797a7f177f34a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/json-mode/
-  to /tmp/json-modehZrPVm/json-mode-20240203.751
+  to /tmp/json-modegJTho0/json-mode-20240228.1443
     json-mode.el -> json-mode.el
-Created json-mode-20240203.751.tar containing:
-  json-mode-20240203.751/
-  json-mode-20240203.751/json-mode-pkg.el
-  json-mode-20240203.751/json-mode.el
+Created json-mode-20240228.1443.tar containing:
+  json-mode-20240228.1443/
+  json-mode-20240228.1443/json-mode-pkg.el
+  json-mode-20240228.1443/json-mode.el
  ✓ Success:
-  2024-02-27T23:30:45+0000  json-mode-20240203.751.entry
-  2024-02-27T23:30:45+0000  json-mode-20240203.751.tar
-Built json-mode in 5.361s, finished at 2024-02-27T23:30:47+0000
+  2024-02-29T00:51:15+0000  json-mode-20240228.1443.entry
+  2024-02-29T00:51:15+0000  json-mode-20240228.1443.tar
+Built json-mode in 3.461s, finished at 2024-02-29T00:51:17+0000

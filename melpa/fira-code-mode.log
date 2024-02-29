@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/jming422/fira-code-mode.git
 
 Updating /mnt/store/melpa/working/fira-code-mode/
-Checking out 7b469ca0c22b7e6a907cd65eebdfa9723998a131
+Checking out c48f3f16a4b497b9e455966561bbb6638efe4900
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/fira-code-mode/
-  to /tmp/fira-code-modekDNLRR/fira-code-mode-20220531.1555
+  to /tmp/fira-code-mode78bKqT/fira-code-mode-20240228.1728
     fira-code-mode.el -> fira-code-mode.el
-Created fira-code-mode-20220531.1555.tar containing:
-  fira-code-mode-20220531.1555/
-  fira-code-mode-20220531.1555/fira-code-mode-pkg.el
-  fira-code-mode-20220531.1555/fira-code-mode.el
+Created fira-code-mode-20240228.1728.tar containing:
+  fira-code-mode-20240228.1728/
+  fira-code-mode-20240228.1728/fira-code-mode-pkg.el
+  fira-code-mode-20240228.1728/fira-code-mode.el
  ✓ Success:
-  2024-02-28T01:03:37+0000  fira-code-mode-20220531.1555.entry
-  2024-02-28T01:03:37+0000  fira-code-mode-20220531.1555.tar
-Built fira-code-mode in 3.297s, finished at 2024-02-28T01:03:39+0000
+  2024-02-29T00:37:38+0000  fira-code-mode-20240228.1728.entry
+  2024-02-29T00:37:38+0000  fira-code-mode-20240228.1728.tar
+Built fira-code-mode in 3.392s, finished at 2024-02-29T00:37:40+0000
