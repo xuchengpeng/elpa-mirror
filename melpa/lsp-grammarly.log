@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/emacs-grammarly/lsp-grammarly.git
 
 Updating /mnt/store/melpa/working/lsp-grammarly/
-Checking out c9832c9ffb890a9605df007518a60398b9cbfb77
+Checking out 39deb23b282785eaffc6ae17838c92c613a49315
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/lsp-grammarly/
-  to /tmp/lsp-grammarlyC9fJob/lsp-grammarly-20240226.1944
+  to /tmp/lsp-grammarly545nrY/lsp-grammarly-20240229.115
     lsp-grammarly.el -> lsp-grammarly.el
-Created lsp-grammarly-20240226.1944.tar containing:
-  lsp-grammarly-20240226.1944/
-  lsp-grammarly-20240226.1944/lsp-grammarly-pkg.el
-  lsp-grammarly-20240226.1944/lsp-grammarly.el
+Created lsp-grammarly-20240229.115.tar containing:
+  lsp-grammarly-20240229.115/
+  lsp-grammarly-20240229.115/lsp-grammarly-pkg.el
+  lsp-grammarly-20240229.115/lsp-grammarly.el
  ✓ Success:
-  2024-02-29T00:54:29+0000  lsp-grammarly-20240226.1944.entry
-  2024-02-29T00:54:29+0000  lsp-grammarly-20240226.1944.tar
-Built lsp-grammarly in 4.795s, finished at 2024-02-29T00:54:31+0000
+  2024-02-29T23:32:57+0000  lsp-grammarly-20240229.115.entry
+  2024-02-29T23:32:57+0000  lsp-grammarly-20240229.115.tar
+Built lsp-grammarly in 3.775s, finished at 2024-02-29T23:32:59+0000

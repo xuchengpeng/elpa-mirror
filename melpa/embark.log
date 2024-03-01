@@ -6,11 +6,11 @@ Updating /mnt/store/melpa/working/embark/
 Checking out c93abadc8220c0caa6fea805f7a736c346d47e7e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/embark/
-  to /tmp/embarkEo2gWy/embark-20240221.1649
+  to /tmp/embark8BLA9q/embark-20240221.1649
     embark.el -> embark.el
     embark-org.el -> embark-org.el
     embark.texi -> embark.texi
-Generating /tmp/embarkEo2gWy/embark-20240221.1649/embark.info
+Generating /tmp/embark8BLA9q/embark-20240221.1649/embark.info
 Created embark-20240221.1649.tar containing:
   embark-20240221.1649/
   embark-20240221.1649/dir
@@ -19,6 +19,6 @@ Created embark-20240221.1649.tar containing:
   embark-20240221.1649/embark.el
   embark-20240221.1649/embark.info
  ✓ Success:
-  2024-02-29T00:33:45+0000  embark-20240221.1649.entry
-  2024-02-29T00:33:45+0000  embark-20240221.1649.tar
-Built embark in 10.165s, finished at 2024-02-29T00:33:47+0000
+  2024-03-01T01:05:52+0000  embark-20240221.1649.entry
+  2024-03-01T01:05:52+0000  embark-20240221.1649.tar
+Built embark in 7.769s, finished at 2024-03-01T01:05:53+0000

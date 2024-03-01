@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/clause/
 Checking out 0ea166fa218618c1b80b60c995f927310c25b02a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/clause/
-  to /tmp/clausezTwTND/clause-20230405.1235
+  to /tmp/clauseYpcFwq/clause-20230405.1235
     clause.el -> clause.el
 Created clause-20230405.1235.tar containing:
   clause-20230405.1235/
   clause-20230405.1235/clause-pkg.el
   clause-20230405.1235/clause.el
  ✓ Success:
-  2024-02-29T00:24:08+0000  clause-20230405.1235.entry
-  2024-02-29T00:24:08+0000  clause-20230405.1235.tar
-Built clause in 4.278s, finished at 2024-02-29T00:24:09+0000
+  2024-03-01T00:55:50+0000  clause-20230405.1235.entry
+  2024-03-01T00:55:50+0000  clause-20230405.1235.tar
+Built clause in 5.926s, finished at 2024-03-01T00:55:51+0000

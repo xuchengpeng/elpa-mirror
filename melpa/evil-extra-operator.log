@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/evil-extra-operator/
 Checking out 49c2dae224705f05dcfa03868b9fbbb72f2b5a8d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/evil-extra-operator/
-  to /tmp/evil-extra-operatorVABowq/evil-extra-operator-20210225.1239
+  to /tmp/evil-extra-operatorDSTPac/evil-extra-operator-20210225.1239
     evil-extra-operator.el -> evil-extra-operator.el
 Created evil-extra-operator-20210225.1239.tar containing:
   evil-extra-operator-20210225.1239/
   evil-extra-operator-20210225.1239/evil-extra-operator-pkg.el
   evil-extra-operator-20210225.1239/evil-extra-operator.el
  ✓ Success:
-  2024-02-29T00:35:32+0000  evil-extra-operator-20210225.1239.entry
-  2024-02-29T00:35:32+0000  evil-extra-operator-20210225.1239.tar
-Built evil-extra-operator in 2.880s, finished at 2024-02-29T00:35:33+0000
+  2024-03-01T01:08:11+0000  evil-extra-operator-20210225.1239.entry
+  2024-03-01T01:08:11+0000  evil-extra-operator-20210225.1239.tar
+Built evil-extra-operator in 2.907s, finished at 2024-03-01T01:08:12+0000
