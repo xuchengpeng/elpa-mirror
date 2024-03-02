@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/dap-mode/
 Checking out 03bcfe90b6acb6811bfa877882ba72949503234d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/dap-mode/
-  to /tmp/dap-modeOSg5My/dap-mode-20240113.926
+  to /tmp/dap-mode45frdt/dap-mode-20240113.926
     dap-chrome.el -> dap-chrome.el
     dap-codelldb.el -> dap-codelldb.el
     dap-cpptools.el -> dap-cpptools.el
@@ -117,6 +117,6 @@ Created dap-mode-20240113.926.tar containing:
   dap-mode-20240113.926/icons/vscode/stop.png
   dap-mode-20240113.926/icons/vscode/toggle-breakpoints.png
  ✓ Success:
-  2024-03-01T00:59:29+0000  dap-mode-20240113.926.entry
-  2024-03-01T00:59:29+0000  dap-mode-20240113.926.tar
-Built dap-mode in 4.085s, finished at 2024-03-01T00:59:31+0000
+  2024-03-02T01:05:55+0000  dap-mode-20240113.926.entry
+  2024-03-02T01:05:54+0000  dap-mode-20240113.926.tar
+Built dap-mode in 7.281s, finished at 2024-03-02T01:05:57+0000

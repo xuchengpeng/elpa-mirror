@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/ziglang/zig-mode.git
 
 Updating /mnt/store/melpa/working/zig-mode/
-Checking out 9ce200971008fa29641ab7bec80802b450b65646
+Checking out b6f5375efeb97026410190f352f1044214fa0289
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/zig-mode/
-  to /tmp/zig-modeMjpT4P/zig-mode-20240221.1019
+  to /tmp/zig-modegYhHge/zig-mode-20240301.1618
     zig-mode.el -> zig-mode.el
-Created zig-mode-20240221.1019.tar containing:
-  zig-mode-20240221.1019/
-  zig-mode-20240221.1019/zig-mode-pkg.el
-  zig-mode-20240221.1019/zig-mode.el
+Created zig-mode-20240301.1618.tar containing:
+  zig-mode-20240301.1618/
+  zig-mode-20240301.1618/zig-mode-pkg.el
+  zig-mode-20240301.1618/zig-mode.el
  ✓ Success:
-  2024-03-01T00:05:17+0000  zig-mode-20240221.1019.entry
-  2024-03-01T00:05:17+0000  zig-mode-20240221.1019.tar
-Built zig-mode in 3.521s, finished at 2024-03-01T00:05:19+0000
+  2024-03-02T00:46:59+0000  zig-mode-20240301.1618.entry
+  2024-03-02T00:46:59+0000  zig-mode-20240301.1618.tar
+Built zig-mode in 6.766s, finished at 2024-03-02T00:47:02+0000

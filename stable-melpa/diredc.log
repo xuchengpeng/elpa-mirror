@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/Boruch-Baum/emacs-diredc.git
 
 Updating /mnt/store/melpa/working/diredc/
-Checking out 91cdc351e1cf6680b838980121802b682ee2210d
+Checking out 01f663032a39716edfa5c6722a316df7946b9875
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/diredc/
-  to /tmp/diredcOvWNdH/diredc-20240219.2237
+  to /tmp/diredcckiijp/diredc-20240301.659
     diredc.el -> diredc.el
-Created diredc-20240219.2237.tar containing:
-  diredc-20240219.2237/
-  diredc-20240219.2237/diredc-pkg.el
-  diredc-20240219.2237/diredc.el
+Created diredc-20240301.659.tar containing:
+  diredc-20240301.659/
+  diredc-20240301.659/diredc-pkg.el
+  diredc-20240301.659/diredc.el
  ✓ Success:
-  2024-03-01T01:02:11+0000  diredc-20240219.2237.entry
-  2024-03-01T01:02:11+0000  diredc-20240219.2237.tar
-Built diredc in 3.415s, finished at 2024-03-01T01:02:12+0000
+  2024-03-02T01:08:42+0000  diredc-20240301.659.entry
+  2024-03-02T01:08:42+0000  diredc-20240301.659.tar
+Built diredc in 5.549s, finished at 2024-03-02T01:08:45+0000
