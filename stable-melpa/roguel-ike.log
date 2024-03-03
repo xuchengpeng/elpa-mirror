@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/roguel-ike/
 Checking out 706dcb0687e8016d7d776f9d9e5ace9fdbbca43c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/roguel-ike/
-  to /tmp/roguel-ikepPhKLS/roguel-ike-20160120.302
+  to /tmp/roguel-ikeN2BvwQ/roguel-ike-20160120.302
     roguel-ike-pkg.el -> roguel-ike-pkg.el
     roguel-ike.el -> roguel-ike.el
     roguel-ike => roguel-ike
@@ -103,6 +103,6 @@ Created roguel-ike-20160120.302.tar containing:
   roguel-ike-20160120.302/roguel-ike/stats/slot.el
   roguel-ike-20160120.302/roguel-ike/time-manager.el
  ✓ Success:
-  2024-03-02T00:25:46+0000  roguel-ike-20160120.302.entry
-  2024-03-02T00:25:46+0000  roguel-ike-20160120.302.tar
-Built roguel-ike in 7.624s, finished at 2024-03-02T00:25:48+0000
+  2024-03-03T00:28:50+0000  roguel-ike-20160120.302.entry
+  2024-03-03T00:28:50+0000  roguel-ike-20160120.302.tar
+Built roguel-ike in 6.159s, finished at 2024-03-03T00:28:53+0000
