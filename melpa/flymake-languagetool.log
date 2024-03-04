@@ -3,18 +3,16 @@ Fetcher: github
 Source:  https://github.com/emacs-languagetool/flymake-languagetool.git
 
 Updating /mnt/store/melpa/working/flymake-languagetool/
-Checking out d271f2b255611111af5bf7d80eae9fb5c1096fa3
+Checking out 371854904ec4baba50393ef5a30ac61f8048a6bf
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/flymake-languagetool/
-  to /tmp/flymake-languagetooluITCyu/flymake-languagetool-20240302.2304
+  to /tmp/flymake-languagetoolNDyphi/flymake-languagetool-20240303.1942
     flymake-languagetool.el -> flymake-languagetool.el
-Created flymake-languagetool-20240302.2304.tar containing:
-  flymake-languagetool-20240302.2304/
-  flymake-languagetool-20240302.2304/flymake-languagetool-pkg.el
-  flymake-languagetool-20240302.2304/flymake-languagetool.el
+Created flymake-languagetool-20240303.1942.tar containing:
+  flymake-languagetool-20240303.1942/
+  flymake-languagetool-20240303.1942/flymake-languagetool-pkg.el
+  flymake-languagetool-20240303.1942/flymake-languagetool.el
  ✓ Success:
-  2024-03-02T22:04:26+0000  flymake-languagetool-20240302.1558.entry
-  2024-03-02T22:04:26+0000  flymake-languagetool-20240302.1558.tar
-  2024-03-02T23:56:03+0000  flymake-languagetool-20240302.2304.entry
-  2024-03-02T23:56:03+0000  flymake-languagetool-20240302.2304.tar
-Built flymake-languagetool in 3.669s, finished at 2024-03-02T23:56:04+0000
+  2024-03-04T00:09:59+0000  flymake-languagetool-20240303.1942.entry
+  2024-03-04T00:09:59+0000  flymake-languagetool-20240303.1942.tar
+Built flymake-languagetool in 3.460s, finished at 2024-03-04T00:10:00+0000

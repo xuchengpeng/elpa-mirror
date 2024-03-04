@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/osx-dictionary/
 Checking out 8f16ffb465b64c9dd566c8b7316b34896ce4c52b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/osx-dictionary/
-  to /tmp/osx-dictionarypisZZe/osx-dictionary-20240226.511
+  to /tmp/osx-dictionary39bauk/osx-dictionary-20240226.511
     osx-dictionary.el -> osx-dictionary.el
     osx-dictionary.m -> osx-dictionary.m
 Created osx-dictionary-20240226.511.tar containing:
@@ -15,6 +15,6 @@ Created osx-dictionary-20240226.511.tar containing:
   osx-dictionary-20240226.511/osx-dictionary.el
   osx-dictionary-20240226.511/osx-dictionary.m
  ✓ Success:
-  2024-03-03T00:21:29+0000  osx-dictionary-20240226.511.entry
-  2024-03-03T00:21:29+0000  osx-dictionary-20240226.511.tar
-Built osx-dictionary in 3.398s, finished at 2024-03-03T00:21:30+0000
+  2024-03-04T00:35:35+0000  osx-dictionary-20240226.511.entry
+  2024-03-04T00:35:35+0000  osx-dictionary-20240226.511.tar
+Built osx-dictionary in 4.465s, finished at 2024-03-04T00:35:37+0000

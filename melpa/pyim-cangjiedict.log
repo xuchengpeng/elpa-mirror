@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/pyim-cangjiedict/
 Checking out d17e3d32a6480939b350a91a915ebe8e6efad819
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/pyim-cangjiedict/
-  to /tmp/pyim-cangjiedicthRnQct/pyim-cangjiedict-20210617.934
+  to /tmp/pyim-cangjiedictA7q18e/pyim-cangjiedict-20210617.934
     pyim-cangjie5dict.el -> pyim-cangjie5dict.el
     pyim-cangjiedict.el -> pyim-cangjiedict.el
     pyim-cangjie3dict.pyim -> pyim-cangjie3dict.pyim
@@ -21,6 +21,6 @@ Created pyim-cangjiedict-20210617.934.tar containing:
   pyim-cangjiedict-20210617.934/pyim-cangjiedict-pkg.el
   pyim-cangjiedict-20210617.934/pyim-cangjiedict.el
  ✓ Success:
-  2024-03-03T00:26:35+0000  pyim-cangjiedict-20210617.934.entry
-  2024-03-03T00:26:35+0000  pyim-cangjiedict-20210617.934.tar
-Built pyim-cangjiedict in 3.341s, finished at 2024-03-03T00:26:36+0000
+  2024-03-04T00:40:42+0000  pyim-cangjiedict-20210617.934.entry
+  2024-03-04T00:40:42+0000  pyim-cangjiedict-20210617.934.tar
+Built pyim-cangjiedict in 4.247s, finished at 2024-03-04T00:40:43+0000
