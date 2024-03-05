@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/facebook/fbthrift.git
 
 Updating /mnt/store/melpa/working/thrift/
-Checking out 3e7a61f1c11b89f66b712adb8be9c48ccedee73e
+Checking out 0451e733d3d4aaec681942f819b42708086ee64b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/thrift/
-  to /tmp/thrifteAkFO5/thrift-20240226.716
+  to /tmp/thriftbKT6lC/thrift-20240304.1434
   ! thrift/contrib/thrift.el -> thrift.el
-Created thrift-20240226.716.tar containing:
-  thrift-20240226.716/
-  thrift-20240226.716/thrift-pkg.el
-  thrift-20240226.716/thrift.el
+Created thrift-20240304.1434.tar containing:
+  thrift-20240304.1434/
+  thrift-20240304.1434/thrift-pkg.el
+  thrift-20240304.1434/thrift.el
  ✓ Success:
-  2024-03-04T00:50:35+0000  thrift-20240226.716.entry
-  2024-03-04T00:50:34+0000  thrift-20240226.716.tar
-Built thrift in 9.277s, finished at 2024-03-04T00:50:36+0000
+  2024-03-05T01:09:46+0000  thrift-20240304.1434.entry
+  2024-03-05T01:09:46+0000  thrift-20240304.1434.tar
+Built thrift in 9.742s, finished at 2024-03-05T01:09:48+0000

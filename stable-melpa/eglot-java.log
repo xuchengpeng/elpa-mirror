@@ -3,16 +3,18 @@ Fetcher: github
 Source:  https://github.com/yveszoundi/eglot-java.git
 
 Updating /mnt/store/melpa/working/eglot-java/
-Checking out 6a7e42b8a8fcd4285439b9281744c204c5f2250a
+Checking out 21afcb4888a5a50326661327bea7f8bbba61df4d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/eglot-java/
-  to /tmp/eglot-javaSYsgWD/eglot-java-20240301.1356
+  to /tmp/eglot-javaC1wXMS/eglot-java-20240304.2244
     eglot-java.el -> eglot-java.el
-Created eglot-java-20240301.1356.tar containing:
-  eglot-java-20240301.1356/
-  eglot-java-20240301.1356/eglot-java-pkg.el
-  eglot-java-20240301.1356/eglot-java.el
+Created eglot-java-20240304.2244.tar containing:
+  eglot-java-20240304.2244/
+  eglot-java-20240304.2244/eglot-java-pkg.el
+  eglot-java-20240304.2244/eglot-java.el
  ✓ Success:
-  2024-03-04T00:02:30+0000  eglot-java-20240301.1356.entry
-  2024-03-04T00:02:30+0000  eglot-java-20240301.1356.tar
-Built eglot-java in 3.317s, finished at 2024-03-04T00:02:31+0000
+  2024-03-04T22:28:57+0000  eglot-java-20240301.1356.entry
+  2024-03-04T22:28:57+0000  eglot-java-20240301.1356.tar
+  2024-03-05T00:21:35+0000  eglot-java-20240304.2244.entry
+  2024-03-05T00:21:35+0000  eglot-java-20240304.2244.tar
+Built eglot-java in 3.694s, finished at 2024-03-05T00:21:37+0000
