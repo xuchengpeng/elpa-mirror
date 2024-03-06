@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/iostapyshyn/eshell-vterm.git
 
 Updating /mnt/store/melpa/working/eshell-vterm/
-Checking out e96c30ad5e7d63b778fc3232e81b090b63b13277
+Checking out 20f4b246fa605a1533cdfbe3cb7faf31a24e3d2e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/eshell-vterm/
-  to /tmp/eshell-vtermhHY2l4/eshell-vterm-20221229.1328
+  to /tmp/eshell-vtermF5JQbj/eshell-vterm-20240305.1149
     eshell-vterm.el -> eshell-vterm.el
-Created eshell-vterm-20221229.1328.tar containing:
-  eshell-vterm-20221229.1328/
-  eshell-vterm-20221229.1328/eshell-vterm-pkg.el
-  eshell-vterm-20221229.1328/eshell-vterm.el
+Created eshell-vterm-20240305.1149.tar containing:
+  eshell-vterm-20240305.1149/
+  eshell-vterm-20240305.1149/eshell-vterm-pkg.el
+  eshell-vterm-20240305.1149/eshell-vterm.el
  ✓ Success:
-  2024-03-05T00:24:44+0000  eshell-vterm-20221229.1328.entry
-  2024-03-05T00:24:44+0000  eshell-vterm-20221229.1328.tar
-Built eshell-vterm in 3.118s, finished at 2024-03-05T00:24:46+0000
+  2024-03-06T00:49:12+0000  eshell-vterm-20240305.1149.entry
+  2024-03-06T00:49:12+0000  eshell-vterm-20240305.1149.tar
+Built eshell-vterm in 3.126s, finished at 2024-03-06T00:49:13+0000

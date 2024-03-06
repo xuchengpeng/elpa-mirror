@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/composer/
 Checking out 2299cd731205906350d615021f99a66d7a8905c2
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/composer/
-  to /tmp/composerNYX505/composer-20221120.202
+  to /tmp/composerKb4Vcw/composer-20221120.202
     composer.el -> composer.el
 Created composer-20221120.202.tar containing:
   composer-20221120.202/
   composer-20221120.202/composer-pkg.el
   composer-20221120.202/composer.el
  ✓ Success:
-  2024-03-05T00:15:19+0000  composer-20221120.202.entry
-  2024-03-05T00:15:19+0000  composer-20221120.202.tar
-Built composer in 3.636s, finished at 2024-03-05T00:15:21+0000
+  2024-03-06T00:40:15+0000  composer-20221120.202.entry
+  2024-03-06T00:40:15+0000  composer-20221120.202.tar
+Built composer in 5.859s, finished at 2024-03-06T00:40:18+0000

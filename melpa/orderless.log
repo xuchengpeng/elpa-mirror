@@ -3,20 +3,22 @@ Fetcher: github
 Source:  https://github.com/oantolin/orderless.git
 
 Updating /mnt/store/melpa/working/orderless/
-Checking out 41d0287b6f1bb6ec3f5c3fc5b4986f278de63f55
+Checking out 62b0b6dc57d7c9957d4e8d3e1c6d6a421e8f3055
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/orderless/
-  to /tmp/orderlesspRRMk1/orderless-20240304.1319
+  to /tmp/orderlessIZp9oc/orderless-20240305.1857
+    orderless-kwd.el -> orderless-kwd.el
     orderless.el -> orderless.el
     orderless.texi -> orderless.texi
-Generating /tmp/orderlesspRRMk1/orderless-20240304.1319/orderless.info
-Created orderless-20240304.1319.tar containing:
-  orderless-20240304.1319/
-  orderless-20240304.1319/dir
-  orderless-20240304.1319/orderless-pkg.el
-  orderless-20240304.1319/orderless.el
-  orderless-20240304.1319/orderless.info
+Generating /tmp/orderlessIZp9oc/orderless-20240305.1857/orderless.info
+Created orderless-20240305.1857.tar containing:
+  orderless-20240305.1857/
+  orderless-20240305.1857/dir
+  orderless-20240305.1857/orderless-kwd.el
+  orderless-20240305.1857/orderless-pkg.el
+  orderless-20240305.1857/orderless.el
+  orderless-20240305.1857/orderless.info
  ✓ Success:
-  2024-03-05T00:52:22+0000  orderless-20240304.1319.entry
-  2024-03-05T00:52:22+0000  orderless-20240304.1319.tar
-Built orderless in 6.525s, finished at 2024-03-05T00:52:24+0000
+  2024-03-05T23:24:42+0000  orderless-20240305.1857.entry
+  2024-03-05T23:24:42+0000  orderless-20240305.1857.tar
+Built orderless in 6.575s, finished at 2024-03-05T23:24:44+0000

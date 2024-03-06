@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/nverno/jq-ts-mode.git
 
 Updating /mnt/store/melpa/working/jq-ts-mode/
-Checking out 0201e351ed0074a72c0987282079c775f3c8fe52
+Checking out 9e6a2aab79a973e1200b8e4b5e6f1762b29b0dec
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/jq-ts-mode/
-  to /tmp/jq-ts-modeLOjS2e/jq-ts-mode-20231111.208
+  to /tmp/jq-ts-modet4d68f/jq-ts-mode-20240305.1511
     jq-ts-mode.el -> jq-ts-mode.el
-Created jq-ts-mode-20231111.208.tar containing:
-  jq-ts-mode-20231111.208/
-  jq-ts-mode-20231111.208/jq-ts-mode-pkg.el
-  jq-ts-mode-20231111.208/jq-ts-mode.el
+Created jq-ts-mode-20240305.1511.tar containing:
+  jq-ts-mode-20240305.1511/
+  jq-ts-mode-20240305.1511/jq-ts-mode-pkg.el
+  jq-ts-mode-20240305.1511/jq-ts-mode.el
  ✓ Success:
-  2024-03-05T00:40:50+0000  jq-ts-mode-20231111.208.entry
-  2024-03-05T00:40:49+0000  jq-ts-mode-20231111.208.tar
-Built jq-ts-mode in 3.460s, finished at 2024-03-05T00:40:51+0000
+  2024-03-06T01:06:01+0000  jq-ts-mode-20240305.1511.entry
+  2024-03-06T01:06:01+0000  jq-ts-mode-20240305.1511.tar
+Built jq-ts-mode in 5.468s, finished at 2024-03-06T01:06:03+0000
