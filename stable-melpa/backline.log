@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/tarsius/backline.git
 
 Updating /mnt/store/melpa/working/backline/
-Checking out f9e55c75bee689722d63875610511e8b39151fb1
+Checking out 1bbfc53a92fbae5a2b4afa34584a008dc9337c3e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/backline/
-  to /tmp/backline79NZON/backline-20240101.2210
+  to /tmp/backlinebBfDuO/backline-20240306.1822
     backline.el -> backline.el
-Created backline-20240101.2210.tar containing:
-  backline-20240101.2210/
-  backline-20240101.2210/backline-pkg.el
-  backline-20240101.2210/backline.el
+Created backline-20240306.1822.tar containing:
+  backline-20240306.1822/
+  backline-20240306.1822/backline-pkg.el
+  backline-20240306.1822/backline.el
  ✓ Success:
-  2024-03-06T00:34:47+0000  backline-20240101.2210.entry
-  2024-03-06T00:34:47+0000  backline-20240101.2210.tar
-Built backline in 4.621s, finished at 2024-03-06T00:34:49+0000
+  2024-03-08T00:48:53+0000  backline-20240306.1822.entry
+  2024-03-08T00:48:53+0000  backline-20240306.1822.tar
+Built backline in 4.040s, finished at 2024-03-08T00:48:55+0000

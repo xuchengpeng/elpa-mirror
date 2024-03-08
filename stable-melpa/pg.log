@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/emarsden/pg-el.git
 
 Updating /mnt/store/melpa/working/pg/
-Checking out 74023b33b7cfc47d5dddb69a2b5b9e86540d0caf
+Checking out 877dc5c84a2b987b72b6bc01dd412338ae0cb338
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/pg/
-  to /tmp/pg2Cd0ps/pg-20240305.2033
+  to /tmp/pgTAs8oi/pg-20240306.2003
     pg.el -> pg.el
-Created pg-20240305.2033.tar containing:
-  pg-20240305.2033/
-  pg-20240305.2033/pg-pkg.el
-  pg-20240305.2033/pg.el
+Created pg-20240306.2003.tar containing:
+  pg-20240306.2003/
+  pg-20240306.2003/pg-pkg.el
+  pg-20240306.2003/pg.el
  ✓ Success:
-  2024-03-05T23:29:20+0000  pg-20240305.2033.entry
-  2024-03-05T23:29:20+0000  pg-20240305.2033.tar
-Built pg in 7.418s, finished at 2024-03-05T23:29:23+0000
+  2024-03-07T23:42:40+0000  pg-20240306.2003.entry
+  2024-03-07T23:42:40+0000  pg-20240306.2003.tar
+Built pg in 5.630s, finished at 2024-03-07T23:42:42+0000
