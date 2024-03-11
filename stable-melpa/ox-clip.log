@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/jkitchin/ox-clip.git
 
 Updating /mnt/store/melpa/working/ox-clip/
-Checking out ff117cf3c619eef12eccc0ccbfa3f11adb73ea68
+Checking out a549cc8e1747beb6b7e567ffac27e31ba45cb8e8
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ox-clip/
-  to /tmp/ox-clipvXbeWj/ox-clip-20220117.1909
+  to /tmp/ox-clipQzatzT/ox-clip-20240310.1513
     ox-clip.el -> ox-clip.el
-Created ox-clip-20220117.1909.tar containing:
-  ox-clip-20220117.1909/
-  ox-clip-20220117.1909/ox-clip-pkg.el
-  ox-clip-20220117.1909/ox-clip.el
+Created ox-clip-20240310.1513.tar containing:
+  ox-clip-20240310.1513/
+  ox-clip-20240310.1513/ox-clip-pkg.el
+  ox-clip-20240310.1513/ox-clip.el
  ✓ Success:
-  2024-03-09T00:08:05+0000  ox-clip-20220117.1909.entry
-  2024-03-09T00:08:05+0000  ox-clip-20220117.1909.tar
-Built ox-clip in 3.317s, finished at 2024-03-09T00:08:06+0000
+  2024-03-11T00:42:54+0000  ox-clip-20240310.1513.entry
+  2024-03-11T00:42:54+0000  ox-clip-20240310.1513.tar
+Built ox-clip in 3.172s, finished at 2024-03-11T00:42:55+0000

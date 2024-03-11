@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/LemonBreezes/emacs-fish-completion.git
 
 Updating /mnt/store/melpa/working/fish-completion/
-Checking out 08f009208ef3b2ee36dca01faeca9b4cd76a5c6b
+Checking out 5e081b3c061cfd91a98aceb035bdc80240e6ff92
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/fish-completion/
-  to /tmp/fish-completionzmExKP/fish-completion-20240305.412
+  to /tmp/fish-completionrjFj3q/fish-completion-20240310.1442
     fish-completion.el -> fish-completion.el
-Created fish-completion-20240305.412.tar containing:
-  fish-completion-20240305.412/
-  fish-completion-20240305.412/fish-completion-pkg.el
-  fish-completion-20240305.412/fish-completion.el
+Created fish-completion-20240310.1442.tar containing:
+  fish-completion-20240310.1442/
+  fish-completion-20240310.1442/fish-completion-pkg.el
+  fish-completion-20240310.1442/fish-completion.el
  ✓ Success:
-  2024-03-08T23:39:54+0000  fish-completion-20240305.412.entry
-  2024-03-08T23:39:54+0000  fish-completion-20240305.412.tar
-Built fish-completion in 3.318s, finished at 2024-03-08T23:39:56+0000
+  2024-03-11T00:14:11+0000  fish-completion-20240310.1442.entry
+  2024-03-11T00:14:11+0000  fish-completion-20240310.1442.tar
+Built fish-completion in 3.287s, finished at 2024-03-11T00:14:12+0000

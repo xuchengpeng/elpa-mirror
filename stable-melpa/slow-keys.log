@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/slow-keys/
 Checking out b951ae4bdcea56ced03f227b82b28c3d91d15e61
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/slow-keys/
-  to /tmp/slow-keysEjxWNV/slow-keys-20220807.1425
+  to /tmp/slow-keyspjdEXY/slow-keys-20220807.1425
     slow-keys.el -> slow-keys.el
 Created slow-keys-20220807.1425.tar containing:
   slow-keys-20220807.1425/
   slow-keys-20220807.1425/slow-keys-pkg.el
   slow-keys-20220807.1425/slow-keys.el
  ✓ Success:
-  2024-03-09T00:18:43+0000  slow-keys-20220807.1425.entry
-  2024-03-09T00:18:43+0000  slow-keys-20220807.1425.tar
-Built slow-keys in 6.071s, finished at 2024-03-09T00:18:46+0000
+  2024-03-11T00:53:01+0000  slow-keys-20220807.1425.entry
+  2024-03-11T00:53:01+0000  slow-keys-20220807.1425.tar
+Built slow-keys in 4.177s, finished at 2024-03-11T00:53:03+0000
