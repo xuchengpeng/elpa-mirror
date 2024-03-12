@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/ernstvanderlinden/emacs-afterglow.git
 
 Updating /mnt/store/melpa/working/afterglow/
-Checking out 62181a09a7c39733233eb956bc872180aeae9e9e
+Checking out 8254dc5d4fdfec63e1b5b2d59af0771d2c5a5474
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/afterglow/
-  to /tmp/afterglowqU8fwq/afterglow-20240303.353
+  to /tmp/afterglow77Ohvc/afterglow-20240311.1429
     afterglow.el -> afterglow.el
-Created afterglow-20240303.353.tar containing:
-  afterglow-20240303.353/
-  afterglow-20240303.353/afterglow-pkg.el
-  afterglow-20240303.353/afterglow.el
+Created afterglow-20240311.1429.tar containing:
+  afterglow-20240311.1429/
+  afterglow-20240311.1429/afterglow-pkg.el
+  afterglow-20240311.1429/afterglow.el
  ✓ Success:
-  2024-03-10T23:53:27+0000  afterglow-20240303.353.entry
-  2024-03-10T23:53:27+0000  afterglow-20240303.353.tar
-Built afterglow in 5.304s, finished at 2024-03-10T23:53:29+0000
+  2024-03-12T00:42:25+0000  afterglow-20240311.1429.entry
+  2024-03-12T00:42:24+0000  afterglow-20240311.1429.tar
+Built afterglow in 4.322s, finished at 2024-03-12T00:42:26+0000
