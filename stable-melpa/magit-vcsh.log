@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/magit-vcsh/
 Checking out fd6c86c066b14bbf78644d38eca9711d6d9544a1
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/magit-vcsh/
-  to /tmp/magit-vcshhTHclV/magit-vcsh-20230402.1219
+  to /tmp/magit-vcshkBNbYa/magit-vcsh-20230402.1219
     magit-vcsh.el -> magit-vcsh.el
 Created magit-vcsh-20230402.1219.tar containing:
   magit-vcsh-20230402.1219/
   magit-vcsh-20230402.1219/magit-vcsh-pkg.el
   magit-vcsh-20230402.1219/magit-vcsh.el
  ✓ Success:
-  2024-03-11T23:24:30+0000  magit-vcsh-20230402.1219.entry
-  2024-03-11T23:24:30+0000  magit-vcsh-20230402.1219.tar
-Built magit-vcsh in 8.428s, finished at 2024-03-11T23:24:32+0000
+  2024-03-13T00:50:29+0000  magit-vcsh-20230402.1219.entry
+  2024-03-13T00:50:29+0000  magit-vcsh-20230402.1219.tar
+Built magit-vcsh in 5.210s, finished at 2024-03-13T00:50:31+0000
