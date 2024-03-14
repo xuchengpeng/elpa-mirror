@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/company-restclient/
 Checking out e5a3ec54edb44776738c13e13e34c85b3085277b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/company-restclient/
-  to /tmp/company-restclient3vKSza/company-restclient-20190426.1312
+  to /tmp/company-restclienttT4z30/company-restclient-20190426.1312
     company-restclient.el -> company-restclient.el
 Created company-restclient-20190426.1312.tar containing:
   company-restclient-20190426.1312/
   company-restclient-20190426.1312/company-restclient-pkg.el
   company-restclient-20190426.1312/company-restclient.el
  ✓ Success:
-  2024-03-13T00:19:05+0000  company-restclient-20190426.1312.entry
-  2024-03-13T00:19:05+0000  company-restclient-20190426.1312.tar
-Built company-restclient in 4.124s, finished at 2024-03-13T00:19:07+0000
+  2024-03-14T01:06:24+0000  company-restclient-20190426.1312.entry
+  2024-03-14T01:06:24+0000  company-restclient-20190426.1312.tar
+Built company-restclient in 3.257s, finished at 2024-03-14T01:06:26+0000
