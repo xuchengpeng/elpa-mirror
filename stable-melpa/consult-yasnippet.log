@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/mohkale/consult-yasnippet.git
 
 Updating /mnt/store/melpa/working/consult-yasnippet/
-Checking out ae0450889484f23dc4ec37518852a2c61b89f184
+Checking out 834d39acfe8a7d2c304afbe4d649b9372118c756
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/consult-yasnippet/
-  to /tmp/consult-yasnippetKqdH4w/consult-yasnippet-20220724.1338
+  to /tmp/consult-yasnippetAdY4ik/consult-yasnippet-20240314.1838
     consult-yasnippet.el -> consult-yasnippet.el
-Created consult-yasnippet-20220724.1338.tar containing:
-  consult-yasnippet-20220724.1338/
-  consult-yasnippet-20220724.1338/consult-yasnippet-pkg.el
-  consult-yasnippet-20220724.1338/consult-yasnippet.el
+Created consult-yasnippet-20240314.1838.tar containing:
+  consult-yasnippet-20240314.1838/
+  consult-yasnippet-20240314.1838/consult-yasnippet-pkg.el
+  consult-yasnippet-20240314.1838/consult-yasnippet.el
  ✓ Success:
-  2024-03-14T01:07:04+0000  consult-yasnippet-20220724.1338.entry
-  2024-03-14T01:07:04+0000  consult-yasnippet-20220724.1338.tar
-Built consult-yasnippet in 3.098s, finished at 2024-03-14T01:07:05+0000
+  2024-03-14T23:41:50+0000  consult-yasnippet-20240314.1838.entry
+  2024-03-14T23:41:49+0000  consult-yasnippet-20240314.1838.tar
+Built consult-yasnippet in 3.319s, finished at 2024-03-14T23:41:51+0000
