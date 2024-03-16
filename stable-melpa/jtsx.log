@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/llemaitre19/jtsx.git
 
 Updating /mnt/store/melpa/working/jtsx/
-Checking out b57a23c2786ddd7425e51416cb4aa9a420d467c6
+Checking out e2fb775b30c2eadd33413d6b1dbdc41ba155c1fe
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/jtsx/
-  to /tmp/jtsxyoo6eq/jtsx-20240229.2316
+  to /tmp/jtsxO8et3F/jtsx-20240315.1515
     jtsx.el -> jtsx.el
-Created jtsx-20240229.2316.tar containing:
-  jtsx-20240229.2316/
-  jtsx-20240229.2316/jtsx-pkg.el
-  jtsx-20240229.2316/jtsx.el
+Created jtsx-20240315.1515.tar containing:
+  jtsx-20240315.1515/
+  jtsx-20240315.1515/jtsx-pkg.el
+  jtsx-20240315.1515/jtsx.el
  ✓ Success:
-  2024-03-15T00:07:11+0000  jtsx-20240229.2316.entry
-  2024-03-15T00:07:10+0000  jtsx-20240229.2316.tar
-Built jtsx in 5.736s, finished at 2024-03-15T00:07:13+0000
+  2024-03-16T00:29:26+0000  jtsx-20240315.1515.entry
+  2024-03-16T00:29:26+0000  jtsx-20240315.1515.tar
+Built jtsx in 3.454s, finished at 2024-03-16T00:29:27+0000
