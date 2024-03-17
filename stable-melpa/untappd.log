@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/smallwat3r/untappd.el.git
 
 Updating /mnt/store/melpa/working/untappd/
-Checking out 8a31e5888ddd73ed5d2b6ac8ce27acc30f2b59fc
+Checking out 0b46faab755c8f6c4b70a45c24af1673465d9958
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/untappd/
-  to /tmp/untappdQb3FNB/untappd-20210815.1544
+  to /tmp/untappdfUvlNf/untappd-20240316.1755
     untappd.el -> untappd.el
-Created untappd-20210815.1544.tar containing:
-  untappd-20210815.1544/
-  untappd-20210815.1544/untappd-pkg.el
-  untappd-20210815.1544/untappd.el
+Created untappd-20240316.1755.tar containing:
+  untappd-20240316.1755/
+  untappd-20240316.1755/untappd-pkg.el
+  untappd-20240316.1755/untappd.el
  ✓ Success:
-  2024-03-16T01:00:51+0000  untappd-20210815.1544.entry
-  2024-03-16T01:00:51+0000  untappd-20210815.1544.tar
-Built untappd in 5.294s, finished at 2024-03-16T01:00:53+0000
+  2024-03-17T01:09:42+0000  untappd-20240316.1755.entry
+  2024-03-17T01:09:42+0000  untappd-20240316.1755.tar
+Built untappd in 3.294s, finished at 2024-03-17T01:09:43+0000

@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/mohkale/consult-eglot.git
 
 Updating /mnt/store/melpa/working/consult-eglot/
-Checking out a79938939587dcd7d3b369dc260b444c4e62262b
+Checking out 788804314139d6572c4e66d67e554a8e2e64589b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/consult-eglot/
-  to /tmp/consult-eglotsNkZ5j/consult-eglot-20240312.1935
+  to /tmp/consult-egloteHqjDA/consult-eglot-20240316.2212
     consult-eglot.el -> consult-eglot.el
-Created consult-eglot-20240312.1935.tar containing:
-  consult-eglot-20240312.1935/
-  consult-eglot-20240312.1935/consult-eglot-pkg.el
-  consult-eglot-20240312.1935/consult-eglot.el
+Created consult-eglot-20240316.2212.tar containing:
+  consult-eglot-20240316.2212/
+  consult-eglot-20240316.2212/consult-eglot-pkg.el
+  consult-eglot-20240316.2212/consult-eglot.el
  ✓ Success:
-  2024-03-16T00:03:05+0000  consult-eglot-20240312.1935.entry
-  2024-03-16T00:03:05+0000  consult-eglot-20240312.1935.tar
-Built consult-eglot in 5.619s, finished at 2024-03-16T00:03:07+0000
+  2024-03-17T00:13:09+0000  consult-eglot-20240316.2212.entry
+  2024-03-17T00:13:09+0000  consult-eglot-20240316.2212.tar
+Built consult-eglot in 3.580s, finished at 2024-03-17T00:13:10+0000

@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/minad/marginalia.git
 
 Updating /mnt/store/melpa/working/marginalia/
-Checking out 70d11a33e88e78ce4e37442a0da00031b9520381
+Checking out f6fe86b989a177355ab3ff7e97a384e10a7b0bb1
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/marginalia/
-  to /tmp/marginaliaCKgWYb/marginalia-20240306.1241
+  to /tmp/marginalia8MGPxa/marginalia-20240316.1257
     marginalia.el -> marginalia.el
-Created marginalia-20240306.1241.tar containing:
-  marginalia-20240306.1241/
-  marginalia-20240306.1241/marginalia-pkg.el
-  marginalia-20240306.1241/marginalia.el
+Created marginalia-20240316.1257.tar containing:
+  marginalia-20240316.1257/
+  marginalia-20240316.1257/marginalia-pkg.el
+  marginalia-20240316.1257/marginalia.el
  ✓ Success:
-  2024-03-16T00:34:17+0000  marginalia-20240306.1241.entry
-  2024-03-16T00:34:17+0000  marginalia-20240306.1241.tar
-Built marginalia in 4.123s, finished at 2024-03-16T00:34:19+0000
+  2024-03-17T00:43:45+0000  marginalia-20240316.1257.entry
+  2024-03-17T00:43:45+0000  marginalia-20240316.1257.tar
+Built marginalia in 3.502s, finished at 2024-03-17T00:43:46+0000

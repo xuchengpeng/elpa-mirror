@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/flymake-go-staticcheck/
 Checking out 9098f7e07ea6513667dc6af6d9ad2fa854464d20
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/flymake-go-staticcheck/
-  to /tmp/flymake-go-staticcheckCRx4Og/flymake-go-staticcheck-20220804.1907
+  to /tmp/flymake-go-staticcheckvZuvF8/flymake-go-staticcheck-20220804.1907
     flymake-go-staticcheck.el -> flymake-go-staticcheck.el
 Created flymake-go-staticcheck-20220804.1907.tar containing:
   flymake-go-staticcheck-20220804.1907/
   flymake-go-staticcheck-20220804.1907/flymake-go-staticcheck-pkg.el
   flymake-go-staticcheck-20220804.1907/flymake-go-staticcheck.el
  ✓ Success:
-  2024-03-16T00:17:26+0000  flymake-go-staticcheck-20220804.1907.entry
-  2024-03-16T00:17:25+0000  flymake-go-staticcheck-20220804.1907.tar
-Built flymake-go-staticcheck in 3.532s, finished at 2024-03-16T00:17:27+0000
+  2024-03-17T00:26:44+0000  flymake-go-staticcheck-20220804.1907.entry
+  2024-03-17T00:26:44+0000  flymake-go-staticcheck-20220804.1907.tar
+Built flymake-go-staticcheck in 3.245s, finished at 2024-03-17T00:26:46+0000
