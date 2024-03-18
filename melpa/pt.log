@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/pt/
 Checking out 6d99b2aaded3ece3db19a20f4b8f1d4abe382622
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/pt/
-  to /tmp/ptOXqLcU/pt-20161226.1959
+  to /tmp/ptX9FvhO/pt-20161226.1959
     pt.el -> pt.el
 Created pt-20161226.1959.tar containing:
   pt-20161226.1959/
   pt-20161226.1959/pt-pkg.el
   pt-20161226.1959/pt.el
  ✓ Success:
-  2024-03-17T00:57:04+0000  pt-20161226.1959.entry
-  2024-03-17T00:57:04+0000  pt-20161226.1959.tar
-Built pt in 3.684s, finished at 2024-03-17T00:57:06+0000
+  2024-03-18T00:59:17+0000  pt-20161226.1959.entry
+  2024-03-18T00:59:17+0000  pt-20161226.1959.tar
+Built pt in 4.381s, finished at 2024-03-18T00:59:19+0000

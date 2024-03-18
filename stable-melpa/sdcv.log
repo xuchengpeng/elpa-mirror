@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/sdcv/
 Checking out 98e239c7380c63282845d5bc55ea6d605f5a33b8
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/sdcv/
-  to /tmp/sdcvqFLd0i/sdcv-20220210.1412
+  to /tmp/sdcvMKPdDl/sdcv-20220210.1412
     sdcv.el -> sdcv.el
 Created sdcv-20220210.1412.tar containing:
   sdcv-20220210.1412/
   sdcv-20220210.1412/sdcv-pkg.el
   sdcv-20220210.1412/sdcv.el
  ✓ Success:
-  2024-03-17T01:01:44+0000  sdcv-20220210.1412.entry
-  2024-03-17T01:01:44+0000  sdcv-20220210.1412.tar
-Built sdcv in 4.714s, finished at 2024-03-17T01:01:46+0000
+  2024-03-18T01:04:01+0000  sdcv-20220210.1412.entry
+  2024-03-18T01:04:01+0000  sdcv-20220210.1412.tar
+Built sdcv in 4.654s, finished at 2024-03-18T01:04:03+0000
