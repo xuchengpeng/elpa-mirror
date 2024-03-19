@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/emacs-languagetool/lsp-ltex.git
 
 Updating /mnt/store/melpa/working/lsp-ltex/
-Checking out 9784627a5a6dc519136d51f60900a3a48c501e00
+Checking out c4bc1515be815b58d76bed2dbc5e7c400c37d6be
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/lsp-ltex/
-  to /tmp/lsp-ltexpO7nFK/lsp-ltex-20240226.1900
+  to /tmp/lsp-ltexVUv5HS/lsp-ltex-20240318.224
     lsp-ltex.el -> lsp-ltex.el
-Created lsp-ltex-20240226.1900.tar containing:
-  lsp-ltex-20240226.1900/
-  lsp-ltex-20240226.1900/lsp-ltex-pkg.el
-  lsp-ltex-20240226.1900/lsp-ltex.el
+Created lsp-ltex-20240318.224.tar containing:
+  lsp-ltex-20240318.224/
+  lsp-ltex-20240318.224/lsp-ltex-pkg.el
+  lsp-ltex-20240318.224/lsp-ltex.el
  ✓ Success:
-  2024-03-18T00:44:23+0000  lsp-ltex-20240226.1900.entry
-  2024-03-18T00:44:23+0000  lsp-ltex-20240226.1900.tar
-Built lsp-ltex in 3.725s, finished at 2024-03-18T00:44:25+0000
+  2024-03-19T00:52:25+0000  lsp-ltex-20240318.224.entry
+  2024-03-19T00:52:25+0000  lsp-ltex-20240318.224.tar
+Built lsp-ltex in 6.917s, finished at 2024-03-19T00:52:29+0000

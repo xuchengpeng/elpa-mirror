@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/emacsql-psql/
 Checking out ffd501a588e4ca884f949119e7c79d214dfd2ffa
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/emacsql-psql/
-  to /tmp/emacsql-psql55qQQK/emacsql-psql-20240119.2314
+  to /tmp/emacsql-psqlw4ca1s/emacsql-psql-20240119.2314
     emacsql-psql.el -> emacsql-psql.el
 Created emacsql-psql-20240119.2314.tar containing:
   emacsql-psql-20240119.2314/
   emacsql-psql-20240119.2314/emacsql-psql-pkg.el
   emacsql-psql-20240119.2314/emacsql-psql.el
  ✓ Success:
-  2024-03-18T00:22:37+0000  emacsql-psql-20240119.2314.entry
-  2024-03-18T00:22:37+0000  emacsql-psql-20240119.2314.tar
-Built emacsql-psql in 4.213s, finished at 2024-03-18T00:22:39+0000
+  2024-03-19T00:31:09+0000  emacsql-psql-20240119.2314.entry
+  2024-03-19T00:31:09+0000  emacsql-psql-20240119.2314.tar
+Built emacsql-psql in 3.620s, finished at 2024-03-19T00:31:10+0000

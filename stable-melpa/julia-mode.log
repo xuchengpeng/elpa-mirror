@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/julia-mode/
 Checking out 2dfc869ff6b3878407fe7226669dfaae8d38d541
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/julia-mode/
-  to /tmp/julia-modeAKSxSO/julia-mode-20240315.1726
+  to /tmp/julia-modeE0V9Pj/julia-mode-20240315.1726
     julia-mode-latexsubs.el -> julia-mode-latexsubs.el
     julia-mode.el -> julia-mode.el
 Created julia-mode-20240315.1726.tar containing:
@@ -15,6 +15,6 @@ Created julia-mode-20240315.1726.tar containing:
   julia-mode-20240315.1726/julia-mode-pkg.el
   julia-mode-20240315.1726/julia-mode.el
  ✓ Success:
-  2024-03-18T00:40:46+0000  julia-mode-20240315.1726.entry
-  2024-03-18T00:40:46+0000  julia-mode-20240315.1726.tar
-Built julia-mode in 4.086s, finished at 2024-03-18T00:40:48+0000
+  2024-03-19T00:49:04+0000  julia-mode-20240315.1726.entry
+  2024-03-19T00:49:04+0000  julia-mode-20240315.1726.tar
+Built julia-mode in 4.253s, finished at 2024-03-19T00:49:06+0000
