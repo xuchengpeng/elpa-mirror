@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/doom-modeline/
 Checking out e09b8e989fa5fc1d98320aaa29d7138631b20ae5
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/doom-modeline/
-  to /tmp/doom-modelineDOYNAe/doom-modeline-20240318.234
+  to /tmp/doom-modelineBouIWF/doom-modeline-20240318.234
     doom-modeline-core.el -> doom-modeline-core.el
     doom-modeline-env.el -> doom-modeline-env.el
     doom-modeline-segments.el -> doom-modeline-segments.el
@@ -19,6 +19,6 @@ Created doom-modeline-20240318.234.tar containing:
   doom-modeline-20240318.234/doom-modeline-segments.el
   doom-modeline-20240318.234/doom-modeline.el
  ✓ Success:
-  2024-03-19T00:27:58+0000  doom-modeline-20240318.234.entry
-  2024-03-19T00:27:58+0000  doom-modeline-20240318.234.tar
-Built doom-modeline in 3.426s, finished at 2024-03-19T00:27:59+0000
+  2024-03-20T00:32:24+0000  doom-modeline-20240318.234.entry
+  2024-03-20T00:32:24+0000  doom-modeline-20240318.234.tar
+Built doom-modeline in 3.612s, finished at 2024-03-20T00:32:25+0000
