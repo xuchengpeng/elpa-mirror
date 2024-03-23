@@ -3,22 +3,22 @@ Fetcher: github
 Source:  https://github.com/xcwen/ac-php.git
 
 Updating /mnt/store/melpa/working/ac-php-core/
-Checking out c1ad22c9b9354f038310ca380497e5db635fca26
+Checking out fd44d90be775c80c7ea8ecc227be448e6ccb5bd9
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ac-php-core/
-  to /tmp/ac-php-coreZewKuk/ac-php-core-20240314.549
+  to /tmp/ac-php-coreInhjgp/ac-php-core-20240322.935
     ac-php-comm-tags-data.el -> ac-php-comm-tags-data.el
     ac-php-core.el -> ac-php-core.el
     phpctags -> phpctags
     ac-php-comm-tags-data.json -> ac-php-comm-tags-data.json
-Created ac-php-core-20240314.549.tar containing:
-  ac-php-core-20240314.549/
-  ac-php-core-20240314.549/ac-php-comm-tags-data.el
-  ac-php-core-20240314.549/ac-php-comm-tags-data.json
-  ac-php-core-20240314.549/ac-php-core-pkg.el
-  ac-php-core-20240314.549/ac-php-core.el
-  ac-php-core-20240314.549/phpctags
+Created ac-php-core-20240322.935.tar containing:
+  ac-php-core-20240322.935/
+  ac-php-core-20240322.935/ac-php-comm-tags-data.el
+  ac-php-core-20240322.935/ac-php-comm-tags-data.json
+  ac-php-core-20240322.935/ac-php-core-pkg.el
+  ac-php-core-20240322.935/ac-php-core.el
+  ac-php-core-20240322.935/phpctags
  ✓ Success:
-  2024-03-20T00:19:17+0000  ac-php-core-20240314.549.entry
-  2024-03-20T00:19:17+0000  ac-php-core-20240314.549.tar
-Built ac-php-core in 3.593s, finished at 2024-03-20T00:19:18+0000
+  2024-03-23T00:38:24+0000  ac-php-core-20240322.935.entry
+  2024-03-23T00:38:24+0000  ac-php-core-20240322.935.tar
+Built ac-php-core in 7.348s, finished at 2024-03-23T00:38:28+0000

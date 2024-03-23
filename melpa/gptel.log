@@ -3,10 +3,10 @@ Fetcher: github
 Source:  https://github.com/karthink/gptel.git
 
 Updating /mnt/store/melpa/working/gptel/
-Checking out 22f7043c328570fb921fd6a38e767eeffe4a7986
+Checking out 12e00cbd092de95ae7f11aa207cd41dd9fabf883
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/gptel/
-  to /tmp/gptelAKdsO9/gptel-20240320.39
+  to /tmp/gptelzGVfrD/gptel-20240321.1740
     gptel-anthropic.el -> gptel-anthropic.el
     gptel-curl.el -> gptel-curl.el
     gptel-gemini.el -> gptel-gemini.el
@@ -15,20 +15,18 @@ Copying files (->) and directories (=>)
     gptel-openai.el -> gptel-openai.el
     gptel-transient.el -> gptel-transient.el
     gptel.el -> gptel.el
-Created gptel-20240320.39.tar containing:
-  gptel-20240320.39/
-  gptel-20240320.39/gptel-anthropic.el
-  gptel-20240320.39/gptel-curl.el
-  gptel-20240320.39/gptel-gemini.el
-  gptel-20240320.39/gptel-kagi.el
-  gptel-20240320.39/gptel-ollama.el
-  gptel-20240320.39/gptel-openai.el
-  gptel-20240320.39/gptel-pkg.el
-  gptel-20240320.39/gptel-transient.el
-  gptel-20240320.39/gptel.el
+Created gptel-20240321.1740.tar containing:
+  gptel-20240321.1740/
+  gptel-20240321.1740/gptel-anthropic.el
+  gptel-20240321.1740/gptel-curl.el
+  gptel-20240321.1740/gptel-gemini.el
+  gptel-20240321.1740/gptel-kagi.el
+  gptel-20240321.1740/gptel-ollama.el
+  gptel-20240321.1740/gptel-openai.el
+  gptel-20240321.1740/gptel-pkg.el
+  gptel-20240321.1740/gptel-transient.el
+  gptel-20240321.1740/gptel.el
  ✓ Success:
-  2024-03-19T22:55:35+0000  gptel-20240317.359.entry
-  2024-03-19T22:55:35+0000  gptel-20240317.359.tar
-  2024-03-20T00:45:32+0000  gptel-20240320.39.entry
-  2024-03-20T00:45:31+0000  gptel-20240320.39.tar
-Built gptel in 3.888s, finished at 2024-03-20T00:45:33+0000
+  2024-03-23T01:04:34+0000  gptel-20240321.1740.entry
+  2024-03-23T01:04:34+0000  gptel-20240321.1740.tar
+Built gptel in 3.791s, finished at 2024-03-23T01:04:36+0000
