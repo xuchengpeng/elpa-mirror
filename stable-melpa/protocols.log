@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/protocols/
 Checking out d0f7c4acb05465f1a0d4be54363bbd2802647e77
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/protocols/
-  to /tmp/protocolsohRBRQ/protocols-20170802.1132
+  to /tmp/protocolsHQDyGg/protocols-20170802.1132
     protocols.el -> protocols.el
 Created protocols-20170802.1132.tar containing:
   protocols-20170802.1132/
   protocols-20170802.1132/protocols-pkg.el
   protocols-20170802.1132/protocols.el
  ✓ Success:
-  2024-03-22T23:44:25+0000  protocols-20170802.1132.entry
-  2024-03-22T23:44:25+0000  protocols-20170802.1132.tar
-Built protocols in 3.855s, finished at 2024-03-22T23:44:27+0000
+  2024-03-24T01:06:01+0000  protocols-20170802.1132.entry
+  2024-03-24T01:06:01+0000  protocols-20170802.1132.tar
+Built protocols in 4.055s, finished at 2024-03-24T01:06:03+0000

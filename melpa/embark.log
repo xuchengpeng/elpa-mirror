@@ -3,22 +3,22 @@ Fetcher: github
 Source:  https://github.com/oantolin/embark.git
 
 Updating /mnt/store/melpa/working/embark/
-Checking out 30910d48e5779343c5c8c204b1a5ae63e8468354
+Checking out 15c95aee0ec6f42ee3b7a0bc6cf1e2c1ad91dfcd
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/embark/
-  to /tmp/embarktudBcg/embark-20240320.1230
+  to /tmp/embark6Vsume/embark-20240323.2205
     embark.el -> embark.el
     embark-org.el -> embark-org.el
     embark.texi -> embark.texi
-Generating /tmp/embarktudBcg/embark-20240320.1230/embark.info
-Created embark-20240320.1230.tar containing:
-  embark-20240320.1230/
-  embark-20240320.1230/dir
-  embark-20240320.1230/embark-org.el
-  embark-20240320.1230/embark-pkg.el
-  embark-20240320.1230/embark.el
-  embark-20240320.1230/embark.info
+Generating /tmp/embark6Vsume/embark-20240323.2205/embark.info
+Created embark-20240323.2205.tar containing:
+  embark-20240323.2205/
+  embark-20240323.2205/dir
+  embark-20240323.2205/embark-org.el
+  embark-20240323.2205/embark-pkg.el
+  embark-20240323.2205/embark.el
+  embark-20240323.2205/embark.info
  ✓ Success:
-  2024-03-23T00:54:25+0000  embark-20240320.1230.entry
-  2024-03-23T00:54:25+0000  embark-20240320.1230.tar
-Built embark in 8.419s, finished at 2024-03-23T00:54:27+0000
+  2024-03-24T00:30:09+0000  embark-20240323.2205.entry
+  2024-03-24T00:30:09+0000  embark-20240323.2205.tar
+Built embark in 7.857s, finished at 2024-03-24T00:30:10+0000

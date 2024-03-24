@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/charmap/
 Checking out feac50b87d2a596c5e5b7b82b79ddd65b6dedd8c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/charmap/
-  to /tmp/charmapEBY2Cm/charmap-20200616.1418
+  to /tmp/charmapNErnzP/charmap-20200616.1418
     charmap.el -> charmap.el
 Created charmap-20200616.1418.tar containing:
   charmap-20200616.1418/
   charmap-20200616.1418/charmap-pkg.el
   charmap-20200616.1418/charmap.el
  ✓ Success:
-  2024-03-23T00:44:25+0000  charmap-20200616.1418.entry
-  2024-03-23T00:44:25+0000  charmap-20200616.1418.tar
-Built charmap in 3.070s, finished at 2024-03-23T00:44:26+0000
+  2024-03-24T00:20:14+0000  charmap-20200616.1418.entry
+  2024-03-24T00:20:14+0000  charmap-20200616.1418.tar
+Built charmap in 5.623s, finished at 2024-03-24T00:20:17+0000
