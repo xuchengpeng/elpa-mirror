@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/mybuild-mode/
 Checking out 54e3c31e3b5f133eb8611a3759e59733b17e33e3
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mybuild-mode/
-  to /tmp/mybuild-mode8jPmlH/mybuild-mode-20221007.1928
+  to /tmp/mybuild-modeiPWhE8/mybuild-mode-20221007.1928
     mybuild-mode.el -> mybuild-mode.el
 Created mybuild-mode-20221007.1928.tar containing:
   mybuild-mode-20221007.1928/
   mybuild-mode-20221007.1928/mybuild-mode-pkg.el
   mybuild-mode-20221007.1928/mybuild-mode.el
  ✓ Success:
-  2024-03-24T00:55:04+0000  mybuild-mode-20221007.1928.entry
-  2024-03-24T00:55:04+0000  mybuild-mode-20221007.1928.tar
-Built mybuild-mode in 5.278s, finished at 2024-03-24T00:55:06+0000
+  2024-03-25T00:47:57+0000  mybuild-mode-20221007.1928.entry
+  2024-03-25T00:47:57+0000  mybuild-mode-20221007.1928.tar
+Built mybuild-mode in 3.014s, finished at 2024-03-25T00:47:59+0000

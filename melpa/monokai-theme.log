@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/oneKelvinSmith/monokai-emacs.git
 
 Updating /mnt/store/melpa/working/monokai-theme/
-Checking out 4a09c59f948ba5b602b6f395e667f53224fd75a2
+Checking out df6c23d14e52f9d7f5bc2265facfbedfb07a444e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/monokai-theme/
-  to /tmp/monokai-themeV1U5Dp/monokai-theme-20220117.1244
+  to /tmp/monokai-themeX482Yo/monokai-theme-20240324.1830
     monokai-theme.el -> monokai-theme.el
-Created monokai-theme-20220117.1244.tar containing:
-  monokai-theme-20220117.1244/
-  monokai-theme-20220117.1244/monokai-theme-pkg.el
-  monokai-theme-20220117.1244/monokai-theme.el
+Created monokai-theme-20240324.1830.tar containing:
+  monokai-theme-20240324.1830/
+  monokai-theme-20240324.1830/monokai-theme-pkg.el
+  monokai-theme-20240324.1830/monokai-theme.el
  ✓ Success:
-  2024-03-24T00:54:09+0000  monokai-theme-20220117.1244.entry
-  2024-03-24T00:54:09+0000  monokai-theme-20220117.1244.tar
-Built monokai-theme in 3.267s, finished at 2024-03-24T00:54:10+0000
+  2024-03-25T00:46:56+0000  monokai-theme-20240324.1830.entry
+  2024-03-25T00:46:56+0000  monokai-theme-20240324.1830.tar
+Built monokai-theme in 6.466s, finished at 2024-03-25T00:46:59+0000
