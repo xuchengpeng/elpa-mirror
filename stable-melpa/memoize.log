@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/memoize/
 Checking out 51b075935ca7070f62fae1d69fe0ff7d8fa56fdd
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/memoize/
-  to /tmp/memoize8u2utu/memoize-20200103.2036
+  to /tmp/memoizeRHPQ5y/memoize-20200103.2036
     memoize.el -> memoize.el
 Created memoize-20200103.2036.tar containing:
   memoize-20200103.2036/
   memoize-20200103.2036/memoize-pkg.el
   memoize-20200103.2036/memoize.el
  ✓ Success:
-  2024-03-25T00:45:31+0000  memoize-20200103.2036.entry
-  2024-03-25T00:45:31+0000  memoize-20200103.2036.tar
-Built memoize in 3.468s, finished at 2024-03-25T00:45:32+0000
+  2024-03-27T00:51:50+0000  memoize-20200103.2036.entry
+  2024-03-27T00:51:50+0000  memoize-20200103.2036.tar
+Built memoize in 5.400s, finished at 2024-03-27T00:51:53+0000

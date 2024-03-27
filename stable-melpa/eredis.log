@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/eredis/
 Checking out cfbfc25832f6fbc507bdd56b02e3a0b851a3c368
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/eredis/
-  to /tmp/eredisyxFPti/eredis-20181119.131
+  to /tmp/eredis56sy3I/eredis-20181119.131
     eredis.el -> eredis.el
 Created eredis-20181119.131.tar containing:
   eredis-20181119.131/
   eredis-20181119.131/eredis-pkg.el
   eredis-20181119.131/eredis.el
  ✓ Success:
-  2024-03-25T00:22:48+0000  eredis-20181119.131.entry
-  2024-03-25T00:22:48+0000  eredis-20181119.131.tar
-Built eredis in 5.706s, finished at 2024-03-25T00:22:50+0000
+  2024-03-27T00:28:47+0000  eredis-20181119.131.entry
+  2024-03-27T00:28:47+0000  eredis-20181119.131.tar
+Built eredis in 3.291s, finished at 2024-03-27T00:28:48+0000

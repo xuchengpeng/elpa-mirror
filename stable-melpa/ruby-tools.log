@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/ruby-tools/
 Checking out 6b97066b58a4f82eb2ecea6434a0a7e981aa4c18
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ruby-tools/
-  to /tmp/ruby-toolsloVVWF/ruby-tools-20151209.1615
+  to /tmp/ruby-toolsV2306U/ruby-tools-20151209.1615
     ruby-tools-pkg.el -> ruby-tools-pkg.el
     ruby-tools.el -> ruby-tools.el
 Created ruby-tools-20151209.1615.tar containing:
@@ -14,6 +14,6 @@ Created ruby-tools-20151209.1615.tar containing:
   ruby-tools-20151209.1615/ruby-tools-pkg.el
   ruby-tools-20151209.1615/ruby-tools.el
  ✓ Success:
-  2024-03-25T01:02:16+0000  ruby-tools-20151209.1615.entry
-  2024-03-25T01:02:16+0000  ruby-tools-20151209.1615.tar
-Built ruby-tools in 3.377s, finished at 2024-03-25T01:02:17+0000
+  2024-03-27T01:09:34+0000  ruby-tools-20151209.1615.entry
+  2024-03-27T01:09:34+0000  ruby-tools-20151209.1615.tar
+Built ruby-tools in 5.968s, finished at 2024-03-27T01:09:37+0000

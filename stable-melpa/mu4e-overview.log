@@ -3,16 +3,18 @@ Fetcher: github
 Source:  https://github.com/mkcms/mu4e-overview.git
 
 Updating /mnt/store/melpa/working/mu4e-overview/
-Checking out 7843cb64c861729bfd57ec3e8ad7faf6edb2e543
+Checking out bb213680800f3591d6113be6386f02aa9167e892
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mu4e-overview/
-  to /tmp/mu4e-overviewFfhddW/mu4e-overview-20240219.2302
+  to /tmp/mu4e-overviewjPhMKe/mu4e-overview-20240326.2254
     mu4e-overview.el -> mu4e-overview.el
-Created mu4e-overview-20240219.2302.tar containing:
-  mu4e-overview-20240219.2302/
-  mu4e-overview-20240219.2302/mu4e-overview-pkg.el
-  mu4e-overview-20240219.2302/mu4e-overview.el
+Created mu4e-overview-20240326.2254.tar containing:
+  mu4e-overview-20240326.2254/
+  mu4e-overview-20240326.2254/mu4e-overview-pkg.el
+  mu4e-overview-20240326.2254/mu4e-overview.el
  ✓ Success:
-  2024-03-25T00:47:37+0000  mu4e-overview-20240219.2302.entry
-  2024-03-25T00:47:37+0000  mu4e-overview-20240219.2302.tar
-Built mu4e-overview in 3.638s, finished at 2024-03-25T00:47:38+0000
+  2024-03-26T22:56:55+0000  mu4e-overview-20240326.1036.entry
+  2024-03-26T22:56:55+0000  mu4e-overview-20240326.1036.tar
+  2024-03-27T00:53:46+0000  mu4e-overview-20240326.2254.entry
+  2024-03-27T00:53:46+0000  mu4e-overview-20240326.2254.tar
+Built mu4e-overview in 3.795s, finished at 2024-03-27T00:53:47+0000

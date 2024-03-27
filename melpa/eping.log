@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/eping/
 Checking out 004496ee06c0b8ead4a4f49e17109e8eb32eb49d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/eping/
-  to /tmp/epingfhKOuT/eping-20201027.2149
+  to /tmp/epingLnXmGR/eping-20201027.2149
     eping.el -> eping.el
     eping.info -> eping.info
     eping.texinfo -> eping.texinfo
@@ -17,6 +17,6 @@ Created eping-20201027.2149.tar containing:
   eping-20201027.2149/eping.el
   eping-20201027.2149/eping.info
  ✓ Success:
-  2024-03-25T00:22:24+0000  eping-20201027.2149.entry
-  2024-03-25T00:22:24+0000  eping-20201027.2149.tar
-Built eping in 3.353s, finished at 2024-03-25T00:22:26+0000
+  2024-03-27T00:28:27+0000  eping-20201027.2149.entry
+  2024-03-27T00:28:27+0000  eping-20201027.2149.tar
+Built eping in 4.217s, finished at 2024-03-27T00:28:29+0000

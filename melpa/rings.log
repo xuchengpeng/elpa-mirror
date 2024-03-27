@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/rings/
 Checking out 3590b222eb80652cbd27866f066bd3571d86edfc
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/rings/
-  to /tmp/ringsWPOSEc/rings-20160531.2027
+  to /tmp/ringshQkHkX/rings-20160531.2027
     rings.el -> rings.el
 Created rings-20160531.2027.tar containing:
   rings-20160531.2027/
   rings-20160531.2027/rings-pkg.el
   rings-20160531.2027/rings.el
  ✓ Success:
-  2024-03-25T01:01:51+0000  rings-20160531.2027.entry
-  2024-03-25T01:01:51+0000  rings-20160531.2027.tar
-Built rings in 3.166s, finished at 2024-03-25T01:01:52+0000
+  2024-03-27T01:08:56+0000  rings-20160531.2027.entry
+  2024-03-27T01:08:56+0000  rings-20160531.2027.tar
+Built rings in 4.710s, finished at 2024-03-27T01:08:58+0000

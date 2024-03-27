@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/rg/
 Checking out 4885473a6d248a6ee508b7b7ef3705762af631d9
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/rg/
-  to /tmp/rg7c6TGu/rg-20231202.1023
+  to /tmp/rgFjrdwn/rg-20231202.1023
     rg-header.el -> rg-header.el
     rg-history.el -> rg-history.el
     rg-ibuffer.el -> rg-ibuffer.el
@@ -32,6 +32,6 @@ Created rg-20231202.1023.tar containing:
   rg-20231202.1023/rgel.info
   rg-20231202.1023/wgrep-rg.el
  ✓ Success:
-  2024-03-25T01:01:41+0000  rg-20231202.1023.entry
-  2024-03-25T01:01:41+0000  rg-20231202.1023.tar
-Built rg in 2.507s, finished at 2024-03-25T01:01:42+0000
+  2024-03-27T01:08:47+0000  rg-20231202.1023.entry
+  2024-03-27T01:08:47+0000  rg-20231202.1023.tar
+Built rg in 3.483s, finished at 2024-03-27T01:08:48+0000
