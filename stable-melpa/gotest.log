@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/gotest/
 Checking out 490189e68d743a851bfb42d0017428a7550e8615
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/gotest/
-  to /tmp/gotestZp9EdU/gotest-20230221.945
+  to /tmp/gotestATs1F9/gotest-20230221.945
     gotest.el -> gotest.el
 Created gotest-20230221.945.tar containing:
   gotest-20230221.945/
   gotest-20230221.945/gotest-pkg.el
   gotest-20230221.945/gotest.el
  ✓ Success:
-  2024-03-27T23:59:39+0000  gotest-20230221.945.entry
-  2024-03-27T23:59:39+0000  gotest-20230221.945.tar
-Built gotest in 5.709s, finished at 2024-03-27T23:59:42+0000
+  2024-03-28T05:51:17+0000  gotest-20230221.945.entry
+  2024-03-28T05:51:17+0000  gotest-20230221.945.tar
+Built gotest in 3.414s, finished at 2024-03-28T05:51:19+0000
