@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/ox-ioslide/
 Checking out 6555680be5364c8ddd2bf446865cb1a82adb6b9e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ox-ioslide/
-  to /tmp/ox-ioslidehTaDfH/ox-ioslide-20161015.1338
+  to /tmp/ox-ioslideXkQbHc/ox-ioslide-20161015.1338
     ox-ioslide-helper.el -> ox-ioslide-helper.el
     ox-ioslide.el -> ox-ioslide.el
     js => js
@@ -575,6 +575,6 @@ Created ox-ioslide-20161015.1338.tar containing:
   ox-ioslide-20161015.1338/theme/scss/io2013.scss
   ox-ioslide-20161015.1338/theme/scss/phone.scss
  ✓ Success:
-  2024-03-27T01:01:38+0000  ox-ioslide-20161015.1338.entry
-  2024-03-27T01:01:37+0000  ox-ioslide-20161015.1338.tar
-Built ox-ioslide in 6.744s, finished at 2024-03-27T01:01:39+0000
+  2024-03-28T00:24:52+0000  ox-ioslide-20161015.1338.entry
+  2024-03-28T00:24:52+0000  ox-ioslide-20161015.1338.tar
+Built ox-ioslide in 7.855s, finished at 2024-03-28T00:24:55+0000

@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/xcwen/ac-php.git
 
 Updating /mnt/store/melpa/working/company-php/
-Checking out d4378a857aa1c60b34d86557aa10238785d1ac66
+Checking out 0d4893f5d3eba668ed7784d3cb30d7bef4c5db3e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/company-php/
-  to /tmp/company-phptPsbSl/company-php-20240222.320
+  to /tmp/company-phpeBq7v7/company-php-20240327.608
     company-php.el -> company-php.el
-Created company-php-20240222.320.tar containing:
-  company-php-20240222.320/
-  company-php-20240222.320/company-php-pkg.el
-  company-php-20240222.320/company-php.el
+Created company-php-20240327.608.tar containing:
+  company-php-20240327.608/
+  company-php-20240327.608/company-php-pkg.el
+  company-php-20240327.608/company-php.el
  ✓ Success:
-  2024-03-27T00:19:04+0000  company-php-20240222.320.entry
-  2024-03-27T00:19:04+0000  company-php-20240222.320.tar
-Built company-php in 4.011s, finished at 2024-03-27T00:19:05+0000
+  2024-03-27T23:40:57+0000  company-php-20240327.608.entry
+  2024-03-27T23:40:57+0000  company-php-20240327.608.tar
+Built company-php in 4.036s, finished at 2024-03-27T23:40:59+0000
