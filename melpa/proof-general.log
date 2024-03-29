@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/proof-general/
 Checking out 2637216deea35e4a91b14c7d61a20328fe6dad84
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/proof-general/
-  to /tmp/proof-generalFp8IVn/proof-general-20240328.2344
+  to /tmp/proof-generalkfLCMk/proof-general-20240328.2344
     proof-general.el -> proof-general.el
   ! doc/dir -> dir
   ! doc/PG-adapting.texi -> PG-adapting.texi
@@ -38,8 +38,8 @@ Copying files (->) and directories (=>)
     pghaskell => pghaskell
     pgocaml => pgocaml
     pgshell => pgshell
-Generating /tmp/proof-generalFp8IVn/proof-general-20240328.2344/PG-adapting.info
-Generating /tmp/proof-generalFp8IVn/proof-general-20240328.2344/ProofGeneral.info
+Generating /tmp/proof-generalkfLCMk/proof-general-20240328.2344/PG-adapting.info
+Generating /tmp/proof-generalkfLCMk/proof-general-20240328.2344/ProofGeneral.info
 Created proof-general-20240328.2344.tar containing:
   proof-general-20240328.2344/
   proof-general-20240328.2344/AUTHORS
@@ -176,8 +176,6 @@ Created proof-general-20240328.2344.tar containing:
   proof-general-20240328.2344/qrhl/qrhl-input.el
   proof-general-20240328.2344/qrhl/qrhl.el
  ✓ Success:
-  2024-03-28T22:19:12+0000  proof-general-20240327.1852.entry
-  2024-03-28T22:19:12+0000  proof-general-20240327.1852.tar
-  2024-03-29T00:18:10+0000  proof-general-20240328.2344.entry
-  2024-03-29T00:18:10+0000  proof-general-20240328.2344.tar
-Built proof-general in 24.958s, finished at 2024-03-29T00:18:12+0000
+  2024-03-29T06:09:52+0000  proof-general-20240328.2344.entry
+  2024-03-29T06:09:52+0000  proof-general-20240328.2344.tar
+Built proof-general in 25.644s, finished at 2024-03-29T06:09:54+0000
