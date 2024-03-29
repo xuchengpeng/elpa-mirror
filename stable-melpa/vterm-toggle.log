@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/vterm-toggle/
 Checking out 06cb4f3c565e46470a3c4505c11e26066d869715
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/vterm-toggle/
-  to /tmp/vterm-toggleyH6QxQ/vterm-toggle-20230912.246
+  to /tmp/vterm-togglenp8prW/vterm-toggle-20230912.246
     vterm-toggle.el -> vterm-toggle.el
 Created vterm-toggle-20230912.246.tar containing:
   vterm-toggle-20230912.246/
   vterm-toggle-20230912.246/vterm-toggle-pkg.el
   vterm-toggle-20230912.246/vterm-toggle.el
  ✓ Success:
-  2024-03-28T04:36:44+0000  vterm-toggle-20230912.246.entry
-  2024-03-28T04:36:44+0000  vterm-toggle-20230912.246.tar
-Built vterm-toggle in 3.795s, finished at 2024-03-28T04:36:46+0000
+  2024-03-29T00:32:08+0000  vterm-toggle-20230912.246.entry
+  2024-03-29T00:32:08+0000  vterm-toggle-20230912.246.tar
+Built vterm-toggle in 3.430s, finished at 2024-03-29T00:32:10+0000

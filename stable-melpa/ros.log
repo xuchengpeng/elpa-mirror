@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/mbeutelspacher/ros.el.git
 
 Updating /mnt/store/melpa/working/ros/
-Checking out 66e0cc154dc7d8ae105f2c95ed9f6a16445945d0
+Checking out 7ddba9077b3bc48074c8fac72159368bb612c42b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ros/
-  to /tmp/rosrxxr2l/ros-20231212.729
+  to /tmp/rosHsifJ3/ros-20240328.855
     ros.el -> ros.el
-Created ros-20231212.729.tar containing:
-  ros-20231212.729/
-  ros-20231212.729/ros-pkg.el
-  ros-20231212.729/ros.el
+Created ros-20240328.855.tar containing:
+  ros-20240328.855/
+  ros-20240328.855/ros-pkg.el
+  ros-20240328.855/ros.el
  ✓ Success:
-  2024-03-28T06:23:59+0000  ros-20231212.729.entry
-  2024-03-28T06:23:59+0000  ros-20231212.729.tar
-Built ros in 3.272s, finished at 2024-03-28T06:24:00+0000
+  2024-03-29T00:21:11+0000  ros-20240328.855.entry
+  2024-03-29T00:21:11+0000  ros-20240328.855.tar
+Built ros in 6.162s, finished at 2024-03-29T00:21:14+0000
