@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/gmlarumbe/wavedrom-mode.git
 
 Updating /mnt/store/melpa/working/wavedrom-mode/
-Checking out b360aa39c87e033b65676d3ac542bc26fd5abd34
+Checking out 758a29e975e76ad616bbe18b657a5ce78fd32d32
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/wavedrom-mode/
-  to /tmp/wavedrom-modenC6aEA/wavedrom-mode-20230913.2246
+  to /tmp/wavedrom-mode3RqSej/wavedrom-mode-20240329.1800
     wavedrom-mode.el -> wavedrom-mode.el
-Created wavedrom-mode-20230913.2246.tar containing:
-  wavedrom-mode-20230913.2246/
-  wavedrom-mode-20230913.2246/wavedrom-mode-pkg.el
-  wavedrom-mode-20230913.2246/wavedrom-mode.el
+Created wavedrom-mode-20240329.1800.tar containing:
+  wavedrom-mode-20240329.1800/
+  wavedrom-mode-20240329.1800/wavedrom-mode-pkg.el
+  wavedrom-mode-20240329.1800/wavedrom-mode.el
  ✓ Success:
-  2024-03-29T04:27:30+0000  wavedrom-mode-20230913.2246.entry
-  2024-03-29T04:27:30+0000  wavedrom-mode-20230913.2246.tar
-Built wavedrom-mode in 3.638s, finished at 2024-03-29T04:27:32+0000
+  2024-03-30T00:07:35+0000  wavedrom-mode-20240329.1800.entry
+  2024-03-30T00:07:35+0000  wavedrom-mode-20240329.1800.tar
+Built wavedrom-mode in 4.017s, finished at 2024-03-30T00:07:36+0000
