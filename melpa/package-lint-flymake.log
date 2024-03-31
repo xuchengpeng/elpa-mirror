@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/purcell/package-lint.git
 
 Updating /mnt/store/melpa/working/package-lint-flymake/
-Checking out fce93b7edf4e971b2cbe3425c1d773ffe0aa8a62
+Checking out 17e4ab20dd3e36fa540007b4f4047170c23bdb10
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/package-lint-flymake/
-  to /tmp/package-lint-flymaketdxRpd/package-lint-flymake-20240311.1058
+  to /tmp/package-lint-flymakecXW1Gb/package-lint-flymake-20240330.1458
     package-lint-flymake.el -> package-lint-flymake.el
-Created package-lint-flymake-20240311.1058.tar containing:
-  package-lint-flymake-20240311.1058/
-  package-lint-flymake-20240311.1058/package-lint-flymake-pkg.el
-  package-lint-flymake-20240311.1058/package-lint-flymake.el
+Created package-lint-flymake-20240330.1458.tar containing:
+  package-lint-flymake-20240330.1458/
+  package-lint-flymake-20240330.1458/package-lint-flymake-pkg.el
+  package-lint-flymake-20240330.1458/package-lint-flymake.el
  ✓ Success:
-  2024-03-30T07:44:31+0000  package-lint-flymake-20240311.1058.entry
-  2024-03-30T07:44:30+0000  package-lint-flymake-20240311.1058.tar
-Built package-lint-flymake in 3.974s, finished at 2024-03-30T07:44:32+0000
+  2024-03-30T23:43:54+0000  package-lint-flymake-20240330.1458.entry
+  2024-03-30T23:43:54+0000  package-lint-flymake-20240330.1458.tar
+Built package-lint-flymake in 3.706s, finished at 2024-03-30T23:43:55+0000
