@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/rust-playground/
 Checking out 5a117781dcb66065bea7830dd73618008fc34949
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/rust-playground/
-  to /tmp/rust-playgroundXgtfIf/rust-playground-20200116.1043
+  to /tmp/rust-playgroundIyp2jw/rust-playground-20200116.1043
     rust-playground.el -> rust-playground.el
 Created rust-playground-20200116.1043.tar containing:
   rust-playground-20200116.1043/
   rust-playground-20200116.1043/rust-playground-pkg.el
   rust-playground-20200116.1043/rust-playground.el
  ✓ Success:
-  2024-04-01T00:04:25+0000  rust-playground-20200116.1043.entry
-  2024-04-01T00:04:25+0000  rust-playground-20200116.1043.tar
-Built rust-playground in 3.322s, finished at 2024-04-01T00:04:26+0000
+  2024-04-01T08:12:10+0000  rust-playground-20200116.1043.entry
+  2024-04-01T08:12:10+0000  rust-playground-20200116.1043.tar
+Built rust-playground in 6.347s, finished at 2024-04-01T08:12:13+0000
