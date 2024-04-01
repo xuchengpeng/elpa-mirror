@@ -45,7 +45,7 @@ Here is a simple (not using all the features of fsm.el) example:
       :start ((init) "Start a pingpong fsm."
               (interactive "nInit (number, negative to auto-terminate): ")
               (list :ping (ash (ash init -2) 2) ; 4 is death
-                    (when (called-interactively-p 'interactive) 0)))
+                    (when (interactive-p) 0)))
       :state-data-name count
       :states
       ((:ping

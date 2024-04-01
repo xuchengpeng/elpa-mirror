@@ -1,6 +1,6 @@
 REQUIRES:
 -----------------------------
-This module works without any requires, but in order to use the audio 
+This module works without any requires, but in order to use the audio
 functions, you need to install the Emacs package "emms", by Joe Drew,
 and the external program "mpg321", by Jorgen Schafer and Ulrik Jensen,
 both under GPL licenses.

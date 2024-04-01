@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/fedi/
 Checking out b4996a467868b11e7f4ee9c53354131a99bc6bad
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/fedi/
-  to /tmp/fedijwRab5/fedi-20240311.1417
+  to /tmp/fediQSXrEd/fedi-20240311.1417
     fedi-http.el -> fedi-http.el
     fedi-iso.el -> fedi-iso.el
     fedi-post.el -> fedi-post.el
@@ -18,7 +18,3 @@ Created fedi-20240311.1417.tar containing:
   fedi-20240311.1417/fedi-pkg.el
   fedi-20240311.1417/fedi-post.el
   fedi-20240311.1417/fedi.el
- ✓ Success:
-  2024-03-31T01:14:23+0000  fedi-20240311.1417.entry
-  2024-03-31T01:14:23+0000  fedi-20240311.1417.tar
-Built fedi in 4.585s, finished at 2024-03-31T01:14:25+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/btc-ticker/
 Checking out 2ed18ac6338d5fe98c578f0875840af07f0bc42a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/btc-ticker/
-  to /tmp/btc-tickeriVH2KQ/btc-ticker-20220409.1647
+  to /tmp/btc-tickerqwoaas/btc-ticker-20220409.1647
     btc-ticker.el -> btc-ticker.el
 Created btc-ticker-20220409.1647.tar containing:
   btc-ticker-20220409.1647/
   btc-ticker-20220409.1647/btc-ticker-pkg.el
   btc-ticker-20220409.1647/btc-ticker.el
  ✓ Success:
-  2024-03-31T00:57:02+0000  btc-ticker-20220409.1647.entry
-  2024-03-31T00:57:02+0000  btc-ticker-20220409.1647.tar
-Built btc-ticker in 4.215s, finished at 2024-03-31T00:57:04+0000
+  2024-04-01T01:10:30+0000  btc-ticker-20220409.1647.entry
+  2024-04-01T01:10:30+0000  btc-ticker-20220409.1647.tar
+Built btc-ticker in 4.637s, finished at 2024-04-01T01:10:32+0000

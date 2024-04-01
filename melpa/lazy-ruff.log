@@ -1,0 +1,18 @@
+Package: lazy-ruff
+Fetcher: github
+Source:  https://github.com/christophermadsen/emacs-lazy-ruff.git
+
+Updating /mnt/store/melpa/working/lazy-ruff/
+Checking out 90cbeb77a370448364d2eb59870eee781636beff
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/lazy-ruff/
+  to /tmp/lazy-ruffnCisGt/lazy-ruff-20240326.1943
+    lazy-ruff.el -> lazy-ruff.el
+Created lazy-ruff-20240326.1943.tar containing:
+  lazy-ruff-20240326.1943/
+  lazy-ruff-20240326.1943/lazy-ruff-pkg.el
+  lazy-ruff-20240326.1943/lazy-ruff.el
+ ✓ Success:
+  2024-03-31T23:41:52+0000  lazy-ruff-20240326.1943.entry
+  2024-03-31T23:41:52+0000  lazy-ruff-20240326.1943.tar
+Built lazy-ruff in 3.330s, finished at 2024-03-31T23:41:53+0000
