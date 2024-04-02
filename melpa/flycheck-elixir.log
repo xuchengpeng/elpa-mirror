@@ -3,16 +3,7 @@ Fetcher: github
 Source:  https://github.com/lbolla/emacs-flycheck-elixir.git
 
 Updating /mnt/store/melpa/working/flycheck-elixir/
-Checking out b57a77a21d6cf9621b3387831cba34135c4fa35d
-Copying files (->) and directories (=>)
-  from /mnt/store/melpa/working/flycheck-elixir/
-  to /tmp/flycheck-elixirqL9rYI/flycheck-elixir-20210413.612
-    flycheck-elixir.el -> flycheck-elixir.el
-Created flycheck-elixir-20210413.612.tar containing:
-  flycheck-elixir-20210413.612/
-  flycheck-elixir-20210413.612/flycheck-elixir-pkg.el
-  flycheck-elixir-20210413.612/flycheck-elixir.el
- ✓ Success:
-  2024-04-01T07:34:30+0000  flycheck-elixir-20210413.612.entry
-  2024-04-01T07:34:30+0000  flycheck-elixir-20210413.612.tar
-Built flycheck-elixir in 3.411s, finished at 2024-04-01T07:34:32+0000
+Command `git remote set-head origin --auto' exited with non-zero exit-code: 128
+fatal: unable to access 'https://github.com/lbolla/emacs-flycheck-elixir.git/': GnuTLS recv error (-54): Error in the pull function.
+
+Command `git remote set-head origin --auto' exited with non-zero exit-code: 128

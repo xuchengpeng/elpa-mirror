@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/bnfc/
 Checking out 1b58df1dd0cb9b81900632fb2843a03b94f56fdb
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/bnfc/
-  to /tmp/bnfcF5zXlH/bnfc-20160605.1927
+  to /tmp/bnfchQC5Pd/bnfc-20160605.1927
     bnfc.el -> bnfc.el
 Created bnfc-20160605.1927.tar containing:
   bnfc-20160605.1927/
   bnfc-20160605.1927/bnfc-pkg.el
   bnfc-20160605.1927/bnfc.el
  ✓ Success:
-  2024-04-01T07:16:03+0000  bnfc-20160605.1927.entry
-  2024-04-01T07:16:03+0000  bnfc-20160605.1927.tar
-Built bnfc in 3.778s, finished at 2024-04-01T07:16:05+0000
+  2024-04-01T23:22:23+0000  bnfc-20160605.1927.entry
+  2024-04-01T23:22:23+0000  bnfc-20160605.1927.tar
+Built bnfc in 3.454s, finished at 2024-04-01T23:22:24+0000

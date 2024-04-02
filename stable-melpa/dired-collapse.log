@@ -3,16 +3,7 @@ Fetcher: github
 Source:  https://github.com/Fuco1/dired-hacks.git
 
 Updating /mnt/store/melpa/working/dired-collapse/
-Checking out e596b0bac3de8e7730dfb43ca10b0331b6f94469
-Copying files (->) and directories (=>)
-  from /mnt/store/melpa/working/dired-collapse/
-  to /tmp/dired-collapsemo0Jbb/dired-collapse-20240328.1154
-    dired-collapse.el -> dired-collapse.el
-Created dired-collapse-20240328.1154.tar containing:
-  dired-collapse-20240328.1154/
-  dired-collapse-20240328.1154/dired-collapse-pkg.el
-  dired-collapse-20240328.1154/dired-collapse.el
- ✓ Success:
-  2024-04-01T07:24:32+0000  dired-collapse-20240328.1154.entry
-  2024-04-01T07:24:32+0000  dired-collapse-20240328.1154.tar
-Built dired-collapse in 4.008s, finished at 2024-04-01T07:24:34+0000
+Command `git remote set-head origin --auto' exited with non-zero exit-code: 128
+fatal: unable to access 'https://github.com/Fuco1/dired-hacks.git/': GnuTLS recv error (-54): Error in the pull function.
+
+Command `git remote set-head origin --auto' exited with non-zero exit-code: 128

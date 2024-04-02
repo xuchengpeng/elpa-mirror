@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/SqrtMinusOne/eshell-atuin.git
 
 Updating /mnt/store/melpa/working/eshell-atuin/
-Checking out 24ac9fac36ef8a7919e081d22d5a7fa5428a01ba
+Checking out 0731963667979691ec5fbe704e7038a6d5587abd
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/eshell-atuin/
-  to /tmp/eshell-atuinIscIMQ/eshell-atuin-20240312.1546
+  to /tmp/eshell-atuinIuRj66/eshell-atuin-20240401.1414
     eshell-atuin.el -> eshell-atuin.el
-Created eshell-atuin-20240312.1546.tar containing:
-  eshell-atuin-20240312.1546/
-  eshell-atuin-20240312.1546/eshell-atuin-pkg.el
-  eshell-atuin-20240312.1546/eshell-atuin.el
+Created eshell-atuin-20240401.1414.tar containing:
+  eshell-atuin-20240401.1414/
+  eshell-atuin-20240401.1414/eshell-atuin-pkg.el
+  eshell-atuin-20240401.1414/eshell-atuin.el
  ✓ Success:
-  2024-04-01T07:30:24+0000  eshell-atuin-20240312.1546.entry
-  2024-04-01T07:30:24+0000  eshell-atuin-20240312.1546.tar
-Built eshell-atuin in 3.415s, finished at 2024-04-01T07:30:25+0000
+  2024-04-01T23:36:56+0000  eshell-atuin-20240401.1414.entry
+  2024-04-01T23:36:56+0000  eshell-atuin-20240401.1414.tar
+Built eshell-atuin in 5.914s, finished at 2024-04-01T23:36:59+0000

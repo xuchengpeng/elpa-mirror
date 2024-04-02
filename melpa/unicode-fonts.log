@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/unicode-fonts/
 Checking out 6245b97d8ddaeaf1de4dbe2cd85ca0f3b20ef81b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/unicode-fonts/
-  to /tmp/unicode-fontsXg1Jjq/unicode-fonts-20230926.1502
+  to /tmp/unicode-fonts4BU3gR/unicode-fonts-20230926.1502
     unicode-fonts.el -> unicode-fonts.el
 Created unicode-fonts-20230926.1502.tar containing:
   unicode-fonts-20230926.1502/
   unicode-fonts-20230926.1502/unicode-fonts-pkg.el
   unicode-fonts-20230926.1502/unicode-fonts.el
  ✓ Success:
-  2024-04-01T08:21:56+0000  unicode-fonts-20230926.1502.entry
-  2024-04-01T08:21:56+0000  unicode-fonts-20230926.1502.tar
-Built unicode-fonts in 5.189s, finished at 2024-04-01T08:21:58+0000
+  2024-04-02T00:28:12+0000  unicode-fonts-20230926.1502.entry
+  2024-04-02T00:28:12+0000  unicode-fonts-20230926.1502.tar
+Built unicode-fonts in 3.750s, finished at 2024-04-02T00:28:14+0000

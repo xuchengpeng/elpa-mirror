@@ -3,16 +3,7 @@ Fetcher: github
 Source:  https://github.com/colonelpanic8/flimenu.git
 
 Updating /mnt/store/melpa/working/flimenu/
-Checking out 4c0ff37cf3bd6c836bd136b5f6c450560a6c92b9
-Copying files (->) and directories (=>)
-  from /mnt/store/melpa/working/flimenu/
-  to /tmp/flimenu6rOlXf/flimenu-20200810.1510
-    flimenu.el -> flimenu.el
-Created flimenu-20200810.1510.tar containing:
-  flimenu-20200810.1510/
-  flimenu-20200810.1510/flimenu-pkg.el
-  flimenu-20200810.1510/flimenu.el
- ✓ Success:
-  2024-04-01T07:33:52+0000  flimenu-20200810.1510.entry
-  2024-04-01T07:33:52+0000  flimenu-20200810.1510.tar
-Built flimenu in 3.926s, finished at 2024-04-01T07:33:54+0000
+Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
+fatal: unable to access 'https://github.com/colonelpanic8/flimenu.git/': GnuTLS recv error (-54): Error in the pull function.
+
+Command `git fetch -f --tags origin' exited with non-zero exit-code: 128

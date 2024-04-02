@@ -3,16 +3,7 @@ Fetcher: github
 Source:  https://github.com/emacs-vs/htmltagwrap.git
 
 Updating /mnt/store/melpa/working/htmltagwrap/
-Checking out 96f89ec74e39903d8ed1f87f261032778c19694a
-Copying files (->) and directories (=>)
-  from /mnt/store/melpa/working/htmltagwrap/
-  to /tmp/htmltagwrapk5LeFL/htmltagwrap-20240120.1010
-    htmltagwrap.el -> htmltagwrap.el
-Created htmltagwrap-20240120.1010.tar containing:
-  htmltagwrap-20240120.1010/
-  htmltagwrap-20240120.1010/htmltagwrap-pkg.el
-  htmltagwrap-20240120.1010/htmltagwrap.el
- ✓ Success:
-  2024-04-01T07:44:38+0000  htmltagwrap-20240120.1010.entry
-  2024-04-01T07:44:38+0000  htmltagwrap-20240120.1010.tar
-Built htmltagwrap in 5.884s, finished at 2024-04-01T07:44:41+0000
+Command `git remote set-head origin --auto' exited with non-zero exit-code: 128
+fatal: unable to access 'https://github.com/emacs-vs/htmltagwrap.git/': GnuTLS recv error (-54): Error in the pull function.
+
+Command `git remote set-head origin --auto' exited with non-zero exit-code: 128
