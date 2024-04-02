@@ -3,7 +3,16 @@ Fetcher: github
 Source:  https://github.com/jart/js2-closure.git
 
 Updating /mnt/store/melpa/working/js2-closure/
-Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
-fatal: unable to access 'https://github.com/jart/js2-closure.git/': GnuTLS recv error (-54): Error in the pull function.
-
-Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
+Checking out 74a75f001a8bc2b9c02b9e8b4557f7ee3c5f84fb
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/js2-closure/
+  to /tmp/js2-closure8pBcgp/js2-closure-20170816.1918
+    js2-closure.el -> js2-closure.el
+Created js2-closure-20170816.1918.tar containing:
+  js2-closure-20170816.1918/
+  js2-closure-20170816.1918/js2-closure-pkg.el
+  js2-closure-20170816.1918/js2-closure.el
+ ✓ Success:
+  2024-04-02T07:41:32+0000  js2-closure-20170816.1918.entry
+  2024-04-02T07:41:32+0000  js2-closure-20170816.1918.tar
+Built js2-closure in 3.481s, finished at 2024-04-02T07:41:33+0000

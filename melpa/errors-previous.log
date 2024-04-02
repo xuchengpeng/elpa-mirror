@@ -1,49 +1,19 @@
-2024-04-01T23:17:42+0000  2048-game                  Command `hg purge' exited with non-zero exit-code: 255
-2024-04-01T23:19:14+0000  alectryon                  Command `git remote set-head origin --auto' exited with non-zero exit-code: 128
-2024-04-01T23:19:53+0000  aozora-view                Command `git remote set-head origin --auto' exited with non-zero exit-code: 128
-2024-04-01T23:19:56+0000  apheleia                   Command `git remote set-head origin --auto' exited with non-zero exit-code: 128
-2024-04-01T23:20:19+0000  async                      Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
-2024-04-01T23:20:21+0000  async-status               Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
-2024-04-01T23:20:36+0000  auth-source-kwallet        Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
-2024-04-01T23:20:42+0000  auto-auto-indent           Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
-2024-04-01T23:21:40+0000  bbcode-mode                Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
-2024-04-01T23:22:37+0000  bongo                      Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
-2024-04-01T23:23:56+0000  caser                      Command `hg purge' exited with non-zero exit-code: 255
-2024-04-01T23:24:05+0000  cedit                      Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
-2024-04-01T23:24:13+0000  cfml-mode                  Command `git remote set-head origin --auto' exited with non-zero exit-code: 128
-2024-04-01T23:25:49+0000  closure-lint-mode          Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
-2024-04-01T23:25:53+0000  cmake-font-lock            Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
-2024-04-01T23:27:14+0000  company-stan               Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
-2024-04-01T23:30:52+0000  dired-hist                 Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
-2024-04-01T23:30:55+0000  dired-collapse             Command `git remote set-head origin --auto' exited with non-zero exit-code: 128
-2024-04-01T23:31:26+0000  direnv                     Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
-2024-04-01T23:31:45+0000  ditz-mode                  Command `hg purge' exited with non-zero exit-code: 255
-2024-04-01T23:33:39+0000  eide                       Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
-2024-04-01T23:34:18+0000  eldoc-eask                 Command `git remote set-head origin --auto' exited with non-zero exit-code: 128
-2024-04-01T23:36:05+0000  enlightened-theme          Command `hg purge' exited with non-zero exit-code: 255
-2024-04-01T23:38:29+0000  evil-leader                Command `git remote set-head origin --auto' exited with non-zero exit-code: 128
-2024-04-01T23:40:00+0000  feebleline                 Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
-2024-04-01T23:40:26+0000  firstly-search             Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
-2024-04-01T23:40:42+0000  fix-word                   Command `git remote set-head origin --auto' exited with non-zero exit-code: 128
-2024-04-01T23:40:59+0000  flimenu                    Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
-2024-04-01T23:41:38+0000  flycheck-elixir            Command `git remote set-head origin --auto' exited with non-zero exit-code: 128
-2024-04-01T23:46:58+0000  go-imports                 Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
-2024-04-01T23:52:13+0000  htmltagwrap                Command `git remote set-head origin --auto' exited with non-zero exit-code: 128
-2024-04-01T23:52:26+0000  i3bar                      Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
-2024-04-01T23:55:41+0000  js2-closure                Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
-2024-04-01T23:56:19+0000  kanban                     Command `hg purge' exited with non-zero exit-code: 255
-2024-04-01T23:56:25+0000  keg-mode                   Command `git remote set-head origin --auto' exited with non-zero exit-code: 128
-2024-04-01T23:58:43+0000  lms                        Command `hg purge' exited with non-zero exit-code: 255
-2024-04-02T00:02:23+0000  minesweeper                Command `hg purge' exited with non-zero exit-code: 255
-2024-04-02T00:03:42+0000  multi-run                  Command `git remote set-head origin --auto' exited with non-zero exit-code: 128
-2024-04-02T00:04:36+0000  neuron-mode                Command `git remote set-head origin --auto' exited with non-zero exit-code: 128
-2024-04-02T00:09:09+0000  org-pivotal                Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
-2024-04-02T00:09:25+0000  org-parser                 Command `hg purge' exited with non-zero exit-code: 255
-2024-04-02T00:11:02+0000  ox-impress-js              Command `git clone https\://github.com/emacsattic/org-impress-js.git /mnt/store/melpa/working/ox-impress-js/' exited with non-zero exit-code: 128
-2024-04-02T00:13:05+0000  per-buffer-theme           Command `hg purge' exited with non-zero exit-code: 255
-2024-04-02T00:13:33+0000  pinyin-isearch             Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
-2024-04-02T00:14:14+0000  pmdm                       Command `hg purge' exited with non-zero exit-code: 255
-2024-04-02T00:28:34+0000  use-package-el-get         Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
-2024-04-02T00:31:36+0000  wisp-mode                  Command `hg purge' exited with non-zero exit-code: 255
-2024-04-02T00:32:47+0000  yatex                      Command `hg purge' exited with non-zero exit-code: 255
-2024-04-02T00:33:24+0000  zpresent                   Command `hg purge' exited with non-zero exit-code: 255
+2024-04-02T05:08:44+0000  2048-game                  Command `hg purge' exited with non-zero exit-code: 255
+2024-04-02T05:15:03+0000  caser                      Command `hg purge' exited with non-zero exit-code: 255
+2024-04-02T05:22:26+0000  dired-hist                 Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
+2024-04-02T05:23:15+0000  ditz-mode                  Command `hg purge' exited with non-zero exit-code: 255
+2024-04-02T05:27:08+0000  enlightened-theme          Command `hg purge' exited with non-zero exit-code: 255
+2024-04-02T05:30:35+0000  firstly-search             Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
+2024-04-02T05:45:43+0000  kanban                     Command `hg purge' exited with non-zero exit-code: 255
+2024-04-02T05:48:33+0000  lms                        Command `hg purge' exited with non-zero exit-code: 255
+2024-04-02T05:51:21+0000  minesweeper                Command `hg purge' exited with non-zero exit-code: 255
+2024-04-02T05:58:11+0000  org-pivotal                Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
+2024-04-02T05:58:27+0000  org-parser                 Command `hg purge' exited with non-zero exit-code: 255
+2024-04-02T05:59:55+0000  ox-impress-js              Command `git clone https\://github.com/emacsattic/org-impress-js.git /mnt/store/melpa/working/ox-impress-js/' exited with non-zero exit-code: 128
+2024-04-02T06:01:44+0000  per-buffer-theme           Command `hg purge' exited with non-zero exit-code: 255
+2024-04-02T06:02:09+0000  pinyin-isearch             Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
+2024-04-02T06:02:50+0000  pmdm                       Command `hg purge' exited with non-zero exit-code: 255
+2024-04-02T06:17:16+0000  use-package-el-get         Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
+2024-04-02T06:20:09+0000  wisp-mode                  Command `hg purge' exited with non-zero exit-code: 255
+2024-04-02T06:21:35+0000  yatex                      Command `hg purge' exited with non-zero exit-code: 255
+2024-04-02T06:22:18+0000  zpresent                   Command `hg purge' exited with non-zero exit-code: 255

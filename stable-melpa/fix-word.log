@@ -3,7 +3,16 @@ Fetcher: github
 Source:  https://github.com/mrkkrp/fix-word.git
 
 Updating /mnt/store/melpa/working/fix-word/
-Command `git remote set-head origin --auto' exited with non-zero exit-code: 128
-fatal: unable to access 'https://github.com/mrkkrp/fix-word.git/': gnutls_handshake() failed: Error in the pull function.
-
-Command `git remote set-head origin --auto' exited with non-zero exit-code: 128
+Checking out 80cf4529915c34d2d39b4d3410781a19ef264e9f
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/fix-word/
+  to /tmp/fix-wordvwE5y1/fix-word-20210319.1414
+    fix-word.el -> fix-word.el
+Created fix-word-20210319.1414.tar containing:
+  fix-word-20210319.1414/
+  fix-word-20210319.1414/fix-word-pkg.el
+  fix-word-20210319.1414/fix-word.el
+ ✓ Success:
+  2024-04-02T07:27:50+0000  fix-word-20210319.1414.entry
+  2024-04-02T07:27:50+0000  fix-word-20210319.1414.tar
+Built fix-word in 3.264s, finished at 2024-04-02T07:27:52+0000

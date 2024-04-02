@@ -3,7 +3,16 @@ Fetcher: github
 Source:  https://github.com/emacs-eask/eldoc-eask.git
 
 Updating /mnt/store/melpa/working/eldoc-eask/
-Command `git remote set-head origin --auto' exited with non-zero exit-code: 128
-fatal: unable to access 'https://github.com/emacs-eask/eldoc-eask.git/': Empty reply from server
-
-Command `git remote set-head origin --auto' exited with non-zero exit-code: 128
+Checking out ade0f239814f3b8bc77229e903d2c4b806ded90a
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/eldoc-eask/
+  to /tmp/eldoc-easkXB2LHl/eldoc-eask-20240101.819
+    eldoc-eask.el -> eldoc-eask.el
+Created eldoc-eask-20240101.819.tar containing:
+  eldoc-eask-20240101.819/
+  eldoc-eask-20240101.819/eldoc-eask-pkg.el
+  eldoc-eask-20240101.819/eldoc-eask.el
+ ✓ Success:
+  2024-04-02T07:22:33+0000  eldoc-eask-20240101.819.entry
+  2024-04-02T07:22:33+0000  eldoc-eask-20240101.819.tar
+Built eldoc-eask in 3.927s, finished at 2024-04-02T07:22:34+0000
