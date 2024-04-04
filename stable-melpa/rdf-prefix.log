@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/simenheg/rdf-prefix.git
 
 Updating /mnt/store/melpa/working/rdf-prefix/
-Checking out 70d1ef453fc55f0bfbb4bd3127112332e5b0f623
+Checking out c591608d12278b293a14c27ab2df72a269eb535d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/rdf-prefix/
-  to /tmp/rdf-prefixXlyXK6/rdf-prefix-20230321.1949
+  to /tmp/rdf-prefix6uBr5H/rdf-prefix-20240403.1710
     rdf-prefix.el -> rdf-prefix.el
-Created rdf-prefix-20230321.1949.tar containing:
-  rdf-prefix-20230321.1949/
-  rdf-prefix-20230321.1949/rdf-prefix-pkg.el
-  rdf-prefix-20230321.1949/rdf-prefix.el
+Created rdf-prefix-20240403.1710.tar containing:
+  rdf-prefix-20240403.1710/
+  rdf-prefix-20240403.1710/rdf-prefix-pkg.el
+  rdf-prefix-20240403.1710/rdf-prefix.el
  ✓ Success:
-  2024-04-02T08:02:11+0000  rdf-prefix-20230321.1949.entry
-  2024-04-02T08:02:11+0000  rdf-prefix-20230321.1949.tar
-Built rdf-prefix in 6.803s, finished at 2024-04-02T08:02:14+0000
+  2024-04-04T01:03:49+0000  rdf-prefix-20240403.1710.entry
+  2024-04-04T01:03:49+0000  rdf-prefix-20240403.1710.tar
+Built rdf-prefix in 4.062s, finished at 2024-04-04T01:03:51+0000

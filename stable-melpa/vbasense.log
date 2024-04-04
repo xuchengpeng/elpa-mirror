@@ -3,28 +3,3 @@ Fetcher: github
 Source:  https://github.com/aki2o/emacs-vbasense.git
 
 Updating /mnt/store/melpa/working/vbasense/
-Checking out 8c61a492d7c15218ae1a96e2aebfe6f78bfff6db
-Copying files (->) and directories (=>)
-  from /mnt/store/melpa/working/vbasense/
-  to /tmp/vbasenseRub3Qd/vbasense-20140221.2353
-    vbasense.el -> vbasense.el
-    chkTLI.vbs -> chkTLI.vbs
-    getProgIDAll.vbs -> getProgIDAll.vbs
-    getTLI.vbs -> getTLI.vbs
-    chkTLI.bat -> chkTLI.bat
-    getProgIDAll.bat -> getProgIDAll.bat
-    getTLI.bat -> getTLI.bat
-Created vbasense-20140221.2353.tar containing:
-  vbasense-20140221.2353/
-  vbasense-20140221.2353/chkTLI.bat
-  vbasense-20140221.2353/chkTLI.vbs
-  vbasense-20140221.2353/getProgIDAll.bat
-  vbasense-20140221.2353/getProgIDAll.vbs
-  vbasense-20140221.2353/getTLI.bat
-  vbasense-20140221.2353/getTLI.vbs
-  vbasense-20140221.2353/vbasense-pkg.el
-  vbasense-20140221.2353/vbasense.el
- ✓ Success:
-  2024-04-02T08:13:57+0000  vbasense-20140221.2353.entry
-  2024-04-02T08:13:57+0000  vbasense-20140221.2353.tar
-Built vbasense in 4.688s, finished at 2024-04-02T08:13:59+0000
