@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/mips-mode/
 Checking out 98795cdc81979821ac35d9f94ce354cd99780c67
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mips-mode/
-  to /tmp/mips-modezi5yIw/mips-mode-20220608.1204
+  to /tmp/mips-modeneQ2jb/mips-mode-20220608.1204
     mips-mode.el -> mips-mode.el
 Created mips-mode-20220608.1204.tar containing:
   mips-mode-20220608.1204/
   mips-mode-20220608.1204/mips-mode-pkg.el
   mips-mode-20220608.1204/mips-mode.el
  ✓ Success:
-  2024-04-04T00:48:24+0000  mips-mode-20220608.1204.entry
-  2024-04-04T00:48:24+0000  mips-mode-20220608.1204.tar
-Built mips-mode in 3.143s, finished at 2024-04-04T00:48:25+0000
+  2024-04-05T00:22:07+0000  mips-mode-20220608.1204.entry
+  2024-04-05T00:22:06+0000  mips-mode-20220608.1204.tar
+Built mips-mode in 7.531s, finished at 2024-04-05T00:22:10+0000

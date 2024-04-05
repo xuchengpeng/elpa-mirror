@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/rvm/
 Checking out e1e83b5466c132c066142ac63729ba833c530c83
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/rvm/
-  to /tmp/rvmOspe14/rvm-20220910.1558
+  to /tmp/rvmSn8nD8/rvm-20220910.1558
     rvm.el -> rvm.el
 Created rvm-20220910.1558.tar containing:
   rvm-20220910.1558/
   rvm-20220910.1558/rvm-pkg.el
   rvm-20220910.1558/rvm.el
  ✓ Success:
-  2024-04-04T01:05:50+0000  rvm-20220910.1558.entry
-  2024-04-04T01:05:50+0000  rvm-20220910.1558.tar
-Built rvm in 4.427s, finished at 2024-04-04T01:05:52+0000
+  2024-04-05T00:38:59+0000  rvm-20220910.1558.entry
+  2024-04-05T00:38:59+0000  rvm-20220910.1558.tar
+Built rvm in 3.606s, finished at 2024-04-05T00:39:01+0000
