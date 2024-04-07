@@ -1,0 +1,20 @@
+Package: chinese-yasdcv
+Fetcher: github
+Source:  https://github.com/tumashu/chinese-yasdcv.git
+
+Updating /mnt/store/melpa/working/chinese-yasdcv/
+Checking out 5ab830daf1273d5a5cddcb94b56a9737f12d996f
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/chinese-yasdcv/
+  to /tmp/chinese-yasdcvtJjeNr/chinese-yasdcv-20171015.144
+    chinese-yasdcv.el -> chinese-yasdcv.el
+    yasdcv.el -> yasdcv.el
+Created chinese-yasdcv-20171015.144.tar containing:
+  chinese-yasdcv-20171015.144/
+  chinese-yasdcv-20171015.144/chinese-yasdcv-pkg.el
+  chinese-yasdcv-20171015.144/chinese-yasdcv.el
+  chinese-yasdcv-20171015.144/yasdcv.el
+ ✓ Success:
+  2024-04-07T01:07:06+0000  chinese-yasdcv-20171015.144.entry
+  2024-04-07T01:07:06+0000  chinese-yasdcv-20171015.144.tar
+Built chinese-yasdcv in 4.708s, finished at 2024-04-07T01:07:08+0000

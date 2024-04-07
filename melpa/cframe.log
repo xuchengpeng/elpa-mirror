@@ -1,0 +1,18 @@
+Package: cframe
+Fetcher: github
+Source:  https://github.com/plandes/cframe.git
+
+Updating /mnt/store/melpa/working/cframe/
+Checking out 580a20573ef413c269c032221de04abc1c97a6a8
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/cframe/
+  to /tmp/cframeINvsnL/cframe-20240223.2335
+    cframe.el -> cframe.el
+Created cframe-20240223.2335.tar containing:
+  cframe-20240223.2335/
+  cframe-20240223.2335/cframe-pkg.el
+  cframe-20240223.2335/cframe.el
+ ✓ Success:
+  2024-04-07T01:06:49+0000  cframe-20240223.2335.entry
+  2024-04-07T01:06:49+0000  cframe-20240223.2335.tar
+Built cframe in 3.593s, finished at 2024-04-07T01:06:51+0000

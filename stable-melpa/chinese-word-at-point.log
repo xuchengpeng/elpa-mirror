@@ -1,0 +1,18 @@
+Package: chinese-word-at-point
+Fetcher: github
+Source:  https://github.com/xuchunyang/chinese-word-at-point.el.git
+
+Updating /mnt/store/melpa/working/chinese-word-at-point/
+Checking out 8223d7439e005555b86995a005b225ae042f0538
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/chinese-word-at-point/
+  to /tmp/chinese-word-at-pointpWkl9t/chinese-word-at-point-20170811.941
+    chinese-word-at-point.el -> chinese-word-at-point.el
+Created chinese-word-at-point-20170811.941.tar containing:
+  chinese-word-at-point-20170811.941/
+  chinese-word-at-point-20170811.941/chinese-word-at-point-pkg.el
+  chinese-word-at-point-20170811.941/chinese-word-at-point.el
+ ✓ Success:
+  2024-04-07T01:07:06+0000  chinese-word-at-point-20170811.941.entry
+  2024-04-07T01:07:06+0000  chinese-word-at-point-20170811.941.tar
+Built chinese-word-at-point in 4.725s, finished at 2024-04-07T01:07:08+0000
