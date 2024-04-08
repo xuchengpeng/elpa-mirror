@@ -3,16 +3,3 @@ Fetcher: github
 Source:  https://github.com/snarfed/fillcode.git
 
 Updating /mnt/store/melpa/working/fillcode/
-Checking out 4d206982b6aaa493d709c84aea206cabb8b4038c
-Copying files (->) and directories (=>)
-  from /mnt/store/melpa/working/fillcode/
-  to /tmp/fillcodeUwlMNl/fillcode-20200524.2226
-    fillcode.el -> fillcode.el
-Created fillcode-20200524.2226.tar containing:
-  fillcode-20200524.2226/
-  fillcode-20200524.2226/fillcode-pkg.el
-  fillcode-20200524.2226/fillcode.el
- ✓ Success:
-  2024-04-06T23:22:05+0000  fillcode-20200524.2226.entry
-  2024-04-06T23:22:05+0000  fillcode-20200524.2226.tar
-Built fillcode in 4.128s, finished at 2024-04-06T23:22:06+0000

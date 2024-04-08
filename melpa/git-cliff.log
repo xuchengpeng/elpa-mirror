@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/liuyinz/git-cliff.el.git
 
 Updating /mnt/store/melpa/working/git-cliff/
-Checking out 6715b76f0734aa730958e87555b63b59c80585ff
+Checking out b217b0576798767cc0a96343ba43adca3c04f760
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/git-cliff/
-  to /tmp/git-cliffHwWiKa/git-cliff-20240331.1432
+  to /tmp/git-cliffByyAe3/git-cliff-20240407.940
     git-cliff.el -> git-cliff.el
-Created git-cliff-20240331.1432.tar containing:
-  git-cliff-20240331.1432/
-  git-cliff-20240331.1432/git-cliff-pkg.el
-  git-cliff-20240331.1432/git-cliff.el
+Created git-cliff-20240407.940.tar containing:
+  git-cliff-20240407.940/
+  git-cliff-20240407.940/git-cliff-pkg.el
+  git-cliff-20240407.940/git-cliff.el
  ✓ Success:
-  2024-04-06T23:26:33+0000  git-cliff-20240331.1432.entry
-  2024-04-06T23:26:33+0000  git-cliff-20240331.1432.tar
-Built git-cliff in 3.380s, finished at 2024-04-06T23:26:34+0000
+  2024-04-07T23:21:05+0000  git-cliff-20240407.940.entry
+  2024-04-07T23:21:05+0000  git-cliff-20240407.940.tar
+Built git-cliff in 4.403s, finished at 2024-04-07T23:21:07+0000
