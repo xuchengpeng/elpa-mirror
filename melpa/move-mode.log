@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/amnn/move-mode.git
 
 Updating /mnt/store/melpa/working/move-mode/
-Checking out b07983c8df12fa428117cea8e09067ae952871d9
+Checking out f974cc69f279c45026f7386e0194be74779334a8
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/move-mode/
-  to /tmp/move-modeuID1Jb/move-mode-20240309.2223
+  to /tmp/move-moden9J3da/move-mode-20240409.2159
     move-mode.el -> move-mode.el
-Created move-mode-20240309.2223.tar containing:
-  move-mode-20240309.2223/
-  move-mode-20240309.2223/move-mode-pkg.el
-  move-mode-20240309.2223/move-mode.el
+Created move-mode-20240409.2159.tar containing:
+  move-mode-20240409.2159/
+  move-mode-20240409.2159/move-mode-pkg.el
+  move-mode-20240409.2159/move-mode.el
  ✓ Success:
-  2024-04-08T23:36:49+0000  move-mode-20240309.2223.entry
-  2024-04-08T23:36:49+0000  move-mode-20240309.2223.tar
-Built move-mode in 7.898s, finished at 2024-04-08T23:36:52+0000
+  2024-04-10T00:43:54+0000  move-mode-20240409.2159.entry
+  2024-04-10T00:43:54+0000  move-mode-20240409.2159.tar
+Built move-mode in 3.337s, finished at 2024-04-10T00:43:56+0000

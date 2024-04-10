@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/helm-R/
 Checking out b0eb9d5f6a483a9dbe6eb6cf1f2024d4f5938bc2
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/helm-R/
-  to /tmp/helm-Rkyrnu8/helm-R-20120820.14
+  to /tmp/helm-RckSghQ/helm-R-20120820.14
     helm-R.el -> helm-R.el
 Created helm-R-20120820.14.tar containing:
   helm-R-20120820.14/
   helm-R-20120820.14/helm-R-pkg.el
   helm-R-20120820.14/helm-R.el
  ✓ Success:
-  2024-04-08T23:22:53+0000  helm-R-20120820.14.entry
-  2024-04-08T23:22:53+0000  helm-R-20120820.14.tar
-Built helm-R in 3.429s, finished at 2024-04-08T23:22:55+0000
+  2024-04-10T00:28:36+0000  helm-R-20120820.14.entry
+  2024-04-10T00:28:36+0000  helm-R-20120820.14.tar
+Built helm-R in 4.773s, finished at 2024-04-10T00:28:38+0000

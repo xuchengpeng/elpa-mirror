@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/lcr/
 Checking out 6c345112ffb59f3e7babca6c83942f686b5f554b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/lcr/
-  to /tmp/lcrsgA5g4/lcr-20221012.742
+  to /tmp/lcrKFkkJZ/lcr-20221012.742
     lcr.el -> lcr.el
 Created lcr-20221012.742.tar containing:
   lcr-20221012.742/
   lcr-20221012.742/lcr-pkg.el
   lcr-20221012.742/lcr.el
  ✓ Success:
-  2024-04-08T23:31:51+0000  lcr-20221012.742.entry
-  2024-04-08T23:31:51+0000  lcr-20221012.742.tar
-Built lcr in 3.297s, finished at 2024-04-08T23:31:53+0000
+  2024-04-10T00:38:30+0000  lcr-20221012.742.entry
+  2024-04-10T00:38:30+0000  lcr-20221012.742.tar
+Built lcr in 4.689s, finished at 2024-04-10T00:38:33+0000

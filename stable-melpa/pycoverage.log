@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/pycoverage/
 Checking out 3c69ed312121368f1b24cc04d54a29ce4ed4f743
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/pycoverage/
-  to /tmp/pycoverage2UkMcc/pycoverage-20200513.2047
+  to /tmp/pycoverageRvKcLB/pycoverage-20200513.2047
     pycoverage.el -> pycoverage.el
   ! cov2emacs/bin/cov2emacs -> cov2emacs
   ! cov2emacs/cov2emacslib/__init__.py -> __init__.py
@@ -19,6 +19,6 @@ Created pycoverage-20200513.2047.tar containing:
   pycoverage-20200513.2047/pycoverage-pkg.el
   pycoverage-20200513.2047/pycoverage.el
  ✓ Success:
-  2024-04-08T23:49:50+0000  pycoverage-20200513.2047.entry
-  2024-04-08T23:49:49+0000  pycoverage-20200513.2047.tar
-Built pycoverage in 3.713s, finished at 2024-04-08T23:49:51+0000
+  2024-04-10T00:56:22+0000  pycoverage-20200513.2047.entry
+  2024-04-10T00:56:22+0000  pycoverage-20200513.2047.tar
+Built pycoverage in 3.236s, finished at 2024-04-10T00:56:23+0000

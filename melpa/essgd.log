@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/sje30/essgd.git
 
 Updating /mnt/store/melpa/working/essgd/
-Checking out 7de47ff1828d9a3ffa22c664864913947e1ec3da
+Checking out 3010fba1c720d6a0532fbe5db0d740ca74097618
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/essgd/
-  to /tmp/essgd997C6K/essgd-20240401.1829
+  to /tmp/essgd98kbga/essgd-20240409.915
     essgd.el -> essgd.el
-Created essgd-20240401.1829.tar containing:
-  essgd-20240401.1829/
-  essgd-20240401.1829/essgd-pkg.el
-  essgd-20240401.1829/essgd.el
+Created essgd-20240409.915.tar containing:
+  essgd-20240409.915/
+  essgd-20240409.915/essgd-pkg.el
+  essgd-20240409.915/essgd.el
  ✓ Success:
-  2024-04-09T01:12:20+0000  essgd-20240401.1829.entry
-  2024-04-09T01:12:20+0000  essgd-20240401.1829.tar
-Built essgd in 3.341s, finished at 2024-04-09T01:12:21+0000
+  2024-04-10T00:18:47+0000  essgd-20240409.915.entry
+  2024-04-10T00:18:47+0000  essgd-20240409.915.tar
+Built essgd in 4.765s, finished at 2024-04-10T00:18:49+0000
