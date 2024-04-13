@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/sekka/
 Checking out d1fd5d47aacba723631d5d374169a45ff2051c41
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/sekka/
-  to /tmp/sekka9otNVb/sekka-20170803.1247
+  to /tmp/sekkaiVU5qC/sekka-20170803.1247
   ! emacs/sekka.el -> sekka.el
 Created sekka-20170803.1247.tar containing:
   sekka-20170803.1247/
   sekka-20170803.1247/sekka-pkg.el
   sekka-20170803.1247/sekka.el
  ✓ Success:
-  2024-04-12T00:38:04+0000  sekka-20170803.1247.entry
-  2024-04-12T00:38:03+0000  sekka-20170803.1247.tar
-Built sekka in 4.647s, finished at 2024-04-12T00:38:05+0000
+  2024-04-13T00:43:40+0000  sekka-20170803.1247.entry
+  2024-04-13T00:43:40+0000  sekka-20170803.1247.tar
+Built sekka in 4.590s, finished at 2024-04-13T00:43:42+0000

@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/sly-hello-world/
 Checking out be257e9ad354db690c7378e89899335597348a0d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/sly-hello-world/
-  to /tmp/sly-hello-worldxgEj5J/sly-hello-world-20200225.1755
+  to /tmp/sly-hello-world6uItUc/sly-hello-world-20200225.1755
     sly-hello-world-autoloads.el -> sly-hello-world-autoloads.el
     sly-hello-world.el -> sly-hello-world.el
     slynk-hello-world.lisp -> slynk-hello-world.lisp
@@ -19,6 +19,6 @@ Created sly-hello-world-20200225.1755.tar containing:
   sly-hello-world-20200225.1755/slynk-hello-world.asd
   sly-hello-world-20200225.1755/slynk-hello-world.lisp
  ✓ Success:
-  2024-04-12T00:39:32+0000  sly-hello-world-20200225.1755.entry
-  2024-04-12T00:39:32+0000  sly-hello-world-20200225.1755.tar
-Built sly-hello-world in 4.680s, finished at 2024-04-12T00:39:34+0000
+  2024-04-13T00:45:20+0000  sly-hello-world-20200225.1755.entry
+  2024-04-13T00:45:20+0000  sly-hello-world-20200225.1755.tar
+Built sly-hello-world in 4.404s, finished at 2024-04-13T00:45:22+0000

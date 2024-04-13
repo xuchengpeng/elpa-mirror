@@ -3,16 +3,18 @@ Fetcher: codeberg
 Source:  https://codeberg.org/bram85/kagi.el.git
 
 Updating /mnt/store/melpa/working/kagi/
-Checking out c93a8ac995246408f276a58c6d461829665d9269
+Checking out 4e2a15a23d11490cdc002bde1dd2f17a463a3db3
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/kagi/
-  to /tmp/kagi50sR0p/kagi-20240410.1922
+  to /tmp/kagiK7ET98/kagi-20240412.2137
     kagi.el -> kagi.el
-Created kagi-20240410.1922.tar containing:
-  kagi-20240410.1922/
-  kagi-20240410.1922/kagi-pkg.el
-  kagi-20240410.1922/kagi.el
+    ob-kagi-fastgpt.el -> ob-kagi-fastgpt.el
+Created kagi-20240412.2137.tar containing:
+  kagi-20240412.2137/
+  kagi-20240412.2137/kagi-pkg.el
+  kagi-20240412.2137/kagi.el
+  kagi-20240412.2137/ob-kagi-fastgpt.el
  ✓ Success:
-  2024-04-12T00:16:02+0000  kagi-20240410.1922.entry
-  2024-04-12T00:16:02+0000  kagi-20240410.1922.tar
-Built kagi in 4.184s, finished at 2024-04-12T00:16:03+0000
+  2024-04-13T00:19:18+0000  kagi-20240412.2137.entry
+  2024-04-13T00:19:17+0000  kagi-20240412.2137.tar
+Built kagi in 5.643s, finished at 2024-04-13T00:19:19+0000
