@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/package-lint/
 Checking out 17e4ab20dd3e36fa540007b4f4047170c23bdb10
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/package-lint/
-  to /tmp/package-lintcky4oq/package-lint-20240330.1458
+  to /tmp/package-lintt9oqVA/package-lint-20240330.1458
     package-lint.el -> package-lint.el
     data => data
 Created package-lint-20240330.1458.tar containing:
@@ -17,6 +17,6 @@ Created package-lint-20240330.1458.tar containing:
   package-lint-20240330.1458/package-lint-pkg.el
   package-lint-20240330.1458/package-lint.el
  ✓ Success:
-  2024-04-13T00:34:39+0000  package-lint-20240330.1458.entry
-  2024-04-13T00:34:39+0000  package-lint-20240330.1458.tar
-Built package-lint in 3.947s, finished at 2024-04-13T00:34:40+0000
+  2024-04-14T01:09:00+0000  package-lint-20240330.1458.entry
+  2024-04-14T01:09:00+0000  package-lint-20240330.1458.tar
+Built package-lint in 6.007s, finished at 2024-04-14T01:09:03+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/phan/
 Checking out b7d523630bb072c4dbcfa9995dc734b25b72a69f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/phan/
-  to /tmp/phanss8DPH/phan-20200805.356
+  to /tmp/phanx4PQ1p/phan-20200805.356
     phan.el -> phan.el
 Created phan-20200805.356.tar containing:
   phan-20200805.356/
   phan-20200805.356/phan-pkg.el
   phan-20200805.356/phan.el
  ✓ Success:
-  2024-04-13T00:36:06+0000  phan-20200805.356.entry
-  2024-04-13T00:36:06+0000  phan-20200805.356.tar
-Built phan in 7.191s, finished at 2024-04-13T00:36:09+0000
+  2024-04-14T01:10:41+0000  phan-20200805.356.entry
+  2024-04-14T01:10:41+0000  phan-20200805.356.tar
+Built phan in 7.468s, finished at 2024-04-14T01:10:44+0000
