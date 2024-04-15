@@ -3,34 +3,3 @@ Fetcher: github
 Source:  https://github.com/mohkale/projection.git
 
 Updating /mnt/store/melpa/working/projection-multi/
-Checking out dc489480a6e4be82e570266202144730b3ddde5f
-Copying files (->) and directories (=>)
-  from /mnt/store/melpa/working/projection-multi/
-  to /tmp/projection-multi5X7DdL/projection-multi-20240316.2222
-  ! src/projection-multi/projection-multi-cmake.el -> projection-multi-cmake.el
-  ! src/projection-multi/projection-multi-ctest.el -> projection-multi-ctest.el
-  ! src/projection-multi/projection-multi-make.el -> projection-multi-make.el
-  ! src/projection-multi/projection-multi-meson.el -> projection-multi-meson.el
-  ! src/projection-multi/projection-multi-npm-scripts.el -> projection-multi-npm-scripts.el
-  ! src/projection-multi/projection-multi-poetry-poe.el -> projection-multi-poetry-poe.el
-  ! src/projection-multi/projection-multi-rustic.el -> projection-multi-rustic.el
-  ! src/projection-multi/projection-multi-tox.el -> projection-multi-tox.el
-  ! src/projection-multi/projection-multi-yarn-scripts.el -> projection-multi-yarn-scripts.el
-  ! src/projection-multi/projection-multi.el -> projection-multi.el
-Created projection-multi-20240316.2222.tar containing:
-  projection-multi-20240316.2222/
-  projection-multi-20240316.2222/projection-multi-cmake.el
-  projection-multi-20240316.2222/projection-multi-ctest.el
-  projection-multi-20240316.2222/projection-multi-make.el
-  projection-multi-20240316.2222/projection-multi-meson.el
-  projection-multi-20240316.2222/projection-multi-npm-scripts.el
-  projection-multi-20240316.2222/projection-multi-pkg.el
-  projection-multi-20240316.2222/projection-multi-poetry-poe.el
-  projection-multi-20240316.2222/projection-multi-rustic.el
-  projection-multi-20240316.2222/projection-multi-tox.el
-  projection-multi-20240316.2222/projection-multi-yarn-scripts.el
-  projection-multi-20240316.2222/projection-multi.el
- ✓ Success:
-  2024-04-13T22:56:45+0000  projection-multi-20240316.2222.entry
-  2024-04-13T22:56:45+0000  projection-multi-20240316.2222.tar
-Built projection-multi in 4.210s, finished at 2024-04-13T22:56:47+0000
