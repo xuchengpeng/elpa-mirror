@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/magit/orgit-forge.git
 
 Updating /mnt/store/melpa/working/orgit-forge/
-Checking out f2ff9e5ad68b3e860379a1d368ad6d8a9696b719
+Checking out 7b010465ab96bea6d380ae1cfbd7999d528f1de9
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/orgit-forge/
-  to /tmp/orgit-forgeV57HkF/orgit-forge-20240101.2222
+  to /tmp/orgit-forgeNWbRqx/orgit-forge-20240415.1546
     orgit-forge.el -> orgit-forge.el
-Created orgit-forge-20240101.2222.tar containing:
-  orgit-forge-20240101.2222/
-  orgit-forge-20240101.2222/orgit-forge-pkg.el
-  orgit-forge-20240101.2222/orgit-forge.el
+Created orgit-forge-20240415.1546.tar containing:
+  orgit-forge-20240415.1546/
+  orgit-forge-20240415.1546/orgit-forge-pkg.el
+  orgit-forge-20240415.1546/orgit-forge.el
  ✓ Success:
-  2024-04-15T03:26:38+0000  orgit-forge-20240101.2222.entry
-  2024-04-15T03:26:38+0000  orgit-forge-20240101.2222.tar
-Built orgit-forge in 3.940s, finished at 2024-04-15T03:26:40+0000
+  2024-04-16T00:19:57+0000  orgit-forge-20240415.1546.entry
+  2024-04-16T00:19:57+0000  orgit-forge-20240415.1546.tar
+Built orgit-forge in 4.076s, finished at 2024-04-16T00:19:59+0000

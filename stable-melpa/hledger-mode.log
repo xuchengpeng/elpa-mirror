@@ -3,10 +3,10 @@ Fetcher: github
 Source:  https://github.com/narendraj9/hledger-mode.git
 
 Updating /mnt/store/melpa/working/hledger-mode/
-Checking out 1b9c65298c34933d6667773d7fa1e89c9841038d
+Checking out 5492509a23047f0a1f05a112b47fa34eba7c5e1d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/hledger-mode/
-  to /tmp/hledger-modey246Nr/hledger-mode-20231001.834
+  to /tmp/hledger-modeUeUtuK/hledger-mode-20240415.1812
     hledger-core.el -> hledger-core.el
     hledger-defuns.el -> hledger-defuns.el
     hledger-input.el -> hledger-input.el
@@ -16,19 +16,19 @@ Copying files (->) and directories (=>)
     hledger-reports.el -> hledger-reports.el
     hledger-suggest.el -> hledger-suggest.el
     hledger-webservice.el -> hledger-webservice.el
-Created hledger-mode-20231001.834.tar containing:
-  hledger-mode-20231001.834/
-  hledger-mode-20231001.834/hledger-core.el
-  hledger-mode-20231001.834/hledger-defuns.el
-  hledger-mode-20231001.834/hledger-input.el
-  hledger-mode-20231001.834/hledger-mail.el
-  hledger-mode-20231001.834/hledger-mode-pkg.el
-  hledger-mode-20231001.834/hledger-mode.el
-  hledger-mode-20231001.834/hledger-navigate.el
-  hledger-mode-20231001.834/hledger-reports.el
-  hledger-mode-20231001.834/hledger-suggest.el
-  hledger-mode-20231001.834/hledger-webservice.el
+Created hledger-mode-20240415.1812.tar containing:
+  hledger-mode-20240415.1812/
+  hledger-mode-20240415.1812/hledger-core.el
+  hledger-mode-20240415.1812/hledger-defuns.el
+  hledger-mode-20240415.1812/hledger-input.el
+  hledger-mode-20240415.1812/hledger-mail.el
+  hledger-mode-20240415.1812/hledger-mode-pkg.el
+  hledger-mode-20240415.1812/hledger-mode.el
+  hledger-mode-20240415.1812/hledger-navigate.el
+  hledger-mode-20240415.1812/hledger-reports.el
+  hledger-mode-20240415.1812/hledger-suggest.el
+  hledger-mode-20240415.1812/hledger-webservice.el
  ✓ Success:
-  2024-04-15T03:05:06+0000  hledger-mode-20231001.834.entry
-  2024-04-15T03:05:06+0000  hledger-mode-20231001.834.tar
-Built hledger-mode in 4.553s, finished at 2024-04-15T03:05:08+0000
+  2024-04-15T23:57:07+0000  hledger-mode-20240415.1812.entry
+  2024-04-15T23:57:07+0000  hledger-mode-20240415.1812.tar
+Built hledger-mode in 4.550s, finished at 2024-04-15T23:57:09+0000
