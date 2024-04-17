@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/simplecov/
 Checking out 215f2bdc5d2ef9b4439779ba4d3129210c9f34ab
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/simplecov/
-  to /tmp/simplecovkCp9MB/simplecov-20221206.350
+  to /tmp/simplecovxIKlWX/simplecov-20221206.350
     simplecov.el -> simplecov.el
 Created simplecov-20221206.350.tar containing:
   simplecov-20221206.350/
   simplecov-20221206.350/simplecov-pkg.el
   simplecov-20221206.350/simplecov.el
  ✓ Success:
-  2024-04-16T00:33:08+0000  simplecov-20221206.350.entry
-  2024-04-16T00:33:08+0000  simplecov-20221206.350.tar
-Built simplecov in 4.255s, finished at 2024-04-16T00:33:10+0000
+  2024-04-17T00:35:04+0000  simplecov-20221206.350.entry
+  2024-04-17T00:35:04+0000  simplecov-20221206.350.tar
+Built simplecov in 3.103s, finished at 2024-04-17T00:35:06+0000
