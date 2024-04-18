@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/mohkale/compile-multi.git
 
 Updating /mnt/store/melpa/working/compile-multi/
-Checking out 7124939e77da2bf3847aeeba2ba0387e47e11ce7
+Checking out 7567ecb1b97712ae5346dee7a74281285e68bac5
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/compile-multi/
-  to /tmp/compile-multiUe9HUQ/compile-multi-20240315.2126
+  to /tmp/compile-multin8628Q/compile-multi-20240417.1826
     compile-multi.el -> compile-multi.el
-Created compile-multi-20240315.2126.tar containing:
-  compile-multi-20240315.2126/
-  compile-multi-20240315.2126/compile-multi-pkg.el
-  compile-multi-20240315.2126/compile-multi.el
+Created compile-multi-20240417.1826.tar containing:
+  compile-multi-20240417.1826/
+  compile-multi-20240417.1826/compile-multi-pkg.el
+  compile-multi-20240417.1826/compile-multi.el
  ✓ Success:
-  2024-04-16T23:43:57+0000  compile-multi-20240315.2126.entry
-  2024-04-16T23:43:57+0000  compile-multi-20240315.2126.tar
-Built compile-multi in 3.401s, finished at 2024-04-16T23:43:59+0000
+  2024-04-17T23:40:00+0000  compile-multi-20240417.1826.entry
+  2024-04-17T23:40:00+0000  compile-multi-20240417.1826.tar
+Built compile-multi in 3.550s, finished at 2024-04-17T23:40:02+0000

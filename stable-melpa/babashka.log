@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/licht1stein/babashka.el.git
 
 Updating /mnt/store/melpa/working/babashka/
-Checking out 1721f68ea8e34e8a6ab2759a04c1a01cedfdd319
+Checking out 117138c0b7361e70282ee53825e2f4de1a782609
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/babashka/
-  to /tmp/babashkaHNnO2U/babashka-20230808.2140
+  to /tmp/babashkatGA7z8/babashka-20240417.1347
     babashka.el -> babashka.el
-Created babashka-20230808.2140.tar containing:
-  babashka-20230808.2140/
-  babashka-20230808.2140/babashka-pkg.el
-  babashka-20230808.2140/babashka.el
+Created babashka-20240417.1347.tar containing:
+  babashka-20240417.1347/
+  babashka-20240417.1347/babashka-pkg.el
+  babashka-20240417.1347/babashka.el
  ✓ Success:
-  2024-04-16T23:38:03+0000  babashka-20230808.2140.entry
-  2024-04-16T23:38:03+0000  babashka-20230808.2140.tar
-Built babashka in 4.543s, finished at 2024-04-16T23:38:05+0000
+  2024-04-17T23:33:41+0000  babashka-20240417.1347.entry
+  2024-04-17T23:33:41+0000  babashka-20240417.1347.tar
+Built babashka in 4.880s, finished at 2024-04-17T23:33:43+0000
