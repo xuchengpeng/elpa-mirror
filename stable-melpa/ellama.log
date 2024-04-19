@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/ellama/
 Checking out 6e6ec8e28b8ce32ff207b1b026aaaeddc1bd8239
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ellama/
-  to /tmp/ellamabbYsDZ/ellama-20240415.730
+  to /tmp/ellamamAruQI/ellama-20240415.730
     ellama.el -> ellama.el
 Created ellama-20240415.730.tar containing:
   ellama-20240415.730/
   ellama-20240415.730/ellama-pkg.el
   ellama-20240415.730/ellama.el
  ✓ Success:
-  2024-04-17T23:48:02+0000  ellama-20240415.730.entry
-  2024-04-17T23:48:02+0000  ellama-20240415.730.tar
-Built ellama in 4.986s, finished at 2024-04-17T23:48:05+0000
+  2024-04-19T00:30:55+0000  ellama-20240415.730.entry
+  2024-04-19T00:30:55+0000  ellama-20240415.730.tar
+Built ellama in 3.788s, finished at 2024-04-19T00:30:56+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/qrencode/
 Checking out 0ab1819ee39d15994a864db4d2dfa32e7a527f82
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/qrencode/
-  to /tmp/qrencodeKjhgQF/qrencode-20231127.21
+  to /tmp/qrencodeAnf1OC/qrencode-20231127.21
     qrencode.el -> qrencode.el
 Created qrencode-20231127.21.tar containing:
   qrencode-20231127.21/
   qrencode-20231127.21/qrencode-pkg.el
   qrencode-20231127.21/qrencode.el
  ✓ Success:
-  2024-04-18T00:30:19+0000  qrencode-20231127.21.entry
-  2024-04-18T00:30:19+0000  qrencode-20231127.21.tar
-Built qrencode in 4.236s, finished at 2024-04-18T00:30:21+0000
+  2024-04-19T01:12:24+0000  qrencode-20231127.21.entry
+  2024-04-19T01:12:24+0000  qrencode-20231127.21.tar
+Built qrencode in 5.633s, finished at 2024-04-19T01:12:26+0000
