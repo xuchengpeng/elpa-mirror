@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/ivy-gitlab/
 Checking out 8c2324c02119500f094c2f92dfaba4c9977ce1ba
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ivy-gitlab/
-  to /tmp/ivy-gitlabGz91Lp/ivy-gitlab-20181228.826
+  to /tmp/ivy-gitlabivG6gK/ivy-gitlab-20181228.826
     ivy-gitlab.el -> ivy-gitlab.el
 Created ivy-gitlab-20181228.826.tar containing:
   ivy-gitlab-20181228.826/
   ivy-gitlab-20181228.826/ivy-gitlab-pkg.el
   ivy-gitlab-20181228.826/ivy-gitlab.el
  ✓ Success:
-  2024-04-19T00:49:31+0000  ivy-gitlab-20181228.826.entry
-  2024-04-19T00:49:31+0000  ivy-gitlab-20181228.826.tar
-Built ivy-gitlab in 3.235s, finished at 2024-04-19T00:49:32+0000
+  2024-04-20T00:15:38+0000  ivy-gitlab-20181228.826.entry
+  2024-04-20T00:15:38+0000  ivy-gitlab-20181228.826.tar
+Built ivy-gitlab in 3.665s, finished at 2024-04-20T00:15:40+0000

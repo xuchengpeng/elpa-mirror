@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/doctest/
 Checking out a1fc9f2fcb45ea980ca25c524d54a7b0bd40e3c9
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/doctest/
-  to /tmp/doctestQZ8ld2/doctest-20240321.2345
+  to /tmp/doctestb3AVNK/doctest-20240321.2345
     doctest.el -> doctest.el
 Created doctest-20240321.2345.tar containing:
   doctest-20240321.2345/
   doctest-20240321.2345/doctest-pkg.el
   doctest-20240321.2345/doctest.el
  ✓ Success:
-  2024-04-19T00:27:51+0000  doctest-20240321.2345.entry
-  2024-04-19T00:27:51+0000  doctest-20240321.2345.tar
-Built doctest in 3.553s, finished at 2024-04-19T00:27:53+0000
+  2024-04-19T23:53:44+0000  doctest-20240321.2345.entry
+  2024-04-19T23:53:44+0000  doctest-20240321.2345.tar
+Built doctest in 3.587s, finished at 2024-04-19T23:53:46+0000

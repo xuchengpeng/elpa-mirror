@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/emacs-eldev/flymake-eldev.git
 
 Updating /mnt/store/melpa/working/flymake-eldev/
-Checking out 901b2837c7d575f929f87aa83b8e725841927584
+Checking out d8f4d9da115002afd3785b777cd59a49d170e04a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/flymake-eldev/
-  to /tmp/flymake-eldevdWcqof/flymake-eldev-20240115.1927
+  to /tmp/flymake-eldevTCQ2Rm/flymake-eldev-20240419.2023
     flymake-eldev.el -> flymake-eldev.el
-Created flymake-eldev-20240115.1927.tar containing:
-  flymake-eldev-20240115.1927/
-  flymake-eldev-20240115.1927/flymake-eldev-pkg.el
-  flymake-eldev-20240115.1927/flymake-eldev.el
+Created flymake-eldev-20240419.2023.tar containing:
+  flymake-eldev-20240419.2023/
+  flymake-eldev-20240419.2023/flymake-eldev-pkg.el
+  flymake-eldev-20240419.2023/flymake-eldev.el
  ✓ Success:
-  2024-04-19T00:37:54+0000  flymake-eldev-20240115.1927.entry
-  2024-04-19T00:37:54+0000  flymake-eldev-20240115.1927.tar
-Built flymake-eldev in 4.570s, finished at 2024-04-19T00:37:56+0000
+  2024-04-20T00:03:55+0000  flymake-eldev-20240419.2023.entry
+  2024-04-20T00:03:55+0000  flymake-eldev-20240419.2023.tar
+Built flymake-eldev in 3.256s, finished at 2024-04-20T00:03:56+0000
