@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/async-status/
 Checking out d2f5becc9850c26aa71fb581f9fc389eac740f52
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/async-status/
-  to /tmp/async-statusDjgFZo/async-status-20230821.204
+  to /tmp/async-status9KQxIp/async-status-20230821.204
     async-status.el -> async-status.el
 Created async-status-20230821.204.tar containing:
   async-status-20230821.204/
   async-status-20230821.204/async-status-pkg.el
   async-status-20230821.204/async-status.el
  ✓ Success:
-  2024-04-19T23:41:45+0000  async-status-20230821.204.entry
-  2024-04-19T23:41:45+0000  async-status-20230821.204.tar
-Built async-status in 4.902s, finished at 2024-04-19T23:41:47+0000
+  2024-04-21T00:08:10+0000  async-status-20230821.204.entry
+  2024-04-21T00:08:10+0000  async-status-20230821.204.tar
+Built async-status in 4.389s, finished at 2024-04-21T00:08:12+0000

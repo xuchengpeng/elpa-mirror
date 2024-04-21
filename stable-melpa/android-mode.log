@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/android-mode/
 Checking out d5332e339a1f5e30559a53feffb8442ca79265d6
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/android-mode/
-  to /tmp/android-modejge8YP/android-mode-20190903.811
+  to /tmp/android-modeCAozHd/android-mode-20190903.811
     android-mode.el -> android-mode.el
 Created android-mode-20190903.811.tar containing:
   android-mode-20190903.811/
   android-mode-20190903.811/android-mode-pkg.el
   android-mode-20190903.811/android-mode.el
  ✓ Success:
-  2024-04-19T23:41:00+0000  android-mode-20190903.811.entry
-  2024-04-19T23:41:00+0000  android-mode-20190903.811.tar
-Built android-mode in 3.623s, finished at 2024-04-19T23:41:02+0000
+  2024-04-21T00:07:20+0000  android-mode-20190903.811.entry
+  2024-04-21T00:07:19+0000  android-mode-20190903.811.tar
+Built android-mode in 5.101s, finished at 2024-04-21T00:07:22+0000

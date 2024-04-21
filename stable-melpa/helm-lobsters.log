@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/helm-lobsters/
 Checking out 3a1af0d063ca24fe0187daff12110171b942c7d3
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/helm-lobsters/
-  to /tmp/helm-lobstersT7TP6q/helm-lobsters-20230820.1403
+  to /tmp/helm-lobsterslu5Gim/helm-lobsters-20230820.1403
     helm-lobsters.el -> helm-lobsters.el
 Created helm-lobsters-20230820.1403.tar containing:
   helm-lobsters-20230820.1403/
   helm-lobsters-20230820.1403/helm-lobsters-pkg.el
   helm-lobsters-20230820.1403/helm-lobsters.el
  ✓ Success:
-  2024-04-20T00:10:50+0000  helm-lobsters-20230820.1403.entry
-  2024-04-20T00:10:50+0000  helm-lobsters-20230820.1403.tar
-Built helm-lobsters in 3.450s, finished at 2024-04-20T00:10:51+0000
+  2024-04-21T00:37:17+0000  helm-lobsters-20230820.1403.entry
+  2024-04-21T00:37:17+0000  helm-lobsters-20230820.1403.tar
+Built helm-lobsters in 3.125s, finished at 2024-04-21T00:37:18+0000

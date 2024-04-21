@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/merrickluo/lsp-tailwindcss.git
 
 Updating /mnt/store/melpa/working/lsp-tailwindcss/
-Checking out 6ade9cacd1db89da0e9c0941a86408a42091d479
+Checking out 3e3cc80a448e9dd24663eaa41742cda686dac5ab
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/lsp-tailwindcss/
-  to /tmp/lsp-tailwindcssvxHfmX/lsp-tailwindcss-20230407.951
+  to /tmp/lsp-tailwindcsssKVSs9/lsp-tailwindcss-20240420.1411
     lsp-tailwindcss.el -> lsp-tailwindcss.el
-Created lsp-tailwindcss-20230407.951.tar containing:
-  lsp-tailwindcss-20230407.951/
-  lsp-tailwindcss-20230407.951/lsp-tailwindcss-pkg.el
-  lsp-tailwindcss-20230407.951/lsp-tailwindcss.el
+Created lsp-tailwindcss-20240420.1411.tar containing:
+  lsp-tailwindcss-20240420.1411/
+  lsp-tailwindcss-20240420.1411/lsp-tailwindcss-pkg.el
+  lsp-tailwindcss-20240420.1411/lsp-tailwindcss.el
  ✓ Success:
-  2024-04-20T00:20:55+0000  lsp-tailwindcss-20230407.951.entry
-  2024-04-20T00:20:55+0000  lsp-tailwindcss-20230407.951.tar
-Built lsp-tailwindcss in 5.014s, finished at 2024-04-20T00:20:58+0000
+  2024-04-21T00:47:42+0000  lsp-tailwindcss-20240420.1411.entry
+  2024-04-21T00:47:42+0000  lsp-tailwindcss-20240420.1411.tar
+Built lsp-tailwindcss in 7.661s, finished at 2024-04-21T00:47:45+0000

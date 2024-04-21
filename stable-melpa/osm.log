@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/osm/
 Checking out 5dffbc00e4acfcddc13677f3b76a65dc3b6aee30
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/osm/
-  to /tmp/osmZNb6cO/osm-20240122.2255
+  to /tmp/osmbwwKgh/osm-20240122.2255
     osm.el -> osm.el
 Created osm-20240122.2255.tar containing:
   osm-20240122.2255/
   osm-20240122.2255/osm-pkg.el
   osm-20240122.2255/osm.el
  ✓ Success:
-  2024-04-20T00:31:58+0000  osm-20240122.2255.entry
-  2024-04-20T00:31:58+0000  osm-20240122.2255.tar
-Built osm in 6.145s, finished at 2024-04-20T00:32:01+0000
+  2024-04-21T00:58:30+0000  osm-20240122.2255.entry
+  2024-04-21T00:58:30+0000  osm-20240122.2255.tar
+Built osm in 4.446s, finished at 2024-04-21T00:58:31+0000

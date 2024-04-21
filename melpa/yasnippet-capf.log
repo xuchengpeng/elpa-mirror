@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/elken/yasnippet-capf.git
 
 Updating /mnt/store/melpa/working/yasnippet-capf/
-Checking out 9043f8275176a8f198ce8e81fadab1870fa165bb
+Checking out ea2bbf4f1c5c133ca7105a5cda2bc01c8e378ef5
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/yasnippet-capf/
-  to /tmp/yasnippet-capfgUvSxW/yasnippet-capf-20240309.1316
+  to /tmp/yasnippet-capfeea5SV/yasnippet-capf-20240420.1531
     yasnippet-capf.el -> yasnippet-capf.el
-Created yasnippet-capf-20240309.1316.tar containing:
-  yasnippet-capf-20240309.1316/
-  yasnippet-capf-20240309.1316/yasnippet-capf-pkg.el
-  yasnippet-capf-20240309.1316/yasnippet-capf.el
+Created yasnippet-capf-20240420.1531.tar containing:
+  yasnippet-capf-20240420.1531/
+  yasnippet-capf-20240420.1531/yasnippet-capf-pkg.el
+  yasnippet-capf-20240420.1531/yasnippet-capf.el
  ✓ Success:
-  2024-04-20T00:54:35+0000  yasnippet-capf-20240309.1316.entry
-  2024-04-20T00:54:35+0000  yasnippet-capf-20240309.1316.tar
-Built yasnippet-capf in 5.154s, finished at 2024-04-20T00:54:37+0000
+  2024-04-20T23:19:44+0000  yasnippet-capf-20240420.1531.entry
+  2024-04-20T23:19:44+0000  yasnippet-capf-20240420.1531.tar
+Built yasnippet-capf in 3.985s, finished at 2024-04-20T23:19:45+0000

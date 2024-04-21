@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/android-env/
 Checking out d2890f1156ed184314adbfcf01cdceb6ea79b10d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/android-env/
-  to /tmp/android-envKPTPqx/android-env-20220810.1449
+  to /tmp/android-envqorpza/android-env-20220810.1449
     android-env.el -> android-env.el
 Created android-env-20220810.1449.tar containing:
   android-env-20220810.1449/
   android-env-20220810.1449/android-env-pkg.el
   android-env-20220810.1449/android-env.el
  ✓ Success:
-  2024-04-19T23:41:00+0000  android-env-20220810.1449.entry
-  2024-04-19T23:41:00+0000  android-env-20220810.1449.tar
-Built android-env in 3.251s, finished at 2024-04-19T23:41:01+0000
+  2024-04-21T00:07:19+0000  android-env-20220810.1449.entry
+  2024-04-21T00:07:19+0000  android-env-20220810.1449.tar
+Built android-env in 4.595s, finished at 2024-04-21T00:07:21+0000

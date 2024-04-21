@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/weechat-alert/
 Checking out a8fd557c8f335322f132c1c6c08b6741d6394e2e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/weechat-alert/
-  to /tmp/weechat-alertQ97jJf/weechat-alert-20160416.1248
+  to /tmp/weechat-alertz1RwUT/weechat-alert-20160416.1248
     weechat-alert.el -> weechat-alert.el
 Created weechat-alert-20160416.1248.tar containing:
   weechat-alert-20160416.1248/
   weechat-alert-20160416.1248/weechat-alert-pkg.el
   weechat-alert-20160416.1248/weechat-alert.el
  ✓ Success:
-  2024-04-20T00:52:32+0000  weechat-alert-20160416.1248.entry
-  2024-04-20T00:52:31+0000  weechat-alert-20160416.1248.tar
-Built weechat-alert in 4.570s, finished at 2024-04-20T00:52:34+0000
+  2024-04-21T01:19:06+0000  weechat-alert-20160416.1248.entry
+  2024-04-21T01:19:06+0000  weechat-alert-20160416.1248.tar
+Built weechat-alert in 3.415s, finished at 2024-04-21T01:19:08+0000
