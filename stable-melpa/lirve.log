@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/lirve/
 Checking out ff3031fa82d854411da40a32c6191d201b4abf09
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/lirve/
-  to /tmp/lirveYH10im/lirve-20240419.1918
+  to /tmp/lirveEfysl2/lirve-20240419.1918
     lirve-verbs.el -> lirve-verbs.el
     lirve.el -> lirve.el
 Created lirve-20240419.1918.tar containing:
@@ -15,6 +15,6 @@ Created lirve-20240419.1918.tar containing:
   lirve-20240419.1918/lirve-verbs.el
   lirve-20240419.1918/lirve.el
  ✓ Success:
-  2024-04-21T00:46:16+0000  lirve-20240419.1918.entry
-  2024-04-21T00:46:16+0000  lirve-20240419.1918.tar
-Built lirve in 4.633s, finished at 2024-04-21T00:46:17+0000
+  2024-04-22T00:49:58+0000  lirve-20240419.1918.entry
+  2024-04-22T00:49:58+0000  lirve-20240419.1918.tar
+Built lirve in 3.398s, finished at 2024-04-22T00:50:00+0000

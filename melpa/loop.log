@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/loop/
 Checking out 0ce77271d56b0fcdba4b3b38fed526081cd1f674
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/loop/
-  to /tmp/loopM7F2bq/loop-20160813.1407
+  to /tmp/loopTZMtCi/loop-20160813.1407
     loop.el -> loop.el
 Created loop-20160813.1407.tar containing:
   loop-20160813.1407/
   loop-20160813.1407/loop-pkg.el
   loop-20160813.1407/loop.el
  ✓ Success:
-  2024-04-21T00:47:02+0000  loop-20160813.1407.entry
-  2024-04-21T00:47:02+0000  loop-20160813.1407.tar
-Built loop in 5.139s, finished at 2024-04-21T00:47:04+0000
+  2024-04-22T00:50:40+0000  loop-20160813.1407.entry
+  2024-04-22T00:50:40+0000  loop-20160813.1407.tar
+Built loop in 3.613s, finished at 2024-04-22T00:50:41+0000

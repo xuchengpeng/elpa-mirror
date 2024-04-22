@@ -3,16 +3,16 @@ Fetcher: codeberg
 Source:  https://codeberg.org/ideasman42/emacs-doc-show-inline.git
 
 Updating /mnt/store/melpa/working/doc-show-inline/
-Checking out 8a6d933d72de6af57d0430557c6ac33489674574
+Checking out d2bfa37f2f027c5da0abca319882daa3740ca57b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/doc-show-inline/
-  to /tmp/doc-show-inline6baB7c/doc-show-inline-20240420.1049
+  to /tmp/doc-show-inlinerYOzJF/doc-show-inline-20240421.943
     doc-show-inline.el -> doc-show-inline.el
-Created doc-show-inline-20240420.1049.tar containing:
-  doc-show-inline-20240420.1049/
-  doc-show-inline-20240420.1049/doc-show-inline-pkg.el
-  doc-show-inline-20240420.1049/doc-show-inline.el
+Created doc-show-inline-20240421.943.tar containing:
+  doc-show-inline-20240421.943/
+  doc-show-inline-20240421.943/doc-show-inline-pkg.el
+  doc-show-inline-20240421.943/doc-show-inline.el
  ✓ Success:
-  2024-04-21T00:20:23+0000  doc-show-inline-20240420.1049.entry
-  2024-04-21T00:20:23+0000  doc-show-inline-20240420.1049.tar
-Built doc-show-inline in 3.558s, finished at 2024-04-21T00:20:25+0000
+  2024-04-22T00:24:25+0000  doc-show-inline-20240421.943.entry
+  2024-04-22T00:24:25+0000  doc-show-inline-20240421.943.tar
+Built doc-show-inline in 4.096s, finished at 2024-04-22T00:24:26+0000

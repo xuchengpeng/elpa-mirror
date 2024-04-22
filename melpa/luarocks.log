@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/luarocks/
 Checking out cee27ba0716edf338077387969883226dd2b7484
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/luarocks/
-  to /tmp/luarocksmz6SV6/luarocks-20170430.2305
+  to /tmp/luarocksh3VpPk/luarocks-20170430.2305
     luarocks.el -> luarocks.el
 Created luarocks-20170430.2305.tar containing:
   luarocks-20170430.2305/
   luarocks-20170430.2305/luarocks-pkg.el
   luarocks-20170430.2305/luarocks.el
  ✓ Success:
-  2024-04-21T00:47:49+0000  luarocks-20170430.2305.entry
-  2024-04-21T00:47:49+0000  luarocks-20170430.2305.tar
-Built luarocks in 5.128s, finished at 2024-04-21T00:47:52+0000
+  2024-04-22T00:51:10+0000  luarocks-20170430.2305.entry
+  2024-04-22T00:51:10+0000  luarocks-20170430.2305.tar
+Built luarocks in 3.786s, finished at 2024-04-22T00:51:11+0000

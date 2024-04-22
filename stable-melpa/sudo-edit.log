@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/sudo-edit/
 Checking out 74eb1e6986461baed9a9269566ff838530b4379b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/sudo-edit/
-  to /tmp/sudo-edit6A3k5U/sudo-edit-20220801.1317
+  to /tmp/sudo-editjouvTu/sudo-edit-20220801.1317
     sudo-edit.el -> sudo-edit.el
 Created sudo-edit-20220801.1317.tar containing:
   sudo-edit-20220801.1317/
   sudo-edit-20220801.1317/sudo-edit-pkg.el
   sudo-edit-20220801.1317/sudo-edit.el
  ✓ Success:
-  2024-04-21T01:12:31+0000  sudo-edit-20220801.1317.entry
-  2024-04-21T01:12:31+0000  sudo-edit-20220801.1317.tar
-Built sudo-edit in 3.497s, finished at 2024-04-21T01:12:33+0000
+  2024-04-22T01:16:25+0000  sudo-edit-20220801.1317.entry
+  2024-04-22T01:16:25+0000  sudo-edit-20220801.1317.tar
+Built sudo-edit in 3.440s, finished at 2024-04-22T01:16:26+0000

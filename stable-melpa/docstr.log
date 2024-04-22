@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/docstr/
 Checking out f780904cffd40e34d72bef04f73c7e007c5f98c0
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/docstr/
-  to /tmp/docstrxbk0cp/docstr-20240101.901
+  to /tmp/docstr3Ew2W0/docstr-20240101.901
     docstr-faces.el -> docstr-faces.el
     docstr-key.el -> docstr-key.el
     docstr-util.el -> docstr-util.el
@@ -55,6 +55,6 @@ Created docstr-20240101.901.tar containing:
   docstr-20240101.901/docstr-writers.el
   docstr-20240101.901/docstr.el
  ✓ Success:
-  2024-04-21T00:20:32+0000  docstr-20240101.901.entry
-  2024-04-21T00:20:32+0000  docstr-20240101.901.tar
-Built docstr in 4.797s, finished at 2024-04-21T00:20:34+0000
+  2024-04-22T00:24:34+0000  docstr-20240101.901.entry
+  2024-04-22T00:24:34+0000  docstr-20240101.901.tar
+Built docstr in 6.240s, finished at 2024-04-22T00:24:37+0000
