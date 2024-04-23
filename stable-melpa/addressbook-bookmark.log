@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/thierryvolpiatto/addressbook-bookmark.git
 
 Updating /mnt/store/melpa/working/addressbook-bookmark/
-Checking out 2e76708a3dc73953c1e0f66e26918690b79424d0
+Checking out a990a6d45a11c0e0dee57410d103fe20a4b00a6e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/addressbook-bookmark/
-  to /tmp/addressbook-bookmarkkUvYuc/addressbook-bookmark-20240304.602
+  to /tmp/addressbook-bookmarkNuwRpR/addressbook-bookmark-20240422.1801
     addressbook-bookmark.el -> addressbook-bookmark.el
-Created addressbook-bookmark-20240304.602.tar containing:
-  addressbook-bookmark-20240304.602/
-  addressbook-bookmark-20240304.602/addressbook-bookmark-pkg.el
-  addressbook-bookmark-20240304.602/addressbook-bookmark.el
+Created addressbook-bookmark-20240422.1801.tar containing:
+  addressbook-bookmark-20240422.1801/
+  addressbook-bookmark-20240422.1801/addressbook-bookmark-pkg.el
+  addressbook-bookmark-20240422.1801/addressbook-bookmark.el
  ✓ Success:
-  2024-04-22T00:10:24+0000  addressbook-bookmark-20240304.602.entry
-  2024-04-22T00:10:24+0000  addressbook-bookmark-20240304.602.tar
-Built addressbook-bookmark in 3.224s, finished at 2024-04-22T00:10:25+0000
+  2024-04-23T00:57:54+0000  addressbook-bookmark-20240422.1801.entry
+  2024-04-23T00:57:54+0000  addressbook-bookmark-20240422.1801.tar
+Built addressbook-bookmark in 3.334s, finished at 2024-04-23T00:57:56+0000
