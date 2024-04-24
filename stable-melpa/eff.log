@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/eff/
 Checking out b8ce5d82dc2ef4df912b2b0cbe79e20b455ebd84
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/eff/
-  to /tmp/efflAF1Gb/eff-20240108.658
+  to /tmp/eff3aZd95/eff-20240108.658
     eff.el -> eff.el
 Created eff-20240108.658.tar containing:
   eff-20240108.658/
   eff-20240108.658/eff-pkg.el
   eff-20240108.658/eff.el
  ✓ Success:
-  2024-04-23T01:14:00+0000  eff-20240108.658.entry
-  2024-04-23T01:14:00+0000  eff-20240108.658.tar
-Built eff in 3.499s, finished at 2024-04-23T01:14:01+0000
+  2024-04-24T00:18:11+0000  eff-20240108.658.entry
+  2024-04-24T00:18:11+0000  eff-20240108.658.tar
+Built eff in 3.560s, finished at 2024-04-24T00:18:13+0000
