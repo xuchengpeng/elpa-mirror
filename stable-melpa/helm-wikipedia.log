@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/helm-wikipedia/
 Checking out ab040154f2efab9b5eea36b3bd368a66f62efbfb
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/helm-wikipedia/
-  to /tmp/helm-wikipediaKyF0iW/helm-wikipedia-20221113.824
+  to /tmp/helm-wikipediak9Ph7a/helm-wikipedia-20221113.824
     helm-wikipedia.el -> helm-wikipedia.el
 Created helm-wikipedia-20221113.824.tar containing:
   helm-wikipedia-20221113.824/
   helm-wikipedia-20221113.824/helm-wikipedia-pkg.el
   helm-wikipedia-20221113.824/helm-wikipedia.el
  ✓ Success:
-  2024-04-24T00:35:23+0000  helm-wikipedia-20221113.824.entry
-  2024-04-24T00:35:23+0000  helm-wikipedia-20221113.824.tar
-Built helm-wikipedia in 3.246s, finished at 2024-04-24T00:35:25+0000
+  2024-04-25T00:53:06+0000  helm-wikipedia-20221113.824.entry
+  2024-04-25T00:53:06+0000  helm-wikipedia-20221113.824.tar
+Built helm-wikipedia in 5.671s, finished at 2024-04-25T00:53:08+0000

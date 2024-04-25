@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/direx-grep/
 Checking out 1109a512a80b2673a70b18b8568514049017faad
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/direx-grep/
-  to /tmp/direx-grepAe7mnU/direx-grep-20140515.1506
+  to /tmp/direx-grep8qeS7D/direx-grep-20140515.1506
     direx-grep.el -> direx-grep.el
 Created direx-grep-20140515.1506.tar containing:
   direx-grep-20140515.1506/
   direx-grep-20140515.1506/direx-grep-pkg.el
   direx-grep-20140515.1506/direx-grep.el
  ✓ Success:
-  2024-04-24T00:15:20+0000  direx-grep-20140515.1506.entry
-  2024-04-24T00:15:20+0000  direx-grep-20140515.1506.tar
-Built direx-grep in 5.499s, finished at 2024-04-24T00:15:23+0000
+  2024-04-25T00:31:24+0000  direx-grep-20140515.1506.entry
+  2024-04-25T00:31:24+0000  direx-grep-20140515.1506.tar
+Built direx-grep in 4.736s, finished at 2024-04-25T00:31:26+0000
