@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/ob-chatgpt-shell/
 Checking out 2657079cb4d83d4fdcc0de4d5d225ed7e960ac9b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ob-chatgpt-shell/
-  to /tmp/ob-chatgpt-shellypKtkH/ob-chatgpt-shell-20240213.1729
+  to /tmp/ob-chatgpt-shell2njnuA/ob-chatgpt-shell-20240213.1729
     ob-chatgpt-shell.el -> ob-chatgpt-shell.el
 Created ob-chatgpt-shell-20240213.1729.tar containing:
   ob-chatgpt-shell-20240213.1729/
   ob-chatgpt-shell-20240213.1729/ob-chatgpt-shell-pkg.el
   ob-chatgpt-shell-20240213.1729/ob-chatgpt-shell.el
  ✓ Success:
-  2024-04-25T01:12:01+0000  ob-chatgpt-shell-20240213.1729.entry
-  2024-04-25T01:12:01+0000  ob-chatgpt-shell-20240213.1729.tar
-Built ob-chatgpt-shell in 4.300s, finished at 2024-04-25T01:12:03+0000
+  2024-04-25T23:15:05+0000  ob-chatgpt-shell-20240213.1729.entry
+  2024-04-25T23:15:05+0000  ob-chatgpt-shell-20240213.1729.tar
+Built ob-chatgpt-shell in 4.224s, finished at 2024-04-25T23:15:07+0000

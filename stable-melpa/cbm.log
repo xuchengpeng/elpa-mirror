@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/cbm/
 Checking out 5b41c936ba9f6d170309a85ffebc9939c1050b31
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/cbm/
-  to /tmp/cbmaaAYfP/cbm-20171116.1240
+  to /tmp/cbm5xWgCz/cbm-20171116.1240
     cbm.el -> cbm.el
 Created cbm-20171116.1240.tar containing:
   cbm-20171116.1240/
   cbm-20171116.1240/cbm-pkg.el
   cbm-20171116.1240/cbm.el
  ✓ Success:
-  2024-04-25T00:22:01+0000  cbm-20171116.1240.entry
-  2024-04-25T00:22:01+0000  cbm-20171116.1240.tar
-Built cbm in 6.536s, finished at 2024-04-25T00:22:04+0000
+  2024-04-26T00:52:19+0000  cbm-20171116.1240.entry
+  2024-04-26T00:52:19+0000  cbm-20171116.1240.tar
+Built cbm in 8.777s, finished at 2024-04-26T00:52:22+0000

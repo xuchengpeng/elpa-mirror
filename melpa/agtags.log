@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/agtags/
 Checking out e8e04ece2f32d65b084974597bfe8077da3ddba0
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/agtags/
-  to /tmp/agtagsJc3Zkg/agtags-20221026.904
+  to /tmp/agtagsBmb4U8/agtags-20221026.904
     agtags.el -> agtags.el
 Created agtags-20221026.904.tar containing:
   agtags-20221026.904/
   agtags-20221026.904/agtags-pkg.el
   agtags-20221026.904/agtags.el
  ✓ Success:
-  2024-04-25T00:15:32+0000  agtags-20221026.904.entry
-  2024-04-25T00:15:32+0000  agtags-20221026.904.tar
-Built agtags in 3.964s, finished at 2024-04-25T00:15:33+0000
+  2024-04-26T00:45:36+0000  agtags-20221026.904.entry
+  2024-04-26T00:45:35+0000  agtags-20221026.904.tar
+Built agtags in 8.153s, finished at 2024-04-26T00:45:39+0000
