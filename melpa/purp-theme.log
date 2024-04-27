@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/purp-theme/
 Checking out 8d3510e1ed995b8323cd5205626ddde6386a76ca
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/purp-theme/
-  to /tmp/purp-themetv0HoC/purp-theme-20210912.1940
+  to /tmp/purp-themenV2tQg/purp-theme-20210912.1940
     blurb-theme.el -> blurb-theme.el
     ega-theme.el -> ega-theme.el
     purp-common.el -> purp-common.el
@@ -21,6 +21,6 @@ Created purp-theme-20210912.1940.tar containing:
   purp-theme-20210912.1940/purp-theme-pkg.el
   purp-theme-20210912.1940/purp-theme.el
  ✓ Success:
-  2024-04-25T23:27:36+0000  purp-theme-20210912.1940.entry
-  2024-04-25T23:27:36+0000  purp-theme-20210912.1940.tar
-Built purp-theme in 4.076s, finished at 2024-04-25T23:27:38+0000
+  2024-04-27T01:04:21+0000  purp-theme-20210912.1940.entry
+  2024-04-27T01:04:21+0000  purp-theme-20210912.1940.tar
+Built purp-theme in 6.546s, finished at 2024-04-27T01:04:24+0000

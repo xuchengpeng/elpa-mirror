@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/inf-clojure/
 Checking out 9aea5012bf9047781a21a3b62cea134b126f7709
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/inf-clojure/
-  to /tmp/inf-clojure487u7X/inf-clojure-20230909.445
+  to /tmp/inf-clojureSRV0bj/inf-clojure-20230909.445
     inf-clojure.el -> inf-clojure.el
 Created inf-clojure-20230909.445.tar containing:
   inf-clojure-20230909.445/
   inf-clojure-20230909.445/inf-clojure-pkg.el
   inf-clojure-20230909.445/inf-clojure.el
  ✓ Success:
-  2024-04-25T22:59:11+0000  inf-clojure-20230909.445.entry
-  2024-04-25T22:59:11+0000  inf-clojure-20230909.445.tar
-Built inf-clojure in 4.462s, finished at 2024-04-25T22:59:13+0000
+  2024-04-27T00:37:28+0000  inf-clojure-20230909.445.entry
+  2024-04-27T00:37:28+0000  inf-clojure-20230909.445.tar
+Built inf-clojure in 5.101s, finished at 2024-04-27T00:37:30+0000

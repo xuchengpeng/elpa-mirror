@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/telega/
 Checking out d73e02dfe41580ff2d93a6c6feb2af254087bbf6
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/telega/
-  to /tmp/telegaMLl4FU/telega-20240410.928
+  to /tmp/telega8kPGto/telega-20240410.928
     telega-chat.el -> telega-chat.el
     telega-company.el -> telega-company.el
     telega-core.el -> telega-core.el
@@ -171,6 +171,6 @@ Created telega-20240410.928.tar containing:
   telega-20240410.928/telega-webpage.el
   telega-20240410.928/telega.el
  ✓ Success:
-  2024-04-25T23:39:27+0000  telega-20240410.928.entry
-  2024-04-25T23:39:27+0000  telega-20240410.928.tar
-Built telega in 5.684s, finished at 2024-04-25T23:39:29+0000
+  2024-04-27T01:15:35+0000  telega-20240410.928.entry
+  2024-04-27T01:15:35+0000  telega-20240410.928.tar
+Built telega in 8.005s, finished at 2024-04-27T01:15:38+0000

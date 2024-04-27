@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/himalaya/
 Checking out 108e275f25ea35f2adeedbeb4af28c4a99c07fa7
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/himalaya/
-  to /tmp/himalayaWeTMuf/himalaya-20240101.2203
+  to /tmp/himalaya8xtlLH/himalaya-20240101.2203
     himalaya-account.el -> himalaya-account.el
     himalaya-attachment.el -> himalaya-attachment.el
     himalaya-envelope-mark.el -> himalaya-envelope-mark.el
@@ -31,6 +31,6 @@ Created himalaya-20240101.2203.tar containing:
   himalaya-20240101.2203/himalaya-template.el
   himalaya-20240101.2203/himalaya.el
  ✓ Success:
-  2024-04-25T22:56:58+0000  himalaya-20240101.2203.entry
-  2024-04-25T22:56:58+0000  himalaya-20240101.2203.tar
-Built himalaya in 5.112s, finished at 2024-04-25T22:57:00+0000
+  2024-04-27T00:35:24+0000  himalaya-20240101.2203.entry
+  2024-04-27T00:35:24+0000  himalaya-20240101.2203.tar
+Built himalaya in 4.031s, finished at 2024-04-27T00:35:26+0000

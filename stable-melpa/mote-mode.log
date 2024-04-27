@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/mote-mode/
 Checking out 666c6641addbd3b337a7aa01fd2742ded2f41b83
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mote-mode/
-  to /tmp/mote-modeAGh4jd/mote-mode-20160123.29
+  to /tmp/mote-modeAxxVa8/mote-mode-20160123.29
     mote-mode.el -> mote-mode.el
 Created mote-mode-20160123.29.tar containing:
   mote-mode-20160123.29/
   mote-mode-20160123.29/mote-mode-pkg.el
   mote-mode-20160123.29/mote-mode.el
  ✓ Success:
-  2024-04-25T23:11:25+0000  mote-mode-20160123.29.entry
-  2024-04-25T23:11:25+0000  mote-mode-20160123.29.tar
-Built mote-mode in 5.765s, finished at 2024-04-25T23:11:27+0000
+  2024-04-27T00:49:06+0000  mote-mode-20160123.29.entry
+  2024-04-27T00:49:06+0000  mote-mode-20160123.29.tar
+Built mote-mode in 5.487s, finished at 2024-04-27T00:49:08+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/nushell-ts-mode/
 Checking out 68afe1a8275880995b4d9a122fecf4accca15183
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/nushell-ts-mode/
-  to /tmp/nushell-ts-modeNkGbH2/nushell-ts-mode-20230911.152
+  to /tmp/nushell-ts-modey8YWZc/nushell-ts-mode-20230911.152
     nushell-ts-mode.el -> nushell-ts-mode.el
 Created nushell-ts-mode-20230911.152.tar containing:
   nushell-ts-mode-20230911.152/
   nushell-ts-mode-20230911.152/nushell-ts-mode-pkg.el
   nushell-ts-mode-20230911.152/nushell-ts-mode.el
  ✓ Success:
-  2024-04-25T23:14:49+0000  nushell-ts-mode-20230911.152.entry
-  2024-04-25T23:14:49+0000  nushell-ts-mode-20230911.152.tar
-Built nushell-ts-mode in 4.953s, finished at 2024-04-25T23:14:52+0000
+  2024-04-27T00:52:17+0000  nushell-ts-mode-20230911.152.entry
+  2024-04-27T00:52:17+0000  nushell-ts-mode-20230911.152.tar
+Built nushell-ts-mode in 3.570s, finished at 2024-04-27T00:52:18+0000

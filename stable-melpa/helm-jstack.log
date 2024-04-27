@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/helm-jstack/
 Checking out aab0fd9f14794ae3a6e7cfbe7f6a81842ce4c23b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/helm-jstack/
-  to /tmp/helm-jstackAXR3Cf/helm-jstack-20150603.422
+  to /tmp/helm-jstackLQcGNv/helm-jstack-20150603.422
     helm-jstack.el -> helm-jstack.el
 Created helm-jstack-20150603.422.tar containing:
   helm-jstack-20150603.422/
   helm-jstack-20150603.422/helm-jstack-pkg.el
   helm-jstack-20150603.422/helm-jstack.el
  ✓ Success:
-  2024-04-25T22:55:04+0000  helm-jstack-20150603.422.entry
-  2024-04-25T22:55:03+0000  helm-jstack-20150603.422.tar
-Built helm-jstack in 4.206s, finished at 2024-04-25T22:55:05+0000
+  2024-04-27T00:33:41+0000  helm-jstack-20150603.422.entry
+  2024-04-27T00:33:41+0000  helm-jstack-20150603.422.tar
+Built helm-jstack in 4.358s, finished at 2024-04-27T00:33:43+0000
