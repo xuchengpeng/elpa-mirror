@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/encrypt-region/
 Checking out 8ff5704bc6f4c57f935a8b7680129e599bbe474f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/encrypt-region/
-  to /tmp/encrypt-regionbq2DhA/encrypt-region-20220802.918
+  to /tmp/encrypt-regionWlEvD4/encrypt-region-20220802.918
     encrypt-region.el -> encrypt-region.el
 Created encrypt-region-20220802.918.tar containing:
   encrypt-region-20220802.918/
   encrypt-region-20220802.918/encrypt-region-pkg.el
   encrypt-region-20220802.918/encrypt-region.el
  ✓ Success:
-  2024-04-27T00:18:22+0000  encrypt-region-20220802.918.entry
-  2024-04-27T00:18:22+0000  encrypt-region-20220802.918.tar
-Built encrypt-region in 5.486s, finished at 2024-04-27T00:18:24+0000
+  2024-04-28T01:02:34+0000  encrypt-region-20220802.918.entry
+  2024-04-28T01:02:34+0000  encrypt-region-20220802.918.tar
+Built encrypt-region in 4.712s, finished at 2024-04-28T01:02:36+0000

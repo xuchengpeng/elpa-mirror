@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/git-identity/
 Checking out f920916a92fad0c551cd0739e48fc09d8709bd8d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/git-identity/
-  to /tmp/git-identityGPk6TI/git-identity-20220721.912
+  to /tmp/git-identityUgW3yk/git-identity-20220721.912
     git-identity.el -> git-identity.el
 Created git-identity-20220721.912.tar containing:
   git-identity-20220721.912/
   git-identity-20220721.912/git-identity-pkg.el
   git-identity-20220721.912/git-identity.el
  ✓ Success:
-  2024-04-27T00:28:51+0000  git-identity-20220721.912.entry
-  2024-04-27T00:28:51+0000  git-identity-20220721.912.tar
-Built git-identity in 5.655s, finished at 2024-04-27T00:28:54+0000
+  2024-04-28T01:12:03+0000  git-identity-20220721.912.entry
+  2024-04-28T01:12:03+0000  git-identity-20220721.912.tar
+Built git-identity in 3.961s, finished at 2024-04-28T01:12:04+0000
