@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/es-mode/
 Checking out e82465fd785688bb58918ea62ca4de06a2a23a1e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/es-mode/
-  to /tmp/es-modeNYlgSc/es-mode-20221026.1103
+  to /tmp/es-modeJCH9Uz/es-mode-20221026.1103
     es-cc.el -> es-cc.el
     es-copyas.el -> es-copyas.el
     es-mode.el -> es-mode.el
@@ -35,6 +35,6 @@ Created es-mode-20221026.1103.tar containing:
   es-mode-20221026.1103/snippets/es-mode/search
   es-mode-20221026.1103/snippets/es-mode/search-match-all
  ✓ Success:
-  2024-04-28T01:03:24+0000  es-mode-20221026.1103.entry
-  2024-04-28T01:03:24+0000  es-mode-20221026.1103.tar
-Built es-mode in 4.017s, finished at 2024-04-28T01:03:25+0000
+  2024-04-29T01:07:55+0000  es-mode-20221026.1103.entry
+  2024-04-29T01:07:55+0000  es-mode-20221026.1103.tar
+Built es-mode in 5.792s, finished at 2024-04-29T01:07:58+0000

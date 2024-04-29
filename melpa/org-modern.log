@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/minad/org-modern.git
 
 Updating /mnt/store/melpa/working/org-modern/
-Checking out c97096b3f82c3bd84859f90a23273dfa2c6dfd7e
+Checking out 92262afb504653da218ee90d4df2e9a1ae9935b5
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/org-modern/
-  to /tmp/org-modernzBxVnb/org-modern-20240327.1531
+  to /tmp/org-moderna5ALnM/org-modern-20240428.2051
     org-modern.el -> org-modern.el
-Created org-modern-20240327.1531.tar containing:
-  org-modern-20240327.1531/
-  org-modern-20240327.1531/org-modern-pkg.el
-  org-modern-20240327.1531/org-modern.el
+Created org-modern-20240428.2051.tar containing:
+  org-modern-20240428.2051/
+  org-modern-20240428.2051/org-modern-pkg.el
+  org-modern-20240428.2051/org-modern.el
  ✓ Success:
-  2024-04-27T23:27:53+0000  org-modern-20240327.1531.entry
-  2024-04-27T23:27:53+0000  org-modern-20240327.1531.tar
-Built org-modern in 3.776s, finished at 2024-04-27T23:27:54+0000
+  2024-04-28T23:30:27+0000  org-modern-20240428.2051.entry
+  2024-04-28T23:30:27+0000  org-modern-20240428.2051.tar
+Built org-modern in 4.297s, finished at 2024-04-28T23:30:29+0000

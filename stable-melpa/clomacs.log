@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/clomacs/
 Checking out 9cd7c9fd86bc7bc627a31275d1ef131378b90a49
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/clomacs/
-  to /tmp/clomacsKW1jz2/clomacs-20220415.1035
+  to /tmp/clomacsO2DjNl/clomacs-20220415.1035
   ! src/elisp/clomacs.el -> clomacs.el
 Created clomacs-20220415.1035.tar containing:
   clomacs-20220415.1035/
   clomacs-20220415.1035/clomacs-pkg.el
   clomacs-20220415.1035/clomacs.el
  ✓ Success:
-  2024-04-28T00:50:21+0000  clomacs-20220415.1035.entry
-  2024-04-28T00:50:21+0000  clomacs-20220415.1035.tar
-Built clomacs in 3.963s, finished at 2024-04-28T00:50:23+0000
+  2024-04-29T00:55:49+0000  clomacs-20220415.1035.entry
+  2024-04-29T00:55:49+0000  clomacs-20220415.1035.tar
+Built clomacs in 3.842s, finished at 2024-04-29T00:55:50+0000
