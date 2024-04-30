@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/sniem/
 Checking out 1791011310fe8d48fc8c5b79b32cb5cf586fb081
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/sniem/
-  to /tmp/sniemFBFdfh/sniem-20240423.858
+  to /tmp/sniem7cUU98/sniem-20240423.858
     sniem-cheatsheet.el -> sniem-cheatsheet.el
     sniem-common.el -> sniem-common.el
     sniem-linked-file.el -> sniem-linked-file.el
@@ -29,6 +29,6 @@ Created sniem-20240423.858.tar containing:
   sniem-20240423.858/sniem-var.el
   sniem-20240423.858/sniem.el
  ✓ Success:
-  2024-04-28T23:45:27+0000  sniem-20240423.858.entry
-  2024-04-28T23:45:27+0000  sniem-20240423.858.tar
-Built sniem in 3.655s, finished at 2024-04-28T23:45:28+0000
+  2024-04-30T00:30:24+0000  sniem-20240423.858.entry
+  2024-04-30T00:30:23+0000  sniem-20240423.858.tar
+Built sniem in 4.066s, finished at 2024-04-30T00:30:25+0000

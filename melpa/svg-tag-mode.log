@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/rougier/svg-tag-mode.git
 
 Updating /mnt/store/melpa/working/svg-tag-mode/
-Checking out f01307dd7720ed952355db0a552ae555c13ced13
+Checking out a152bc90a7c9dc17112893a19ddf91078b909057
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/svg-tag-mode/
-  to /tmp/svg-tag-modeHTzg3e/svg-tag-mode-20240122.1209
+  to /tmp/svg-tag-modexCbHpU/svg-tag-mode-20240429.1052
     svg-tag-mode.el -> svg-tag-mode.el
-Created svg-tag-mode-20240122.1209.tar containing:
-  svg-tag-mode-20240122.1209/
-  svg-tag-mode-20240122.1209/svg-tag-mode-pkg.el
-  svg-tag-mode-20240122.1209/svg-tag-mode.el
+Created svg-tag-mode-20240429.1052.tar containing:
+  svg-tag-mode-20240429.1052/
+  svg-tag-mode-20240429.1052/svg-tag-mode-pkg.el
+  svg-tag-mode-20240429.1052/svg-tag-mode.el
  ✓ Success:
-  2024-04-28T23:47:46+0000  svg-tag-mode-20240122.1209.entry
-  2024-04-28T23:47:46+0000  svg-tag-mode-20240122.1209.tar
-Built svg-tag-mode in 4.319s, finished at 2024-04-28T23:47:48+0000
+  2024-04-30T00:32:20+0000  svg-tag-mode-20240429.1052.entry
+  2024-04-30T00:32:20+0000  svg-tag-mode-20240429.1052.tar
+Built svg-tag-mode in 4.360s, finished at 2024-04-30T00:32:22+0000
