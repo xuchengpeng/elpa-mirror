@@ -3,18 +3,18 @@ Fetcher: github
 Source:  https://github.com/tumashu/cnfonts.git
 
 Updating /mnt/store/melpa/working/cnfonts/
-Checking out 6a8ac49fd8636fe6141d78629079c1aa35a9f4ab
+Checking out 1f57d4f64f50e4dbc7ab4d963278b746f904c454
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/cnfonts/
-  to /tmp/cnfontsvWvyVb/cnfonts-20240429.946
+  to /tmp/cnfontsua7qk6/cnfonts-20240430.536
     cnfonts-ui.el -> cnfonts-ui.el
     cnfonts.el -> cnfonts.el
-Created cnfonts-20240429.946.tar containing:
-  cnfonts-20240429.946/
-  cnfonts-20240429.946/cnfonts-pkg.el
-  cnfonts-20240429.946/cnfonts-ui.el
-  cnfonts-20240429.946/cnfonts.el
+Created cnfonts-20240430.536.tar containing:
+  cnfonts-20240430.536/
+  cnfonts-20240430.536/cnfonts-pkg.el
+  cnfonts-20240430.536/cnfonts-ui.el
+  cnfonts-20240430.536/cnfonts.el
  ✓ Success:
-  2024-04-29T23:26:26+0000  cnfonts-20240429.946.entry
-  2024-04-29T23:26:25+0000  cnfonts-20240429.946.tar
-Built cnfonts in 3.984s, finished at 2024-04-29T23:26:27+0000
+  2024-04-30T23:54:58+0000  cnfonts-20240430.536.entry
+  2024-04-30T23:54:58+0000  cnfonts-20240430.536.tar
+Built cnfonts in 3.941s, finished at 2024-04-30T23:55:00+0000

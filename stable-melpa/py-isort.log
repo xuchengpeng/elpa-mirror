@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/py-isort/
 Checking out e67306f459c47c53a65604e4eea88a3914596560
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/py-isort/
-  to /tmp/py-isort1imLAh/py-isort-20160925.1018
+  to /tmp/py-isortrNRyMn/py-isort-20160925.1018
     py-isort.el -> py-isort.el
 Created py-isort-20160925.1018.tar containing:
   py-isort-20160925.1018/
   py-isort-20160925.1018/py-isort-pkg.el
   py-isort-20160925.1018/py-isort.el
  ✓ Success:
-  2024-04-30T00:23:15+0000  py-isort-20160925.1018.entry
-  2024-04-30T00:23:15+0000  py-isort-20160925.1018.tar
-Built py-isort in 3.894s, finished at 2024-04-30T00:23:16+0000
+  2024-05-01T00:52:56+0000  py-isort-20160925.1018.entry
+  2024-05-01T00:52:56+0000  py-isort-20160925.1018.tar
+Built py-isort in 5.116s, finished at 2024-05-01T00:52:58+0000

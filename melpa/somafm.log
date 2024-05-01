@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/somafm/
 Checking out 90b661fb1abc652feb6508eb61735919d02e9687
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/somafm/
-  to /tmp/somafmJRBjgO/somafm-20220402.2131
+  to /tmp/somafm3EvAvD/somafm-20220402.2131
     somafm.el -> somafm.el
 Created somafm-20220402.2131.tar containing:
   somafm-20220402.2131/
   somafm-20220402.2131/somafm-pkg.el
   somafm-20220402.2131/somafm.el
  ✓ Success:
-  2024-04-30T00:30:34+0000  somafm-20220402.2131.entry
-  2024-04-30T00:30:34+0000  somafm-20220402.2131.tar
-Built somafm in 4.434s, finished at 2024-04-30T00:30:36+0000
+  2024-05-01T01:00:54+0000  somafm-20220402.2131.entry
+  2024-05-01T01:00:54+0000  somafm-20220402.2131.tar
+Built somafm in 5.664s, finished at 2024-05-01T01:00:56+0000

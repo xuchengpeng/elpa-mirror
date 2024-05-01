@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/ivy-clojuredocs/
 Checking out 8b6de19b3578c72d2b88f898e2290d94c04350f9
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ivy-clojuredocs/
-  to /tmp/ivy-clojuredocs3mU0cH/ivy-clojuredocs-20201129.2355
+  to /tmp/ivy-clojuredocsZDKlwt/ivy-clojuredocs-20201129.2355
     ivy-clojuredocs.el -> ivy-clojuredocs.el
 Created ivy-clojuredocs-20201129.2355.tar containing:
   ivy-clojuredocs-20201129.2355/
   ivy-clojuredocs-20201129.2355/ivy-clojuredocs-pkg.el
   ivy-clojuredocs-20201129.2355/ivy-clojuredocs.el
  ✓ Success:
-  2024-04-29T23:56:57+0000  ivy-clojuredocs-20201129.2355.entry
-  2024-04-29T23:56:57+0000  ivy-clojuredocs-20201129.2355.tar
-Built ivy-clojuredocs in 5.803s, finished at 2024-04-29T23:57:00+0000
+  2024-05-01T00:28:01+0000  ivy-clojuredocs-20201129.2355.entry
+  2024-05-01T00:28:01+0000  ivy-clojuredocs-20201129.2355.tar
+Built ivy-clojuredocs in 3.979s, finished at 2024-05-01T00:28:03+0000

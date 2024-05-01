@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/yasnippet-snippets/
 Checking out e6ec9f1822913cea7dc67cde6aeb8f2625980950
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/yasnippet-snippets/
-  to /tmp/yasnippet-snippetsGcTBBf/yasnippet-snippets-20240221.1621
+  to /tmp/yasnippet-snippetsfOHPTO/yasnippet-snippets-20240221.1621
     yasnippet-snippets.el -> yasnippet-snippets.el
     snippets => snippets
 Created yasnippet-snippets-20240221.1621.tar containing:
@@ -2353,6 +2353,6 @@ Created yasnippet-snippets-20240221.1621.tar containing:
   yasnippet-snippets-20240221.1621/yasnippet-snippets-pkg.el
   yasnippet-snippets-20240221.1621/yasnippet-snippets.el
  ✓ Success:
-  2024-04-30T00:41:26+0000  yasnippet-snippets-20240221.1621.entry
-  2024-04-30T00:41:24+0000  yasnippet-snippets-20240221.1621.tar
-Built yasnippet-snippets in 18.008s, finished at 2024-04-30T00:41:30+0000
+  2024-05-01T01:12:53+0000  yasnippet-snippets-20240221.1621.entry
+  2024-05-01T01:12:51+0000  yasnippet-snippets-20240221.1621.tar
+Built yasnippet-snippets in 17.102s, finished at 2024-05-01T01:12:57+0000
