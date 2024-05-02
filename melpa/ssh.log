@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/ssh/
 Checking out c17cf5b43df8ac4662a0580f85898e1f078df0d1
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ssh/
-  to /tmp/sshOJ3Jje/ssh-20120904.2042
+  to /tmp/sshFeGMoJ/ssh-20120904.2042
     ssh.el -> ssh.el
 Created ssh-20120904.2042.tar containing:
   ssh-20120904.2042/
   ssh-20120904.2042/ssh-pkg.el
   ssh-20120904.2042/ssh.el
  ✓ Success:
-  2024-05-01T01:02:09+0000  ssh-20120904.2042.entry
-  2024-05-01T01:02:09+0000  ssh-20120904.2042.tar
-Built ssh in 6.019s, finished at 2024-05-01T01:02:11+0000
+  2024-05-02T00:19:29+0000  ssh-20120904.2042.entry
+  2024-05-02T00:19:29+0000  ssh-20120904.2042.tar
+Built ssh in 3.921s, finished at 2024-05-02T00:19:30+0000

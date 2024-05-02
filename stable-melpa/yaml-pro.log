@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/yaml-pro/
 Checking out 775c0a4b82c79da0eb91620fb0cbbf6c8642815b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/yaml-pro/
-  to /tmp/yaml-pro8AXBZg/yaml-pro-20240313.307
+  to /tmp/yaml-proOEN3hf/yaml-pro-20240313.307
     yaml-pro-edit.el -> yaml-pro-edit.el
     yaml-pro-format.el -> yaml-pro-format.el
     yaml-pro.el -> yaml-pro.el
@@ -17,6 +17,6 @@ Created yaml-pro-20240313.307.tar containing:
   yaml-pro-20240313.307/yaml-pro-pkg.el
   yaml-pro-20240313.307/yaml-pro.el
  ✓ Success:
-  2024-05-01T01:12:33+0000  yaml-pro-20240313.307.entry
-  2024-05-01T01:12:33+0000  yaml-pro-20240313.307.tar
-Built yaml-pro in 4.397s, finished at 2024-05-01T01:12:34+0000
+  2024-05-02T00:29:39+0000  yaml-pro-20240313.307.entry
+  2024-05-02T00:29:39+0000  yaml-pro-20240313.307.tar
+Built yaml-pro in 4.009s, finished at 2024-05-02T00:29:40+0000
