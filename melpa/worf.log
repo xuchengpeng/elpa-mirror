@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/worf/
 Checking out 8681241e118585824cd256e5b026978bf06c7e58
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/worf/
-  to /tmp/worf530XSs/worf-20220102.835
+  to /tmp/worfhO1CKp/worf-20220102.835
     elpa.el -> elpa.el
     worf.el -> worf.el
 Created worf-20220102.835.tar containing:
@@ -15,6 +15,6 @@ Created worf-20220102.835.tar containing:
   worf-20220102.835/worf-pkg.el
   worf-20220102.835/worf.el
  ✓ Success:
-  2024-05-04T00:32:59+0000  worf-20220102.835.entry
-  2024-05-04T00:32:59+0000  worf-20220102.835.tar
-Built worf in 3.964s, finished at 2024-05-04T00:33:00+0000
+  2024-05-05T00:31:19+0000  worf-20220102.835.entry
+  2024-05-05T00:31:19+0000  worf-20220102.835.tar
+Built worf in 4.405s, finished at 2024-05-05T00:31:21+0000

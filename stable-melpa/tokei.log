@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/tokei/
 Checking out 86fbca422f580a95eb30247e46891184f3ac5c18
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/tokei/
-  to /tmp/tokeiXdOC2V/tokei-20220823.2058
+  to /tmp/tokeiSs2Gwk/tokei-20220823.2058
     tokei.el -> tokei.el
 Created tokei-20220823.2058.tar containing:
   tokei-20220823.2058/
   tokei-20220823.2058/tokei-pkg.el
   tokei-20220823.2058/tokei.el
  ✓ Success:
-  2024-05-04T00:27:09+0000  tokei-20220823.2058.entry
-  2024-05-04T00:27:09+0000  tokei-20220823.2058.tar
-Built tokei in 5.010s, finished at 2024-05-04T00:27:11+0000
+  2024-05-05T00:24:40+0000  tokei-20220823.2058.entry
+  2024-05-05T00:24:40+0000  tokei-20220823.2058.tar
+Built tokei in 5.561s, finished at 2024-05-05T00:24:42+0000
