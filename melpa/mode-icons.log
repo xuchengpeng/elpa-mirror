@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/mode-icons/
 Checking out 931250e8f9f1106e7ace6247989867c5e17fc9cc
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mode-icons/
-  to /tmp/mode-iconsS5IICV/mode-icons-20230911.20
+  to /tmp/mode-iconscHW5c9/mode-icons-20230911.20
     mode-icons.el -> mode-icons.el
     icons => icons
 Created mode-icons-20230911.20.tar containing:
@@ -125,6 +125,6 @@ Created mode-icons-20230911.20.tar containing:
   mode-icons-20230911.20/mode-icons-pkg.el
   mode-icons-20230911.20/mode-icons.el
  ✓ Success:
-  2024-05-04T23:54:23+0000  mode-icons-20230911.20.entry
-  2024-05-04T23:54:22+0000  mode-icons-20230911.20.tar
-Built mode-icons in 4.340s, finished at 2024-05-04T23:54:24+0000
+  2024-05-07T00:51:06+0000  mode-icons-20230911.20.entry
+  2024-05-07T00:51:06+0000  mode-icons-20230911.20.tar
+Built mode-icons in 4.621s, finished at 2024-05-07T00:51:08+0000
