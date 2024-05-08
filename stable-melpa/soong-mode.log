@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/soong-mode/
 Checking out bf3dc1070b368b413958f54fbe9bcc2aaf77b56f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/soong-mode/
-  to /tmp/soong-modeb8jiPo/soong-mode-20221217.1243
+  to /tmp/soong-mode9Uz5Nv/soong-mode-20221217.1243
     soong-mode.el -> soong-mode.el
 Created soong-mode-20221217.1243.tar containing:
   soong-mode-20221217.1243/
   soong-mode-20221217.1243/soong-mode-pkg.el
   soong-mode-20221217.1243/soong-mode.el
  ✓ Success:
-  2024-05-07T01:16:15+0000  soong-mode-20221217.1243.entry
-  2024-05-07T01:16:15+0000  soong-mode-20221217.1243.tar
-Built soong-mode in 4.272s, finished at 2024-05-07T01:16:17+0000
+  2024-05-08T00:38:18+0000  soong-mode-20221217.1243.entry
+  2024-05-08T00:38:18+0000  soong-mode-20221217.1243.tar
+Built soong-mode in 5.253s, finished at 2024-05-08T00:38:20+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/pkg-info/
 Checking out 4dbe328c9eced79e0004e3fdcd7bfb997a928be5
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/pkg-info/
-  to /tmp/pkg-infonduw9U/pkg-info-20150517.1143
+  to /tmp/pkg-infoZL0vhc/pkg-info-20150517.1143
     pkg-info.el -> pkg-info.el
 Created pkg-info-20150517.1143.tar containing:
   pkg-info-20150517.1143/
   pkg-info-20150517.1143/pkg-info-pkg.el
   pkg-info-20150517.1143/pkg-info.el
  ✓ Success:
-  2024-05-07T01:05:31+0000  pkg-info-20150517.1143.entry
-  2024-05-07T01:05:30+0000  pkg-info-20150517.1143.tar
-Built pkg-info in 8.993s, finished at 2024-05-07T01:05:35+0000
+  2024-05-08T00:27:03+0000  pkg-info-20150517.1143.entry
+  2024-05-08T00:27:03+0000  pkg-info-20150517.1143.tar
+Built pkg-info in 4.259s, finished at 2024-05-08T00:27:04+0000
