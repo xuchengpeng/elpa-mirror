@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/projector/
 Checking out 1d0f2d307591ea50888d31dcae7e463e2ada1316
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/projector/
-  to /tmp/projectorytgD09/projector-20211112.1514
+  to /tmp/projectortMqWUO/projector-20211112.1514
     projector.el -> projector.el
 Created projector-20211112.1514.tar containing:
   projector-20211112.1514/
   projector-20211112.1514/projector-pkg.el
   projector-20211112.1514/projector.el
  ✓ Success:
-  2024-05-08T00:29:25+0000  projector-20211112.1514.entry
-  2024-05-08T00:29:25+0000  projector-20211112.1514.tar
-Built projector in 4.109s, finished at 2024-05-08T00:29:27+0000
+  2024-05-08T23:09:01+0000  projector-20211112.1514.entry
+  2024-05-08T23:09:01+0000  projector-20211112.1514.tar
+Built projector in 4.534s, finished at 2024-05-08T23:09:03+0000

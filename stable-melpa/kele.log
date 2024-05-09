@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/kele/
 Checking out ee667b6581113be21e7d24935cf8a431eb382432
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/kele/
-  to /tmp/keleVF4IDp/kele-20240428.2141
+  to /tmp/keleEmNpfg/kele-20240428.2141
     kele.el -> kele.el
 Created kele-20240428.2141.tar containing:
   kele-20240428.2141/
   kele-20240428.2141/kele-pkg.el
   kele-20240428.2141/kele.el
  ✓ Success:
-  2024-05-08T00:05:50+0000  kele-20240428.2141.entry
-  2024-05-08T00:05:50+0000  kele-20240428.2141.tar
-Built kele in 4.668s, finished at 2024-05-08T00:05:52+0000
+  2024-05-08T22:44:38+0000  kele-20240428.2141.entry
+  2024-05-08T22:44:38+0000  kele-20240428.2141.tar
+Built kele in 5.174s, finished at 2024-05-08T22:44:40+0000

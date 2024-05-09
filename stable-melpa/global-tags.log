@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/global-tags/
 Checking out aaa37da4c538f35a90149ef4ad3d8b0922af54ab
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/global-tags/
-  to /tmp/global-tagssOVgLJ/global-tags-20211120.347
+  to /tmp/global-tags6La3if/global-tags-20211120.347
     global-tags.el -> global-tags.el
 Created global-tags-20211120.347.tar containing:
   global-tags-20211120.347/
   global-tags-20211120.347/global-tags-pkg.el
   global-tags-20211120.347/global-tags.el
  ✓ Success:
-  2024-05-07T23:53:21+0000  global-tags-20211120.347.entry
-  2024-05-07T23:53:21+0000  global-tags-20211120.347.tar
-Built global-tags in 5.383s, finished at 2024-05-07T23:53:23+0000
+  2024-05-09T01:06:35+0000  global-tags-20211120.347.entry
+  2024-05-09T01:06:35+0000  global-tags-20211120.347.tar
+Built global-tags in 10.283s, finished at 2024-05-09T01:06:37+0000
