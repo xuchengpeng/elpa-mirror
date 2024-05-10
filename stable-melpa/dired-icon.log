@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/dired-icon/
 Checking out f60e10757a5011235b519231ad35974ff25963ed
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/dired-icon/
-  to /tmp/dired-iconTzuqa6/dired-icon-20170223.526
+  to /tmp/dired-iconVu94AW/dired-icon-20170223.526
     dired-icon.el -> dired-icon.el
     get-icon-path-gtk3.py -> get-icon-path-gtk3.py
     get-icon-path-macos.m -> get-icon-path-macos.m
@@ -17,6 +17,6 @@ Created dired-icon-20170223.526.tar containing:
   dired-icon-20170223.526/get-icon-path-gtk3.py
   dired-icon-20170223.526/get-icon-path-macos.m
  ✓ Success:
-  2024-05-10T00:07:50+0000  dired-icon-20170223.526.entry
-  2024-05-10T00:07:50+0000  dired-icon-20170223.526.tar
-Built dired-icon in 4.268s, finished at 2024-05-10T00:07:52+0000
+  2024-05-10T05:14:49+0000  dired-icon-20170223.526.entry
+  2024-05-10T05:14:49+0000  dired-icon-20170223.526.tar
+Built dired-icon in 6.889s, finished at 2024-05-10T05:14:52+0000
