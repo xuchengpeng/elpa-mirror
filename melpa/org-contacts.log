@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/org-contacts/
 Checking out 0a01f8a631f0921e3f674dc758815868fcce013c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/org-contacts/
-  to /tmp/org-contactsNDksSf/org-contacts-20240430.114
+  to /tmp/org-contactsat0Jbx/org-contacts-20240430.114
     org-contacts.el -> org-contacts.el
     test-org-contacts.el -> test-org-contacts.el
 Created org-contacts-20240430.114.tar containing:
@@ -15,6 +15,6 @@ Created org-contacts-20240430.114.tar containing:
   org-contacts-20240430.114/org-contacts.el
   org-contacts-20240430.114/test-org-contacts.el
  ✓ Success:
-  2024-05-08T22:59:56+0000  org-contacts-20240430.114.entry
-  2024-05-08T22:59:56+0000  org-contacts-20240430.114.tar
-Built org-contacts in 12.307s, finished at 2024-05-08T23:00:01+0000
+  2024-05-10T00:55:08+0000  org-contacts-20240430.114.entry
+  2024-05-10T00:55:08+0000  org-contacts-20240430.114.tar
+Built org-contacts in 5.237s, finished at 2024-05-10T00:55:10+0000

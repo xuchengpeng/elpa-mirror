@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/kakoune/
 Checking out b39c5605e896c55ea246f755c46171bd6d0768a8
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/kakoune/
-  to /tmp/kakouneTUmFoS/kakoune-20230206.2037
+  to /tmp/kakoune1v6uGz/kakoune-20230206.2037
     kakoune-exchange.el -> kakoune-exchange.el
     kakoune-shell-commands.el -> kakoune-shell-commands.el
     kakoune-unimpaired.el -> kakoune-unimpaired.el
@@ -21,6 +21,6 @@ Created kakoune-20230206.2037.tar containing:
   kakoune-20230206.2037/kakoune-utils.el
   kakoune-20230206.2037/kakoune.el
  ✓ Success:
-  2024-05-08T22:44:19+0000  kakoune-20230206.2037.entry
-  2024-05-08T22:44:19+0000  kakoune-20230206.2037.tar
-Built kakoune in 3.864s, finished at 2024-05-08T22:44:21+0000
+  2024-05-10T00:39:40+0000  kakoune-20230206.2037.entry
+  2024-05-10T00:39:40+0000  kakoune-20230206.2037.tar
+Built kakoune in 5.626s, finished at 2024-05-10T00:39:42+0000

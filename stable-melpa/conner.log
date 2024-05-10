@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/conner/
 Checking out 16c2653d207bd6a089685816b14f1013fa7e2c99
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/conner/
-  to /tmp/conner1gH4zP/conner-20240505.1746
+  to /tmp/connerHO1Jrv/conner-20240505.1746
     conner.el -> conner.el
 Created conner-20240505.1746.tar containing:
   conner-20240505.1746/
   conner-20240505.1746/conner-pkg.el
   conner-20240505.1746/conner.el
  ✓ Success:
-  2024-05-09T00:42:42+0000  conner-20240505.1746.entry
-  2024-05-09T00:42:42+0000  conner-20240505.1746.tar
-Built conner in 4.337s, finished at 2024-05-09T00:42:44+0000
+  2024-05-10T00:03:02+0000  conner-20240505.1746.entry
+  2024-05-10T00:03:02+0000  conner-20240505.1746.tar
+Built conner in 5.291s, finished at 2024-05-10T00:03:04+0000

@@ -3,10 +3,10 @@ Fetcher: github
 Source:  https://github.com/minad/consult.git
 
 Updating /mnt/store/melpa/working/consult/
-Checking out 369592fe2f160c1b54f91266104992fc25bc5e14
+Checking out 73971a47e12bfb54eaf72f0443a8095fa082607a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/consult/
-  to /tmp/consultGzt1km/consult-20240508.1533
+  to /tmp/consult4MOHhh/consult-20240509.1933
     consult-compile.el -> consult-compile.el
     consult-flymake.el -> consult-flymake.el
     consult-imenu.el -> consult-imenu.el
@@ -16,19 +16,19 @@ Copying files (->) and directories (=>)
     consult-register.el -> consult-register.el
     consult-xref.el -> consult-xref.el
     consult.el -> consult.el
-Created consult-20240508.1533.tar containing:
-  consult-20240508.1533/
-  consult-20240508.1533/consult-compile.el
-  consult-20240508.1533/consult-flymake.el
-  consult-20240508.1533/consult-imenu.el
-  consult-20240508.1533/consult-info.el
-  consult-20240508.1533/consult-kmacro.el
-  consult-20240508.1533/consult-org.el
-  consult-20240508.1533/consult-pkg.el
-  consult-20240508.1533/consult-register.el
-  consult-20240508.1533/consult-xref.el
-  consult-20240508.1533/consult.el
+Created consult-20240509.1933.tar containing:
+  consult-20240509.1933/
+  consult-20240509.1933/consult-compile.el
+  consult-20240509.1933/consult-flymake.el
+  consult-20240509.1933/consult-imenu.el
+  consult-20240509.1933/consult-info.el
+  consult-20240509.1933/consult-kmacro.el
+  consult-20240509.1933/consult-org.el
+  consult-20240509.1933/consult-pkg.el
+  consult-20240509.1933/consult-register.el
+  consult-20240509.1933/consult-xref.el
+  consult-20240509.1933/consult.el
  ✓ Success:
-  2024-05-09T00:42:43+0000  consult-20240508.1533.entry
-  2024-05-09T00:42:43+0000  consult-20240508.1533.tar
-Built consult in 4.661s, finished at 2024-05-09T00:42:45+0000
+  2024-05-10T00:03:04+0000  consult-20240509.1933.entry
+  2024-05-10T00:03:04+0000  consult-20240509.1933.tar
+Built consult in 6.307s, finished at 2024-05-10T00:03:06+0000
