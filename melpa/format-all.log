@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/lassik/emacs-format-all-the-code.git
 
 Updating /mnt/store/melpa/working/format-all/
-Checking out 1f4a69811b4b6a00c74fa2566ef731b17b9a2ed1
+Checking out c5ddfc5f3317eaa2a7541a818a0fce961e5e61dd
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/format-all/
-  to /tmp/format-allGtDCht/format-all-20240205.2153
+  to /tmp/format-allsBHMxd/format-all-20240511.1811
     format-all.el -> format-all.el
-Created format-all-20240205.2153.tar containing:
-  format-all-20240205.2153/
-  format-all-20240205.2153/format-all-pkg.el
-  format-all-20240205.2153/format-all.el
+Created format-all-20240511.1811.tar containing:
+  format-all-20240511.1811/
+  format-all-20240511.1811/format-all-pkg.el
+  format-all-20240511.1811/format-all.el
  ✓ Success:
-  2024-05-10T23:39:12+0000  format-all-20240205.2153.entry
-  2024-05-10T23:39:12+0000  format-all-20240205.2153.tar
-Built format-all in 5.333s, finished at 2024-05-10T23:39:14+0000
+  2024-05-11T23:36:55+0000  format-all-20240511.1811.entry
+  2024-05-11T23:36:54+0000  format-all-20240511.1811.tar
+Built format-all in 4.308s, finished at 2024-05-11T23:36:56+0000
