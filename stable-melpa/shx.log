@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/riscy/shx-for-emacs.git
 
 Updating /mnt/store/melpa/working/shx/
-Checking out b99d16f36bc278d668d8428c4bc9af77064c336a
+Checking out ae32d2f6917e16c8feb8b7372267449179abd608
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/shx/
-  to /tmp/shxOheu00/shx-20221224.2230
+  to /tmp/shxo0zUQ8/shx-20240512.1515
     shx.el -> shx.el
-Created shx-20221224.2230.tar containing:
-  shx-20221224.2230/
-  shx-20221224.2230/shx-pkg.el
-  shx-20221224.2230/shx.el
+Created shx-20240512.1515.tar containing:
+  shx-20240512.1515/
+  shx-20240512.1515/shx-pkg.el
+  shx-20240512.1515/shx.el
  ✓ Success:
-  2024-05-12T00:23:05+0000  shx-20221224.2230.entry
-  2024-05-12T00:23:05+0000  shx-20221224.2230.tar
-Built shx in 5.898s, finished at 2024-05-12T00:23:08+0000
+  2024-05-12T23:01:49+0000  shx-20240512.1515.entry
+  2024-05-12T23:01:48+0000  shx-20240512.1515.tar
+Built shx in 7.429s, finished at 2024-05-12T23:01:52+0000

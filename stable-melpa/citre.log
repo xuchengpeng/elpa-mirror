@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/citre/
 Checking out fe670ff2410fe4cd59cdce8ef1b947deefa71879
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/citre/
-  to /tmp/citregF52EL/citre-20240508.1154
+  to /tmp/citrefBzCzd/citre-20240508.1154
     citre-backend-interface.el -> citre-backend-interface.el
     citre-common-tag.el -> citre-common-tag.el
     citre-common-util.el -> citre-common-util.el
@@ -43,6 +43,6 @@ Created citre-20240508.1154.tar containing:
   citre-20240508.1154/citre-xref-adapter.el
   citre-20240508.1154/citre.el
  ✓ Success:
-  2024-05-11T23:14:30+0000  citre-20240508.1154.entry
-  2024-05-11T23:14:30+0000  citre-20240508.1154.tar
-Built citre in 4.202s, finished at 2024-05-11T23:14:32+0000
+  2024-05-13T00:23:55+0000  citre-20240508.1154.entry
+  2024-05-13T00:23:55+0000  citre-20240508.1154.tar
+Built citre in 14.732s, finished at 2024-05-13T00:24:02+0000

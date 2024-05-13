@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/wfnames/
 Checking out 2f014c48fde0979da4ce3c0dbda81389c61a26bc
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/wfnames/
-  to /tmp/wfnamesLzyaGe/wfnames-20240418.1005
+  to /tmp/wfnamesYqbtmJ/wfnames-20240418.1005
     wfnames.el -> wfnames.el
 Created wfnames-20240418.1005.tar containing:
   wfnames-20240418.1005/
   wfnames-20240418.1005/wfnames-pkg.el
   wfnames-20240418.1005/wfnames.el
  ✓ Success:
-  2024-05-12T00:35:36+0000  wfnames-20240418.1005.entry
-  2024-05-12T00:35:36+0000  wfnames-20240418.1005.tar
-Built wfnames in 7.732s, finished at 2024-05-12T00:35:40+0000
+  2024-05-12T23:14:00+0000  wfnames-20240418.1005.entry
+  2024-05-12T23:14:00+0000  wfnames-20240418.1005.tar
+Built wfnames in 8.497s, finished at 2024-05-12T23:14:04+0000

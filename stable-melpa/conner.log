@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/tralph3/conner.git
 
 Updating /mnt/store/melpa/working/conner/
-Checking out 16c2653d207bd6a089685816b14f1013fa7e2c99
+Checking out d8dabaab32e39b01500841b7465076c6ad73c3b9
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/conner/
-  to /tmp/connermxqYd5/conner-20240505.1746
+  to /tmp/conner9miWqj/conner-20240512.1717
     conner.el -> conner.el
-Created conner-20240505.1746.tar containing:
-  conner-20240505.1746/
-  conner-20240505.1746/conner-pkg.el
-  conner-20240505.1746/conner.el
+Created conner-20240512.1717.tar containing:
+  conner-20240512.1717/
+  conner-20240512.1717/conner-pkg.el
+  conner-20240512.1717/conner.el
  ✓ Success:
-  2024-05-11T23:17:40+0000  conner-20240505.1746.entry
-  2024-05-11T23:17:39+0000  conner-20240505.1746.tar
-Built conner in 5.725s, finished at 2024-05-11T23:17:42+0000
+  2024-05-13T00:27:26+0000  conner-20240512.1717.entry
+  2024-05-13T00:27:26+0000  conner-20240512.1717.tar
+Built conner in 4.230s, finished at 2024-05-13T00:27:27+0000
