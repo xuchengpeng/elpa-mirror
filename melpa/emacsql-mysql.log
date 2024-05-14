@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/emacsql-mysql/
 Checking out 5108c16c5e1d5bfdd41fcc0807241e28886ab763
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/emacsql-mysql/
-  to /tmp/emacsql-mysql5TkRqe/emacsql-mysql-20240415.1535
+  to /tmp/emacsql-mysqlhBkeva/emacsql-mysql-20240415.1535
     emacsql-mysql.el -> emacsql-mysql.el
 Created emacsql-mysql-20240415.1535.tar containing:
   emacsql-mysql-20240415.1535/
   emacsql-mysql-20240415.1535/emacsql-mysql-pkg.el
   emacsql-mysql-20240415.1535/emacsql-mysql.el
  ✓ Success:
-  2024-05-13T00:37:26+0000  emacsql-mysql-20240415.1535.entry
-  2024-05-13T00:37:26+0000  emacsql-mysql-20240415.1535.tar
-Built emacsql-mysql in 8.098s, finished at 2024-05-13T00:37:30+0000
+  2024-05-14T00:29:00+0000  emacsql-mysql-20240415.1535.entry
+  2024-05-14T00:29:00+0000  emacsql-mysql-20240415.1535.tar
+Built emacsql-mysql in 4.995s, finished at 2024-05-14T00:29:02+0000

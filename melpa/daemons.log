@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/daemons/
 Checking out 6b6b97b7bac3040cfc58ea5ca7bd9dc9003068fb
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/daemons/
-  to /tmp/daemons3e0D86/daemons-20231212.1324
+  to /tmp/daemonsoj9SNZ/daemons-20231212.1324
     daemons-brew.el -> daemons-brew.el
     daemons-openrc.el -> daemons-openrc.el
     daemons-shepherd.el -> daemons-shepherd.el
@@ -23,6 +23,6 @@ Created daemons-20231212.1324.tar containing:
   daemons-20231212.1324/daemons-sysvinit.el
   daemons-20231212.1324/daemons.el
  ✓ Success:
-  2024-05-13T00:29:29+0000  daemons-20231212.1324.entry
-  2024-05-13T00:29:28+0000  daemons-20231212.1324.tar
-Built daemons in 5.557s, finished at 2024-05-13T00:29:31+0000
+  2024-05-14T00:20:56+0000  daemons-20231212.1324.entry
+  2024-05-14T00:20:56+0000  daemons-20231212.1324.tar
+Built daemons in 5.921s, finished at 2024-05-14T00:20:59+0000

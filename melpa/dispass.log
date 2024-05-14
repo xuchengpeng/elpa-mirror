@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/dispass/
 Checking out b6e8f89040ebaaf0e7609b04bc27a8979f0ae861
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/dispass/
-  to /tmp/dispasscRBplT/dispass-20140202.1531
+  to /tmp/dispassAWz9kO/dispass-20140202.1531
     dispass.el -> dispass.el
 Created dispass-20140202.1531.tar containing:
   dispass-20140202.1531/
   dispass-20140202.1531/dispass-pkg.el
   dispass-20140202.1531/dispass.el
  ✓ Success:
-  2024-05-13T00:32:33+0000  dispass-20140202.1531.entry
-  2024-05-13T00:32:33+0000  dispass-20140202.1531.tar
-Built dispass in 4.081s, finished at 2024-05-13T00:32:35+0000
+  2024-05-14T00:23:40+0000  dispass-20140202.1531.entry
+  2024-05-14T00:23:40+0000  dispass-20140202.1531.tar
+Built dispass in 6.082s, finished at 2024-05-14T00:23:43+0000
