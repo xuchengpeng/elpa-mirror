@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/org-evil/
 Checking out 981b0931d043d3b0eb61fcab6258b5a88cc74d15
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/org-evil/
-  to /tmp/org-evilh9Uhfx/org-evil-20210809.1724
+  to /tmp/org-evilhtQNNr/org-evil-20210809.1724
     org-evil-commands.el -> org-evil-commands.el
     org-evil-core.el -> org-evil-core.el
     org-evil-list.el -> org-evil-list.el
@@ -23,6 +23,6 @@ Created org-evil-20210809.1724.tar containing:
   org-evil-20210809.1724/org-evil-table.el
   org-evil-20210809.1724/org-evil.el
  ✓ Success:
-  2024-05-14T01:12:06+0000  org-evil-20210809.1724.entry
-  2024-05-14T01:12:06+0000  org-evil-20210809.1724.tar
-Built org-evil in 5.248s, finished at 2024-05-14T01:12:08+0000
+  2024-05-15T00:49:14+0000  org-evil-20210809.1724.entry
+  2024-05-15T00:49:14+0000  org-evil-20210809.1724.tar
+Built org-evil in 4.165s, finished at 2024-05-15T00:49:16+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/inf-elixir/
 Checking out 77ac6af83eb4b816c62f58a0298b1bae0c3d69fd
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/inf-elixir/
-  to /tmp/inf-elixirtQ6EQj/inf-elixir-20230611.1945
+  to /tmp/inf-elixirKZ0fpN/inf-elixir-20230611.1945
     inf-elixir.el -> inf-elixir.el
 Created inf-elixir-20230611.1945.tar containing:
   inf-elixir-20230611.1945/
   inf-elixir-20230611.1945/inf-elixir-pkg.el
   inf-elixir-20230611.1945/inf-elixir.el
  ✓ Success:
-  2024-05-14T00:51:59+0000  inf-elixir-20230611.1945.entry
-  2024-05-14T00:51:59+0000  inf-elixir-20230611.1945.tar
-Built inf-elixir in 4.217s, finished at 2024-05-14T00:52:01+0000
+  2024-05-15T00:29:54+0000  inf-elixir-20230611.1945.entry
+  2024-05-15T00:29:54+0000  inf-elixir-20230611.1945.tar
+Built inf-elixir in 4.443s, finished at 2024-05-15T00:29:56+0000

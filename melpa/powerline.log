@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/powerline/
 Checking out c35c35bdf5ce2d992882c1f06f0f078058870d4a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/powerline/
-  to /tmp/powerlineR7PQp6/powerline-20221110.1956
+  to /tmp/powerlineHImjWp/powerline-20221110.1956
     powerline-separators.el -> powerline-separators.el
     powerline-themes.el -> powerline-themes.el
     powerline.el -> powerline.el
@@ -17,6 +17,6 @@ Created powerline-20221110.1956.tar containing:
   powerline-20221110.1956/powerline-themes.el
   powerline-20221110.1956/powerline.el
  ✓ Success:
-  2024-05-13T22:43:43+0000  powerline-20221110.1956.entry
-  2024-05-13T22:43:42+0000  powerline-20221110.1956.tar
-Built powerline in 6.940s, finished at 2024-05-13T22:43:46+0000
+  2024-05-15T00:57:11+0000  powerline-20221110.1956.entry
+  2024-05-15T00:57:11+0000  powerline-20221110.1956.tar
+Built powerline in 5.022s, finished at 2024-05-15T00:57:13+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/yaml-tomato/
 Checking out 1272c502fac6ce6b0f8b7f8a9beb353f0b35e13c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/yaml-tomato/
-  to /tmp/yaml-tomatoRpYIIW/yaml-tomato-20151123.753
+  to /tmp/yaml-tomato2xhB19/yaml-tomato-20151123.753
     yaml-tomato.el -> yaml-tomato.el
 Created yaml-tomato-20151123.753.tar containing:
   yaml-tomato-20151123.753/
   yaml-tomato-20151123.753/yaml-tomato-pkg.el
   yaml-tomato-20151123.753/yaml-tomato.el
  ✓ Success:
-  2024-05-13T23:06:29+0000  yaml-tomato-20151123.753.entry
-  2024-05-13T23:06:29+0000  yaml-tomato-20151123.753.tar
-Built yaml-tomato in 5.777s, finished at 2024-05-13T23:06:32+0000
+  2024-05-14T22:46:37+0000  yaml-tomato-20151123.753.entry
+  2024-05-14T22:46:36+0000  yaml-tomato-20151123.753.tar
+Built yaml-tomato in 4.991s, finished at 2024-05-14T22:46:39+0000

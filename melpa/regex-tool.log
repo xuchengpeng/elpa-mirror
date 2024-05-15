@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/regex-tool/
 Checking out 0b4a0111143c88ef94bec56624cb2e00c1a054e6
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/regex-tool/
-  to /tmp/regex-tool3AK9NU/regex-tool-20170104.1918
+  to /tmp/regex-toolLRd01B/regex-tool-20170104.1918
     regex-tool.el -> regex-tool.el
 Created regex-tool-20170104.1918.tar containing:
   regex-tool-20170104.1918/
   regex-tool-20170104.1918/regex-tool-pkg.el
   regex-tool-20170104.1918/regex-tool.el
  ✓ Success:
-  2024-05-13T22:47:38+0000  regex-tool-20170104.1918.entry
-  2024-05-13T22:47:38+0000  regex-tool-20170104.1918.tar
-Built regex-tool in 4.360s, finished at 2024-05-13T22:47:40+0000
+  2024-05-15T01:01:46+0000  regex-tool-20170104.1918.entry
+  2024-05-15T01:01:46+0000  regex-tool-20170104.1918.tar
+Built regex-tool in 4.101s, finished at 2024-05-15T01:01:48+0000
