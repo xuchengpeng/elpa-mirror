@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/bqn-mode/
 Checking out 23fd9db096ab3a5c5fbd034e721b8a7d27d1d6b7
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/bqn-mode/
-  to /tmp/bqn-modes8VNQD/bqn-mode-20231217.1203
+  to /tmp/bqn-modeSmqz7E/bqn-mode-20231217.1203
     bqn-glyph-mode.el -> bqn-glyph-mode.el
     bqn-keymap-mode.el -> bqn-keymap-mode.el
     bqn-mode.el -> bqn-mode.el
@@ -19,6 +19,6 @@ Created bqn-mode-20231217.1203.tar containing:
   bqn-mode-20231217.1203/bqn-mode.el
   bqn-mode-20231217.1203/bqn-symbols.el
  ✓ Success:
-  2024-05-20T01:16:46+0000  bqn-mode-20231217.1203.entry
-  2024-05-20T01:16:46+0000  bqn-mode-20231217.1203.tar
-Built bqn-mode in 5.254s, finished at 2024-05-20T01:16:49+0000
+  2024-05-21T00:43:18+0000  bqn-mode-20231217.1203.entry
+  2024-05-21T00:43:18+0000  bqn-mode-20231217.1203.tar
+Built bqn-mode in 4.700s, finished at 2024-05-21T00:43:20+0000
