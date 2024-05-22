@@ -6,11 +6,11 @@ Updating /mnt/store/melpa/working/fountain-mode/
 Checking out 7e10f27dd5d9a5d18e08a5454321e961167dfbf7
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/fountain-mode/
-  to /tmp/fountain-modeLoLffE/fountain-mode-20240520.307
+  to /tmp/fountain-modevVH6jI/fountain-mode-20240520.307
     fountain-mode.el -> fountain-mode.el
   ! doc/fountain-mode.texi -> fountain-mode.texi
   ! contrib/fountain-theme.el -> fountain-theme.el
-Generating /tmp/fountain-modeLoLffE/fountain-mode-20240520.307/fountain-mode.info
+Generating /tmp/fountain-modevVH6jI/fountain-mode-20240520.307/fountain-mode.info
 Created fountain-mode-20240520.307.tar containing:
   fountain-mode-20240520.307/
   fountain-mode-20240520.307/dir
@@ -19,6 +19,6 @@ Created fountain-mode-20240520.307.tar containing:
   fountain-mode-20240520.307/fountain-mode.info
   fountain-mode-20240520.307/fountain-theme.el
  ✓ Success:
-  2024-05-21T01:10:32+0000  fountain-mode-20240520.307.entry
-  2024-05-21T01:10:32+0000  fountain-mode-20240520.307.tar
-Built fountain-mode in 9.596s, finished at 2024-05-21T01:10:34+0000
+  2024-05-22T00:33:49+0000  fountain-mode-20240520.307.entry
+  2024-05-22T00:33:49+0000  fountain-mode-20240520.307.tar
+Built fountain-mode in 14.310s, finished at 2024-05-22T00:33:51+0000
