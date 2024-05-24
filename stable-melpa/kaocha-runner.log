@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/magnars/kaocha-runner.el.git
 
 Updating /mnt/store/melpa/working/kaocha-runner/
-Checking out ab5b4f32c733e238bdf08e10cab9a0606675faa4
+Checking out e5071ce09ec2d8c700bac91c902318035c5489bf
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/kaocha-runner/
-  to /tmp/kaocha-runnerDOvMjg/kaocha-runner-20240410.1348
+  to /tmp/kaocha-runnerx24XFh/kaocha-runner-20240523.619
     kaocha-runner.el -> kaocha-runner.el
-Created kaocha-runner-20240410.1348.tar containing:
-  kaocha-runner-20240410.1348/
-  kaocha-runner-20240410.1348/kaocha-runner-pkg.el
-  kaocha-runner-20240410.1348/kaocha-runner.el
+Created kaocha-runner-20240523.619.tar containing:
+  kaocha-runner-20240523.619/
+  kaocha-runner-20240523.619/kaocha-runner-pkg.el
+  kaocha-runner-20240523.619/kaocha-runner.el
  ✓ Success:
-  2024-05-22T23:37:58+0000  kaocha-runner-20240410.1348.entry
-  2024-05-22T23:37:57+0000  kaocha-runner-20240410.1348.tar
-Built kaocha-runner in 3.949s, finished at 2024-05-22T23:37:59+0000
+  2024-05-24T01:19:43+0000  kaocha-runner-20240523.619.entry
+  2024-05-24T01:19:43+0000  kaocha-runner-20240523.619.tar
+Built kaocha-runner in 3.671s, finished at 2024-05-24T01:19:44+0000

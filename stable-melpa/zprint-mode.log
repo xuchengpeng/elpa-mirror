@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/zprint-mode/
 Checking out cd7ae7400177b3c233a77c2a46de818c72375362
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/zprint-mode/
-  to /tmp/zprint-modeyRllPG/zprint-mode-20240311.941
+  to /tmp/zprint-modeHblncf/zprint-mode-20240311.941
     zprint-mode.el -> zprint-mode.el
     bin => bin
 Created zprint-mode-20240311.941.tar containing:
@@ -16,6 +16,6 @@ Created zprint-mode-20240311.941.tar containing:
   zprint-mode-20240311.941/zprint-mode-pkg.el
   zprint-mode-20240311.941/zprint-mode.el
  ✓ Success:
-  2024-05-23T00:22:10+0000  zprint-mode-20240311.941.entry
-  2024-05-23T00:22:10+0000  zprint-mode-20240311.941.tar
-Built zprint-mode in 2.916s, finished at 2024-05-23T00:22:11+0000
+  2024-05-23T23:48:37+0000  zprint-mode-20240311.941.entry
+  2024-05-23T23:48:37+0000  zprint-mode-20240311.941.tar
+Built zprint-mode in 2.955s, finished at 2024-05-23T23:48:38+0000
