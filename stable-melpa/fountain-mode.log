@@ -3,22 +3,22 @@ Fetcher: github
 Source:  https://github.com/rnkn/fountain-mode.git
 
 Updating /mnt/store/melpa/working/fountain-mode/
-Checking out 7e10f27dd5d9a5d18e08a5454321e961167dfbf7
+Checking out fac9486128cac1f3812d44ddafc2603f55faa070
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/fountain-mode/
-  to /tmp/fountain-mode2v9un8/fountain-mode-20240520.307
+  to /tmp/fountain-modeY9zYBL/fountain-mode-20240524.749
     fountain-mode.el -> fountain-mode.el
   ! doc/fountain-mode.texi -> fountain-mode.texi
   ! contrib/fountain-theme.el -> fountain-theme.el
-Generating /tmp/fountain-mode2v9un8/fountain-mode-20240520.307/fountain-mode.info
-Created fountain-mode-20240520.307.tar containing:
-  fountain-mode-20240520.307/
-  fountain-mode-20240520.307/dir
-  fountain-mode-20240520.307/fountain-mode-pkg.el
-  fountain-mode-20240520.307/fountain-mode.el
-  fountain-mode-20240520.307/fountain-mode.info
-  fountain-mode-20240520.307/fountain-theme.el
+Generating /tmp/fountain-modeY9zYBL/fountain-mode-20240524.749/fountain-mode.info
+Created fountain-mode-20240524.749.tar containing:
+  fountain-mode-20240524.749/
+  fountain-mode-20240524.749/dir
+  fountain-mode-20240524.749/fountain-mode-pkg.el
+  fountain-mode-20240524.749/fountain-mode.el
+  fountain-mode-20240524.749/fountain-mode.info
+  fountain-mode-20240524.749/fountain-theme.el
  ✓ Success:
-  2024-05-24T01:06:54+0000  fountain-mode-20240520.307.entry
-  2024-05-24T01:06:54+0000  fountain-mode-20240520.307.tar
-Built fountain-mode in 7.728s, finished at 2024-05-24T01:06:56+0000
+  2024-05-24T23:10:59+0000  fountain-mode-20240524.749.entry
+  2024-05-24T23:10:59+0000  fountain-mode-20240524.749.tar
+Built fountain-mode in 8.578s, finished at 2024-05-24T23:11:01+0000

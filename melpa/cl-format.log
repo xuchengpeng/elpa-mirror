@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/cl-format/
 Checking out 42b662d27eefa458c1a39bea1836d6ada740b863
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/cl-format/
-  to /tmp/cl-formatw84nep/cl-format-20230818.1726
+  to /tmp/cl-formatswy1dL/cl-format-20230818.1726
     cl-format-builtins.el -> cl-format-builtins.el
     cl-format-def.el -> cl-format-def.el
     cl-format-pkg.el -> cl-format-pkg.el
@@ -20,6 +20,6 @@ Created cl-format-20230818.1726.tar containing:
   cl-format-20230818.1726/cl-format.el
   cl-format-20230818.1726/clisp-format.el
  ✓ Success:
-  2024-05-24T00:46:25+0000  cl-format-20230818.1726.entry
-  2024-05-24T00:46:25+0000  cl-format-20230818.1726.tar
-Built cl-format in 8.367s, finished at 2024-05-24T00:46:30+0000
+  2024-05-25T01:06:48+0000  cl-format-20230818.1726.entry
+  2024-05-25T01:06:48+0000  cl-format-20230818.1726.tar
+Built cl-format in 4.986s, finished at 2024-05-25T01:06:50+0000

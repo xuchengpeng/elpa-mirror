@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/tubestatus/
 Checking out 26c2627f70badfd4cf6069c31ebc20fa8b03136d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/tubestatus/
-  to /tmp/tubestatusPBFWXA/tubestatus-20240322.2129
+  to /tmp/tubestatusdYBJLE/tubestatus-20240322.2129
     tubestatus.el -> tubestatus.el
 Created tubestatus-20240322.2129.tar containing:
   tubestatus-20240322.2129/
   tubestatus-20240322.2129/tubestatus-pkg.el
   tubestatus-20240322.2129/tubestatus.el
  ✓ Success:
-  2024-05-23T23:42:10+0000  tubestatus-20240322.2129.entry
-  2024-05-23T23:42:10+0000  tubestatus-20240322.2129.tar
-Built tubestatus in 3.663s, finished at 2024-05-23T23:42:12+0000
+  2024-05-25T00:01:16+0000  tubestatus-20240322.2129.entry
+  2024-05-25T00:01:16+0000  tubestatus-20240322.2129.tar
+Built tubestatus in 5.365s, finished at 2024-05-25T00:01:18+0000

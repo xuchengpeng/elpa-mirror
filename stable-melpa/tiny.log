@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/tiny/
 Checking out c107480fca7e42737c51b2afaa33ac31e92a7290
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/tiny/
-  to /tmp/tinyYFT6D3/tiny-20220910.1929
+  to /tmp/tiny4yOTni/tiny-20220910.1929
     tiny.el -> tiny.el
 Created tiny-20220910.1929.tar containing:
   tiny-20220910.1929/
   tiny-20220910.1929/tiny-pkg.el
   tiny-20220910.1929/tiny.el
  ✓ Success:
-  2024-05-23T23:40:48+0000  tiny-20220910.1929.entry
-  2024-05-23T23:40:47+0000  tiny-20220910.1929.tar
-Built tiny in 5.487s, finished at 2024-05-23T23:40:50+0000
+  2024-05-24T23:59:45+0000  tiny-20220910.1929.entry
+  2024-05-24T23:59:45+0000  tiny-20220910.1929.tar
+Built tiny in 3.800s, finished at 2024-05-24T23:59:46+0000

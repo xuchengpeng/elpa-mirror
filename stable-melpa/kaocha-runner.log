@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/kaocha-runner/
 Checking out e5071ce09ec2d8c700bac91c902318035c5489bf
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/kaocha-runner/
-  to /tmp/kaocha-runnerx24XFh/kaocha-runner-20240523.619
+  to /tmp/kaocha-runnergnD3KW/kaocha-runner-20240523.619
     kaocha-runner.el -> kaocha-runner.el
 Created kaocha-runner-20240523.619.tar containing:
   kaocha-runner-20240523.619/
   kaocha-runner-20240523.619/kaocha-runner-pkg.el
   kaocha-runner-20240523.619/kaocha-runner.el
  ✓ Success:
-  2024-05-24T01:19:43+0000  kaocha-runner-20240523.619.entry
-  2024-05-24T01:19:43+0000  kaocha-runner-20240523.619.tar
-Built kaocha-runner in 3.671s, finished at 2024-05-24T01:19:44+0000
+  2024-05-24T23:25:22+0000  kaocha-runner-20240523.619.entry
+  2024-05-24T23:25:22+0000  kaocha-runner-20240523.619.tar
+Built kaocha-runner in 7.613s, finished at 2024-05-24T23:25:25+0000

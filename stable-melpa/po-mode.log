@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/po-mode/
 Checking out ca125eba813a6b29b5fbe7ea8a2e3d92f225ab8c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/po-mode/
-  to /tmp/po-mode5K5Su2/po-mode-20231006.1425
+  to /tmp/po-modeFqr7Vf/po-mode-20231006.1425
     po-compat.el -> po-compat.el
     po-mode.el -> po-mode.el
     start-po.el -> start-po.el
@@ -17,6 +17,6 @@ Created po-mode-20231006.1425.tar containing:
   po-mode-20231006.1425/po-mode.el
   po-mode-20231006.1425/start-po.el
  ✓ Success:
-  2024-05-23T23:25:49+0000  po-mode-20231006.1425.entry
-  2024-05-23T23:25:49+0000  po-mode-20231006.1425.tar
-Built po-mode in 4.794s, finished at 2024-05-23T23:25:51+0000
+  2024-05-24T23:46:02+0000  po-mode-20231006.1425.entry
+  2024-05-24T23:46:02+0000  po-mode-20231006.1425.tar
+Built po-mode in 3.779s, finished at 2024-05-24T23:46:03+0000
