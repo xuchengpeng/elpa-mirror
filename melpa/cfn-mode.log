@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/cfn-mode/
 Checking out 6ef789934d6b9b78cdbe5c90703f4afead736ead
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/cfn-mode/
-  to /tmp/cfn-modePCUZNa/cfn-mode-20240519.805
+  to /tmp/cfn-modedkGQMh/cfn-mode-20240519.805
   ! cfn-mode/cfn-mode.el -> cfn-mode.el
   ! cfn-mode/cfn-properties.dat -> cfn-properties.dat
   ! cfn-mode/cfn-resources.dat -> cfn-resources.dat
@@ -17,6 +17,6 @@ Created cfn-mode-20240519.805.tar containing:
   cfn-mode-20240519.805/cfn-properties.dat
   cfn-mode-20240519.805/cfn-resources.dat
  ✓ Success:
-  2024-05-25T01:06:01+0000  cfn-mode-20240519.805.entry
-  2024-05-25T01:06:01+0000  cfn-mode-20240519.805.tar
-Built cfn-mode in 4.994s, finished at 2024-05-25T01:06:03+0000
+  2024-05-26T01:20:30+0000  cfn-mode-20240519.805.entry
+  2024-05-26T01:20:30+0000  cfn-mode-20240519.805.tar
+Built cfn-mode in 4.309s, finished at 2024-05-26T01:20:31+0000

@@ -3,18 +3,16 @@ Fetcher: github
 Source:  https://github.com/meritamen/emacs-kanagawa-theme.git
 
 Updating /mnt/store/melpa/working/kanagawa-theme/
-Checking out b7c5b58aa682c4f0acb9208f759eec4af529bac2
+Checking out 7bb7f628b24ff64175e947f9bd7a792b754d2daa
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/kanagawa-theme/
-  to /tmp/kanagawa-themeb5NYln/kanagawa-theme-20240524.1112
-    kanagawa-theme-dark.el -> kanagawa-theme-dark.el
+  to /tmp/kanagawa-themeijfifQ/kanagawa-theme-20240525.1721
     kanagawa-theme.el -> kanagawa-theme.el
-Created kanagawa-theme-20240524.1112.tar containing:
-  kanagawa-theme-20240524.1112/
-  kanagawa-theme-20240524.1112/kanagawa-theme-dark.el
-  kanagawa-theme-20240524.1112/kanagawa-theme-pkg.el
-  kanagawa-theme-20240524.1112/kanagawa-theme.el
+Created kanagawa-theme-20240525.1721.tar containing:
+  kanagawa-theme-20240525.1721/
+  kanagawa-theme-20240525.1721/kanagawa-theme-pkg.el
+  kanagawa-theme-20240525.1721/kanagawa-theme.el
  ✓ Success:
-  2024-05-24T23:25:15+0000  kanagawa-theme-20240524.1112.entry
-  2024-05-24T23:25:15+0000  kanagawa-theme-20240524.1112.tar
-Built kanagawa-theme in 7.281s, finished at 2024-05-24T23:25:19+0000
+  2024-05-25T23:40:50+0000  kanagawa-theme-20240525.1721.entry
+  2024-05-25T23:40:50+0000  kanagawa-theme-20240525.1721.tar
+Built kanagawa-theme in 3.460s, finished at 2024-05-25T23:40:52+0000

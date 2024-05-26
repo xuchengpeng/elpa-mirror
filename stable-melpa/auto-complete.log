@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/auto-complete/
 Checking out 0c2f5a7d28b70bfe30b87378d58d74798a62741d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/auto-complete/
-  to /tmp/auto-completeOIHyAj/auto-complete-20240320.1734
+  to /tmp/auto-completeh32q3f/auto-complete-20240320.1734
     auto-complete-config.el -> auto-complete-config.el
     auto-complete-pkg.el -> auto-complete-pkg.el
     auto-complete.el -> auto-complete.el
@@ -50,6 +50,6 @@ Created auto-complete-20240320.1734.tar containing:
   auto-complete-20240320.1734/dict/tuareg-mode
   auto-complete-20240320.1734/dict/verilog-mode
  ✓ Success:
-  2024-05-25T01:01:39+0000  auto-complete-20240320.1734.entry
-  2024-05-25T01:01:39+0000  auto-complete-20240320.1734.tar
-Built auto-complete in 4.924s, finished at 2024-05-25T01:01:40+0000
+  2024-05-26T01:16:27+0000  auto-complete-20240320.1734.entry
+  2024-05-26T01:16:27+0000  auto-complete-20240320.1734.tar
+Built auto-complete in 4.278s, finished at 2024-05-26T01:16:29+0000
