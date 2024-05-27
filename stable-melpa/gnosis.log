@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/gnosis/
 Checking out b9c6c04e33ad2f541ab116dda9e460f21034a8eb
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/gnosis/
-  to /tmp/gnosisJJaa4O/gnosis-20240517.334
+  to /tmp/gnosisiZaGv6/gnosis-20240517.334
     gnosis-algorithm.el -> gnosis-algorithm.el
     gnosis-string-edit.el -> gnosis-string-edit.el
     gnosis.el -> gnosis.el
@@ -21,6 +21,6 @@ Created gnosis-20240517.334.tar containing:
   gnosis-20240517.334/gnosis.el
   gnosis-20240517.334/gnosis.info
  ✓ Success:
-  2024-05-25T23:29:40+0000  gnosis-20240517.334.entry
-  2024-05-25T23:29:40+0000  gnosis-20240517.334.tar
-Built gnosis in 5.137s, finished at 2024-05-25T23:29:42+0000
+  2024-05-27T00:41:23+0000  gnosis-20240517.334.entry
+  2024-05-27T00:41:22+0000  gnosis-20240517.334.tar
+Built gnosis in 6.085s, finished at 2024-05-27T00:41:25+0000

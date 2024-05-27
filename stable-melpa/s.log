@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/s/
 Checking out b4b8c03fcef316a27f75633fe4bb990aeff6e705
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/s/
-  to /tmp/sBantKf/s-20220902.1511
+  to /tmp/sXn9M2F/s-20220902.1511
     s.el -> s.el
 Created s-20220902.1511.tar containing:
   s-20220902.1511/
   s-20220902.1511/s-pkg.el
   s-20220902.1511/s.el
  ✓ Success:
-  2024-05-26T00:07:11+0000  s-20220902.1511.entry
-  2024-05-26T00:07:11+0000  s-20220902.1511.tar
-Built s in 5.237s, finished at 2024-05-26T00:07:13+0000
+  2024-05-27T01:18:53+0000  s-20220902.1511.entry
+  2024-05-27T01:18:53+0000  s-20220902.1511.tar
+Built s in 3.877s, finished at 2024-05-27T01:18:55+0000

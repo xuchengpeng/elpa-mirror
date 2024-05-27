@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/shell-pop/
 Checking out ff3dc705ee1c7bc566b35c17e4635c57061fe3ae
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/shell-pop/
-  to /tmp/shell-popXSNJWc/shell-pop-20231228.612
+  to /tmp/shell-pop6TNjIj/shell-pop-20231228.612
     shell-pop.el -> shell-pop.el
 Created shell-pop-20231228.612.tar containing:
   shell-pop-20231228.612/
   shell-pop-20231228.612/shell-pop-pkg.el
   shell-pop-20231228.612/shell-pop.el
  ✓ Success:
-  2024-05-26T00:09:05+0000  shell-pop-20231228.612.entry
-  2024-05-26T00:09:04+0000  shell-pop-20231228.612.tar
-Built shell-pop in 6.991s, finished at 2024-05-26T00:09:08+0000
+  2024-05-27T01:20:53+0000  shell-pop-20231228.612.entry
+  2024-05-27T01:20:53+0000  shell-pop-20231228.612.tar
+Built shell-pop in 5.342s, finished at 2024-05-27T01:20:55+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/pickle/
 Checking out 3a0a717f2a24827667f34bc53830a3b81cd57460
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/pickle/
-  to /tmp/picklev1H6nf/pickle-20190923.354
+  to /tmp/pickle21vtLN/pickle-20190923.354
     pickle.el -> pickle.el
 Created pickle-20190923.354.tar containing:
   pickle-20190923.354/
   pickle-20190923.354/pickle-pkg.el
   pickle-20190923.354/pickle.el
  ✓ Success:
-  2024-05-25T23:59:59+0000  pickle-20190923.354.entry
-  2024-05-25T23:59:59+0000  pickle-20190923.354.tar
-Built pickle in 3.784s, finished at 2024-05-26T00:00:00+0000
+  2024-05-27T01:12:06+0000  pickle-20190923.354.entry
+  2024-05-27T01:12:06+0000  pickle-20190923.354.tar
+Built pickle in 5.170s, finished at 2024-05-27T01:12:09+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/lentic-server/
 Checking out 732b88e7a183707ba65c38e8b3517cac42572644
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/lentic-server/
-  to /tmp/lentic-serverLbJSbg/lentic-server-20240315.144
+  to /tmp/lentic-serverP9w97g/lentic-server-20240315.144
     lentic-server.el -> lentic-server.el
 Created lentic-server-20240315.144.tar containing:
   lentic-server-20240315.144/
   lentic-server-20240315.144/lentic-server-pkg.el
   lentic-server-20240315.144/lentic-server.el
  ✓ Success:
-  2024-05-25T23:42:45+0000  lentic-server-20240315.144.entry
-  2024-05-25T23:42:45+0000  lentic-server-20240315.144.tar
-Built lentic-server in 3.688s, finished at 2024-05-25T23:42:46+0000
+  2024-05-27T00:54:13+0000  lentic-server-20240315.144.entry
+  2024-05-27T00:54:13+0000  lentic-server-20240315.144.tar
+Built lentic-server in 4.267s, finished at 2024-05-27T00:54:14+0000

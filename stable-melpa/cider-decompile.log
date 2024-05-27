@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/cider-decompile/
 Checking out 5d87035f3c3c14025e8f01c0c53d0ce2c8f56651
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/cider-decompile/
-  to /tmp/cider-decompileVNj6TP/cider-decompile-20151122.537
+  to /tmp/cider-decompileChqhk6/cider-decompile-20151122.537
     cider-decompile.el -> cider-decompile.el
 Created cider-decompile-20151122.537.tar containing:
   cider-decompile-20151122.537/
   cider-decompile-20151122.537/cider-decompile-pkg.el
   cider-decompile-20151122.537/cider-decompile.el
  ✓ Success:
-  2024-05-26T01:21:03+0000  cider-decompile-20151122.537.entry
-  2024-05-26T01:21:03+0000  cider-decompile-20151122.537.tar
-Built cider-decompile in 4.043s, finished at 2024-05-26T01:21:05+0000
+  2024-05-27T00:17:41+0000  cider-decompile-20151122.537.entry
+  2024-05-27T00:17:41+0000  cider-decompile-20151122.537.tar
+Built cider-decompile in 4.612s, finished at 2024-05-27T00:17:43+0000

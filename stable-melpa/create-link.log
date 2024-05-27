@@ -1,0 +1,18 @@
+Package: create-link
+Fetcher: github
+Source:  https://github.com/kijimaD/create-link.git
+
+Updating /mnt/store/melpa/working/create-link/
+Checking out 276fafcc6fb568ede256c8d459c3beb408ad9b46
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/create-link/
+  to /tmp/create-linkPVh1BY/create-link-20220621.1440
+    create-link.el -> create-link.el
+Created create-link-20220621.1440.tar containing:
+  create-link-20220621.1440/
+  create-link-20220621.1440/create-link-pkg.el
+  create-link-20220621.1440/create-link.el
+ ✓ Success:
+  2024-05-27T00:22:05+0000  create-link-20220621.1440.entry
+  2024-05-27T00:22:05+0000  create-link-20220621.1440.tar
+Built create-link in 3.908s, finished at 2024-05-27T00:22:07+0000
