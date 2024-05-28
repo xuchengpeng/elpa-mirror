@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/vyper-mode/
 Checking out 323dfddfc38f0b11697e9ebaf04d1b53297e54e5
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/vyper-mode/
-  to /tmp/vyper-modeKElrMW/vyper-mode-20180707.1935
+  to /tmp/vyper-modee7FfkP/vyper-mode-20180707.1935
     vyper-mode.el -> vyper-mode.el
 Created vyper-mode-20180707.1935.tar containing:
   vyper-mode-20180707.1935/
   vyper-mode-20180707.1935/vyper-mode-pkg.el
   vyper-mode-20180707.1935/vyper-mode.el
  ✓ Success:
-  2024-05-26T23:15:25+0000  vyper-mode-20180707.1935.entry
-  2024-05-26T23:15:25+0000  vyper-mode-20180707.1935.tar
-Built vyper-mode in 4.968s, finished at 2024-05-26T23:15:28+0000
+  2024-05-28T00:40:08+0000  vyper-mode-20180707.1935.entry
+  2024-05-28T00:40:08+0000  vyper-mode-20180707.1935.tar
+Built vyper-mode in 4.314s, finished at 2024-05-28T00:40:10+0000

@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/tempel-collection/
 Checking out cf2594313a41f6a29205e378411ebb10e9d764c3
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/tempel-collection/
-  to /tmp/tempel-collectionaY1IbB/tempel-collection-20240507.805
+  to /tmp/tempel-collectionnFVVi3/tempel-collection-20240507.805
     tempel-collection.el -> tempel-collection.el
     templates => templates
 Created tempel-collection-20240507.805.tar containing:
@@ -36,6 +36,6 @@ Created tempel-collection-20240507.805.tar containing:
   tempel-collection-20240507.805/templates/texinfo.eld
   tempel-collection-20240507.805/templates/text.eld
  ✓ Success:
-  2024-05-26T23:10:18+0000  tempel-collection-20240507.805.entry
-  2024-05-26T23:10:18+0000  tempel-collection-20240507.805.tar
-Built tempel-collection in 3.925s, finished at 2024-05-26T23:10:20+0000
+  2024-05-28T00:34:57+0000  tempel-collection-20240507.805.entry
+  2024-05-28T00:34:57+0000  tempel-collection-20240507.805.tar
+Built tempel-collection in 4.435s, finished at 2024-05-28T00:34:59+0000

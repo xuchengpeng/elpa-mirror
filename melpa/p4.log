@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/p4/
 Checking out eff047caa75dbe4965defca9d1212454cdb755d5
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/p4/
-  to /tmp/p4KHmJvZ/p4-20150721.1937
+  to /tmp/p4fiKiUf/p4-20150721.1937
     p4.el -> p4.el
 Created p4-20150721.1937.tar containing:
   p4-20150721.1937/
   p4-20150721.1937/p4-pkg.el
   p4-20150721.1937/p4.el
  ✓ Success:
-  2024-05-27T01:10:17+0000  p4-20150721.1937.entry
-  2024-05-27T01:10:17+0000  p4-20150721.1937.tar
-Built p4 in 4.593s, finished at 2024-05-27T01:10:19+0000
+  2024-05-28T00:18:11+0000  p4-20150721.1937.entry
+  2024-05-28T00:18:11+0000  p4-20150721.1937.tar
+Built p4 in 3.834s, finished at 2024-05-28T00:18:12+0000
