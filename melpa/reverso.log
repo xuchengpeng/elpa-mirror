@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/reverso/
 Checking out 7ae99550cd6076009560c4c7a3e4cdf101826041
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/reverso/
-  to /tmp/reversog8P2pz/reverso-20240113.2128
+  to /tmp/reversoZoLXoE/reverso-20240113.2128
     reverso.el -> reverso.el
 Created reverso-20240113.2128.tar containing:
   reverso-20240113.2128/
   reverso-20240113.2128/reverso-pkg.el
   reverso-20240113.2128/reverso.el
  ✓ Success:
-  2024-05-29T01:22:40+0000  reverso-20240113.2128.entry
-  2024-05-29T01:22:40+0000  reverso-20240113.2128.tar
-Built reverso in 3.421s, finished at 2024-05-29T01:22:41+0000
+  2024-06-03T01:03:33+0000  reverso-20240113.2128.entry
+  2024-06-03T01:03:33+0000  reverso-20240113.2128.tar
+Built reverso in 3.789s, finished at 2024-06-03T01:03:35+0000

@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/etherpad/
 Checking out 29409bf9ff05b74d942c1cd7a421eeec2ef96e49
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/etherpad/
-  to /tmp/etherpadLq6GEY/etherpad-20230530.1248
+  to /tmp/etherpadocVM7p/etherpad-20230530.1248
     etherpad-esync.el -> etherpad-esync.el
     etherpad.el -> etherpad.el
 Created etherpad-20230530.1248.tar containing:
@@ -15,6 +15,6 @@ Created etherpad-20230530.1248.tar containing:
   etherpad-20230530.1248/etherpad-pkg.el
   etherpad-20230530.1248/etherpad.el
  ✓ Success:
-  2024-05-29T00:38:55+0000  etherpad-20230530.1248.entry
-  2024-05-29T00:38:55+0000  etherpad-20230530.1248.tar
-Built etherpad in 3.596s, finished at 2024-05-29T00:38:57+0000
+  2024-06-03T00:19:22+0000  etherpad-20230530.1248.entry
+  2024-06-03T00:19:22+0000  etherpad-20230530.1248.tar
+Built etherpad in 3.532s, finished at 2024-06-03T00:19:23+0000

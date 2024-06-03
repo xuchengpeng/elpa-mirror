@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/emacs-vs/vs-light-theme.git
 
 Updating /mnt/store/melpa/working/vs-light-theme/
-Checking out bc0250f261c066f576fa13112dcfbb10a4e5c6ef
+Checking out fe9079fe76b2daba4a8e26effbe3c1f77cc083ff
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/vs-light-theme/
-  to /tmp/vs-light-thememVeNWn/vs-light-theme-20240521.2340
+  to /tmp/vs-light-themehuMoEk/vs-light-theme-20240529.531
     vs-light-theme.el -> vs-light-theme.el
-Created vs-light-theme-20240521.2340.tar containing:
-  vs-light-theme-20240521.2340/
-  vs-light-theme-20240521.2340/vs-light-theme-pkg.el
-  vs-light-theme-20240521.2340/vs-light-theme.el
+Created vs-light-theme-20240529.531.tar containing:
+  vs-light-theme-20240529.531/
+  vs-light-theme-20240529.531/vs-light-theme-pkg.el
+  vs-light-theme-20240529.531/vs-light-theme.el
  ✓ Success:
-  2024-05-28T23:22:59+0000  vs-light-theme-20240521.2340.entry
-  2024-05-28T23:22:59+0000  vs-light-theme-20240521.2340.tar
-Built vs-light-theme in 5.188s, finished at 2024-05-28T23:23:01+0000
+  2024-06-03T01:16:37+0000  vs-light-theme-20240529.531.entry
+  2024-06-03T01:16:37+0000  vs-light-theme-20240529.531.tar
+Built vs-light-theme in 4.225s, finished at 2024-06-03T01:16:38+0000

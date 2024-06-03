@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/raycast-mode/
 Checking out f6401605cc9dfacdcaaf98d5844348b818cfc010
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/raycast-mode/
-  to /tmp/raycast-modezkO6vV/raycast-mode-20230607.2107
+  to /tmp/raycast-modeglDsUU/raycast-mode-20230607.2107
     raycast-mode.el -> raycast-mode.el
 Created raycast-mode-20230607.2107.tar containing:
   raycast-mode-20230607.2107/
   raycast-mode-20230607.2107/raycast-mode-pkg.el
   raycast-mode-20230607.2107/raycast-mode.el
  ✓ Success:
-  2024-05-29T01:21:21+0000  raycast-mode-20230607.2107.entry
-  2024-05-29T01:21:21+0000  raycast-mode-20230607.2107.tar
-Built raycast-mode in 4.335s, finished at 2024-05-29T01:21:23+0000
+  2024-06-03T01:02:14+0000  raycast-mode-20230607.2107.entry
+  2024-06-03T01:02:14+0000  raycast-mode-20230607.2107.tar
+Built raycast-mode in 3.875s, finished at 2024-06-03T01:02:16+0000

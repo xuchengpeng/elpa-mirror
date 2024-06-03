@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/ewal/
 Checking out 4ecc355dae9c7d648cd2874e01a15dfa02b9350d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ewal/
-  to /tmp/ewalwCbuDq/ewal-20200305.230
+  to /tmp/ewal6bCB1C/ewal-20200305.230
     ewal.el -> ewal.el
     palettes => palettes
 Created ewal-20200305.230.tar containing:
@@ -273,6 +273,6 @@ Created ewal-20200305.230.tar containing:
   ewal-20200305.230/palettes/light/tempus_past.json
   ewal-20200305.230/palettes/light/tempus_totus.json
  ✓ Success:
-  2024-05-29T00:40:21+0000  ewal-20200305.230.entry
-  2024-05-29T00:40:20+0000  ewal-20200305.230.tar
-Built ewal in 9.675s, finished at 2024-05-29T00:40:25+0000
+  2024-06-03T00:20:32+0000  ewal-20200305.230.entry
+  2024-06-03T00:20:31+0000  ewal-20200305.230.tar
+Built ewal in 4.431s, finished at 2024-06-03T00:20:33+0000

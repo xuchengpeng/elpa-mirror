@@ -1,0 +1,18 @@
+Package: dired-open-with
+Fetcher: github
+Source:  https://github.com/FrostyX/dired-open-with.git
+
+Updating /mnt/store/melpa/working/dired-open-with/
+Checking out 8597fbeb612d37a770c9332efcce37cda6082c0a
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/dired-open-with/
+  to /tmp/dired-open-withyTKBln/dired-open-with-20240602.2022
+    dired-open-with.el -> dired-open-with.el
+Created dired-open-with-20240602.2022.tar containing:
+  dired-open-with-20240602.2022/
+  dired-open-with-20240602.2022/dired-open-with-pkg.el
+  dired-open-with-20240602.2022/dired-open-with.el
+ ✓ Success:
+  2024-06-03T00:12:39+0000  dired-open-with-20240602.2022.entry
+  2024-06-03T00:12:39+0000  dired-open-with-20240602.2022.tar
+Built dired-open-with in 5.516s, finished at 2024-06-03T00:12:41+0000

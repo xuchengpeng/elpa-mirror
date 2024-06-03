@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/insert-random/
 Checking out a13827fd68457f939e46f95a662752f6f344107c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/insert-random/
-  to /tmp/insert-randomgqrY6B/insert-random-20230212.1710
+  to /tmp/insert-random1i3t28/insert-random-20230212.1710
     insert-random.el -> insert-random.el
 Created insert-random-20230212.1710.tar containing:
   insert-random-20230212.1710/
   insert-random-20230212.1710/insert-random-pkg.el
   insert-random-20230212.1710/insert-random.el
  ✓ Success:
-  2024-05-29T00:55:32+0000  insert-random-20230212.1710.entry
-  2024-05-29T00:55:32+0000  insert-random-20230212.1710.tar
-Built insert-random in 3.548s, finished at 2024-05-29T00:55:34+0000
+  2024-06-03T00:35:43+0000  insert-random-20230212.1710.entry
+  2024-06-03T00:35:42+0000  insert-random-20230212.1710.tar
+Built insert-random in 8.281s, finished at 2024-06-03T00:35:47+0000

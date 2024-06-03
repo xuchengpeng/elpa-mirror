@@ -1,0 +1,33 @@
+Package: robe
+Fetcher: github
+Source:  https://github.com/dgutov/robe.git
+
+Updating /mnt/store/melpa/working/robe/
+Checking out 6bc8a07fc483407971de0966d367a11006b3ab80
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/robe/
+  to /tmp/robeGJUwbd/robe-20240509.155
+    robe.el -> robe.el
+    lib => lib
+Created robe-20240509.155.tar containing:
+  robe-20240509.155/
+  robe-20240509.155/lib/
+  robe-20240509.155/lib/robe.rb
+  robe-20240509.155/lib/robe/
+  robe-20240509.155/lib/robe/core_ext.rb
+  robe-20240509.155/lib/robe/jvisor.rb
+  robe-20240509.155/lib/robe/sash.rb
+  robe-20240509.155/lib/robe/sash/
+  robe-20240509.155/lib/robe/sash/const_locations.rb
+  robe-20240509.155/lib/robe/sash/doc_for.rb
+  robe-20240509.155/lib/robe/sash/includes_tracker.rb
+  robe-20240509.155/lib/robe/scanners.rb
+  robe-20240509.155/lib/robe/server.rb
+  robe-20240509.155/lib/robe/type_space.rb
+  robe-20240509.155/lib/robe/visor.rb
+  robe-20240509.155/robe-pkg.el
+  robe-20240509.155/robe.el
+ ✓ Success:
+  2024-06-03T01:03:53+0000  robe-20240509.155.entry
+  2024-06-03T01:03:53+0000  robe-20240509.155.tar
+Built robe in 5.285s, finished at 2024-06-03T01:03:55+0000

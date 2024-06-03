@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/jetbrains/
 Checking out 56f71a17d455581c10d48f6dbb31d9e2126227bf
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/jetbrains/
-  to /tmp/jetbrains72Z5zn/jetbrains-20180301.502
+  to /tmp/jetbrainstsj2Dc/jetbrains-20180301.502
     jetbrains.el -> jetbrains.el
 Created jetbrains-20180301.502.tar containing:
   jetbrains-20180301.502/
   jetbrains-20180301.502/jetbrains-pkg.el
   jetbrains-20180301.502/jetbrains.el
  ✓ Success:
-  2024-05-29T00:56:57+0000  jetbrains-20180301.502.entry
-  2024-05-29T00:56:57+0000  jetbrains-20180301.502.tar
-Built jetbrains in 5.089s, finished at 2024-05-29T00:56:59+0000
+  2024-06-03T00:37:35+0000  jetbrains-20180301.502.entry
+  2024-06-03T00:37:35+0000  jetbrains-20180301.502.tar
+Built jetbrains in 4.156s, finished at 2024-06-03T00:37:37+0000
