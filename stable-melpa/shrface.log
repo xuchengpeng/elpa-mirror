@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/shrface/
 Checking out 197507c169d322921f3e6fa99b73a3721101ffc7
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/shrface/
-  to /tmp/shrfaceUP12s6/shrface-20240530.1456
+  to /tmp/shrfaceLqiE4A/shrface-20240530.1456
     shrface.el -> shrface.el
 Created shrface-20240530.1456.tar containing:
   shrface-20240530.1456/
   shrface-20240530.1456/shrface-pkg.el
   shrface-20240530.1456/shrface.el
  ✓ Success:
-  2024-06-03T01:06:21+0000  shrface-20240530.1456.entry
-  2024-06-03T01:06:21+0000  shrface-20240530.1456.tar
-Built shrface in 6.063s, finished at 2024-06-03T01:06:24+0000
+  2024-06-05T00:33:29+0000  shrface-20240530.1456.entry
+  2024-06-05T00:33:29+0000  shrface-20240530.1456.tar
+Built shrface in 3.883s, finished at 2024-06-05T00:33:31+0000

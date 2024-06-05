@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/noaa/
 Checking out 7d68b5a580c64123f3bbd75f795a891dfdeb1746
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/noaa/
-  to /tmp/noaaq3LTgP/noaa-20240317.2321
+  to /tmp/noaamXsFXH/noaa-20240317.2321
     noaa.el -> noaa.el
 Created noaa-20240317.2321.tar containing:
   noaa-20240317.2321/
   noaa-20240317.2321/noaa-pkg.el
   noaa-20240317.2321/noaa.el
  ✓ Success:
-  2024-06-03T00:49:03+0000  noaa-20240317.2321.entry
-  2024-06-03T00:49:03+0000  noaa-20240317.2321.tar
-Built noaa in 4.405s, finished at 2024-06-03T00:49:05+0000
+  2024-06-05T00:15:38+0000  noaa-20240317.2321.entry
+  2024-06-05T00:15:38+0000  noaa-20240317.2321.tar
+Built noaa in 5.599s, finished at 2024-06-05T00:15:41+0000

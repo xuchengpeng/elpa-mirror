@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/pianobar/
 Checking out d708417608df4f09ee565fddaad03dfe181829a8
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/pianobar/
-  to /tmp/pianobarW1KwlY/pianobar-20201002.1756
+  to /tmp/pianobarW5IaKv/pianobar-20201002.1756
     pianobar.el -> pianobar.el
 Created pianobar-20201002.1756.tar containing:
   pianobar-20201002.1756/
   pianobar-20201002.1756/pianobar-pkg.el
   pianobar-20201002.1756/pianobar.el
  ✓ Success:
-  2024-06-03T00:57:45+0000  pianobar-20201002.1756.entry
-  2024-06-03T00:57:45+0000  pianobar-20201002.1756.tar
-Built pianobar in 3.958s, finished at 2024-06-03T00:57:47+0000
+  2024-06-05T00:24:49+0000  pianobar-20201002.1756.entry
+  2024-06-05T00:24:49+0000  pianobar-20201002.1756.tar
+Built pianobar in 3.351s, finished at 2024-06-05T00:24:50+0000

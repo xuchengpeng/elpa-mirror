@@ -3,20 +3,18 @@ Fetcher: github
 Source:  https://github.com/liuyinz/mini-echo.el.git
 
 Updating /mnt/store/melpa/working/mini-echo/
-Checking out 8b543100c9695c32a51c40f5caf6f8b65a4e694f
+Checking out b556c0fa68dad76a478bd3f508e0501aa6933689
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mini-echo/
-  to /tmp/mini-echoiWNSS8/mini-echo-20240602.2250
+  to /tmp/mini-echo0UDZMb/mini-echo-20240603.424
     mini-echo-segments.el -> mini-echo-segments.el
     mini-echo.el -> mini-echo.el
-Created mini-echo-20240602.2250.tar containing:
-  mini-echo-20240602.2250/
-  mini-echo-20240602.2250/mini-echo-pkg.el
-  mini-echo-20240602.2250/mini-echo-segments.el
-  mini-echo-20240602.2250/mini-echo.el
+Created mini-echo-20240603.424.tar containing:
+  mini-echo-20240603.424/
+  mini-echo-20240603.424/mini-echo-pkg.el
+  mini-echo-20240603.424/mini-echo-segments.el
+  mini-echo-20240603.424/mini-echo.el
  ✓ Success:
-  2024-06-02T22:34:38+0000  mini-echo-20240602.1724.entry
-  2024-06-02T22:34:38+0000  mini-echo-20240602.1724.tar
-  2024-06-03T00:45:31+0000  mini-echo-20240602.2250.entry
-  2024-06-03T00:45:31+0000  mini-echo-20240602.2250.tar
-Built mini-echo in 4.037s, finished at 2024-06-03T00:45:33+0000
+  2024-06-05T00:12:27+0000  mini-echo-20240603.424.entry
+  2024-06-05T00:12:27+0000  mini-echo-20240603.424.tar
+Built mini-echo in 4.038s, finished at 2024-06-05T00:12:28+0000

@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/erickgnavar/tree-sitter-ispell.el.git
 
 Updating /mnt/store/melpa/working/tree-sitter-ispell/
-Checking out 960e68d6c4a296e5ecf10d27bfd8bac42ba4a2ed
+Checking out 07b555016cbff5bf6b8238ba06246b4074aaf7cf
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/tree-sitter-ispell/
-  to /tmp/tree-sitter-ispellMcswvX/tree-sitter-ispell-20240522.1356
+  to /tmp/tree-sitter-ispellGC31Uh/tree-sitter-ispell-20240604.54
     tree-sitter-ispell.el -> tree-sitter-ispell.el
-Created tree-sitter-ispell-20240522.1356.tar containing:
-  tree-sitter-ispell-20240522.1356/
-  tree-sitter-ispell-20240522.1356/tree-sitter-ispell-pkg.el
-  tree-sitter-ispell-20240522.1356/tree-sitter-ispell.el
+Created tree-sitter-ispell-20240604.54.tar containing:
+  tree-sitter-ispell-20240604.54/
+  tree-sitter-ispell-20240604.54/tree-sitter-ispell-pkg.el
+  tree-sitter-ispell-20240604.54/tree-sitter-ispell.el
  ✓ Success:
-  2024-06-03T01:14:03+0000  tree-sitter-ispell-20240522.1356.entry
-  2024-06-03T01:14:03+0000  tree-sitter-ispell-20240522.1356.tar
-Built tree-sitter-ispell in 3.610s, finished at 2024-06-03T01:14:05+0000
+  2024-06-05T00:40:23+0000  tree-sitter-ispell-20240604.54.entry
+  2024-06-05T00:40:23+0000  tree-sitter-ispell-20240604.54.tar
+Built tree-sitter-ispell in 3.548s, finished at 2024-06-05T00:40:24+0000

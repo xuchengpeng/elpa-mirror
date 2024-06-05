@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/ruff-format/
 Checking out af6bd49b48cd1583b05268b7d2efc1c7e1c6a113
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ruff-format/
-  to /tmp/ruff-formatrMEd3X/ruff-format-20231117.2220
+  to /tmp/ruff-format8fSgmY/ruff-format-20231117.2220
     ruff-format.el -> ruff-format.el
 Created ruff-format-20231117.2220.tar containing:
   ruff-format-20231117.2220/
   ruff-format-20231117.2220/ruff-format-pkg.el
   ruff-format-20231117.2220/ruff-format.el
  ✓ Success:
-  2024-06-03T01:04:20+0000  ruff-format-20231117.2220.entry
-  2024-06-03T01:04:20+0000  ruff-format-20231117.2220.tar
-Built ruff-format in 4.393s, finished at 2024-06-03T01:04:21+0000
+  2024-06-05T00:31:33+0000  ruff-format-20231117.2220.entry
+  2024-06-05T00:31:33+0000  ruff-format-20231117.2220.tar
+Built ruff-format in 7.580s, finished at 2024-06-05T00:31:36+0000
