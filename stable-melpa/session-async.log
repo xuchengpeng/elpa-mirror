@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/session-async/
 Checking out 6e361073256740ce546f4fa104045f2b3818ef94
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/session-async/
-  to /tmp/session-asyncJVpS48/session-async-20231125.2106
+  to /tmp/session-asyncjiY4Ma/session-async-20231125.2106
     session-async.el -> session-async.el
 Created session-async-20231125.2106.tar containing:
   session-async-20231125.2106/
   session-async-20231125.2106/session-async-pkg.el
   session-async-20231125.2106/session-async.el
  ✓ Success:
-  2024-06-05T00:32:55+0000  session-async-20231125.2106.entry
-  2024-06-05T00:32:55+0000  session-async-20231125.2106.tar
-Built session-async in 4.891s, finished at 2024-06-05T00:32:58+0000
+  2024-06-06T00:17:47+0000  session-async-20231125.2106.entry
+  2024-06-06T00:17:47+0000  session-async-20231125.2106.tar
+Built session-async in 4.447s, finished at 2024-06-06T00:17:48+0000
