@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/better-shell/
 Checking out 70c787b981caeef8c5f8012b170eb7b9f167cd13
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/better-shell/
-  to /tmp/better-shellB3h6aC/better-shell-20191025.1737
+  to /tmp/better-shellBkZRCp/better-shell-20191025.1737
     better-shell.el -> better-shell.el
 Created better-shell-20191025.1737.tar containing:
   better-shell-20191025.1737/
   better-shell-20191025.1737/better-shell-pkg.el
   better-shell-20191025.1737/better-shell.el
  ✓ Success:
-  2024-06-08T00:33:38+0000  better-shell-20191025.1737.entry
-  2024-06-08T00:33:38+0000  better-shell-20191025.1737.tar
-Built better-shell in 11.218s, finished at 2024-06-08T00:33:44+0000
+  2024-06-10T22:45:30+0000  better-shell-20191025.1737.entry
+  2024-06-10T22:45:30+0000  better-shell-20191025.1737.tar
+Built better-shell in 3.918s, finished at 2024-06-10T22:45:31+0000

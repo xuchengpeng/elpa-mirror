@@ -1,0 +1,28 @@
+Package: wiz
+Fetcher: github
+Source:  https://github.com/zonuexe/emacs-wiz.git
+
+Updating /mnt/store/melpa/working/wiz/
+Checking out 25977a054b9c35c4ab337043efa8a73ed59fb7d6
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/wiz/
+  to /tmp/wiz2SUb48/wiz-20240528.2109
+    wiz-env.el -> wiz-env.el
+    wiz-key.el -> wiz-key.el
+    wiz-kwd.el -> wiz-kwd.el
+    wiz-pkgs.el -> wiz-pkgs.el
+    wiz-shortdoc.el -> wiz-shortdoc.el
+    wiz.el -> wiz.el
+Created wiz-20240528.2109.tar containing:
+  wiz-20240528.2109/
+  wiz-20240528.2109/wiz-env.el
+  wiz-20240528.2109/wiz-key.el
+  wiz-20240528.2109/wiz-kwd.el
+  wiz-20240528.2109/wiz-pkg.el
+  wiz-20240528.2109/wiz-pkgs.el
+  wiz-20240528.2109/wiz-shortdoc.el
+  wiz-20240528.2109/wiz.el
+ ✓ Success:
+  2024-06-11T00:05:17+0000  wiz-20240528.2109.entry
+  2024-06-11T00:05:16+0000  wiz-20240528.2109.tar
+Built wiz in 5.222s, finished at 2024-06-11T00:05:19+0000
