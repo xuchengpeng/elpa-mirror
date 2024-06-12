@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/noman/
 Checking out 61ab9c52273fc03b28881a5ce814b863cf050571
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/noman/
-  to /tmp/noman9vmr5o/noman-20240610.1145
+  to /tmp/nomanB6bhHC/noman-20240610.1145
     noman.el -> noman.el
 Created noman-20240610.1145.tar containing:
   noman-20240610.1145/
   noman-20240610.1145/noman-pkg.el
   noman-20240610.1145/noman.el
  ✓ Success:
-  2024-06-10T23:34:49+0000  noman-20240610.1145.entry
-  2024-06-10T23:34:49+0000  noman-20240610.1145.tar
-Built noman in 3.839s, finished at 2024-06-10T23:34:51+0000
+  2024-06-12T00:14:15+0000  noman-20240610.1145.entry
+  2024-06-12T00:14:15+0000  noman-20240610.1145.tar
+Built noman in 11.201s, finished at 2024-06-12T00:14:20+0000
