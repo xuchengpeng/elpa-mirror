@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/try/
 Checking out 8831ded1784df43a2bd56c25ad3d0650cdb9df1d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/try/
-  to /tmp/tryat9RNO/try-20181204.236
+  to /tmp/trydw336G/try-20181204.236
     try.el -> try.el
 Created try-20181204.236.tar containing:
   try-20181204.236/
   try-20181204.236/try-pkg.el
   try-20181204.236/try.el
  ✓ Success:
-  2024-06-12T00:40:39+0000  try-20181204.236.entry
-  2024-06-12T00:40:39+0000  try-20181204.236.tar
-Built try in 3.774s, finished at 2024-06-12T00:40:41+0000
+  2024-06-13T00:45:44+0000  try-20181204.236.entry
+  2024-06-13T00:45:44+0000  try-20181204.236.tar
+Built try in 5.375s, finished at 2024-06-13T00:45:46+0000

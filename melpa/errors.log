@@ -1,18 +1,13 @@
-2024-06-11T23:20:27+0000  2048-game                  Command `hg purge' exited with non-zero exit-code: 255
-2024-06-11T23:27:34+0000  caser                      Command `hg purge' exited with non-zero exit-code: 255
-2024-06-11T23:36:57+0000  ditz-mode                  Command `hg purge' exited with non-zero exit-code: 255
-2024-06-11T23:41:32+0000  enlightened-theme          Command `hg purge' exited with non-zero exit-code: 255
-2024-06-12T00:03:41+0000  kanban                     Command `hg purge' exited with non-zero exit-code: 255
-2024-06-12T00:07:04+0000  lms                        Command `hg purge' exited with non-zero exit-code: 255
-2024-06-12T00:10:27+0000  minesweeper                Command `hg purge' exited with non-zero exit-code: 255
-2024-06-12T00:18:39+0000  org-pivotal                Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
-2024-06-12T00:19:11+0000  org-parser                 Command `hg purge' exited with non-zero exit-code: 255
-2024-06-12T00:21:05+0000  ox-impress-js              Command `git clone https\://github.com/emacsattic/org-impress-js.git /mnt/store/melpa/working/ox-impress-js/' exited with non-zero exit-code: 128
-2024-06-12T00:23:04+0000  per-buffer-theme           Command `hg purge' exited with non-zero exit-code: 255
-2024-06-12T00:24:21+0000  pmdm                       Command `hg purge' exited with non-zero exit-code: 255
-2024-06-12T00:41:48+0000  use-package-el-get         Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
-2024-06-12T00:45:41+0000  wisp-mode                  Command `hg purge' exited with non-zero exit-code: 255
-2024-06-12T00:47:01+0000  yatex                      Command `hg purge' exited with non-zero exit-code: 255
-2024-06-12T00:47:07+0000  zero-input                 Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
-2024-06-12T00:47:08+0000  zero-input-panel-posframe  Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
-2024-06-12T00:47:45+0000  zpresent                   Command `hg purge' exited with non-zero exit-code: 255
+2024-06-12T23:31:45+0000  2048-game                  Command `hg purge' exited with non-zero exit-code: 255
+2024-06-12T23:38:18+0000  caser                      Command `hg purge' exited with non-zero exit-code: 255
+2024-06-12T23:46:54+0000  ditz-mode                  Command `hg purge' exited with non-zero exit-code: 255
+2024-06-12T23:51:19+0000  enlightened-theme          Command `hg purge' exited with non-zero exit-code: 255
+2024-06-13T00:12:12+0000  kanban                     Command `hg purge' exited with non-zero exit-code: 255
+2024-06-13T00:15:10+0000  lms                        Command `hg purge' exited with non-zero exit-code: 255
+2024-06-13T00:18:38+0000  minesweeper                Command `hg purge' exited with non-zero exit-code: 255
+2024-06-13T00:25:54+0000  org-pivotal                Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
+2024-06-13T00:26:13+0000  org-parser                 Command `hg purge' exited with non-zero exit-code: 255
+2024-06-13T00:28:20+0000  ox-impress-js              Command `git clone https\://github.com/emacsattic/org-impress-js.git /mnt/store/melpa/working/ox-impress-js/' exited with non-zero exit-code: 128
+2024-06-13T00:30:08+0000  per-buffer-theme           Command `hg purge' exited with non-zero exit-code: 255
+2024-06-13T00:31:19+0000  pmdm                       Command `hg purge' exited with non-zero exit-code: 255
+2024-06-13T00:47:08+0000  use-package-el-get         Command `git fetch -f --tags origin' exited with non-zero exit-code: 128

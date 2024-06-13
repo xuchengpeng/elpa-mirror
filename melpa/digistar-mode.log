@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/retroj/digistar-mode.git
 
 Updating /mnt/store/melpa/working/digistar-mode/
-Checking out 546adaccb1f90d6947c2c80c2fab4933f40bc274
+Checking out 4e5d0b463468fcc4a54df1310360ba13b2bdff6a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/digistar-mode/
-  to /tmp/digistar-modeAjbCFm/digistar-mode-20240515.1529
+  to /tmp/digistar-modeqY6MFj/digistar-mode-20240612.1422
     digistar-mode.el -> digistar-mode.el
-Created digistar-mode-20240515.1529.tar containing:
-  digistar-mode-20240515.1529/
-  digistar-mode-20240515.1529/digistar-mode-pkg.el
-  digistar-mode-20240515.1529/digistar-mode.el
+Created digistar-mode-20240612.1422.tar containing:
+  digistar-mode-20240612.1422/
+  digistar-mode-20240612.1422/digistar-mode-pkg.el
+  digistar-mode-20240612.1422/digistar-mode.el
  ✓ Success:
-  2024-06-11T23:35:13+0000  digistar-mode-20240515.1529.entry
-  2024-06-11T23:35:13+0000  digistar-mode-20240515.1529.tar
-Built digistar-mode in 5.110s, finished at 2024-06-11T23:35:15+0000
+  2024-06-12T23:45:30+0000  digistar-mode-20240612.1422.entry
+  2024-06-12T23:45:30+0000  digistar-mode-20240612.1422.tar
+Built digistar-mode in 8.450s, finished at 2024-06-12T23:45:33+0000
