@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/akreisher/eshell-syntax-highlighting.git
 
 Updating /mnt/store/melpa/working/eshell-syntax-highlighting/
-Checking out fa1d368452ebd11727d267076ae568b892fa9cb9
+Checking out b960d036c22f818ccb9c381a2e9cdd89b29b659c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/eshell-syntax-highlighting/
-  to /tmp/eshell-syntax-highlightingd8zhfv/eshell-syntax-highlighting-20240608.211
+  to /tmp/eshell-syntax-highlightingfQFS0a/eshell-syntax-highlighting-20240613.633
     eshell-syntax-highlighting.el -> eshell-syntax-highlighting.el
-Created eshell-syntax-highlighting-20240608.211.tar containing:
-  eshell-syntax-highlighting-20240608.211/
-  eshell-syntax-highlighting-20240608.211/eshell-syntax-highlighting-pkg.el
-  eshell-syntax-highlighting-20240608.211/eshell-syntax-highlighting.el
+Created eshell-syntax-highlighting-20240613.633.tar containing:
+  eshell-syntax-highlighting-20240613.633/
+  eshell-syntax-highlighting-20240613.633/eshell-syntax-highlighting-pkg.el
+  eshell-syntax-highlighting-20240613.633/eshell-syntax-highlighting.el
  ✓ Success:
-  2024-06-12T23:52:09+0000  eshell-syntax-highlighting-20240608.211.entry
-  2024-06-12T23:52:09+0000  eshell-syntax-highlighting-20240608.211.tar
-Built eshell-syntax-highlighting in 3.578s, finished at 2024-06-12T23:52:10+0000
+  2024-06-13T23:31:13+0000  eshell-syntax-highlighting-20240613.633.entry
+  2024-06-13T23:31:13+0000  eshell-syntax-highlighting-20240613.633.tar
+Built eshell-syntax-highlighting in 3.902s, finished at 2024-06-13T23:31:14+0000
