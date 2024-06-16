@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/indicators/
 Checking out 9b80c4545fc5c50332b2748c30d492517ae583b5
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/indicators/
-  to /tmp/indicators4HXPLf/indicators-20240321.2029
+  to /tmp/indicators5a3fcO/indicators-20240321.2029
     indicators.el -> indicators.el
 Created indicators-20240321.2029.tar containing:
   indicators-20240321.2029/
   indicators-20240321.2029/indicators-pkg.el
   indicators-20240321.2029/indicators.el
  ✓ Success:
-  2024-06-15T00:45:33+0000  indicators-20240321.2029.entry
-  2024-06-15T00:45:33+0000  indicators-20240321.2029.tar
-Built indicators in 3.723s, finished at 2024-06-15T00:45:34+0000
+  2024-06-16T00:18:21+0000  indicators-20240321.2029.entry
+  2024-06-16T00:18:21+0000  indicators-20240321.2029.tar
+Built indicators in 3.450s, finished at 2024-06-16T00:18:23+0000

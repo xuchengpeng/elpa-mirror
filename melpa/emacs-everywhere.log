@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/emacs-everywhere/
 Checking out 0b731ca6da351ba40953d090acf69e81757d437b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/emacs-everywhere/
-  to /tmp/emacs-everywhereczTI1c/emacs-everywhere-20240509.1715
+  to /tmp/emacs-everywherelOaZlz/emacs-everywhere-20240509.1715
     emacs-everywhere.el -> emacs-everywhere.el
 Created emacs-everywhere-20240509.1715.tar containing:
   emacs-everywhere-20240509.1715/
   emacs-everywhere-20240509.1715/emacs-everywhere-pkg.el
   emacs-everywhere-20240509.1715/emacs-everywhere.el
  ✓ Success:
-  2024-06-15T00:28:05+0000  emacs-everywhere-20240509.1715.entry
-  2024-06-15T00:28:05+0000  emacs-everywhere-20240509.1715.tar
-Built emacs-everywhere in 4.671s, finished at 2024-06-15T00:28:07+0000
+  2024-06-16T00:00:29+0000  emacs-everywhere-20240509.1715.entry
+  2024-06-16T00:00:29+0000  emacs-everywhere-20240509.1715.tar
+Built emacs-everywhere in 4.337s, finished at 2024-06-16T00:00:31+0000

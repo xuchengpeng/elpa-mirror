@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/hl-prog-extra/
 Checking out f32c04519f544634bd8dedf55d8bc458d9f64766
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/hl-prog-extra/
-  to /tmp/hl-prog-extra4G2TSP/hl-prog-extra-20240422.211
+  to /tmp/hl-prog-extrael8TfY/hl-prog-extra-20240422.211
     hl-prog-extra-preset-c++-mode.el -> hl-prog-extra-preset-c++-mode.el
     hl-prog-extra-preset-c-mode.el -> hl-prog-extra-preset-c-mode.el
     hl-prog-extra-preset-glsl-mode.el -> hl-prog-extra-preset-glsl-mode.el
@@ -23,6 +23,6 @@ Created hl-prog-extra-20240422.211.tar containing:
   hl-prog-extra-20240422.211/hl-prog-extra-preset-python-mode.el
   hl-prog-extra-20240422.211/hl-prog-extra.el
  ✓ Success:
-  2024-06-15T00:43:50+0000  hl-prog-extra-20240422.211.entry
-  2024-06-15T00:43:50+0000  hl-prog-extra-20240422.211.tar
-Built hl-prog-extra in 9.220s, finished at 2024-06-15T00:43:54+0000
+  2024-06-16T00:16:42+0000  hl-prog-extra-20240422.211.entry
+  2024-06-16T00:16:42+0000  hl-prog-extra-20240422.211.tar
+Built hl-prog-extra in 7.885s, finished at 2024-06-16T00:16:45+0000

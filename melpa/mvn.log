@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/mvn/
 Checking out ffa40235b7dabb6c6c165f64f32a963cde8031f0
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mvn/
-  to /tmp/mvnydei9O/mvn-20181002.1617
+  to /tmp/mvnq7na6m/mvn-20181002.1617
     mvn.el -> mvn.el
 Created mvn-20181002.1617.tar containing:
   mvn-20181002.1617/
   mvn-20181002.1617/mvn-pkg.el
   mvn-20181002.1617/mvn.el
  ✓ Success:
-  2024-06-14T22:53:38+0000  mvn-20181002.1617.entry
-  2024-06-14T22:53:38+0000  mvn-20181002.1617.tar
-Built mvn in 3.355s, finished at 2024-06-14T22:53:40+0000
+  2024-06-16T00:29:37+0000  mvn-20181002.1617.entry
+  2024-06-16T00:29:37+0000  mvn-20181002.1617.tar
+Built mvn in 4.279s, finished at 2024-06-16T00:29:39+0000
