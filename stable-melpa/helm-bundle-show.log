@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/helm-bundle-show/
 Checking out 70f1ca7d1847c7d5cd5a3e488562cd4a295b809f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/helm-bundle-show/
-  to /tmp/helm-bundle-showYjnwxq/helm-bundle-show-20190526.1401
+  to /tmp/helm-bundle-showib0LIB/helm-bundle-show-20190526.1401
     helm-bundle-show.el -> helm-bundle-show.el
 Created helm-bundle-show-20190526.1401.tar containing:
   helm-bundle-show-20190526.1401/
   helm-bundle-show-20190526.1401/helm-bundle-show-pkg.el
   helm-bundle-show-20190526.1401/helm-bundle-show.el
  ✓ Success:
-  2024-06-15T00:40:34+0000  helm-bundle-show-20190526.1401.entry
-  2024-06-15T00:40:34+0000  helm-bundle-show-20190526.1401.tar
-Built helm-bundle-show in 3.472s, finished at 2024-06-15T00:40:35+0000
+  2024-06-17T00:50:05+0000  helm-bundle-show-20190526.1401.entry
+  2024-06-17T00:50:05+0000  helm-bundle-show-20190526.1401.tar
+Built helm-bundle-show in 4.582s, finished at 2024-06-17T00:50:07+0000

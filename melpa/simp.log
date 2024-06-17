@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/simp/
 Checking out d4d4b8547055347828bedccbeffdb4fd2d5a5d34
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/simp/
-  to /tmp/simp1gPddu/simp-20180607.254
+  to /tmp/simpw4FIxj/simp-20180607.254
     simp-project-files.el -> simp-project-files.el
     simp-project-git.el -> simp-project-git.el
     simp-project-ibuffer.el -> simp-project-ibuffer.el
@@ -27,6 +27,6 @@ Created simp-20180607.254.tar containing:
   simp-20180607.254/simp-project.el
   simp-20180607.254/simp.el
  ✓ Success:
-  2024-06-16T00:47:16+0000  simp-20180607.254.entry
-  2024-06-16T00:47:16+0000  simp-20180607.254.tar
-Built simp in 3.499s, finished at 2024-06-16T00:47:17+0000
+  2024-06-16T23:17:08+0000  simp-20180607.254.entry
+  2024-06-16T23:17:08+0000  simp-20180607.254.tar
+Built simp in 4.095s, finished at 2024-06-16T23:17:10+0000

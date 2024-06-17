@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/difflib/
 Checking out 646fc4388274fe765bbf4661e17a24e4d081250c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/difflib/
-  to /tmp/difflibJEQfzZ/difflib-20210224.2242
+  to /tmp/difflibTywDEP/difflib-20210224.2242
     difflib.el -> difflib.el
 Created difflib-20210224.2242.tar containing:
   difflib-20210224.2242/
   difflib-20210224.2242/difflib-pkg.el
   difflib-20210224.2242/difflib.el
  ✓ Success:
-  2024-06-15T00:23:10+0000  difflib-20210224.2242.entry
-  2024-06-15T00:23:10+0000  difflib-20210224.2242.tar
-Built difflib in 3.429s, finished at 2024-06-15T00:23:12+0000
+  2024-06-17T00:32:21+0000  difflib-20210224.2242.entry
+  2024-06-17T00:32:21+0000  difflib-20210224.2242.tar
+Built difflib in 3.555s, finished at 2024-06-17T00:32:23+0000

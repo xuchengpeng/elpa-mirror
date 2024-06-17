@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/trinary/
 Checking out d4869d260f22d13a9a71327a6d40edc6980d022e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/trinary/
-  to /tmp/trinaryI6vYPC/trinary-20230301.2044
+  to /tmp/trinary5jklCd/trinary-20230301.2044
     Elsafile.el -> Elsafile.el
     trinary.el -> trinary.el
 Created trinary-20230301.2044.tar containing:
@@ -15,6 +15,6 @@ Created trinary-20230301.2044.tar containing:
   trinary-20230301.2044/trinary-pkg.el
   trinary-20230301.2044/trinary.el
  ✓ Success:
-  2024-06-16T00:54:02+0000  trinary-20230301.2044.entry
-  2024-06-16T00:54:02+0000  trinary-20230301.2044.tar
-Built trinary in 4.521s, finished at 2024-06-16T00:54:03+0000
+  2024-06-16T23:24:19+0000  trinary-20230301.2044.entry
+  2024-06-16T23:24:19+0000  trinary-20230301.2044.tar
+Built trinary in 8.659s, finished at 2024-06-16T23:24:22+0000

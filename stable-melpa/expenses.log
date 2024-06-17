@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/expenses/
 Checking out 1c89ed3969fef7d733a0f52084cfe07d33200104
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/expenses/
-  to /tmp/expensesXhFFZJ/expenses-20230903.306
+  to /tmp/expensesXAGvS5/expenses-20230903.306
     expenses-utils.el -> expenses-utils.el
     expenses.el -> expenses.el
 Created expenses-20230903.306.tar containing:
@@ -15,6 +15,6 @@ Created expenses-20230903.306.tar containing:
   expenses-20230903.306/expenses-utils.el
   expenses-20230903.306/expenses.el
  ✓ Success:
-  2024-06-15T00:31:37+0000  expenses-20230903.306.entry
-  2024-06-15T00:31:37+0000  expenses-20230903.306.tar
-Built expenses in 5.869s, finished at 2024-06-15T00:31:40+0000
+  2024-06-17T00:40:39+0000  expenses-20230903.306.entry
+  2024-06-17T00:40:39+0000  expenses-20230903.306.tar
+Built expenses in 4.126s, finished at 2024-06-17T00:40:41+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/geolocation/
 Checking out 08e3569024659f6f04cb269ad213d144fd8e2a95
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/geolocation/
-  to /tmp/geolocationj30NCl/geolocation-20200317.1559
+  to /tmp/geolocation82ThMk/geolocation-20200317.1559
     geolocation.el -> geolocation.el
 Created geolocation-20200317.1559.tar containing:
   geolocation-20200317.1559/
   geolocation-20200317.1559/geolocation-pkg.el
   geolocation-20200317.1559/geolocation.el
  ✓ Success:
-  2024-06-15T00:36:44+0000  geolocation-20200317.1559.entry
-  2024-06-15T00:36:44+0000  geolocation-20200317.1559.tar
-Built geolocation in 3.915s, finished at 2024-06-15T00:36:46+0000
+  2024-06-17T00:46:10+0000  geolocation-20200317.1559.entry
+  2024-06-17T00:46:10+0000  geolocation-20200317.1559.tar
+Built geolocation in 3.598s, finished at 2024-06-17T00:46:11+0000

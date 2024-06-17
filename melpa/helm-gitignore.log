@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/helm-gitignore/
 Checking out 85c34065e6fceac8fa7287e6ec79ea3d1182d654
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/helm-gitignore/
-  to /tmp/helm-gitignoreZlGfpn/helm-gitignore-20230310.1829
+  to /tmp/helm-gitignoreF1RZA6/helm-gitignore-20230310.1829
     helm-gitignore.el -> helm-gitignore.el
 Created helm-gitignore-20230310.1829.tar containing:
   helm-gitignore-20230310.1829/
   helm-gitignore-20230310.1829/helm-gitignore-pkg.el
   helm-gitignore-20230310.1829/helm-gitignore.el
  ✓ Success:
-  2024-06-16T00:14:09+0000  helm-gitignore-20230310.1829.entry
-  2024-06-16T00:14:09+0000  helm-gitignore-20230310.1829.tar
-Built helm-gitignore in 3.489s, finished at 2024-06-16T00:14:10+0000
+  2024-06-17T00:50:43+0000  helm-gitignore-20230310.1829.entry
+  2024-06-17T00:50:43+0000  helm-gitignore-20230310.1829.tar
+Built helm-gitignore in 3.504s, finished at 2024-06-17T00:50:45+0000

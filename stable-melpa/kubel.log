@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/kubel/
 Checking out eb41a6420d20142e5cd33cd34e17654294c99c86
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/kubel/
-  to /tmp/kubelTGXlX6/kubel-20240419.1521
+  to /tmp/kubel28sEws/kubel-20240419.1521
     kubel.el -> kubel.el
 Created kubel-20240419.1521.tar containing:
   kubel-20240419.1521/
   kubel-20240419.1521/kubel-pkg.el
   kubel-20240419.1521/kubel.el
  ✓ Success:
-  2024-06-15T00:49:17+0000  kubel-20240419.1521.entry
-  2024-06-15T00:49:17+0000  kubel-20240419.1521.tar
-Built kubel in 10.545s, finished at 2024-06-15T00:49:21+0000
+  2024-06-16T22:51:19+0000  kubel-20240419.1521.entry
+  2024-06-16T22:51:19+0000  kubel-20240419.1521.tar
+Built kubel in 4.003s, finished at 2024-06-16T22:51:20+0000

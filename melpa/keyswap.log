@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/keyswap/
 Checking out cd682a7c4a8d64d6bae6a005db5045232e5e7b95
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/keyswap/
-  to /tmp/keyswapiEWorU/keyswap-20160813.957
+  to /tmp/keyswapRoBtii/keyswap-20160813.957
     keyswap.el -> keyswap.el
 Created keyswap-20160813.957.tar containing:
   keyswap-20160813.957/
   keyswap-20160813.957/keyswap-pkg.el
   keyswap-20160813.957/keyswap.el
  ✓ Success:
-  2024-06-16T00:21:58+0000  keyswap-20160813.957.entry
-  2024-06-16T00:21:58+0000  keyswap-20160813.957.tar
-Built keyswap in 6.938s, finished at 2024-06-16T00:22:02+0000
+  2024-06-16T22:50:51+0000  keyswap-20160813.957.entry
+  2024-06-16T22:50:51+0000  keyswap-20160813.957.tar
+Built keyswap in 4.897s, finished at 2024-06-16T22:50:53+0000

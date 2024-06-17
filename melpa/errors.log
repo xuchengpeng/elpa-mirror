@@ -1,14 +1,4 @@
-2024-06-15T23:42:00+0000  2048-game                  Command `hg purge' exited with non-zero exit-code: 255
-2024-06-15T23:48:09+0000  casual                     casual[-pkg].el matching package name is missing
-2024-06-15T23:48:17+0000  cc-isearch-menu            cc-isearch-menu[-pkg].el matching package name is missing
-2024-06-15T23:48:25+0000  caser                      Command `hg purge' exited with non-zero exit-code: 255
-2024-06-15T23:56:42+0000  ditz-mode                  Command `hg purge' exited with non-zero exit-code: 255
-2024-06-16T00:01:37+0000  enlightened-theme          Command `hg purge' exited with non-zero exit-code: 255
-2024-06-16T00:21:43+0000  kanban                     Command `hg purge' exited with non-zero exit-code: 255
-2024-06-16T00:24:53+0000  lms                        Command `hg purge' exited with non-zero exit-code: 255
-2024-06-16T00:27:50+0000  minesweeper                Command `hg purge' exited with non-zero exit-code: 255
-2024-06-16T00:34:59+0000  org-pivotal                Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
-2024-06-16T00:35:17+0000  org-parser                 Command `hg purge' exited with non-zero exit-code: 255
-2024-06-16T00:36:52+0000  ox-impress-js              Command `git clone https\://github.com/emacsattic/org-impress-js.git /mnt/store/melpa/working/ox-impress-js/' exited with non-zero exit-code: 128
-2024-06-16T00:38:38+0000  per-buffer-theme           Command `hg purge' exited with non-zero exit-code: 255
-2024-06-16T00:39:45+0000  pmdm                       Command `hg purge' exited with non-zero exit-code: 255
+2024-06-17T00:18:44+0000  2048-game                  Command `hg purge' exited with non-zero exit-code: 255
+2024-06-17T00:25:05+0000  caser                      Command `hg purge' exited with non-zero exit-code: 255
+2024-06-17T00:33:44+0000  ditz-mode                  Command `hg purge' exited with non-zero exit-code: 255
+2024-06-17T00:38:19+0000  enlightened-theme          Command `hg purge' exited with non-zero exit-code: 255

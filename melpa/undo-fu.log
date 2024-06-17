@@ -3,3 +3,16 @@ Fetcher: codeberg
 Source:  https://codeberg.org/ideasman42/emacs-undo-fu.git
 
 Updating /mnt/store/melpa/working/undo-fu/
+Checking out 3d25c2f5fcd70032797dc2e6250a706f84def4dc
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/undo-fu/
+  to /tmp/undo-fuceYO2b/undo-fu-20240615.1118
+    undo-fu.el -> undo-fu.el
+Created undo-fu-20240615.1118.tar containing:
+  undo-fu-20240615.1118/
+  undo-fu-20240615.1118/undo-fu-pkg.el
+  undo-fu-20240615.1118/undo-fu.el
+ ✓ Success:
+  2024-06-16T23:24:58+0000  undo-fu-20240615.1118.entry
+  2024-06-16T23:24:58+0000  undo-fu-20240615.1118.tar
+Built undo-fu in 4.232s, finished at 2024-06-16T23:24:59+0000
