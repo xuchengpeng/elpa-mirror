@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/immersive-translate/
 Checking out 1d00d558363985fa988fc40cd5093bfc6926d83e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/immersive-translate/
-  to /tmp/immersive-translateclFPjd/immersive-translate-20231001.1557
+  to /tmp/immersive-translateij7Ulv/immersive-translate-20231001.1557
     immersive-translate-baidu.el -> immersive-translate-baidu.el
     immersive-translate-chatgpt.el -> immersive-translate-chatgpt.el
     immersive-translate-curl.el -> immersive-translate-curl.el
@@ -23,6 +23,6 @@ Created immersive-translate-20231001.1557.tar containing:
   immersive-translate-20231001.1557/immersive-translate-trans.el
   immersive-translate-20231001.1557/immersive-translate.el
  ✓ Success:
-  2024-06-16T22:47:01+0000  immersive-translate-20231001.1557.entry
-  2024-06-16T22:47:00+0000  immersive-translate-20231001.1557.tar
-Built immersive-translate in 4.562s, finished at 2024-06-16T22:47:02+0000
+  2024-06-18T00:23:47+0000  immersive-translate-20231001.1557.entry
+  2024-06-18T00:23:47+0000  immersive-translate-20231001.1557.tar
+Built immersive-translate in 5.102s, finished at 2024-06-18T00:23:49+0000

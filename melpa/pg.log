@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/pg/
 Checking out f4906008e787e16221e0daf83bff17295db88ab7
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/pg/
-  to /tmp/pgek2vKa/pg-20240616.810
+  to /tmp/pgtoL4NV/pg-20240616.810
     pg.el -> pg.el
 Created pg-20240616.810.tar containing:
   pg-20240616.810/
   pg-20240616.810/pg-pkg.el
   pg-20240616.810/pg.el
  ✓ Success:
-  2024-06-16T23:08:31+0000  pg-20240616.810.entry
-  2024-06-16T23:08:31+0000  pg-20240616.810.tar
-Built pg in 4.548s, finished at 2024-06-16T23:08:32+0000
+  2024-06-18T00:44:39+0000  pg-20240616.810.entry
+  2024-06-18T00:44:39+0000  pg-20240616.810.tar
+Built pg in 4.025s, finished at 2024-06-18T00:44:41+0000
