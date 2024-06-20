@@ -3,19 +3,19 @@ Fetcher: github
 Source:  https://github.com/pesterhazy/zprint-mode.el.git
 
 Updating /mnt/store/melpa/working/zprint-mode/
-Checking out cd7ae7400177b3c233a77c2a46de818c72375362
+Checking out ac3b25e250c83aedc49d1eab508142e3060e3833
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/zprint-mode/
-  to /tmp/zprint-modeZrUkLb/zprint-mode-20240311.941
+  to /tmp/zprint-modePz63Oh/zprint-mode-20240619.1639
     zprint-mode.el -> zprint-mode.el
     bin => bin
-Created zprint-mode-20240311.941.tar containing:
-  zprint-mode-20240311.941/
-  zprint-mode-20240311.941/bin/
-  zprint-mode-20240311.941/bin/wrap-zprint
-  zprint-mode-20240311.941/zprint-mode-pkg.el
-  zprint-mode-20240311.941/zprint-mode.el
+Created zprint-mode-20240619.1639.tar containing:
+  zprint-mode-20240619.1639/
+  zprint-mode-20240619.1639/bin/
+  zprint-mode-20240619.1639/bin/wrap-zprint
+  zprint-mode-20240619.1639/zprint-mode-pkg.el
+  zprint-mode-20240619.1639/zprint-mode.el
  ✓ Success:
-  2024-06-17T22:59:50+0000  zprint-mode-20240311.941.entry
-  2024-06-17T22:59:50+0000  zprint-mode-20240311.941.tar
-Built zprint-mode in 3.461s, finished at 2024-06-17T22:59:51+0000
+  2024-06-19T23:00:55+0000  zprint-mode-20240619.1639.entry
+  2024-06-19T23:00:54+0000  zprint-mode-20240619.1639.tar
+Built zprint-mode in 3.444s, finished at 2024-06-19T23:00:56+0000
