@@ -3,18 +3,20 @@ Fetcher: github
 Source:  https://github.com/kickingvegas/casual-avy.git
 
 Updating /mnt/store/melpa/working/casual-avy/
-Checking out 2e78a44568632532ef133005670c42becc7d6c58
+Checking out d913b8ad584268b3a1e72d982cbff94b013bb59e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/casual-avy/
-  to /tmp/casual-avyFXTJEg/casual-avy-20240607.11
+  to /tmp/casual-avyrRGUqa/casual-avy-20240620.2204
   ! lisp/casual-avy-version.el -> casual-avy-version.el
   ! lisp/casual-avy.el -> casual-avy.el
-Created casual-avy-20240607.11.tar containing:
-  casual-avy-20240607.11/
-  casual-avy-20240607.11/casual-avy-pkg.el
-  casual-avy-20240607.11/casual-avy-version.el
-  casual-avy-20240607.11/casual-avy.el
+Created casual-avy-20240620.2204.tar containing:
+  casual-avy-20240620.2204/
+  casual-avy-20240620.2204/casual-avy-pkg.el
+  casual-avy-20240620.2204/casual-avy-version.el
+  casual-avy-20240620.2204/casual-avy.el
  ✓ Success:
-  2024-06-19T23:54:56+0000  casual-avy-20240607.11.entry
-  2024-06-19T23:54:56+0000  casual-avy-20240607.11.tar
-Built casual-avy in 3.621s, finished at 2024-06-19T23:54:57+0000
+  2024-06-20T21:23:36+0000  casual-avy-20240620.1857.entry
+  2024-06-20T21:23:36+0000  casual-avy-20240620.1857.tar
+  2024-06-20T23:30:35+0000  casual-avy-20240620.2204.entry
+  2024-06-20T23:30:34+0000  casual-avy-20240620.2204.tar
+Built casual-avy in 6.833s, finished at 2024-06-20T23:30:37+0000
