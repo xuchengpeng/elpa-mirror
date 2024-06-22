@@ -1,18 +1,17 @@
-2024-06-20T23:24:02+0000  2048-game                  Command `hg purge' exited with non-zero exit-code: 255
-2024-06-20T23:30:55+0000  caser                      Command `hg purge' exited with non-zero exit-code: 255
-2024-06-20T23:39:23+0000  ditz-mode                  Command `hg purge' exited with non-zero exit-code: 255
-2024-06-20T23:44:02+0000  enlightened-theme          Command `hg purge' exited with non-zero exit-code: 255
-2024-06-21T00:04:31+0000  kanban                     Command `hg purge' exited with non-zero exit-code: 255
-2024-06-21T00:07:43+0000  lms                        Command `hg purge' exited with non-zero exit-code: 255
-2024-06-21T00:11:08+0000  minesweeper                Command `hg purge' exited with non-zero exit-code: 255
-2024-06-21T00:18:21+0000  org-pivotal                Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
-2024-06-21T00:18:50+0000  org-parser                 Command `hg purge' exited with non-zero exit-code: 255
-2024-06-21T00:20:46+0000  ox-impress-js              Command `git clone https\://github.com/emacsattic/org-impress-js.git /mnt/store/melpa/working/ox-impress-js/' exited with non-zero exit-code: 128
-2024-06-21T00:22:40+0000  per-buffer-theme           Command `hg purge' exited with non-zero exit-code: 255
-2024-06-21T00:23:51+0000  pmdm                       Command `hg purge' exited with non-zero exit-code: 255
-2024-06-21T00:40:09+0000  use-package-el-get         Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
-2024-06-21T00:43:16+0000  wisp-mode                  Command `hg purge' exited with non-zero exit-code: 255
-2024-06-21T00:44:40+0000  yatex                      Command `hg purge' exited with non-zero exit-code: 255
-2024-06-21T00:44:46+0000  zero-input                 Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
-2024-06-21T00:44:47+0000  zero-input-panel-posframe  Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
-2024-06-21T00:45:18+0000  zpresent                   Command `hg purge' exited with non-zero exit-code: 255
+2024-06-21T22:57:08+0000  2048-game                  Command `hg purge' exited with non-zero exit-code: 255
+2024-06-21T23:04:07+0000  caser                      Command `hg purge' exited with non-zero exit-code: 255
+2024-06-21T23:12:44+0000  ditz-mode                  Command `hg purge' exited with non-zero exit-code: 255
+2024-06-21T23:17:56+0000  enlightened-theme          Command `hg purge' exited with non-zero exit-code: 255
+2024-06-21T23:39:01+0000  kanban                     Command `hg purge' exited with non-zero exit-code: 255
+2024-06-21T23:41:45+0000  lms                        Command `hg purge' exited with non-zero exit-code: 255
+2024-06-21T23:45:28+0000  minesweeper                Command `hg purge' exited with non-zero exit-code: 255
+2024-06-21T23:51:18+0000  opencl-mode                opencl-mode[-pkg].el matching package name is missing
+2024-06-21T23:53:04+0000  org-pivotal                Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
+2024-06-21T23:53:21+0000  org-parser                 Command `hg purge' exited with non-zero exit-code: 255
+2024-06-21T23:55:04+0000  ox-impress-js              Command `git clone https\://github.com/emacsattic/org-impress-js.git /mnt/store/melpa/working/ox-impress-js/' exited with non-zero exit-code: 128
+2024-06-21T23:57:27+0000  per-buffer-theme           Command `hg purge' exited with non-zero exit-code: 255
+2024-06-21T23:58:43+0000  pmdm                       Command `hg purge' exited with non-zero exit-code: 255
+2024-06-22T00:15:53+0000  use-package-el-get         Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
+2024-06-22T00:19:18+0000  wisp-mode                  Command `hg purge' exited with non-zero exit-code: 255
+2024-06-22T00:20:55+0000  yatex                      Command `hg purge' exited with non-zero exit-code: 255
+2024-06-22T00:21:46+0000  zpresent                   Command `hg purge' exited with non-zero exit-code: 255
