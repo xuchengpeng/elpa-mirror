@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/treemacs-perspective/
 Checking out bcba09c1581c4bd93ff0217d464aead04f6d26d4
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/treemacs-perspective/
-  to /tmp/treemacs-perspectiveWzFqgX/treemacs-perspective-20240131.2042
+  to /tmp/treemacs-perspectivefS2432/treemacs-perspective-20240131.2042
   ! src/extra/treemacs-perspective.el -> treemacs-perspective.el
 Created treemacs-perspective-20240131.2042.tar containing:
   treemacs-perspective-20240131.2042/
   treemacs-perspective-20240131.2042/treemacs-perspective-pkg.el
   treemacs-perspective-20240131.2042/treemacs-perspective.el
  ✓ Success:
-  2024-06-22T00:14:16+0000  treemacs-perspective-20240131.2042.entry
-  2024-06-22T00:14:16+0000  treemacs-perspective-20240131.2042.tar
-Built treemacs-perspective in 9.164s, finished at 2024-06-22T00:14:20+0000
+  2024-06-23T00:20:49+0000  treemacs-perspective-20240131.2042.entry
+  2024-06-23T00:20:49+0000  treemacs-perspective-20240131.2042.tar
+Built treemacs-perspective in 4.470s, finished at 2024-06-23T00:20:51+0000
