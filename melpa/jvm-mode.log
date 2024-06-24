@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/jvm-mode/
 Checking out 3355dbaf5b0185aadfbad24160399abb32c5bea0
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/jvm-mode/
-  to /tmp/jvm-modeemGkcb/jvm-mode-20150422.708
+  to /tmp/jvm-modedGF4E2/jvm-mode-20150422.708
     jvm-mode.el -> jvm-mode.el
 Created jvm-mode-20150422.708.tar containing:
   jvm-mode-20150422.708/
   jvm-mode-20150422.708/jvm-mode-pkg.el
   jvm-mode-20150422.708/jvm-mode.el
  ✓ Success:
-  2024-06-22T23:45:38+0000  jvm-mode-20150422.708.entry
-  2024-06-22T23:45:38+0000  jvm-mode-20150422.708.tar
-Built jvm-mode in 5.488s, finished at 2024-06-22T23:45:41+0000
+  2024-06-23T23:53:33+0000  jvm-mode-20150422.708.entry
+  2024-06-23T23:53:33+0000  jvm-mode-20150422.708.tar
+Built jvm-mode in 3.573s, finished at 2024-06-23T23:53:35+0000

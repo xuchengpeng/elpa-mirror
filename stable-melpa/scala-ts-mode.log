@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/KaranAhlawat/scala-ts-mode.git
 
 Updating /mnt/store/melpa/working/scala-ts-mode/
-Checking out d9424fa74acf930664c43d4c9f9625d8bfdd4d21
+Checking out 8147803401ada30d0e817c01df73293e0a967c99
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/scala-ts-mode/
-  to /tmp/scala-ts-modeRZCNqA/scala-ts-mode-20240420.1150
+  to /tmp/scala-ts-modeB6NB9w/scala-ts-mode-20240623.905
     scala-ts-mode.el -> scala-ts-mode.el
-Created scala-ts-mode-20240420.1150.tar containing:
-  scala-ts-mode-20240420.1150/
-  scala-ts-mode-20240420.1150/scala-ts-mode-pkg.el
-  scala-ts-mode-20240420.1150/scala-ts-mode.el
+Created scala-ts-mode-20240623.905.tar containing:
+  scala-ts-mode-20240623.905/
+  scala-ts-mode-20240623.905/scala-ts-mode-pkg.el
+  scala-ts-mode-20240623.905/scala-ts-mode.el
  ✓ Success:
-  2024-06-23T00:12:07+0000  scala-ts-mode-20240420.1150.entry
-  2024-06-23T00:12:07+0000  scala-ts-mode-20240420.1150.tar
-Built scala-ts-mode in 4.941s, finished at 2024-06-23T00:12:09+0000
+  2024-06-24T00:20:37+0000  scala-ts-mode-20240623.905.entry
+  2024-06-24T00:20:37+0000  scala-ts-mode-20240623.905.tar
+Built scala-ts-mode in 3.607s, finished at 2024-06-24T00:20:38+0000

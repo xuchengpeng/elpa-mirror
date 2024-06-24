@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/helm-prosjekt/
 Checking out f94f970c2d375e0973b66ba99b29c7aa42fd550f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/helm-prosjekt/
-  to /tmp/helm-prosjektcJaoPP/helm-prosjekt-20140129.717
+  to /tmp/helm-prosjektmir4wk/helm-prosjekt-20140129.717
   ! prosjekt/ext/helm/helm-prosjekt.el -> helm-prosjekt.el
 Created helm-prosjekt-20140129.717.tar containing:
   helm-prosjekt-20140129.717/
   helm-prosjekt-20140129.717/helm-prosjekt-pkg.el
   helm-prosjekt-20140129.717/helm-prosjekt.el
  ✓ Success:
-  2024-06-22T23:39:11+0000  helm-prosjekt-20140129.717.entry
-  2024-06-22T23:39:11+0000  helm-prosjekt-20140129.717.tar
-Built helm-prosjekt in 3.677s, finished at 2024-06-22T23:39:13+0000
+  2024-06-23T23:47:17+0000  helm-prosjekt-20140129.717.entry
+  2024-06-23T23:47:17+0000  helm-prosjekt-20140129.717.tar
+Built helm-prosjekt in 3.649s, finished at 2024-06-23T23:47:18+0000

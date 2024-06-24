@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/casual-dired/
 Checking out ed114d5ca952d8d725a1a2bae8db3ea591b9f67f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/casual-dired/
-  to /tmp/casual-diredttIsFf/casual-dired-20240620.1828
+  to /tmp/casual-diredCn8Pme/casual-dired-20240620.1828
   ! lisp/casual-dired-settings.el -> casual-dired-settings.el
   ! lisp/casual-dired-sort-by.el -> casual-dired-sort-by.el
   ! lisp/casual-dired-utils.el -> casual-dired-utils.el
@@ -23,6 +23,6 @@ Created casual-dired-20240620.1828.tar containing:
   casual-dired-20240620.1828/casual-dired-version.el
   casual-dired-20240620.1828/casual-dired.el
  ✓ Success:
-  2024-06-22T23:11:46+0000  casual-dired-20240620.1828.entry
-  2024-06-22T23:11:46+0000  casual-dired-20240620.1828.tar
-Built casual-dired in 3.671s, finished at 2024-06-22T23:11:47+0000
+  2024-06-23T23:19:50+0000  casual-dired-20240620.1828.entry
+  2024-06-23T23:19:50+0000  casual-dired-20240620.1828.tar
+Built casual-dired in 3.675s, finished at 2024-06-23T23:19:51+0000

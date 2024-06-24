@@ -3,23 +3,23 @@ Fetcher: github
 Source:  https://github.com/magit/transient.git
 
 Updating /mnt/store/melpa/working/transient/
-Checking out 06a87bd0f39dced6fc892fe7f710f008a1dde308
+Checking out edafe7bdb658d6d6baa8fdce953d56745a792e5b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/transient/
-  to /tmp/transientVrOdv8/transient-20240622.1240
+  to /tmp/transientyl66Ff/transient-20240623.1341
   ! lisp/transient.el -> transient.el
   ! docs/gpl.texi -> gpl.texi
   ! docs/transient.texi -> transient.texi
-Generating /tmp/transientVrOdv8/transient-20240622.1240/gpl.info
-Generating /tmp/transientVrOdv8/transient-20240622.1240/transient.info
-Created transient-20240622.1240.tar containing:
-  transient-20240622.1240/
-  transient-20240622.1240/dir
-  transient-20240622.1240/gpl.info
-  transient-20240622.1240/transient-pkg.el
-  transient-20240622.1240/transient.el
-  transient-20240622.1240/transient.info
+Generating /tmp/transientyl66Ff/transient-20240623.1341/gpl.info
+Generating /tmp/transientyl66Ff/transient-20240623.1341/transient.info
+Created transient-20240623.1341.tar containing:
+  transient-20240623.1341/
+  transient-20240623.1341/dir
+  transient-20240623.1341/gpl.info
+  transient-20240623.1341/transient-pkg.el
+  transient-20240623.1341/transient.el
+  transient-20240623.1341/transient.info
  ✓ Success:
-  2024-06-23T00:20:31+0000  transient-20240622.1240.entry
-  2024-06-23T00:20:31+0000  transient-20240622.1240.tar
-Built transient in 12.274s, finished at 2024-06-23T00:20:32+0000
+  2024-06-24T00:28:49+0000  transient-20240623.1341.entry
+  2024-06-24T00:28:49+0000  transient-20240623.1341.tar
+Built transient in 12.960s, finished at 2024-06-24T00:28:51+0000

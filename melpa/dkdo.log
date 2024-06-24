@@ -6,12 +6,12 @@ Updating /mnt/store/melpa/working/dkdo/
 Checking out fd6bb105e8331fafb6385c5238c988c4c5bbe2da
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/dkdo/
-  to /tmp/dkdorELILv/dkdo-20131110.1119
+  to /tmp/dkdobrRpxD/dkdo-20131110.1119
     dkdo-pkg.el -> dkdo-pkg.el
     dkdo.el -> dkdo.el
     dkdo.texi -> dkdo.texi
     sample.do -> sample.do
-Generating /tmp/dkdorELILv/dkdo-20131110.1119/dkdo.info
+Generating /tmp/dkdobrRpxD/dkdo-20131110.1119/dkdo.info
 Created dkdo-20131110.1119.tar containing:
   dkdo-20131110.1119/
   dkdo-20131110.1119/dir
@@ -20,6 +20,6 @@ Created dkdo-20131110.1119.tar containing:
   dkdo-20131110.1119/dkdo.info
   dkdo-20131110.1119/sample.do
  ✓ Success:
-  2024-06-22T23:20:15+0000  dkdo-20131110.1119.entry
-  2024-06-22T23:20:15+0000  dkdo-20131110.1119.tar
-Built dkdo in 7.198s, finished at 2024-06-22T23:20:17+0000
+  2024-06-23T23:28:23+0000  dkdo-20131110.1119.entry
+  2024-06-23T23:28:23+0000  dkdo-20131110.1119.tar
+Built dkdo in 7.014s, finished at 2024-06-23T23:28:25+0000

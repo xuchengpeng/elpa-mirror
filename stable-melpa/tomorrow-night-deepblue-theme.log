@@ -1,0 +1,18 @@
+Package: tomorrow-night-deepblue-theme
+Fetcher: github
+Source:  https://github.com/jamescherti/tomorrow-night-deepblue-theme.el.git
+
+Updating /mnt/store/melpa/working/tomorrow-night-deepblue-theme/
+Checking out 679bb04452419faef3497f004b32fae739dde77b
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/tomorrow-night-deepblue-theme/
+  to /tmp/tomorrow-night-deepblue-themeZTqlNK/tomorrow-night-deepblue-theme-20240619.110
+    tomorrow-night-deepblue-theme.el -> tomorrow-night-deepblue-theme.el
+Created tomorrow-night-deepblue-theme-20240619.110.tar containing:
+  tomorrow-night-deepblue-theme-20240619.110/
+  tomorrow-night-deepblue-theme-20240619.110/tomorrow-night-deepblue-theme-pkg.el
+  tomorrow-night-deepblue-theme-20240619.110/tomorrow-night-deepblue-theme.el
+ ✓ Success:
+  2024-06-24T00:28:24+0000  tomorrow-night-deepblue-theme-20240619.110.entry
+  2024-06-24T00:28:24+0000  tomorrow-night-deepblue-theme-20240619.110.tar
+Built tomorrow-night-deepblue-theme in 3.588s, finished at 2024-06-24T00:28:26+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/python-coverage/
 Checking out 7f130066460ab8a58c2667d9f76a3e2c168e0759
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/python-coverage/
-  to /tmp/python-coverageddLOBd/python-coverage-20240509.856
+  to /tmp/python-coverageJ6xc40/python-coverage-20240509.856
     python-coverage.el -> python-coverage.el
 Created python-coverage-20240509.856.tar containing:
   python-coverage-20240509.856/
   python-coverage-20240509.856/python-coverage-pkg.el
   python-coverage-20240509.856/python-coverage.el
  ✓ Success:
-  2024-06-23T00:08:09+0000  python-coverage-20240509.856.entry
-  2024-06-23T00:08:09+0000  python-coverage-20240509.856.tar
-Built python-coverage in 4.958s, finished at 2024-06-23T00:08:12+0000
+  2024-06-24T00:16:44+0000  python-coverage-20240509.856.entry
+  2024-06-24T00:16:44+0000  python-coverage-20240509.856.tar
+Built python-coverage in 4.061s, finished at 2024-06-24T00:16:46+0000
