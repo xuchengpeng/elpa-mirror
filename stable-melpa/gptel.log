@@ -3,10 +3,10 @@ Fetcher: github
 Source:  https://github.com/karthink/gptel.git
 
 Updating /mnt/store/melpa/working/gptel/
-Checking out 05c4da2c21bc4bc29b44a202761021560d56ac0d
+Checking out 4c0583b2bd6557a09d66dfec84bab776242d0848
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/gptel/
-  to /tmp/gptelZtCxrs/gptel-20240623.1838
+  to /tmp/gptelDUrsBJ/gptel-20240624.136
     gptel-anthropic.el -> gptel-anthropic.el
     gptel-context.el -> gptel-context.el
     gptel-curl.el -> gptel-curl.el
@@ -18,21 +18,21 @@ Copying files (->) and directories (=>)
     gptel-privategpt.el -> gptel-privategpt.el
     gptel-transient.el -> gptel-transient.el
     gptel.el -> gptel.el
-Created gptel-20240623.1838.tar containing:
-  gptel-20240623.1838/
-  gptel-20240623.1838/gptel-anthropic.el
-  gptel-20240623.1838/gptel-context.el
-  gptel-20240623.1838/gptel-curl.el
-  gptel-20240623.1838/gptel-gemini.el
-  gptel-20240623.1838/gptel-kagi.el
-  gptel-20240623.1838/gptel-ollama.el
-  gptel-20240623.1838/gptel-openai.el
-  gptel-20240623.1838/gptel-org.el
-  gptel-20240623.1838/gptel-pkg.el
-  gptel-20240623.1838/gptel-privategpt.el
-  gptel-20240623.1838/gptel-transient.el
-  gptel-20240623.1838/gptel.el
+Created gptel-20240624.136.tar containing:
+  gptel-20240624.136/
+  gptel-20240624.136/gptel-anthropic.el
+  gptel-20240624.136/gptel-context.el
+  gptel-20240624.136/gptel-curl.el
+  gptel-20240624.136/gptel-gemini.el
+  gptel-20240624.136/gptel-kagi.el
+  gptel-20240624.136/gptel-ollama.el
+  gptel-20240624.136/gptel-openai.el
+  gptel-20240624.136/gptel-org.el
+  gptel-20240624.136/gptel-pkg.el
+  gptel-20240624.136/gptel-privategpt.el
+  gptel-20240624.136/gptel-transient.el
+  gptel-20240624.136/gptel.el
  ✓ Success:
-  2024-06-23T23:44:30+0000  gptel-20240623.1838.entry
-  2024-06-23T23:44:30+0000  gptel-20240623.1838.tar
-Built gptel in 4.392s, finished at 2024-06-23T23:44:31+0000
+  2024-06-24T23:15:24+0000  gptel-20240624.136.entry
+  2024-06-24T23:15:24+0000  gptel-20240624.136.tar
+Built gptel in 4.052s, finished at 2024-06-24T23:15:26+0000
