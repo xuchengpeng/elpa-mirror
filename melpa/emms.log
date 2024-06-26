@@ -3,7 +3,7 @@ Fetcher: git
 Source:  https://git.savannah.gnu.org/git/emms.git
 
 Updating /mnt/store/melpa/working/emms/
-Command `git remote set-head origin --auto' exited with non-zero exit-code: 128
-fatal: unable to access 'https://git.savannah.gnu.org/git/emms.git/': The requested URL returned error: 502
+Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
+fatal: unable to access 'https://git.savannah.gnu.org/git/emms.git/': Failed to connect to git.savannah.gnu.org port 443: Connection timed out
 
-Command `git remote set-head origin --auto' exited with non-zero exit-code: 128
+Command `git fetch -f --tags origin' exited with non-zero exit-code: 128

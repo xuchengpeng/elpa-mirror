@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/elpl/
 Checking out 501871ab543b9967bfe87a8a82f83ab96b7f909e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/elpl/
-  to /tmp/elplLCtftB/elpl-20220328.316
+  to /tmp/elpl8iN80B/elpl-20220328.316
     elpl.el -> elpl.el
 Created elpl-20220328.316.tar containing:
   elpl-20220328.316/
   elpl-20220328.316/elpl-pkg.el
   elpl-20220328.316/elpl.el
  ✓ Success:
-  2024-06-24T23:03:12+0000  elpl-20220328.316.entry
-  2024-06-24T23:03:12+0000  elpl-20220328.316.tar
-Built elpl in 3.412s, finished at 2024-06-24T23:03:13+0000
+  2024-06-25T23:44:24+0000  elpl-20220328.316.entry
+  2024-06-25T23:44:24+0000  elpl-20220328.316.tar
+Built elpl in 3.651s, finished at 2024-06-25T23:44:25+0000

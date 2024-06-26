@@ -3,20 +3,22 @@ Fetcher: github
 Source:  https://github.com/federicotdn/verb.git
 
 Updating /mnt/store/melpa/working/verb/
-Checking out 5caa09dd24a3aeefe53ced5250a2ae4e638e576b
+Checking out 559b92c368552923b20ba220fac4a99032486bb1
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/verb/
-  to /tmp/verbHhBSG2/verb-20240609.1723
+  to /tmp/verbqnaz8H/verb-20240625.2335
     ob-verb.el -> ob-verb.el
     verb-util.el -> verb-util.el
     verb.el -> verb.el
-Created verb-20240609.1723.tar containing:
-  verb-20240609.1723/
-  verb-20240609.1723/ob-verb.el
-  verb-20240609.1723/verb-pkg.el
-  verb-20240609.1723/verb-util.el
-  verb-20240609.1723/verb.el
+Created verb-20240625.2335.tar containing:
+  verb-20240625.2335/
+  verb-20240625.2335/ob-verb.el
+  verb-20240625.2335/verb-pkg.el
+  verb-20240625.2335/verb-util.el
+  verb-20240625.2335/verb.el
  ✓ Success:
-  2024-06-25T00:01:38+0000  verb-20240609.1723.entry
-  2024-06-25T00:01:38+0000  verb-20240609.1723.tar
-Built verb in 4.716s, finished at 2024-06-25T00:01:40+0000
+  2024-06-25T22:29:43+0000  verb-20240625.1833.entry
+  2024-06-25T22:29:43+0000  verb-20240625.1833.tar
+  2024-06-26T00:43:47+0000  verb-20240625.2335.entry
+  2024-06-26T00:43:47+0000  verb-20240625.2335.tar
+Built verb in 4.155s, finished at 2024-06-26T00:43:49+0000
