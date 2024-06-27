@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/smoeding/puppet-ts-mode.git
 
 Updating /mnt/store/melpa/working/puppet-ts-mode/
-Checking out 978e11b7e41ed7de3647bdf95045063d56f45aa2
+Checking out 9622188612f3be347bd92f5a195999b36f95f988
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/puppet-ts-mode/
-  to /tmp/puppet-ts-modeJyDUnD/puppet-ts-mode-20240618.1532
+  to /tmp/puppet-ts-modejA8EWs/puppet-ts-mode-20240626.646
     puppet-ts-mode.el -> puppet-ts-mode.el
-Created puppet-ts-mode-20240618.1532.tar containing:
-  puppet-ts-mode-20240618.1532/
-  puppet-ts-mode-20240618.1532/puppet-ts-mode-pkg.el
-  puppet-ts-mode-20240618.1532/puppet-ts-mode.el
+Created puppet-ts-mode-20240626.646.tar containing:
+  puppet-ts-mode-20240626.646/
+  puppet-ts-mode-20240626.646/puppet-ts-mode-pkg.el
+  puppet-ts-mode-20240626.646/puppet-ts-mode.el
  ✓ Success:
-  2024-06-26T00:28:46+0000  puppet-ts-mode-20240618.1532.entry
-  2024-06-26T00:28:46+0000  puppet-ts-mode-20240618.1532.tar
-Built puppet-ts-mode in 4.133s, finished at 2024-06-26T00:28:48+0000
+  2024-06-27T00:48:06+0000  puppet-ts-mode-20240626.646.entry
+  2024-06-27T00:48:06+0000  puppet-ts-mode-20240626.646.tar
+Built puppet-ts-mode in 4.222s, finished at 2024-06-27T00:48:08+0000

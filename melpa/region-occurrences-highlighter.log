@@ -3,16 +3,13 @@ Fetcher: github
 Source:  https://github.com/alvarogonzalezsotillo/region-occurrences-highlighter.git
 
 Updating /mnt/store/melpa/working/region-occurrences-highlighter/
-Checking out 6857e76dd6d4791870ed849928032a22d2b2ea9d
+Checking out 55f9d100ef67f174c55209f8d4cef1962a9adfc2
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/region-occurrences-highlighter/
-  to /tmp/region-occurrences-highlighterLyWtwm/region-occurrences-highlighter-20240625.1002
+  to /tmp/region-occurrences-highlighterJrPjJR/region-occurrences-highlighter-20240626.1101
     region-occurrences-highlighter.el -> region-occurrences-highlighter.el
-Created region-occurrences-highlighter-20240625.1002.tar containing:
-  region-occurrences-highlighter-20240625.1002/
-  region-occurrences-highlighter-20240625.1002/region-occurrences-highlighter-pkg.el
-  region-occurrences-highlighter-20240625.1002/region-occurrences-highlighter.el
+Created region-occurrences-highlighter-20240626.1101.tar containing:
+  region-occurrences-highlighter-20240626.1101/
+  region-occurrences-highlighter-20240626.1101/region-occurrences-highlighter-pkg.el
+  region-occurrences-highlighter-20240626.1101/region-occurrences-highlighter.el
  ✓ Success:
-  2024-06-26T00:30:49+0000  region-occurrences-highlighter-20240625.1002.entry
-  2024-06-26T00:30:49+0000  region-occurrences-highlighter-20240625.1002.tar
-Built region-occurrences-highlighter in 4.868s, finished at 2024-06-26T00:30:52+0000

@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/positron-solutions/dslide.git
 
 Updating /mnt/store/melpa/working/dslide/
-Checking out 8f56d6914d6efce0740b50db5d638afb350581f6
+Checking out 55803bc16a729a1a8ed1e785405feac3cb53878e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/dslide/
-  to /tmp/dslidee8e6NQ/dslide-20240624.17
+  to /tmp/dslide0emjwG/dslide-20240626.125
     dslide.el -> dslide.el
-Created dslide-20240624.17.tar containing:
-  dslide-20240624.17/
-  dslide-20240624.17/dslide-pkg.el
-  dslide-20240624.17/dslide.el
+Created dslide-20240626.125.tar containing:
+  dslide-20240626.125/
+  dslide-20240626.125/dslide-pkg.el
+  dslide-20240626.125/dslide.el
  ✓ Success:
-  2024-06-25T23:41:52+0000  dslide-20240624.17.entry
-  2024-06-25T23:41:52+0000  dslide-20240624.17.tar
-Built dslide in 4.120s, finished at 2024-06-25T23:41:54+0000
+  2024-06-26T23:57:52+0000  dslide-20240626.125.entry
+  2024-06-26T23:57:52+0000  dslide-20240626.125.tar
+Built dslide in 3.720s, finished at 2024-06-26T23:57:54+0000
