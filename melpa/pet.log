@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/wyuenho/emacs-pet.git
 
 Updating /mnt/store/melpa/working/pet/
-Checking out cc086d91a9e6ab0158335d37a774356414746e17
+Checking out 3581980a28b0a96738c9fc71cd18d39fb93ae801
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/pet/
-  to /tmp/pet2LySb9/pet-20240624.1753
+  to /tmp/petz1M0ab/pet-20240628.2107
     pet.el -> pet.el
-Created pet-20240624.1753.tar containing:
-  pet-20240624.1753/
-  pet-20240624.1753/pet-pkg.el
-  pet-20240624.1753/pet.el
+Created pet-20240628.2107.tar containing:
+  pet-20240628.2107/
+  pet-20240628.2107/pet-pkg.el
+  pet-20240628.2107/pet.el
  ✓ Success:
-  2024-06-27T00:44:58+0000  pet-20240624.1753.entry
-  2024-06-27T00:44:58+0000  pet-20240624.1753.tar
-Built pet in 3.900s, finished at 2024-06-27T00:45:00+0000
+  2024-06-29T00:43:40+0000  pet-20240628.2107.entry
+  2024-06-29T00:43:40+0000  pet-20240628.2107.tar
+Built pet in 8.694s, finished at 2024-06-29T00:43:44+0000

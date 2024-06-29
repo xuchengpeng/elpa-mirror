@@ -6,13 +6,10 @@ Updating /mnt/store/melpa/working/register-channel/
 Checking out ed7f563e92170b758dc878fcb5df88d46d5d44cc
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/register-channel/
-  to /tmp/register-channel2YOwev/register-channel-20210120.1618
+  to /tmp/register-channelsSB39K/register-channel-20210120.1618
     register-channel.el -> register-channel.el
 Created register-channel-20210120.1618.tar containing:
   register-channel-20210120.1618/
   register-channel-20210120.1618/register-channel-pkg.el
   register-channel-20210120.1618/register-channel.el
  ✓ Success:
-  2024-06-27T00:50:51+0000  register-channel-20210120.1618.entry
-  2024-06-27T00:50:51+0000  register-channel-20210120.1618.tar
-Built register-channel in 5.543s, finished at 2024-06-27T00:50:54+0000

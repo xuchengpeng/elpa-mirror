@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/joddie/pcre2el.git
 
 Updating /mnt/store/melpa/working/pcre2el/
-Checking out 380723b2701cceb75c266440fb8db918f3340d50
+Checking out 0565b3a7eed1b43287ce72714c67ebb3a61e3aae
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/pcre2el/
-  to /tmp/pcre2elRWi4Fc/pcre2el-20240220.1530
+  to /tmp/pcre2elKir30l/pcre2el-20240628.2105
     pcre2el.el -> pcre2el.el
-Created pcre2el-20240220.1530.tar containing:
-  pcre2el-20240220.1530/
-  pcre2el-20240220.1530/pcre2el-pkg.el
-  pcre2el-20240220.1530/pcre2el.el
+Created pcre2el-20240628.2105.tar containing:
+  pcre2el-20240628.2105/
+  pcre2el-20240628.2105/pcre2el-pkg.el
+  pcre2el-20240628.2105/pcre2el.el
  ✓ Success:
-  2024-06-27T00:44:30+0000  pcre2el-20240220.1530.entry
-  2024-06-27T00:44:29+0000  pcre2el-20240220.1530.tar
-Built pcre2el in 4.122s, finished at 2024-06-27T00:44:31+0000
+  2024-06-29T00:42:59+0000  pcre2el-20240628.2105.entry
+  2024-06-29T00:42:59+0000  pcre2el-20240628.2105.tar
+Built pcre2el in 5.353s, finished at 2024-06-29T00:43:01+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/ranger/
 Checking out 2498519cb21dcd5791d240607a72a204d1761668
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ranger/
-  to /tmp/ranger54384f/ranger-20210125.330
+  to /tmp/rangerV4N1Hj/ranger-20210125.330
     ranger.el -> ranger.el
 Created ranger-20210125.330.tar containing:
   ranger-20210125.330/
   ranger-20210125.330/ranger-pkg.el
   ranger-20210125.330/ranger.el
  ✓ Success:
-  2024-06-27T00:49:35+0000  ranger-20210125.330.entry
-  2024-06-27T00:49:35+0000  ranger-20210125.330.tar
-Built ranger in 6.435s, finished at 2024-06-27T00:49:37+0000
+  2024-06-29T00:48:32+0000  ranger-20210125.330.entry
+  2024-06-29T00:48:32+0000  ranger-20210125.330.tar
+Built ranger in 4.504s, finished at 2024-06-29T00:48:33+0000
