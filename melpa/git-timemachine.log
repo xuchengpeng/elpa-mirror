@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/git-timemachine/
 Checking out 3780835fcd67c3703ffa768206121851e6895ece
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/git-timemachine/
-  to /tmp/git-timemachineBh34Td/git-timemachine-20240427.924
+  to /tmp/git-timemachineAHi2y4/git-timemachine-20240427.924
     git-timemachine.el -> git-timemachine.el
 Created git-timemachine-20240427.924.tar containing:
   git-timemachine-20240427.924/
   git-timemachine-20240427.924/git-timemachine-pkg.el
   git-timemachine-20240427.924/git-timemachine.el
  ✓ Success:
-  2024-07-01T04:58:43+0000  git-timemachine-20240427.924.entry
-  2024-07-01T04:58:43+0000  git-timemachine-20240427.924.tar
-Built git-timemachine in 4.775s, finished at 2024-07-01T04:58:45+0000
+  2024-07-01T09:20:35+0000  git-timemachine-20240427.924.entry
+  2024-07-01T09:20:35+0000  git-timemachine-20240427.924.tar
+Built git-timemachine in 6.013s, finished at 2024-07-01T09:20:38+0000

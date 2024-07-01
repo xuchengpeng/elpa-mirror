@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/diff-ansi/
 Checking out 0338970469375eadd3c0e492997aec2fcb06bb27
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/diff-ansi/
-  to /tmp/diff-ansioUAHyY/diff-ansi-20240616.2345
+  to /tmp/diff-ansiKJvW5s/diff-ansi-20240616.2345
     diff-ansi.el -> diff-ansi.el
 Created diff-ansi-20240616.2345.tar containing:
   diff-ansi-20240616.2345/
   diff-ansi-20240616.2345/diff-ansi-pkg.el
   diff-ansi-20240616.2345/diff-ansi.el
  ✓ Success:
-  2024-07-01T04:44:08+0000  diff-ansi-20240616.2345.entry
-  2024-07-01T04:44:08+0000  diff-ansi-20240616.2345.tar
-Built diff-ansi in 4.766s, finished at 2024-07-01T04:44:10+0000
+  2024-07-01T09:04:40+0000  diff-ansi-20240616.2345.entry
+  2024-07-01T09:04:40+0000  diff-ansi-20240616.2345.tar
+Built diff-ansi in 5.373s, finished at 2024-07-01T09:04:41+0000

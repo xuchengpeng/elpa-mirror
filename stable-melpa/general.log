@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/general/
 Checking out 826bf2b97a0fb4a34c5eb96ec2b172d682fd548f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/general/
-  to /tmp/generalD9Ncr8/general-20240410.1650
+  to /tmp/generalgn1DR9/general-20240410.1650
     general.el -> general.el
 Created general-20240410.1650.tar containing:
   general-20240410.1650/
   general-20240410.1650/general-pkg.el
   general-20240410.1650/general.el
  ✓ Success:
-  2024-07-01T04:58:00+0000  general-20240410.1650.entry
-  2024-07-01T04:58:00+0000  general-20240410.1650.tar
-Built general in 4.392s, finished at 2024-07-01T04:58:03+0000
+  2024-07-01T09:19:51+0000  general-20240410.1650.entry
+  2024-07-01T09:19:50+0000  general-20240410.1650.tar
+Built general in 4.928s, finished at 2024-07-01T09:19:53+0000
