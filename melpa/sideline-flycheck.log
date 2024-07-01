@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/emacs-sideline/sideline-flycheck.git
 
 Updating /mnt/store/melpa/working/sideline-flycheck/
-Checking out 11f34abcd34b55c021453e332e58282654b35a7c
+Checking out 4147f2754c353e0b7920caf385b8dccc5e6301f7
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/sideline-flycheck/
-  to /tmp/sideline-flycheck3UwCdW/sideline-flycheck-20240530.2209
+  to /tmp/sideline-flycheckNYkeRQ/sideline-flycheck-20240629.840
     sideline-flycheck.el -> sideline-flycheck.el
-Created sideline-flycheck-20240530.2209.tar containing:
-  sideline-flycheck-20240530.2209/
-  sideline-flycheck-20240530.2209/sideline-flycheck-pkg.el
-  sideline-flycheck-20240530.2209/sideline-flycheck.el
+Created sideline-flycheck-20240629.840.tar containing:
+  sideline-flycheck-20240629.840/
+  sideline-flycheck-20240629.840/sideline-flycheck-pkg.el
+  sideline-flycheck-20240629.840/sideline-flycheck.el
  ✓ Success:
-  2024-06-28T22:31:21+0000  sideline-flycheck-20240530.2209.entry
-  2024-06-28T22:31:21+0000  sideline-flycheck-20240530.2209.tar
-Built sideline-flycheck in 5.220s, finished at 2024-06-28T22:31:23+0000
+  2024-06-30T23:22:19+0000  sideline-flycheck-20240629.840.entry
+  2024-06-30T23:22:19+0000  sideline-flycheck-20240629.840.tar
+Built sideline-flycheck in 3.739s, finished at 2024-06-30T23:22:21+0000
