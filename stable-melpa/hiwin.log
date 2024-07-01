@@ -8,3 +8,11 @@ Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/hiwin/
   to /tmp/hiwinHkb3ZJ/hiwin-20150825.827
     hiwin.el -> hiwin.el
+Created hiwin-20150825.827.tar containing:
+  hiwin-20150825.827/
+  hiwin-20150825.827/hiwin-pkg.el
+  hiwin-20150825.827/hiwin.el
+ ✓ Success:
+  2024-07-01T00:57:03+0000  hiwin-20150825.827.entry
+  2024-07-01T00:57:03+0000  hiwin-20150825.827.tar
+Built hiwin in 6.797s, finished at 2024-07-01T00:57:06+0000
