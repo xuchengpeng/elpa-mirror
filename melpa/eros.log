@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/eros/
 Checking out a9a92bdc6be0521a6a06eb464be55ed61946639c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/eros/
-  to /tmp/erosXzNb8P/eros-20230309.615
+  to /tmp/eros8kLQma/eros-20230309.615
     eros.el -> eros.el
 Created eros-20230309.615.tar containing:
   eros-20230309.615/
   eros-20230309.615/eros-pkg.el
   eros-20230309.615/eros.el
  ✓ Success:
-  2024-07-01T00:42:17+0000  eros-20230309.615.entry
-  2024-07-01T00:42:17+0000  eros-20230309.615.tar
-Built eros in 8.289s, finished at 2024-07-01T00:42:22+0000
+  2024-07-01T04:50:41+0000  eros-20230309.615.entry
+  2024-07-01T04:50:41+0000  eros-20230309.615.tar
+Built eros in 3.880s, finished at 2024-07-01T04:50:42+0000

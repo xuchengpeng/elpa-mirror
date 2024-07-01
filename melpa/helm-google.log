@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/helm-google/
 Checking out 27834161391c350ef790062391cb7eab1d59fb62
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/helm-google/
-  to /tmp/helm-googlefB1yJc/helm-google-20210527.900
+  to /tmp/helm-googleWdGUQ2/helm-google-20210527.900
     helm-google.el -> helm-google.el
 Created helm-google-20210527.900.tar containing:
   helm-google-20210527.900/
   helm-google-20210527.900/helm-google-pkg.el
   helm-google-20210527.900/helm-google.el
  ✓ Success:
-  2024-07-01T00:54:44+0000  helm-google-20210527.900.entry
-  2024-07-01T00:54:43+0000  helm-google-20210527.900.tar
-Built helm-google in 5.207s, finished at 2024-07-01T00:54:45+0000
+  2024-07-01T05:03:01+0000  helm-google-20210527.900.entry
+  2024-07-01T05:03:01+0000  helm-google-20210527.900.tar
+Built helm-google in 5.584s, finished at 2024-07-01T05:03:04+0000

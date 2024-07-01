@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/kerl/
 Checking out 1732ee26213f021bf040919c45ad276aafcaae14
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/kerl/
-  to /tmp/kerlbC0lPC/kerl-20150424.2005
+  to /tmp/kerlnqfEpa/kerl-20150424.2005
     kerl.el -> kerl.el
 Created kerl-20150424.2005.tar containing:
   kerl-20150424.2005/
   kerl-20150424.2005/kerl-pkg.el
   kerl-20150424.2005/kerl.el
  ✓ Success:
-  2024-07-01T01:02:51+0000  kerl-20150424.2005.entry
-  2024-07-01T01:02:51+0000  kerl-20150424.2005.tar
-Built kerl in 3.766s, finished at 2024-07-01T01:02:53+0000
+  2024-07-01T05:10:36+0000  kerl-20150424.2005.entry
+  2024-07-01T05:10:36+0000  kerl-20150424.2005.tar
+Built kerl in 6.898s, finished at 2024-07-01T05:10:40+0000
