@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/cpanfile-mode/
 Checking out b09908b4342b3aa97940159dbe91ac074ec98e0b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/cpanfile-mode/
-  to /tmp/cpanfile-modec9Uw4B/cpanfile-mode-20161001.710
+  to /tmp/cpanfile-mode9Jm2yU/cpanfile-mode-20161001.710
     cpanfile-mode.el -> cpanfile-mode.el
 Created cpanfile-mode-20161001.710.tar containing:
   cpanfile-mode-20161001.710/
   cpanfile-mode-20161001.710/cpanfile-mode-pkg.el
   cpanfile-mode-20161001.710/cpanfile-mode.el
  ✓ Success:
-  2024-07-01T09:02:04+0000  cpanfile-mode-20161001.710.entry
-  2024-07-01T09:02:04+0000  cpanfile-mode-20161001.710.tar
-Built cpanfile-mode in 3.599s, finished at 2024-07-01T09:02:05+0000
+  2024-07-03T00:43:16+0000  cpanfile-mode-20161001.710.entry
+  2024-07-03T00:43:16+0000  cpanfile-mode-20161001.710.tar
+Built cpanfile-mode in 3.997s, finished at 2024-07-03T00:43:18+0000

@@ -3,10 +3,10 @@ Fetcher: github
 Source:  https://github.com/minad/consult.git
 
 Updating /mnt/store/melpa/working/consult/
-Checking out fe4852280006e61be7f1374d021ee06155ce5a26
+Checking out 8f8cd733c158a2ad9a3bdb9774d04d0f14168975
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/consult/
-  to /tmp/consultRNxOz6/consult-20240523.754
+  to /tmp/consultISG0In/consult-20240702.430
     consult-compile.el -> consult-compile.el
     consult-flymake.el -> consult-flymake.el
     consult-imenu.el -> consult-imenu.el
@@ -16,19 +16,19 @@ Copying files (->) and directories (=>)
     consult-register.el -> consult-register.el
     consult-xref.el -> consult-xref.el
     consult.el -> consult.el
-Created consult-20240523.754.tar containing:
-  consult-20240523.754/
-  consult-20240523.754/consult-compile.el
-  consult-20240523.754/consult-flymake.el
-  consult-20240523.754/consult-imenu.el
-  consult-20240523.754/consult-info.el
-  consult-20240523.754/consult-kmacro.el
-  consult-20240523.754/consult-org.el
-  consult-20240523.754/consult-pkg.el
-  consult-20240523.754/consult-register.el
-  consult-20240523.754/consult-xref.el
-  consult-20240523.754/consult.el
+Created consult-20240702.430.tar containing:
+  consult-20240702.430/
+  consult-20240702.430/consult-compile.el
+  consult-20240702.430/consult-flymake.el
+  consult-20240702.430/consult-imenu.el
+  consult-20240702.430/consult-info.el
+  consult-20240702.430/consult-kmacro.el
+  consult-20240702.430/consult-org.el
+  consult-20240702.430/consult-pkg.el
+  consult-20240702.430/consult-register.el
+  consult-20240702.430/consult-xref.el
+  consult-20240702.430/consult.el
  ✓ Success:
-  2024-07-01T09:01:04+0000  consult-20240523.754.entry
-  2024-07-01T09:01:03+0000  consult-20240523.754.tar
-Built consult in 5.432s, finished at 2024-07-01T09:01:06+0000
+  2024-07-03T00:42:21+0000  consult-20240702.430.entry
+  2024-07-03T00:42:21+0000  consult-20240702.430.tar
+Built consult in 3.500s, finished at 2024-07-03T00:42:22+0000

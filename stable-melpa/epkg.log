@@ -3,32 +3,3 @@ Fetcher: github
 Source:  https://github.com/emacscollective/epkg.git
 
 Updating /mnt/store/melpa/working/epkg/
-Checking out 61d7bce1505f2813659ee2a7d28cb6619b4e9af9
-Copying files (->) and directories (=>)
-  from /mnt/store/melpa/working/epkg/
-  to /tmp/epkgjEAyUf/epkg-20240628.2004
-  ! lisp/epkg-desc.el -> epkg-desc.el
-  ! lisp/epkg-elpa.el -> epkg-elpa.el
-  ! lisp/epkg-list.el -> epkg-list.el
-  ! lisp/epkg-org.el -> epkg-org.el
-  ! lisp/epkg-schemata.el -> epkg-schemata.el
-  ! lisp/epkg-utils.el -> epkg-utils.el
-  ! lisp/epkg.el -> epkg.el
-  ! docs/epkg.texi -> epkg.texi
-Generating /tmp/epkgjEAyUf/epkg-20240628.2004/epkg.info
-Created epkg-20240628.2004.tar containing:
-  epkg-20240628.2004/
-  epkg-20240628.2004/dir
-  epkg-20240628.2004/epkg-desc.el
-  epkg-20240628.2004/epkg-elpa.el
-  epkg-20240628.2004/epkg-list.el
-  epkg-20240628.2004/epkg-org.el
-  epkg-20240628.2004/epkg-pkg.el
-  epkg-20240628.2004/epkg-schemata.el
-  epkg-20240628.2004/epkg-utils.el
-  epkg-20240628.2004/epkg.el
-  epkg-20240628.2004/epkg.info
- ✓ Success:
-  2024-07-01T09:10:46+0000  epkg-20240628.2004.entry
-  2024-07-01T09:10:46+0000  epkg-20240628.2004.tar
-Built epkg in 7.336s, finished at 2024-07-01T09:10:47+0000

@@ -3,18 +3,16 @@ Fetcher: github
 Source:  https://github.com/vietor/agtags.git
 
 Updating /mnt/store/melpa/working/agtags/
-Checking out d400821dd984555b8e698590cd844c1b9fc7f129
+Checking out d47e58d024007d629b5a73c98c7c7e79f64be4d8
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/agtags/
-  to /tmp/agtagsYz4pe8/agtags-20240701.739
+  to /tmp/agtagswo4FLf/agtags-20240701.1433
     agtags.el -> agtags.el
-Created agtags-20240701.739.tar containing:
-  agtags-20240701.739/
-  agtags-20240701.739/agtags-pkg.el
-  agtags-20240701.739/agtags.el
+Created agtags-20240701.1433.tar containing:
+  agtags-20240701.1433/
+  agtags-20240701.1433/agtags-pkg.el
+  agtags-20240701.1433/agtags.el
  ✓ Success:
-  2024-07-01T06:45:43+0000  agtags-20240626.1656.entry
-  2024-07-01T06:45:43+0000  agtags-20240626.1656.tar
-  2024-07-01T08:51:23+0000  agtags-20240701.739.entry
-  2024-07-01T08:51:23+0000  agtags-20240701.739.tar
-Built agtags in 4.075s, finished at 2024-07-01T08:51:26+0000
+  2024-07-03T00:33:44+0000  agtags-20240701.1433.entry
+  2024-07-03T00:33:43+0000  agtags-20240701.1433.tar
+Built agtags in 3.280s, finished at 2024-07-03T00:33:45+0000

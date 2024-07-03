@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/compile-multi/
 Checking out 1fbd38806c70ebe8ebfec49cc7606284396a31e6
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/compile-multi/
-  to /tmp/compile-multiSAlP40/compile-multi-20240507.1829
+  to /tmp/compile-multi5PKo48/compile-multi-20240507.1829
     compile-multi.el -> compile-multi.el
 Created compile-multi-20240507.1829.tar containing:
   compile-multi-20240507.1829/
   compile-multi-20240507.1829/compile-multi-pkg.el
   compile-multi-20240507.1829/compile-multi.el
  ✓ Success:
-  2024-07-01T09:00:51+0000  compile-multi-20240507.1829.entry
-  2024-07-01T09:00:51+0000  compile-multi-20240507.1829.tar
-Built compile-multi in 3.861s, finished at 2024-07-01T09:00:53+0000
+  2024-07-03T00:42:10+0000  compile-multi-20240507.1829.entry
+  2024-07-03T00:42:10+0000  compile-multi-20240507.1829.tar
+Built compile-multi in 3.432s, finished at 2024-07-03T00:42:12+0000
