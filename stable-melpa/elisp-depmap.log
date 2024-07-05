@@ -1,0 +1,26 @@
+Package: elisp-depmap
+Fetcher: gitlab
+Source:  https://gitlab.com/mtekman/elisp-depmap.el.git
+
+Updating /mnt/store/melpa/working/elisp-depmap/
+Checking out 15909462e3f7daf445d3cecf402ee16c7e3263ed
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/elisp-depmap/
+  to /tmp/elisp-depmapGgQv7A/elisp-depmap-20220223.1131
+    elisp-depmap-exec.el -> elisp-depmap-exec.el
+    elisp-depmap-graph.el -> elisp-depmap-graph.el
+    elisp-depmap-parse.el -> elisp-depmap-parse.el
+    elisp-depmap-secondhelp.el -> elisp-depmap-secondhelp.el
+    elisp-depmap.el -> elisp-depmap.el
+Created elisp-depmap-20220223.1131.tar containing:
+  elisp-depmap-20220223.1131/
+  elisp-depmap-20220223.1131/elisp-depmap-exec.el
+  elisp-depmap-20220223.1131/elisp-depmap-graph.el
+  elisp-depmap-20220223.1131/elisp-depmap-parse.el
+  elisp-depmap-20220223.1131/elisp-depmap-pkg.el
+  elisp-depmap-20220223.1131/elisp-depmap-secondhelp.el
+  elisp-depmap-20220223.1131/elisp-depmap.el
+ ✓ Success:
+  2024-07-04T23:08:48+0000  elisp-depmap-20220223.1131.entry
+  2024-07-04T23:08:48+0000  elisp-depmap-20220223.1131.tar
+Built elisp-depmap in 3.599s, finished at 2024-07-04T23:08:49+0000
