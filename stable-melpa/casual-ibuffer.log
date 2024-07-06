@@ -3,24 +3,26 @@ Fetcher: github
 Source:  https://github.com/kickingvegas/casual-ibuffer.git
 
 Updating /mnt/store/melpa/working/casual-ibuffer/
-Checking out fb1d88411343e10c7fbfec25e300725e8c73b419
+Checking out 72a2fa2f42bd3e6378b7c23586c5cd2b6ff02043
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/casual-ibuffer/
-  to /tmp/casual-ibufferEfsTiv/casual-ibuffer-20240701.2144
+  to /tmp/casual-ibufferVKjmPe/casual-ibuffer-20240705.2217
   ! lisp/casual-ibuffer-filter.el -> casual-ibuffer-filter.el
   ! lisp/casual-ibuffer-settings.el -> casual-ibuffer-settings.el
   ! lisp/casual-ibuffer-utils.el -> casual-ibuffer-utils.el
   ! lisp/casual-ibuffer-version.el -> casual-ibuffer-version.el
   ! lisp/casual-ibuffer.el -> casual-ibuffer.el
-Created casual-ibuffer-20240701.2144.tar containing:
-  casual-ibuffer-20240701.2144/
-  casual-ibuffer-20240701.2144/casual-ibuffer-filter.el
-  casual-ibuffer-20240701.2144/casual-ibuffer-pkg.el
-  casual-ibuffer-20240701.2144/casual-ibuffer-settings.el
-  casual-ibuffer-20240701.2144/casual-ibuffer-utils.el
-  casual-ibuffer-20240701.2144/casual-ibuffer-version.el
-  casual-ibuffer-20240701.2144/casual-ibuffer.el
+Created casual-ibuffer-20240705.2217.tar containing:
+  casual-ibuffer-20240705.2217/
+  casual-ibuffer-20240705.2217/casual-ibuffer-filter.el
+  casual-ibuffer-20240705.2217/casual-ibuffer-pkg.el
+  casual-ibuffer-20240705.2217/casual-ibuffer-settings.el
+  casual-ibuffer-20240705.2217/casual-ibuffer-utils.el
+  casual-ibuffer-20240705.2217/casual-ibuffer-version.el
+  casual-ibuffer-20240705.2217/casual-ibuffer.el
  ✓ Success:
-  2024-07-04T22:58:02+0000  casual-ibuffer-20240701.2144.entry
-  2024-07-04T22:58:02+0000  casual-ibuffer-20240701.2144.tar
-Built casual-ibuffer in 5.981s, finished at 2024-07-04T22:58:05+0000
+  2024-07-05T21:29:56+0000  casual-ibuffer-20240701.2144.entry
+  2024-07-05T21:29:56+0000  casual-ibuffer-20240701.2144.tar
+  2024-07-05T23:30:25+0000  casual-ibuffer-20240705.2217.entry
+  2024-07-05T23:30:25+0000  casual-ibuffer-20240705.2217.tar
+Built casual-ibuffer in 3.805s, finished at 2024-07-05T23:30:26+0000
