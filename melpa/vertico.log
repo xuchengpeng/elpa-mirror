@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/vertico/
 Checking out 4498a2589c60cc788d6cb3909964c12c8fbad79a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/vertico/
-  to /tmp/verticocP0KYY/vertico-20240629.921
+  to /tmp/verticoEE4OxE/vertico-20240629.921
     vertico.el -> vertico.el
   ! extensions/vertico-buffer.el -> vertico-buffer.el
   ! extensions/vertico-directory.el -> vertico-directory.el
@@ -37,6 +37,6 @@ Created vertico-20240629.921.tar containing:
   vertico-20240629.921/vertico-unobtrusive.el
   vertico-20240629.921/vertico.el
  ✓ Success:
-  2024-07-06T00:34:30+0000  vertico-20240629.921.entry
-  2024-07-06T00:34:30+0000  vertico-20240629.921.tar
-Built vertico in 3.581s, finished at 2024-07-06T00:34:32+0000
+  2024-07-07T00:31:53+0000  vertico-20240629.921.entry
+  2024-07-07T00:31:53+0000  vertico-20240629.921.tar
+Built vertico in 4.586s, finished at 2024-07-07T00:31:54+0000

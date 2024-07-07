@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/yeetube/
 Checking out 0ce1d6c19a00f4a897f6532131471f524d38b910
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/yeetube/
-  to /tmp/yeetubeZUN7HB/yeetube-20240705.529
+  to /tmp/yeetubeKyMknI/yeetube-20240705.529
     yeetube-mpv.el -> yeetube-mpv.el
     yeetube.el -> yeetube.el
 Created yeetube-20240705.529.tar containing:
@@ -15,6 +15,6 @@ Created yeetube-20240705.529.tar containing:
   yeetube-20240705.529/yeetube-pkg.el
   yeetube-20240705.529/yeetube.el
  ✓ Success:
-  2024-07-06T00:37:36+0000  yeetube-20240705.529.entry
-  2024-07-06T00:37:36+0000  yeetube-20240705.529.tar
-Built yeetube in 4.734s, finished at 2024-07-06T00:37:37+0000
+  2024-07-07T00:35:31+0000  yeetube-20240705.529.entry
+  2024-07-07T00:35:31+0000  yeetube-20240705.529.tar
+Built yeetube in 5.216s, finished at 2024-07-07T00:35:32+0000

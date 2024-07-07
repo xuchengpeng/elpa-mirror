@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/riscv-mode/
 Checking out 8e335b9c93de93ed8dd063d702b0f5ad48eef6d7
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/riscv-mode/
-  to /tmp/riscv-modeqbITF8/riscv-mode-20220916.206
+  to /tmp/riscv-moderjTcrd/riscv-mode-20220916.206
     riscv-mode.el -> riscv-mode.el
 Created riscv-mode-20220916.206.tar containing:
   riscv-mode-20220916.206/
   riscv-mode-20220916.206/riscv-mode-pkg.el
   riscv-mode-20220916.206/riscv-mode.el
  ✓ Success:
-  2024-07-06T00:23:18+0000  riscv-mode-20220916.206.entry
-  2024-07-06T00:23:18+0000  riscv-mode-20220916.206.tar
-Built riscv-mode in 3.399s, finished at 2024-07-06T00:23:20+0000
+  2024-07-07T00:18:10+0000  riscv-mode-20220916.206.entry
+  2024-07-07T00:18:10+0000  riscv-mode-20220916.206.tar
+Built riscv-mode in 3.052s, finished at 2024-07-07T00:18:11+0000
