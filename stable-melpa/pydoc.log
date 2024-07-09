@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/pydoc/
 Checking out c9d8b5249c1b3814da062ed9976e4137d6e8d869
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/pydoc/
-  to /tmp/pydocSX3FiZ/pydoc-20221222.1426
+  to /tmp/pydocC4sg0a/pydoc-20221222.1426
     pydoc.el -> pydoc.el
 Created pydoc-20221222.1426.tar containing:
   pydoc-20221222.1426/
   pydoc-20221222.1426/pydoc-pkg.el
   pydoc-20221222.1426/pydoc.el
  ✓ Success:
-  2024-07-07T00:15:17+0000  pydoc-20221222.1426.entry
-  2024-07-07T00:15:17+0000  pydoc-20221222.1426.tar
-Built pydoc in 5.233s, finished at 2024-07-07T00:15:19+0000
+  2024-07-09T00:31:20+0000  pydoc-20221222.1426.entry
+  2024-07-09T00:31:20+0000  pydoc-20221222.1426.tar
+Built pydoc in 6.349s, finished at 2024-07-09T00:31:22+0000

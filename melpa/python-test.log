@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/python-test/
 Checking out f899975b133539e19ba822e4b0bfd1a28572967e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/python-test/
-  to /tmp/python-testxxSM5b/python-test-20181018.29
+  to /tmp/python-testhZoawi/python-test-20181018.29
     python-test.el -> python-test.el
 Created python-test-20181018.29.tar containing:
   python-test-20181018.29/
   python-test-20181018.29/python-test-pkg.el
   python-test-20181018.29/python-test.el
  ✓ Success:
-  2024-07-07T00:15:44+0000  python-test-20181018.29.entry
-  2024-07-07T00:15:44+0000  python-test-20181018.29.tar
-Built python-test in 3.212s, finished at 2024-07-07T00:15:45+0000
+  2024-07-09T00:31:51+0000  python-test-20181018.29.entry
+  2024-07-09T00:31:51+0000  python-test-20181018.29.tar
+Built python-test in 3.228s, finished at 2024-07-09T00:31:52+0000

@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/tablist/
 Checking out fcd37147121fabdf003a70279cf86fbe08cfac6f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/tablist/
-  to /tmp/tablist9PL3qH/tablist-20231019.1126
+  to /tmp/tablistnyJICV/tablist-20231019.1126
     tablist-filter.el -> tablist-filter.el
     tablist.el -> tablist.el
 Created tablist-20231019.1126.tar containing:
@@ -15,6 +15,6 @@ Created tablist-20231019.1126.tar containing:
   tablist-20231019.1126/tablist-pkg.el
   tablist-20231019.1126/tablist.el
  ✓ Success:
-  2024-07-07T00:26:17+0000  tablist-20231019.1126.entry
-  2024-07-07T00:26:17+0000  tablist-20231019.1126.tar
-Built tablist in 3.205s, finished at 2024-07-07T00:26:18+0000
+  2024-07-09T00:41:58+0000  tablist-20231019.1126.entry
+  2024-07-09T00:41:58+0000  tablist-20231019.1126.tar
+Built tablist in 3.480s, finished at 2024-07-09T00:41:59+0000

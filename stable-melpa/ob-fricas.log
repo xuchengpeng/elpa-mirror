@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/ob-fricas/
 Checking out 742268f6f05f418993dc366bbca9ccc931125748
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ob-fricas/
-  to /tmp/ob-fricasoJY8HH/ob-fricas-20220612.854
+  to /tmp/ob-fricasPFZl1W/ob-fricas-20220612.854
   ! extras/ob-fricas.el -> ob-fricas.el
 Created ob-fricas-20220612.854.tar containing:
   ob-fricas-20220612.854/
   ob-fricas-20220612.854/ob-fricas-pkg.el
   ob-fricas-20220612.854/ob-fricas.el
  ✓ Success:
-  2024-07-07T00:03:14+0000  ob-fricas-20220612.854.entry
-  2024-07-07T00:03:13+0000  ob-fricas-20220612.854.tar
-Built ob-fricas in 3.531s, finished at 2024-07-07T00:03:15+0000
+  2024-07-09T00:19:52+0000  ob-fricas-20220612.854.entry
+  2024-07-09T00:19:52+0000  ob-fricas-20220612.854.tar
+Built ob-fricas in 9.152s, finished at 2024-07-09T00:19:56+0000

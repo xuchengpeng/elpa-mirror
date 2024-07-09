@@ -3,20 +3,20 @@ Fetcher: github
 Source:  https://github.com/emarsden/pg-el.git
 
 Updating /mnt/store/melpa/working/pg/
-Checking out 3bc7ee37ee764ec4c4b617efc7d281fa14fb99c8
+Checking out 3d16f2e30e3dc2ec5c283d80f58730bc8ef4d6cf
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/pg/
-  to /tmp/pgTf2ztI/pg-20240702.1708
+  to /tmp/pgJw8lBe/pg-20240708.1337
     pg-geometry.el -> pg-geometry.el
     pg-lo.el -> pg-lo.el
     pg.el -> pg.el
-Created pg-20240702.1708.tar containing:
-  pg-20240702.1708/
-  pg-20240702.1708/pg-geometry.el
-  pg-20240702.1708/pg-lo.el
-  pg-20240702.1708/pg-pkg.el
-  pg-20240702.1708/pg.el
+Created pg-20240708.1337.tar containing:
+  pg-20240708.1337/
+  pg-20240708.1337/pg-geometry.el
+  pg-20240708.1337/pg-lo.el
+  pg-20240708.1337/pg-pkg.el
+  pg-20240708.1337/pg.el
  ✓ Success:
-  2024-07-07T00:11:16+0000  pg-20240702.1708.entry
-  2024-07-07T00:11:16+0000  pg-20240702.1708.tar
-Built pg in 5.062s, finished at 2024-07-07T00:11:18+0000
+  2024-07-09T00:27:38+0000  pg-20240708.1337.entry
+  2024-07-09T00:27:38+0000  pg-20240708.1337.tar
+Built pg in 3.524s, finished at 2024-07-09T00:27:39+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/wren-mode/
 Checking out 70b1b89f565679a15c8c9c1a9bda98b0d163e83e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/wren-mode/
-  to /tmp/wren-modeCTHPOh/wren-mode-20221227.227
+  to /tmp/wren-modeGbxTIB/wren-mode-20221227.227
     wren-mode.el -> wren-mode.el
 Created wren-mode-20221227.227.tar containing:
   wren-mode-20221227.227/
   wren-mode-20221227.227/wren-mode-pkg.el
   wren-mode-20221227.227/wren-mode.el
  ✓ Success:
-  2024-07-07T00:34:22+0000  wren-mode-20221227.227.entry
-  2024-07-07T00:34:22+0000  wren-mode-20221227.227.tar
-Built wren-mode in 3.295s, finished at 2024-07-07T00:34:23+0000
+  2024-07-09T00:49:49+0000  wren-mode-20221227.227.entry
+  2024-07-09T00:49:49+0000  wren-mode-20221227.227.tar
+Built wren-mode in 2.954s, finished at 2024-07-09T00:49:50+0000
