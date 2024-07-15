@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/tarsius/paren-face.git
 
 Updating /mnt/store/melpa/working/paren-face/
-Checking out b6b60ad39391cde91e36c127714f7658eb4151ff
+Checking out f8f62a312d0c191983955a16257d74fc62523905
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/paren-face/
-  to /tmp/paren-face5ngVbD/paren-face-20240618.1837
+  to /tmp/paren-faceJ9s4GV/paren-face-20240713.1929
     paren-face.el -> paren-face.el
-Created paren-face-20240618.1837.tar containing:
-  paren-face-20240618.1837/
-  paren-face-20240618.1837/paren-face-pkg.el
-  paren-face-20240618.1837/paren-face.el
+Created paren-face-20240713.1929.tar containing:
+  paren-face-20240713.1929/
+  paren-face-20240713.1929/paren-face-pkg.el
+  paren-face-20240713.1929/paren-face.el
  ✓ Success:
-  2024-07-12T23:14:02+0000  paren-face-20240618.1837.entry
-  2024-07-12T23:14:02+0000  paren-face-20240618.1837.tar
-Built paren-face in 3.699s, finished at 2024-07-12T23:14:03+0000
+  2024-07-15T00:00:13+0000  paren-face-20240713.1929.entry
+  2024-07-15T00:00:13+0000  paren-face-20240713.1929.tar
+Built paren-face in 5.491s, finished at 2024-07-15T00:00:15+0000
