@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/cql-mode/
 Checking out d400c046850d3cf404778b2c47d6be4ff84ca04b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/cql-mode/
-  to /tmp/cql-modeDbGSnv/cql-mode-20190315.225
+  to /tmp/cql-mode8gMbuF/cql-mode-20190315.225
     cql-mode.el -> cql-mode.el
 Created cql-mode-20190315.225.tar containing:
   cql-mode-20190315.225/
   cql-mode-20190315.225/cql-mode-pkg.el
   cql-mode-20190315.225/cql-mode.el
  ✓ Success:
-  2024-07-16T00:25:28+0000  cql-mode-20190315.225.entry
-  2024-07-16T00:25:28+0000  cql-mode-20190315.225.tar
-Built cql-mode in 3.143s, finished at 2024-07-16T00:25:29+0000
+  2024-07-17T00:32:07+0000  cql-mode-20190315.225.entry
+  2024-07-17T00:32:07+0000  cql-mode-20190315.225.tar
+Built cql-mode in 3.259s, finished at 2024-07-17T00:32:08+0000

@@ -3,24 +3,26 @@ Fetcher: github
 Source:  https://github.com/sdm-lang/emacs-sdml-mode.git
 
 Updating /mnt/store/melpa/working/sdml-mode/
-Checking out 33e44bfe8fddefc16538407d55da3ca85cfc1a6d
+Checking out a5133f608f50bdac089bb72e6ae5037111132728
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/sdml-mode/
-  to /tmp/sdml-modeJLiiEW/sdml-mode-20240708.1403
+  to /tmp/sdml-mode6MeRNz/sdml-mode-20240716.1826
     sdml-mode-abbrev.el -> sdml-mode-abbrev.el
     sdml-mode-cli.el -> sdml-mode-cli.el
+    sdml-mode-ctags.el -> sdml-mode-ctags.el
     sdml-mode-hl.el -> sdml-mode-hl.el
     sdml-mode-indent.el -> sdml-mode-indent.el
     sdml-mode.el -> sdml-mode.el
-Created sdml-mode-20240708.1403.tar containing:
-  sdml-mode-20240708.1403/
-  sdml-mode-20240708.1403/sdml-mode-abbrev.el
-  sdml-mode-20240708.1403/sdml-mode-cli.el
-  sdml-mode-20240708.1403/sdml-mode-hl.el
-  sdml-mode-20240708.1403/sdml-mode-indent.el
-  sdml-mode-20240708.1403/sdml-mode-pkg.el
-  sdml-mode-20240708.1403/sdml-mode.el
+Created sdml-mode-20240716.1826.tar containing:
+  sdml-mode-20240716.1826/
+  sdml-mode-20240716.1826/sdml-mode-abbrev.el
+  sdml-mode-20240716.1826/sdml-mode-cli.el
+  sdml-mode-20240716.1826/sdml-mode-ctags.el
+  sdml-mode-20240716.1826/sdml-mode-hl.el
+  sdml-mode-20240716.1826/sdml-mode-indent.el
+  sdml-mode-20240716.1826/sdml-mode-pkg.el
+  sdml-mode-20240716.1826/sdml-mode.el
  ✓ Success:
-  2024-07-15T23:00:25+0000  sdml-mode-20240708.1403.entry
-  2024-07-15T23:00:25+0000  sdml-mode-20240708.1403.tar
-Built sdml-mode in 2.968s, finished at 2024-07-15T23:00:26+0000
+  2024-07-16T23:02:52+0000  sdml-mode-20240716.1826.entry
+  2024-07-16T23:02:52+0000  sdml-mode-20240716.1826.tar
+Built sdml-mode in 3.584s, finished at 2024-07-16T23:02:53+0000

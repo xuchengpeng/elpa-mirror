@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/anki-connect/
 Checking out 1324f0c248aa2c6e73d6cf93fad6119d699f7dae
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/anki-connect/
-  to /tmp/anki-connectGTj2rl/anki-connect-20191123.1858
+  to /tmp/anki-connecta8dACM/anki-connect-20191123.1858
     anki-connect.el -> anki-connect.el
 Created anki-connect-20191123.1858.tar containing:
   anki-connect-20191123.1858/
   anki-connect-20191123.1858/anki-connect-pkg.el
   anki-connect-20191123.1858/anki-connect.el
  ✓ Success:
-  2024-07-16T00:14:30+0000  anki-connect-20191123.1858.entry
-  2024-07-16T00:14:30+0000  anki-connect-20191123.1858.tar
-Built anki-connect in 5.292s, finished at 2024-07-16T00:14:31+0000
+  2024-07-17T00:20:56+0000  anki-connect-20191123.1858.entry
+  2024-07-17T00:20:56+0000  anki-connect-20191123.1858.tar
+Built anki-connect in 3.048s, finished at 2024-07-17T00:20:57+0000

@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/gams-mode/
 Checking out cf0fce18ed51aa6b66e672e3f5655faf4631d9cd
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/gams-mode/
-  to /tmp/gams-modeljY3YP/gams-mode-20240502.1456
+  to /tmp/gams-modeDgmkrj/gams-mode-20240502.1456
     gams-mode.el -> gams-mode.el
     gams-logo.xpm -> gams-logo.xpm
     gams-commands.txt -> gams-commands.txt
@@ -17,6 +17,6 @@ Created gams-mode-20240502.1456.tar containing:
   gams-mode-20240502.1456/gams-mode-pkg.el
   gams-mode-20240502.1456/gams-mode.el
  ✓ Success:
-  2024-07-16T00:43:35+0000  gams-mode-20240502.1456.entry
-  2024-07-16T00:43:35+0000  gams-mode-20240502.1456.tar
-Built gams-mode in 3.609s, finished at 2024-07-16T00:43:36+0000
+  2024-07-17T00:50:25+0000  gams-mode-20240502.1456.entry
+  2024-07-17T00:50:25+0000  gams-mode-20240502.1456.tar
+Built gams-mode in 4.683s, finished at 2024-07-17T00:50:26+0000

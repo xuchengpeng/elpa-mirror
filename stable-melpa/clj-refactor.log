@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/clj-refactor/
 Checking out dc1bbc8cdaa723bdbb6669ea7d280625c370755d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/clj-refactor/
-  to /tmp/clj-refactorkHpBxb/clj-refactor-20240310.2054
+  to /tmp/clj-refactorlUeef0/clj-refactor-20240310.2054
     clj-refactor.el -> clj-refactor.el
     CHANGELOG.md -> CHANGELOG.md
 Created clj-refactor-20240310.2054.tar containing:
@@ -15,6 +15,6 @@ Created clj-refactor-20240310.2054.tar containing:
   clj-refactor-20240310.2054/clj-refactor-pkg.el
   clj-refactor-20240310.2054/clj-refactor.el
  ✓ Success:
-  2024-07-16T00:21:37+0000  clj-refactor-20240310.2054.entry
-  2024-07-16T00:21:36+0000  clj-refactor-20240310.2054.tar
-Built clj-refactor in 3.549s, finished at 2024-07-16T00:21:38+0000
+  2024-07-17T00:28:14+0000  clj-refactor-20240310.2054.entry
+  2024-07-17T00:28:14+0000  clj-refactor-20240310.2054.tar
+Built clj-refactor in 3.567s, finished at 2024-07-17T00:28:15+0000

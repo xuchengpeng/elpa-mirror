@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/concurrent/
 Checking out d012a1ab50edcc2c44e3e49006f054dbff47cb6c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/concurrent/
-  to /tmp/concurrentzUzp0Z/concurrent-20170601.435
+  to /tmp/concurrentdePX28/concurrent-20170601.435
     concurrent.el -> concurrent.el
 Created concurrent-20170601.435.tar containing:
   concurrent-20170601.435/
   concurrent-20170601.435/concurrent-pkg.el
   concurrent-20170601.435/concurrent.el
  ✓ Success:
-  2024-07-16T00:24:12+0000  concurrent-20170601.435.entry
-  2024-07-16T00:24:12+0000  concurrent-20170601.435.tar
-Built concurrent in 3.192s, finished at 2024-07-16T00:24:13+0000
+  2024-07-17T00:30:32+0000  concurrent-20170601.435.entry
+  2024-07-17T00:30:32+0000  concurrent-20170601.435.tar
+Built concurrent in 3.352s, finished at 2024-07-17T00:30:33+0000
