@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/apparmor-mode/
 Checking out 66136e99ad507e9b5404e09d01fe6e1828a930c7
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/apparmor-mode/
-  to /tmp/apparmor-modeClllIm/apparmor-mode-20240703.221
+  to /tmp/apparmor-modeSVon7A/apparmor-mode-20240703.221
     apparmor-mode.el -> apparmor-mode.el
 Created apparmor-mode-20240703.221.tar containing:
   apparmor-mode-20240703.221/
   apparmor-mode-20240703.221/apparmor-mode-pkg.el
   apparmor-mode-20240703.221/apparmor-mode.el
  ✓ Success:
-  2024-07-17T00:21:23+0000  apparmor-mode-20240703.221.entry
-  2024-07-17T00:21:23+0000  apparmor-mode-20240703.221.tar
-Built apparmor-mode in 3.247s, finished at 2024-07-17T00:21:24+0000
+  2024-07-18T07:11:48+0000  apparmor-mode-20240703.221.entry
+  2024-07-18T07:11:48+0000  apparmor-mode-20240703.221.tar
+Built apparmor-mode in 3.101s, finished at 2024-07-18T07:11:49+0000

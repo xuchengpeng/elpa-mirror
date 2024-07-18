@@ -3,3 +3,42 @@ Fetcher: github
 Source:  https://github.com/lorniu/go-translate.git
 
 Updating /mnt/store/melpa/working/go-translate/
+Checking out cccaadc65c587073b5aca904ba6809c206bfe386
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/go-translate/
+  to /tmp/go-translatewWYbDr/go-translate-20240718.419
+    go-translate.el -> go-translate.el
+    gt-core.el -> gt-core.el
+    gt-engine-bing.el -> gt-engine-bing.el
+    gt-engine-chatgpt.el -> gt-engine-chatgpt.el
+    gt-engine-deepl.el -> gt-engine-deepl.el
+    gt-engine-echo.el -> gt-engine-echo.el
+    gt-engine-google-rpc.el -> gt-engine-google-rpc.el
+    gt-engine-google.el -> gt-engine-google.el
+    gt-engine-libre.el -> gt-engine-libre.el
+    gt-engine-stardict.el -> gt-engine-stardict.el
+    gt-engine-youdao.el -> gt-engine-youdao.el
+    gt-extension.el -> gt-extension.el
+    gt-faces.el -> gt-faces.el
+    gt-text-utility.el -> gt-text-utility.el
+Created go-translate-20240718.419.tar containing:
+  go-translate-20240718.419/
+  go-translate-20240718.419/go-translate-pkg.el
+  go-translate-20240718.419/go-translate.el
+  go-translate-20240718.419/gt-core.el
+  go-translate-20240718.419/gt-engine-bing.el
+  go-translate-20240718.419/gt-engine-chatgpt.el
+  go-translate-20240718.419/gt-engine-deepl.el
+  go-translate-20240718.419/gt-engine-echo.el
+  go-translate-20240718.419/gt-engine-google-rpc.el
+  go-translate-20240718.419/gt-engine-google.el
+  go-translate-20240718.419/gt-engine-libre.el
+  go-translate-20240718.419/gt-engine-stardict.el
+  go-translate-20240718.419/gt-engine-youdao.el
+  go-translate-20240718.419/gt-extension.el
+  go-translate-20240718.419/gt-faces.el
+  go-translate-20240718.419/gt-text-utility.el
+ ✓ Success:
+  2024-07-18T07:43:19+0000  go-translate-20240718.419.entry
+  2024-07-18T07:43:19+0000  go-translate-20240718.419.tar
+Built go-translate in 5.292s, finished at 2024-07-18T07:43:21+0000

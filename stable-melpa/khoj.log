@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/khoj-ai/khoj.git
 
 Updating /mnt/store/melpa/working/khoj/
-Checking out 9e31ebff936c4aa5e504aefc2f5fd88f1f9d2112
+Checking out 2ab8fb78b1ca8650327c9c99bb42984b3cfbfa4c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/khoj/
-  to /tmp/khojLqWYsl/khoj-20240707.1256
+  to /tmp/khojFvrsqT/khoj-20240717.805
   ! src/interface/emacs/khoj.el -> khoj.el
-Created khoj-20240707.1256.tar containing:
-  khoj-20240707.1256/
-  khoj-20240707.1256/khoj-pkg.el
-  khoj-20240707.1256/khoj.el
+Created khoj-20240717.805.tar containing:
+  khoj-20240717.805/
+  khoj-20240717.805/khoj-pkg.el
+  khoj-20240717.805/khoj.el
  ✓ Success:
-  2024-07-16T22:35:50+0000  khoj-20240707.1256.entry
-  2024-07-16T22:35:49+0000  khoj-20240707.1256.tar
-Built khoj in 3.721s, finished at 2024-07-16T22:35:51+0000
+  2024-07-18T07:55:08+0000  khoj-20240717.805.entry
+  2024-07-18T07:55:08+0000  khoj-20240717.805.tar
+Built khoj in 4.130s, finished at 2024-07-18T07:55:09+0000

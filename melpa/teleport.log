@@ -3,16 +3,18 @@ Fetcher: github
 Source:  https://github.com/caramelhooves/teleport.el.git
 
 Updating /mnt/store/melpa/working/teleport/
-Checking out bfdeb5c5e89665cbce24a1d04fc6cf62835bd18f
+Checking out 929f87990a6ee83dfcb7ebf9f8580828f1281ebb
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/teleport/
-  to /tmp/teleport5BDzXz/teleport-20240712.1820
+  to /tmp/teleportkGwgpc/teleport-20240718.652
     teleport.el -> teleport.el
-Created teleport-20240712.1820.tar containing:
-  teleport-20240712.1820/
-  teleport-20240712.1820/teleport-pkg.el
-  teleport-20240712.1820/teleport.el
+Created teleport-20240718.652.tar containing:
+  teleport-20240718.652/
+  teleport-20240718.652/teleport-pkg.el
+  teleport-20240718.652/teleport.el
  ✓ Success:
-  2024-07-16T23:09:55+0000  teleport-20240712.1820.entry
-  2024-07-16T23:09:55+0000  teleport-20240712.1820.tar
-Built teleport in 5.496s, finished at 2024-07-16T23:09:57+0000
+  2024-07-18T05:56:13+0000  teleport-20240712.1820.entry
+  2024-07-18T05:56:13+0000  teleport-20240712.1820.tar
+  2024-07-18T08:31:23+0000  teleport-20240718.652.entry
+  2024-07-18T08:31:23+0000  teleport-20240718.652.tar
+Built teleport in 6.951s, finished at 2024-07-18T08:31:25+0000

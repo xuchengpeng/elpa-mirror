@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/annotate/
 Checking out bc82194ca5b10a05cab4169f6eacc5c18af61ec0
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/annotate/
-  to /tmp/annotate7rms6Q/annotate-20240509.1144
+  to /tmp/annotatea25PtE/annotate-20240509.1144
     annotate.el -> annotate.el
 Created annotate-20240509.1144.tar containing:
   annotate-20240509.1144/
   annotate-20240509.1144/annotate-pkg.el
   annotate-20240509.1144/annotate.el
  ✓ Success:
-  2024-07-17T00:21:02+0000  annotate-20240509.1144.entry
-  2024-07-17T00:21:01+0000  annotate-20240509.1144.tar
-Built annotate in 3.633s, finished at 2024-07-17T00:21:03+0000
+  2024-07-18T07:11:28+0000  annotate-20240509.1144.entry
+  2024-07-18T07:11:27+0000  annotate-20240509.1144.tar
+Built annotate in 3.732s, finished at 2024-07-18T07:11:29+0000
