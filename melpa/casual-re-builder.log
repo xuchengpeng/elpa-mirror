@@ -3,22 +3,22 @@ Fetcher: github
 Source:  https://github.com/kickingvegas/casual-re-builder.git
 
 Updating /mnt/store/melpa/working/casual-re-builder/
-Checking out e5ae8b2d0ca6d694b803e5952d0135f38e4c2e1b
+Checking out e5bc2c12e9c546d83dde2314d699afa9eec18c0a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/casual-re-builder/
-  to /tmp/casual-re-buildera6uGzf/casual-re-builder-20240714.1923
+  to /tmp/casual-re-builderUxOLee/casual-re-builder-20240718.1754
   ! lisp/casual-re-builder-settings.el -> casual-re-builder-settings.el
   ! lisp/casual-re-builder-utils.el -> casual-re-builder-utils.el
   ! lisp/casual-re-builder-version.el -> casual-re-builder-version.el
   ! lisp/casual-re-builder.el -> casual-re-builder.el
-Created casual-re-builder-20240714.1923.tar containing:
-  casual-re-builder-20240714.1923/
-  casual-re-builder-20240714.1923/casual-re-builder-pkg.el
-  casual-re-builder-20240714.1923/casual-re-builder-settings.el
-  casual-re-builder-20240714.1923/casual-re-builder-utils.el
-  casual-re-builder-20240714.1923/casual-re-builder-version.el
-  casual-re-builder-20240714.1923/casual-re-builder.el
+Created casual-re-builder-20240718.1754.tar containing:
+  casual-re-builder-20240718.1754/
+  casual-re-builder-20240718.1754/casual-re-builder-pkg.el
+  casual-re-builder-20240718.1754/casual-re-builder-settings.el
+  casual-re-builder-20240718.1754/casual-re-builder-utils.el
+  casual-re-builder-20240718.1754/casual-re-builder-version.el
+  casual-re-builder-20240718.1754/casual-re-builder.el
  ✓ Success:
-  2024-07-18T07:16:54+0000  casual-re-builder-20240714.1923.entry
-  2024-07-18T07:16:54+0000  casual-re-builder-20240714.1923.tar
-Built casual-re-builder in 3.423s, finished at 2024-07-18T07:16:55+0000
+  2024-07-18T23:14:35+0000  casual-re-builder-20240718.1754.entry
+  2024-07-18T23:14:35+0000  casual-re-builder-20240718.1754.tar
+Built casual-re-builder in 4.155s, finished at 2024-07-18T23:14:37+0000

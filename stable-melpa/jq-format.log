@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/jq-format/
 Checking out 47e1c5adb89b37b4d53fe01302d8c675913c20e7
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/jq-format/
-  to /tmp/jq-formatkSAI6K/jq-format-20190428.1434
+  to /tmp/jq-formatMlMUkj/jq-format-20190428.1434
     jq-format.el -> jq-format.el
 Created jq-format-20190428.1434.tar containing:
   jq-format-20190428.1434/
   jq-format-20190428.1434/jq-format-pkg.el
   jq-format-20190428.1434/jq-format.el
  ✓ Success:
-  2024-07-18T07:53:13+0000  jq-format-20190428.1434.entry
-  2024-07-18T07:53:13+0000  jq-format-20190428.1434.tar
-Built jq-format in 3.270s, finished at 2024-07-18T07:53:14+0000
+  2024-07-18T23:53:12+0000  jq-format-20190428.1434.entry
+  2024-07-18T23:53:12+0000  jq-format-20190428.1434.tar
+Built jq-format in 3.652s, finished at 2024-07-18T23:53:13+0000

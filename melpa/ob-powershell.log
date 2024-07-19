@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/rkiggen/ob-powershell.git
 
 Updating /mnt/store/melpa/working/ob-powershell/
-Checking out e514efa7fbbdac80082761580ed23fd5ae3abc5d
+Checking out 3f00ffdca27e52e0bac64d6616a4a3054f74a711
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ob-powershell/
-  to /tmp/ob-powershellL34KHr/ob-powershell-20221227.1106
+  to /tmp/ob-powershellXcN4dV/ob-powershell-20240718.1429
     ob-powershell.el -> ob-powershell.el
-Created ob-powershell-20221227.1106.tar containing:
-  ob-powershell-20221227.1106/
-  ob-powershell-20221227.1106/ob-powershell-pkg.el
-  ob-powershell-20221227.1106/ob-powershell.el
+Created ob-powershell-20240718.1429.tar containing:
+  ob-powershell-20240718.1429/
+  ob-powershell-20240718.1429/ob-powershell-pkg.el
+  ob-powershell-20240718.1429/ob-powershell.el
  ✓ Success:
-  2024-07-18T08:07:15+0000  ob-powershell-20221227.1106.entry
-  2024-07-18T08:07:15+0000  ob-powershell-20221227.1106.tar
-Built ob-powershell in 4.678s, finished at 2024-07-18T08:07:16+0000
+  2024-07-19T00:08:32+0000  ob-powershell-20240718.1429.entry
+  2024-07-19T00:08:32+0000  ob-powershell-20240718.1429.tar
+Built ob-powershell in 4.244s, finished at 2024-07-19T00:08:34+0000

@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/elm-mode/
 Checking out 699841865e1bd5b7f2077baa7121510b6bcad3c7
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/elm-mode/
-  to /tmp/elm-modesDwF96/elm-mode-20230315.1122
+  to /tmp/elm-modeIW2mGS/elm-mode-20230315.1122
     elm-defuns.el -> elm-defuns.el
     elm-font-lock.el -> elm-font-lock.el
     elm-format.el -> elm-format.el
@@ -33,6 +33,6 @@ Created elm-mode-20230315.1122.tar containing:
   elm-mode-20230315.1122/elm-util.el
   elm-mode-20230315.1122/elm.tags
  ✓ Success:
-  2024-07-18T07:29:49+0000  elm-mode-20230315.1122.entry
-  2024-07-18T07:29:49+0000  elm-mode-20230315.1122.tar
-Built elm-mode in 3.491s, finished at 2024-07-18T07:29:50+0000
+  2024-07-18T23:28:34+0000  elm-mode-20230315.1122.entry
+  2024-07-18T23:28:33+0000  elm-mode-20230315.1122.tar
+Built elm-mode in 3.714s, finished at 2024-07-18T23:28:35+0000

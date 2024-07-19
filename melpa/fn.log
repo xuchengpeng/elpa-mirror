@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/fn/
 Checking out 98e3fe1b4785e162d9aca978a2db106baa79260f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/fn/
-  to /tmp/fnG6qAXd/fn-20210304.1812
+  to /tmp/fnRrfJyP/fn-20210304.1812
     fn.el -> fn.el
 Created fn-20210304.1812.tar containing:
   fn-20210304.1812/
   fn-20210304.1812/fn-pkg.el
   fn-20210304.1812/fn.el
  ✓ Success:
-  2024-07-18T07:39:29+0000  fn-20210304.1812.entry
-  2024-07-18T07:39:29+0000  fn-20210304.1812.tar
-Built fn in 4.287s, finished at 2024-07-18T07:39:31+0000
+  2024-07-18T23:38:48+0000  fn-20210304.1812.entry
+  2024-07-18T23:38:48+0000  fn-20210304.1812.tar
+Built fn in 4.192s, finished at 2024-07-18T23:38:50+0000
