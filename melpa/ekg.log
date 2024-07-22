@@ -3,10 +3,10 @@ Fetcher: github
 Source:  https://github.com/ahyatt/ekg.git
 
 Updating /mnt/store/melpa/working/ekg/
-Checking out c5f47c02242c06d0f9c810eaa99a5bf5f299957a
+Checking out aa481fa606ea18783ccd721987b312c6df725cfb
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ekg/
-  to /tmp/ekgBCUtIL/ekg-20240717.233
+  to /tmp/ekgelBUXb/ekg-20240721.2119
     ekg-auto-save.el -> ekg-auto-save.el
     ekg-embedding.el -> ekg-embedding.el
     ekg-llm.el -> ekg-llm.el
@@ -16,22 +16,22 @@ Copying files (->) and directories (=>)
     ekg.el -> ekg.el
   ! doc/doclicense.texi -> doclicense.texi
   ! doc/ekg.texi -> ekg.texi
-Generating /tmp/ekgBCUtIL/ekg-20240717.233/doclicense.info
-Generating /tmp/ekgBCUtIL/ekg-20240717.233/ekg.info
-Created ekg-20240717.233.tar containing:
-  ekg-20240717.233/
-  ekg-20240717.233/dir
-  ekg-20240717.233/doclicense.info
-  ekg-20240717.233/ekg-auto-save.el
-  ekg-20240717.233/ekg-embedding.el
-  ekg-20240717.233/ekg-llm.el
-  ekg-20240717.233/ekg-logseq.el
-  ekg-20240717.233/ekg-org-roam.el
-  ekg-20240717.233/ekg-pkg.el
-  ekg-20240717.233/ekg-test-utils.el
-  ekg-20240717.233/ekg.el
-  ekg-20240717.233/ekg.info
+Generating /tmp/ekgelBUXb/ekg-20240721.2119/doclicense.info
+Generating /tmp/ekgelBUXb/ekg-20240721.2119/ekg.info
+Created ekg-20240721.2119.tar containing:
+  ekg-20240721.2119/
+  ekg-20240721.2119/dir
+  ekg-20240721.2119/doclicense.info
+  ekg-20240721.2119/ekg-auto-save.el
+  ekg-20240721.2119/ekg-embedding.el
+  ekg-20240721.2119/ekg-llm.el
+  ekg-20240721.2119/ekg-logseq.el
+  ekg-20240721.2119/ekg-org-roam.el
+  ekg-20240721.2119/ekg-pkg.el
+  ekg-20240721.2119/ekg-test-utils.el
+  ekg-20240721.2119/ekg.el
+  ekg-20240721.2119/ekg.info
  ✓ Success:
-  2024-07-18T23:27:29+0000  ekg-20240717.233.entry
-  2024-07-18T23:27:29+0000  ekg-20240717.233.tar
-Built ekg in 8.928s, finished at 2024-07-18T23:27:30+0000
+  2024-07-22T05:49:11+0000  ekg-20240721.2119.entry
+  2024-07-22T05:49:11+0000  ekg-20240721.2119.tar
+Built ekg in 8.743s, finished at 2024-07-22T05:49:13+0000
