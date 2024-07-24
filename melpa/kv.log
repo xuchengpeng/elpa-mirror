@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/kv/
 Checking out 721148475bce38a70e0b678ba8aa923652e8900e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/kv/
-  to /tmp/kvIXMFQx/kv-20140108.1534
+  to /tmp/kvBgGDXK/kv-20140108.1534
     kv.el -> kv.el
 Created kv-20140108.1534.tar containing:
   kv-20140108.1534/
   kv-20140108.1534/kv-pkg.el
   kv-20140108.1534/kv.el
  ✓ Success:
-  2024-07-23T00:51:19+0000  kv-20140108.1534.entry
-  2024-07-23T00:51:19+0000  kv-20140108.1534.tar
-Built kv in 3.581s, finished at 2024-07-23T00:51:21+0000
+  2024-07-23T23:06:27+0000  kv-20140108.1534.entry
+  2024-07-23T23:06:26+0000  kv-20140108.1534.tar
+Built kv in 4.273s, finished at 2024-07-23T23:06:28+0000
