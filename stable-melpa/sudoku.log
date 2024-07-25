@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/sudoku/
 Checking out b1924fd244a5fa284de9d67b66fbd69164b37318
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/sudoku/
-  to /tmp/sudokume7vRB/sudoku-20191015.1315
+  to /tmp/sudoku17eF2r/sudoku-20191015.1315
     sudoku.el -> sudoku.el
 Created sudoku-20191015.1315.tar containing:
   sudoku-20191015.1315/
   sudoku-20191015.1315/sudoku-pkg.el
   sudoku-20191015.1315/sudoku.el
  ✓ Success:
-  2024-07-23T23:41:50+0000  sudoku-20191015.1315.entry
-  2024-07-23T23:41:50+0000  sudoku-20191015.1315.tar
-Built sudoku in 3.773s, finished at 2024-07-23T23:41:51+0000
+  2024-07-25T00:31:58+0000  sudoku-20191015.1315.entry
+  2024-07-25T00:31:58+0000  sudoku-20191015.1315.tar
+Built sudoku in 4.384s, finished at 2024-07-25T00:32:00+0000

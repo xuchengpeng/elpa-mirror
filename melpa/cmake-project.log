@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/cmake-project/
 Checking out d3f408f226eff3f77f7e00dd519f4efc78fd292d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/cmake-project/
-  to /tmp/cmake-projectKuORVp/cmake-project-20171121.1115
+  to /tmp/cmake-projectn60X2y/cmake-project-20171121.1115
     cmake-project.el -> cmake-project.el
 Created cmake-project-20171121.1115.tar containing:
   cmake-project-20171121.1115/
   cmake-project-20171121.1115/cmake-project-pkg.el
   cmake-project-20171121.1115/cmake-project.el
  ✓ Success:
-  2024-07-23T22:27:07+0000  cmake-project-20171121.1115.entry
-  2024-07-23T22:27:07+0000  cmake-project-20171121.1115.tar
-Built cmake-project in 4.039s, finished at 2024-07-23T22:27:09+0000
+  2024-07-24T23:15:07+0000  cmake-project-20171121.1115.entry
+  2024-07-24T23:15:07+0000  cmake-project-20171121.1115.tar
+Built cmake-project in 4.423s, finished at 2024-07-24T23:15:08+0000

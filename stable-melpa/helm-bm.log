@@ -1,18 +1,18 @@
 Package: helm-bm
 Fetcher: github
-Source:  https://github.com/yasuyk/helm-bm.git
+Source:  https://github.com/thierryvolpiatto/helm-bm.git
 
 Updating /mnt/store/melpa/working/helm-bm/
-Checking out d66341f5646c23178d4d8bffb6cfebe3fb73f1d7
+Checking out 9a34b29d5a034e97f509046f63df66a89278416b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/helm-bm/
-  to /tmp/helm-bmznFTJK/helm-bm-20160321.1331
+  to /tmp/helm-bmVA99D2/helm-bm-20240722.1430
     helm-bm.el -> helm-bm.el
-Created helm-bm-20160321.1331.tar containing:
-  helm-bm-20160321.1331/
-  helm-bm-20160321.1331/helm-bm-pkg.el
-  helm-bm-20160321.1331/helm-bm.el
+Created helm-bm-20240722.1430.tar containing:
+  helm-bm-20240722.1430/
+  helm-bm-20240722.1430/helm-bm-pkg.el
+  helm-bm-20240722.1430/helm-bm.el
  ✓ Success:
-  2024-07-23T22:55:35+0000  helm-bm-20160321.1331.entry
-  2024-07-23T22:55:35+0000  helm-bm-20160321.1331.tar
-Built helm-bm in 3.362s, finished at 2024-07-23T22:55:36+0000
+  2024-07-24T23:44:14+0000  helm-bm-20240722.1430.entry
+  2024-07-24T23:44:14+0000  helm-bm-20240722.1430.tar
+Built helm-bm in 3.883s, finished at 2024-07-24T23:44:16+0000
