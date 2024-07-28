@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/code-archive/
 Checking out 1ad9af6679d0294c3056eab9cad673f29c562721
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/code-archive/
-  to /tmp/code-archivebWR9Hf/code-archive-20190612.308
+  to /tmp/code-archiveLO9YdT/code-archive-20190612.308
     code-archive.el -> code-archive.el
 Created code-archive-20190612.308.tar containing:
   code-archive-20190612.308/
   code-archive-20190612.308/code-archive-pkg.el
   code-archive-20190612.308/code-archive.el
  ✓ Success:
-  2024-07-24T23:15:15+0000  code-archive-20190612.308.entry
-  2024-07-24T23:15:15+0000  code-archive-20190612.308.tar
-Built code-archive in 3.766s, finished at 2024-07-24T23:15:16+0000
+  2024-07-28T00:49:59+0000  code-archive-20190612.308.entry
+  2024-07-28T00:49:59+0000  code-archive-20190612.308.tar
+Built code-archive in 6.256s, finished at 2024-07-28T00:50:01+0000
