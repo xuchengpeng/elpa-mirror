@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/DCsunset/modaled.git
 
 Updating /mnt/store/melpa/working/modaled/
-Checking out 05ae048aebeddc99393da342a00ce3e61d2c2021
+Checking out 9a60234760b937728ebdec42b378edf99f29a484
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/modaled/
-  to /tmp/modaledzVN4qO/modaled-20240721.1420
+  to /tmp/modaledw3AwQd/modaled-20240728.1414
     modaled.el -> modaled.el
-Created modaled-20240721.1420.tar containing:
-  modaled-20240721.1420/
-  modaled-20240721.1420/modaled-pkg.el
-  modaled-20240721.1420/modaled.el
+Created modaled-20240728.1414.tar containing:
+  modaled-20240728.1414/
+  modaled-20240728.1414/modaled-pkg.el
+  modaled-20240728.1414/modaled.el
  ✓ Success:
-  2024-07-27T22:42:58+0000  modaled-20240721.1420.entry
-  2024-07-27T22:42:58+0000  modaled-20240721.1420.tar
-Built modaled in 4.546s, finished at 2024-07-27T22:43:00+0000
+  2024-07-30T03:09:36+0000  modaled-20240728.1414.entry
+  2024-07-30T03:09:36+0000  modaled-20240728.1414.tar
+Built modaled in 3.893s, finished at 2024-07-30T03:09:38+0000

@@ -1,0 +1,18 @@
+Package: helix-theme
+Fetcher: github
+Source:  https://github.com/ibakepunk/helix-theme.git
+
+Updating /mnt/store/melpa/working/helix-theme/
+Checking out fe1c95a93142020338a7de2a7984c5cd0018fbf4
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/helix-theme/
+  to /tmp/helix-themetPNpLg/helix-theme-20240729.1203
+    helix-theme.el -> helix-theme.el
+Created helix-theme-20240729.1203.tar containing:
+  helix-theme-20240729.1203/
+  helix-theme-20240729.1203/helix-theme-pkg.el
+  helix-theme-20240729.1203/helix-theme.el
+ ✓ Success:
+  2024-07-30T02:51:10+0000  helix-theme-20240729.1203.entry
+  2024-07-30T02:51:10+0000  helix-theme-20240729.1203.tar
+Built helix-theme in 3.660s, finished at 2024-07-30T02:51:11+0000

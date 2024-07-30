@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/fxbois/web-mode.git
 
 Updating /mnt/store/melpa/working/web-mode/
-Checking out 005aa62d6f41fbf9bc045cac3b3b772716ee8ba7
+Checking out 2815efbd5b8b0789cdebd47697eae815ce8eeb5f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/web-mode/
-  to /tmp/web-modeQ2LABo/web-mode-20240413.1455
+  to /tmp/web-modeIaCjWJ/web-mode-20240729.1537
     web-mode.el -> web-mode.el
-Created web-mode-20240413.1455.tar containing:
-  web-mode-20240413.1455/
-  web-mode-20240413.1455/web-mode-pkg.el
-  web-mode-20240413.1455/web-mode.el
+Created web-mode-20240729.1537.tar containing:
+  web-mode-20240729.1537/
+  web-mode-20240729.1537/web-mode-pkg.el
+  web-mode-20240729.1537/web-mode.el
  ✓ Success:
-  2024-07-27T23:23:06+0000  web-mode-20240413.1455.entry
-  2024-07-27T23:23:06+0000  web-mode-20240413.1455.tar
-Built web-mode in 5.990s, finished at 2024-07-27T23:23:08+0000
+  2024-07-30T03:45:45+0000  web-mode-20240729.1537.entry
+  2024-07-30T03:45:45+0000  web-mode-20240729.1537.tar
+Built web-mode in 5.492s, finished at 2024-07-30T03:45:47+0000
