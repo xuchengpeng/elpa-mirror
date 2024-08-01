@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/tramp-hdfs/
 Checking out aa93bdbb3d5619c262ce53af1981edcd2a0705e5
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/tramp-hdfs/
-  to /tmp/tramp-hdfsPfCXjd/tramp-hdfs-20210526.339
+  to /tmp/tramp-hdfsYujEp4/tramp-hdfs-20210526.339
     tramp-hdfs.el -> tramp-hdfs.el
 Created tramp-hdfs-20210526.339.tar containing:
   tramp-hdfs-20210526.339/
   tramp-hdfs-20210526.339/tramp-hdfs-pkg.el
   tramp-hdfs-20210526.339/tramp-hdfs.el
  ✓ Success:
-  2024-07-30T03:41:33+0000  tramp-hdfs-20210526.339.entry
-  2024-07-30T03:41:33+0000  tramp-hdfs-20210526.339.tar
-Built tramp-hdfs in 6.318s, finished at 2024-07-30T03:41:35+0000
+  2024-08-01T00:46:21+0000  tramp-hdfs-20210526.339.entry
+  2024-08-01T00:46:21+0000  tramp-hdfs-20210526.339.tar
+Built tramp-hdfs in 5.864s, finished at 2024-08-01T00:46:23+0000

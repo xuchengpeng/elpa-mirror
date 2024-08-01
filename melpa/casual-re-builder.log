@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/casual-re-builder/
 Checking out f52e0f2ae1faee0d2988fe701880f13fda66ab86
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/casual-re-builder/
-  to /tmp/casual-re-builderJoZd6B/casual-re-builder-20240730.49
+  to /tmp/casual-re-builder7egxGJ/casual-re-builder-20240730.49
   ! lisp/casual-re-builder-settings.el -> casual-re-builder-settings.el
   ! lisp/casual-re-builder-utils.el -> casual-re-builder-utils.el
   ! lisp/casual-re-builder-version.el -> casual-re-builder-version.el
@@ -19,8 +19,6 @@ Created casual-re-builder-20240730.49.tar containing:
   casual-re-builder-20240730.49/casual-re-builder-version.el
   casual-re-builder-20240730.49/casual-re-builder.el
  ✓ Success:
-  2024-07-29T23:38:08+0000  casual-re-builder-20240718.1754.entry
-  2024-07-29T23:38:08+0000  casual-re-builder-20240718.1754.tar
-  2024-07-30T02:20:48+0000  casual-re-builder-20240730.49.entry
-  2024-07-30T02:20:48+0000  casual-re-builder-20240730.49.tar
-Built casual-re-builder in 3.916s, finished at 2024-07-30T02:20:49+0000
+  2024-07-31T23:30:41+0000  casual-re-builder-20240730.49.entry
+  2024-07-31T23:30:41+0000  casual-re-builder-20240730.49.tar
+Built casual-re-builder in 3.989s, finished at 2024-07-31T23:30:43+0000

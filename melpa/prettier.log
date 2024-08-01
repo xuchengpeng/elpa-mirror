@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/prettier/
 Checking out 53327f039f2d4f3fd1eabece190857059b3765b5
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/prettier/
-  to /tmp/prettier2ehDik/prettier-20240601.1316
+  to /tmp/prettierPjJnqW/prettier-20240601.1316
     prettier.el -> prettier.el
     dir -> dir
     prettier.info -> prettier.info
@@ -21,6 +21,6 @@ Created prettier-20240601.1316.tar containing:
   prettier-20240601.1316/prettier.el
   prettier-20240601.1316/prettier.info
  ✓ Success:
-  2024-07-30T03:25:18+0000  prettier-20240601.1316.entry
-  2024-07-30T03:25:18+0000  prettier-20240601.1316.tar
-Built prettier in 4.301s, finished at 2024-07-30T03:25:20+0000
+  2024-08-01T00:31:09+0000  prettier-20240601.1316.entry
+  2024-08-01T00:31:09+0000  prettier-20240601.1316.tar
+Built prettier in 3.912s, finished at 2024-08-01T00:31:10+0000

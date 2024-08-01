@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/vulpea/
 Checking out f10da46d16af259aba7d703551b4aea42be8bad9
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/vulpea/
-  to /tmp/vulpeaHJEeEX/vulpea-20240716.1704
+  to /tmp/vulpeaQELtu9/vulpea-20240716.1704
     vulpea-buffer.el -> vulpea-buffer.el
     vulpea-db.el -> vulpea-db.el
     vulpea-meta.el -> vulpea-meta.el
@@ -25,6 +25,6 @@ Created vulpea-20240716.1704.tar containing:
   vulpea-20240716.1704/vulpea-utils.el
   vulpea-20240716.1704/vulpea.el
  ✓ Success:
-  2024-07-30T03:45:12+0000  vulpea-20240716.1704.entry
-  2024-07-30T03:45:12+0000  vulpea-20240716.1704.tar
-Built vulpea in 4.172s, finished at 2024-07-30T03:45:13+0000
+  2024-08-01T00:50:10+0000  vulpea-20240716.1704.entry
+  2024-08-01T00:50:10+0000  vulpea-20240716.1704.tar
+Built vulpea in 4.813s, finished at 2024-08-01T00:50:11+0000

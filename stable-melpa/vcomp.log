@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/vcomp/
 Checking out 99831d234481a61488aca4b96b842b63a79c732a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/vcomp/
-  to /tmp/vcomp9KmYao/vcomp-20240302.2255
+  to /tmp/vcompSqeJnk/vcomp-20240302.2255
     vcomp.el -> vcomp.el
 Created vcomp-20240302.2255.tar containing:
   vcomp-20240302.2255/
   vcomp-20240302.2255/vcomp-pkg.el
   vcomp-20240302.2255/vcomp.el
  ✓ Success:
-  2024-07-30T03:44:12+0000  vcomp-20240302.2255.entry
-  2024-07-30T03:44:12+0000  vcomp-20240302.2255.tar
-Built vcomp in 4.289s, finished at 2024-07-30T03:44:13+0000
+  2024-08-01T00:49:10+0000  vcomp-20240302.2255.entry
+  2024-08-01T00:49:10+0000  vcomp-20240302.2255.tar
+Built vcomp in 4.770s, finished at 2024-08-01T00:49:12+0000

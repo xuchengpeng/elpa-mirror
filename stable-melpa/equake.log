@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/equake/
 Checking out 40dd6be8310889ef73ded4319a5bf4f88745c864
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/equake/
-  to /tmp/equakevp6su1/equake-20240724.114
+  to /tmp/equake7BgwJK/equake-20240724.114
     equake.el -> equake.el
 Created equake-20240724.114.tar containing:
   equake-20240724.114/
   equake-20240724.114/equake-pkg.el
   equake-20240724.114/equake.el
  ✓ Success:
-  2024-07-30T02:36:55+0000  equake-20240724.114.entry
-  2024-07-30T02:36:55+0000  equake-20240724.114.tar
-Built equake in 3.488s, finished at 2024-07-30T02:36:56+0000
+  2024-07-31T23:45:08+0000  equake-20240724.114.entry
+  2024-07-31T23:45:08+0000  equake-20240724.114.tar
+Built equake in 3.629s, finished at 2024-07-31T23:45:10+0000

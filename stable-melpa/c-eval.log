@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/c-eval/
 Checking out fd129bfcb75475ac6820cc33862bd8efb8097fae
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/c-eval/
-  to /tmp/c-eval3HHaiG/c-eval-20210611.705
+  to /tmp/c-eval7YdS1o/c-eval-20210611.705
     c-eval.el -> c-eval.el
 Created c-eval-20210611.705.tar containing:
   c-eval-20210611.705/
   c-eval-20210611.705/c-eval-pkg.el
   c-eval-20210611.705/c-eval.el
  ✓ Success:
-  2024-07-30T02:20:00+0000  c-eval-20210611.705.entry
-  2024-07-30T02:20:00+0000  c-eval-20210611.705.tar
-Built c-eval in 3.047s, finished at 2024-07-30T02:20:01+0000
+  2024-07-31T23:29:43+0000  c-eval-20210611.705.entry
+  2024-07-31T23:29:43+0000  c-eval-20210611.705.tar
+Built c-eval in 5.403s, finished at 2024-07-31T23:29:45+0000
