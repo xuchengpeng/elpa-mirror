@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/sink/
 Checking out a14e1cc0a051543723c043a5ece081ce9a567ddd
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/sink/
-  to /tmp/sinkOgnoxY/sink-20240523.747
+  to /tmp/sinkwrOrzR/sink-20240523.747
     sink.el -> sink.el
 Created sink-20240523.747.tar containing:
   sink-20240523.747/
   sink-20240523.747/sink-pkg.el
   sink-20240523.747/sink.el
  ✓ Success:
-  2024-08-01T00:39:22+0000  sink-20240523.747.entry
-  2024-08-01T00:39:22+0000  sink-20240523.747.tar
-Built sink in 4.093s, finished at 2024-08-01T00:39:24+0000
+  2024-08-02T00:35:51+0000  sink-20240523.747.entry
+  2024-08-02T00:35:50+0000  sink-20240523.747.tar
+Built sink in 5.004s, finished at 2024-08-02T00:35:52+0000

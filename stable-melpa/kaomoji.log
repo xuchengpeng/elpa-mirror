@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/kaomoji/
 Checking out fba0018a13eba70c2bffc6153dcfee99937fa3d6
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/kaomoji/
-  to /tmp/kaomojiIGyeMM/kaomoji-20220721.441
+  to /tmp/kaomojiNxAz8Y/kaomoji-20220721.441
     kaomoji-data.el -> kaomoji-data.el
     kaomoji.el -> kaomoji.el
 Created kaomoji-20220721.441.tar containing:
@@ -15,6 +15,6 @@ Created kaomoji-20220721.441.tar containing:
   kaomoji-20220721.441/kaomoji-pkg.el
   kaomoji-20220721.441/kaomoji.el
  ✓ Success:
-  2024-08-01T00:08:35+0000  kaomoji-20220721.441.entry
-  2024-08-01T00:08:35+0000  kaomoji-20220721.441.tar
-Built kaomoji in 3.886s, finished at 2024-08-01T00:08:36+0000
+  2024-08-02T00:05:00+0000  kaomoji-20220721.441.entry
+  2024-08-02T00:05:00+0000  kaomoji-20220721.441.tar
+Built kaomoji in 6.462s, finished at 2024-08-02T00:05:02+0000

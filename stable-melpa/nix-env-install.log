@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/nix-env-install/
 Checking out 79c34bc117ba1cebeb67fab32c364951d2ec37a0
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/nix-env-install/
-  to /tmp/nix-env-installIuUMXO/nix-env-install-20200812.1305
+  to /tmp/nix-env-installWjN8oH/nix-env-install-20200812.1305
     nix-env-install.el -> nix-env-install.el
 Created nix-env-install-20200812.1305.tar containing:
   nix-env-install-20200812.1305/
   nix-env-install-20200812.1305/nix-env-install-pkg.el
   nix-env-install-20200812.1305/nix-env-install.el
  ✓ Success:
-  2024-08-01T00:19:01+0000  nix-env-install-20200812.1305.entry
-  2024-08-01T00:19:01+0000  nix-env-install-20200812.1305.tar
-Built nix-env-install in 4.157s, finished at 2024-08-01T00:19:02+0000
+  2024-08-02T00:15:30+0000  nix-env-install-20200812.1305.entry
+  2024-08-02T00:15:29+0000  nix-env-install-20200812.1305.tar
+Built nix-env-install in 3.861s, finished at 2024-08-02T00:15:31+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/ob-typescript/
 Checking out 5fe1762f8d8692dd5b6f1697bedbbf4cae9ef036
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ob-typescript/
-  to /tmp/ob-typescriptNtHCDj/ob-typescript-20231227.311
+  to /tmp/ob-typescriptC13SoP/ob-typescript-20231227.311
     ob-typescript.el -> ob-typescript.el
 Created ob-typescript-20231227.311.tar containing:
   ob-typescript-20231227.311/
   ob-typescript-20231227.311/ob-typescript-pkg.el
   ob-typescript-20231227.311/ob-typescript.el
  ✓ Success:
-  2024-08-01T00:21:06+0000  ob-typescript-20231227.311.entry
-  2024-08-01T00:21:05+0000  ob-typescript-20231227.311.tar
-Built ob-typescript in 3.292s, finished at 2024-08-01T00:21:07+0000
+  2024-08-02T00:17:50+0000  ob-typescript-20231227.311.entry
+  2024-08-02T00:17:50+0000  ob-typescript-20231227.311.tar
+Built ob-typescript in 3.967s, finished at 2024-08-02T00:17:52+0000

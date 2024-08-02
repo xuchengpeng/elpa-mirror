@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/zk/
 Checking out 225d2628025195283170908e81341e3a8d49b022
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/zk/
-  to /tmp/zkuCTEKa/zk-20240704.910
+  to /tmp/zkmQ60am/zk-20240704.910
     zk.el -> zk.el
 Created zk-20240704.910.tar containing:
   zk-20240704.910/
   zk-20240704.910/zk-pkg.el
   zk-20240704.910/zk.el
  ✓ Success:
-  2024-08-01T00:54:15+0000  zk-20240704.910.entry
-  2024-08-01T00:54:15+0000  zk-20240704.910.tar
-Built zk in 3.733s, finished at 2024-08-01T00:54:16+0000
+  2024-08-02T00:49:27+0000  zk-20240704.910.entry
+  2024-08-02T00:49:27+0000  zk-20240704.910.tar
+Built zk in 3.603s, finished at 2024-08-02T00:49:28+0000

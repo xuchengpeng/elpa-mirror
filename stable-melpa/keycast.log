@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/keycast/
 Checking out 82affc7bb85b4b7c53c849cfd216b115d9f84972
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/keycast/
-  to /tmp/keycastmWU5Xu/keycast-20240731.1152
+  to /tmp/keycastacehtR/keycast-20240731.1152
     keycast.el -> keycast.el
 Created keycast-20240731.1152.tar containing:
   keycast-20240731.1152/
   keycast-20240731.1152/keycast-pkg.el
   keycast-20240731.1152/keycast.el
  ✓ Success:
-  2024-08-01T00:08:56+0000  keycast-20240731.1152.entry
-  2024-08-01T00:08:56+0000  keycast-20240731.1152.tar
-Built keycast in 4.015s, finished at 2024-08-01T00:08:58+0000
+  2024-08-02T00:05:37+0000  keycast-20240731.1152.entry
+  2024-08-02T00:05:37+0000  keycast-20240731.1152.tar
+Built keycast in 6.284s, finished at 2024-08-02T00:05:39+0000
