@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/clj-decompiler/
 Checking out 8c0c53f87e6e33f2be7e7aff6095eb586b50be1a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/clj-decompiler/
-  to /tmp/clj-decompilerh2HUnX/clj-decompiler-20220103.1746
+  to /tmp/clj-decompiler63t5kY/clj-decompiler-20220103.1746
     clj-decompiler.el -> clj-decompiler.el
 Created clj-decompiler-20220103.1746.tar containing:
   clj-decompiler-20220103.1746/
   clj-decompiler-20220103.1746/clj-decompiler-pkg.el
   clj-decompiler-20220103.1746/clj-decompiler.el
  ✓ Success:
-  2024-08-01T23:28:48+0000  clj-decompiler-20220103.1746.entry
-  2024-08-01T23:28:48+0000  clj-decompiler-20220103.1746.tar
-Built clj-decompiler in 3.907s, finished at 2024-08-01T23:28:50+0000
+  2024-08-03T00:31:12+0000  clj-decompiler-20220103.1746.entry
+  2024-08-03T00:31:12+0000  clj-decompiler-20220103.1746.tar
+Built clj-decompiler in 3.336s, finished at 2024-08-03T00:31:14+0000
