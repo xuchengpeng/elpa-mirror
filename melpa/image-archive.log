@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/image-archive/
 Checking out 4cf0edabfd6a4da2ffb920ff1e5009a002fc1e53
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/image-archive/
-  to /tmp/image-archivex7GvB2/image-archive-20150621.132
+  to /tmp/image-archivencloSH/image-archive-20150621.132
     image-archive.el -> image-archive.el
 Created image-archive-20150621.132.tar containing:
   image-archive-20150621.132/
   image-archive-20150621.132/image-archive-pkg.el
   image-archive-20150621.132/image-archive.el
  ✓ Success:
-  2024-08-02T22:33:08+0000  image-archive-20150621.132.entry
-  2024-08-02T22:33:08+0000  image-archive-20150621.132.tar
-Built image-archive in 4.040s, finished at 2024-08-02T22:33:10+0000
+  2024-08-03T22:58:53+0000  image-archive-20150621.132.entry
+  2024-08-03T22:58:53+0000  image-archive-20150621.132.tar
+Built image-archive in 3.660s, finished at 2024-08-03T22:58:55+0000

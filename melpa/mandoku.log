@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/mandoku/
 Checking out e3b7678762e9824861b1ce775a94b05b096164f5
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mandoku/
-  to /tmp/mandokuXIenqg/mandoku-20180403.1106
+  to /tmp/mandokuapiBCM/mandoku-20180403.1106
   ! lisp/mandoku-annot.el -> mandoku-annot.el
   ! lisp/mandoku-cbeta.el -> mandoku-cbeta.el
   ! lisp/mandoku-dict.el -> mandoku-dict.el
@@ -37,6 +37,6 @@ Created mandoku-20180403.1106.tar containing:
   mandoku-20180403.1106/mandoku.el
   mandoku-20180403.1106/w32-registry.el
  ✓ Success:
-  2024-08-02T22:42:27+0000  mandoku-20180403.1106.entry
-  2024-08-02T22:42:27+0000  mandoku-20180403.1106.tar
-Built mandoku in 4.051s, finished at 2024-08-02T22:42:28+0000
+  2024-08-03T23:08:04+0000  mandoku-20180403.1106.entry
+  2024-08-03T23:08:04+0000  mandoku-20180403.1106.tar
+Built mandoku in 3.424s, finished at 2024-08-03T23:08:05+0000

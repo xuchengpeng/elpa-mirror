@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/corral/
 Checking out e7ab6aa118e46b93d4933d1364bc273f57cd6911
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/corral/
-  to /tmp/corralvcplpQ/corral-20160502.948
+  to /tmp/corralQ25WdA/corral-20160502.948
     corral.el -> corral.el
 Created corral-20160502.948.tar containing:
   corral-20160502.948/
   corral-20160502.948/corral-pkg.el
   corral-20160502.948/corral.el
  ✓ Success:
-  2024-08-03T00:34:28+0000  corral-20160502.948.entry
-  2024-08-03T00:34:28+0000  corral-20160502.948.tar
-Built corral in 3.147s, finished at 2024-08-03T00:34:29+0000
+  2024-08-04T00:55:22+0000  corral-20160502.948.entry
+  2024-08-04T00:55:22+0000  corral-20160502.948.tar
+Built corral in 3.423s, finished at 2024-08-04T00:55:24+0000

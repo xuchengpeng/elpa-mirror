@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/su/
 Checking out e097f31b3bbb8581d045d0e684d3f129f90e8085
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/su/
-  to /tmp/suM37d4j/su-20240320.1707
+  to /tmp/suxrX5FB/su-20240320.1707
     su.el -> su.el
 Created su-20240320.1707.tar containing:
   su-20240320.1707/
   su-20240320.1707/su-pkg.el
   su-20240320.1707/su.el
  ✓ Success:
-  2024-08-02T23:10:27+0000  su-20240320.1707.entry
-  2024-08-02T23:10:27+0000  su-20240320.1707.tar
-Built su in 3.813s, finished at 2024-08-02T23:10:28+0000
+  2024-08-03T23:34:48+0000  su-20240320.1707.entry
+  2024-08-03T23:34:48+0000  su-20240320.1707.tar
+Built su in 5.658s, finished at 2024-08-03T23:34:50+0000

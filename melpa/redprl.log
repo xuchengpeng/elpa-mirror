@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/redprl/
 Checking out 4abdbdeda4604ff30ce19c0df3f43e34faf60bd7
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/redprl/
-  to /tmp/redprlsyAGEN/redprl-20180418.1434
+  to /tmp/redprl6GAn73/redprl-20180418.1434
   ! emacs/redprl.el -> redprl.el
 Created redprl-20180418.1434.tar containing:
   redprl-20180418.1434/
   redprl-20180418.1434/redprl-pkg.el
   redprl-20180418.1434/redprl.el
  ✓ Success:
-  2024-08-02T23:02:04+0000  redprl-20180418.1434.entry
-  2024-08-02T23:02:04+0000  redprl-20180418.1434.tar
-Built redprl in 3.930s, finished at 2024-08-02T23:02:05+0000
+  2024-08-03T23:27:31+0000  redprl-20180418.1434.entry
+  2024-08-03T23:27:31+0000  redprl-20180418.1434.tar
+Built redprl in 3.832s, finished at 2024-08-03T23:27:32+0000

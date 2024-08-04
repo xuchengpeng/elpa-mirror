@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/casual-calc/
 Checking out 47d8c4fd2b4a2d91d3891320a42451577d9c804a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/casual-calc/
-  to /tmp/casual-calcpMVTqS/casual-calc-20240628.2332
+  to /tmp/casual-calcBpEYOg/casual-calc-20240628.2332
   ! lisp/casual-calc--calc.el -> casual-calc--calc.el
   ! lisp/casual-calc-algebra.el -> casual-calc-algebra.el
   ! lisp/casual-calc-angle-measure.el -> casual-calc-angle-measure.el
@@ -65,6 +65,6 @@ Created casual-calc-20240628.2332.tar containing:
   casual-calc-20240628.2332/casual-calc-version.el
   casual-calc-20240628.2332/casual-calc.el
  ✓ Success:
-  2024-08-03T00:29:28+0000  casual-calc-20240628.2332.entry
-  2024-08-03T00:29:27+0000  casual-calc-20240628.2332.tar
-Built casual-calc in 4.429s, finished at 2024-08-03T00:29:29+0000
+  2024-08-04T00:50:52+0000  casual-calc-20240628.2332.entry
+  2024-08-04T00:50:52+0000  casual-calc-20240628.2332.tar
+Built casual-calc in 3.337s, finished at 2024-08-04T00:50:53+0000
