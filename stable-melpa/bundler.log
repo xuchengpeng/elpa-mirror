@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/bundler/
 Checking out 43efb6be4ed118b06d787ce7fbcffd68a31732a7
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/bundler/
-  to /tmp/bundlerfiZC50/bundler-20200129.1338
+  to /tmp/bundlerf5BI3C/bundler-20200129.1338
     bundler.el -> bundler.el
 Created bundler-20200129.1338.tar containing:
   bundler-20200129.1338/
   bundler-20200129.1338/bundler-pkg.el
   bundler-20200129.1338/bundler.el
  ✓ Success:
-  2024-08-03T00:28:37+0000  bundler-20200129.1338.entry
-  2024-08-03T00:28:37+0000  bundler-20200129.1338.tar
-Built bundler in 2.777s, finished at 2024-08-03T00:28:38+0000
+  2024-08-05T00:50:56+0000  bundler-20200129.1338.entry
+  2024-08-05T00:50:56+0000  bundler-20200129.1338.tar
+Built bundler in 3.098s, finished at 2024-08-05T00:50:57+0000

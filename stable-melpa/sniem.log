@@ -3,10 +3,10 @@ Fetcher: github
 Source:  https://github.com/SpringHan/sniem.git
 
 Updating /mnt/store/melpa/working/sniem/
-Checking out 1b0146cfeaaac59d504bd76bbd553a2844d44042
+Checking out fc8b478da6690fb6cf3e8f6afa0f38de2b3f01c2
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/sniem/
-  to /tmp/sniemUvXY0q/sniem-20240727.1307
+  to /tmp/sniemxQFc2S/sniem-20240804.908
     sniem-cheatsheet.el -> sniem-cheatsheet.el
     sniem-common.el -> sniem-common.el
     sniem-linked-file.el -> sniem-linked-file.el
@@ -16,19 +16,19 @@ Copying files (->) and directories (=>)
     sniem-operation.el -> sniem-operation.el
     sniem-var.el -> sniem-var.el
     sniem.el -> sniem.el
-Created sniem-20240727.1307.tar containing:
-  sniem-20240727.1307/
-  sniem-20240727.1307/sniem-cheatsheet.el
-  sniem-20240727.1307/sniem-common.el
-  sniem-20240727.1307/sniem-linked-file.el
-  sniem-20240727.1307/sniem-macro.el
-  sniem-20240727.1307/sniem-mark-jump.el
-  sniem-20240727.1307/sniem-object-catch.el
-  sniem-20240727.1307/sniem-operation.el
-  sniem-20240727.1307/sniem-pkg.el
-  sniem-20240727.1307/sniem-var.el
-  sniem-20240727.1307/sniem.el
+Created sniem-20240804.908.tar containing:
+  sniem-20240804.908/
+  sniem-20240804.908/sniem-cheatsheet.el
+  sniem-20240804.908/sniem-common.el
+  sniem-20240804.908/sniem-linked-file.el
+  sniem-20240804.908/sniem-macro.el
+  sniem-20240804.908/sniem-mark-jump.el
+  sniem-20240804.908/sniem-object-catch.el
+  sniem-20240804.908/sniem-operation.el
+  sniem-20240804.908/sniem-pkg.el
+  sniem-20240804.908/sniem-var.el
+  sniem-20240804.908/sniem.el
  ✓ Success:
-  2024-08-02T23:08:08+0000  sniem-20240727.1307.entry
-  2024-08-02T23:08:08+0000  sniem-20240727.1307.tar
-Built sniem in 3.852s, finished at 2024-08-02T23:08:09+0000
+  2024-08-04T23:35:08+0000  sniem-20240804.908.entry
+  2024-08-04T23:35:08+0000  sniem-20240804.908.tar
+Built sniem in 3.017s, finished at 2024-08-04T23:35:09+0000

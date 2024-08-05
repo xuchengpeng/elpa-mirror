@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/ace-window/
 Checking out 77115afc1b0b9f633084cf7479c767988106c196
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ace-window/
-  to /tmp/ace-windowQg8VZG/ace-window-20220911.358
+  to /tmp/ace-windowfxGgqM/ace-window-20220911.358
     ace-window-posframe.el -> ace-window-posframe.el
     ace-window.el -> ace-window.el
 Created ace-window-20220911.358.tar containing:
@@ -15,6 +15,6 @@ Created ace-window-20220911.358.tar containing:
   ace-window-20220911.358/ace-window-posframe.el
   ace-window-20220911.358/ace-window.el
  ✓ Success:
-  2024-08-04T00:44:27+0000  ace-window-20220911.358.entry
-  2024-08-04T00:44:27+0000  ace-window-20220911.358.tar
-Built ace-window in 6.318s, finished at 2024-08-04T00:44:30+0000
+  2024-08-05T00:45:40+0000  ace-window-20220911.358.entry
+  2024-08-05T00:45:40+0000  ace-window-20220911.358.tar
+Built ace-window in 3.465s, finished at 2024-08-05T00:45:41+0000
