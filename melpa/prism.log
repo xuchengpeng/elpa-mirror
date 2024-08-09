@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/alphapapa/prism.el.git
 
 Updating /mnt/store/melpa/working/prism/
-Checking out 73deba1a4a719f740827c000cf46bfecacb44adb
+Checking out 25df8494ee92c65bf66194e0e2663de487f9296b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/prism/
-  to /tmp/prismGbhWPq/prism-20240611.305
+  to /tmp/prismtqTTkE/prism-20240807.147
     prism.el -> prism.el
-Created prism-20240611.305.tar containing:
-  prism-20240611.305/
-  prism-20240611.305/prism-pkg.el
-  prism-20240611.305/prism.el
+Created prism-20240807.147.tar containing:
+  prism-20240807.147/
+  prism-20240807.147/prism-pkg.el
+  prism-20240807.147/prism.el
  ✓ Success:
-  2024-08-04T23:25:53+0000  prism-20240611.305.entry
-  2024-08-04T23:25:53+0000  prism-20240611.305.tar
-Built prism in 3.349s, finished at 2024-08-04T23:25:54+0000
+  2024-08-09T00:18:46+0000  prism-20240807.147.entry
+  2024-08-09T00:18:46+0000  prism-20240807.147.tar
+Built prism in 3.217s, finished at 2024-08-09T00:18:48+0000
