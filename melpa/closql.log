@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/magit/closql.git
 
 Updating /mnt/store/melpa/working/closql/
-Checking out ebfb860510d895ebcbbe920dd0d86381f1b6504c
+Checking out c1a346d56ecee16d1f0d7707f0d62c72604a8802
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/closql/
-  to /tmp/closql1hE1jC/closql-20240712.2215
+  to /tmp/closqlIIF1fC/closql-20240808.1934
     closql.el -> closql.el
-Created closql-20240712.2215.tar containing:
-  closql-20240712.2215/
-  closql-20240712.2215/closql-pkg.el
-  closql-20240712.2215/closql.el
+Created closql-20240808.1934.tar containing:
+  closql-20240808.1934/
+  closql-20240808.1934/closql-pkg.el
+  closql-20240808.1934/closql.el
  ✓ Success:
-  2024-08-08T23:30:05+0000  closql-20240712.2215.entry
-  2024-08-08T23:30:05+0000  closql-20240712.2215.tar
-Built closql in 3.027s, finished at 2024-08-08T23:30:06+0000
+  2024-08-11T00:38:24+0000  closql-20240808.1934.entry
+  2024-08-11T00:38:24+0000  closql-20240808.1934.tar
+Built closql in 3.200s, finished at 2024-08-11T00:38:25+0000

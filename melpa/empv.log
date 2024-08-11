@@ -3,16 +3,18 @@ Fetcher: github
 Source:  https://github.com/isamert/empv.el.git
 
 Updating /mnt/store/melpa/working/empv/
-Checking out 1a8b93b72cc574355150edf984f1fc896db63921
+Checking out 165bf678b5c27e402ee95e58471748480aab1657
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/empv/
-  to /tmp/empvP71r7h/empv-20240728.1657
+  to /tmp/empvwmT8Ro/empv-20240810.2302
     empv.el -> empv.el
-Created empv-20240728.1657.tar containing:
-  empv-20240728.1657/
-  empv-20240728.1657/empv-pkg.el
-  empv-20240728.1657/empv.el
+Created empv-20240810.2302.tar containing:
+  empv-20240810.2302/
+  empv-20240810.2302/empv-pkg.el
+  empv-20240810.2302/empv.el
  ✓ Success:
-  2024-08-08T23:39:52+0000  empv-20240728.1657.entry
-  2024-08-08T23:39:52+0000  empv-20240728.1657.tar
-Built empv in 3.283s, finished at 2024-08-08T23:39:53+0000
+  2024-08-10T22:40:36+0000  empv-20240728.1657.entry
+  2024-08-10T22:40:36+0000  empv-20240728.1657.tar
+  2024-08-11T00:48:45+0000  empv-20240810.2302.entry
+  2024-08-11T00:48:45+0000  empv-20240810.2302.tar
+Built empv in 3.321s, finished at 2024-08-11T00:48:46+0000

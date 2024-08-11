@@ -3,22 +3,16 @@ Fetcher: github
 Source:  https://github.com/magit/emacsql.git
 
 Updating /mnt/store/melpa/working/emacsql-sqlite/
-Checking out efddd69c5e69214dbbe921fbf90f938501414894
+Checking out c786ea159facf5892e9c4e5b7bdda44da95cd62e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/emacsql-sqlite/
-  to /tmp/emacsql-sqliteP8Q3WE/emacsql-sqlite-20240623.1340
+  to /tmp/emacsql-sqlite8cdBYL/emacsql-sqlite-20240808.2016
     emacsql-sqlite.el -> emacsql-sqlite.el
-    sqlite => sqlite
-Created emacsql-sqlite-20240623.1340.tar containing:
-  emacsql-sqlite-20240623.1340/
-  emacsql-sqlite-20240623.1340/emacsql-sqlite-pkg.el
-  emacsql-sqlite-20240623.1340/emacsql-sqlite.el
-  emacsql-sqlite-20240623.1340/sqlite/
-  emacsql-sqlite-20240623.1340/sqlite/Makefile
-  emacsql-sqlite-20240623.1340/sqlite/emacsql.c
-  emacsql-sqlite-20240623.1340/sqlite/sqlite3.c
-  emacsql-sqlite-20240623.1340/sqlite/sqlite3.h
+Created emacsql-sqlite-20240808.2016.tar containing:
+  emacsql-sqlite-20240808.2016/
+  emacsql-sqlite-20240808.2016/emacsql-sqlite-pkg.el
+  emacsql-sqlite-20240808.2016/emacsql-sqlite.el
  ✓ Success:
-  2024-08-08T23:39:28+0000  emacsql-sqlite-20240623.1340.entry
-  2024-08-08T23:39:28+0000  emacsql-sqlite-20240623.1340.tar
-Built emacsql-sqlite in 3.678s, finished at 2024-08-08T23:39:29+0000
+  2024-08-11T00:48:20+0000  emacsql-sqlite-20240808.2016.entry
+  2024-08-11T00:48:20+0000  emacsql-sqlite-20240808.2016.tar
+Built emacsql-sqlite in 3.095s, finished at 2024-08-11T00:48:21+0000

@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/wbolster/emacs-python-pytest.git
 
 Updating /mnt/store/melpa/working/python-pytest/
-Checking out 1ecfb4461615374aac7786a07359c2d3d561f3c7
+Checking out bfcd28829076836904fed12a39c829970bcb6bb0
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/python-pytest/
-  to /tmp/python-pytest1nyZ5G/python-pytest-20240704.1054
+  to /tmp/python-pytest5yYmSf/python-pytest-20240810.809
     python-pytest.el -> python-pytest.el
-Created python-pytest-20240704.1054.tar containing:
-  python-pytest-20240704.1054/
-  python-pytest-20240704.1054/python-pytest-pkg.el
-  python-pytest-20240704.1054/python-pytest.el
+Created python-pytest-20240810.809.tar containing:
+  python-pytest-20240810.809/
+  python-pytest-20240810.809/python-pytest-pkg.el
+  python-pytest-20240810.809/python-pytest.el
  ✓ Success:
-  2024-08-09T00:20:17+0000  python-pytest-20240704.1054.entry
-  2024-08-09T00:20:16+0000  python-pytest-20240704.1054.tar
-Built python-pytest in 3.193s, finished at 2024-08-09T00:20:18+0000
+  2024-08-10T23:20:24+0000  python-pytest-20240810.809.entry
+  2024-08-10T23:20:24+0000  python-pytest-20240810.809.tar
+Built python-pytest in 3.407s, finished at 2024-08-10T23:20:25+0000
