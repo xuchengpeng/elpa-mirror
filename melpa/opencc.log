@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/opencc/
 Checking out 959d9ffbae095752182026e3bd9b8fd61178c39f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/opencc/
-  to /tmp/openccxEc1Ic/opencc-20170722.816
+  to /tmp/openccJX32vF/opencc-20170722.816
     opencc.el -> opencc.el
 Created opencc-20170722.816.tar containing:
   opencc-20170722.816/
   opencc-20170722.816/opencc-pkg.el
   opencc-20170722.816/opencc.el
  ✓ Success:
-  2024-08-10T23:11:03+0000  opencc-20170722.816.entry
-  2024-08-10T23:11:03+0000  opencc-20170722.816.tar
-Built opencc in 3.847s, finished at 2024-08-10T23:11:04+0000
+  2024-08-13T00:29:57+0000  opencc-20170722.816.entry
+  2024-08-13T00:29:57+0000  opencc-20170722.816.tar
+Built opencc in 5.041s, finished at 2024-08-13T00:29:59+0000

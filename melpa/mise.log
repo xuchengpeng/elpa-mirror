@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/mise/
 Checking out 20179a58132e5518a0868eac01dcd1d72db2e254
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mise/
-  to /tmp/miseSalAWs/mise-20240707.1428
+  to /tmp/miseleIuL3/mise-20240707.1428
     mise.el -> mise.el
 Created mise-20240707.1428.tar containing:
   mise-20240707.1428/
   mise-20240707.1428/mise-pkg.el
   mise-20240707.1428/mise.el
  ✓ Success:
-  2024-08-10T23:06:07+0000  mise-20240707.1428.entry
-  2024-08-10T23:06:07+0000  mise-20240707.1428.tar
-Built mise in 3.065s, finished at 2024-08-10T23:06:08+0000
+  2024-08-13T00:24:53+0000  mise-20240707.1428.entry
+  2024-08-13T00:24:53+0000  mise-20240707.1428.tar
+Built mise in 5.109s, finished at 2024-08-13T00:24:55+0000

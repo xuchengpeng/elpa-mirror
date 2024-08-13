@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/vterm/
 Checking out d9ea29fb10aed20512bd95dc5b8c1a01684044b1
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/vterm/
-  to /tmp/vterm1IbjVI/vterm-20240705.1533
+  to /tmp/vtermIGMS4v/vterm-20240705.1533
     CMakeLists.txt -> CMakeLists.txt
     elisp.c -> elisp.c
     elisp.h -> elisp.h
@@ -34,6 +34,6 @@ Created vterm-20240705.1533.tar containing:
   vterm-20240705.1533/vterm-pkg.el
   vterm-20240705.1533/vterm.el
  ✓ Success:
-  2024-08-10T23:34:27+0000  vterm-20240705.1533.entry
-  2024-08-10T23:34:27+0000  vterm-20240705.1533.tar
-Built vterm in 4.089s, finished at 2024-08-10T23:34:29+0000
+  2024-08-13T00:54:32+0000  vterm-20240705.1533.entry
+  2024-08-13T00:54:32+0000  vterm-20240705.1533.tar
+Built vterm in 4.790s, finished at 2024-08-13T00:54:34+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/libelcouch/
 Checking out 5202084caee9fd236a18afc6f83293f05168a4c3
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/libelcouch/
-  to /tmp/libelcouchNZi1Qc/libelcouch-20230903.800
+  to /tmp/libelcouchJoi0t0/libelcouch-20230903.800
     libelcouch.el -> libelcouch.el
 Created libelcouch-20230903.800.tar containing:
   libelcouch-20230903.800/
   libelcouch-20230903.800/libelcouch-pkg.el
   libelcouch-20230903.800/libelcouch.el
  ✓ Success:
-  2024-08-10T23:02:09+0000  libelcouch-20230903.800.entry
-  2024-08-10T23:02:09+0000  libelcouch-20230903.800.tar
-Built libelcouch in 4.248s, finished at 2024-08-10T23:02:10+0000
+  2024-08-13T00:20:27+0000  libelcouch-20230903.800.entry
+  2024-08-13T00:20:27+0000  libelcouch-20230903.800.tar
+Built libelcouch in 2.998s, finished at 2024-08-13T00:20:28+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/sqlformat/
 Checking out f1c8f864f11f4af65551de445dcf65543be0583b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/sqlformat/
-  to /tmp/sqlformatm2ARWE/sqlformat-20240325.1006
+  to /tmp/sqlformat55oA0e/sqlformat-20240325.1006
     sqlformat.el -> sqlformat.el
 Created sqlformat-20240325.1006.tar containing:
   sqlformat-20240325.1006/
   sqlformat-20240325.1006/sqlformat-pkg.el
   sqlformat-20240325.1006/sqlformat.el
  ✓ Success:
-  2024-08-10T23:27:46+0000  sqlformat-20240325.1006.entry
-  2024-08-10T23:27:46+0000  sqlformat-20240325.1006.tar
-Built sqlformat in 2.899s, finished at 2024-08-10T23:27:47+0000
+  2024-08-13T00:47:22+0000  sqlformat-20240325.1006.entry
+  2024-08-13T00:47:22+0000  sqlformat-20240325.1006.tar
+Built sqlformat in 3.332s, finished at 2024-08-13T00:47:23+0000

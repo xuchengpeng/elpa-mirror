@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/magit/magit-tbdiff.git
 
 Updating /mnt/store/melpa/working/magit-tbdiff/
-Checking out 55e6443710def357f3f78eea27d5bbe023d868f5
+Checking out 03cb872f00dd7fc868de0c8d7661803b5d011aa0
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/magit-tbdiff/
-  to /tmp/magit-tbdifflEjCJD/magit-tbdiff-20220527.2213
+  to /tmp/magit-tbdiffnv45Ci/magit-tbdiff-20240811.1938
     magit-tbdiff.el -> magit-tbdiff.el
-Created magit-tbdiff-20220527.2213.tar containing:
-  magit-tbdiff-20220527.2213/
-  magit-tbdiff-20220527.2213/magit-tbdiff-pkg.el
-  magit-tbdiff-20220527.2213/magit-tbdiff.el
+Created magit-tbdiff-20240811.1938.tar containing:
+  magit-tbdiff-20240811.1938/
+  magit-tbdiff-20240811.1938/magit-tbdiff-pkg.el
+  magit-tbdiff-20240811.1938/magit-tbdiff.el
  ✓ Success:
-  2024-08-10T23:04:19+0000  magit-tbdiff-20220527.2213.entry
-  2024-08-10T23:04:19+0000  magit-tbdiff-20220527.2213.tar
-Built magit-tbdiff in 3.020s, finished at 2024-08-10T23:04:20+0000
+  2024-08-13T00:22:42+0000  magit-tbdiff-20240811.1938.entry
+  2024-08-13T00:22:42+0000  magit-tbdiff-20240811.1938.tar
+Built magit-tbdiff in 3.766s, finished at 2024-08-13T00:22:43+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/sourcekit/
 Checking out a1860ad4dd3a542acd2fa0dfac2a388cbdf4af0c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/sourcekit/
-  to /tmp/sourcekit8L6g0i/sourcekit-20210430.2155
+  to /tmp/sourcekitI6c00y/sourcekit-20210430.2155
     sourcekit.el -> sourcekit.el
 Created sourcekit-20210430.2155.tar containing:
   sourcekit-20210430.2155/
   sourcekit-20210430.2155/sourcekit-pkg.el
   sourcekit-20210430.2155/sourcekit.el
  ✓ Success:
-  2024-08-10T23:27:15+0000  sourcekit-20210430.2155.entry
-  2024-08-10T23:27:15+0000  sourcekit-20210430.2155.tar
-Built sourcekit in 2.967s, finished at 2024-08-10T23:27:16+0000
+  2024-08-13T00:46:47+0000  sourcekit-20210430.2155.entry
+  2024-08-13T00:46:47+0000  sourcekit-20210430.2155.tar
+Built sourcekit in 3.118s, finished at 2024-08-13T00:46:48+0000

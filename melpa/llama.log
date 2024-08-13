@@ -1,20 +1,18 @@
 Package: llama
-Fetcher: sourcehut
-Source:  https://git.sr.ht/~tarsius/llama
+Fetcher: github
+Source:  https://github.com/tarsius/llama.git
 
 Updating /mnt/store/melpa/working/llama/
-Checking out 594e1e20531ebf1fd8110a2390d772854f0902ba
+Checking out d98debc6ca4c7cc86e9dd944b2393698802ef077
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/llama/
-  to /tmp/llamaNYgGtR/llama-20240810.2110
+  to /tmp/llamaRuSKUo/llama-20240811.23
     llama.el -> llama.el
-Created llama-20240810.2110.tar containing:
-  llama-20240810.2110/
-  llama-20240810.2110/llama-pkg.el
-  llama-20240810.2110/llama.el
+Created llama-20240811.23.tar containing:
+  llama-20240811.23/
+  llama-20240811.23/llama-pkg.el
+  llama-20240811.23/llama.el
  ✓ Success:
-  2024-08-10T20:55:14+0000  llama-20240722.2332.entry
-  2024-08-10T20:55:14+0000  llama-20240722.2332.tar
-  2024-08-10T23:02:51+0000  llama-20240810.2110.entry
-  2024-08-10T23:02:51+0000  llama-20240810.2110.tar
-Built llama in 4.093s, finished at 2024-08-10T23:02:52+0000
+  2024-08-13T00:21:11+0000  llama-20240811.23.entry
+  2024-08-13T00:21:10+0000  llama-20240811.23.tar
+Built llama in 3.575s, finished at 2024-08-13T00:21:12+0000
