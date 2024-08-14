@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/magit/
 Checking out a2739d7db1fdf19b95f36f6ddd15b0c1f523bd26
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/magit/
-  to /tmp/magitkRQmLe/magit-20240811.1419
+  to /tmp/magitGVjS73/magit-20240811.1419
   ! lisp/magit-apply.el -> magit-apply.el
   ! lisp/magit-autorevert.el -> magit-autorevert.el
   ! lisp/magit-base.el -> magit-base.el
@@ -55,7 +55,7 @@ Copying files (->) and directories (=>)
   ! docs/magit.texi -> magit.texi
   ! docs/AUTHORS.md -> AUTHORS.md
     LICENSE -> LICENSE
-Generating /tmp/magitkRQmLe/magit-20240811.1419/magit.info
+Generating /tmp/magitGVjS73/magit-20240811.1419/magit.info
 Created magit-20240811.1419.tar containing:
   magit-20240811.1419/
   magit-20240811.1419/AUTHORS.md
@@ -108,6 +108,6 @@ Created magit-20240811.1419.tar containing:
   magit-20240811.1419/magit.el
   magit-20240811.1419/magit.info
  ✓ Success:
-  2024-08-13T00:22:31+0000  magit-20240811.1419.entry
-  2024-08-13T00:22:31+0000  magit-20240811.1419.tar
-Built magit in 14.132s, finished at 2024-08-13T00:22:32+0000
+  2024-08-14T00:28:16+0000  magit-20240811.1419.entry
+  2024-08-14T00:28:15+0000  magit-20240811.1419.tar
+Built magit in 15.049s, finished at 2024-08-14T00:28:17+0000

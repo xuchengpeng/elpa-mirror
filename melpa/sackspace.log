@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/sackspace/
 Checking out fd0480eaaf6d3d11fd30ac5feb2da2f4f7572708
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/sackspace/
-  to /tmp/sackspaceL8nqK8/sackspace-20130719.956
+  to /tmp/sackspaceIwdKKG/sackspace-20130719.956
     sackspace.el -> sackspace.el
 Created sackspace-20130719.956.tar containing:
   sackspace-20130719.956/
   sackspace-20130719.956/sackspace-pkg.el
   sackspace-20130719.956/sackspace.el
  ✓ Success:
-  2024-08-13T00:43:12+0000  sackspace-20130719.956.entry
-  2024-08-13T00:43:12+0000  sackspace-20130719.956.tar
-Built sackspace in 3.295s, finished at 2024-08-13T00:43:13+0000
+  2024-08-14T00:48:04+0000  sackspace-20130719.956.entry
+  2024-08-14T00:48:04+0000  sackspace-20130719.956.tar
+Built sackspace in 2.789s, finished at 2024-08-14T00:48:05+0000

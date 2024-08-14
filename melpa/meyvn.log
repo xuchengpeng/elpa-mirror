@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/danielsz/meyvn-el.git
 
 Updating /mnt/store/melpa/working/meyvn/
-Checking out f2b809da1d1bf66f1a215a0e5c64f95d10118b76
+Checking out 62802ab42ee021f89f980bd3de3e1336ad760944
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/meyvn/
-  to /tmp/meyvnEDEiSs/meyvn-20240628.2350
+  to /tmp/meyvnrFwQUP/meyvn-20240813.2139
     meyvn.el -> meyvn.el
-Created meyvn-20240628.2350.tar containing:
-  meyvn-20240628.2350/
-  meyvn-20240628.2350/meyvn-pkg.el
-  meyvn-20240628.2350/meyvn.el
+Created meyvn-20240813.2139.tar containing:
+  meyvn-20240813.2139/
+  meyvn-20240813.2139/meyvn-pkg.el
+  meyvn-20240813.2139/meyvn.el
  ✓ Success:
-  2024-08-13T00:24:08+0000  meyvn-20240628.2350.entry
-  2024-08-13T00:24:08+0000  meyvn-20240628.2350.tar
-Built meyvn in 3.387s, finished at 2024-08-13T00:24:09+0000
+  2024-08-14T00:29:47+0000  meyvn-20240813.2139.entry
+  2024-08-14T00:29:47+0000  meyvn-20240813.2139.tar
+Built meyvn in 2.950s, finished at 2024-08-14T00:29:48+0000
