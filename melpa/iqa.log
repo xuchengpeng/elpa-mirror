@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/a13/iqa.el.git
 
 Updating /mnt/store/melpa/working/iqa/
-Checking out 03f90a2f68b2f05d8a2509bf3612a337d3d5b67f
+Checking out eed962679783133e1ff6ae63d19efaeae4dadb6b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/iqa/
-  to /tmp/iqaOyGTLH/iqa-20200520.1137
+  to /tmp/iqaNcINSg/iqa-20201113.849
     iqa.el -> iqa.el
-Created iqa-20200520.1137.tar containing:
-  iqa-20200520.1137/
-  iqa-20200520.1137/iqa-pkg.el
-  iqa-20200520.1137/iqa.el
+Created iqa-20201113.849.tar containing:
+  iqa-20201113.849/
+  iqa-20201113.849/iqa-pkg.el
+  iqa-20201113.849/iqa.el
  ✓ Success:
-  2024-08-14T22:58:45+0000  iqa-20200520.1137.entry
-  2024-08-14T22:58:45+0000  iqa-20200520.1137.tar
-Built iqa in 2.729s, finished at 2024-08-14T22:58:46+0000
+  2024-08-17T00:30:05+0000  iqa-20201113.849.entry
+  2024-08-17T00:30:05+0000  iqa-20201113.849.tar
+Built iqa in 2.973s, finished at 2024-08-17T00:30:06+0000

@@ -475,7 +475,7 @@
 		  (:maintainer "tienne Deparis" . "etienne@depar.is")
 		  (:commit . "29d5180f7e34c0c858a520068fb650f705b8cfc2"))])
  (drupal-mode .
-	      [(0 7 4)
+	      [(0 8 1)
 	       ((php-mode
 		 (1 5 0)))
 	       "Advanced minor mode for Drupal development" tar
@@ -484,7 +484,7 @@
 		(:maintainer "Arne Jørgensen" . "arne@arnested.dk")
 		(:authors
 		 ("Arne Jørgensen" . "arne@arnested.dk"))
-		(:commit . "ed90b0c4d808365e9ae9f16cc8a96eff17815621"))])
+		(:commit . "f632fa5f140b04260fa23b15ffccbfe5a787b2e2"))])
  (dslide .
 	 [(0 5 3)
 	  ((emacs
@@ -1527,7 +1527,7 @@
 		   ("Jason R. Blevins" . "jblevins@xbeta.org"))
 		  (:commit . "193b61605f44c85d261b8bd82e0a213fd8f1ff32"))])
  (mastodon .
-	   [(1 0 24)
+	   [(1 0 26)
 	    ((emacs
 	      (27 1))
 	     (request
@@ -1540,7 +1540,7 @@
 	     (:authors
 	      ("Johnson Denen" . "johnson.denen@gmail.com")
 	      ("Marty Hiatt" . "martianhiatus@riseup.net"))
-	     (:commit . "d1baf1eed450b5dc5ddb8555d29eec3bb969a4fb"))])
+	     (:commit . "3443b49c55f65ae8e0b07e93e1e0299ce1bf8ed6"))])
  (material-theme .
 		 [(2015)
 		  ((emacs
