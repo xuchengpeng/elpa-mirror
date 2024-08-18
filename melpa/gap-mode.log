@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/gap-mode/
 Checking out 09b4082b6e28141537696bb832c8ecc975ec57d8
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/gap-mode/
-  to /tmp/gap-modee1cTGw/gap-mode-20240430.210
+  to /tmp/gap-modexQmYud/gap-mode-20240430.210
     gap-company.el -> gap-company.el
     gap-flycheck.el -> gap-flycheck.el
     gap-flymake.el -> gap-flymake.el
@@ -25,6 +25,6 @@ Created gap-mode-20240430.210.tar containing:
   gap-mode-20240430.210/gap-process.el
   gap-mode-20240430.210/gap-smie.el
  ✓ Success:
-  2024-08-17T00:22:03+0000  gap-mode-20240430.210.entry
-  2024-08-17T00:22:03+0000  gap-mode-20240430.210.tar
-Built gap-mode in 3.012s, finished at 2024-08-17T00:22:04+0000
+  2024-08-18T00:32:22+0000  gap-mode-20240430.210.entry
+  2024-08-18T00:32:22+0000  gap-mode-20240430.210.tar
+Built gap-mode in 3.501s, finished at 2024-08-18T00:32:23+0000

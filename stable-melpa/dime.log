@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/dime/
 Checking out d85409dc3cba57a390ca85da95822f8078ecbfa2
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/dime/
-  to /tmp/dimewhTmsp/dime-20210613.1431
+  to /tmp/dimelv8mg3/dime-20210613.1431
     dime-browse.el -> dime-browse.el
     dime-note-tree.el -> dime-note-tree.el
     dime-repl.el -> dime-repl.el
@@ -19,6 +19,6 @@ Created dime-20210613.1431.tar containing:
   dime-20210613.1431/dime-repl.el
   dime-20210613.1431/dime.el
  ✓ Success:
-  2024-08-17T00:10:14+0000  dime-20210613.1431.entry
-  2024-08-17T00:10:14+0000  dime-20210613.1431.tar
-Built dime in 3.124s, finished at 2024-08-17T00:10:15+0000
+  2024-08-18T00:20:30+0000  dime-20210613.1431.entry
+  2024-08-18T00:20:30+0000  dime-20210613.1431.tar
+Built dime in 3.090s, finished at 2024-08-18T00:20:31+0000
