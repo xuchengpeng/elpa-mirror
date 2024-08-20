@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/org-mime/org-mime.git
 
 Updating /mnt/store/melpa/working/org-mime/
-Checking out 9d4584651d89806b79d5993b286d32d6f70499a9
+Checking out 468604b8404d3c7d6148be83a4cf308ee95d2cfb
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/org-mime/
-  to /tmp/org-mimeMgdlcS/org-mime-20240129.2327
+  to /tmp/org-mimebCAgrK/org-mime-20240818.243
     org-mime.el -> org-mime.el
-Created org-mime-20240129.2327.tar containing:
-  org-mime-20240129.2327/
-  org-mime-20240129.2327/org-mime-pkg.el
-  org-mime-20240129.2327/org-mime.el
+Created org-mime-20240818.243.tar containing:
+  org-mime-20240818.243/
+  org-mime-20240818.243/org-mime-pkg.el
+  org-mime-20240818.243/org-mime.el
  ✓ Success:
-  2024-08-18T00:54:10+0000  org-mime-20240129.2327.entry
-  2024-08-18T00:54:10+0000  org-mime-20240129.2327.tar
-Built org-mime in 2.670s, finished at 2024-08-18T00:54:11+0000
+  2024-08-19T23:30:25+0000  org-mime-20240818.243.entry
+  2024-08-19T23:30:24+0000  org-mime-20240818.243.tar
+Built org-mime in 4.994s, finished at 2024-08-19T23:30:26+0000

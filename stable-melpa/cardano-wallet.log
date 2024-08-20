@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/cardano-wallet/
 Checking out cf85424b305e8f89debb756dc67eebc84639f711
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/cardano-wallet/
-  to /tmp/cardano-walleto29Mrn/cardano-wallet-20230606.1150
+  to /tmp/cardano-wallet8UYxCA/cardano-wallet-20230606.1150
     cardano-wallet.el -> cardano-wallet.el
 Created cardano-wallet-20230606.1150.tar containing:
   cardano-wallet-20230606.1150/
   cardano-wallet-20230606.1150/cardano-wallet-pkg.el
   cardano-wallet-20230606.1150/cardano-wallet.el
  ✓ Success:
-  2024-08-18T00:14:05+0000  cardano-wallet-20230606.1150.entry
-  2024-08-18T00:14:05+0000  cardano-wallet-20230606.1150.tar
-Built cardano-wallet in 2.843s, finished at 2024-08-18T00:14:06+0000
+  2024-08-20T00:48:09+0000  cardano-wallet-20230606.1150.entry
+  2024-08-20T00:48:09+0000  cardano-wallet-20230606.1150.tar
+Built cardano-wallet in 2.801s, finished at 2024-08-20T00:48:10+0000

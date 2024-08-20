@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/alert/
 Checking out c762380ff71c429faf47552a83605b2578656380
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/alert/
-  to /tmp/alertoSqSy6/alert-20221213.1619
+  to /tmp/alertLf3Yxm/alert-20221213.1619
     alert.el -> alert.el
 Created alert-20221213.1619.tar containing:
   alert-20221213.1619/
   alert-20221213.1619/alert-pkg.el
   alert-20221213.1619/alert.el
  ✓ Success:
-  2024-08-18T00:09:23+0000  alert-20221213.1619.entry
-  2024-08-18T00:09:23+0000  alert-20221213.1619.tar
-Built alert in 3.054s, finished at 2024-08-18T00:09:24+0000
+  2024-08-20T00:43:37+0000  alert-20221213.1619.entry
+  2024-08-20T00:43:37+0000  alert-20221213.1619.tar
+Built alert in 2.812s, finished at 2024-08-20T00:43:38+0000
