@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/thierryvolpiatto/psession.git
 
 Updating /mnt/store/melpa/working/psession/
-Checking out cddba290ce39440a2e00bb92130030fe0f068f2c
+Checking out 75834fe016f30a72890a1c284c1bd400ad61ea9f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/psession/
-  to /tmp/psessionm0BtA7/psession-20240612.1242
+  to /tmp/psessionAE9cl4/psession-20240820.910
     psession.el -> psession.el
-Created psession-20240612.1242.tar containing:
-  psession-20240612.1242/
-  psession-20240612.1242/psession-pkg.el
-  psession-20240612.1242/psession.el
+Created psession-20240820.910.tar containing:
+  psession-20240820.910/
+  psession-20240820.910/psession-pkg.el
+  psession-20240820.910/psession.el
  ✓ Success:
-  2024-08-19T23:36:53+0000  psession-20240612.1242.entry
-  2024-08-19T23:36:53+0000  psession-20240612.1242.tar
-Built psession in 3.021s, finished at 2024-08-19T23:36:54+0000
+  2024-08-20T23:15:59+0000  psession-20240820.910.entry
+  2024-08-20T23:15:59+0000  psession-20240820.910.tar
+Built psession in 3.031s, finished at 2024-08-20T23:16:00+0000

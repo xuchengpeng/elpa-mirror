@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/importmagic/
 Checking out e32ee9f6a5eef937b76eba82fdae8bae85d18088
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/importmagic/
-  to /tmp/importmagicnB3qDU/importmagic-20180520.303
+  to /tmp/importmagicYCEOxq/importmagic-20180520.303
     importmagic.el -> importmagic.el
     importmagicserver.py -> importmagicserver.py
 Created importmagic-20180520.303.tar containing:
@@ -14,7 +14,3 @@ Created importmagic-20180520.303.tar containing:
   importmagic-20180520.303/importmagic-pkg.el
   importmagic-20180520.303/importmagic.el
   importmagic-20180520.303/importmagicserver.py
- ✓ Success:
-  2024-08-19T23:16:09+0000  importmagic-20180520.303.entry
-  2024-08-19T23:16:09+0000  importmagic-20180520.303.tar
-Built importmagic in 3.221s, finished at 2024-08-19T23:16:10+0000
