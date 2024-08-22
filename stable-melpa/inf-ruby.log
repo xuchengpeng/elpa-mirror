@@ -1,0 +1,18 @@
+Package: inf-ruby
+Fetcher: github
+Source:  https://github.com/nonsequitur/inf-ruby.git
+
+Updating /mnt/store/melpa/working/inf-ruby/
+Checking out b234625c85a48cc71e7045f5d48f079f410d576a
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/inf-ruby/
+  to /tmp/inf-rubydU4i0C/inf-ruby-20240627.2135
+    inf-ruby.el -> inf-ruby.el
+Created inf-ruby-20240627.2135.tar containing:
+  inf-ruby-20240627.2135/
+  inf-ruby-20240627.2135/inf-ruby-pkg.el
+  inf-ruby-20240627.2135/inf-ruby.el
+ ✓ Success:
+  2024-08-22T00:35:59+0000  inf-ruby-20240627.2135.entry
+  2024-08-22T00:35:59+0000  inf-ruby-20240627.2135.tar
+Built inf-ruby in 3.188s, finished at 2024-08-22T00:36:00+0000

@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/cerbere/
 Checking out bb18d932b16541105d41a668dbf6fc4e833a6dc2
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/cerbere/
-  to /tmp/cerbereBGE5Ob/cerbere-20181113.1641
+  to /tmp/cerbereiUoS8T/cerbere-20181113.1641
     cerbere-common.el -> cerbere-common.el
     cerbere-elisp-ert-runner.el -> cerbere-elisp-ert-runner.el
     cerbere-php-phpunit.el -> cerbere-php-phpunit.el
@@ -25,6 +25,6 @@ Created cerbere-20181113.1641.tar containing:
   cerbere-20181113.1641/cerbere-rust-libtest.el
   cerbere-20181113.1641/cerbere.el
  ✓ Success:
-  2024-08-21T00:27:32+0000  cerbere-20181113.1641.entry
-  2024-08-21T00:27:32+0000  cerbere-20181113.1641.tar
-Built cerbere in 4.659s, finished at 2024-08-21T00:27:34+0000
+  2024-08-22T00:09:03+0000  cerbere-20181113.1641.entry
+  2024-08-22T00:09:03+0000  cerbere-20181113.1641.tar
+Built cerbere in 3.330s, finished at 2024-08-22T00:09:04+0000

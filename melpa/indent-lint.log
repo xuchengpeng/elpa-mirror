@@ -1,0 +1,18 @@
+Package: indent-lint
+Fetcher: github
+Source:  https://github.com/conao3/indent-lint.el.git
+
+Updating /mnt/store/melpa/working/indent-lint/
+Checking out aee76faf54a55e0bcb5dc07a667d7f5999299c9b
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/indent-lint/
+  to /tmp/indent-lintLpRcJK/indent-lint-20230822.46
+    indent-lint.el -> indent-lint.el
+Created indent-lint-20230822.46.tar containing:
+  indent-lint-20230822.46/
+  indent-lint-20230822.46/indent-lint-pkg.el
+  indent-lint-20230822.46/indent-lint.el
+ ✓ Success:
+  2024-08-22T00:35:53+0000  indent-lint-20230822.46.entry
+  2024-08-22T00:35:53+0000  indent-lint-20230822.46.tar
+Built indent-lint in 2.949s, finished at 2024-08-22T00:35:54+0000

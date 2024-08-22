@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/emmet-mode/
 Checking out 322d3bb112fced57d63b44863357f7a0b7eee1e3
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/emmet-mode/
-  to /tmp/emmet-modeHGRqKH/emmet-mode-20240617.45
+  to /tmp/emmet-mode8qqLgw/emmet-mode-20240617.45
     emmet-mode.el -> emmet-mode.el
 Created emmet-mode-20240617.45.tar containing:
   emmet-mode-20240617.45/
   emmet-mode-20240617.45/emmet-mode-pkg.el
   emmet-mode-20240617.45/emmet-mode.el
  ✓ Success:
-  2024-08-21T00:37:52+0000  emmet-mode-20240617.45.entry
-  2024-08-21T00:37:52+0000  emmet-mode-20240617.45.tar
-Built emmet-mode in 2.779s, finished at 2024-08-21T00:37:53+0000
+  2024-08-22T00:20:24+0000  emmet-mode-20240617.45.entry
+  2024-08-22T00:20:23+0000  emmet-mode-20240617.45.tar
+Built emmet-mode in 3.196s, finished at 2024-08-22T00:20:25+0000

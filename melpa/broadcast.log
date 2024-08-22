@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/broadcast/
 Checking out f6f9cd2e0e3f8c31d6b8e7446c27eb0e50b25f16
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/broadcast/
-  to /tmp/broadcastuco7WB/broadcast-20151205.212
+  to /tmp/broadcastlXs6Ga/broadcast-20151205.212
     broadcast.el -> broadcast.el
 Created broadcast-20151205.212.tar containing:
   broadcast-20151205.212/
   broadcast-20151205.212/broadcast-pkg.el
   broadcast-20151205.212/broadcast.el
  ✓ Success:
-  2024-08-21T00:26:02+0000  broadcast-20151205.212.entry
-  2024-08-21T00:26:02+0000  broadcast-20151205.212.tar
-Built broadcast in 2.598s, finished at 2024-08-21T00:26:03+0000
+  2024-08-22T00:07:24+0000  broadcast-20151205.212.entry
+  2024-08-22T00:07:24+0000  broadcast-20151205.212.tar
+Built broadcast in 2.763s, finished at 2024-08-22T00:07:25+0000

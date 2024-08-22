@@ -3,3 +3,16 @@ Fetcher: github
 Source:  https://github.com/jcs-elpa/indent-control.git
 
 Updating /mnt/store/melpa/working/indent-control/
+Checking out bf4863c9f7d1d5cadf47b78bebbafc5431361597
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/indent-control/
+  to /tmp/indent-controlG3hEjr/indent-control-20240512.503
+    indent-control.el -> indent-control.el
+Created indent-control-20240512.503.tar containing:
+  indent-control-20240512.503/
+  indent-control-20240512.503/indent-control-pkg.el
+  indent-control-20240512.503/indent-control.el
+ ✓ Success:
+  2024-08-22T00:35:50+0000  indent-control-20240512.503.entry
+  2024-08-22T00:35:50+0000  indent-control-20240512.503.tar
+Built indent-control in 3.104s, finished at 2024-08-22T00:35:51+0000
