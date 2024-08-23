@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/meson-mode/
 Checking out 0449c649daaa9322e1c439c1540d8c290501d455
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/meson-mode/
-  to /tmp/meson-modekJ2w9M/meson-mode-20240601.1647
+  to /tmp/meson-modeuSJy2X/meson-mode-20240601.1647
     meson-mode.el -> meson-mode.el
     utils.el -> utils.el
 Created meson-mode-20240601.1647.tar containing:
@@ -15,6 +15,6 @@ Created meson-mode-20240601.1647.tar containing:
   meson-mode-20240601.1647/meson-mode.el
   meson-mode-20240601.1647/utils.el
  ✓ Success:
-  2024-08-22T00:44:16+0000  meson-mode-20240601.1647.entry
-  2024-08-22T00:44:16+0000  meson-mode-20240601.1647.tar
-Built meson-mode in 3.147s, finished at 2024-08-22T00:44:17+0000
+  2024-08-23T00:10:06+0000  meson-mode-20240601.1647.entry
+  2024-08-23T00:10:06+0000  meson-mode-20240601.1647.tar
+Built meson-mode in 2.739s, finished at 2024-08-23T00:10:07+0000

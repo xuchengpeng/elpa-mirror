@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/kivy-mode/
 Checking out 9ef218027178115a66b417ae34b21f488bdd3617
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/kivy-mode/
-  to /tmp/kivy-modeU8FLWq/kivy-mode-20240105.940
+  to /tmp/kivy-modeSuGuyM/kivy-mode-20240105.940
   ! kivy/tools/highlight/kivy-mode.el -> kivy-mode.el
 Created kivy-mode-20240105.940.tar containing:
   kivy-mode-20240105.940/
   kivy-mode-20240105.940/kivy-mode-pkg.el
   kivy-mode-20240105.940/kivy-mode.el
  ✓ Success:
-  2024-08-22T00:39:25+0000  kivy-mode-20240105.940.entry
-  2024-08-22T00:39:25+0000  kivy-mode-20240105.940.tar
-Built kivy-mode in 4.088s, finished at 2024-08-22T00:39:26+0000
+  2024-08-23T00:05:48+0000  kivy-mode-20240105.940.entry
+  2024-08-23T00:05:48+0000  kivy-mode-20240105.940.tar
+Built kivy-mode in 3.652s, finished at 2024-08-23T00:05:49+0000
