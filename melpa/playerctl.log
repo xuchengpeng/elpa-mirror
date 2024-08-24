@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/playerctl/
 Checking out 0912ed5a5ab6d611b5f35db589f608f1fafdc81a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/playerctl/
-  to /tmp/playerctlFi9ANQ/playerctl-20220714.1234
+  to /tmp/playerctlSgV6v9/playerctl-20220714.1234
     playerctl.el -> playerctl.el
 Created playerctl-20220714.1234.tar containing:
   playerctl-20220714.1234/
   playerctl-20220714.1234/playerctl-pkg.el
   playerctl-20220714.1234/playerctl.el
  ✓ Success:
-  2024-08-23T00:21:00+0000  playerctl-20220714.1234.entry
-  2024-08-23T00:21:00+0000  playerctl-20220714.1234.tar
-Built playerctl in 2.631s, finished at 2024-08-23T00:21:01+0000
+  2024-08-24T00:22:45+0000  playerctl-20220714.1234.entry
+  2024-08-24T00:22:45+0000  playerctl-20220714.1234.tar
+Built playerctl in 2.571s, finished at 2024-08-24T00:22:45+0000

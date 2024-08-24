@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/native-complete/
 Checking out 452c8d429f51434f5d53bd9920b7c2d06bf559d9
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/native-complete/
-  to /tmp/native-completewjgiD1/native-complete-20240816.1648
+  to /tmp/native-completeUQFpqq/native-complete-20240816.1648
     native-complete.el -> native-complete.el
 Created native-complete-20240816.1648.tar containing:
   native-complete-20240816.1648/
   native-complete-20240816.1648/native-complete-pkg.el
   native-complete-20240816.1648/native-complete.el
  ✓ Success:
-  2024-08-23T00:12:45+0000  native-complete-20240816.1648.entry
-  2024-08-23T00:12:45+0000  native-complete-20240816.1648.tar
-Built native-complete in 2.679s, finished at 2024-08-23T00:12:46+0000
+  2024-08-24T00:14:25+0000  native-complete-20240816.1648.entry
+  2024-08-24T00:14:25+0000  native-complete-20240816.1648.tar
+Built native-complete in 2.818s, finished at 2024-08-24T00:14:26+0000

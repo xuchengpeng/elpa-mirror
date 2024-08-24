@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/pungi/
 Checking out 41c9f8b7795e083bfd63ba0d06c789c250998723
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/pungi/
-  to /tmp/pungisn5iIm/pungi-20150222.1246
+  to /tmp/pungikyipSA/pungi-20150222.1246
     pungi.el -> pungi.el
 Created pungi-20150222.1246.tar containing:
   pungi-20150222.1246/
   pungi-20150222.1246/pungi-pkg.el
   pungi-20150222.1246/pungi.el
  ✓ Success:
-  2024-08-23T00:22:43+0000  pungi-20150222.1246.entry
-  2024-08-23T00:22:43+0000  pungi-20150222.1246.tar
-Built pungi in 2.612s, finished at 2024-08-23T00:22:44+0000
+  2024-08-24T00:24:28+0000  pungi-20150222.1246.entry
+  2024-08-24T00:24:28+0000  pungi-20150222.1246.tar
+Built pungi in 2.426s, finished at 2024-08-24T00:24:28+0000

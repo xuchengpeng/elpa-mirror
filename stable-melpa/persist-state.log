@@ -3,16 +3,16 @@ Fetcher: codeberg
 Source:  https://codeberg.org/bram85/emacs-persist-state.git
 
 Updating /mnt/store/melpa/working/persist-state/
-Checking out 99e22bd6dd7b768c617596da952a5b8e53d16ecb
+Checking out ef61771fc73c50b679df15cb565c199cfe97923d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/persist-state/
-  to /tmp/persist-statevVRD6W/persist-state-20240720.1725
+  to /tmp/persist-staterMlzJP/persist-state-20240823.1951
     persist-state.el -> persist-state.el
-Created persist-state-20240720.1725.tar containing:
-  persist-state-20240720.1725/
-  persist-state-20240720.1725/persist-state-pkg.el
-  persist-state-20240720.1725/persist-state.el
+Created persist-state-20240823.1951.tar containing:
+  persist-state-20240823.1951/
+  persist-state-20240823.1951/persist-state-pkg.el
+  persist-state-20240823.1951/persist-state.el
  ✓ Success:
-  2024-08-23T00:20:07+0000  persist-state-20240720.1725.entry
-  2024-08-23T00:20:07+0000  persist-state-20240720.1725.tar
-Built persist-state in 3.745s, finished at 2024-08-23T00:20:08+0000
+  2024-08-24T00:21:53+0000  persist-state-20240823.1951.entry
+  2024-08-24T00:21:53+0000  persist-state-20240823.1951.tar
+Built persist-state in 3.366s, finished at 2024-08-24T00:21:54+0000
