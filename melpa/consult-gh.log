@@ -1,0 +1,20 @@
+Package: consult-gh
+Fetcher: github
+Source:  https://github.com/armindarvish/consult-gh.git
+
+Updating /mnt/store/melpa/working/consult-gh/
+Checking out b1d85d179438e4b6469e1b78906a7dde8f07c822
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/consult-gh/
+  to /tmp/consult-ghCo0XDG/consult-gh-20240824.2055
+    consult-gh.el -> consult-gh.el
+    consult-gh-transient.el -> consult-gh-transient.el
+Created consult-gh-20240824.2055.tar containing:
+  consult-gh-20240824.2055/
+  consult-gh-20240824.2055/consult-gh-pkg.el
+  consult-gh-20240824.2055/consult-gh-transient.el
+  consult-gh-20240824.2055/consult-gh.el
+ ✓ Success:
+  2024-08-25T00:56:45+0000  consult-gh-20240824.2055.entry
+  2024-08-25T00:56:45+0000  consult-gh-20240824.2055.tar
+Built consult-gh in 2.736s, finished at 2024-08-25T00:56:46+0000

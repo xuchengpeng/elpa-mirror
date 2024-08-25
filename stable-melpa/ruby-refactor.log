@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/ruby-refactor/
 Checking out e6b7125878a08518bffec6942df0c606f748e9ee
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ruby-refactor/
-  to /tmp/ruby-refactorqHFFgQ/ruby-refactor-20160214.1650
+  to /tmp/ruby-refactorfZ7B4U/ruby-refactor-20160214.1650
     ruby-refactor.el -> ruby-refactor.el
 Created ruby-refactor-20160214.1650.tar containing:
   ruby-refactor-20160214.1650/
   ruby-refactor-20160214.1650/ruby-refactor-pkg.el
   ruby-refactor-20160214.1650/ruby-refactor.el
  ✓ Success:
-  2024-08-24T00:27:26+0000  ruby-refactor-20160214.1650.entry
-  2024-08-24T00:27:25+0000  ruby-refactor-20160214.1650.tar
-Built ruby-refactor in 4.227s, finished at 2024-08-24T00:27:27+0000
+  2024-08-24T23:51:48+0000  ruby-refactor-20160214.1650.entry
+  2024-08-24T23:51:48+0000  ruby-refactor-20160214.1650.tar
+Built ruby-refactor in 2.558s, finished at 2024-08-24T23:51:48+0000
