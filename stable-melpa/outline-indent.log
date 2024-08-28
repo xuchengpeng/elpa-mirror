@@ -6,9 +6,13 @@ Updating /mnt/store/melpa/working/outline-indent/
 Checking out 4cc2a57e1125104cd94430524d3b4e2b4701d78b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/outline-indent/
-  to /tmp/outline-indentplYqVp/outline-indent-20240817.1840
+  to /tmp/outline-indentzo9fem/outline-indent-20240817.1840
     outline-indent.el -> outline-indent.el
 Created outline-indent-20240817.1840.tar containing:
   outline-indent-20240817.1840/
   outline-indent-20240817.1840/outline-indent-pkg.el
   outline-indent-20240817.1840/outline-indent.el
+ ✓ Success:
+  2024-08-28T00:03:59+0000  outline-indent-20240817.1840.entry
+  2024-08-28T00:03:59+0000  outline-indent-20240817.1840.tar
+Built outline-indent in 2.674s, finished at 2024-08-28T00:04:00+0000
