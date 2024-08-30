@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/emacsmirror/clang-format.git
 
 Updating /mnt/store/melpa/working/clang-format/
-Checking out 9f4358fcc8b04018cc1ed46fcc96fc7bfa361a47
+Checking out 7a955a4ed7e92fdb82983e307cb523547bb0285a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/clang-format/
-  to /tmp/clang-formatAbB5CE/clang-format-20240115.1750
+  to /tmp/clang-formatWEcjpG/clang-format-20240828.1832
     clang-format.el -> clang-format.el
-Created clang-format-20240115.1750.tar containing:
-  clang-format-20240115.1750/
-  clang-format-20240115.1750/clang-format-pkg.el
-  clang-format-20240115.1750/clang-format.el
+Created clang-format-20240828.1832.tar containing:
+  clang-format-20240828.1832/
+  clang-format-20240828.1832/clang-format-pkg.el
+  clang-format-20240828.1832/clang-format.el
  ✓ Success:
-  2024-08-27T23:27:36+0000  clang-format-20240115.1750.entry
-  2024-08-27T23:27:36+0000  clang-format-20240115.1750.tar
-Built clang-format in 2.526s, finished at 2024-08-27T23:27:36+0000
+  2024-08-30T00:40:58+0000  clang-format-20240828.1832.entry
+  2024-08-30T00:40:58+0000  clang-format-20240828.1832.tar
+Built clang-format in 4.067s, finished at 2024-08-30T00:40:59+0000

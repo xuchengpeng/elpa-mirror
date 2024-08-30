@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/fosskers/sly-overlay.git
 
 Updating /mnt/store/melpa/working/sly-overlay/
-Checking out 078c2db5390ef19d1336da067fe85b9586b261e4
+Checking out d62945059035f8097a6f222ed2700cfd99609d11
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/sly-overlay/
-  to /tmp/sly-overlayaQEg5C/sly-overlay-20240107.2206
+  to /tmp/sly-overlayn1jFAd/sly-overlay-20240828.910
     sly-overlay.el -> sly-overlay.el
-Created sly-overlay-20240107.2206.tar containing:
-  sly-overlay-20240107.2206/
-  sly-overlay-20240107.2206/sly-overlay-pkg.el
-  sly-overlay-20240107.2206/sly-overlay.el
+Created sly-overlay-20240828.910.tar containing:
+  sly-overlay-20240828.910/
+  sly-overlay-20240828.910/sly-overlay-pkg.el
+  sly-overlay-20240828.910/sly-overlay.el
  ✓ Success:
-  2024-08-28T00:13:18+0000  sly-overlay-20240107.2206.entry
-  2024-08-28T00:13:18+0000  sly-overlay-20240107.2206.tar
-Built sly-overlay in 2.675s, finished at 2024-08-28T00:13:18+0000
+  2024-08-29T23:41:26+0000  sly-overlay-20240828.910.entry
+  2024-08-29T23:41:26+0000  sly-overlay-20240828.910.tar
+Built sly-overlay in 2.548s, finished at 2024-08-29T23:41:27+0000

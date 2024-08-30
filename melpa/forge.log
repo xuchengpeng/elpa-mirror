@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/forge/
 Checking out 7f118f62feede9a27f62881e3b0eb9332d9bca7b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/forge/
-  to /tmp/forgeDwkFWe/forge-20240821.1734
+  to /tmp/forgeVN8M1Y/forge-20240821.1734
     forge-pkg.el -> forge-pkg.el
   ! lisp/forge-bitbucket.el -> forge-bitbucket.el
   ! lisp/forge-commands.el -> forge-commands.el
@@ -29,33 +29,4 @@ Copying files (->) and directories (=>)
   ! lisp/forge-topics.el -> forge-topics.el
   ! lisp/forge.el -> forge.el
   ! docs/forge.texi -> forge.texi
-Generating /tmp/forgeDwkFWe/forge-20240821.1734/forge.info
-Created forge-20240821.1734.tar containing:
-  forge-20240821.1734/
-  forge-20240821.1734/dir
-  forge-20240821.1734/forge-bitbucket.el
-  forge-20240821.1734/forge-commands.el
-  forge-20240821.1734/forge-core.el
-  forge-20240821.1734/forge-db.el
-  forge-20240821.1734/forge-gitea.el
-  forge-20240821.1734/forge-github.el
-  forge-20240821.1734/forge-gitlab.el
-  forge-20240821.1734/forge-gogs.el
-  forge-20240821.1734/forge-issue.el
-  forge-20240821.1734/forge-notify.el
-  forge-20240821.1734/forge-pkg.el
-  forge-20240821.1734/forge-post.el
-  forge-20240821.1734/forge-pullreq.el
-  forge-20240821.1734/forge-repo.el
-  forge-20240821.1734/forge-repos.el
-  forge-20240821.1734/forge-revnote.el
-  forge-20240821.1734/forge-semi.el
-  forge-20240821.1734/forge-tablist.el
-  forge-20240821.1734/forge-topic.el
-  forge-20240821.1734/forge-topics.el
-  forge-20240821.1734/forge.el
-  forge-20240821.1734/forge.info
- ✓ Success:
-  2024-08-27T23:42:01+0000  forge-20240821.1734.entry
-  2024-08-27T23:42:01+0000  forge-20240821.1734.tar
-Built forge in 5.110s, finished at 2024-08-27T23:42:02+0000
+Generating /tmp/forgeVN8M1Y/forge-20240821.1734/forge.info
