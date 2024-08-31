@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/sp1ff/mpdmacs.git
 
 Updating /mnt/store/melpa/working/mpdmacs/
-Checking out a401e2331300f79f9c4edc6fae46982d560c74fb
+Checking out 4e79d99386ae40ec09cc3aa8e77f36ec48ff7114
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mpdmacs/
-  to /tmp/mpdmacssZY1EW/mpdmacs-20240210.1526
+  to /tmp/mpdmacsNjqmpj/mpdmacs-20240830.1758
     mpdmacs.el -> mpdmacs.el
-Created mpdmacs-20240210.1526.tar containing:
-  mpdmacs-20240210.1526/
-  mpdmacs-20240210.1526/mpdmacs-pkg.el
-  mpdmacs-20240210.1526/mpdmacs.el
+Created mpdmacs-20240830.1758.tar containing:
+  mpdmacs-20240830.1758/
+  mpdmacs-20240830.1758/mpdmacs-pkg.el
+  mpdmacs-20240830.1758/mpdmacs.el
  ✓ Success:
-  2024-08-29T23:26:05+0000  mpdmacs-20240210.1526.entry
-  2024-08-29T23:26:05+0000  mpdmacs-20240210.1526.tar
-Built mpdmacs in 2.975s, finished at 2024-08-29T23:26:06+0000
+  2024-08-31T00:04:59+0000  mpdmacs-20240830.1758.entry
+  2024-08-31T00:04:59+0000  mpdmacs-20240830.1758.tar
+Built mpdmacs in 4.008s, finished at 2024-08-31T00:05:00+0000
