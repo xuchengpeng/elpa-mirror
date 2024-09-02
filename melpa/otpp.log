@@ -1,0 +1,20 @@
+Package: otpp
+Fetcher: github
+Source:  https://github.com/abougouffa/one-tab-per-project.git
+
+Updating /mnt/store/melpa/working/otpp/
+Checking out f515d0636426394af9c671bf58107091f9fac072
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/otpp/
+  to /tmp/otppt5PAiC/otpp-20240824.1650
+    otpp-uniq.el -> otpp-uniq.el
+    otpp.el -> otpp.el
+Created otpp-20240824.1650.tar containing:
+  otpp-20240824.1650/
+  otpp-20240824.1650/otpp-pkg.el
+  otpp-20240824.1650/otpp-uniq.el
+  otpp-20240824.1650/otpp.el
+ ✓ Success:
+  2024-09-02T00:50:20+0000  otpp-20240824.1650.entry
+  2024-09-02T00:50:20+0000  otpp-20240824.1650.tar
+Built otpp in 2.634s, finished at 2024-09-02T00:50:21+0000

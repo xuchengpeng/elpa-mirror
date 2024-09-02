@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/numbers/
 Checking out dd02508b788a13b7d4dbcc4923fa23134b783ab3
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/numbers/
-  to /tmp/numbersJELJFI/numbers-20170802.1134
+  to /tmp/numbersuXmvpd/numbers-20170802.1134
     numbers.el -> numbers.el
 Created numbers-20170802.1134.tar containing:
   numbers-20170802.1134/
   numbers-20170802.1134/numbers-pkg.el
   numbers-20170802.1134/numbers.el
  ✓ Success:
-  2024-08-31T00:06:48+0000  numbers-20170802.1134.entry
-  2024-08-31T00:06:48+0000  numbers-20170802.1134.tar
-Built numbers in 2.424s, finished at 2024-08-31T00:06:49+0000
+  2024-09-02T00:46:18+0000  numbers-20170802.1134.entry
+  2024-09-02T00:46:18+0000  numbers-20170802.1134.tar
+Built numbers in 3.985s, finished at 2024-09-02T00:46:19+0000

@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/sphinx-mode/
 Checking out 77ca51adf9ee877f3a8f43e744f59e650772f121
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/sphinx-mode/
-  to /tmp/sphinx-modeZwyRhU/sphinx-mode-20220417.1552
+  to /tmp/sphinx-modeiUkrUj/sphinx-mode-20220417.1552
     sphinx-mode-pkg.el -> sphinx-mode-pkg.el
     sphinx-mode.el -> sphinx-mode.el
     sphinx-src.el -> sphinx-src.el
@@ -16,6 +16,6 @@ Created sphinx-mode-20220417.1552.tar containing:
   sphinx-mode-20220417.1552/sphinx-mode.el
   sphinx-mode-20220417.1552/sphinx-src.el
  ✓ Success:
-  2024-08-31T00:21:27+0000  sphinx-mode-20220417.1552.entry
-  2024-08-31T00:21:27+0000  sphinx-mode-20220417.1552.tar
-Built sphinx-mode in 4.531s, finished at 2024-08-31T00:21:28+0000
+  2024-09-02T01:00:51+0000  sphinx-mode-20220417.1552.entry
+  2024-09-02T01:00:51+0000  sphinx-mode-20220417.1552.tar
+Built sphinx-mode in 4.871s, finished at 2024-09-02T01:00:53+0000

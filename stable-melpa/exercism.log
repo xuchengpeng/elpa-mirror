@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/anonimitoraf/exercism.el.git
 
 Updating /mnt/store/melpa/working/exercism/
-Checking out f9a287a4cd533fdbd3b0e645f425a7b9c469e6ab
+Checking out 44fb97fe6e34925b13bfb1dc027a7a3f55ab145d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/exercism/
-  to /tmp/exercism9DunY5/exercism-20240610.32
+  to /tmp/exercismyVbv28/exercism-20240831.715
     exercism.el -> exercism.el
-Created exercism-20240610.32.tar containing:
-  exercism-20240610.32/
-  exercism-20240610.32/exercism-pkg.el
-  exercism-20240610.32/exercism.el
+Created exercism-20240831.715.tar containing:
+  exercism-20240831.715/
+  exercism-20240831.715/exercism-pkg.el
+  exercism-20240831.715/exercism.el
  ✓ Success:
-  2024-08-30T23:45:37+0000  exercism-20240610.32.entry
-  2024-08-30T23:45:37+0000  exercism-20240610.32.tar
-Built exercism in 2.441s, finished at 2024-08-30T23:45:38+0000
+  2024-09-02T00:25:14+0000  exercism-20240831.715.entry
+  2024-09-02T00:25:14+0000  exercism-20240831.715.tar
+Built exercism in 2.344s, finished at 2024-09-02T00:25:14+0000
