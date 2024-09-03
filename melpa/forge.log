@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/forge/
 Checking out 35cc600d62a01d50699a529b0caa7d40e642d62a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/forge/
-  to /tmp/forgePAqaAD/forge-20240831.2307
+  to /tmp/forgeG18NEm/forge-20240831.2307
   ! lisp/forge-bitbucket.el -> forge-bitbucket.el
   ! lisp/forge-commands.el -> forge-commands.el
   ! lisp/forge-core.el -> forge-core.el
@@ -28,7 +28,7 @@ Copying files (->) and directories (=>)
   ! lisp/forge-topics.el -> forge-topics.el
   ! lisp/forge.el -> forge.el
   ! docs/forge.texi -> forge.texi
-Generating /tmp/forgePAqaAD/forge-20240831.2307/forge.info
+Generating /tmp/forgeG18NEm/forge-20240831.2307/forge.info
 Created forge-20240831.2307.tar containing:
   forge-20240831.2307/
   forge-20240831.2307/dir
@@ -55,6 +55,6 @@ Created forge-20240831.2307.tar containing:
   forge-20240831.2307/forge.el
   forge-20240831.2307/forge.info
  ✓ Success:
-  2024-09-02T00:28:35+0000  forge-20240831.2307.entry
-  2024-09-02T00:28:35+0000  forge-20240831.2307.tar
-Built forge in 5.112s, finished at 2024-09-02T00:28:36+0000
+  2024-09-03T00:51:33+0000  forge-20240831.2307.entry
+  2024-09-03T00:51:32+0000  forge-20240831.2307.tar
+Built forge in 4.994s, finished at 2024-09-03T00:51:33+0000

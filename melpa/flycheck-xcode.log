@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/flycheck-xcode/
 Checking out 6147ab777e2c08e4f5ffdbd85d3013ca700fa835
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/flycheck-xcode/
-  to /tmp/flycheck-xcodeIcFwrW/flycheck-xcode-20180122.651
+  to /tmp/flycheck-xcodecszRQi/flycheck-xcode-20180122.651
     flycheck-xcode.el -> flycheck-xcode.el
 Created flycheck-xcode-20180122.651.tar containing:
   flycheck-xcode-20180122.651/
   flycheck-xcode-20180122.651/flycheck-xcode-pkg.el
   flycheck-xcode-20180122.651/flycheck-xcode.el
  ✓ Success:
-  2024-09-02T00:27:35+0000  flycheck-xcode-20180122.651.entry
-  2024-09-02T00:27:35+0000  flycheck-xcode-20180122.651.tar
-Built flycheck-xcode in 2.433s, finished at 2024-09-02T00:27:36+0000
+  2024-09-03T00:50:19+0000  flycheck-xcode-20180122.651.entry
+  2024-09-03T00:50:19+0000  flycheck-xcode-20180122.651.tar
+Built flycheck-xcode in 2.300s, finished at 2024-09-03T00:50:20+0000

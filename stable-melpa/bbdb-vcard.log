@@ -6,11 +6,11 @@ Updating /mnt/store/melpa/working/bbdb-vcard/
 Checking out 113c66115ce68316e209f51ebce56de8dded3606
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/bbdb-vcard/
-  to /tmp/bbdb-vcardsYh0rq/bbdb-vcard-20210325.2208
+  to /tmp/bbdb-vcardaRgP1O/bbdb-vcard-20210325.2208
     bbdb-vcard-vcard21.el -> bbdb-vcard-vcard21.el
     bbdb-vcard.el -> bbdb-vcard.el
     bbdb-vcard.texi -> bbdb-vcard.texi
-Generating /tmp/bbdb-vcardsYh0rq/bbdb-vcard-20210325.2208/bbdb-vcard.info
+Generating /tmp/bbdb-vcardaRgP1O/bbdb-vcard-20210325.2208/bbdb-vcard.info
 Created bbdb-vcard-20210325.2208.tar containing:
   bbdb-vcard-20210325.2208/
   bbdb-vcard-20210325.2208/bbdb-vcard-pkg.el
@@ -19,6 +19,6 @@ Created bbdb-vcard-20210325.2208.tar containing:
   bbdb-vcard-20210325.2208/bbdb-vcard.info
   bbdb-vcard-20210325.2208/dir
  ✓ Success:
-  2024-09-02T00:11:08+0000  bbdb-vcard-20210325.2208.entry
-  2024-09-02T00:11:07+0000  bbdb-vcard-20210325.2208.tar
-Built bbdb-vcard in 4.027s, finished at 2024-09-02T00:11:09+0000
+  2024-09-03T00:34:04+0000  bbdb-vcard-20210325.2208.entry
+  2024-09-03T00:34:03+0000  bbdb-vcard-20210325.2208.tar
+Built bbdb-vcard in 6.378s, finished at 2024-09-03T00:34:05+0000
