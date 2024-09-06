@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/erefactor/
 Checking out bfe27a1b8c7cac0fe054e76113e941efa3775fe8
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/erefactor/
-  to /tmp/erefactordn4RXr/erefactor-20200513.1252
+  to /tmp/erefactorEJFcQ7/erefactor-20200513.1252
     erefactor.el -> erefactor.el
 Created erefactor-20200513.1252.tar containing:
   erefactor-20200513.1252/
   erefactor-20200513.1252/erefactor-pkg.el
   erefactor-20200513.1252/erefactor.el
  ✓ Success:
-  2024-09-05T04:31:09+0000  erefactor-20200513.1252.entry
-  2024-09-05T04:31:09+0000  erefactor-20200513.1252.tar
-Built erefactor in 2.779s, finished at 2024-09-05T04:31:10+0000
+  2024-09-06T06:52:58+0000  erefactor-20200513.1252.entry
+  2024-09-06T06:52:58+0000  erefactor-20200513.1252.tar
+Built erefactor in 2.720s, finished at 2024-09-06T06:52:59+0000

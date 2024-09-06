@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/graphql-mode/
 Checking out 2183895ea7932359586c4bb99e8562c4aef3aaf7
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/graphql-mode/
-  to /tmp/graphql-modeXJO2Lx/graphql-mode-20240218.1603
+  to /tmp/graphql-modedYyFTV/graphql-mode-20240218.1603
     graphql-mode.el -> graphql-mode.el
 Created graphql-mode-20240218.1603.tar containing:
   graphql-mode-20240218.1603/
   graphql-mode-20240218.1603/graphql-mode-pkg.el
   graphql-mode-20240218.1603/graphql-mode.el
  ✓ Success:
-  2024-09-05T04:38:58+0000  graphql-mode-20240218.1603.entry
-  2024-09-05T04:38:58+0000  graphql-mode-20240218.1603.tar
-Built graphql-mode in 2.367s, finished at 2024-09-05T04:38:59+0000
+  2024-09-06T05:16:18+0000  graphql-mode-20240218.1603.entry
+  2024-09-06T05:16:18+0000  graphql-mode-20240218.1603.tar
+Built graphql-mode in 2.404s, finished at 2024-09-06T05:16:19+0000

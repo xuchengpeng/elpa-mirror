@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/lpy/
 Checking out 2c086ec162d4456b99a6095c3c335382a8304734
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/lpy/
-  to /tmp/lpyFx3fbf/lpy-20231026.1525
+  to /tmp/lpyxD2hxu/lpy-20231026.1525
     lpy-soap.el -> lpy-soap.el
     lpy.el -> lpy.el
 Created lpy-20231026.1525.tar containing:
@@ -15,6 +15,6 @@ Created lpy-20231026.1525.tar containing:
   lpy-20231026.1525/lpy-soap.el
   lpy-20231026.1525/lpy.el
  ✓ Success:
-  2024-09-05T04:48:38+0000  lpy-20231026.1525.entry
-  2024-09-05T04:48:38+0000  lpy-20231026.1525.tar
-Built lpy in 2.586s, finished at 2024-09-05T04:48:39+0000
+  2024-09-06T05:25:43+0000  lpy-20231026.1525.entry
+  2024-09-06T05:25:43+0000  lpy-20231026.1525.tar
+Built lpy in 2.745s, finished at 2024-09-06T05:25:44+0000

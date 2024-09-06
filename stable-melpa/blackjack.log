@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/blackjack/
 Checking out 7f9072630a159b59a146346b5dae24ab8fb5f290
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/blackjack/
-  to /tmp/blackjack18vAZz/blackjack-20230821.41
+  to /tmp/blackjackigE8F3/blackjack-20230821.41
     blackjack.el -> blackjack.el
 Created blackjack-20230821.41.tar containing:
   blackjack-20230821.41/
   blackjack-20230821.41/blackjack-pkg.el
   blackjack-20230821.41/blackjack.el
  ✓ Success:
-  2024-09-05T04:19:20+0000  blackjack-20230821.41.entry
-  2024-09-05T04:19:20+0000  blackjack-20230821.41.tar
-Built blackjack in 2.768s, finished at 2024-09-05T04:19:21+0000
+  2024-09-06T06:41:11+0000  blackjack-20230821.41.entry
+  2024-09-06T06:41:10+0000  blackjack-20230821.41.tar
+Built blackjack in 2.731s, finished at 2024-09-06T06:41:11+0000

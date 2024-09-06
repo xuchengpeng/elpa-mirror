@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/lux-mode/
 Checking out 322f50143d164cd1375c9f5b432cd19095aedbad
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/lux-mode/
-  to /tmp/lux-modeASS2Zw/lux-mode-20240108.1004
+  to /tmp/lux-modeYQvD5N/lux-mode-20240108.1004
   ! emacs/lux-mode.el -> lux-mode.el
 Created lux-mode-20240108.1004.tar containing:
   lux-mode-20240108.1004/
   lux-mode-20240108.1004/lux-mode-pkg.el
   lux-mode-20240108.1004/lux-mode.el
  ✓ Success:
-  2024-09-05T04:48:59+0000  lux-mode-20240108.1004.entry
-  2024-09-05T04:48:59+0000  lux-mode-20240108.1004.tar
-Built lux-mode in 2.878s, finished at 2024-09-05T04:49:00+0000
+  2024-09-06T05:26:05+0000  lux-mode-20240108.1004.entry
+  2024-09-06T05:26:05+0000  lux-mode-20240108.1004.tar
+Built lux-mode in 2.692s, finished at 2024-09-06T05:26:06+0000
