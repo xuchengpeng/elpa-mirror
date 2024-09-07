@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/cm-mode/
 Checking out a9381f57f3005a9b26f81085ecb2accf680c6f6b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/cm-mode/
-  to /tmp/cm-modeZ0foNx/cm-mode-20240422.725
+  to /tmp/cm-modeeJIMaJ/cm-mode-20240422.725
     cm-mode.el -> cm-mode.el
 Created cm-mode-20240422.725.tar containing:
   cm-mode-20240422.725/
   cm-mode-20240422.725/cm-mode-pkg.el
   cm-mode-20240422.725/cm-mode.el
  ✓ Success:
-  2024-09-06T06:43:59+0000  cm-mode-20240422.725.entry
-  2024-09-06T06:43:59+0000  cm-mode-20240422.725.tar
-Built cm-mode in 2.717s, finished at 2024-09-06T06:44:00+0000
+  2024-09-07T00:30:45+0000  cm-mode-20240422.725.entry
+  2024-09-07T00:30:45+0000  cm-mode-20240422.725.tar
+Built cm-mode in 2.911s, finished at 2024-09-07T00:30:46+0000
