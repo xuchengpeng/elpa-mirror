@@ -3,20 +3,22 @@ Fetcher: github
 Source:  https://github.com/dengste/org-caldav.git
 
 Updating /mnt/store/melpa/working/org-caldav/
-Checking out 313cb71855f200f74c8ef8962e0019266bb8a422
+Checking out 6a2683211baa4b4efed0ca210275bf68dbbcfc4f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/org-caldav/
-  to /tmp/org-caldav2cy20k/org-caldav-20240825.2327
+  to /tmp/org-caldavgk4HJd/org-caldav-20240908.2256
     org-caldav.el -> org-caldav.el
   ! doc/org-caldav.texi -> org-caldav.texi
-Generating /tmp/org-caldav2cy20k/org-caldav-20240825.2327/org-caldav.info
-Created org-caldav-20240825.2327.tar containing:
-  org-caldav-20240825.2327/
-  org-caldav-20240825.2327/dir
-  org-caldav-20240825.2327/org-caldav-pkg.el
-  org-caldav-20240825.2327/org-caldav.el
-  org-caldav-20240825.2327/org-caldav.info
+Generating /tmp/org-caldavgk4HJd/org-caldav-20240908.2256/org-caldav.info
+Created org-caldav-20240908.2256.tar containing:
+  org-caldav-20240908.2256/
+  org-caldav-20240908.2256/dir
+  org-caldav-20240908.2256/org-caldav-pkg.el
+  org-caldav-20240908.2256/org-caldav.el
+  org-caldav-20240908.2256/org-caldav.info
  ✓ Success:
-  2024-09-08T00:00:54+0000  org-caldav-20240825.2327.entry
-  2024-09-08T00:00:54+0000  org-caldav-20240825.2327.tar
-Built org-caldav in 4.410s, finished at 2024-09-08T00:00:55+0000
+  2024-09-08T22:42:44+0000  org-caldav-20240825.2327.entry
+  2024-09-08T22:42:44+0000  org-caldav-20240825.2327.tar
+  2024-09-09T00:27:53+0000  org-caldav-20240908.2256.entry
+  2024-09-09T00:27:53+0000  org-caldav-20240908.2256.tar
+Built org-caldav in 4.528s, finished at 2024-09-09T00:27:54+0000

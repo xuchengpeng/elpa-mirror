@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/rmsbolt/
 Checking out 484d9c06f0544532336ad2ac2ddf46a1a81272ef
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/rmsbolt/
-  to /tmp/rmsboltFUn8hR/rmsbolt-20240622.1704
+  to /tmp/rmsboltF6I1Gz/rmsbolt-20240622.1704
     rmsbolt-java.el -> rmsbolt-java.el
     rmsbolt-split.el -> rmsbolt-split.el
     rmsbolt.el -> rmsbolt.el
   ! doc/rmsbolt.texi -> rmsbolt.texi
     starters => starters
-Generating /tmp/rmsboltFUn8hR/rmsbolt-20240622.1704/rmsbolt.info
+Generating /tmp/rmsboltF6I1Gz/rmsbolt-20240622.1704/rmsbolt.info
 Created rmsbolt-20240622.1704.tar containing:
   rmsbolt-20240622.1704/
   rmsbolt-20240622.1704/dir
@@ -41,6 +41,6 @@ Created rmsbolt-20240622.1704.tar containing:
   rmsbolt-20240622.1704/starters/rmsbolt.swift
   rmsbolt-20240622.1704/starters/rmsbolt.zig
  ✓ Success:
-  2024-09-08T00:09:59+0000  rmsbolt-20240622.1704.entry
-  2024-09-08T00:09:59+0000  rmsbolt-20240622.1704.tar
-Built rmsbolt in 3.792s, finished at 2024-09-08T00:09:59+0000
+  2024-09-09T00:36:53+0000  rmsbolt-20240622.1704.entry
+  2024-09-09T00:36:53+0000  rmsbolt-20240622.1704.tar
+Built rmsbolt in 4.250s, finished at 2024-09-09T00:36:54+0000

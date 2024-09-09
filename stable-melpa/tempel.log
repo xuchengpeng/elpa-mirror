@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/minad/tempel.git
 
 Updating /mnt/store/melpa/working/tempel/
-Checking out 317c0e41d542721db11a7a8a1c6b78762959259b
+Checking out 650e8129a570fbc827d43ad60f25299179041102
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/tempel/
-  to /tmp/tempelXxHUYM/tempel-20240723.2206
+  to /tmp/tempeldraLNt/tempel-20240908.1848
     tempel.el -> tempel.el
-Created tempel-20240723.2206.tar containing:
-  tempel-20240723.2206/
-  tempel-20240723.2206/tempel-pkg.el
-  tempel-20240723.2206/tempel.el
+Created tempel-20240908.1848.tar containing:
+  tempel-20240908.1848/
+  tempel-20240908.1848/tempel-pkg.el
+  tempel-20240908.1848/tempel.el
  ✓ Success:
-  2024-09-08T00:15:57+0000  tempel-20240723.2206.entry
-  2024-09-08T00:15:56+0000  tempel-20240723.2206.tar
-Built tempel in 2.936s, finished at 2024-09-08T00:15:58+0000
+  2024-09-09T00:42:44+0000  tempel-20240908.1848.entry
+  2024-09-09T00:42:44+0000  tempel-20240908.1848.tar
+Built tempel in 2.564s, finished at 2024-09-09T00:42:45+0000
