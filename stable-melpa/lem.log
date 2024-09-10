@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/lem/
 Checking out 2dc5036f0991db352948ea93ae895654c0fe775d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/lem/
-  to /tmp/lemmDd5Kj/lem-20240630.1228
+  to /tmp/lemPYRD5P/lem-20240630.1228
   ! lisp/lem-api.el -> lem-api.el
   ! lisp/lem-post.el -> lem-post.el
   ! lisp/lem-request.el -> lem-request.el
@@ -23,6 +23,6 @@ Created lem-20240630.1228.tar containing:
   lem-20240630.1228/lem-ui.el
   lem-20240630.1228/lem.el
  ✓ Success:
-  2024-09-09T00:19:59+0000  lem-20240630.1228.entry
-  2024-09-09T00:19:59+0000  lem-20240630.1228.tar
-Built lem in 3.680s, finished at 2024-09-09T00:20:00+0000
+  2024-09-10T07:55:31+0000  lem-20240630.1228.entry
+  2024-09-10T07:55:30+0000  lem-20240630.1228.tar
+Built lem in 3.617s, finished at 2024-09-10T07:55:31+0000

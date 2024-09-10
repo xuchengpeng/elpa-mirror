@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/gerrit-download/
 Checking out d568acc7c5935188c9bc19ba72719a6092d9f6fd
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/gerrit-download/
-  to /tmp/gerrit-downloadZ1J6TH/gerrit-download-20150714.1408
+  to /tmp/gerrit-downloadNVKm6h/gerrit-download-20150714.1408
     gerrit-download.el -> gerrit-download.el
 Created gerrit-download-20150714.1408.tar containing:
   gerrit-download-20150714.1408/
   gerrit-download-20150714.1408/gerrit-download-pkg.el
   gerrit-download-20150714.1408/gerrit-download.el
  ✓ Success:
-  2024-09-09T00:09:28+0000  gerrit-download-20150714.1408.entry
-  2024-09-09T00:09:28+0000  gerrit-download-20150714.1408.tar
-Built gerrit-download in 2.487s, finished at 2024-09-09T00:09:29+0000
+  2024-09-10T07:45:10+0000  gerrit-download-20150714.1408.entry
+  2024-09-10T07:45:10+0000  gerrit-download-20150714.1408.tar
+Built gerrit-download in 2.754s, finished at 2024-09-10T07:45:11+0000
