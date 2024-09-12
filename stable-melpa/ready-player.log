@@ -3,18 +3,16 @@ Fetcher: github
 Source:  https://github.com/xenodium/ready-player.git
 
 Updating /mnt/store/melpa/working/ready-player/
-Checking out 1064ec0e9690470f24eaed673541d689c78a2ba8
+Checking out 11c263596ff826168436e4af1ebdaff7255adb1e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ready-player/
-  to /tmp/ready-player8t8skc/ready-player-20240910.802
+  to /tmp/ready-playerplc6vC/ready-player-20240911.2118
     ready-player.el -> ready-player.el
-Created ready-player-20240910.802.tar containing:
-  ready-player-20240910.802/
-  ready-player-20240910.802/ready-player-pkg.el
-  ready-player-20240910.802/ready-player.el
+Created ready-player-20240911.2118.tar containing:
+  ready-player-20240911.2118/
+  ready-player-20240911.2118/ready-player-pkg.el
+  ready-player-20240911.2118/ready-player.el
  ✓ Success:
-  2024-09-10T06:26:56+0000  ready-player-20240909.1329.entry
-  2024-09-10T06:26:55+0000  ready-player-20240909.1329.tar
-  2024-09-10T08:11:08+0000  ready-player-20240910.802.entry
-  2024-09-10T08:11:08+0000  ready-player-20240910.802.tar
-Built ready-player in 3.200s, finished at 2024-09-10T08:11:09+0000
+  2024-09-12T00:27:58+0000  ready-player-20240911.2118.entry
+  2024-09-12T00:27:58+0000  ready-player-20240911.2118.tar
+Built ready-player in 4.712s, finished at 2024-09-12T00:28:00+0000

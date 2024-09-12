@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/ring-mode/
 Checking out 4e38dd5ca374d7d40fd1eeed1e83ef935efd387a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ring-mode/
-  to /tmp/ring-modedNaYFu/ring-mode-20221226.1159
+  to /tmp/ring-modeJChcRF/ring-mode-20221226.1159
     ring-mode.el -> ring-mode.el
 Created ring-mode-20221226.1159.tar containing:
   ring-mode-20221226.1159/
   ring-mode-20221226.1159/ring-mode-pkg.el
   ring-mode-20221226.1159/ring-mode.el
  ✓ Success:
-  2024-09-10T08:12:24+0000  ring-mode-20221226.1159.entry
-  2024-09-10T08:12:24+0000  ring-mode-20221226.1159.tar
-Built ring-mode in 2.630s, finished at 2024-09-10T08:12:25+0000
+  2024-09-12T00:29:02+0000  ring-mode-20221226.1159.entry
+  2024-09-12T00:29:02+0000  ring-mode-20221226.1159.tar
+Built ring-mode in 2.424s, finished at 2024-09-12T00:29:03+0000

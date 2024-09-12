@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/ksp-mode/
 Checking out 89b91b8ed6753867e30aa494e5d80325dfe25569
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ksp-mode/
-  to /tmp/ksp-mode53xhIJ/ksp-mode-20221220.1136
+  to /tmp/ksp-modeylTBOo/ksp-mode-20221220.1136
     ksp-mode.el -> ksp-mode.el
 Created ksp-mode-20221220.1136.tar containing:
   ksp-mode-20221220.1136/
   ksp-mode-20221220.1136/ksp-mode-pkg.el
   ksp-mode-20221220.1136/ksp-mode.el
  ✓ Success:
-  2024-09-10T07:54:47+0000  ksp-mode-20221220.1136.entry
-  2024-09-10T07:54:47+0000  ksp-mode-20221220.1136.tar
-Built ksp-mode in 3.875s, finished at 2024-09-10T07:54:48+0000
+  2024-09-12T00:11:25+0000  ksp-mode-20221220.1136.entry
+  2024-09-12T00:11:24+0000  ksp-mode-20221220.1136.tar
+Built ksp-mode in 2.535s, finished at 2024-09-12T00:11:25+0000

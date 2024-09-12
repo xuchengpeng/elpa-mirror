@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/swift-mode/
 Checking out b06c97b909418b5dca3d15351b2ce86a04df32fb
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/swift-mode/
-  to /tmp/swift-modekv13vn/swift-mode-20240622.935
+  to /tmp/swift-modeiCUOg7/swift-mode-20240622.935
     swift-mode-beginning-of-defun.el -> swift-mode-beginning-of-defun.el
     swift-mode-fill.el -> swift-mode-fill.el
     swift-mode-font-lock.el -> swift-mode-font-lock.el
@@ -29,6 +29,6 @@ Created swift-mode-20240622.935.tar containing:
   swift-mode-20240622.935/swift-mode-standard-types.el
   swift-mode-20240622.935/swift-mode.el
  ✓ Success:
-  2024-09-10T08:17:33+0000  swift-mode-20240622.935.entry
-  2024-09-10T08:17:32+0000  swift-mode-20240622.935.tar
-Built swift-mode in 2.894s, finished at 2024-09-10T08:17:33+0000
+  2024-09-12T00:34:06+0000  swift-mode-20240622.935.entry
+  2024-09-12T00:34:06+0000  swift-mode-20240622.935.tar
+Built swift-mode in 2.664s, finished at 2024-09-12T00:34:07+0000

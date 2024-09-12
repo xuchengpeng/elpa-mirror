@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/px/
 Checking out 0c52f7933eab3ca1642ab0df151db9950430c9e2
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/px/
-  to /tmp/pxzMR6Im/px-20170317.2330
+  to /tmp/pxOBvvQQ/px-20170317.2330
     px.el -> px.el
 Created px-20170317.2330.tar containing:
   px-20170317.2330/
   px-20170317.2330/px-pkg.el
   px-20170317.2330/px.el
  ✓ Success:
-  2024-09-10T08:10:03+0000  px-20170317.2330.entry
-  2024-09-10T08:10:03+0000  px-20170317.2330.tar
-Built px in 2.819s, finished at 2024-09-10T08:10:04+0000
+  2024-09-12T00:26:44+0000  px-20170317.2330.entry
+  2024-09-12T00:26:44+0000  px-20170317.2330.tar
+Built px in 2.648s, finished at 2024-09-12T00:26:44+0000

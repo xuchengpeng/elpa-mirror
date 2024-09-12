@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/transmission/
 Checking out 243d5dc15917df2611fd0c9f288faea17a00a396
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/transmission/
-  to /tmp/transmissionWA344v/transmission-20221130.212
+  to /tmp/transmissionTgoodj/transmission-20221130.212
     transmission.el -> transmission.el
 Created transmission-20221130.212.tar containing:
   transmission-20221130.212/
   transmission-20221130.212/transmission-pkg.el
   transmission-20221130.212/transmission.el
  ✓ Success:
-  2024-09-10T08:19:38+0000  transmission-20221130.212.entry
-  2024-09-10T08:19:37+0000  transmission-20221130.212.tar
-Built transmission in 2.736s, finished at 2024-09-10T08:19:38+0000
+  2024-09-12T00:36:09+0000  transmission-20221130.212.entry
+  2024-09-12T00:36:09+0000  transmission-20221130.212.tar
+Built transmission in 2.740s, finished at 2024-09-12T00:36:10+0000

@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/purcell/flycheck-relint.git
 
 Updating /mnt/store/melpa/working/flycheck-relint/
-Checking out 9b0baed3fb143be2440de7936a0cc2a51ee226ac
+Checking out 88da7151b1781ec950eb9ec0b2ad32b90dae7427
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/flycheck-relint/
-  to /tmp/flycheck-relintIxHZrG/flycheck-relint-20240909.1002
+  to /tmp/flycheck-relintGdY0y5/flycheck-relint-20240910.1036
     flycheck-relint.el -> flycheck-relint.el
-Created flycheck-relint-20240909.1002.tar containing:
-  flycheck-relint-20240909.1002/
-  flycheck-relint-20240909.1002/flycheck-relint-pkg.el
-  flycheck-relint-20240909.1002/flycheck-relint.el
+Created flycheck-relint-20240910.1036.tar containing:
+  flycheck-relint-20240910.1036/
+  flycheck-relint-20240910.1036/flycheck-relint-pkg.el
+  flycheck-relint-20240910.1036/flycheck-relint.el
  ✓ Success:
-  2024-09-10T07:42:45+0000  flycheck-relint-20240909.1002.entry
-  2024-09-10T07:42:44+0000  flycheck-relint-20240909.1002.tar
-Built flycheck-relint in 2.617s, finished at 2024-09-10T07:42:45+0000
+  2024-09-11T23:59:31+0000  flycheck-relint-20240910.1036.entry
+  2024-09-11T23:59:31+0000  flycheck-relint-20240910.1036.tar
+Built flycheck-relint in 2.723s, finished at 2024-09-11T23:59:32+0000
