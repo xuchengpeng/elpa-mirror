@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/nnreddit/
 Checking out f8e26834b523c03dfcb0c751373123ffd32b8522
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/nnreddit/
-  to /tmp/nnredditXvBqJa/nnreddit-20240629.2347
+  to /tmp/nnredditLgalUA/nnreddit-20240629.2347
   ! lisp/nnreddit-pkg.el -> nnreddit-pkg.el
   ! lisp/nnreddit.el -> nnreddit.el
     setup.py -> setup.py
@@ -29,6 +29,6 @@ Created nnreddit-20240629.2347.tar containing:
   nnreddit-20240629.2347/requirements.txt
   nnreddit-20240629.2347/setup.py
  ✓ Success:
-  2024-09-12T00:17:46+0000  nnreddit-20240629.2347.entry
-  2024-09-12T00:17:46+0000  nnreddit-20240629.2347.tar
-Built nnreddit in 2.779s, finished at 2024-09-12T00:17:47+0000
+  2024-09-13T07:21:36+0000  nnreddit-20240629.2347.entry
+  2024-09-13T07:21:36+0000  nnreddit-20240629.2347.tar
+Built nnreddit in 2.506s, finished at 2024-09-13T07:21:37+0000

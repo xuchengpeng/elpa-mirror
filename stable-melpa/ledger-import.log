@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/ledger-import/
 Checking out e47e8508794462986b982d6ce3d05bcd17c19242
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ledger-import/
-  to /tmp/ledger-importhEvUmR/ledger-import-20230904.1837
+  to /tmp/ledger-importmAvEHc/ledger-import-20230904.1837
     ledger-import.el -> ledger-import.el
 Created ledger-import-20230904.1837.tar containing:
   ledger-import-20230904.1837/
   ledger-import-20230904.1837/ledger-import-pkg.el
   ledger-import-20230904.1837/ledger-import.el
  ✓ Success:
-  2024-09-12T00:12:01+0000  ledger-import-20230904.1837.entry
-  2024-09-12T00:12:01+0000  ledger-import-20230904.1837.tar
-Built ledger-import in 2.798s, finished at 2024-09-12T00:12:02+0000
+  2024-09-13T07:15:55+0000  ledger-import-20230904.1837.entry
+  2024-09-13T07:15:55+0000  ledger-import-20230904.1837.tar
+Built ledger-import in 2.542s, finished at 2024-09-13T07:15:56+0000

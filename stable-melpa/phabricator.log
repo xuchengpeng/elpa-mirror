@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/phabricator/
 Checking out d09d6f059aea92d3b11c68664a5e80c901182ab8
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/phabricator/
-  to /tmp/phabricatorqwETu1/phabricator-20160510.1425
+  to /tmp/phabricatorf30Wfs/phabricator-20160510.1425
     phabricator.el -> phabricator.el
 Created phabricator-20160510.1425.tar containing:
   phabricator-20160510.1425/
   phabricator-20160510.1425/phabricator-pkg.el
   phabricator-20160510.1425/phabricator.el
  ✓ Success:
-  2024-09-12T00:24:10+0000  phabricator-20160510.1425.entry
-  2024-09-12T00:24:10+0000  phabricator-20160510.1425.tar
-Built phabricator in 2.609s, finished at 2024-09-12T00:24:11+0000
+  2024-09-13T07:27:52+0000  phabricator-20160510.1425.entry
+  2024-09-13T07:27:51+0000  phabricator-20160510.1425.tar
+Built phabricator in 2.527s, finished at 2024-09-13T07:27:53+0000
