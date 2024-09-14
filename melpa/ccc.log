@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/ccc/
 Checking out 36fb9f7e527f975d333887fd0cca4d611ae1ab23
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ccc/
-  to /tmp/cccZQLZya/ccc-20210501.820
+  to /tmp/cccPtLVsy/ccc-20210501.820
     ccc.el -> ccc.el
 Created ccc-20210501.820.tar containing:
   ccc-20210501.820/
   ccc-20210501.820/ccc-pkg.el
   ccc-20210501.820/ccc.el
  ✓ Success:
-  2024-09-13T06:49:28+0000  ccc-20210501.820.entry
-  2024-09-13T06:49:28+0000  ccc-20210501.820.tar
-Built ccc in 2.604s, finished at 2024-09-13T06:49:29+0000
+  2024-09-14T00:05:58+0000  ccc-20210501.820.entry
+  2024-09-14T00:05:57+0000  ccc-20210501.820.tar
+Built ccc in 2.672s, finished at 2024-09-14T00:05:58+0000

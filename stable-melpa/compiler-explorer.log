@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/compiler-explorer/
 Checking out be99c0f00d4814c3602ea55ca116f5dcda6645a6
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/compiler-explorer/
-  to /tmp/compiler-explorerhlroCA/compiler-explorer-20240617.2114
+  to /tmp/compiler-explorerc8BKWP/compiler-explorer-20240617.2114
     compiler-explorer.el -> compiler-explorer.el
 Created compiler-explorer-20240617.2114.tar containing:
   compiler-explorer-20240617.2114/
   compiler-explorer-20240617.2114/compiler-explorer-pkg.el
   compiler-explorer-20240617.2114/compiler-explorer.el
  ✓ Success:
-  2024-09-13T06:52:15+0000  compiler-explorer-20240617.2114.entry
-  2024-09-13T06:52:15+0000  compiler-explorer-20240617.2114.tar
-Built compiler-explorer in 4.755s, finished at 2024-09-13T06:52:16+0000
+  2024-09-14T00:08:45+0000  compiler-explorer-20240617.2114.entry
+  2024-09-14T00:08:45+0000  compiler-explorer-20240617.2114.tar
+Built compiler-explorer in 3.083s, finished at 2024-09-14T00:08:46+0000
