@@ -3,30 +3,3 @@ Fetcher: github
 Source:  https://github.com/dgutov/diff-hl.git
 
 Updating /mnt/store/melpa/working/diff-hl/
-Checking out b80ff9b4a772f7ea000e86fbf88175104ddf9557
-Copying files (->) and directories (=>)
-  from /mnt/store/melpa/working/diff-hl/
-  to /tmp/diff-hlPtjW1V/diff-hl-20240802.2316
-    diff-hl-amend.el -> diff-hl-amend.el
-    diff-hl-dired.el -> diff-hl-dired.el
-    diff-hl-flydiff.el -> diff-hl-flydiff.el
-    diff-hl-inline-popup.el -> diff-hl-inline-popup.el
-    diff-hl-margin.el -> diff-hl-margin.el
-    diff-hl-show-hunk-posframe.el -> diff-hl-show-hunk-posframe.el
-    diff-hl-show-hunk.el -> diff-hl-show-hunk.el
-    diff-hl.el -> diff-hl.el
-Created diff-hl-20240802.2316.tar containing:
-  diff-hl-20240802.2316/
-  diff-hl-20240802.2316/diff-hl-amend.el
-  diff-hl-20240802.2316/diff-hl-dired.el
-  diff-hl-20240802.2316/diff-hl-flydiff.el
-  diff-hl-20240802.2316/diff-hl-inline-popup.el
-  diff-hl-20240802.2316/diff-hl-margin.el
-  diff-hl-20240802.2316/diff-hl-pkg.el
-  diff-hl-20240802.2316/diff-hl-show-hunk-posframe.el
-  diff-hl-20240802.2316/diff-hl-show-hunk.el
-  diff-hl-20240802.2316/diff-hl.el
- ✓ Success:
-  2024-09-14T00:11:13+0000  diff-hl-20240802.2316.entry
-  2024-09-14T00:11:13+0000  diff-hl-20240802.2316.tar
-Built diff-hl in 2.539s, finished at 2024-09-14T00:11:14+0000

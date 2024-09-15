@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/sauron/
 Checking out 5daade4836da5b1b2ab26d84128d6c38328a5d52
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/sauron/
-  to /tmp/saurony9UyiU/sauron-20201015.836
+  to /tmp/sauronnDhVRV/sauron-20201015.836
     sauron-ams-org.el -> sauron-ams-org.el
     sauron-appt.el -> sauron-appt.el
     sauron-compilation.el -> sauron-compilation.el
@@ -41,6 +41,6 @@ Created sauron-20201015.836.tar containing:
   sauron-20201015.836/sauron-zeroconf.el
   sauron-20201015.836/sauron.el
  ✓ Success:
-  2024-09-14T00:50:04+0000  sauron-20201015.836.entry
-  2024-09-14T00:50:04+0000  sauron-20201015.836.tar
-Built sauron in 2.613s, finished at 2024-09-14T00:50:05+0000
+  2024-09-15T00:03:33+0000  sauron-20201015.836.entry
+  2024-09-15T00:03:33+0000  sauron-20201015.836.tar
+Built sauron in 2.567s, finished at 2024-09-15T00:03:34+0000

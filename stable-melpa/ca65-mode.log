@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/ca65-mode/
 Checking out 590d90cc0e1c1864dd7ce03df99b741ba866d52a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ca65-mode/
-  to /tmp/ca65-modePjOPKs/ca65-mode-20210218.106
+  to /tmp/ca65-mode1sMHzU/ca65-mode-20210218.106
     ca65-mode.el -> ca65-mode.el
 Created ca65-mode-20210218.106.tar containing:
   ca65-mode-20210218.106/
   ca65-mode-20210218.106/ca65-mode-pkg.el
   ca65-mode-20210218.106/ca65-mode.el
  ✓ Success:
-  2024-09-14T00:05:21+0000  ca65-mode-20210218.106.entry
-  2024-09-14T00:05:20+0000  ca65-mode-20210218.106.tar
-Built ca65-mode in 2.541s, finished at 2024-09-14T00:05:21+0000
+  2024-09-15T01:01:57+0000  ca65-mode-20210218.106.entry
+  2024-09-15T01:01:56+0000  ca65-mode-20210218.106.tar
+Built ca65-mode in 2.760s, finished at 2024-09-15T01:01:57+0000
