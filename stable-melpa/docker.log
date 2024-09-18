@@ -3,10 +3,10 @@ Fetcher: github
 Source:  https://github.com/Silex/docker.el.git
 
 Updating /mnt/store/melpa/working/docker/
-Checking out d837c7dfc6c5a949f19e9d673a4ac70b960d282e
+Checking out 6f8bba0d11a5143872dfc25afdabe16cae410d11
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/docker/
-  to /tmp/dockerP9AmJH/docker-20240805.1313
+  to /tmp/dockerIIBVfO/docker-20240917.1355
     docker-compose.el -> docker-compose.el
     docker-container.el -> docker-container.el
     docker-context.el -> docker-context.el
@@ -19,22 +19,22 @@ Copying files (->) and directories (=>)
     docker-utils.el -> docker-utils.el
     docker-volume.el -> docker-volume.el
     docker.el -> docker.el
-Created docker-20240805.1313.tar containing:
-  docker-20240805.1313/
-  docker-20240805.1313/docker-compose.el
-  docker-20240805.1313/docker-container.el
-  docker-20240805.1313/docker-context.el
-  docker-20240805.1313/docker-core.el
-  docker-20240805.1313/docker-faces.el
-  docker-20240805.1313/docker-group.el
-  docker-20240805.1313/docker-image.el
-  docker-20240805.1313/docker-network.el
-  docker-20240805.1313/docker-pkg.el
-  docker-20240805.1313/docker-process.el
-  docker-20240805.1313/docker-utils.el
-  docker-20240805.1313/docker-volume.el
-  docker-20240805.1313/docker.el
+Created docker-20240917.1355.tar containing:
+  docker-20240917.1355/
+  docker-20240917.1355/docker-compose.el
+  docker-20240917.1355/docker-container.el
+  docker-20240917.1355/docker-context.el
+  docker-20240917.1355/docker-core.el
+  docker-20240917.1355/docker-faces.el
+  docker-20240917.1355/docker-group.el
+  docker-20240917.1355/docker-image.el
+  docker-20240917.1355/docker-network.el
+  docker-20240917.1355/docker-pkg.el
+  docker-20240917.1355/docker-process.el
+  docker-20240917.1355/docker-utils.el
+  docker-20240917.1355/docker-volume.el
+  docker-20240917.1355/docker.el
  ✓ Success:
-  2024-09-17T00:29:13+0000  docker-20240805.1313.entry
-  2024-09-17T00:29:12+0000  docker-20240805.1313.tar
-Built docker in 2.751s, finished at 2024-09-17T00:29:13+0000
+  2024-09-18T00:06:37+0000  docker-20240917.1355.entry
+  2024-09-18T00:06:37+0000  docker-20240917.1355.tar
+Built docker in 2.589s, finished at 2024-09-18T00:06:38+0000

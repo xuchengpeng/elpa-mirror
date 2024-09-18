@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/deadgrep/
 Checking out 609a9c3bf52f44998dd0ec7275374d059a3fdc15
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/deadgrep/
-  to /tmp/deadgrepZAzYxu/deadgrep-20240627.1535
+  to /tmp/deadgrepHU9srb/deadgrep-20240627.1535
     deadgrep.el -> deadgrep.el
 Created deadgrep-20240627.1535.tar containing:
   deadgrep-20240627.1535/
   deadgrep-20240627.1535/deadgrep-pkg.el
   deadgrep-20240627.1535/deadgrep.el
  ✓ Success:
-  2024-09-17T00:27:35+0000  deadgrep-20240627.1535.entry
-  2024-09-17T00:27:35+0000  deadgrep-20240627.1535.tar
-Built deadgrep in 2.769s, finished at 2024-09-17T00:27:36+0000
+  2024-09-18T00:05:01+0000  deadgrep-20240627.1535.entry
+  2024-09-18T00:05:00+0000  deadgrep-20240627.1535.tar
+Built deadgrep in 2.627s, finished at 2024-09-18T00:05:01+0000
