@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/org-link-beautify/
 Checking out e0aac373ca68a64057abac5429b66b3cb4846b41
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/org-link-beautify/
-  to /tmp/org-link-beautify7iMXpL/org-link-beautify-20240912.1341
+  to /tmp/org-link-beautify1oINeY/org-link-beautify-20240912.1341
     org-link-beautify.el -> org-link-beautify.el
     scripts => scripts
 Created org-link-beautify-20240912.1341.tar containing:
@@ -16,6 +16,6 @@ Created org-link-beautify-20240912.1341.tar containing:
   org-link-beautify-20240912.1341/scripts/
   org-link-beautify-20240912.1341/scripts/thumbnailer-ebook.py
  ✓ Success:
-  2024-09-18T00:35:05+0000  org-link-beautify-20240912.1341.entry
-  2024-09-18T00:35:05+0000  org-link-beautify-20240912.1341.tar
-Built org-link-beautify in 3.179s, finished at 2024-09-18T00:35:06+0000
+  2024-09-19T00:10:16+0000  org-link-beautify-20240912.1341.entry
+  2024-09-19T00:10:16+0000  org-link-beautify-20240912.1341.tar
+Built org-link-beautify in 3.166s, finished at 2024-09-19T00:10:17+0000

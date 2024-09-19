@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/jamescherti/flymake-bashate.el.git
 
 Updating /mnt/store/melpa/working/flymake-bashate/
-Checking out f79957c66d090de30b51d1e11a9e7a1342adb7f6
+Checking out 71acb57748694e7f18de252d4f808e12bfa07fef
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/flymake-bashate/
-  to /tmp/flymake-bashateKZWETk/flymake-bashate-20240911.2345
+  to /tmp/flymake-bashateYrzvbc/flymake-bashate-20240918.1343
     flymake-bashate.el -> flymake-bashate.el
-Created flymake-bashate-20240911.2345.tar containing:
-  flymake-bashate-20240911.2345/
-  flymake-bashate-20240911.2345/flymake-bashate-pkg.el
-  flymake-bashate-20240911.2345/flymake-bashate.el
+Created flymake-bashate-20240918.1343.tar containing:
+  flymake-bashate-20240918.1343/
+  flymake-bashate-20240918.1343/flymake-bashate-pkg.el
+  flymake-bashate-20240918.1343/flymake-bashate.el
  ✓ Success:
-  2024-09-18T00:14:20+0000  flymake-bashate-20240911.2345.entry
-  2024-09-18T00:14:20+0000  flymake-bashate-20240911.2345.tar
-Built flymake-bashate in 2.606s, finished at 2024-09-18T00:14:20+0000
+  2024-09-18T23:49:23+0000  flymake-bashate-20240918.1343.entry
+  2024-09-18T23:49:23+0000  flymake-bashate-20240918.1343.tar
+Built flymake-bashate in 2.647s, finished at 2024-09-18T23:49:24+0000
