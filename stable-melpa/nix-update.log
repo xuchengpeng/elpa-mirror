@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/nix-update/
 Checking out aab70a38165575a9cb41726f1cc67df60fbf2832
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/nix-update/
-  to /tmp/nix-updateEcXz4z/nix-update-20220816.2212
+  to /tmp/nix-update7snpVZ/nix-update-20220816.2212
     nix-update.el -> nix-update.el
 Created nix-update-20220816.2212.tar containing:
   nix-update-20220816.2212/
   nix-update-20220816.2212/nix-update-pkg.el
   nix-update-20220816.2212/nix-update.el
  ✓ Success:
-  2024-09-19T00:07:07+0000  nix-update-20220816.2212.entry
-  2024-09-19T00:07:06+0000  nix-update-20220816.2212.tar
-Built nix-update in 2.146s, finished at 2024-09-19T00:07:07+0000
+  2024-09-19T23:42:26+0000  nix-update-20220816.2212.entry
+  2024-09-19T23:42:26+0000  nix-update-20220816.2212.tar
+Built nix-update in 2.541s, finished at 2024-09-19T23:42:27+0000
