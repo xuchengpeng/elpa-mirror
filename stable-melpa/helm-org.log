@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/emacs-helm/helm-org.git
 
 Updating /mnt/store/melpa/working/helm-org/
-Checking out c80e53315ce6b096e2d0e630702df924bf00bf6a
+Checking out d0b7cd5178c60614392345f4cdcfffc1285b05eb
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/helm-org/
-  to /tmp/helm-orgQVWFK9/helm-org-20231022.620
+  to /tmp/helm-org6iTKgR/helm-org-20240920.2008
     helm-org.el -> helm-org.el
-Created helm-org-20231022.620.tar containing:
-  helm-org-20231022.620/
-  helm-org-20231022.620/helm-org-pkg.el
-  helm-org-20231022.620/helm-org.el
+Created helm-org-20240920.2008.tar containing:
+  helm-org-20240920.2008/
+  helm-org-20240920.2008/helm-org-pkg.el
+  helm-org-20240920.2008/helm-org.el
  ✓ Success:
-  2024-09-19T23:30:37+0000  helm-org-20231022.620.entry
-  2024-09-19T23:30:37+0000  helm-org-20231022.620.tar
-Built helm-org in 2.640s, finished at 2024-09-19T23:30:38+0000
+  2024-09-22T00:44:44+0000  helm-org-20240920.2008.entry
+  2024-09-22T00:44:44+0000  helm-org-20240920.2008.tar
+Built helm-org in 2.123s, finished at 2024-09-22T00:44:45+0000

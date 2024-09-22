@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/emacs-jp/helm-migemo.git
 
 Updating /mnt/store/melpa/working/helm-migemo/
-Checking out 66c6a19d07c6a385daefd2090d0709d26b608b4e
+Checking out 6da30a3ee3ddcfde6068a5b05be24f888d9a7b53
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/helm-migemo/
-  to /tmp/helm-migemoaCbLlP/helm-migemo-20151010.356
+  to /tmp/helm-migemoiA3aTf/helm-migemo-20240921.1551
     helm-migemo.el -> helm-migemo.el
-Created helm-migemo-20151010.356.tar containing:
-  helm-migemo-20151010.356/
-  helm-migemo-20151010.356/helm-migemo-pkg.el
-  helm-migemo-20151010.356/helm-migemo.el
+Created helm-migemo-20240921.1551.tar containing:
+  helm-migemo-20240921.1551/
+  helm-migemo-20240921.1551/helm-migemo-pkg.el
+  helm-migemo-20240921.1551/helm-migemo.el
  ✓ Success:
-  2024-09-19T23:30:32+0000  helm-migemo-20151010.356.entry
-  2024-09-19T23:30:32+0000  helm-migemo-20151010.356.tar
-Built helm-migemo in 2.447s, finished at 2024-09-19T23:30:33+0000
+  2024-09-22T00:44:40+0000  helm-migemo-20240921.1551.entry
+  2024-09-22T00:44:40+0000  helm-migemo-20240921.1551.tar
+Built helm-migemo in 2.530s, finished at 2024-09-22T00:44:40+0000
