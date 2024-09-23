@@ -1,0 +1,4 @@
+2024-09-23T00:18:50+0000  hyperbole                  Command `makeinfo --no-split hyperbole.texi -o /tmp/hyperbolezmtm1L/hyperbole-20240922.705/hyperbole.info' exited with non-zero exit-code: 1
+2024-09-23T00:18:50+0000  hyperbole                  Command `install-info --dir\=dir hyperbole.info' exited with non-zero exit-code: 1
+2024-09-23T00:41:17+0000  secretaria                 Command `git fetch -f --tags origin' exited with non-zero exit-code: 128
+2024-09-23T00:41:36+0000  sexp-move                  Command `git fetch -f --tags origin' exited with non-zero exit-code: 128

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/gemini-mode/
 Checking out a7dd7c6ea4e036d0d5ecc4a5d284874c400f10ba
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/gemini-mode/
-  to /tmp/gemini-modevBSKPT/gemini-mode-20221127.1619
+  to /tmp/gemini-modeuXXfma/gemini-mode-20221127.1619
     gemini-mode.el -> gemini-mode.el
 Created gemini-mode-20221127.1619.tar containing:
   gemini-mode-20221127.1619/
   gemini-mode-20221127.1619/gemini-mode-pkg.el
   gemini-mode-20221127.1619/gemini-mode.el
  ✓ Success:
-  2024-09-22T00:41:04+0000  gemini-mode-20221127.1619.entry
-  2024-09-22T00:41:04+0000  gemini-mode-20221127.1619.tar
-Built gemini-mode in 2.271s, finished at 2024-09-22T00:41:05+0000
+  2024-09-23T00:13:02+0000  gemini-mode-20221127.1619.entry
+  2024-09-23T00:13:02+0000  gemini-mode-20221127.1619.tar
+Built gemini-mode in 3.702s, finished at 2024-09-23T00:13:04+0000

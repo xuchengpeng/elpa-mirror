@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/bufshow/
 Checking out 42d7fb74c3f914e127d5447c63d209bf19f5d517
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/bufshow/
-  to /tmp/bufshowWxDyny/bufshow-20130726.1838
+  to /tmp/bufshowB8wD3c/bufshow-20130726.1838
   ! lisp/bufshow.el -> bufshow.el
 Created bufshow-20130726.1838.tar containing:
   bufshow-20130726.1838/
   bufshow-20130726.1838/bufshow-pkg.el
   bufshow-20130726.1838/bufshow.el
  ✓ Success:
-  2024-09-22T00:24:14+0000  bufshow-20130726.1838.entry
-  2024-09-22T00:24:14+0000  bufshow-20130726.1838.tar
-Built bufshow in 2.534s, finished at 2024-09-22T00:24:14+0000
+  2024-09-22T23:55:36+0000  bufshow-20130726.1838.entry
+  2024-09-22T23:55:36+0000  bufshow-20130726.1838.tar
+Built bufshow in 2.406s, finished at 2024-09-22T23:55:37+0000
