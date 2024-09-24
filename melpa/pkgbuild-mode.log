@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/juergenhoetzel/pkgbuild-mode.git
 
 Updating /mnt/store/melpa/working/pkgbuild-mode/
-Checking out 5c5213a30981950c92c38b00ceb87b2e0063b8b5
+Checking out b333ec39d0499492e91cfc0a2a932b956b519714
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/pkgbuild-mode/
-  to /tmp/pkgbuild-modeefP5HF/pkgbuild-mode-20240921.529
+  to /tmp/pkgbuild-modeophsaf/pkgbuild-mode-20240923.1652
     pkgbuild-mode.el -> pkgbuild-mode.el
-Created pkgbuild-mode-20240921.529.tar containing:
-  pkgbuild-mode-20240921.529/
-  pkgbuild-mode-20240921.529/pkgbuild-mode-pkg.el
-  pkgbuild-mode-20240921.529/pkgbuild-mode.el
+Created pkgbuild-mode-20240923.1652.tar containing:
+  pkgbuild-mode-20240923.1652/
+  pkgbuild-mode-20240923.1652/pkgbuild-mode-pkg.el
+  pkgbuild-mode-20240923.1652/pkgbuild-mode.el
  ✓ Success:
-  2024-09-23T00:36:02+0000  pkgbuild-mode-20240921.529.entry
-  2024-09-23T00:36:02+0000  pkgbuild-mode-20240921.529.tar
-Built pkgbuild-mode in 2.762s, finished at 2024-09-23T00:36:03+0000
+  2024-09-24T00:23:05+0000  pkgbuild-mode-20240923.1652.entry
+  2024-09-24T00:23:05+0000  pkgbuild-mode-20240923.1652.tar
+Built pkgbuild-mode in 2.712s, finished at 2024-09-24T00:23:06+0000

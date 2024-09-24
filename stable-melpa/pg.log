@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/pg/
 Checking out c4b050c52a31aab0ca27d9c24bdb5eb71cd8764e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/pg/
-  to /tmp/pgbLKg2H/pg-20240921.1119
+  to /tmp/pgC2ZIyr/pg-20240921.1119
     pg-geometry.el -> pg-geometry.el
     pg-gis.el -> pg-gis.el
     pg-lo.el -> pg-lo.el
@@ -19,6 +19,6 @@ Created pg-20240921.1119.tar containing:
   pg-20240921.1119/pg-pkg.el
   pg-20240921.1119/pg.el
  ✓ Success:
-  2024-09-23T00:35:31+0000  pg-20240921.1119.entry
-  2024-09-23T00:35:31+0000  pg-20240921.1119.tar
-Built pg in 3.916s, finished at 2024-09-23T00:35:32+0000
+  2024-09-24T00:22:34+0000  pg-20240921.1119.entry
+  2024-09-24T00:22:34+0000  pg-20240921.1119.tar
+Built pg in 2.759s, finished at 2024-09-24T00:22:35+0000

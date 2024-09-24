@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/read-only-cfg/
 Checking out fa16d6018a5a29f26adf6007b6b76ea1b3c0bfce
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/read-only-cfg/
-  to /tmp/read-only-cfgb3dmlW/read-only-cfg-20210717.205
+  to /tmp/read-only-cfgwhH0uj/read-only-cfg-20210717.205
     read-only-cfg.el -> read-only-cfg.el
 Created read-only-cfg-20210717.205.tar containing:
   read-only-cfg-20210717.205/
   read-only-cfg-20210717.205/read-only-cfg-pkg.el
   read-only-cfg-20210717.205/read-only-cfg.el
  ✓ Success:
-  2024-09-23T00:38:52+0000  read-only-cfg-20210717.205.entry
-  2024-09-23T00:38:51+0000  read-only-cfg-20210717.205.tar
-Built read-only-cfg in 2.401s, finished at 2024-09-23T00:38:52+0000
+  2024-09-24T00:26:18+0000  read-only-cfg-20210717.205.entry
+  2024-09-24T00:26:18+0000  read-only-cfg-20210717.205.tar
+Built read-only-cfg in 3.255s, finished at 2024-09-24T00:26:19+0000
