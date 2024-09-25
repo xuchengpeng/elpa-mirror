@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/kanji-mode/
 Checking out 731b3a5447bcb899ba1d86b645a344e0915d04f3
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/kanji-mode/
-  to /tmp/kanji-mode2Y7B30/kanji-mode-20230928.1113
+  to /tmp/kanji-mode9zV2ro/kanji-mode-20230928.1113
     kanji-mode.el -> kanji-mode.el
     kanji => kanji
 Created kanji-mode-20230928.1113.tar containing:
@@ -6679,6 +6679,6 @@ Created kanji-mode-20230928.1113.tar containing:
   kanji-mode-20230928.1113/kanji/200a4.svg
   kanji-mode-20230928.1113/kanji/26951.svg
  ✓ Success:
-  2024-09-24T00:09:26+0000  kanji-mode-20230928.1113.entry
-  2024-09-24T00:09:24+0000  kanji-mode-20230928.1113.tar
-Built kanji-mode in 16.770s, finished at 2024-09-24T00:09:30+0000
+  2024-09-24T23:57:27+0000  kanji-mode-20230928.1113.entry
+  2024-09-24T23:57:25+0000  kanji-mode-20230928.1113.tar
+Built kanji-mode in 19.164s, finished at 2024-09-24T23:57:32+0000

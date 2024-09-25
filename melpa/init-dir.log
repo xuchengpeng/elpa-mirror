@@ -3,18 +3,16 @@ Fetcher: github
 Source:  https://github.com/chaosemer/init-dir.git
 
 Updating /mnt/store/melpa/working/init-dir/
-Checking out fa29c7559d7253485a32be375db501ce96c661a8
+Checking out 406953deb5f29112ca02850885954f82abb1d334
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/init-dir/
-  to /tmp/init-dirhqvZ2l/init-dir-20240923.2304
+  to /tmp/init-dirSudwD3/init-dir-20240924.150
     init-dir.el -> init-dir.el
-Created init-dir-20240923.2304.tar containing:
-  init-dir-20240923.2304/
-  init-dir-20240923.2304/init-dir-pkg.el
-  init-dir-20240923.2304/init-dir.el
+Created init-dir-20240924.150.tar containing:
+  init-dir-20240924.150/
+  init-dir-20240924.150/init-dir-pkg.el
+  init-dir-20240924.150/init-dir.el
  ✓ Success:
-  2024-09-23T22:08:21+0000  init-dir-20240921.1713.entry
-  2024-09-23T22:08:21+0000  init-dir-20240921.1713.tar
-  2024-09-24T00:06:56+0000  init-dir-20240923.2304.entry
-  2024-09-24T00:06:55+0000  init-dir-20240923.2304.tar
-Built init-dir in 2.753s, finished at 2024-09-24T00:06:56+0000
+  2024-09-24T23:55:12+0000  init-dir-20240924.150.entry
+  2024-09-24T23:55:12+0000  init-dir-20240924.150.tar
+Built init-dir in 2.796s, finished at 2024-09-24T23:55:13+0000

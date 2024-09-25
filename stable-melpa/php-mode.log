@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/php-mode/
 Checking out 3e8113c72a454f0f87a1593c22578b894549c53b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/php-mode/
-  to /tmp/php-modeACtbtB/php-mode-20240912.2234
+  to /tmp/php-modewx54oZ/php-mode-20240912.2234
   ! lisp/php-align.el -> php-align.el
   ! lisp/php-complete.el -> php-complete.el
   ! lisp/php-defs.el -> php-defs.el
@@ -37,6 +37,6 @@ Created php-mode-20240912.2234.tar containing:
   php-mode-20240912.2234/php-project.el
   php-mode-20240912.2234/php.el
  ✓ Success:
-  2024-09-24T00:22:45+0000  php-mode-20240912.2234.entry
-  2024-09-24T00:22:44+0000  php-mode-20240912.2234.tar
-Built php-mode in 2.894s, finished at 2024-09-24T00:22:45+0000
+  2024-09-25T00:11:14+0000  php-mode-20240912.2234.entry
+  2024-09-25T00:11:14+0000  php-mode-20240912.2234.tar
+Built php-mode in 2.982s, finished at 2024-09-25T00:11:15+0000

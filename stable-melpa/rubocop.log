@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/rubocop/
 Checking out f5fd18aa810c3d3269188cbbd731ddc09006f8f5
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/rubocop/
-  to /tmp/rubocopYh6lKB/rubocop-20210309.1241
+  to /tmp/rubocopB0Ys3T/rubocop-20210309.1241
     rubocop.el -> rubocop.el
 Created rubocop-20210309.1241.tar containing:
   rubocop-20210309.1241/
   rubocop-20210309.1241/rubocop-pkg.el
   rubocop-20210309.1241/rubocop.el
  ✓ Success:
-  2024-09-24T00:27:39+0000  rubocop-20210309.1241.entry
-  2024-09-24T00:27:39+0000  rubocop-20210309.1241.tar
-Built rubocop in 2.685s, finished at 2024-09-24T00:27:40+0000
+  2024-09-25T00:16:01+0000  rubocop-20210309.1241.entry
+  2024-09-25T00:16:00+0000  rubocop-20210309.1241.tar
+Built rubocop in 2.684s, finished at 2024-09-25T00:16:01+0000

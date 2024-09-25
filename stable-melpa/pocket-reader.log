@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/alphapapa/pocket-reader.el.git
 
 Updating /mnt/store/melpa/working/pocket-reader/
-Checking out cb9f6b108ebd3a67f77fb75d85351ffb3b0bb3d4
+Checking out 7f55668325fab3dcf1c24b10ee073f7d1df180a3
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/pocket-reader/
-  to /tmp/pocket-readerrbju1I/pocket-reader-20240407.2303
+  to /tmp/pocket-readerUqwSLA/pocket-reader-20240924.42
     pocket-reader.el -> pocket-reader.el
-Created pocket-reader-20240407.2303.tar containing:
-  pocket-reader-20240407.2303/
-  pocket-reader-20240407.2303/pocket-reader-pkg.el
-  pocket-reader-20240407.2303/pocket-reader.el
+Created pocket-reader-20240924.42.tar containing:
+  pocket-reader-20240924.42/
+  pocket-reader-20240924.42/pocket-reader-pkg.el
+  pocket-reader-20240924.42/pocket-reader.el
  ✓ Success:
-  2024-09-24T00:23:21+0000  pocket-reader-20240407.2303.entry
-  2024-09-24T00:23:21+0000  pocket-reader-20240407.2303.tar
-Built pocket-reader in 2.759s, finished at 2024-09-24T00:23:21+0000
+  2024-09-25T00:11:48+0000  pocket-reader-20240924.42.entry
+  2024-09-25T00:11:48+0000  pocket-reader-20240924.42.tar
+Built pocket-reader in 2.693s, finished at 2024-09-25T00:11:49+0000

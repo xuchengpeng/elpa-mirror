@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/transwin/
 Checking out 99f9296a18654cb38f2ffb8682b7532be60bec5e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/transwin/
-  to /tmp/transwinlzzH7q/transwin-20240126.720
+  to /tmp/transwinNc21WV/transwin-20240126.720
     transwin.el -> transwin.el
 Created transwin-20240126.720.tar containing:
   transwin-20240126.720/
   transwin-20240126.720/transwin-pkg.el
   transwin-20240126.720/transwin.el
  ✓ Success:
-  2024-09-24T00:34:21+0000  transwin-20240126.720.entry
-  2024-09-24T00:34:21+0000  transwin-20240126.720.tar
-Built transwin in 2.822s, finished at 2024-09-24T00:34:22+0000
+  2024-09-25T00:22:58+0000  transwin-20240126.720.entry
+  2024-09-25T00:22:58+0000  transwin-20240126.720.tar
+Built transwin in 2.634s, finished at 2024-09-25T00:22:59+0000

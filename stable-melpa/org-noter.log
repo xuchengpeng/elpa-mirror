@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/org-noter/
 Checking out 691efc3ed4a2828d791a148e53851365c2eb380f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/org-noter/
-  to /tmp/org-noterkPs5m2/org-noter-20240918.1703
+  to /tmp/org-noterVoNYQz/org-noter-20240918.1703
     org-noter-core.el -> org-noter-core.el
     org-noter.el -> org-noter.el
     modules => modules
@@ -21,6 +21,6 @@ Created org-noter-20240918.1703.tar containing:
   org-noter-20240918.1703/org-noter-pkg.el
   org-noter-20240918.1703/org-noter.el
  ✓ Success:
-  2024-09-24T00:19:26+0000  org-noter-20240918.1703.entry
-  2024-09-24T00:19:25+0000  org-noter-20240918.1703.tar
-Built org-noter in 5.251s, finished at 2024-09-24T00:19:27+0000
+  2024-09-25T00:07:44+0000  org-noter-20240918.1703.entry
+  2024-09-25T00:07:44+0000  org-noter-20240918.1703.tar
+Built org-noter in 3.283s, finished at 2024-09-25T00:07:45+0000
