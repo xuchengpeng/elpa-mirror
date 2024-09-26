@@ -1,18 +1,18 @@
 Package: paxedit
 Fetcher: github
-Source:  https://github.com/promethial/paxedit.git
+Source:  https://github.com/promethial/paxedit
 
 Updating /mnt/store/melpa/working/paxedit/
 Checking out 48df0a26285f68cd20ea64368e7bf2a5fbf13135
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/paxedit/
-  to /tmp/paxedita2WxdA/paxedit-20160730.1727
+  to /tmp/paxeditqFR8Fu/paxedit-20160730.1727
     paxedit.el -> paxedit.el
 Created paxedit-20160730.1727.tar containing:
   paxedit-20160730.1727/
   paxedit-20160730.1727/paxedit-pkg.el
   paxedit-20160730.1727/paxedit.el
  ✓ Success:
-  2024-09-25T00:10:35+0000  paxedit-20160730.1727.entry
-  2024-09-25T00:10:35+0000  paxedit-20160730.1727.tar
-Built paxedit in 2.485s, finished at 2024-09-25T00:10:36+0000
+  2024-09-26T00:33:52+0000  paxedit-20160730.1727.entry
+  2024-09-26T00:33:52+0000  paxedit-20160730.1727.tar
+Built paxedit in 2.639s, finished at 2024-09-26T00:33:53+0000

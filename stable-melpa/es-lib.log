@@ -1,12 +1,12 @@
 Package: es-lib
 Fetcher: github
-Source:  https://github.com/sabof/es-lib.git
+Source:  https://github.com/sabof/es-lib
 
 Updating /mnt/store/melpa/working/es-lib/
 Checking out 753b27363e39c10edc9e4e452bdbbbe4d190df4a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/es-lib/
-  to /tmp/es-libu4TxdD/es-lib-20141111.1830
+  to /tmp/es-libsZXbjz/es-lib-20141111.1830
     es-lib-buffer-local-set-key.el -> es-lib-buffer-local-set-key.el
     es-lib-core-functions.el -> es-lib-core-functions.el
     es-lib-core-macros.el -> es-lib-core-macros.el
@@ -27,6 +27,6 @@ Created es-lib-20141111.1830.tar containing:
   es-lib-20141111.1830/es-lib-total-line.el
   es-lib-20141111.1830/es-lib.el
  ✓ Success:
-  2024-09-24T23:42:22+0000  es-lib-20141111.1830.entry
-  2024-09-24T23:42:22+0000  es-lib-20141111.1830.tar
-Built es-lib in 2.440s, finished at 2024-09-24T23:42:23+0000
+  2024-09-26T00:05:27+0000  es-lib-20141111.1830.entry
+  2024-09-26T00:05:27+0000  es-lib-20141111.1830.tar
+Built es-lib in 2.659s, finished at 2024-09-26T00:05:28+0000

@@ -1,12 +1,12 @@
 Package: cangjie
 Fetcher: github
-Source:  https://github.com/kisaragi-hiu/cangjie.el.git
+Source:  https://github.com/kisaragi-hiu/cangjie.el
 
 Updating /mnt/store/melpa/working/cangjie/
 Checking out d6882e15f47fdde37e9f739dde604d77d25f11db
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/cangjie/
-  to /tmp/cangjieoVMzm9/cangjie-20230219.1150
+  to /tmp/cangjiefOpgYB/cangjie-20230219.1150
     cangjie-practice.el -> cangjie-practice.el
     cangjie.el -> cangjie.el
 Created cangjie-20230219.1150.tar containing:
@@ -15,6 +15,6 @@ Created cangjie-20230219.1150.tar containing:
   cangjie-20230219.1150/cangjie-practice.el
   cangjie-20230219.1150/cangjie.el
  ✓ Success:
-  2024-09-24T23:31:38+0000  cangjie-20230219.1150.entry
-  2024-09-24T23:31:37+0000  cangjie-20230219.1150.tar
-Built cangjie in 2.746s, finished at 2024-09-24T23:31:38+0000
+  2024-09-25T23:50:30+0000  cangjie-20230219.1150.entry
+  2024-09-25T23:50:30+0000  cangjie-20230219.1150.tar
+Built cangjie in 1.689s, finished at 2024-09-25T23:50:31+0000

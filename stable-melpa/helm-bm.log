@@ -1,18 +1,18 @@
 Package: helm-bm
 Fetcher: github
-Source:  https://github.com/emacs-helm/helm-bm.git
+Source:  https://github.com/emacs-helm/helm-bm
 
 Updating /mnt/store/melpa/working/helm-bm/
 Checking out 4744b5784df5800f36c3c54de5269034191155f5
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/helm-bm/
-  to /tmp/helm-bmSrPGtv/helm-bm-20240812.1738
+  to /tmp/helm-bmmhsDn5/helm-bm-20240812.1738
     helm-bm.el -> helm-bm.el
 Created helm-bm-20240812.1738.tar containing:
   helm-bm-20240812.1738/
   helm-bm-20240812.1738/helm-bm-pkg.el
   helm-bm-20240812.1738/helm-bm.el
  ✓ Success:
-  2024-09-24T23:51:03+0000  helm-bm-20240812.1738.entry
-  2024-09-24T23:51:03+0000  helm-bm-20240812.1738.tar
-Built helm-bm in 2.393s, finished at 2024-09-24T23:51:04+0000
+  2024-09-26T00:14:47+0000  helm-bm-20240812.1738.entry
+  2024-09-26T00:14:47+0000  helm-bm-20240812.1738.tar
+Built helm-bm in 2.531s, finished at 2024-09-26T00:14:48+0000

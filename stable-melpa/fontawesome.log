@@ -1,20 +1,20 @@
 Package: fontawesome
 Fetcher: github
-Source:  https://github.com/emacsorphanage/fontawesome.git
+Source:  https://github.com/emacsorphanage/fontawesome
 
 Updating /mnt/store/melpa/working/fontawesome/
-Checking out a743f80bfd53767ca9ee32da34c5ca032172a480
+Checking out d81096e5e8fa7e386a6bbfe02a50f0f7d6a5dca6
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/fontawesome/
-  to /tmp/fontawesomeTcPf7e/fontawesome-20170305.1356
+  to /tmp/fontawesomebZ6NUa/fontawesome-20240925.814
     fontawesome-data.el -> fontawesome-data.el
     fontawesome.el -> fontawesome.el
-Created fontawesome-20170305.1356.tar containing:
-  fontawesome-20170305.1356/
-  fontawesome-20170305.1356/fontawesome-data.el
-  fontawesome-20170305.1356/fontawesome-pkg.el
-  fontawesome-20170305.1356/fontawesome.el
+Created fontawesome-20240925.814.tar containing:
+  fontawesome-20240925.814/
+  fontawesome-20240925.814/fontawesome-data.el
+  fontawesome-20240925.814/fontawesome-pkg.el
+  fontawesome-20240925.814/fontawesome.el
  ✓ Success:
-  2024-09-24T23:47:20+0000  fontawesome-20170305.1356.entry
-  2024-09-24T23:47:20+0000  fontawesome-20170305.1356.tar
-Built fontawesome in 2.972s, finished at 2024-09-24T23:47:21+0000
+  2024-09-26T00:11:06+0000  fontawesome-20240925.814.entry
+  2024-09-26T00:11:05+0000  fontawesome-20240925.814.tar
+Built fontawesome in 2.624s, finished at 2024-09-26T00:11:06+0000

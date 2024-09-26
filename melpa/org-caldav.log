@@ -1,12 +1,12 @@
 Package: org-caldav
 Fetcher: github
-Source:  https://github.com/dengste/org-caldav.git
+Source:  https://github.com/dengste/org-caldav
 
 Updating /mnt/store/melpa/working/org-caldav/
 Checking out 6a2683211baa4b4efed0ca210275bf68dbbcfc4f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/org-caldav/
-  to /tmp/org-caldavLw1dC8/org-caldav-20240908.2256
+  to /tmp/org-caldavvnYhZe/org-caldav-20240908.2256
     org-caldav.el -> org-caldav.el
   ! doc/org-caldav.texi -> org-caldav.texi
 Generating org-caldav.info
@@ -17,6 +17,6 @@ Created org-caldav-20240908.2256.tar containing:
   org-caldav-20240908.2256/org-caldav.el
   org-caldav-20240908.2256/org-caldav.info
  ✓ Success:
-  2024-09-25T00:06:52+0000  org-caldav-20240908.2256.entry
-  2024-09-25T00:06:52+0000  org-caldav-20240908.2256.tar
-Built org-caldav in 4.299s, finished at 2024-09-25T00:06:53+0000
+  2024-09-26T00:30:10+0000  org-caldav-20240908.2256.entry
+  2024-09-26T00:30:10+0000  org-caldav-20240908.2256.tar
+Built org-caldav in 4.418s, finished at 2024-09-26T00:30:11+0000

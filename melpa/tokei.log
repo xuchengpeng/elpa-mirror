@@ -1,18 +1,18 @@
 Package: tokei
 Fetcher: github
-Source:  https://github.com/nagy/tokei.el.git
+Source:  https://github.com/nagy/tokei.el
 
 Updating /mnt/store/melpa/working/tokei/
 Checking out 86fbca422f580a95eb30247e46891184f3ac5c18
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/tokei/
-  to /tmp/tokeiN3sNnS/tokei-20220823.2058
+  to /tmp/tokeiFFnq6M/tokei-20220823.2058
     tokei.el -> tokei.el
 Created tokei-20220823.2058.tar containing:
   tokei-20220823.2058/
   tokei-20220823.2058/tokei-pkg.el
   tokei-20220823.2058/tokei.el
  ✓ Success:
-  2024-09-25T00:22:28+0000  tokei-20220823.2058.entry
-  2024-09-25T00:22:28+0000  tokei-20220823.2058.tar
-Built tokei in 4.182s, finished at 2024-09-25T00:22:30+0000
+  2024-09-26T00:45:23+0000  tokei-20220823.2058.entry
+  2024-09-26T00:45:23+0000  tokei-20220823.2058.tar
+Built tokei in 2.547s, finished at 2024-09-26T00:45:24+0000

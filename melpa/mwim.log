@@ -1,18 +1,18 @@
 Package: mwim
 Fetcher: github
-Source:  https://github.com/alezost/mwim.el.git
+Source:  https://github.com/alezost/mwim.el
 
 Updating /mnt/store/melpa/working/mwim/
 Checking out b4f3edb4c0fb8f8b71cecbf8095c2c25a8ffbf85
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mwim/
-  to /tmp/mwimDuTwLf/mwim-20181110.1900
+  to /tmp/mwimo9XAiy/mwim-20181110.1900
     mwim.el -> mwim.el
 Created mwim-20181110.1900.tar containing:
   mwim-20181110.1900/
   mwim-20181110.1900/mwim-pkg.el
   mwim-20181110.1900/mwim.el
  ✓ Success:
-  2024-09-25T00:03:34+0000  mwim-20181110.1900.entry
-  2024-09-25T00:03:34+0000  mwim-20181110.1900.tar
-Built mwim in 3.276s, finished at 2024-09-25T00:03:35+0000
+  2024-09-26T00:27:08+0000  mwim-20181110.1900.entry
+  2024-09-26T00:27:08+0000  mwim-20181110.1900.tar
+Built mwim in 2.508s, finished at 2024-09-26T00:27:09+0000

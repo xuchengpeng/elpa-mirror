@@ -1,18 +1,18 @@
 Package: teletext-yle
 Fetcher: github
-Source:  https://github.com/lassik/emacs-teletext-yle.git
+Source:  https://github.com/lassik/emacs-teletext-yle
 
 Updating /mnt/store/melpa/working/teletext-yle/
 Checking out 59a287c26571db07e191ac86cdf0be312fec1964
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/teletext-yle/
-  to /tmp/teletext-yleTheerf/teletext-yle-20231215.1609
+  to /tmp/teletext-yleEvihHz/teletext-yle-20231215.1609
     teletext-yle.el -> teletext-yle.el
 Created teletext-yle-20231215.1609.tar containing:
   teletext-yle-20231215.1609/
   teletext-yle-20231215.1609/teletext-yle-pkg.el
   teletext-yle-20231215.1609/teletext-yle.el
  ✓ Success:
-  2024-09-25T00:21:23+0000  teletext-yle-20231215.1609.entry
-  2024-09-25T00:21:23+0000  teletext-yle-20231215.1609.tar
-Built teletext-yle in 2.557s, finished at 2024-09-25T00:21:24+0000
+  2024-09-26T00:44:25+0000  teletext-yle-20231215.1609.entry
+  2024-09-26T00:44:25+0000  teletext-yle-20231215.1609.tar
+Built teletext-yle in 2.617s, finished at 2024-09-26T00:44:26+0000

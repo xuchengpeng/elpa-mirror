@@ -1,18 +1,18 @@
 Package: toc-mode
 Fetcher: github
-Source:  https://github.com/dalanicolai/toc-mode.git
+Source:  https://github.com/dalanicolai/toc-mode
 
 Updating /mnt/store/melpa/working/toc-mode/
 Checking out 448a0ac00c110802f3124bbf9c5a72bdfc3c3c28
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/toc-mode/
-  to /tmp/toc-mode9Efxn7/toc-mode-20220926.530
+  to /tmp/toc-modeQSh2l2/toc-mode-20220926.530
     toc-mode.el -> toc-mode.el
 Created toc-mode-20220926.530.tar containing:
   toc-mode-20220926.530/
   toc-mode-20220926.530/toc-mode-pkg.el
   toc-mode-20220926.530/toc-mode.el
  ✓ Success:
-  2024-09-25T00:22:19+0000  toc-mode-20220926.530.entry
-  2024-09-25T00:22:18+0000  toc-mode-20220926.530.tar
-Built toc-mode in 4.125s, finished at 2024-09-25T00:22:20+0000
+  2024-09-26T00:45:16+0000  toc-mode-20220926.530.entry
+  2024-09-26T00:45:16+0000  toc-mode-20220926.530.tar
+Built toc-mode in 2.731s, finished at 2024-09-26T00:45:17+0000

@@ -1,18 +1,18 @@
 Package: rectangle-utils
 Fetcher: github
-Source:  https://github.com/thierryvolpiatto/rectangle-utils.git
+Source:  https://github.com/thierryvolpiatto/rectangle-utils
 
 Updating /mnt/store/melpa/working/rectangle-utils/
 Checking out 0d9c5dcef2d660cf6b67fc52f18a720d02514f01
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/rectangle-utils/
-  to /tmp/rectangle-utilsGV9ZPq/rectangle-utils-20240830.306
+  to /tmp/rectangle-utilsDfQT6q/rectangle-utils-20240830.306
     rectangle-utils.el -> rectangle-utils.el
 Created rectangle-utils-20240830.306.tar containing:
   rectangle-utils-20240830.306/
   rectangle-utils-20240830.306/rectangle-utils-pkg.el
   rectangle-utils-20240830.306/rectangle-utils.el
  ✓ Success:
-  2024-09-25T00:14:46+0000  rectangle-utils-20240830.306.entry
-  2024-09-25T00:14:46+0000  rectangle-utils-20240830.306.tar
-Built rectangle-utils in 3.699s, finished at 2024-09-25T00:14:47+0000
+  2024-09-26T00:38:07+0000  rectangle-utils-20240830.306.entry
+  2024-09-26T00:38:07+0000  rectangle-utils-20240830.306.tar
+Built rectangle-utils in 2.455s, finished at 2024-09-26T00:38:08+0000

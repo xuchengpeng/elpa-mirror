@@ -1,12 +1,12 @@
 Package: worf
 Fetcher: github
-Source:  https://github.com/abo-abo/worf.git
+Source:  https://github.com/abo-abo/worf
 
 Updating /mnt/store/melpa/working/worf/
 Checking out 8681241e118585824cd256e5b026978bf06c7e58
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/worf/
-  to /tmp/worf68u3ke/worf-20220102.835
+  to /tmp/worf7ZYRtK/worf-20220102.835
     elpa.el -> elpa.el
     worf.el -> worf.el
 Created worf-20220102.835.tar containing:
@@ -15,6 +15,6 @@ Created worf-20220102.835.tar containing:
   worf-20220102.835/worf-pkg.el
   worf-20220102.835/worf.el
  ✓ Success:
-  2024-09-25T00:26:35+0000  worf-20220102.835.entry
-  2024-09-25T00:26:35+0000  worf-20220102.835.tar
-Built worf in 2.628s, finished at 2024-09-25T00:26:36+0000
+  2024-09-26T00:49:35+0000  worf-20220102.835.entry
+  2024-09-26T00:49:35+0000  worf-20220102.835.tar
+Built worf in 1.678s, finished at 2024-09-26T00:49:36+0000

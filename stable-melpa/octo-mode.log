@@ -1,18 +1,18 @@
 Package: octo-mode
 Fetcher: github
-Source:  https://github.com/cryon/octo-mode.git
+Source:  https://github.com/cryon/octo-mode
 
 Updating /mnt/store/melpa/working/octo-mode/
 Checking out 4b2ed4a61674f73a6ccd390b5ae123474bd0c977
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/octo-mode/
-  to /tmp/octo-modeUYCn3e/octo-mode-20161008.1229
+  to /tmp/octo-modeARLsRP/octo-mode-20161008.1229
     octo-mode.el -> octo-mode.el
 Created octo-mode-20161008.1229.tar containing:
   octo-mode-20161008.1229/
   octo-mode-20161008.1229/octo-mode-pkg.el
   octo-mode-20161008.1229/octo-mode.el
  ✓ Success:
-  2024-09-25T00:06:09+0000  octo-mode-20161008.1229.entry
-  2024-09-25T00:06:09+0000  octo-mode-20161008.1229.tar
-Built octo-mode in 2.547s, finished at 2024-09-25T00:06:10+0000
+  2024-09-26T00:29:27+0000  octo-mode-20161008.1229.entry
+  2024-09-26T00:29:27+0000  octo-mode-20161008.1229.tar
+Built octo-mode in 2.389s, finished at 2024-09-26T00:29:28+0000

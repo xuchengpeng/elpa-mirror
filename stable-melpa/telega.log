@@ -1,12 +1,12 @@
 Package: telega
 Fetcher: github
-Source:  https://github.com/zevlg/telega.el.git
+Source:  https://github.com/zevlg/telega.el
 
 Updating /mnt/store/melpa/working/telega/
 Checking out aa891d2a5a6cba18ab79b42d396795f7b61f2e9f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/telega/
-  to /tmp/telegaryYtKG/telega-20240911.638
+  to /tmp/telegazfWAyg/telega-20240911.638
     telega-chat.el -> telega-chat.el
     telega-company.el -> telega-company.el
     telega-core.el -> telega-core.el
@@ -172,6 +172,6 @@ Created telega-20240911.638.tar containing:
   telega-20240911.638/telega-webpage.el
   telega-20240911.638/telega.el
  ✓ Success:
-  2024-09-25T00:21:22+0000  telega-20240911.638.entry
-  2024-09-25T00:21:22+0000  telega-20240911.638.tar
-Built telega in 3.591s, finished at 2024-09-25T00:21:23+0000
+  2024-09-26T00:44:23+0000  telega-20240911.638.entry
+  2024-09-26T00:44:23+0000  telega-20240911.638.tar
+Built telega in 3.093s, finished at 2024-09-26T00:44:24+0000

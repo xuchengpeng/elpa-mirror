@@ -1,12 +1,12 @@
 Package: i-ching
 Fetcher: github
-Source:  https://github.com/zzkt/i-ching.git
+Source:  https://github.com/zzkt/i-ching
 
 Updating /mnt/store/melpa/working/i-ching/
 Checking out 0870cb1fa5bca0b7848e3f4e902e6d58445eab09
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/i-ching/
-  to /tmp/i-ching5devmY/i-ching-20240729.1054
+  to /tmp/i-chingNCSlQL/i-ching-20240729.1054
     i-ching.el -> i-ching.el
     i-ching.info -> i-ching.info
 Created i-ching-20240729.1054.tar containing:
@@ -16,6 +16,6 @@ Created i-ching-20240729.1054.tar containing:
   i-ching-20240729.1054/i-ching.el
   i-ching-20240729.1054/i-ching.info
  ✓ Success:
-  2024-09-24T23:54:11+0000  i-ching-20240729.1054.entry
-  2024-09-24T23:54:11+0000  i-ching-20240729.1054.tar
-Built i-ching in 2.731s, finished at 2024-09-24T23:54:12+0000
+  2024-09-26T00:17:53+0000  i-ching-20240729.1054.entry
+  2024-09-26T00:17:53+0000  i-ching-20240729.1054.tar
+Built i-ching in 2.570s, finished at 2024-09-26T00:17:54+0000

@@ -1,18 +1,18 @@
 Package: warm-night-theme
 Fetcher: github
-Source:  https://github.com/mswift42/warm-night-theme.git
+Source:  https://github.com/mswift42/warm-night-theme
 
 Updating /mnt/store/melpa/working/warm-night-theme/
 Checking out 020f084d23409b5035150508ba6e57c2509edd64
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/warm-night-theme/
-  to /tmp/warm-night-themeTBBb9a/warm-night-theme-20161101.1428
+  to /tmp/warm-night-themeixv3Kc/warm-night-theme-20161101.1428
     warm-night-theme.el -> warm-night-theme.el
 Created warm-night-theme-20161101.1428.tar containing:
   warm-night-theme-20161101.1428/
   warm-night-theme-20161101.1428/warm-night-theme-pkg.el
   warm-night-theme-20161101.1428/warm-night-theme.el
  ✓ Success:
-  2024-09-25T00:25:20+0000  warm-night-theme-20161101.1428.entry
-  2024-09-25T00:25:20+0000  warm-night-theme-20161101.1428.tar
-Built warm-night-theme in 2.747s, finished at 2024-09-25T00:25:21+0000
+  2024-09-26T00:48:18+0000  warm-night-theme-20161101.1428.entry
+  2024-09-26T00:48:18+0000  warm-night-theme-20161101.1428.tar
+Built warm-night-theme in 2.436s, finished at 2024-09-26T00:48:19+0000

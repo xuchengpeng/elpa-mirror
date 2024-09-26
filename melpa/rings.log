@@ -1,18 +1,18 @@
 Package: rings
 Fetcher: github
-Source:  https://github.com/konr/rings.git
+Source:  https://github.com/konr/rings
 
 Updating /mnt/store/melpa/working/rings/
 Checking out 3590b222eb80652cbd27866f066bd3571d86edfc
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/rings/
-  to /tmp/ringsEPjv27/rings-20160531.2027
+  to /tmp/ringsfXmn4X/rings-20160531.2027
     rings.el -> rings.el
 Created rings-20160531.2027.tar containing:
   rings-20160531.2027/
   rings-20160531.2027/rings-pkg.el
   rings-20160531.2027/rings.el
  ✓ Success:
-  2024-09-25T00:15:43+0000  rings-20160531.2027.entry
-  2024-09-25T00:15:43+0000  rings-20160531.2027.tar
-Built rings in 2.455s, finished at 2024-09-25T00:15:44+0000
+  2024-09-26T00:38:53+0000  rings-20160531.2027.entry
+  2024-09-26T00:38:53+0000  rings-20160531.2027.tar
+Built rings in 2.630s, finished at 2024-09-26T00:38:54+0000

@@ -1,12 +1,12 @@
 Package: syntree
 Fetcher: github
-Source:  https://github.com/enricoflor/syntree.git
+Source:  https://github.com/enricoflor/syntree
 
 Updating /mnt/store/melpa/working/syntree/
 Checking out 7bbbd4904b0ffe452ec39630042dbc85a7a0b233
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/syntree/
-  to /tmp/syntreedJgG7K/syntree-20230621.2048
+  to /tmp/syntreee4FzAg/syntree-20230621.2048
     syntree.el -> syntree.el
     syntree.info -> syntree.info
 Created syntree-20230621.2048.tar containing:
@@ -16,6 +16,6 @@ Created syntree-20230621.2048.tar containing:
   syntree-20230621.2048/syntree.el
   syntree-20230621.2048/syntree.info
  ✓ Success:
-  2024-09-25T00:20:56+0000  syntree-20230621.2048.entry
-  2024-09-25T00:20:56+0000  syntree-20230621.2048.tar
-Built syntree in 2.706s, finished at 2024-09-25T00:20:57+0000
+  2024-09-26T00:43:59+0000  syntree-20230621.2048.entry
+  2024-09-26T00:43:59+0000  syntree-20230621.2048.tar
+Built syntree in 2.419s, finished at 2024-09-26T00:44:00+0000

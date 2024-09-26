@@ -1,18 +1,18 @@
 Package: sudoku
 Fetcher: github
-Source:  https://github.com/zevlg/sudoku.el.git
+Source:  https://github.com/zevlg/sudoku.el
 
 Updating /mnt/store/melpa/working/sudoku/
 Checking out b1924fd244a5fa284de9d67b66fbd69164b37318
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/sudoku/
-  to /tmp/sudoku13aqk5/sudoku-20191015.1315
+  to /tmp/sudoku1rIXLX/sudoku-20191015.1315
     sudoku.el -> sudoku.el
 Created sudoku-20191015.1315.tar containing:
   sudoku-20191015.1315/
   sudoku-20191015.1315/sudoku-pkg.el
   sudoku-20191015.1315/sudoku.el
  ✓ Success:
-  2024-09-25T00:20:10+0000  sudoku-20191015.1315.entry
-  2024-09-25T00:20:10+0000  sudoku-20191015.1315.tar
-Built sudoku in 2.689s, finished at 2024-09-25T00:20:11+0000
+  2024-09-26T00:43:27+0000  sudoku-20191015.1315.entry
+  2024-09-26T00:43:27+0000  sudoku-20191015.1315.tar
+Built sudoku in 2.460s, finished at 2024-09-26T00:43:28+0000

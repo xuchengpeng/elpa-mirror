@@ -1,18 +1,18 @@
 Package: string-inflection
 Fetcher: github
-Source:  https://github.com/akicho8/string-inflection.git
+Source:  https://github.com/akicho8/string-inflection
 
 Updating /mnt/store/melpa/working/string-inflection/
 Checking out 4cc92e1ecd3d165b55235b51ae65ac09a0364958
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/string-inflection/
-  to /tmp/string-inflectione03IN1/string-inflection-20240816.523
+  to /tmp/string-inflectionr6i2zo/string-inflection-20240816.523
     string-inflection.el -> string-inflection.el
 Created string-inflection-20240816.523.tar containing:
   string-inflection-20240816.523/
   string-inflection-20240816.523/string-inflection-pkg.el
   string-inflection-20240816.523/string-inflection.el
  ✓ Success:
-  2024-09-25T00:20:00+0000  string-inflection-20240816.523.entry
-  2024-09-25T00:20:00+0000  string-inflection-20240816.523.tar
-Built string-inflection in 2.563s, finished at 2024-09-25T00:20:01+0000
+  2024-09-26T00:43:13+0000  string-inflection-20240816.523.entry
+  2024-09-26T00:43:13+0000  string-inflection-20240816.523.tar
+Built string-inflection in 4.050s, finished at 2024-09-26T00:43:15+0000

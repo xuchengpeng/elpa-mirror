@@ -1,18 +1,18 @@
 Package: dynamic-graphs
 Fetcher: github
-Source:  https://github.com/zellerin/dynamic-graphs.git
+Source:  https://github.com/zellerin/dynamic-graphs
 
 Updating /mnt/store/melpa/working/dynamic-graphs/
 Checking out 64ca58dffecdecb636f7fe61c0c86e9c3c64d4dd
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/dynamic-graphs/
-  to /tmp/dynamic-graphsX9sQjT/dynamic-graphs-20210908.2010
+  to /tmp/dynamic-graphsaXoIJ7/dynamic-graphs-20210908.2010
     dynamic-graphs.el -> dynamic-graphs.el
 Created dynamic-graphs-20210908.2010.tar containing:
   dynamic-graphs-20210908.2010/
   dynamic-graphs-20210908.2010/dynamic-graphs-pkg.el
   dynamic-graphs-20210908.2010/dynamic-graphs.el
  ✓ Success:
-  2024-09-24T23:39:08+0000  dynamic-graphs-20210908.2010.entry
-  2024-09-24T23:39:07+0000  dynamic-graphs-20210908.2010.tar
-Built dynamic-graphs in 2.607s, finished at 2024-09-24T23:39:08+0000
+  2024-09-26T00:01:42+0000  dynamic-graphs-20210908.2010.entry
+  2024-09-26T00:01:41+0000  dynamic-graphs-20210908.2010.tar
+Built dynamic-graphs in 2.213s, finished at 2024-09-26T00:01:42+0000

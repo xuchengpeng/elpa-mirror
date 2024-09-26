@@ -1,18 +1,18 @@
 Package: elscreen-multi-term
 Fetcher: github
-Source:  https://github.com/wamei/elscreen-multi-term.git
+Source:  https://github.com/wamei/elscreen-multi-term
 
 Updating /mnt/store/melpa/working/elscreen-multi-term/
 Checking out 4ea89bae0444d9d4377515929f76cb3e98140f1f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/elscreen-multi-term/
-  to /tmp/elscreen-multi-term7JzfOe/elscreen-multi-term-20200417.821
+  to /tmp/elscreen-multi-termopd53m/elscreen-multi-term-20200417.821
     elscreen-multi-term.el -> elscreen-multi-term.el
 Created elscreen-multi-term-20200417.821.tar containing:
   elscreen-multi-term-20200417.821/
   elscreen-multi-term-20200417.821/elscreen-multi-term-pkg.el
   elscreen-multi-term-20200417.821/elscreen-multi-term.el
  ✓ Success:
-  2024-09-24T23:41:01+0000  elscreen-multi-term-20200417.821.entry
-  2024-09-24T23:41:01+0000  elscreen-multi-term-20200417.821.tar
-Built elscreen-multi-term in 2.713s, finished at 2024-09-24T23:41:02+0000
+  2024-09-26T00:04:01+0000  elscreen-multi-term-20200417.821.entry
+  2024-09-26T00:04:01+0000  elscreen-multi-term-20200417.821.tar
+Built elscreen-multi-term in 4.919s, finished at 2024-09-26T00:04:03+0000

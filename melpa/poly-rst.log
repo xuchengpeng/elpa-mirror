@@ -1,18 +1,18 @@
 Package: poly-rst
 Fetcher: github
-Source:  https://github.com/polymode/poly-rst.git
+Source:  https://github.com/polymode/poly-rst
 
 Updating /mnt/store/melpa/working/poly-rst/
 Checking out e71f2ae6a00683cdb8006f953e5db0673043e144
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/poly-rst/
-  to /tmp/poly-rsteWfEKR/poly-rst-20210418.1009
+  to /tmp/poly-rstoXwTgF/poly-rst-20210418.1009
     poly-rst.el -> poly-rst.el
 Created poly-rst-20210418.1009.tar containing:
   poly-rst-20210418.1009/
   poly-rst-20210418.1009/poly-rst-pkg.el
   poly-rst-20210418.1009/poly-rst.el
  ✓ Success:
-  2024-09-25T00:12:00+0000  poly-rst-20210418.1009.entry
-  2024-09-25T00:12:00+0000  poly-rst-20210418.1009.tar
-Built poly-rst in 2.836s, finished at 2024-09-25T00:12:00+0000
+  2024-09-26T00:35:15+0000  poly-rst-20210418.1009.entry
+  2024-09-26T00:35:15+0000  poly-rst-20210418.1009.tar
+Built poly-rst in 2.694s, finished at 2024-09-26T00:35:16+0000

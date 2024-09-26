@@ -1,18 +1,18 @@
 Package: projectile-trailblazer
 Fetcher: github
-Source:  https://github.com/micdahl/projectile-trailblazer.git
+Source:  https://github.com/micdahl/projectile-trailblazer
 
 Updating /mnt/store/melpa/working/projectile-trailblazer/
 Checking out 79299498d74876f2ac3fe8075716b39a5bdd04cd
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/projectile-trailblazer/
-  to /tmp/projectile-trailblazerZDRHj0/projectile-trailblazer-20170928.1624
+  to /tmp/projectile-trailblazerDt2s5V/projectile-trailblazer-20170928.1624
     projectile-trailblazer.el -> projectile-trailblazer.el
 Created projectile-trailblazer-20170928.1624.tar containing:
   projectile-trailblazer-20170928.1624/
   projectile-trailblazer-20170928.1624/projectile-trailblazer-pkg.el
   projectile-trailblazer-20170928.1624/projectile-trailblazer.el
  ✓ Success:
-  2024-09-25T00:12:52+0000  projectile-trailblazer-20170928.1624.entry
-  2024-09-25T00:12:52+0000  projectile-trailblazer-20170928.1624.tar
-Built projectile-trailblazer in 2.839s, finished at 2024-09-25T00:12:53+0000
+  2024-09-26T00:36:06+0000  projectile-trailblazer-20170928.1624.entry
+  2024-09-26T00:36:06+0000  projectile-trailblazer-20170928.1624.tar
+Built projectile-trailblazer in 2.556s, finished at 2024-09-26T00:36:06+0000

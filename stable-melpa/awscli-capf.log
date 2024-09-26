@@ -1,18 +1,18 @@
 Package: awscli-capf
 Fetcher: github
-Source:  https://github.com/sebasmonia/awscli-capf.git
+Source:  https://github.com/sebasmonia/awscli-capf
 
 Updating /mnt/store/melpa/working/awscli-capf/
 Checking out 1a75f88f53a2969fe821c31e6857861d0a0c0a5e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/awscli-capf/
-  to /tmp/awscli-capfoG8FtL/awscli-capf-20190930.1517
+  to /tmp/awscli-capfXgHTeB/awscli-capf-20190930.1517
     awscli-capf.el -> awscli-capf.el
 Created awscli-capf-20190930.1517.tar containing:
   awscli-capf-20190930.1517/
   awscli-capf-20190930.1517/awscli-capf-pkg.el
   awscli-capf-20190930.1517/awscli-capf.el
  ✓ Success:
-  2024-09-24T23:29:21+0000  awscli-capf-20190930.1517.entry
-  2024-09-24T23:29:21+0000  awscli-capf-20190930.1517.tar
-Built awscli-capf in 2.582s, finished at 2024-09-24T23:29:22+0000
+  2024-09-25T23:48:33+0000  awscli-capf-20190930.1517.entry
+  2024-09-25T23:48:32+0000  awscli-capf-20190930.1517.tar
+Built awscli-capf in 2.164s, finished at 2024-09-25T23:48:33+0000

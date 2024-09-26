@@ -1,18 +1,18 @@
 Package: tempel
 Fetcher: github
-Source:  https://github.com/minad/tempel.git
+Source:  https://github.com/minad/tempel
 
 Updating /mnt/store/melpa/working/tempel/
 Checking out 650e8129a570fbc827d43ad60f25299179041102
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/tempel/
-  to /tmp/tempel46QlYM/tempel-20240908.1848
+  to /tmp/tempel4zUJAh/tempel-20240908.1848
     tempel.el -> tempel.el
 Created tempel-20240908.1848.tar containing:
   tempel-20240908.1848/
   tempel-20240908.1848/tempel-pkg.el
   tempel-20240908.1848/tempel.el
  ✓ Success:
-  2024-09-25T00:21:24+0000  tempel-20240908.1848.entry
-  2024-09-25T00:21:24+0000  tempel-20240908.1848.tar
-Built tempel in 2.693s, finished at 2024-09-25T00:21:25+0000
+  2024-09-26T00:44:27+0000  tempel-20240908.1848.entry
+  2024-09-26T00:44:27+0000  tempel-20240908.1848.tar
+Built tempel in 2.666s, finished at 2024-09-26T00:44:27+0000

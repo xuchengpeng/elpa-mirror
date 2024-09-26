@@ -1,18 +1,18 @@
 Package: evil-quickscope
 Fetcher: github
-Source:  https://github.com/blorbx/evil-quickscope.git
+Source:  https://github.com/blorbx/evil-quickscope
 
 Updating /mnt/store/melpa/working/evil-quickscope/
 Checking out 37a20e4c56c6058abf186ad4013c155e695e876f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/evil-quickscope/
-  to /tmp/evil-quickscopedQCiXu/evil-quickscope-20160202.1924
+  to /tmp/evil-quickscopeiUmyC2/evil-quickscope-20160202.1924
     evil-quickscope.el -> evil-quickscope.el
 Created evil-quickscope-20160202.1924.tar containing:
   evil-quickscope-20160202.1924/
   evil-quickscope-20160202.1924/evil-quickscope-pkg.el
   evil-quickscope-20160202.1924/evil-quickscope.el
  ✓ Success:
-  2024-09-24T23:43:28+0000  evil-quickscope-20160202.1924.entry
-  2024-09-24T23:43:28+0000  evil-quickscope-20160202.1924.tar
-Built evil-quickscope in 2.561s, finished at 2024-09-24T23:43:29+0000
+  2024-09-26T00:06:41+0000  evil-quickscope-20160202.1924.entry
+  2024-09-26T00:06:41+0000  evil-quickscope-20160202.1924.tar
+Built evil-quickscope in 2.561s, finished at 2024-09-26T00:06:42+0000

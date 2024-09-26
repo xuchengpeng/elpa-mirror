@@ -1,18 +1,18 @@
 Package: ivy-historian
 Fetcher: github
-Source:  https://github.com/PythonNut/historian.el.git
+Source:  https://github.com/PythonNut/historian.el
 
 Updating /mnt/store/melpa/working/ivy-historian/
 Checking out 852cb4e72c0f78c8dbb2c972bdcb4e7b0108ff4c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ivy-historian/
-  to /tmp/ivy-historianFWXfdK/ivy-historian-20210714.56
+  to /tmp/ivy-historianVRLMy0/ivy-historian-20210714.56
     ivy-historian.el -> ivy-historian.el
 Created ivy-historian-20210714.56.tar containing:
   ivy-historian-20210714.56/
   ivy-historian-20210714.56/ivy-historian-pkg.el
   ivy-historian-20210714.56/ivy-historian.el
  ✓ Success:
-  2024-09-24T23:55:53+0000  ivy-historian-20210714.56.entry
-  2024-09-24T23:55:53+0000  ivy-historian-20210714.56.tar
-Built ivy-historian in 2.609s, finished at 2024-09-24T23:55:54+0000
+  2024-09-26T00:19:34+0000  ivy-historian-20210714.56.entry
+  2024-09-26T00:19:34+0000  ivy-historian-20210714.56.tar
+Built ivy-historian in 2.504s, finished at 2024-09-26T00:19:35+0000

@@ -1,12 +1,12 @@
 Package: sdml-mode
 Fetcher: github
-Source:  https://github.com/sdm-lang/emacs-sdml-mode.git
+Source:  https://github.com/sdm-lang/emacs-sdml-mode
 
 Updating /mnt/store/melpa/working/sdml-mode/
 Checking out 86d2f30a0f49c2ca35e07382ce9620aeff7c9960
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/sdml-mode/
-  to /tmp/sdml-modemCGxnP/sdml-mode-20240821.1835
+  to /tmp/sdml-mode0bnLPg/sdml-mode-20240821.1835
     sdml-mode-abbrev.el -> sdml-mode-abbrev.el
     sdml-mode-cli.el -> sdml-mode-cli.el
     sdml-mode-ctags.el -> sdml-mode-ctags.el
@@ -23,6 +23,6 @@ Created sdml-mode-20240821.1835.tar containing:
   sdml-mode-20240821.1835/sdml-mode-pkg.el
   sdml-mode-20240821.1835/sdml-mode.el
  ✓ Success:
-  2024-09-25T00:16:50+0000  sdml-mode-20240821.1835.entry
-  2024-09-25T00:16:50+0000  sdml-mode-20240821.1835.tar
-Built sdml-mode in 2.564s, finished at 2024-09-25T00:16:51+0000
+  2024-09-26T00:39:58+0000  sdml-mode-20240821.1835.entry
+  2024-09-26T00:39:58+0000  sdml-mode-20240821.1835.tar
+Built sdml-mode in 2.429s, finished at 2024-09-26T00:39:59+0000

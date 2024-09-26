@@ -1,18 +1,18 @@
 Package: clay
 Fetcher: github
-Source:  https://github.com/scicloj/clay.el.git
+Source:  https://github.com/scicloj/clay.el
 
 Updating /mnt/store/melpa/working/clay/
 Checking out 5d5512e67e7dd4b7b7ffae070517948cb1ad82e4
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/clay/
-  to /tmp/claysQh4Gm/clay-20240409.1321
+  to /tmp/claywruL4S/clay-20240409.1321
     clay.el -> clay.el
 Created clay-20240409.1321.tar containing:
   clay-20240409.1321/
   clay-20240409.1321/clay-pkg.el
   clay-20240409.1321/clay.el
  ✓ Success:
-  2024-09-24T23:32:55+0000  clay-20240409.1321.entry
-  2024-09-24T23:32:55+0000  clay-20240409.1321.tar
-Built clay in 2.443s, finished at 2024-09-24T23:32:56+0000
+  2024-09-25T23:52:01+0000  clay-20240409.1321.entry
+  2024-09-25T23:52:01+0000  clay-20240409.1321.tar
+Built clay in 1.566s, finished at 2024-09-25T23:52:01+0000

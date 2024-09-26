@@ -1,18 +1,18 @@
 Package: restclient
 Fetcher: github
-Source:  https://github.com/pashky/restclient.el.git
+Source:  https://github.com/pashky/restclient.el
 
 Updating /mnt/store/melpa/working/restclient/
 Checking out e2a2b13482d72634f8e49864cd9e5c907a5fe137
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/restclient/
-  to /tmp/restclienthpoVmd/restclient-20231010.1327
+  to /tmp/restclient6Ac1QC/restclient-20231010.1327
     restclient.el -> restclient.el
 Created restclient-20231010.1327.tar containing:
   restclient-20231010.1327/
   restclient-20231010.1327/restclient-pkg.el
   restclient-20231010.1327/restclient.el
  ✓ Success:
-  2024-09-25T00:15:26+0000  restclient-20231010.1327.entry
-  2024-09-25T00:15:26+0000  restclient-20231010.1327.tar
-Built restclient in 3.168s, finished at 2024-09-25T00:15:27+0000
+  2024-09-26T00:38:35+0000  restclient-20231010.1327.entry
+  2024-09-26T00:38:34+0000  restclient-20231010.1327.tar
+Built restclient in 2.627s, finished at 2024-09-26T00:38:35+0000

@@ -1,18 +1,18 @@
 Package: semaphore-promise
 Fetcher: github
-Source:  https://github.com/webnf/semaphore.el.git
+Source:  https://github.com/webnf/semaphore.el
 
 Updating /mnt/store/melpa/working/semaphore-promise/
 Checking out 9cdfef91cc0293371af549ad41027aa5b73f30a4
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/semaphore-promise/
-  to /tmp/semaphore-promiseeUiU1W/semaphore-promise-20190607.2115
+  to /tmp/semaphore-promiseAoE5zI/semaphore-promise-20190607.2115
     semaphore-promise.el -> semaphore-promise.el
 Created semaphore-promise-20190607.2115.tar containing:
   semaphore-promise-20190607.2115/
   semaphore-promise-20190607.2115/semaphore-promise-pkg.el
   semaphore-promise-20190607.2115/semaphore-promise.el
  ✓ Success:
-  2024-09-25T00:17:00+0000  semaphore-promise-20190607.2115.entry
-  2024-09-25T00:17:00+0000  semaphore-promise-20190607.2115.tar
-Built semaphore-promise in 2.676s, finished at 2024-09-25T00:17:01+0000
+  2024-09-26T00:40:08+0000  semaphore-promise-20190607.2115.entry
+  2024-09-26T00:40:08+0000  semaphore-promise-20190607.2115.tar
+Built semaphore-promise in 2.537s, finished at 2024-09-26T00:40:09+0000

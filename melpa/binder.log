@@ -1,12 +1,12 @@
 Package: binder
 Fetcher: github
-Source:  https://github.com/rnkn/binder.git
+Source:  https://github.com/rnkn/binder
 
 Updating /mnt/store/melpa/working/binder/
 Checking out a17eb5089bbab05372c018e67b3da9aa25217d81
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/binder/
-  to /tmp/binderTN8S4I/binder-20240630.725
+  to /tmp/binderC8fyCh/binder-20240630.725
     binder-tutorial.el -> binder-tutorial.el
     binder.el -> binder.el
 Created binder-20240630.725.tar containing:
@@ -15,6 +15,6 @@ Created binder-20240630.725.tar containing:
   binder-20240630.725/binder-tutorial.el
   binder-20240630.725/binder.el
  ✓ Success:
-  2024-09-24T23:30:11+0000  binder-20240630.725.entry
-  2024-09-24T23:30:11+0000  binder-20240630.725.tar
-Built binder in 4.363s, finished at 2024-09-24T23:30:13+0000
+  2024-09-25T23:49:19+0000  binder-20240630.725.entry
+  2024-09-25T23:49:19+0000  binder-20240630.725.tar
+Built binder in 2.509s, finished at 2024-09-25T23:49:20+0000

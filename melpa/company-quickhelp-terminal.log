@@ -1,18 +1,18 @@
 Package: company-quickhelp-terminal
 Fetcher: github
-Source:  https://github.com/jcs-legacy/company-quickhelp-terminal.git
+Source:  https://github.com/jcs-legacy/company-quickhelp-terminal
 
 Updating /mnt/store/melpa/working/company-quickhelp-terminal/
 Checking out 1ea1dcc8696714f349df21e151bc66fb2cf396a8
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/company-quickhelp-terminal/
-  to /tmp/company-quickhelp-terminal8LEDxz/company-quickhelp-terminal-20240101.1005
+  to /tmp/company-quickhelp-terminalUfKYeF/company-quickhelp-terminal-20240101.1005
     company-quickhelp-terminal.el -> company-quickhelp-terminal.el
 Created company-quickhelp-terminal-20240101.1005.tar containing:
   company-quickhelp-terminal-20240101.1005/
   company-quickhelp-terminal-20240101.1005/company-quickhelp-terminal-pkg.el
   company-quickhelp-terminal-20240101.1005/company-quickhelp-terminal.el
  ✓ Success:
-  2024-09-24T23:34:23+0000  company-quickhelp-terminal-20240101.1005.entry
-  2024-09-24T23:34:23+0000  company-quickhelp-terminal-20240101.1005.tar
-Built company-quickhelp-terminal in 2.729s, finished at 2024-09-24T23:34:24+0000
+  2024-09-25T23:53:39+0000  company-quickhelp-terminal-20240101.1005.entry
+  2024-09-25T23:53:39+0000  company-quickhelp-terminal-20240101.1005.tar
+Built company-quickhelp-terminal in 1.557s, finished at 2024-09-25T23:53:39+0000

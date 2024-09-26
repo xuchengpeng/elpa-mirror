@@ -1,18 +1,18 @@
 Package: ol-tmsu
 Fetcher: github
-Source:  https://github.com/vifon/tmsu.el.git
+Source:  https://github.com/vifon/tmsu.el
 
 Updating /mnt/store/melpa/working/ol-tmsu/
 Checking out 9672d193a51f2848696445528de757aa21b2b686
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ol-tmsu/
-  to /tmp/ol-tmsuZH9IOO/ol-tmsu-20230207.1457
+  to /tmp/ol-tmsuKRO8zU/ol-tmsu-20230207.1457
     ol-tmsu.el -> ol-tmsu.el
 Created ol-tmsu-20230207.1457.tar containing:
   ol-tmsu-20230207.1457/
   ol-tmsu-20230207.1457/ol-tmsu-pkg.el
   ol-tmsu-20230207.1457/ol-tmsu.el
  ✓ Success:
-  2024-09-25T00:06:12+0000  ol-tmsu-20230207.1457.entry
-  2024-09-25T00:06:12+0000  ol-tmsu-20230207.1457.tar
-Built ol-tmsu in 2.655s, finished at 2024-09-25T00:06:13+0000
+  2024-09-26T00:29:31+0000  ol-tmsu-20230207.1457.entry
+  2024-09-26T00:29:30+0000  ol-tmsu-20230207.1457.tar
+Built ol-tmsu in 2.549s, finished at 2024-09-26T00:29:31+0000
