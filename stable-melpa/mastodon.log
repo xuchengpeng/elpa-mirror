@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/mastodon/
 Checking out e593ad461ae275c641c6c4c90f67d62a920610a0
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mastodon/
-  to /tmp/mastodon9GQFW3/mastodon-20240920.1839
+  to /tmp/mastodonh1BugH/mastodon-20240920.1839
   ! lisp/mastodon-async.el -> mastodon-async.el
   ! lisp/mastodon-auth.el -> mastodon-auth.el
   ! lisp/mastodon-client.el -> mastodon-client.el
@@ -26,3 +26,27 @@ Copying files (->) and directories (=>)
     mastodon.info -> mastodon.info
     mastodon.texi -> mastodon.texi
 Generating mastodon.info
+Created mastodon-20240920.1839.tar containing:
+  mastodon-20240920.1839/
+  mastodon-20240920.1839/dir
+  mastodon-20240920.1839/mastodon-async.el
+  mastodon-20240920.1839/mastodon-auth.el
+  mastodon-20240920.1839/mastodon-client.el
+  mastodon-20240920.1839/mastodon-discover.el
+  mastodon-20240920.1839/mastodon-http.el
+  mastodon-20240920.1839/mastodon-inspect.el
+  mastodon-20240920.1839/mastodon-iso.el
+  mastodon-20240920.1839/mastodon-media.el
+  mastodon-20240920.1839/mastodon-notifications.el
+  mastodon-20240920.1839/mastodon-pkg.el
+  mastodon-20240920.1839/mastodon-profile.el
+  mastodon-20240920.1839/mastodon-search.el
+  mastodon-20240920.1839/mastodon-tl.el
+  mastodon-20240920.1839/mastodon-toot.el
+  mastodon-20240920.1839/mastodon-views.el
+  mastodon-20240920.1839/mastodon.el
+  mastodon-20240920.1839/mastodon.info
+ ✓ Success:
+  2024-09-27T23:13:23+0000  mastodon-20240920.1839.entry
+  2024-09-27T23:13:23+0000  mastodon-20240920.1839.tar
+Built mastodon in 4.818s, finished at 2024-09-27T23:13:23+0000
