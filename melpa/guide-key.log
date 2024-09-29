@@ -1,0 +1,18 @@
+Package: guide-key
+Fetcher: github
+Source:  https://github.com/kai2nenobu/guide-key
+
+Updating /mnt/store/melpa/working/guide-key/
+Checking out 9236d287a7272e307fb941237390a96037c8c0a2
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/guide-key/
+  to /tmp/guide-key1v8MBC/guide-key-20150108.635
+    guide-key.el -> guide-key.el
+Created guide-key-20150108.635.tar containing:
+  guide-key-20150108.635/
+  guide-key-20150108.635/guide-key-pkg.el
+  guide-key-20150108.635/guide-key.el
+ ✓ Success:
+  2024-09-28T23:27:34+0000  guide-key-20150108.635.entry
+  2024-09-28T23:27:34+0000  guide-key-20150108.635.tar
+Built guide-key in 3.992s, finished at 2024-09-28T23:27:36+0000

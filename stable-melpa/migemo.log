@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/migemo/
 Checking out 7d78901773da3b503e5c0d5fa14a53ad6060c97f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/migemo/
-  to /tmp/migemolVW1x7/migemo-20231120.842
+  to /tmp/migemo3zkzGi/migemo-20231120.842
     migemo.el -> migemo.el
 Created migemo-20231120.842.tar containing:
   migemo-20231120.842/
   migemo-20231120.842/migemo-pkg.el
   migemo-20231120.842/migemo.el
  ✓ Success:
-  2024-09-27T23:14:00+0000  migemo-20231120.842.entry
-  2024-09-27T23:13:59+0000  migemo-20231120.842.tar
-Built migemo in 2.748s, finished at 2024-09-27T23:14:00+0000
+  2024-09-28T23:47:24+0000  migemo-20231120.842.entry
+  2024-09-28T23:47:24+0000  migemo-20231120.842.tar
+Built migemo in 4.675s, finished at 2024-09-28T23:47:25+0000
