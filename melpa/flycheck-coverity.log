@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/flycheck-coverity/
 Checking out cb211e3dd50413a5042eb20175be518214591c9d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/flycheck-coverity/
-  to /tmp/flycheck-coveritySts17U/flycheck-coverity-20170704.59
+  to /tmp/flycheck-coverityX2a8pq/flycheck-coverity-20170704.59
     flycheck-coverity.el -> flycheck-coverity.el
 Created flycheck-coverity-20170704.59.tar containing:
   flycheck-coverity-20170704.59/
   flycheck-coverity-20170704.59/flycheck-coverity-pkg.el
   flycheck-coverity-20170704.59/flycheck-coverity.el
  ✓ Success:
-  2024-09-29T01:07:55+0000  flycheck-coverity-20170704.59.entry
-  2024-09-29T01:07:55+0000  flycheck-coverity-20170704.59.tar
-Built flycheck-coverity in 3.869s, finished at 2024-09-29T01:07:56+0000
+  2024-09-30T00:39:49+0000  flycheck-coverity-20170704.59.entry
+  2024-09-30T00:39:49+0000  flycheck-coverity-20170704.59.tar
+Built flycheck-coverity in 4.127s, finished at 2024-09-30T00:39:50+0000

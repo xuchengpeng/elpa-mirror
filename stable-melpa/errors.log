@@ -1,0 +1,2 @@
+2024-09-30T00:54:35+0000  hyperbole                  Command `makeinfo --no-split hyperbole.texi -o /tmp/hyperboleRdd05W/hyperbole-20240922.705/hyperbole.info' exited with non-zero exit-code: 1
+2024-09-30T00:54:35+0000  hyperbole                  Command `install-info --dir\=dir hyperbole.info' exited with non-zero exit-code: 1
