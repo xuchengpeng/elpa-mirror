@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/emacs-lsp/lsp-pyright
 
 Updating /mnt/store/melpa/working/lsp-pyright/
-Checking out 4e2a5eac006020efecb3c252d525054af44cd00d
+Checking out bf27f1959460661648ecaaee4b5701bc003e3003
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/lsp-pyright/
-  to /tmp/lsp-pyrightmR9UAU/lsp-pyright-20240929.307
+  to /tmp/lsp-pyrightrVnthm/lsp-pyright-20241001.1424
     lsp-pyright.el -> lsp-pyright.el
-Created lsp-pyright-20240929.307.tar containing:
-  lsp-pyright-20240929.307/
-  lsp-pyright-20240929.307/lsp-pyright-pkg.el
-  lsp-pyright-20240929.307/lsp-pyright.el
+Created lsp-pyright-20241001.1424.tar containing:
+  lsp-pyright-20241001.1424/
+  lsp-pyright-20241001.1424/lsp-pyright-pkg.el
+  lsp-pyright-20241001.1424/lsp-pyright.el
  ✓ Success:
-  2024-09-30T23:38:14+0000  lsp-pyright-20240929.307.entry
-  2024-09-30T23:38:14+0000  lsp-pyright-20240929.307.tar
-Built lsp-pyright in 2.735s, finished at 2024-09-30T23:38:15+0000
+  2024-10-02T00:02:50+0000  lsp-pyright-20241001.1424.entry
+  2024-10-02T00:02:50+0000  lsp-pyright-20241001.1424.tar
+Built lsp-pyright in 4.994s, finished at 2024-10-02T00:02:51+0000
