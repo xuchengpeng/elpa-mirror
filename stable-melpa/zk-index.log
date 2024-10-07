@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/localauthor/zk
 
 Updating /mnt/store/melpa/working/zk-index/
-Checking out 8e361577b8cf01f20a65222ca4ce90720a3d74a6
+Checking out 297ebd0df13c957f4ba9700cafc5466dafacc5cb
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/zk-index/
-  to /tmp/zk-indexp564yG/zk-index-20240926.1826
+  to /tmp/zk-indexVzlabO/zk-index-20241006.1334
     zk-index.el -> zk-index.el
-Created zk-index-20240926.1826.tar containing:
-  zk-index-20240926.1826/
-  zk-index-20240926.1826/zk-index-pkg.el
-  zk-index-20240926.1826/zk-index.el
+Created zk-index-20241006.1334.tar containing:
+  zk-index-20241006.1334/
+  zk-index-20241006.1334/zk-index-pkg.el
+  zk-index-20241006.1334/zk-index.el
  ✓ Success:
-  2024-10-06T00:11:29+0000  zk-index-20240926.1826.entry
-  2024-10-06T00:11:29+0000  zk-index-20240926.1826.tar
-Built zk-index in 2.865s, finished at 2024-10-06T00:11:30+0000
+  2024-10-07T00:36:48+0000  zk-index-20241006.1334.entry
+  2024-10-07T00:36:48+0000  zk-index-20241006.1334.tar
+Built zk-index in 2.903s, finished at 2024-10-07T00:36:49+0000
