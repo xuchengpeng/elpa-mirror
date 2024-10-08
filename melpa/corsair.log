@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/rob137/corsair
 
 Updating /mnt/store/melpa/working/corsair/
-Checking out f316963d883017349dd6c0181dee9d40d9175cec
+Checking out bb46a8004de71f715bc60ed52fbcb5fd7a27103f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/corsair/
-  to /tmp/corsairBBqOHA/corsair-20241003.1318
+  to /tmp/corsairf9nO6g/corsair-20241007.922
     corsair.el -> corsair.el
-Created corsair-20241003.1318.tar containing:
-  corsair-20241003.1318/
-  corsair-20241003.1318/corsair-pkg.el
-  corsair-20241003.1318/corsair.el
+Created corsair-20241007.922.tar containing:
+  corsair-20241007.922/
+  corsair-20241007.922/corsair-pkg.el
+  corsair-20241007.922/corsair.el
  ✓ Success:
-  2024-10-06T23:38:59+0000  corsair-20241003.1318.entry
-  2024-10-06T23:38:59+0000  corsair-20241003.1318.tar
-Built corsair in 2.469s, finished at 2024-10-06T23:39:00+0000
+  2024-10-08T00:13:28+0000  corsair-20241007.922.entry
+  2024-10-08T00:13:28+0000  corsair-20241007.922.tar
+Built corsair in 2.504s, finished at 2024-10-08T00:13:29+0000
