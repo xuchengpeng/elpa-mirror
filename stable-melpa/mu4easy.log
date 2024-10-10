@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/danielfleischer/mu4easy
 
 Updating /mnt/store/melpa/working/mu4easy/
-Checking out d99c384ca921bb0423c7a743ce6efa9629101b0d
+Checking out f104605240f479f14d9f3dc0d712e71561d81896
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mu4easy/
-  to /tmp/mu4easyKek4AS/mu4easy-20240830.1315
+  to /tmp/mu4easyVyWTvw/mu4easy-20241008.1920
     mu4easy.el -> mu4easy.el
-Created mu4easy-20240830.1315.tar containing:
-  mu4easy-20240830.1315/
-  mu4easy-20240830.1315/mu4easy-pkg.el
-  mu4easy-20240830.1315/mu4easy.el
+Created mu4easy-20241008.1920.tar containing:
+  mu4easy-20241008.1920/
+  mu4easy-20241008.1920/mu4easy-pkg.el
+  mu4easy-20241008.1920/mu4easy.el
  ✓ Success:
-  2024-10-08T23:08:33+0000  mu4easy-20240830.1315.entry
-  2024-10-08T23:08:33+0000  mu4easy-20240830.1315.tar
-Built mu4easy in 3.020s, finished at 2024-10-08T23:08:33+0000
+  2024-10-10T00:48:28+0000  mu4easy-20241008.1920.entry
+  2024-10-10T00:48:28+0000  mu4easy-20241008.1920.tar
+Built mu4easy in 3.213s, finished at 2024-10-10T00:48:29+0000

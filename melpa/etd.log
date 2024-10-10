@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/etd/
 Checking out 65f713935c9d2598f6fa4674bf2bdac2169005a9
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/etd/
-  to /tmp/etd6hID6N/etd-20230711.547
+  to /tmp/etdgCZaet/etd-20230711.547
     etd.el -> etd.el
 Created etd-20230711.547.tar containing:
   etd-20230711.547/
   etd-20230711.547/etd-pkg.el
   etd-20230711.547/etd.el
  ✓ Success:
-  2024-10-09T00:59:15+0000  etd-20230711.547.entry
-  2024-10-09T00:59:15+0000  etd-20230711.547.tar
-Built etd in 3.067s, finished at 2024-10-09T00:59:16+0000
+  2024-10-10T00:25:44+0000  etd-20230711.547.entry
+  2024-10-10T00:25:44+0000  etd-20230711.547.tar
+Built etd in 3.013s, finished at 2024-10-10T00:25:45+0000
