@@ -3,16 +3,3 @@ Fetcher: github
 Source:  https://github.com/sachac/artbollocks-mode
 
 Updating /mnt/store/melpa/working/artbollocks-mode/
-Checking out 4a907e470bf345b88c3802c1241ce2b8cf4123ee
-Copying files (->) and directories (=>)
-  from /mnt/store/melpa/working/artbollocks-mode/
-  to /tmp/artbollocks-modeKAwhnO/artbollocks-mode-20170524.422
-    artbollocks-mode.el -> artbollocks-mode.el
-Created artbollocks-mode-20170524.422.tar containing:
-  artbollocks-mode-20170524.422/
-  artbollocks-mode-20170524.422/artbollocks-mode-pkg.el
-  artbollocks-mode-20170524.422/artbollocks-mode.el
- ✓ Success:
-  2024-10-11T00:38:19+0000  artbollocks-mode-20170524.422.entry
-  2024-10-11T00:38:19+0000  artbollocks-mode-20170524.422.tar
-Built artbollocks-mode in 2.822s, finished at 2024-10-11T00:38:20+0000
