@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/helm-bm/
 Checking out 4744b5784df5800f36c3c54de5269034191155f5
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/helm-bm/
-  to /tmp/helm-bm702Nip/helm-bm-20240812.1738
+  to /tmp/helm-bm5Lx8Jm/helm-bm-20240812.1738
     helm-bm.el -> helm-bm.el
 Created helm-bm-20240812.1738.tar containing:
   helm-bm-20240812.1738/
   helm-bm-20240812.1738/helm-bm-pkg.el
   helm-bm-20240812.1738/helm-bm.el
  ✓ Success:
-  2024-10-12T23:36:34+0000  helm-bm-20240812.1738.entry
-  2024-10-12T23:36:34+0000  helm-bm-20240812.1738.tar
-Built helm-bm in 2.592s, finished at 2024-10-12T23:36:35+0000
+  2024-10-14T00:01:25+0000  helm-bm-20240812.1738.entry
+  2024-10-14T00:01:25+0000  helm-bm-20240812.1738.tar
+Built helm-bm in 2.651s, finished at 2024-10-14T00:01:26+0000

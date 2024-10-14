@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/rats/
 Checking out a6d55aebcc54f669c6c6ffedf84364c4097903cc
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/rats/
-  to /tmp/ratsPSLu92/rats-20170818.1013
+  to /tmp/ratsAGDz4c/rats-20170818.1013
     rats.el -> rats.el
 Created rats-20170818.1013.tar containing:
   rats-20170818.1013/
   rats-20170818.1013/rats-pkg.el
   rats-20170818.1013/rats.el
  ✓ Success:
-  2024-10-13T00:01:30+0000  rats-20170818.1013.entry
-  2024-10-13T00:01:29+0000  rats-20170818.1013.tar
-Built rats in 2.735s, finished at 2024-10-13T00:01:30+0000
+  2024-10-14T00:26:31+0000  rats-20170818.1013.entry
+  2024-10-14T00:26:30+0000  rats-20170818.1013.tar
+Built rats in 3.820s, finished at 2024-10-14T00:26:32+0000

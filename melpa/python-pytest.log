@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/python-pytest/
 Checking out 9390f9fc35f98884131e5b3ec572be04d5409b73
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/python-pytest/
-  to /tmp/python-pytest3ucFwc/python-pytest-20240826.948
+  to /tmp/python-pytest9ENWSH/python-pytest-20240826.948
     python-pytest.el -> python-pytest.el
 Created python-pytest-20240826.948.tar containing:
   python-pytest-20240826.948/
   python-pytest-20240826.948/python-pytest-pkg.el
   python-pytest-20240826.948/python-pytest.el
  ✓ Success:
-  2024-10-13T00:00:55+0000  python-pytest-20240826.948.entry
-  2024-10-13T00:00:55+0000  python-pytest-20240826.948.tar
-Built python-pytest in 2.939s, finished at 2024-10-13T00:00:56+0000
+  2024-10-14T00:25:56+0000  python-pytest-20240826.948.entry
+  2024-10-14T00:25:56+0000  python-pytest-20240826.948.tar
+Built python-pytest in 2.951s, finished at 2024-10-14T00:25:57+0000
