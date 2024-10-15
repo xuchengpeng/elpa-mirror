@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/jedi/
 Checking out 9d5f29116c4d42cae561a9d69e6fba2b61e2cf43
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/jedi/
-  to /tmp/jediRvTRP8/jedi-20191011.1750
+  to /tmp/jedij7adM6/jedi-20191011.1750
     jedi.el -> jedi.el
 Created jedi-20191011.1750.tar containing:
   jedi-20191011.1750/
   jedi-20191011.1750/jedi-pkg.el
   jedi-20191011.1750/jedi.el
  ✓ Success:
-  2024-10-14T00:07:10+0000  jedi-20191011.1750.entry
-  2024-10-14T00:07:10+0000  jedi-20191011.1750.tar
-Built jedi in 2.698s, finished at 2024-10-14T00:07:11+0000
+  2024-10-15T00:38:56+0000  jedi-20191011.1750.entry
+  2024-10-15T00:38:56+0000  jedi-20191011.1750.tar
+Built jedi in 2.701s, finished at 2024-10-15T00:38:57+0000

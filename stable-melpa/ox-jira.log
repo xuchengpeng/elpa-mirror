@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/stig/ox-jira.el
 
 Updating /mnt/store/melpa/working/ox-jira/
-Checking out 6edb4968284c45b50e42150af4afdf1225a273df
+Checking out 6c2013088f442530cbd895abcf4a290c06e2beb0
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ox-jira/
-  to /tmp/ox-jiradq6sbB/ox-jira-20241009.1040
+  to /tmp/ox-jirad9EaCF/ox-jira-20241014.953
     ox-jira.el -> ox-jira.el
-Created ox-jira-20241009.1040.tar containing:
-  ox-jira-20241009.1040/
-  ox-jira-20241009.1040/ox-jira-pkg.el
-  ox-jira-20241009.1040/ox-jira.el
+Created ox-jira-20241014.953.tar containing:
+  ox-jira-20241014.953/
+  ox-jira-20241014.953/ox-jira-pkg.el
+  ox-jira-20241014.953/ox-jira.el
  ✓ Success:
-  2024-10-14T00:21:30+0000  ox-jira-20241009.1040.entry
-  2024-10-14T00:21:30+0000  ox-jira-20241009.1040.tar
-Built ox-jira in 2.597s, finished at 2024-10-14T00:21:31+0000
+  2024-10-15T00:53:12+0000  ox-jira-20241014.953.entry
+  2024-10-15T00:53:12+0000  ox-jira-20241014.953.tar
+Built ox-jira in 2.568s, finished at 2024-10-15T00:53:13+0000

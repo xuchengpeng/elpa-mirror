@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/sisyphus/
 Checking out 9999af565f313507c8255c6c143963c9e8682c26
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/sisyphus/
-  to /tmp/sisyphusWDz3hT/sisyphus-20240831.2304
+  to /tmp/sisyphusiAADQc/sisyphus-20240831.2304
     sisyphus.el -> sisyphus.el
 Created sisyphus-20240831.2304.tar containing:
   sisyphus-20240831.2304/
   sisyphus-20240831.2304/sisyphus-pkg.el
   sisyphus-20240831.2304/sisyphus.el
  ✓ Success:
-  2024-10-14T00:30:32+0000  sisyphus-20240831.2304.entry
-  2024-10-14T00:30:32+0000  sisyphus-20240831.2304.tar
-Built sisyphus in 2.532s, finished at 2024-10-14T00:30:33+0000
+  2024-10-15T01:03:03+0000  sisyphus-20240831.2304.entry
+  2024-10-15T01:03:03+0000  sisyphus-20240831.2304.tar
+Built sisyphus in 2.493s, finished at 2024-10-15T01:03:04+0000
