@@ -3,10 +3,10 @@ Fetcher: github
 Source:  https://github.com/karthink/gptel
 
 Updating /mnt/store/melpa/working/gptel/
-Checking out 3d109bc4e466c1498d87e8f2ba72645f4cc4fedc
+Checking out 3452cc8a92f3dfc4b88cbb3556f164e1ccc09683
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/gptel/
-  to /tmp/gptelP0VFLR/gptel-20241014.1732
+  to /tmp/gptelmCmH0M/gptel-20241016.55
     gptel-anthropic.el -> gptel-anthropic.el
     gptel-context.el -> gptel-context.el
     gptel-curl.el -> gptel-curl.el
@@ -19,22 +19,24 @@ Copying files (->) and directories (=>)
     gptel-rewrite.el -> gptel-rewrite.el
     gptel-transient.el -> gptel-transient.el
     gptel.el -> gptel.el
-Created gptel-20241014.1732.tar containing:
-  gptel-20241014.1732/
-  gptel-20241014.1732/gptel-anthropic.el
-  gptel-20241014.1732/gptel-context.el
-  gptel-20241014.1732/gptel-curl.el
-  gptel-20241014.1732/gptel-gemini.el
-  gptel-20241014.1732/gptel-kagi.el
-  gptel-20241014.1732/gptel-ollama.el
-  gptel-20241014.1732/gptel-openai.el
-  gptel-20241014.1732/gptel-org.el
-  gptel-20241014.1732/gptel-pkg.el
-  gptel-20241014.1732/gptel-privategpt.el
-  gptel-20241014.1732/gptel-rewrite.el
-  gptel-20241014.1732/gptel-transient.el
-  gptel-20241014.1732/gptel.el
+Created gptel-20241016.55.tar containing:
+  gptel-20241016.55/
+  gptel-20241016.55/gptel-anthropic.el
+  gptel-20241016.55/gptel-context.el
+  gptel-20241016.55/gptel-curl.el
+  gptel-20241016.55/gptel-gemini.el
+  gptel-20241016.55/gptel-kagi.el
+  gptel-20241016.55/gptel-ollama.el
+  gptel-20241016.55/gptel-openai.el
+  gptel-20241016.55/gptel-org.el
+  gptel-20241016.55/gptel-pkg.el
+  gptel-20241016.55/gptel-privategpt.el
+  gptel-20241016.55/gptel-rewrite.el
+  gptel-20241016.55/gptel-transient.el
+  gptel-20241016.55/gptel.el
  ✓ Success:
-  2024-10-15T00:32:13+0000  gptel-20241014.1732.entry
-  2024-10-15T00:32:13+0000  gptel-20241014.1732.tar
-Built gptel in 3.585s, finished at 2024-10-15T00:32:14+0000
+  2024-10-15T22:49:49+0000  gptel-20241015.1951.entry
+  2024-10-15T22:49:49+0000  gptel-20241015.1951.tar
+  2024-10-16T01:03:24+0000  gptel-20241016.55.entry
+  2024-10-16T01:03:24+0000  gptel-20241016.55.tar
+Built gptel in 3.585s, finished at 2024-10-16T01:03:25+0000
