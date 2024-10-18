@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/ecb/
 Checking out 1330a44cf3c171781083b0b926ab7622f64e6e81
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ecb/
-  to /tmp/ecbtbjeEd/ecb-20170728.1921
+  to /tmp/ecb9kLawx/ecb-20170728.1921
     ecb-advice-test.el -> ecb-advice-test.el
     ecb-analyse.el -> ecb-analyse.el
     ecb-autogen.el -> ecb-autogen.el
@@ -300,6 +300,6 @@ Created ecb-20170728.1921.tar containing:
   ecb-20170728.1921/silentcomp.el
   ecb-20170728.1921/tree-buffer.el
  ✓ Success:
-  2024-10-16T00:50:16+0000  ecb-20170728.1921.entry
-  2024-10-16T00:50:16+0000  ecb-20170728.1921.tar
-Built ecb in 11.653s, finished at 2024-10-16T00:50:17+0000
+  2024-10-17T23:38:18+0000  ecb-20170728.1921.entry
+  2024-10-17T23:38:17+0000  ecb-20170728.1921.tar
+Built ecb in 11.484s, finished at 2024-10-17T23:38:18+0000
