@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/hover/
 Checking out 2b826735bb8d3bcfced489a1e0fa21b10fbc967e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/hover/
-  to /tmp/hover5TE7JI/hover-20220129.1935
+  to /tmp/hoverizxQjm/hover-20220129.1935
     hover.el -> hover.el
 Created hover-20220129.1935.tar containing:
   hover-20220129.1935/
   hover-20220129.1935/hover-pkg.el
   hover-20220129.1935/hover.el
  ✓ Success:
-  2024-10-17T23:54:41+0000  hover-20220129.1935.entry
-  2024-10-17T23:54:41+0000  hover-20220129.1935.tar
-Built hover in 2.649s, finished at 2024-10-17T23:54:42+0000
+  2024-10-19T00:54:44+0000  hover-20220129.1935.entry
+  2024-10-19T00:54:44+0000  hover-20220129.1935.tar
+Built hover in 2.706s, finished at 2024-10-19T00:54:45+0000
