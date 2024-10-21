@@ -3,22 +3,22 @@ Fetcher: codeberg
 Source:  https://codeberg.org/martianh/fedi.el
 
 Updating /mnt/store/melpa/working/fedi/
-Checking out 9d4f0d501e4b65210e233554ff90941adff2ebac
+Checking out 0b59528b738229421faf4c0b32033150902e5af4
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/fedi/
-  to /tmp/fedi4JMzjq/fedi-20241010.725
+  to /tmp/fediGfqv7P/fedi-20241020.1139
     fedi-http.el -> fedi-http.el
     fedi-iso.el -> fedi-iso.el
     fedi-post.el -> fedi-post.el
     fedi.el -> fedi.el
-Created fedi-20241010.725.tar containing:
-  fedi-20241010.725/
-  fedi-20241010.725/fedi-http.el
-  fedi-20241010.725/fedi-iso.el
-  fedi-20241010.725/fedi-pkg.el
-  fedi-20241010.725/fedi-post.el
-  fedi-20241010.725/fedi.el
+Created fedi-20241020.1139.tar containing:
+  fedi-20241020.1139/
+  fedi-20241020.1139/fedi-http.el
+  fedi-20241020.1139/fedi-iso.el
+  fedi-20241020.1139/fedi-pkg.el
+  fedi-20241020.1139/fedi-post.el
+  fedi-20241020.1139/fedi.el
  ✓ Success:
-  2024-10-19T23:12:47+0000  fedi-20241010.725.entry
-  2024-10-19T23:12:47+0000  fedi-20241010.725.tar
-Built fedi in 3.746s, finished at 2024-10-19T23:12:48+0000
+  2024-10-21T00:43:35+0000  fedi-20241020.1139.entry
+  2024-10-21T00:43:35+0000  fedi-20241020.1139.tar
+Built fedi in 4.347s, finished at 2024-10-21T00:43:36+0000
