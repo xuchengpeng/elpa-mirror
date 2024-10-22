@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/ekg/
 Checking out 839c6ce9a40bd7b7a12b791dc74f172ac1f378e6
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ekg/
-  to /tmp/ekg80GT4J/ekg-20240928.1903
+  to /tmp/ekgWT8b9w/ekg-20240928.1903
     ekg-auto-save.el -> ekg-auto-save.el
     ekg-denote.el -> ekg-denote.el
     ekg-embedding.el -> ekg-embedding.el
@@ -18,22 +18,3 @@ Copying files (->) and directories (=>)
   ! doc/doclicense.texi -> doclicense.texi
   ! doc/ekg.texi -> ekg.texi
 Generating doclicense.info
-Generating ekg.info
-Created ekg-20240928.1903.tar containing:
-  ekg-20240928.1903/
-  ekg-20240928.1903/dir
-  ekg-20240928.1903/doclicense.info
-  ekg-20240928.1903/ekg-auto-save.el
-  ekg-20240928.1903/ekg-denote.el
-  ekg-20240928.1903/ekg-embedding.el
-  ekg-20240928.1903/ekg-llm.el
-  ekg-20240928.1903/ekg-logseq.el
-  ekg-20240928.1903/ekg-org-roam.el
-  ekg-20240928.1903/ekg-pkg.el
-  ekg-20240928.1903/ekg-test-utils.el
-  ekg-20240928.1903/ekg.el
-  ekg-20240928.1903/ekg.info
- ✓ Success:
-  2024-10-21T00:38:11+0000  ekg-20240928.1903.entry
-  2024-10-21T00:38:11+0000  ekg-20240928.1903.tar
-Built ekg in 6.136s, finished at 2024-10-21T00:38:12+0000

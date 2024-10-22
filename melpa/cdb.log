@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/cdb/
 Checking out 3820fa6bb0d53132aafb611a643c1e41e444052b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/cdb/
-  to /tmp/cdbIq4s7R/cdb-20230318.2152
+  to /tmp/cdb2j8EzJ/cdb-20230318.2152
     cdb.el -> cdb.el
 Created cdb-20230318.2152.tar containing:
   cdb-20230318.2152/
   cdb-20230318.2152/cdb-pkg.el
   cdb-20230318.2152/cdb.el
  ✓ Success:
-  2024-10-21T00:28:56+0000  cdb-20230318.2152.entry
-  2024-10-21T00:28:56+0000  cdb-20230318.2152.tar
-Built cdb in 3.197s, finished at 2024-10-21T00:28:58+0000
+  2024-10-22T00:56:11+0000  cdb-20230318.2152.entry
+  2024-10-22T00:56:11+0000  cdb-20230318.2152.tar
+Built cdb in 2.665s, finished at 2024-10-22T00:56:12+0000

@@ -3,18 +3,16 @@ Fetcher: github
 Source:  https://github.com/jdtsmith/mlscroll
 
 Updating /mnt/store/melpa/working/mlscroll/
-Checking out a6bfd9271115d5bffe784023d499d31abdd55f51
+Checking out c1bc37709c27d005190d7fcd6a17376b9413381f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mlscroll/
-  to /tmp/mlscrollYMisOd/mlscroll-20241020.2304
+  to /tmp/mlscrollbHzOAP/mlscroll-20241021.255
     mlscroll.el -> mlscroll.el
-Created mlscroll-20241020.2304.tar containing:
-  mlscroll-20241020.2304/
-  mlscroll-20241020.2304/mlscroll-pkg.el
-  mlscroll-20241020.2304/mlscroll.el
+Created mlscroll-20241021.255.tar containing:
+  mlscroll-20241021.255/
+  mlscroll-20241021.255/mlscroll-pkg.el
+  mlscroll-20241021.255/mlscroll.el
  ✓ Success:
-  2024-10-20T22:48:26+0000  mlscroll-20240606.1855.entry
-  2024-10-20T22:48:26+0000  mlscroll-20240606.1855.tar
-  2024-10-21T01:03:37+0000  mlscroll-20241020.2304.entry
-  2024-10-21T01:03:37+0000  mlscroll-20241020.2304.tar
-Built mlscroll in 7.211s, finished at 2024-10-21T01:03:38+0000
+  2024-10-21T23:16:25+0000  mlscroll-20241021.255.entry
+  2024-10-21T23:16:25+0000  mlscroll-20241021.255.tar
+Built mlscroll in 2.994s, finished at 2024-10-21T23:16:26+0000
