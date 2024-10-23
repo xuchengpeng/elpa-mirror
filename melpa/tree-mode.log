@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/tree-mode/
 Checking out b06078826d5875d74b0e7b7ac47b0d0917610534
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/tree-mode/
-  to /tmp/tree-mode5td2Jb/tree-mode-20151104.1331
+  to /tmp/tree-modelmaRsv/tree-mode-20151104.1331
     tree-mode.el -> tree-mode.el
 Created tree-mode-20151104.1331.tar containing:
   tree-mode-20151104.1331/
   tree-mode-20151104.1331/tree-mode-pkg.el
   tree-mode-20151104.1331/tree-mode.el
  ✓ Success:
-  2024-10-21T23:38:54+0000  tree-mode-20151104.1331.entry
-  2024-10-21T23:38:54+0000  tree-mode-20151104.1331.tar
-Built tree-mode in 2.579s, finished at 2024-10-21T23:38:55+0000
+  2024-10-23T00:10:22+0000  tree-mode-20151104.1331.entry
+  2024-10-23T00:10:22+0000  tree-mode-20151104.1331.tar
+Built tree-mode in 2.502s, finished at 2024-10-23T00:10:23+0000

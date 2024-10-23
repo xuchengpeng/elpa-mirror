@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/casual-editkit/
 Checking out 94e6189ef24f70823e32f8d77096054f2cb9f832
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/casual-editkit/
-  to /tmp/casual-editkitrupVVX/casual-editkit-20241021.2326
+  to /tmp/casual-editkitJ4yIJN/casual-editkit-20241021.2326
   ! lisp/casual-editkit-constants.el -> casual-editkit-constants.el
   ! lisp/casual-editkit-settings.el -> casual-editkit-settings.el
   ! lisp/casual-editkit-utils.el -> casual-editkit-utils.el
@@ -21,8 +21,6 @@ Created casual-editkit-20241021.2326.tar containing:
   casual-editkit-20241021.2326/casual-editkit-version.el
   casual-editkit-20241021.2326/casual-editkit.el
  ✓ Success:
-  2024-10-21T22:42:01+0000  casual-editkit-20241009.2252.entry
-  2024-10-21T22:42:01+0000  casual-editkit-20241009.2252.tar
-  2024-10-22T00:55:59+0000  casual-editkit-20241021.2326.entry
-  2024-10-22T00:55:59+0000  casual-editkit-20241021.2326.tar
-Built casual-editkit in 3.109s, finished at 2024-10-22T00:56:00+0000
+  2024-10-22T23:13:14+0000  casual-editkit-20241021.2326.entry
+  2024-10-22T23:13:14+0000  casual-editkit-20241021.2326.tar
+Built casual-editkit in 3.188s, finished at 2024-10-22T23:13:15+0000

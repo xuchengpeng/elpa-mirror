@@ -3,16 +3,18 @@ Fetcher: github
 Source:  https://github.com/plandes/mark-thing-at
 
 Updating /mnt/store/melpa/working/mark-thing-at/
-Checking out 06cc38fb92c0c1badb06f6744f0110742ffdfe6c
+Checking out d9499bc82e214e35eac074303a64c023fb10ea5c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mark-thing-at/
-  to /tmp/mark-thing-atj6QwFJ/mark-thing-at-20231019.1111
+  to /tmp/mark-thing-at4JilMs/mark-thing-at-20241022.2232
     mark-thing-at.el -> mark-thing-at.el
-Created mark-thing-at-20231019.1111.tar containing:
-  mark-thing-at-20231019.1111/
-  mark-thing-at-20231019.1111/mark-thing-at-pkg.el
-  mark-thing-at-20231019.1111/mark-thing-at.el
+Created mark-thing-at-20241022.2232.tar containing:
+  mark-thing-at-20241022.2232/
+  mark-thing-at-20241022.2232/mark-thing-at-pkg.el
+  mark-thing-at-20241022.2232/mark-thing-at.el
  ✓ Success:
-  2024-10-21T23:15:07+0000  mark-thing-at-20231019.1111.entry
-  2024-10-21T23:15:07+0000  mark-thing-at-20231019.1111.tar
-Built mark-thing-at in 2.612s, finished at 2024-10-21T23:15:08+0000
+  2024-10-22T21:33:02+0000  mark-thing-at-20231019.1111.entry
+  2024-10-22T21:33:02+0000  mark-thing-at-20231019.1111.tar
+  2024-10-22T23:46:25+0000  mark-thing-at-20241022.2232.entry
+  2024-10-22T23:46:25+0000  mark-thing-at-20241022.2232.tar
+Built mark-thing-at in 2.501s, finished at 2024-10-22T23:46:26+0000

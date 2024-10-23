@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/julia-vterm/
 Checking out 2298cd42d354f069adbb7bb06b3b15222e5f54a2
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/julia-vterm/
-  to /tmp/julia-vtermRVAnwR/julia-vterm-20240514.724
+  to /tmp/julia-vtermosR1tm/julia-vterm-20240514.724
     julia-vterm.el -> julia-vterm.el
 Created julia-vterm-20240514.724.tar containing:
   julia-vterm-20240514.724/
   julia-vterm-20240514.724/julia-vterm-pkg.el
   julia-vterm-20240514.724/julia-vterm.el
  ✓ Success:
-  2024-10-21T23:10:43+0000  julia-vterm-20240514.724.entry
-  2024-10-21T23:10:43+0000  julia-vterm-20240514.724.tar
-Built julia-vterm in 3.221s, finished at 2024-10-21T23:10:44+0000
+  2024-10-22T23:42:17+0000  julia-vterm-20240514.724.entry
+  2024-10-22T23:42:17+0000  julia-vterm-20240514.724.tar
+Built julia-vterm in 2.992s, finished at 2024-10-22T23:42:18+0000

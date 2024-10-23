@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/mindstream/
 Checking out 7012cd6865ff772fb3dddc5d509fd20de8af3589
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mindstream/
-  to /tmp/mindstreamdkQSJq/mindstream-20241021.2131
+  to /tmp/mindstreamS5pbJu/mindstream-20241021.2131
     mindstream-backend.el -> mindstream-backend.el
     mindstream-custom.el -> mindstream-custom.el
     mindstream-session.el -> mindstream-session.el
@@ -21,8 +21,6 @@ Created mindstream-20241021.2131.tar containing:
   mindstream-20241021.2131/mindstream-util.el
   mindstream-20241021.2131/mindstream.el
  ✓ Success:
-  2024-10-21T21:02:40+0000  mindstream-20240908.2036.entry
-  2024-10-21T21:02:40+0000  mindstream-20240908.2036.tar
-  2024-10-21T23:16:06+0000  mindstream-20241021.2131.entry
-  2024-10-21T23:16:06+0000  mindstream-20241021.2131.tar
-Built mindstream in 2.780s, finished at 2024-10-21T23:16:07+0000
+  2024-10-22T23:47:31+0000  mindstream-20241021.2131.entry
+  2024-10-22T23:47:31+0000  mindstream-20241021.2131.tar
+Built mindstream in 4.433s, finished at 2024-10-22T23:47:32+0000

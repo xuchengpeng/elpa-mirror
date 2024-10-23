@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/bind-key/
 Checking out 77945e002f11440eae72d8730d3de218163d551e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/bind-key/
-  to /tmp/bind-keypJQCHO/bind-key-20230203.2004
+  to /tmp/bind-keyldXDCB/bind-key-20230203.2004
     bind-key.el -> bind-key.el
 Created bind-key-20230203.2004.tar containing:
   bind-key-20230203.2004/
   bind-key-20230203.2004/bind-key-pkg.el
   bind-key-20230203.2004/bind-key.el
  ✓ Success:
-  2024-10-22T00:54:12+0000  bind-key-20230203.2004.entry
-  2024-10-22T00:54:12+0000  bind-key-20230203.2004.tar
-Built bind-key in 6.096s, finished at 2024-10-22T00:54:14+0000
+  2024-10-22T23:11:34+0000  bind-key-20230203.2004.entry
+  2024-10-22T23:11:34+0000  bind-key-20230203.2004.tar
+Built bind-key in 2.638s, finished at 2024-10-22T23:11:35+0000
