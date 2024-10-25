@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/org-caldav/
 Checking out 6a2683211baa4b4efed0ca210275bf68dbbcfc4f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/org-caldav/
-  to /tmp/org-caldavTTcZxg/org-caldav-20240908.2256
+  to /tmp/org-caldavGNiOp9/org-caldav-20240908.2256
     org-caldav.el -> org-caldav.el
   ! doc/org-caldav.texi -> org-caldav.texi
 Generating org-caldav.info
@@ -17,6 +17,6 @@ Created org-caldav-20240908.2256.tar containing:
   org-caldav-20240908.2256/org-caldav.el
   org-caldav-20240908.2256/org-caldav.info
  ✓ Success:
-  2024-10-24T00:24:46+0000  org-caldav-20240908.2256.entry
-  2024-10-24T00:24:46+0000  org-caldav-20240908.2256.tar
-Built org-caldav in 4.544s, finished at 2024-10-24T00:24:47+0000
+  2024-10-25T00:56:09+0000  org-caldav-20240908.2256.entry
+  2024-10-25T00:56:09+0000  org-caldav-20240908.2256.tar
+Built org-caldav in 4.570s, finished at 2024-10-25T00:56:09+0000

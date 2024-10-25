@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/osx-pseudo-daemon/
 Checking out c2326fe5baf53790d51386a75f09a114e0678c5e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/osx-pseudo-daemon/
-  to /tmp/osx-pseudo-daemonvrAsmf/osx-pseudo-daemon-20240922.2024
+  to /tmp/osx-pseudo-daemondcFZvM/osx-pseudo-daemon-20240922.2024
     osx-pseudo-daemon.el -> osx-pseudo-daemon.el
 Created osx-pseudo-daemon-20240922.2024.tar containing:
   osx-pseudo-daemon-20240922.2024/
   osx-pseudo-daemon-20240922.2024/osx-pseudo-daemon-pkg.el
   osx-pseudo-daemon-20240922.2024/osx-pseudo-daemon.el
  ✓ Success:
-  2024-10-24T00:27:19+0000  osx-pseudo-daemon-20240922.2024.entry
-  2024-10-24T00:27:19+0000  osx-pseudo-daemon-20240922.2024.tar
-Built osx-pseudo-daemon in 4.469s, finished at 2024-10-24T00:27:20+0000
+  2024-10-25T00:58:49+0000  osx-pseudo-daemon-20240922.2024.entry
+  2024-10-25T00:58:49+0000  osx-pseudo-daemon-20240922.2024.tar
+Built osx-pseudo-daemon in 2.681s, finished at 2024-10-25T00:58:50+0000

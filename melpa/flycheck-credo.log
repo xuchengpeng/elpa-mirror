@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/flycheck-credo/
 Checking out e285bd042a535d0f13e0b4c5226df404cdda4033
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/flycheck-credo/
-  to /tmp/flycheck-credoaMBq7d/flycheck-credo-20240105.1655
+  to /tmp/flycheck-credo0q8LHa/flycheck-credo-20240105.1655
     flycheck-credo.el -> flycheck-credo.el
 Created flycheck-credo-20240105.1655.tar containing:
   flycheck-credo-20240105.1655/
   flycheck-credo-20240105.1655/flycheck-credo-pkg.el
   flycheck-credo-20240105.1655/flycheck-credo.el
  ✓ Success:
-  2024-10-24T00:01:21+0000  flycheck-credo-20240105.1655.entry
-  2024-10-24T00:01:21+0000  flycheck-credo-20240105.1655.tar
-Built flycheck-credo in 2.673s, finished at 2024-10-24T00:01:22+0000
+  2024-10-25T00:32:50+0000  flycheck-credo-20240105.1655.entry
+  2024-10-25T00:32:50+0000  flycheck-credo-20240105.1655.tar
+Built flycheck-credo in 2.570s, finished at 2024-10-25T00:32:51+0000
