@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/liuyinz/mise.el
 
 Updating /mnt/store/melpa/working/mise/
-Checking out 4394ae324bcc6e39b8497eefeb461b74f542ca08
+Checking out a7095ed9c6dc25bf52c8387952857179a51b0960
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mise/
-  to /tmp/misePoxDUC/mise-20241017.1826
+  to /tmp/misehWJLgT/mise-20241025.107
     mise.el -> mise.el
-Created mise-20241017.1826.tar containing:
-  mise-20241017.1826/
-  mise-20241017.1826/mise-pkg.el
-  mise-20241017.1826/mise.el
+Created mise-20241025.107.tar containing:
+  mise-20241025.107/
+  mise-20241025.107/mise-pkg.el
+  mise-20241025.107/mise.el
  ✓ Success:
-  2024-10-25T00:51:30+0000  mise-20241017.1826.entry
-  2024-10-25T00:51:30+0000  mise-20241017.1826.tar
-Built mise in 4.154s, finished at 2024-10-25T00:51:32+0000
+  2024-10-25T23:05:54+0000  mise-20241025.107.entry
+  2024-10-25T23:05:54+0000  mise-20241025.107.tar
+Built mise in 2.557s, finished at 2024-10-25T23:05:55+0000

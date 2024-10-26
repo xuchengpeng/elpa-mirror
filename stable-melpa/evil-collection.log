@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/evil-collection/
 Checking out 01d791dd63c723c82d5d076570c015e77d3b5680
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/evil-collection/
-  to /tmp/evil-collectionjx9Kgm/evil-collection-20241022.58
+  to /tmp/evil-collectionOyPccw/evil-collection-20241022.58
     evil-collection.el -> evil-collection.el
     modes => modes
 Created evil-collection-20241022.58.tar containing:
@@ -430,6 +430,6 @@ Created evil-collection-20241022.58.tar containing:
   evil-collection-20241022.58/modes/ztree/
   evil-collection-20241022.58/modes/ztree/evil-collection-ztree.el
  ✓ Success:
-  2024-10-25T00:29:57+0000  evil-collection-20241022.58.entry
-  2024-10-25T00:29:56+0000  evil-collection-20241022.58.tar
-Built evil-collection in 5.082s, finished at 2024-10-25T00:29:58+0000
+  2024-10-26T00:57:31+0000  evil-collection-20241022.58.entry
+  2024-10-26T00:57:31+0000  evil-collection-20241022.58.tar
+Built evil-collection in 5.067s, finished at 2024-10-26T00:57:32+0000
