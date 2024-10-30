@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/framesize/
 Checking out f2dbf5d2513b2bc45f2085370a55c1754b6025da
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/framesize/
-  to /tmp/framesizePNhhoJ/framesize-20131017.2132
+  to /tmp/framesizeJcbAv8/framesize-20131017.2132
     framesize.el -> framesize.el
 Created framesize-20131017.2132.tar containing:
   framesize-20131017.2132/
   framesize-20131017.2132/framesize-pkg.el
   framesize-20131017.2132/framesize.el
  ✓ Success:
-  2024-10-27T23:33:26+0000  framesize-20131017.2132.entry
-  2024-10-27T23:33:26+0000  framesize-20131017.2132.tar
-Built framesize in 2.368s, finished at 2024-10-27T23:33:27+0000
+  2024-10-30T00:29:08+0000  framesize-20131017.2132.entry
+  2024-10-30T00:29:08+0000  framesize-20131017.2132.tar
+Built framesize in 4.000s, finished at 2024-10-30T00:29:09+0000

@@ -3,18 +3,18 @@ Fetcher: github
 Source:  https://github.com/liuyinz/binky.el
 
 Updating /mnt/store/melpa/working/binky/
-Checking out 604cbee86e829f9db47887e092b0835a6dbf47dd
+Checking out 8841382a2b0925aca6644a2a0f1b87244b3e63c1
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/binky/
-  to /tmp/binky4tr0gK/binky-20241011.1931
+  to /tmp/binkyUONKpR/binky-20241029.355
     binky-margin.el -> binky-margin.el
     binky.el -> binky.el
-Created binky-20241011.1931.tar containing:
-  binky-20241011.1931/
-  binky-20241011.1931/binky-margin.el
-  binky-20241011.1931/binky-pkg.el
-  binky-20241011.1931/binky.el
+Created binky-20241029.355.tar containing:
+  binky-20241029.355/
+  binky-20241029.355/binky-margin.el
+  binky-20241029.355/binky-pkg.el
+  binky-20241029.355/binky.el
  ✓ Success:
-  2024-10-27T23:13:12+0000  binky-20241011.1931.entry
-  2024-10-27T23:13:12+0000  binky-20241011.1931.tar
-Built binky in 2.973s, finished at 2024-10-27T23:13:13+0000
+  2024-10-30T00:08:44+0000  binky-20241029.355.entry
+  2024-10-30T00:08:44+0000  binky-20241029.355.tar
+Built binky in 3.078s, finished at 2024-10-30T00:08:45+0000
