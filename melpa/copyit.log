@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/zonuexe/emacs-copyit
 
 Updating /mnt/store/melpa/working/copyit/
-Checking out c4f2c28e5b6270e8e3364341619f1154bb4e682e
+Checking out 09556ba8407dc2b132b7f76cd1b458c0773a1fe8
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/copyit/
-  to /tmp/copyitVO8qH0/copyit-20190919.1258
+  to /tmp/copyit8JZNN7/copyit-20241030.543
     copyit.el -> copyit.el
-Created copyit-20190919.1258.tar containing:
-  copyit-20190919.1258/
-  copyit-20190919.1258/copyit-pkg.el
-  copyit-20190919.1258/copyit.el
+Created copyit-20241030.543.tar containing:
+  copyit-20241030.543/
+  copyit-20241030.543/copyit-pkg.el
+  copyit-20241030.543/copyit.el
  ✓ Success:
-  2024-10-30T00:14:12+0000  copyit-20190919.1258.entry
-  2024-10-30T00:14:12+0000  copyit-20190919.1258.tar
-Built copyit in 4.831s, finished at 2024-10-30T00:14:14+0000
+  2024-10-31T00:38:33+0000  copyit-20241030.543.entry
+  2024-10-31T00:38:33+0000  copyit-20241030.543.tar
+Built copyit in 2.896s, finished at 2024-10-31T00:38:34+0000

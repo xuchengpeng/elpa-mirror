@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/hgignore-mode/
 Checking out c65810347f39904b985187c5e2aaf27b184f3cae
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/hgignore-mode/
-  to /tmp/hgignore-modeITi3Z6/hgignore-mode-20220804.1326
+  to /tmp/hgignore-modeoscAZA/hgignore-mode-20220804.1326
     hgignore-mode.el -> hgignore-mode.el
 Created hgignore-mode-20220804.1326.tar containing:
   hgignore-mode-20220804.1326/
   hgignore-mode-20220804.1326/hgignore-mode-pkg.el
   hgignore-mode-20220804.1326/hgignore-mode.el
  ✓ Success:
-  2024-10-30T00:35:00+0000  hgignore-mode-20220804.1326.entry
-  2024-10-30T00:35:00+0000  hgignore-mode-20220804.1326.tar
-Built hgignore-mode in 2.525s, finished at 2024-10-30T00:35:01+0000
+  2024-10-31T00:59:15+0000  hgignore-mode-20220804.1326.entry
+  2024-10-31T00:59:15+0000  hgignore-mode-20220804.1326.tar
+Built hgignore-mode in 2.481s, finished at 2024-10-31T00:59:16+0000
