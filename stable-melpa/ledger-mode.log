@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/ledger-mode/
 Checking out 9be25db0566d495299eaa8595eb4b6dd6b7a1080
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ledger-mode/
-  to /tmp/ledger-mode5DdFqm/ledger-mode-20241007.1655
+  to /tmp/ledger-modeAt4I0h/ledger-mode-20241007.1655
     ledger-check.el -> ledger-check.el
     ledger-commodities.el -> ledger-commodities.el
     ledger-complete.el -> ledger-complete.el
@@ -31,3 +31,34 @@ Copying files (->) and directories (=>)
     ledger-xact.el -> ledger-xact.el
   ! doc/ledger-mode.texi -> ledger-mode.texi
 Generating ledger-mode.info
+Created ledger-mode-20241007.1655.tar containing:
+  ledger-mode-20241007.1655/
+  ledger-mode-20241007.1655/dir
+  ledger-mode-20241007.1655/ledger-check.el
+  ledger-mode-20241007.1655/ledger-commodities.el
+  ledger-mode-20241007.1655/ledger-complete.el
+  ledger-mode-20241007.1655/ledger-context.el
+  ledger-mode-20241007.1655/ledger-exec.el
+  ledger-mode-20241007.1655/ledger-flymake.el
+  ledger-mode-20241007.1655/ledger-fontify.el
+  ledger-mode-20241007.1655/ledger-fonts.el
+  ledger-mode-20241007.1655/ledger-init.el
+  ledger-mode-20241007.1655/ledger-mode-pkg.el
+  ledger-mode-20241007.1655/ledger-mode.el
+  ledger-mode-20241007.1655/ledger-mode.info
+  ledger-mode-20241007.1655/ledger-navigate.el
+  ledger-mode-20241007.1655/ledger-occur.el
+  ledger-mode-20241007.1655/ledger-post.el
+  ledger-mode-20241007.1655/ledger-reconcile.el
+  ledger-mode-20241007.1655/ledger-regex.el
+  ledger-mode-20241007.1655/ledger-report.el
+  ledger-mode-20241007.1655/ledger-schedule.el
+  ledger-mode-20241007.1655/ledger-sort.el
+  ledger-mode-20241007.1655/ledger-state.el
+  ledger-mode-20241007.1655/ledger-test.el
+  ledger-mode-20241007.1655/ledger-texi.el
+  ledger-mode-20241007.1655/ledger-xact.el
+ ✓ Success:
+  2024-10-31T23:13:39+0000  ledger-mode-20241007.1655.entry
+  2024-10-31T23:13:39+0000  ledger-mode-20241007.1655.tar
+Built ledger-mode in 4.937s, finished at 2024-10-31T23:13:40+0000

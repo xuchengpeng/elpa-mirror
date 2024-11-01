@@ -3,3 +3,26 @@ Fetcher: codeberg
 Source:  https://codeberg.org/martianh/lem.el
 
 Updating /mnt/store/melpa/working/lem/
+Checking out 78f004f43eb3196b1e15fbf0c7c23ac7b3b5aad5
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/lem/
+  to /tmp/lemVPf3kX/lem-20241020.1147
+  ! lisp/lem-api.el -> lem-api.el
+  ! lisp/lem-post.el -> lem-post.el
+  ! lisp/lem-request.el -> lem-request.el
+  ! lisp/lem-search.el -> lem-search.el
+  ! lisp/lem-ui.el -> lem-ui.el
+  ! lisp/lem.el -> lem.el
+Created lem-20241020.1147.tar containing:
+  lem-20241020.1147/
+  lem-20241020.1147/lem-api.el
+  lem-20241020.1147/lem-pkg.el
+  lem-20241020.1147/lem-post.el
+  lem-20241020.1147/lem-request.el
+  lem-20241020.1147/lem-search.el
+  lem-20241020.1147/lem-ui.el
+  lem-20241020.1147/lem.el
+ ✓ Success:
+  2024-10-31T23:13:40+0000  lem-20241020.1147.entry
+  2024-10-31T23:13:40+0000  lem-20241020.1147.tar
+Built lem in 3.971s, finished at 2024-10-31T23:13:41+0000
