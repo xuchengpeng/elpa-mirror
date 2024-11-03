@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/inherit-local/
 Checking out b1f4ff9c41f9d64e4adaf5adcc280b82f084cdc7
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/inherit-local/
-  to /tmp/inherit-localyu0D4B/inherit-local-20170409.1649
+  to /tmp/inherit-localF9l6UR/inherit-local-20170409.1649
     inherit-local.el -> inherit-local.el
 Created inherit-local-20170409.1649.tar containing:
   inherit-local-20170409.1649/
   inherit-local-20170409.1649/inherit-local-pkg.el
   inherit-local-20170409.1649/inherit-local.el
  ✓ Success:
-  2024-11-01T23:50:52+0000  inherit-local-20170409.1649.entry
-  2024-11-01T23:50:52+0000  inherit-local-20170409.1649.tar
-Built inherit-local in 2.386s, finished at 2024-11-01T23:50:53+0000
+  2024-11-03T00:52:37+0000  inherit-local-20170409.1649.entry
+  2024-11-03T00:52:37+0000  inherit-local-20170409.1649.tar
+Built inherit-local in 2.506s, finished at 2024-11-03T00:52:38+0000

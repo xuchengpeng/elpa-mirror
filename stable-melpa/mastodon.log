@@ -3,10 +3,10 @@ Fetcher: codeberg
 Source:  https://codeberg.org/martianh/mastodon.el
 
 Updating /mnt/store/melpa/working/mastodon/
-Checking out c241b0ba9d809157aa4bca659a6a2cc04f362932
+Checking out 31557be472a94b48163a5651640d3e807a6cbdf2
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mastodon/
-  to /tmp/mastodonU8l8Rf/mastodon-20241031.743
+  to /tmp/mastodonUU3DdV/mastodon-20241102.1634
   ! lisp/mastodon-async.el -> mastodon-async.el
   ! lisp/mastodon-auth.el -> mastodon-auth.el
   ! lisp/mastodon-client.el -> mastodon-client.el
@@ -28,29 +28,29 @@ Copying files (->) and directories (=>)
     mastodon.info -> mastodon.info
     mastodon.texi -> mastodon.texi
 Generating mastodon.info
-Created mastodon-20241031.743.tar containing:
-  mastodon-20241031.743/
-  mastodon-20241031.743/dir
-  mastodon-20241031.743/mastodon-async.el
-  mastodon-20241031.743/mastodon-auth.el
-  mastodon-20241031.743/mastodon-client.el
-  mastodon-20241031.743/mastodon-discover.el
-  mastodon-20241031.743/mastodon-http.el
-  mastodon-20241031.743/mastodon-inspect.el
-  mastodon-20241031.743/mastodon-iso.el
-  mastodon-20241031.743/mastodon-media.el
-  mastodon-20241031.743/mastodon-notifications.el
-  mastodon-20241031.743/mastodon-pkg.el
-  mastodon-20241031.743/mastodon-profile.el
-  mastodon-20241031.743/mastodon-search.el
-  mastodon-20241031.743/mastodon-tl.el
-  mastodon-20241031.743/mastodon-toot.el
-  mastodon-20241031.743/mastodon-transient.el
-  mastodon-20241031.743/mastodon-views.el
-  mastodon-20241031.743/mastodon-widget.el
-  mastodon-20241031.743/mastodon.el
-  mastodon-20241031.743/mastodon.info
+Created mastodon-20241102.1634.tar containing:
+  mastodon-20241102.1634/
+  mastodon-20241102.1634/dir
+  mastodon-20241102.1634/mastodon-async.el
+  mastodon-20241102.1634/mastodon-auth.el
+  mastodon-20241102.1634/mastodon-client.el
+  mastodon-20241102.1634/mastodon-discover.el
+  mastodon-20241102.1634/mastodon-http.el
+  mastodon-20241102.1634/mastodon-inspect.el
+  mastodon-20241102.1634/mastodon-iso.el
+  mastodon-20241102.1634/mastodon-media.el
+  mastodon-20241102.1634/mastodon-notifications.el
+  mastodon-20241102.1634/mastodon-pkg.el
+  mastodon-20241102.1634/mastodon-profile.el
+  mastodon-20241102.1634/mastodon-search.el
+  mastodon-20241102.1634/mastodon-tl.el
+  mastodon-20241102.1634/mastodon-toot.el
+  mastodon-20241102.1634/mastodon-transient.el
+  mastodon-20241102.1634/mastodon-views.el
+  mastodon-20241102.1634/mastodon-widget.el
+  mastodon-20241102.1634/mastodon.el
+  mastodon-20241102.1634/mastodon.info
  ✓ Success:
-  2024-11-01T23:57:32+0000  mastodon-20241031.743.entry
-  2024-11-01T23:57:32+0000  mastodon-20241031.743.tar
-Built mastodon in 6.127s, finished at 2024-11-01T23:57:33+0000
+  2024-11-03T00:59:28+0000  mastodon-20241102.1634.entry
+  2024-11-03T00:59:28+0000  mastodon-20241102.1634.tar
+Built mastodon in 6.087s, finished at 2024-11-03T00:59:29+0000
