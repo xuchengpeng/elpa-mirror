@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/svgo/
 Checking out 9b01cc9eb1fdf2731cd2b931a7dfe1f601b70786
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/svgo/
-  to /tmp/svgoscVm9q/svgo-20220525.2059
+  to /tmp/svgoxW46ek/svgo-20220525.2059
     svgo.el -> svgo.el
 Created svgo-20220525.2059.tar containing:
   svgo-20220525.2059/
   svgo-20220525.2059/svgo-pkg.el
   svgo-20220525.2059/svgo.el
  ✓ Success:
-  2024-11-02T23:06:49+0000  svgo-20220525.2059.entry
-  2024-11-02T23:06:49+0000  svgo-20220525.2059.tar
-Built svgo in 2.968s, finished at 2024-11-02T23:06:50+0000
+  2024-11-04T00:36:01+0000  svgo-20220525.2059.entry
+  2024-11-04T00:36:01+0000  svgo-20220525.2059.tar
+Built svgo in 2.953s, finished at 2024-11-04T00:36:02+0000
