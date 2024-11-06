@@ -3,20 +3,24 @@ Fetcher: github
 Source:  https://github.com/justinbarclay/parinfer-rust-mode
 
 Updating /mnt/store/melpa/working/parinfer-rust-mode/
-Checking out 3abb484b2580d131d78d7a4e4d67f79677334b52
+Checking out 34836e33cc7ff08e66443c6bc10a142c950f35b4
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/parinfer-rust-mode/
-  to /tmp/parinfer-rust-modeZKWfUH/parinfer-rust-mode-20241103.213
+  to /tmp/parinfer-rust-modeb2VyNe/parinfer-rust-mode-20241105.224
     parinfer-rust-changes.el -> parinfer-rust-changes.el
+    parinfer-rust-flycheck.el -> parinfer-rust-flycheck.el
+    parinfer-rust-flymake.el -> parinfer-rust-flymake.el
     parinfer-rust-helper.el -> parinfer-rust-helper.el
     parinfer-rust-mode.el -> parinfer-rust-mode.el
-Created parinfer-rust-mode-20241103.213.tar containing:
-  parinfer-rust-mode-20241103.213/
-  parinfer-rust-mode-20241103.213/parinfer-rust-changes.el
-  parinfer-rust-mode-20241103.213/parinfer-rust-helper.el
-  parinfer-rust-mode-20241103.213/parinfer-rust-mode-pkg.el
-  parinfer-rust-mode-20241103.213/parinfer-rust-mode.el
+Created parinfer-rust-mode-20241105.224.tar containing:
+  parinfer-rust-mode-20241105.224/
+  parinfer-rust-mode-20241105.224/parinfer-rust-changes.el
+  parinfer-rust-mode-20241105.224/parinfer-rust-flycheck.el
+  parinfer-rust-mode-20241105.224/parinfer-rust-flymake.el
+  parinfer-rust-mode-20241105.224/parinfer-rust-helper.el
+  parinfer-rust-mode-20241105.224/parinfer-rust-mode-pkg.el
+  parinfer-rust-mode-20241105.224/parinfer-rust-mode.el
  ✓ Success:
-  2024-11-04T00:25:03+0000  parinfer-rust-mode-20241103.213.entry
-  2024-11-04T00:25:03+0000  parinfer-rust-mode-20241103.213.tar
-Built parinfer-rust-mode in 2.571s, finished at 2024-11-04T00:25:04+0000
+  2024-11-05T23:02:38+0000  parinfer-rust-mode-20241105.224.entry
+  2024-11-05T23:02:38+0000  parinfer-rust-mode-20241105.224.tar
+Built parinfer-rust-mode in 2.593s, finished at 2024-11-05T23:02:38+0000
