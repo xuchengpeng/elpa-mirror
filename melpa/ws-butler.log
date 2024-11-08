@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/lewang/ws-butler
 
 Updating /mnt/store/melpa/working/ws-butler/
-Checking out e3a38d93e01014cd47bf5af4924459bd145fd7c4
+Checking out d3927f6131f215e9cd3e1f747be5a91e5be8ca9a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ws-butler/
-  to /tmp/ws-butlerXnqvRE/ws-butler-20201117.1528
+  to /tmp/ws-butlerGBqUfA/ws-butler-20241107.519
     ws-butler.el -> ws-butler.el
-Created ws-butler-20201117.1528.tar containing:
-  ws-butler-20201117.1528/
-  ws-butler-20201117.1528/ws-butler-pkg.el
-  ws-butler-20201117.1528/ws-butler.el
+Created ws-butler-20241107.519.tar containing:
+  ws-butler-20241107.519/
+  ws-butler-20241107.519/ws-butler-pkg.el
+  ws-butler-20241107.519/ws-butler.el
  ✓ Success:
-  2024-11-06T23:50:10+0000  ws-butler-20201117.1528.entry
-  2024-11-06T23:50:10+0000  ws-butler-20201117.1528.tar
-Built ws-butler in 2.801s, finished at 2024-11-06T23:50:11+0000
+  2024-11-08T00:23:23+0000  ws-butler-20241107.519.entry
+  2024-11-08T00:23:23+0000  ws-butler-20241107.519.tar
+Built ws-butler in 2.690s, finished at 2024-11-08T00:23:24+0000

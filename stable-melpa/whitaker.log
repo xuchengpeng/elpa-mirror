@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/whitaker/
 Checking out a6fda24ccb69a18c0706633326d5cc4fcfaed83a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/whitaker/
-  to /tmp/whitakerIYk3nF/whitaker-20210203.1149
+  to /tmp/whitakerE0zlK0/whitaker-20210203.1149
     whitaker.el -> whitaker.el
 Created whitaker-20210203.1149.tar containing:
   whitaker-20210203.1149/
   whitaker-20210203.1149/whitaker-pkg.el
   whitaker-20210203.1149/whitaker.el
  ✓ Success:
-  2024-11-06T23:49:27+0000  whitaker-20210203.1149.entry
-  2024-11-06T23:49:27+0000  whitaker-20210203.1149.tar
-Built whitaker in 2.606s, finished at 2024-11-06T23:49:28+0000
+  2024-11-08T00:22:40+0000  whitaker-20210203.1149.entry
+  2024-11-08T00:22:40+0000  whitaker-20210203.1149.tar
+Built whitaker in 2.678s, finished at 2024-11-08T00:22:41+0000
