@@ -3,10 +3,10 @@ Fetcher: github
 Source:  https://github.com/joostkremers/ebib
 
 Updating /mnt/store/melpa/working/ebib/
-Checking out 8e4581659892219761d376180433e34ce38e20af
+Checking out 5dac71546bb8541ee67104c17df6fc3ae5e364db
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ebib/
-  to /tmp/ebibWbwM2n/ebib-20241105.2150
+  to /tmp/ebibTigXwH/ebib-20241109.2340
     ebib-biblio.el -> ebib-biblio.el
     ebib-db.el -> ebib-db.el
     ebib-filters.el -> ebib-filters.el
@@ -18,22 +18,24 @@ Copying files (->) and directories (=>)
     ebib.el -> ebib.el
     org-ebib.el -> org-ebib.el
     ebib.info -> ebib.info
-Created ebib-20241105.2150.tar containing:
-  ebib-20241105.2150/
-  ebib-20241105.2150/dir
-  ebib-20241105.2150/ebib-biblio.el
-  ebib-20241105.2150/ebib-db.el
-  ebib-20241105.2150/ebib-filters.el
-  ebib-20241105.2150/ebib-ivy.el
-  ebib-20241105.2150/ebib-keywords.el
-  ebib-20241105.2150/ebib-notes.el
-  ebib-20241105.2150/ebib-pkg.el
-  ebib-20241105.2150/ebib-reading-list.el
-  ebib-20241105.2150/ebib-utils.el
-  ebib-20241105.2150/ebib.el
-  ebib-20241105.2150/ebib.info
-  ebib-20241105.2150/org-ebib.el
+Created ebib-20241109.2340.tar containing:
+  ebib-20241109.2340/
+  ebib-20241109.2340/dir
+  ebib-20241109.2340/ebib-biblio.el
+  ebib-20241109.2340/ebib-db.el
+  ebib-20241109.2340/ebib-filters.el
+  ebib-20241109.2340/ebib-ivy.el
+  ebib-20241109.2340/ebib-keywords.el
+  ebib-20241109.2340/ebib-notes.el
+  ebib-20241109.2340/ebib-pkg.el
+  ebib-20241109.2340/ebib-reading-list.el
+  ebib-20241109.2340/ebib-utils.el
+  ebib-20241109.2340/ebib.el
+  ebib-20241109.2340/ebib.info
+  ebib-20241109.2340/org-ebib.el
  ✓ Success:
-  2024-11-07T23:30:36+0000  ebib-20241105.2150.entry
-  2024-11-07T23:30:36+0000  ebib-20241105.2150.tar
-Built ebib in 3.571s, finished at 2024-11-07T23:30:37+0000
+  2024-11-09T22:16:46+0000  ebib-20241109.2031.entry
+  2024-11-09T22:16:46+0000  ebib-20241109.2031.tar
+  2024-11-10T00:30:10+0000  ebib-20241109.2340.entry
+  2024-11-10T00:30:10+0000  ebib-20241109.2340.tar
+Built ebib in 3.756s, finished at 2024-11-10T00:30:11+0000
