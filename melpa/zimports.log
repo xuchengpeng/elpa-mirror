@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/zimports/
 Checking out 76cf76bdc871cb0454a6fc555aeb1aa94f1b6e57
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/zimports/
-  to /tmp/zimportsC9icW3/zimports-20211011.2059
+  to /tmp/zimportsQ7tfwi/zimports-20211011.2059
     zimports.el -> zimports.el
 Created zimports-20211011.2059.tar containing:
   zimports-20211011.2059/
   zimports-20211011.2059/zimports-pkg.el
   zimports-20211011.2059/zimports.el
  ✓ Success:
-  2024-11-12T00:20:06+0000  zimports-20211011.2059.entry
-  2024-11-12T00:20:06+0000  zimports-20211011.2059.tar
-Built zimports in 2.682s, finished at 2024-11-12T00:20:07+0000
+  2024-11-13T01:00:13+0000  zimports-20211011.2059.entry
+  2024-11-13T01:00:13+0000  zimports-20211011.2059.tar
+Built zimports in 6.219s, finished at 2024-11-13T01:00:15+0000
