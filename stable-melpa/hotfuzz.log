@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/hotfuzz/
 Checking out 2a9d24c6615a166b1191204aad1d3ca55a43ae9b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/hotfuzz/
-  to /tmp/hotfuzzXR9iuA/hotfuzz-20241022.1616
+  to /tmp/hotfuzzpSZ87e/hotfuzz-20241022.1616
     hotfuzz.el -> hotfuzz.el
 Created hotfuzz-20241022.1616.tar containing:
   hotfuzz-20241022.1616/
   hotfuzz-20241022.1616/hotfuzz-pkg.el
   hotfuzz-20241022.1616/hotfuzz.el
  ✓ Success:
-  2024-11-15T01:39:25+0000  hotfuzz-20241022.1616.entry
-  2024-11-15T01:39:25+0000  hotfuzz-20241022.1616.tar
-Built hotfuzz in 2.906s, finished at 2024-11-15T01:39:26+0000
+  2024-11-16T00:05:52+0000  hotfuzz-20241022.1616.entry
+  2024-11-16T00:05:52+0000  hotfuzz-20241022.1616.tar
+Built hotfuzz in 3.049s, finished at 2024-11-16T00:05:53+0000
