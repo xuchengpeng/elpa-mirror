@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/package-loading-notifier/
 Checking out f64f994cb1a55f9d59444deaec884bff0ed2b26e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/package-loading-notifier/
-  to /tmp/package-loading-notifierhj1fxS/package-loading-notifier-20230809.446
+  to /tmp/package-loading-notifierJl4jlT/package-loading-notifier-20230809.446
     package-loading-notifier.el -> package-loading-notifier.el
 Created package-loading-notifier-20230809.446.tar containing:
   package-loading-notifier-20230809.446/
   package-loading-notifier-20230809.446/package-loading-notifier-pkg.el
   package-loading-notifier-20230809.446/package-loading-notifier.el
  ✓ Success:
-  2024-11-16T00:23:37+0000  package-loading-notifier-20230809.446.entry
-  2024-11-16T00:23:37+0000  package-loading-notifier-20230809.446.tar
-Built package-loading-notifier in 2.717s, finished at 2024-11-16T00:23:38+0000
+  2024-11-17T01:01:49+0000  package-loading-notifier-20230809.446.entry
+  2024-11-17T01:01:49+0000  package-loading-notifier-20230809.446.tar
+Built package-loading-notifier in 3.343s, finished at 2024-11-17T01:01:50+0000

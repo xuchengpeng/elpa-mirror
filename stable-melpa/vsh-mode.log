@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/vsh-mode/
 Checking out 40daabb4b05e1dce8bc9b68cb437d9aff3cfa7d0
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/vsh-mode/
-  to /tmp/vsh-modeudfRx8/vsh-mode-20240820.1320
+  to /tmp/vsh-modeA2QEET/vsh-mode-20240820.1320
   ! vsh-mode-1.0/vsh-mode.el -> vsh-mode.el
   ! vsh-mode-1.0/integration_with_gdb.py -> integration_with_gdb.py
   ! vsh-mode-1.0/vsh_tell_editor_bindings.py -> vsh_tell_editor_bindings.py
@@ -21,6 +21,6 @@ Created vsh-mode-20240820.1320.tar containing:
   vsh-mode-20240820.1320/vsh_shell_start
   vsh-mode-20240820.1320/vsh_tell_editor_bindings.py
  ✓ Success:
-  2024-11-16T00:40:23+0000  vsh-mode-20240820.1320.entry
-  2024-11-16T00:40:23+0000  vsh-mode-20240820.1320.tar
-Built vsh-mode in 2.644s, finished at 2024-11-16T00:40:24+0000
+  2024-11-17T01:18:16+0000  vsh-mode-20240820.1320.entry
+  2024-11-17T01:18:16+0000  vsh-mode-20240820.1320.tar
+Built vsh-mode in 2.673s, finished at 2024-11-17T01:18:17+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/regswap/
 Checking out 65e2319e013c5d59f338edde12b98ef1c737e870
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/regswap/
-  to /tmp/regswapa4P7RJ/regswap-20240602.2051
+  to /tmp/regswaplTAxjr/regswap-20240602.2051
     regswap.el -> regswap.el
 Created regswap-20240602.2051.tar containing:
   regswap-20240602.2051/
   regswap-20240602.2051/regswap-pkg.el
   regswap-20240602.2051/regswap.el
  ✓ Success:
-  2024-11-16T00:29:26+0000  regswap-20240602.2051.entry
-  2024-11-16T00:29:26+0000  regswap-20240602.2051.tar
-Built regswap in 2.319s, finished at 2024-11-16T00:29:27+0000
+  2024-11-17T01:07:25+0000  regswap-20240602.2051.entry
+  2024-11-17T01:07:25+0000  regswap-20240602.2051.tar
+Built regswap in 2.901s, finished at 2024-11-17T01:07:26+0000

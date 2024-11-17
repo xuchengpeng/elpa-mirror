@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/tide/
 Checking out 6a35fe355f1442da34b976bf2decf008d6e4f991
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/tide/
-  to /tmp/tideh5vWpJ/tide-20241019.2101
+  to /tmp/tideA8a0vI/tide-20241019.2101
     tide-lv.el -> tide-lv.el
     tide.el -> tide.el
     tsserver => tsserver
@@ -105,6 +105,6 @@ Created tide-20241019.2101.tar containing:
   tide-20241019.2101/tsserver/tsserver.js
   tide-20241019.2101/tsserver/typingsInstaller.js
  ✓ Success:
-  2024-11-16T00:36:55+0000  tide-20241019.2101.entry
-  2024-11-16T00:36:55+0000  tide-20241019.2101.tar
-Built tide in 4.018s, finished at 2024-11-16T00:36:56+0000
+  2024-11-17T01:15:04+0000  tide-20241019.2101.entry
+  2024-11-17T01:15:04+0000  tide-20241019.2101.tar
+Built tide in 4.189s, finished at 2024-11-17T01:15:05+0000

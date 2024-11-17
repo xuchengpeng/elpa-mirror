@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/tempel/
 Checking out 3659036edbc332746dec556d0dec69ac4c52dcac
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/tempel/
-  to /tmp/tempel9kBE38/tempel-20241115.656
+  to /tmp/tempelDlbAUs/tempel-20241115.656
     tempel.el -> tempel.el
 Created tempel-20241115.656.tar containing:
   tempel-20241115.656/
   tempel-20241115.656/tempel-pkg.el
   tempel-20241115.656/tempel.el
  ✓ Success:
-  2024-11-16T00:36:18+0000  tempel-20241115.656.entry
-  2024-11-16T00:36:18+0000  tempel-20241115.656.tar
-Built tempel in 2.673s, finished at 2024-11-16T00:36:19+0000
+  2024-11-17T01:14:16+0000  tempel-20241115.656.entry
+  2024-11-17T01:14:16+0000  tempel-20241115.656.tar
+Built tempel in 4.580s, finished at 2024-11-17T01:14:17+0000

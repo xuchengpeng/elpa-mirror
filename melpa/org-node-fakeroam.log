@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/org-node-fakeroam/
 Checking out d77d7c4e1570b7d0cda05a944df6ffe9b78630c8
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/org-node-fakeroam/
-  to /tmp/org-node-fakeroamAZJJKo/org-node-fakeroam-20241103.2000
+  to /tmp/org-node-fakeroamhrcxts/org-node-fakeroam-20241103.2000
     org-node-fakeroam.el -> org-node-fakeroam.el
     org-node-fakeroam.texi -> org-node-fakeroam.texi
 Generating org-node-fakeroam.info
@@ -17,6 +17,6 @@ Created org-node-fakeroam-20241103.2000.tar containing:
   org-node-fakeroam-20241103.2000/org-node-fakeroam.el
   org-node-fakeroam-20241103.2000/org-node-fakeroam.info
  ✓ Success:
-  2024-11-16T00:21:05+0000  org-node-fakeroam-20241103.2000.entry
-  2024-11-16T00:21:05+0000  org-node-fakeroam-20241103.2000.tar
-Built org-node-fakeroam in 4.785s, finished at 2024-11-16T00:21:06+0000
+  2024-11-17T00:59:15+0000  org-node-fakeroam-20241103.2000.entry
+  2024-11-17T00:59:15+0000  org-node-fakeroam-20241103.2000.tar
+Built org-node-fakeroam in 4.599s, finished at 2024-11-17T00:59:16+0000

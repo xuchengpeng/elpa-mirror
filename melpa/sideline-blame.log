@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/sideline-blame/
 Checking out 48288bc77a90b58c7609598d0a129ba1638d0098
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/sideline-blame/
-  to /tmp/sideline-blameqnG5Cu/sideline-blame-20240906.1906
+  to /tmp/sideline-blameK35c6h/sideline-blame-20240906.1906
     sideline-blame.el -> sideline-blame.el
 Created sideline-blame-20240906.1906.tar containing:
   sideline-blame-20240906.1906/
   sideline-blame-20240906.1906/sideline-blame-pkg.el
   sideline-blame-20240906.1906/sideline-blame.el
  ✓ Success:
-  2024-11-16T00:32:15+0000  sideline-blame-20240906.1906.entry
-  2024-11-16T00:32:15+0000  sideline-blame-20240906.1906.tar
-Built sideline-blame in 3.241s, finished at 2024-11-16T00:32:16+0000
+  2024-11-17T01:10:28+0000  sideline-blame-20240906.1906.entry
+  2024-11-17T01:10:28+0000  sideline-blame-20240906.1906.tar
+Built sideline-blame in 3.163s, finished at 2024-11-17T01:10:29+0000

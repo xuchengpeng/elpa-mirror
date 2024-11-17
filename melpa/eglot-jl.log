@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/eglot-jl/
 Checking out 7c968cc61fb64016ebe6dc8ff83fd05923db4374
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/eglot-jl/
-  to /tmp/eglot-jlFwCTR9/eglot-jl-20240911.1352
+  to /tmp/eglot-jllRBk3h/eglot-jl-20240911.1352
     eglot-jl.el -> eglot-jl.el
     eglot-jl.jl -> eglot-jl.jl
     Manifest.toml -> Manifest.toml
@@ -19,6 +19,6 @@ Created eglot-jl-20240911.1352.tar containing:
   eglot-jl-20240911.1352/eglot-jl.el
   eglot-jl-20240911.1352/eglot-jl.jl
  ✓ Success:
-  2024-11-15T23:49:25+0000  eglot-jl-20240911.1352.entry
-  2024-11-15T23:49:25+0000  eglot-jl-20240911.1352.tar
-Built eglot-jl in 3.051s, finished at 2024-11-15T23:49:26+0000
+  2024-11-17T00:27:45+0000  eglot-jl-20240911.1352.entry
+  2024-11-17T00:27:45+0000  eglot-jl-20240911.1352.tar
+Built eglot-jl in 2.996s, finished at 2024-11-17T00:27:46+0000

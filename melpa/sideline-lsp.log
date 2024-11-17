@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/sideline-lsp/
 Checking out 69aca6403509abb4f5c5ba8499e98f80f81ebc88
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/sideline-lsp/
-  to /tmp/sideline-lspTWok8S/sideline-lsp-20240403.2210
+  to /tmp/sideline-lspGW9gVz/sideline-lsp-20240403.2210
     sideline-lsp.el -> sideline-lsp.el
 Created sideline-lsp-20240403.2210.tar containing:
   sideline-lsp-20240403.2210/
   sideline-lsp-20240403.2210/sideline-lsp-pkg.el
   sideline-lsp-20240403.2210/sideline-lsp.el
  ✓ Success:
-  2024-11-16T00:32:18+0000  sideline-lsp-20240403.2210.entry
-  2024-11-16T00:32:18+0000  sideline-lsp-20240403.2210.tar
-Built sideline-lsp in 3.163s, finished at 2024-11-16T00:32:19+0000
+  2024-11-17T01:10:31+0000  sideline-lsp-20240403.2210.entry
+  2024-11-17T01:10:31+0000  sideline-lsp-20240403.2210.tar
+Built sideline-lsp in 3.088s, finished at 2024-11-17T01:10:32+0000
