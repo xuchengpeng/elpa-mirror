@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/javadoc-lookup/
 Checking out 507a2dd443d60b537b8f779c1847e2cd0ccd1382
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/javadoc-lookup/
-  to /tmp/javadoc-lookup0NmY8y/javadoc-lookup-20160214.31
+  to /tmp/javadoc-lookup0st9bl/javadoc-lookup-20160214.31
     javadoc-import.el -> javadoc-import.el
     javadoc-lookup.el -> javadoc-lookup.el
     maven-fetch.el -> maven-fetch.el
@@ -20,6 +20,6 @@ Created javadoc-lookup-20160214.31.tar containing:
   javadoc-lookup-20160214.31/webcache/
   javadoc-lookup-20160214.31/webcache/http+++docs.oracle.com+javase+8+docs+api+.v4
  ✓ Success:
-  2024-11-17T00:46:47+0000  javadoc-lookup-20160214.31.entry
-  2024-11-17T00:46:47+0000  javadoc-lookup-20160214.31.tar
-Built javadoc-lookup in 2.651s, finished at 2024-11-17T00:46:47+0000
+  2024-11-18T01:20:23+0000  javadoc-lookup-20160214.31.entry
+  2024-11-18T01:20:23+0000  javadoc-lookup-20160214.31.tar
+Built javadoc-lookup in 2.595s, finished at 2024-11-18T01:20:23+0000

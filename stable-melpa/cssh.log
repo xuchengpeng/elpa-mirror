@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/cssh/
 Checking out 2fe2754235225a59b63f08b130cfd4352e2e1c3f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/cssh/
-  to /tmp/csshT7hYgs/cssh-20150810.1709
+  to /tmp/csshk8LL3O/cssh-20150810.1709
     cssh.el -> cssh.el
 Created cssh-20150810.1709.tar containing:
   cssh-20150810.1709/
   cssh-20150810.1709/cssh-pkg.el
   cssh-20150810.1709/cssh.el
  ✓ Success:
-  2024-11-17T00:23:09+0000  cssh-20150810.1709.entry
-  2024-11-17T00:23:09+0000  cssh-20150810.1709.tar
-Built cssh in 3.324s, finished at 2024-11-17T00:23:10+0000
+  2024-11-18T00:56:21+0000  cssh-20150810.1709.entry
+  2024-11-18T00:56:21+0000  cssh-20150810.1709.tar
+Built cssh in 2.840s, finished at 2024-11-18T00:56:22+0000

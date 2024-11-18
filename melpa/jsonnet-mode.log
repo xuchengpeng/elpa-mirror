@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/jsonnet-mode/
 Checking out cef3d352408599a63655002af655d11757579253
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/jsonnet-mode/
-  to /tmp/jsonnet-modeWLrlGk/jsonnet-mode-20220121.2109
+  to /tmp/jsonnet-modeF7W7zk/jsonnet-mode-20220121.2109
     jsonnet-mode.el -> jsonnet-mode.el
 Created jsonnet-mode-20220121.2109.tar containing:
   jsonnet-mode-20220121.2109/
   jsonnet-mode-20220121.2109/jsonnet-mode-pkg.el
   jsonnet-mode-20220121.2109/jsonnet-mode.el
  ✓ Success:
-  2024-11-17T00:47:31+0000  jsonnet-mode-20220121.2109.entry
-  2024-11-17T00:47:31+0000  jsonnet-mode-20220121.2109.tar
-Built jsonnet-mode in 3.007s, finished at 2024-11-17T00:47:31+0000
+  2024-11-18T01:21:07+0000  jsonnet-mode-20220121.2109.entry
+  2024-11-18T01:21:07+0000  jsonnet-mode-20220121.2109.tar
+Built jsonnet-mode in 2.931s, finished at 2024-11-18T01:21:08+0000

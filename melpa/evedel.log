@@ -1,0 +1,18 @@
+Package: evedel
+Fetcher: github
+Source:  https://github.com/daedsidog/evedel
+
+Updating /mnt/store/melpa/working/evedel/
+Checking out 0e6faec72903e1fd541c416883696309aa300ced
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/evedel/
+  to /tmp/evedelNyEzCi/evedel-20241114.11
+    evedel.el -> evedel.el
+Created evedel-20241114.11.tar containing:
+  evedel-20241114.11/
+  evedel-20241114.11/evedel-pkg.el
+  evedel-20241114.11/evedel.el
+ ✓ Success:
+  2024-11-18T01:05:08+0000  evedel-20241114.11.entry
+  2024-11-18T01:05:08+0000  evedel-20241114.11.tar
+Built evedel in 2.615s, finished at 2024-11-18T01:05:09+0000

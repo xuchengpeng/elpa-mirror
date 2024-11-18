@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/go-impl/
 Checking out 1eebba6ccd02d11a5a82ad4540a8d562797bc3b3
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/go-impl/
-  to /tmp/go-implsrupRb/go-impl-20210621.743
+  to /tmp/go-implRwYXIh/go-impl-20210621.743
     go-impl.el -> go-impl.el
 Created go-impl-20210621.743.tar containing:
   go-impl-20210621.743/
   go-impl-20210621.743/go-impl-pkg.el
   go-impl-20210621.743/go-impl.el
  ✓ Success:
-  2024-11-17T00:39:22+0000  go-impl-20210621.743.entry
-  2024-11-17T00:39:22+0000  go-impl-20210621.743.tar
-Built go-impl in 2.755s, finished at 2024-11-17T00:39:23+0000
+  2024-11-18T01:12:59+0000  go-impl-20210621.743.entry
+  2024-11-18T01:12:59+0000  go-impl-20210621.743.tar
+Built go-impl in 2.825s, finished at 2024-11-18T01:12:59+0000

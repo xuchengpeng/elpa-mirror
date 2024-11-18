@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/db-pg/
 Checking out 7d5ab86b74b05fe003b3b434d4835f37f3f3eded
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/db-pg/
-  to /tmp/db-pg4m7taP/db-pg-20130131.1902
+  to /tmp/db-pg3PEuCl/db-pg-20130131.1902
     db-pg.el -> db-pg.el
 Created db-pg-20130131.1902.tar containing:
   db-pg-20130131.1902/
   db-pg-20130131.1902/db-pg-pkg.el
   db-pg-20130131.1902/db-pg.el
  ✓ Success:
-  2024-11-17T00:24:12+0000  db-pg-20130131.1902.entry
-  2024-11-17T00:24:12+0000  db-pg-20130131.1902.tar
-Built db-pg in 4.027s, finished at 2024-11-17T00:24:13+0000
+  2024-11-18T00:57:12+0000  db-pg-20130131.1902.entry
+  2024-11-18T00:57:12+0000  db-pg-20130131.1902.tar
+Built db-pg in 2.598s, finished at 2024-11-18T00:57:13+0000
