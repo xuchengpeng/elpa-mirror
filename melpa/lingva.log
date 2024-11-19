@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/lingva/
 Checking out c4cd68fb3ab1ebf419be0ec92b77d9feac921a87
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/lingva/
-  to /tmp/lingvaQxk8hu/lingva-20240607.1120
+  to /tmp/lingvaPTnAiX/lingva-20240607.1120
     lingva.el -> lingva.el
 Created lingva-20240607.1120.tar containing:
   lingva-20240607.1120/
   lingva-20240607.1120/lingva-pkg.el
   lingva-20240607.1120/lingva.el
  ✓ Success:
-  2024-11-18T01:23:35+0000  lingva-20240607.1120.entry
-  2024-11-18T01:23:35+0000  lingva-20240607.1120.tar
-Built lingva in 3.637s, finished at 2024-11-18T01:23:36+0000
+  2024-11-18T23:52:09+0000  lingva-20240607.1120.entry
+  2024-11-18T23:52:09+0000  lingva-20240607.1120.tar
+Built lingva in 3.554s, finished at 2024-11-18T23:52:10+0000

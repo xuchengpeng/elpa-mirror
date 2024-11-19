@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/python-black/
 Checking out 4da1519345b3d5c513d82ef0d39536dd9c626d42
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/python-black/
-  to /tmp/python-blackfmJcjw/python-black-20240520.729
+  to /tmp/python-blackPGwvCf/python-black-20240520.729
     python-black.el -> python-black.el
 Created python-black-20240520.729.tar containing:
   python-black-20240520.729/
   python-black-20240520.729/python-black-pkg.el
   python-black-20240520.729/python-black.el
  ✓ Success:
-  2024-11-18T01:39:26+0000  python-black-20240520.729.entry
-  2024-11-18T01:39:26+0000  python-black-20240520.729.tar
-Built python-black in 3.026s, finished at 2024-11-18T01:39:27+0000
+  2024-11-19T00:08:11+0000  python-black-20240520.729.entry
+  2024-11-19T00:08:11+0000  python-black-20240520.729.tar
+Built python-black in 2.939s, finished at 2024-11-19T00:08:12+0000

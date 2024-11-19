@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/helm-filesets/
 Checking out b352910af4c3099267a8aa0169c7f743b35bb1fa
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/helm-filesets/
-  to /tmp/helm-filesetsfPYx2u/helm-filesets-20140929.1835
+  to /tmp/helm-filesets0PeXpj/helm-filesets-20140929.1835
     helm-filesets.el -> helm-filesets.el
 Created helm-filesets-20140929.1835.tar containing:
   helm-filesets-20140929.1835/
   helm-filesets-20140929.1835/helm-filesets-pkg.el
   helm-filesets-20140929.1835/helm-filesets.el
  ✓ Success:
-  2024-11-18T01:15:06+0000  helm-filesets-20140929.1835.entry
-  2024-11-18T01:15:06+0000  helm-filesets-20140929.1835.tar
-Built helm-filesets in 2.378s, finished at 2024-11-18T01:15:07+0000
+  2024-11-18T23:44:00+0000  helm-filesets-20140929.1835.entry
+  2024-11-18T23:44:00+0000  helm-filesets-20140929.1835.tar
+Built helm-filesets in 5.097s, finished at 2024-11-18T23:44:01+0000

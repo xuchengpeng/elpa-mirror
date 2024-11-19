@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/popwin/
 Checking out 58adcd0ca7c3dbd58626ec7019252d64cbc73042
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/popwin/
-  to /tmp/popwinZs9goG/popwin-20240925.752
+  to /tmp/popwinXYFGzG/popwin-20240925.752
     popwin.el -> popwin.el
 Created popwin-20240925.752.tar containing:
   popwin-20240925.752/
   popwin-20240925.752/popwin-pkg.el
   popwin-20240925.752/popwin.el
  ✓ Success:
-  2024-11-18T01:37:36+0000  popwin-20240925.752.entry
-  2024-11-18T01:37:36+0000  popwin-20240925.752.tar
-Built popwin in 2.708s, finished at 2024-11-18T01:37:37+0000
+  2024-11-19T00:06:28+0000  popwin-20240925.752.entry
+  2024-11-19T00:06:28+0000  popwin-20240925.752.tar
+Built popwin in 4.364s, finished at 2024-11-19T00:06:29+0000
