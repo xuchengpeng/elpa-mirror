@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/wavedrom-mode/
 Checking out 758a29e975e76ad616bbe18b657a5ce78fd32d32
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/wavedrom-mode/
-  to /tmp/wavedrom-modeG0e1iz/wavedrom-mode-20240329.1800
+  to /tmp/wavedrom-modet4TBXI/wavedrom-mode-20240329.1800
     wavedrom-mode.el -> wavedrom-mode.el
 Created wavedrom-mode-20240329.1800.tar containing:
   wavedrom-mode-20240329.1800/
   wavedrom-mode-20240329.1800/wavedrom-mode-pkg.el
   wavedrom-mode-20240329.1800/wavedrom-mode.el
  ✓ Success:
-  2024-11-19T00:21:04+0000  wavedrom-mode-20240329.1800.entry
-  2024-11-19T00:21:04+0000  wavedrom-mode-20240329.1800.tar
-Built wavedrom-mode in 2.869s, finished at 2024-11-19T00:21:05+0000
+  2024-11-20T01:06:57+0000  wavedrom-mode-20240329.1800.entry
+  2024-11-20T01:06:57+0000  wavedrom-mode-20240329.1800.tar
+Built wavedrom-mode in 2.659s, finished at 2024-11-20T01:06:58+0000

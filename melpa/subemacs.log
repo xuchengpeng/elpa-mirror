@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/subemacs/
 Checking out 18d53939fec8968c08dfc5aff7240ca07efb1aac
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/subemacs/
-  to /tmp/subemacsV2UF66/subemacs-20170401.934
+  to /tmp/subemacsIraX1T/subemacs-20170401.934
     subemacs.el -> subemacs.el
 Created subemacs-20170401.934.tar containing:
   subemacs-20170401.934/
   subemacs-20170401.934/subemacs-pkg.el
   subemacs-20170401.934/subemacs.el
  ✓ Success:
-  2024-11-19T00:15:31+0000  subemacs-20170401.934.entry
-  2024-11-19T00:15:31+0000  subemacs-20170401.934.tar
-Built subemacs in 3.047s, finished at 2024-11-19T00:15:32+0000
+  2024-11-20T01:01:17+0000  subemacs-20170401.934.entry
+  2024-11-20T01:01:17+0000  subemacs-20170401.934.tar
+Built subemacs in 4.878s, finished at 2024-11-20T01:01:18+0000

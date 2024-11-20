@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/slint-mode/
 Checking out 168a6cfb90b5e36360074c83f80d5bbac2f0287e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/slint-mode/
-  to /tmp/slint-modehPqhJf/slint-mode-20240429.1333
+  to /tmp/slint-modeBbNFEn/slint-mode-20240429.1333
     slint-mode.el -> slint-mode.el
 Created slint-mode-20240429.1333.tar containing:
   slint-mode-20240429.1333/
   slint-mode-20240429.1333/slint-mode-pkg.el
   slint-mode-20240429.1333/slint-mode.el
  ✓ Success:
-  2024-11-19T00:13:12+0000  slint-mode-20240429.1333.entry
-  2024-11-19T00:13:12+0000  slint-mode-20240429.1333.tar
-Built slint-mode in 2.641s, finished at 2024-11-19T00:13:13+0000
+  2024-11-20T00:58:40+0000  slint-mode-20240429.1333.entry
+  2024-11-20T00:58:40+0000  slint-mode-20240429.1333.tar
+Built slint-mode in 2.679s, finished at 2024-11-20T00:58:40+0000

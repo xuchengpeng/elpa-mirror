@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/quickrun/
 Checking out bb0f7580cd95022c4f8d016700a73260687c9722
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/quickrun/
-  to /tmp/quickrunInv0yo/quickrun-20240924.2359
+  to /tmp/quickrundrtjJW/quickrun-20240924.2359
     quickrun.el -> quickrun.el
 Created quickrun-20240924.2359.tar containing:
   quickrun-20240924.2359/
   quickrun-20240924.2359/quickrun-pkg.el
   quickrun-20240924.2359/quickrun.el
  ✓ Success:
-  2024-11-19T00:08:36+0000  quickrun-20240924.2359.entry
-  2024-11-19T00:08:36+0000  quickrun-20240924.2359.tar
-Built quickrun in 2.938s, finished at 2024-11-19T00:08:37+0000
+  2024-11-20T00:54:08+0000  quickrun-20240924.2359.entry
+  2024-11-20T00:54:07+0000  quickrun-20240924.2359.tar
+Built quickrun in 3.049s, finished at 2024-11-20T00:54:08+0000

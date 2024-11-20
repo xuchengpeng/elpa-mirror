@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/compdef/
 Checking out 30fb5846ed851efee641ce8c5d8879ad36cd7ac6
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/compdef/
-  to /tmp/compdef2QnPSt/compdef-20200304.611
+  to /tmp/compdefDJbuqz/compdef-20200304.611
     compdef.el -> compdef.el
 Created compdef-20200304.611.tar containing:
   compdef-20200304.611/
   compdef-20200304.611/compdef-pkg.el
   compdef-20200304.611/compdef.el
  ✓ Success:
-  2024-11-18T23:23:55+0000  compdef-20200304.611.entry
-  2024-11-18T23:23:55+0000  compdef-20200304.611.tar
-Built compdef in 2.657s, finished at 2024-11-18T23:23:56+0000
+  2024-11-20T00:09:11+0000  compdef-20200304.611.entry
+  2024-11-20T00:09:11+0000  compdef-20200304.611.tar
+Built compdef in 2.565s, finished at 2024-11-20T00:09:12+0000

@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/purcell/inheritenv
 
 Updating /mnt/store/melpa/working/inheritenv/
-Checking out 00106bb208d06e5f1ec25d0c2f41c000cbb25076
+Checking out b9e67cc20c069539698a9ac54d0e6cc11e616c6f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/inheritenv/
-  to /tmp/inheritenvr3YXvp/inheritenv-20230804.651
+  to /tmp/inheritenvcD7gOQ/inheritenv-20241119.1355
     inheritenv.el -> inheritenv.el
-Created inheritenv-20230804.651.tar containing:
-  inheritenv-20230804.651/
-  inheritenv-20230804.651/inheritenv-pkg.el
-  inheritenv-20230804.651/inheritenv.el
+Created inheritenv-20241119.1355.tar containing:
+  inheritenv-20241119.1355/
+  inheritenv-20241119.1355/inheritenv-pkg.el
+  inheritenv-20241119.1355/inheritenv.el
  ✓ Success:
-  2024-11-18T23:47:46+0000  inheritenv-20230804.651.entry
-  2024-11-18T23:47:46+0000  inheritenv-20230804.651.tar
-Built inheritenv in 2.832s, finished at 2024-11-18T23:47:47+0000
+  2024-11-20T00:33:29+0000  inheritenv-20241119.1355.entry
+  2024-11-20T00:33:29+0000  inheritenv-20241119.1355.tar
+Built inheritenv in 2.841s, finished at 2024-11-20T00:33:30+0000

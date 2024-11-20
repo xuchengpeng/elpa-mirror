@@ -1,20 +1,20 @@
-The **compile-angel** package automatically byte-compiles and native-compiles
+The compile-angel package automatically byte-compiles and native-compiles
 Emacs Lisp libraries. It offers:
 - (compile-angel-on-load-mode): Global mode that compiles .el files before
   they are loaded.
 - (compile-angel-on-save-local-mode): Local mode that compiles .el files
   whenever the user saves them.
 
-These modes **speed up Emacs by ensuring all libraries are byte-compiled and
-native-compiled**. Byte-compilation reduces the overhead of loading Emacs
+These modes speed up Emacs by ensuring all libraries are byte-compiled and
+native-compiled. Byte-compilation reduces the overhead of loading Emacs
 Lisp code at runtime, while native compilation optimizes performance by
 generating machine code specific to your system.
 
-The compile-angel author used to be an auto-compile user, but several of
-his .el files were not being compiled by auto-compile, which caused Emacs
-to become slow due to the lack of native compilation. The author experimented
-for an extended and the result of those hours of research and testing became
-a package called compile-angel.
+The author of compile-angel was previously a user of auto-compile, but
+encountered an issue where several `.el` files were not being compiled by
+auto-compile, leading to Emacs performance degradation due to the absence of
+native compilation. After extensive experimentation and research, the author
+developed *compile-angel* as a result of these efforts.
 
 The compile-angel package was created to offer an alternative to
 auto-compile that guarantees all .el files are both byte-compiled and
@@ -32,14 +32,14 @@ return t: `(native-comp-available-p)`.
 
 Installation from MELPA:
 ------------------------
-  (use-package compile-angel
-    :ensure t
-    :demand t
-    :custom
-    (compile-angel-verbose nil)
-    :config
-    (compile-angel-on-load-mode)
-    (add-hook 'emacs-lisp-mode-hook #'compile-angel-on-save-local-mode))
+(use-package compile-angel
+  :ensure t
+  :demand t
+  :custom
+  (compile-angel-verbose nil)
+  :config
+  (compile-angel-on-load-mode)
+  (add-hook 'emacs-lisp-mode-hook #'compile-angel-on-save-local-mode))
 
 Links:
 ------
