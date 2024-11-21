@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/logms/
 Checking out ef571d7ab8b2809363197e6867bfc1fbff5d14b7
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/logms/
-  to /tmp/logmsr4fsFK/logms-20240101.942
+  to /tmp/logmsphOjsZ/logms-20240101.942
     logms.el -> logms.el
 Created logms-20240101.942.tar containing:
   logms-20240101.942/
   logms-20240101.942/logms-pkg.el
   logms-20240101.942/logms.el
  ✓ Success:
-  2024-11-20T00:38:29+0000  logms-20240101.942.entry
-  2024-11-20T00:38:28+0000  logms-20240101.942.tar
-Built logms in 4.653s, finished at 2024-11-20T00:38:30+0000
+  2024-11-21T00:14:23+0000  logms-20240101.942.entry
+  2024-11-21T00:14:23+0000  logms-20240101.942.tar
+Built logms in 2.813s, finished at 2024-11-21T00:14:24+0000
