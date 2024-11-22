@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/dfmt/
 Checking out 21b9094e907b7ac53f5ecb4ff4539613a9d12434
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/dfmt/
-  to /tmp/dfmtWxOvqv/dfmt-20170728.1023
+  to /tmp/dfmtM44KzH/dfmt-20170728.1023
     dfmt.el -> dfmt.el
 Created dfmt-20170728.1023.tar containing:
   dfmt-20170728.1023/
   dfmt-20170728.1023/dfmt-pkg.el
   dfmt-20170728.1023/dfmt.el
  ✓ Success:
-  2024-11-20T23:47:57+0000  dfmt-20170728.1023.entry
-  2024-11-20T23:47:57+0000  dfmt-20170728.1023.tar
-Built dfmt in 3.008s, finished at 2024-11-20T23:47:58+0000
+  2024-11-22T00:30:20+0000  dfmt-20170728.1023.entry
+  2024-11-22T00:30:20+0000  dfmt-20170728.1023.tar
+Built dfmt in 3.191s, finished at 2024-11-22T00:30:21+0000

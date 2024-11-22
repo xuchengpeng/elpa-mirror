@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/sexp-diff/
 Checking out 4fea80f7b04c64b160a95bdc9d6de68c71096706
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/sexp-diff/
-  to /tmp/sexp-diffoFC7DG/sexp-diff-20200314.2018
+  to /tmp/sexp-diffXTLfZu/sexp-diff-20200314.2018
     sexp-diff.el -> sexp-diff.el
 Created sexp-diff-20200314.2018.tar containing:
   sexp-diff-20200314.2018/
   sexp-diff-20200314.2018/sexp-diff-pkg.el
   sexp-diff-20200314.2018/sexp-diff.el
  ✓ Success:
-  2024-11-21T00:33:36+0000  sexp-diff-20200314.2018.entry
-  2024-11-21T00:33:36+0000  sexp-diff-20200314.2018.tar
-Built sexp-diff in 2.399s, finished at 2024-11-21T00:33:37+0000
+  2024-11-22T01:15:47+0000  sexp-diff-20200314.2018.entry
+  2024-11-22T01:15:47+0000  sexp-diff-20200314.2018.tar
+Built sexp-diff in 2.355s, finished at 2024-11-22T01:15:48+0000
