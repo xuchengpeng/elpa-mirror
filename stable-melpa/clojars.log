@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/clojars/
 Checking out c78e4d5ddacda064c253e2b38d1c35188aa1ad71
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/clojars/
-  to /tmp/clojarsIL66pf/clojars-20180825.1951
+  to /tmp/clojarsQzVxPK/clojars-20180825.1951
     clojars.el -> clojars.el
 Created clojars-20180825.1951.tar containing:
   clojars-20180825.1951/
   clojars-20180825.1951/clojars-pkg.el
   clojars-20180825.1951/clojars.el
  ✓ Success:
-  2024-11-22T00:25:48+0000  clojars-20180825.1951.entry
-  2024-11-22T00:25:48+0000  clojars-20180825.1951.tar
-Built clojars in 2.598s, finished at 2024-11-22T00:25:49+0000
+  2024-11-23T00:59:26+0000  clojars-20180825.1951.entry
+  2024-11-23T00:59:26+0000  clojars-20180825.1951.tar
+Built clojars in 2.497s, finished at 2024-11-23T00:59:27+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/better-defaults/
 Checking out fde8d8f9cf8c038c8ef902d939df4745e88fac88
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/better-defaults/
-  to /tmp/better-defaultsYLII8C/better-defaults-20241028.4
+  to /tmp/better-defaultsBbogwx/better-defaults-20241028.4
     better-defaults.el -> better-defaults.el
 Created better-defaults-20241028.4.tar containing:
   better-defaults-20241028.4/
   better-defaults-20241028.4/better-defaults-pkg.el
   better-defaults-20241028.4/better-defaults.el
  ✓ Success:
-  2024-11-22T00:22:23+0000  better-defaults-20241028.4.entry
-  2024-11-22T00:22:23+0000  better-defaults-20241028.4.tar
-Built better-defaults in 3.612s, finished at 2024-11-22T00:22:24+0000
+  2024-11-23T00:56:03+0000  better-defaults-20241028.4.entry
+  2024-11-23T00:56:03+0000  better-defaults-20241028.4.tar
+Built better-defaults in 3.632s, finished at 2024-11-23T00:56:04+0000
