@@ -3,3 +3,18 @@ Fetcher: github
 Source:  https://github.com/JuliaEditorSupport/julia-emacs
 
 Updating /mnt/store/melpa/working/julia-mode/
+Checking out 709c43410fb5da068d7d582cf3f545f7a7a68133
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/julia-mode/
+  to /tmp/julia-modeBXJKpO/julia-mode-20241120.857
+    julia-mode-latexsubs.el -> julia-mode-latexsubs.el
+    julia-mode.el -> julia-mode.el
+Created julia-mode-20241120.857.tar containing:
+  julia-mode-20241120.857/
+  julia-mode-20241120.857/julia-mode-latexsubs.el
+  julia-mode-20241120.857/julia-mode-pkg.el
+  julia-mode-20241120.857/julia-mode.el
+ ✓ Success:
+  2024-11-23T23:41:31+0000  julia-mode-20241120.857.entry
+  2024-11-23T23:41:31+0000  julia-mode-20241120.857.tar
+Built julia-mode in 3.179s, finished at 2024-11-23T23:41:32+0000

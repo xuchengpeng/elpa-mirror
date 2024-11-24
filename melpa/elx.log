@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/emacscollective/elx
 
 Updating /mnt/store/melpa/working/elx/
-Checking out be1afda54a182c726d7f0c584b2ac4854384ffda
+Checking out 02ceae51c97ee0b05433c58faf874f68a88fa255
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/elx/
-  to /tmp/elxWDoU5y/elx-20240805.1311
+  to /tmp/elxpVuMRp/elx-20241123.2125
     elx.el -> elx.el
-Created elx-20240805.1311.tar containing:
-  elx-20240805.1311/
-  elx-20240805.1311/elx-pkg.el
-  elx-20240805.1311/elx.el
+Created elx-20241123.2125.tar containing:
+  elx-20241123.2125/
+  elx-20241123.2125/elx-pkg.el
+  elx-20241123.2125/elx.el
  ✓ Success:
-  2024-11-23T01:09:03+0000  elx-20240805.1311.entry
-  2024-11-23T01:09:03+0000  elx-20240805.1311.tar
-Built elx in 3.149s, finished at 2024-11-23T01:09:03+0000
+  2024-11-24T01:37:21+0000  elx-20241123.2125.entry
+  2024-11-24T01:37:21+0000  elx-20241123.2125.tar
+Built elx in 3.030s, finished at 2024-11-24T01:37:22+0000

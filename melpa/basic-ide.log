@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/basic-ide/
 Checking out e33036f838e61b647927165e81be5d5b855e0518
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/basic-ide/
-  to /tmp/basic-idevCqOUp/basic-ide-20230118.1040
+  to /tmp/basic-idel1BeFJ/basic-ide-20230118.1040
     basic-ide.el -> basic-ide.el
 Created basic-ide-20230118.1040.tar containing:
   basic-ide-20230118.1040/
   basic-ide-20230118.1040/basic-ide-pkg.el
   basic-ide-20230118.1040/basic-ide.el
  ✓ Success:
-  2024-11-23T00:55:43+0000  basic-ide-20230118.1040.entry
-  2024-11-23T00:55:43+0000  basic-ide-20230118.1040.tar
-Built basic-ide in 3.539s, finished at 2024-11-23T00:55:44+0000
+  2024-11-24T01:24:32+0000  basic-ide-20230118.1040.entry
+  2024-11-24T01:24:32+0000  basic-ide-20230118.1040.tar
+Built basic-ide in 4.351s, finished at 2024-11-24T01:24:33+0000

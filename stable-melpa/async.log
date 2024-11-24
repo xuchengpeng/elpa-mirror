@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/async/
 Checking out 863b3366a0077279646bf9eec1f97dba6c052440
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/async/
-  to /tmp/asyncAW85Ir/async-20241120.642
+  to /tmp/asyncOx77LK/async-20241120.642
     async-bytecomp.el -> async-bytecomp.el
     async-package.el -> async-package.el
     async.el -> async.el
@@ -21,6 +21,6 @@ Created async-20241120.642.tar containing:
   async-20241120.642/dired-async.el
   async-20241120.642/smtpmail-async.el
  ✓ Success:
-  2024-11-23T00:54:37+0000  async-20241120.642.entry
-  2024-11-23T00:54:37+0000  async-20241120.642.tar
-Built async in 2.848s, finished at 2024-11-23T00:54:38+0000
+  2024-11-24T01:23:01+0000  async-20241120.642.entry
+  2024-11-24T01:23:01+0000  async-20241120.642.tar
+Built async in 2.983s, finished at 2024-11-24T01:23:02+0000
