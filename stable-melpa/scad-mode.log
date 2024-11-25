@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/scad-mode/
 Checking out 2dc2457650d56d7b495a3db1926acdfb57ad430a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/scad-mode/
-  to /tmp/scad-modeFaPZBe/scad-mode-20240926.924
+  to /tmp/scad-mode8Vm5NZ/scad-mode-20240926.924
     ob-scad.el -> ob-scad.el
     scad-mode.el -> scad-mode.el
 Created scad-mode-20240926.924.tar containing:
@@ -15,6 +15,6 @@ Created scad-mode-20240926.924.tar containing:
   scad-mode-20240926.924/scad-mode-pkg.el
   scad-mode-20240926.924/scad-mode.el
  ✓ Success:
-  2024-11-24T00:02:47+0000  scad-mode-20240926.924.entry
-  2024-11-24T00:02:47+0000  scad-mode-20240926.924.tar
-Built scad-mode in 3.012s, finished at 2024-11-24T00:02:48+0000
+  2024-11-25T00:26:05+0000  scad-mode-20240926.924.entry
+  2024-11-25T00:26:04+0000  scad-mode-20240926.924.tar
+Built scad-mode in 2.981s, finished at 2024-11-25T00:26:05+0000

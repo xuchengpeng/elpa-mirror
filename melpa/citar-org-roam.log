@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/emacs-citar/citar-org-roam
 
 Updating /mnt/store/melpa/working/citar-org-roam/
-Checking out 999268c7a077aad6a8f4dfc88d0eeabdf4267fea
+Checking out e2cd111456d59fbf0b79e6684ad46c3686169f53
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/citar-org-roam/
-  to /tmp/citar-org-roamZkmhsV/citar-org-roam-20240212.2159
+  to /tmp/citar-org-roaml8oVCc/citar-org-roam-20241124.1352
     citar-org-roam.el -> citar-org-roam.el
-Created citar-org-roam-20240212.2159.tar containing:
-  citar-org-roam-20240212.2159/
-  citar-org-roam-20240212.2159/citar-org-roam-pkg.el
-  citar-org-roam-20240212.2159/citar-org-roam.el
+Created citar-org-roam-20241124.1352.tar containing:
+  citar-org-roam-20241124.1352/
+  citar-org-roam-20241124.1352/citar-org-roam-pkg.el
+  citar-org-roam-20241124.1352/citar-org-roam.el
  ✓ Success:
-  2024-11-24T01:27:36+0000  citar-org-roam-20240212.2159.entry
-  2024-11-24T01:27:36+0000  citar-org-roam-20240212.2159.tar
-Built citar-org-roam in 2.398s, finished at 2024-11-24T01:27:37+0000
+  2024-11-24T23:37:02+0000  citar-org-roam-20241124.1352.entry
+  2024-11-24T23:37:02+0000  citar-org-roam-20241124.1352.tar
+Built citar-org-roam in 2.741s, finished at 2024-11-24T23:37:03+0000
