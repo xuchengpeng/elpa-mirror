@@ -3,10 +3,10 @@ Fetcher: github
 Source:  https://github.com/chep/copilot-chat.el
 
 Updating /mnt/store/melpa/working/copilot-chat/
-Checking out 25e90bd7db9034ebbbce1873eaef83cf9d011fa5
+Checking out b6d919022a81ae6f8e024a9cce2a8250a2451d09
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/copilot-chat/
-  to /tmp/copilot-chatWr0HqH/copilot-chat-20241121.1103
+  to /tmp/copilot-chatYXPQMJ/copilot-chat-20241126.815
     copilot-chat-common.el -> copilot-chat-common.el
     copilot-chat-copilot.el -> copilot-chat-copilot.el
     copilot-chat-curl.el -> copilot-chat-curl.el
@@ -15,18 +15,18 @@ Copying files (->) and directories (=>)
     copilot-chat-request.el -> copilot-chat-request.el
     copilot-chat-shell-maker.el -> copilot-chat-shell-maker.el
     copilot-chat.el -> copilot-chat.el
-Created copilot-chat-20241121.1103.tar containing:
-  copilot-chat-20241121.1103/
-  copilot-chat-20241121.1103/copilot-chat-common.el
-  copilot-chat-20241121.1103/copilot-chat-copilot.el
-  copilot-chat-20241121.1103/copilot-chat-curl.el
-  copilot-chat-20241121.1103/copilot-chat-markdown.el
-  copilot-chat-20241121.1103/copilot-chat-org.el
-  copilot-chat-20241121.1103/copilot-chat-pkg.el
-  copilot-chat-20241121.1103/copilot-chat-request.el
-  copilot-chat-20241121.1103/copilot-chat-shell-maker.el
-  copilot-chat-20241121.1103/copilot-chat.el
+Created copilot-chat-20241126.815.tar containing:
+  copilot-chat-20241126.815/
+  copilot-chat-20241126.815/copilot-chat-common.el
+  copilot-chat-20241126.815/copilot-chat-copilot.el
+  copilot-chat-20241126.815/copilot-chat-curl.el
+  copilot-chat-20241126.815/copilot-chat-markdown.el
+  copilot-chat-20241126.815/copilot-chat-org.el
+  copilot-chat-20241126.815/copilot-chat-pkg.el
+  copilot-chat-20241126.815/copilot-chat-request.el
+  copilot-chat-20241126.815/copilot-chat-shell-maker.el
+  copilot-chat-20241126.815/copilot-chat.el
  ✓ Success:
-  2024-11-24T23:39:49+0000  copilot-chat-20241121.1103.entry
-  2024-11-24T23:39:48+0000  copilot-chat-20241121.1103.tar
-Built copilot-chat in 2.835s, finished at 2024-11-24T23:39:49+0000
+  2024-11-27T00:38:07+0000  copilot-chat-20241126.815.entry
+  2024-11-27T00:38:07+0000  copilot-chat-20241126.815.tar
+Built copilot-chat in 2.804s, finished at 2024-11-27T00:38:07+0000

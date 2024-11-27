@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/smex/
 Checking out 55aaebe3d793c2c990b39a302eb26c184281c42c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/smex/
-  to /tmp/smexqCegNr/smex-20151212.2209
+  to /tmp/smexSRCph8/smex-20151212.2209
     smex.el -> smex.el
 Created smex-20151212.2209.tar containing:
   smex-20151212.2209/
   smex-20151212.2209/smex-pkg.el
   smex-20151212.2209/smex.el
  ✓ Success:
-  2024-11-25T00:28:23+0000  smex-20151212.2209.entry
-  2024-11-25T00:28:23+0000  smex-20151212.2209.tar
-Built smex in 3.242s, finished at 2024-11-25T00:28:24+0000
+  2024-11-27T01:27:23+0000  smex-20151212.2209.entry
+  2024-11-27T01:27:23+0000  smex-20151212.2209.tar
+Built smex in 2.560s, finished at 2024-11-27T01:27:24+0000

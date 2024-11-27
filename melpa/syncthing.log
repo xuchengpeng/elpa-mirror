@@ -3,10 +3,10 @@ Fetcher: github
 Source:  https://github.com/KeyWeeUsr/emacs-syncthing
 
 Updating /mnt/store/melpa/working/syncthing/
-Checking out 725b2dac739c6dd03db0a03f49f3c1cbf9b336bd
+Checking out 70569dd11762125205015b0e59638c6b1683f0f5
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/syncthing/
-  to /tmp/syncthingcR2qoa/syncthing-20241121.2359
+  to /tmp/syncthingrCv1zS/syncthing-20241126.247
     syncthing-common.el -> syncthing-common.el
     syncthing-constants.el -> syncthing-constants.el
     syncthing-custom.el -> syncthing-custom.el
@@ -20,25 +20,27 @@ Copying files (->) and directories (=>)
     syncthing-themes.el -> syncthing-themes.el
     syncthing-update.el -> syncthing-update.el
     syncthing-watcher.el -> syncthing-watcher.el
+    syncthing-widgets.el -> syncthing-widgets.el
     syncthing.el -> syncthing.el
-Created syncthing-20241121.2359.tar containing:
-  syncthing-20241121.2359/
-  syncthing-20241121.2359/syncthing-common.el
-  syncthing-20241121.2359/syncthing-constants.el
-  syncthing-20241121.2359/syncthing-custom.el
-  syncthing-20241121.2359/syncthing-draw.el
-  syncthing-20241121.2359/syncthing-errors.el
-  syncthing-20241121.2359/syncthing-faces.el
-  syncthing-20241121.2359/syncthing-groups.el
-  syncthing-20241121.2359/syncthing-keyboard.el
-  syncthing-20241121.2359/syncthing-network.el
-  syncthing-20241121.2359/syncthing-pkg.el
-  syncthing-20241121.2359/syncthing-state.el
-  syncthing-20241121.2359/syncthing-themes.el
-  syncthing-20241121.2359/syncthing-update.el
-  syncthing-20241121.2359/syncthing-watcher.el
-  syncthing-20241121.2359/syncthing.el
+Created syncthing-20241126.247.tar containing:
+  syncthing-20241126.247/
+  syncthing-20241126.247/syncthing-common.el
+  syncthing-20241126.247/syncthing-constants.el
+  syncthing-20241126.247/syncthing-custom.el
+  syncthing-20241126.247/syncthing-draw.el
+  syncthing-20241126.247/syncthing-errors.el
+  syncthing-20241126.247/syncthing-faces.el
+  syncthing-20241126.247/syncthing-groups.el
+  syncthing-20241126.247/syncthing-keyboard.el
+  syncthing-20241126.247/syncthing-network.el
+  syncthing-20241126.247/syncthing-pkg.el
+  syncthing-20241126.247/syncthing-state.el
+  syncthing-20241126.247/syncthing-themes.el
+  syncthing-20241126.247/syncthing-update.el
+  syncthing-20241126.247/syncthing-watcher.el
+  syncthing-20241126.247/syncthing-widgets.el
+  syncthing-20241126.247/syncthing.el
  ✓ Success:
-  2024-11-25T00:30:51+0000  syncthing-20241121.2359.entry
-  2024-11-25T00:30:51+0000  syncthing-20241121.2359.tar
-Built syncthing in 3.081s, finished at 2024-11-25T00:30:52+0000
+  2024-11-27T01:29:36+0000  syncthing-20241126.247.entry
+  2024-11-27T01:29:36+0000  syncthing-20241126.247.tar
+Built syncthing in 3.150s, finished at 2024-11-27T01:29:36+0000
