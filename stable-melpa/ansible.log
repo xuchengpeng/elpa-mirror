@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/ansible/
 Checking out a005c70be00de6b8d45b51807fe1e049dd945fb3
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ansible/
-  to /tmp/ansiblexp0d8C/ansible-20241126.2044
+  to /tmp/ansible1vx6qb/ansible-20241126.2044
     ansible.el -> ansible.el
     snippets => snippets
     dict => dict
@@ -297,6 +297,6 @@ Created ansible-20241126.2044.tar containing:
   ansible-20241126.2044/snippets/yaml-mode/
   ansible-20241126.2044/snippets/yaml-mode/.yas-parents
  ✓ Success:
-  2024-11-27T00:30:36+0000  ansible-20241126.2044.entry
-  2024-11-27T00:30:36+0000  ansible-20241126.2044.tar
-Built ansible in 4.052s, finished at 2024-11-27T00:30:37+0000
+  2024-11-28T00:58:33+0000  ansible-20241126.2044.entry
+  2024-11-28T00:58:33+0000  ansible-20241126.2044.tar
+Built ansible in 4.020s, finished at 2024-11-28T00:58:34+0000

@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/ipe/
 Checking out 757a9c3bd7b2d1f803e7e83af1a07c1656f3ba1a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ipe/
-  to /tmp/ipejbyeqT/ipe-20241018.749
+  to /tmp/ipeF6cBs8/ipe-20241018.749
     ipe-char.el -> ipe-char.el
     ipe-compat.el -> ipe-compat.el
     ipe-core.el -> ipe-core.el
@@ -60,6 +60,6 @@ Created ipe-20241018.749.tar containing:
   ipe-20241018.749/ipe.el
   ipe-20241018.749/ipe.info
  ✓ Success:
-  2024-11-27T01:01:41+0000  ipe-20241018.749.entry
-  2024-11-27T01:01:41+0000  ipe-20241018.749.tar
-Built ipe in 5.836s, finished at 2024-11-27T01:01:42+0000
+  2024-11-28T01:30:03+0000  ipe-20241018.749.entry
+  2024-11-28T01:30:03+0000  ipe-20241018.749.tar
+Built ipe in 5.874s, finished at 2024-11-28T01:30:04+0000
