@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/ocaml-ppx/ocamlformat
 
 Updating /mnt/store/melpa/working/ocamlformat/
-Checking out 53254d6bee3ecb9c9e05e227e0ab79cb3c2966de
+Checking out 72cbfd716e619cb8ae3ae52cc0c5288eb2a2f2a8
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ocamlformat/
-  to /tmp/ocamlformatcBdRfV/ocamlformat-20241128.1008
+  to /tmp/ocamlformatC6IzEr/ocamlformat-20241129.1514
   ! emacs/ocamlformat.el -> ocamlformat.el
-Created ocamlformat-20241128.1008.tar containing:
-  ocamlformat-20241128.1008/
-  ocamlformat-20241128.1008/ocamlformat-pkg.el
-  ocamlformat-20241128.1008/ocamlformat.el
+Created ocamlformat-20241129.1514.tar containing:
+  ocamlformat-20241129.1514/
+  ocamlformat-20241129.1514/ocamlformat-pkg.el
+  ocamlformat-20241129.1514/ocamlformat.el
  ✓ Success:
-  2024-11-28T23:53:59+0000  ocamlformat-20241128.1008.entry
-  2024-11-28T23:53:59+0000  ocamlformat-20241128.1008.tar
-Built ocamlformat in 6.159s, finished at 2024-11-28T23:54:00+0000
+  2024-11-30T00:17:26+0000  ocamlformat-20241129.1514.entry
+  2024-11-30T00:17:26+0000  ocamlformat-20241129.1514.tar
+Built ocamlformat in 3.268s, finished at 2024-11-30T00:17:27+0000

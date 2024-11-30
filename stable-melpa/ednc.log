@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/sinic/ednc
 
 Updating /mnt/store/melpa/working/ednc/
-Checking out 2580ada68ecc93aa693c61f997c9cf581698242e
+Checking out e181e0bbf12b6516afba3785192d88432d8ebc6c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ednc/
-  to /tmp/ednc1xy9IN/ednc-20240209.2028
+  to /tmp/edncrWBOcK/ednc-20241129.1636
     ednc.el -> ednc.el
-Created ednc-20240209.2028.tar containing:
-  ednc-20240209.2028/
-  ednc-20240209.2028/ednc-pkg.el
-  ednc-20240209.2028/ednc.el
+Created ednc-20241129.1636.tar containing:
+  ednc-20241129.1636/
+  ednc-20241129.1636/ednc-pkg.el
+  ednc-20241129.1636/ednc.el
  ✓ Success:
-  2024-11-29T01:37:25+0000  ednc-20240209.2028.entry
-  2024-11-29T01:37:25+0000  ednc-20240209.2028.tar
-Built ednc in 2.622s, finished at 2024-11-29T01:37:26+0000
+  2024-11-29T23:47:46+0000  ednc-20241129.1636.entry
+  2024-11-29T23:47:46+0000  ednc-20241129.1636.tar
+Built ednc in 2.774s, finished at 2024-11-29T23:47:46+0000

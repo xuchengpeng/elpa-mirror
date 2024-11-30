@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/winds/
 Checking out 5827e890059d0ce67ebb4779da63c15afccf0973
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/winds/
-  to /tmp/windsRS5Nfz/winds-20201121.123
+  to /tmp/windsDFFgs8/winds-20201121.123
     winds.el -> winds.el
 Created winds-20201121.123.tar containing:
   winds-20201121.123/
   winds-20201121.123/winds-pkg.el
   winds-20201121.123/winds.el
  ✓ Success:
-  2024-11-29T00:15:43+0000  winds-20201121.123.entry
-  2024-11-29T00:15:43+0000  winds-20201121.123.tar
-Built winds in 2.512s, finished at 2024-11-29T00:15:44+0000
+  2024-11-30T00:39:21+0000  winds-20201121.123.entry
+  2024-11-30T00:39:21+0000  winds-20201121.123.tar
+Built winds in 4.080s, finished at 2024-11-30T00:39:23+0000
