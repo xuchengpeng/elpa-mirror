@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/vue-mode/
 Checking out 3a8056bc6ea6458265efb91067c7467860d2c118
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/vue-mode/
-  to /tmp/vue-mode0MaY6h/vue-mode-20240101.333
+  to /tmp/vue-modeFg1F1Y/vue-mode-20240101.333
     vue-mode.el -> vue-mode.el
 Created vue-mode-20240101.333.tar containing:
   vue-mode-20240101.333/
   vue-mode-20240101.333/vue-mode-pkg.el
   vue-mode-20240101.333/vue-mode.el
  ✓ Success:
-  2024-11-30T00:38:08+0000  vue-mode-20240101.333.entry
-  2024-11-30T00:38:08+0000  vue-mode-20240101.333.tar
-Built vue-mode in 2.698s, finished at 2024-11-30T00:38:09+0000
+  2024-12-01T01:08:10+0000  vue-mode-20240101.333.entry
+  2024-12-01T01:08:10+0000  vue-mode-20240101.333.tar
+Built vue-mode in 3.888s, finished at 2024-12-01T01:08:12+0000

@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/geiser-chez/
 Checking out 605a81ff7b2d2b275a3ec68e3ce7e5b50f85014d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/geiser-chez/
-  to /tmp/geiser-chezNvrq0E/geiser-chez-20230707.1334
+  to /tmp/geiser-chezE37ck2/geiser-chez-20230707.1334
     geiser-chez.el -> geiser-chez.el
     src/geiser => src/geiser
 Created geiser-chez-20230707.1334.tar containing:
@@ -19,6 +19,6 @@ Created geiser-chez-20230707.1334.tar containing:
   geiser-chez-20230707.1334/src/geiser/geiser.ss
   geiser-chez-20230707.1334/src/geiser/test.ss
  ✓ Success:
-  2024-11-29T23:58:01+0000  geiser-chez-20230707.1334.entry
-  2024-11-29T23:58:01+0000  geiser-chez-20230707.1334.tar
-Built geiser-chez in 2.821s, finished at 2024-11-29T23:58:02+0000
+  2024-12-01T00:27:57+0000  geiser-chez-20230707.1334.entry
+  2024-12-01T00:27:57+0000  geiser-chez-20230707.1334.tar
+Built geiser-chez in 2.756s, finished at 2024-12-01T00:27:57+0000

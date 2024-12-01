@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/which-key/
 Checking out ed389312170df955aaf10c2e120cc533ed5c509e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/which-key/
-  to /tmp/which-keyg0lvA9/which-key-20240620.2145
+  to /tmp/which-key3zqUkY/which-key-20240620.2145
     which-key.el -> which-key.el
 Created which-key-20240620.2145.tar containing:
   which-key-20240620.2145/
   which-key-20240620.2145/which-key-pkg.el
   which-key-20240620.2145/which-key.el
  ✓ Success:
-  2024-11-30T00:38:53+0000  which-key-20240620.2145.entry
-  2024-11-30T00:38:52+0000  which-key-20240620.2145.tar
-Built which-key in 4.622s, finished at 2024-11-30T00:38:54+0000
+  2024-12-01T01:09:02+0000  which-key-20240620.2145.entry
+  2024-12-01T01:09:01+0000  which-key-20240620.2145.tar
+Built which-key in 3.178s, finished at 2024-12-01T01:09:02+0000

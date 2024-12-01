@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/emacs-sideline/sideline-lsp
 
 Updating /mnt/store/melpa/working/sideline-lsp/
-Checking out 69aca6403509abb4f5c5ba8499e98f80f81ebc88
+Checking out 96fd13fa94fc7abfe84dbf1c966cdfe1b5273d94
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/sideline-lsp/
-  to /tmp/sideline-lspud1yQm/sideline-lsp-20240403.2210
+  to /tmp/sideline-lsppR8PEA/sideline-lsp-20241130.1119
     sideline-lsp.el -> sideline-lsp.el
-Created sideline-lsp-20240403.2210.tar containing:
-  sideline-lsp-20240403.2210/
-  sideline-lsp-20240403.2210/sideline-lsp-pkg.el
-  sideline-lsp-20240403.2210/sideline-lsp.el
+Created sideline-lsp-20241130.1119.tar containing:
+  sideline-lsp-20241130.1119/
+  sideline-lsp-20241130.1119/sideline-lsp-pkg.el
+  sideline-lsp-20241130.1119/sideline-lsp.el
  ✓ Success:
-  2024-11-30T00:30:24+0000  sideline-lsp-20240403.2210.entry
-  2024-11-30T00:30:24+0000  sideline-lsp-20240403.2210.tar
-Built sideline-lsp in 3.110s, finished at 2024-11-30T00:30:25+0000
+  2024-12-01T01:00:00+0000  sideline-lsp-20241130.1119.entry
+  2024-12-01T01:00:00+0000  sideline-lsp-20241130.1119.tar
+Built sideline-lsp in 3.097s, finished at 2024-12-01T01:00:01+0000
