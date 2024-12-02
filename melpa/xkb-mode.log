@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/xkb-mode/
 Checking out b1de5233dc12749a97ad6a63d86b921bf1e33d3b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/xkb-mode/
-  to /tmp/xkb-moderuTKeV/xkb-mode-20240506.904
+  to /tmp/xkb-modesek6m3/xkb-mode-20240506.904
     xkb-mode.el -> xkb-mode.el
 Created xkb-mode-20240506.904.tar containing:
   xkb-mode-20240506.904/
   xkb-mode-20240506.904/xkb-mode-pkg.el
   xkb-mode-20240506.904/xkb-mode.el
  ✓ Success:
-  2024-12-01T01:09:56+0000  xkb-mode-20240506.904.entry
-  2024-12-01T01:09:56+0000  xkb-mode-20240506.904.tar
-Built xkb-mode in 2.587s, finished at 2024-12-01T01:09:57+0000
+  2024-12-02T01:32:41+0000  xkb-mode-20240506.904.entry
+  2024-12-02T01:32:41+0000  xkb-mode-20240506.904.tar
+Built xkb-mode in 2.699s, finished at 2024-12-02T01:32:42+0000

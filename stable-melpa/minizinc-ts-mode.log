@@ -1,0 +1,20 @@
+Package: minizinc-ts-mode
+Fetcher: github
+Source:  https://github.com/AjaiKN/minizinc-ts-mode
+
+Updating /mnt/store/melpa/working/minizinc-ts-mode/
+Checking out 0587165602bcf8c6ab768be9cfdc5465d1f1febd
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/minizinc-ts-mode/
+  to /tmp/minizinc-ts-modeVkNdDp/minizinc-ts-mode-20241202.17
+    minizinc-ts-mode.el -> minizinc-ts-mode.el
+Created minizinc-ts-mode-20241202.17.tar containing:
+  minizinc-ts-mode-20241202.17/
+  minizinc-ts-mode-20241202.17/minizinc-ts-mode-pkg.el
+  minizinc-ts-mode-20241202.17/minizinc-ts-mode.el
+ ✓ Success:
+  2024-12-01T22:52:30+0000  minizinc-ts-mode-20241126.1730.entry
+  2024-12-01T22:52:30+0000  minizinc-ts-mode-20241126.1730.tar
+  2024-12-02T01:06:04+0000  minizinc-ts-mode-20241202.17.entry
+  2024-12-02T01:06:04+0000  minizinc-ts-mode-20241202.17.tar
+Built minizinc-ts-mode in 2.924s, finished at 2024-12-02T01:06:05+0000

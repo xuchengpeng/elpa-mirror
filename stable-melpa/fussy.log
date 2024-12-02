@@ -3,18 +3,18 @@ Fetcher: github
 Source:  https://github.com/jojojames/fussy
 
 Updating /mnt/store/melpa/working/fussy/
-Checking out 94fd2439a7e1c9a2991cc9feca754e758f1f7550
+Checking out 5c8165619f4c94f7f620df69ab67d7d5bcd15501
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/fussy/
-  to /tmp/fussyn264WL/fussy-20241130.2248
+  to /tmp/fussyjpKvSH/fussy-20241202.6
     fussy.el -> fussy.el
-Created fussy-20241130.2248.tar containing:
-  fussy-20241130.2248/
-  fussy-20241130.2248/fussy-pkg.el
-  fussy-20241130.2248/fussy.el
+Created fussy-20241202.6.tar containing:
+  fussy-20241202.6/
+  fussy-20241202.6/fussy-pkg.el
+  fussy-20241202.6/fussy.el
  ✓ Success:
-  2024-11-30T22:14:49+0000  fussy-20241130.2157.entry
-  2024-11-30T22:14:49+0000  fussy-20241130.2157.tar
-  2024-12-01T00:27:41+0000  fussy-20241130.2248.entry
-  2024-12-01T00:27:41+0000  fussy-20241130.2248.tar
-Built fussy in 2.842s, finished at 2024-12-01T00:27:42+0000
+  2024-12-01T22:36:46+0000  fussy-20241201.2012.entry
+  2024-12-01T22:36:46+0000  fussy-20241201.2012.tar
+  2024-12-02T00:50:10+0000  fussy-20241202.6.entry
+  2024-12-02T00:50:10+0000  fussy-20241202.6.tar
+Built fussy in 2.929s, finished at 2024-12-02T00:50:11+0000

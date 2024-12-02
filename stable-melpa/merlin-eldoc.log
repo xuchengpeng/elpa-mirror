@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/merlin-eldoc/
 Checking out bf8edc63d85b35e4def352fa7ce4ea39f43e1fd8
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/merlin-eldoc/
-  to /tmp/merlin-eldocVwGAiH/merlin-eldoc-20230213.555
+  to /tmp/merlin-eldoccyjqG8/merlin-eldoc-20230213.555
     merlin-eldoc.el -> merlin-eldoc.el
 Created merlin-eldoc-20230213.555.tar containing:
   merlin-eldoc-20230213.555/
   merlin-eldoc-20230213.555/merlin-eldoc-pkg.el
   merlin-eldoc-20230213.555/merlin-eldoc.el
  ✓ Success:
-  2024-12-01T00:42:34+0000  merlin-eldoc-20230213.555.entry
-  2024-12-01T00:42:34+0000  merlin-eldoc-20230213.555.tar
-Built merlin-eldoc in 3.116s, finished at 2024-12-01T00:42:35+0000
+  2024-12-02T01:05:27+0000  merlin-eldoc-20230213.555.entry
+  2024-12-02T01:05:27+0000  merlin-eldoc-20230213.555.tar
+Built merlin-eldoc in 3.333s, finished at 2024-12-02T01:05:28+0000

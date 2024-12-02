@@ -3,20 +3,20 @@ Fetcher: github
 Source:  https://github.com/magit/with-editor
 
 Updating /mnt/store/melpa/working/with-editor/
-Checking out 57f20bdb0d50256acdd12019aaa42b609204699b
+Checking out ca902ae02972bdd6919a902be2593d8cb6bd991b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/with-editor/
-  to /tmp/with-editorWg035d/with-editor-20241123.2137
+  to /tmp/with-editorCbi3vl/with-editor-20241201.1419
   ! lisp/with-editor.el -> with-editor.el
   ! docs/with-editor.texi -> with-editor.texi
 Generating with-editor.info
-Created with-editor-20241123.2137.tar containing:
-  with-editor-20241123.2137/
-  with-editor-20241123.2137/dir
-  with-editor-20241123.2137/with-editor-pkg.el
-  with-editor-20241123.2137/with-editor.el
-  with-editor-20241123.2137/with-editor.info
+Created with-editor-20241201.1419.tar containing:
+  with-editor-20241201.1419/
+  with-editor-20241201.1419/dir
+  with-editor-20241201.1419/with-editor-pkg.el
+  with-editor-20241201.1419/with-editor.el
+  with-editor-20241201.1419/with-editor.info
  ✓ Success:
-  2024-12-01T01:09:26+0000  with-editor-20241123.2137.entry
-  2024-12-01T01:09:26+0000  with-editor-20241123.2137.tar
-Built with-editor in 3.738s, finished at 2024-12-01T01:09:27+0000
+  2024-12-02T01:31:57+0000  with-editor-20241201.1419.entry
+  2024-12-02T01:31:56+0000  with-editor-20241201.1419.tar
+Built with-editor in 3.918s, finished at 2024-12-02T01:31:57+0000
