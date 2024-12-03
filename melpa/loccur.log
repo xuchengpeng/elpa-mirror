@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/loccur/
 Checking out f47c53a24a9d262898517c71284337821dad7ea9
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/loccur/
-  to /tmp/loccur31miBz/loccur-20240610.1830
+  to /tmp/loccurOg7U7Y/loccur-20240610.1830
     loccur.el -> loccur.el
 Created loccur-20240610.1830.tar containing:
   loccur-20240610.1830/
   loccur-20240610.1830/loccur-pkg.el
   loccur-20240610.1830/loccur.el
  ✓ Success:
-  2024-12-02T01:03:06+0000  loccur-20240610.1830.entry
-  2024-12-02T01:03:06+0000  loccur-20240610.1830.tar
-Built loccur in 3.394s, finished at 2024-12-02T01:03:07+0000
+  2024-12-03T01:37:51+0000  loccur-20240610.1830.entry
+  2024-12-03T01:37:51+0000  loccur-20240610.1830.tar
+Built loccur in 3.617s, finished at 2024-12-03T01:37:52+0000
