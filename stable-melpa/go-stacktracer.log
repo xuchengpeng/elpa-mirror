@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/go-stacktracer/
 Checking out a2ac6d801b389f80ca4e2fcc1ab44513a9e55976
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/go-stacktracer/
-  to /tmp/go-stacktracerXf97Nq/go-stacktracer-20150430.2142
+  to /tmp/go-stacktracerdTkpzu/go-stacktracer-20150430.2142
     go-stacktracer.el -> go-stacktracer.el
 Created go-stacktracer-20150430.2142.tar containing:
   go-stacktracer-20150430.2142/
   go-stacktracer-20150430.2142/go-stacktracer-pkg.el
   go-stacktracer-20150430.2142/go-stacktracer.el
  ✓ Success:
-  2024-12-03T01:27:08+0000  go-stacktracer-20150430.2142.entry
-  2024-12-03T01:27:08+0000  go-stacktracer-20150430.2142.tar
-Built go-stacktracer in 2.373s, finished at 2024-12-03T01:27:09+0000
+  2024-12-03T23:49:01+0000  go-stacktracer-20150430.2142.entry
+  2024-12-03T23:49:01+0000  go-stacktracer-20150430.2142.tar
+Built go-stacktracer in 2.486s, finished at 2024-12-03T23:49:02+0000

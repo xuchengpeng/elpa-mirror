@@ -1,0 +1,18 @@
+Package: morlock
+Fetcher: github
+Source:  https://github.com/tarsius/morlock
+
+Updating /mnt/store/melpa/working/morlock/
+Checking out cd349e401fd55ce2eab21fb02474ae8aeee39252
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/morlock/
+  to /tmp/morlockIWgBSr/morlock-20241001.1022
+    morlock.el -> morlock.el
+Created morlock-20241001.1022.tar containing:
+  morlock-20241001.1022/
+  morlock-20241001.1022/morlock-pkg.el
+  morlock-20241001.1022/morlock.el
+ ✓ Success:
+  2024-12-04T00:03:30+0000  morlock-20241001.1022.entry
+  2024-12-04T00:03:30+0000  morlock-20241001.1022.tar
+Built morlock in 2.536s, finished at 2024-12-04T00:03:31+0000
