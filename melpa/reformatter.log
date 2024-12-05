@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/purcell/emacs-reformatter
 
 Updating /mnt/store/melpa/working/reformatter/
-Checking out 155b235f6c76f2f5790aa53798c7a7e36ce5aded
+Checking out f2cb59466b1c3f85a8c960f7d4b7b7ead015bedc
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/reformatter/
-  to /tmp/reformatterOiXwgn/reformatter-20240906.1405
+  to /tmp/reformatterIZa4Pq/reformatter-20241204.1051
     reformatter.el -> reformatter.el
-Created reformatter-20240906.1405.tar containing:
-  reformatter-20240906.1405/
-  reformatter-20240906.1405/reformatter-pkg.el
-  reformatter-20240906.1405/reformatter.el
+Created reformatter-20241204.1051.tar containing:
+  reformatter-20241204.1051/
+  reformatter-20241204.1051/reformatter-pkg.el
+  reformatter-20241204.1051/reformatter.el
  ✓ Success:
-  2024-12-04T00:16:51+0000  reformatter-20240906.1405.entry
-  2024-12-04T00:16:51+0000  reformatter-20240906.1405.tar
-Built reformatter in 2.845s, finished at 2024-12-04T00:16:52+0000
+  2024-12-04T23:24:36+0000  reformatter-20241204.1051.entry
+  2024-12-04T23:24:36+0000  reformatter-20241204.1051.tar
+Built reformatter in 2.418s, finished at 2024-12-04T23:24:36+0000
