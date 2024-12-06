@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/localauthor/zk
 
 Updating /mnt/store/melpa/working/zk/
-Checking out 8e361577b8cf01f20a65222ca4ce90720a3d74a6
+Checking out 2bd80f73485927a081d06a754d7f299b1350c5e7
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/zk/
-  to /tmp/zkQ67KIz/zk-20240926.1826
+  to /tmp/zkbtPNPY/zk-20241205.926
     zk.el -> zk.el
-Created zk-20240926.1826.tar containing:
-  zk-20240926.1826/
-  zk-20240926.1826/zk-pkg.el
-  zk-20240926.1826/zk.el
+Created zk-20241205.926.tar containing:
+  zk-20241205.926/
+  zk-20241205.926/zk-pkg.el
+  zk-20241205.926/zk.el
  ✓ Success:
-  2024-12-04T23:38:54+0000  zk-20240926.1826.entry
-  2024-12-04T23:38:54+0000  zk-20240926.1826.tar
-Built zk in 2.667s, finished at 2024-12-04T23:38:54+0000
+  2024-12-05T23:52:39+0000  zk-20241205.926.entry
+  2024-12-05T23:52:39+0000  zk-20241205.926.tar
+Built zk in 2.626s, finished at 2024-12-05T23:52:39+0000
