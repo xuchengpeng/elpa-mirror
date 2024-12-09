@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/terraform-doc/
 Checking out 26a6674fcf6f16e4865ff5e6600bb273fdc77779
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/terraform-doc/
-  to /tmp/terraform-docRr4h53/terraform-doc-20240714.418
+  to /tmp/terraform-doc0d4yre/terraform-doc-20240714.418
     terraform-doc.el -> terraform-doc.el
 Created terraform-doc-20240714.418.tar containing:
   terraform-doc-20240714.418/
   terraform-doc-20240714.418/terraform-doc-pkg.el
   terraform-doc-20240714.418/terraform-doc.el
  ✓ Success:
-  2024-12-06T23:55:51+0000  terraform-doc-20240714.418.entry
-  2024-12-06T23:55:51+0000  terraform-doc-20240714.418.tar
-Built terraform-doc in 1.800s, finished at 2024-12-06T23:55:52+0000
+  2024-12-09T00:06:23+0000  terraform-doc-20240714.418.entry
+  2024-12-09T00:06:23+0000  terraform-doc-20240714.418.tar
+Built terraform-doc in 1.881s, finished at 2024-12-09T00:06:23+0000
