@@ -3,18 +3,16 @@ Fetcher: github
 Source:  https://github.com/aurtzy/disproject
 
 Updating /mnt/store/melpa/working/disproject/
-Checking out 2a6b7abafdfbf8d4021bd9ab81ae45aa25980fed
+Checking out 58255e2148816f313b67f511fb005c467e29096a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/disproject/
-  to /tmp/disprojectB5HCfx/disproject-20241209.2213
+  to /tmp/disprojectDOiY0w/disproject-20241211.2257
     disproject.el -> disproject.el
-Created disproject-20241209.2213.tar containing:
-  disproject-20241209.2213/
-  disproject-20241209.2213/disproject-pkg.el
-  disproject-20241209.2213/disproject.el
+Created disproject-20241211.2257.tar containing:
+  disproject-20241211.2257/
+  disproject-20241211.2257/disproject-pkg.el
+  disproject-20241211.2257/disproject.el
  ✓ Success:
-  2024-12-09T22:19:42+0000  disproject-20241209.1840.entry
-  2024-12-09T22:19:42+0000  disproject-20241209.1840.tar
-  2024-12-10T00:45:28+0000  disproject-20241209.2213.entry
-  2024-12-10T00:45:28+0000  disproject-20241209.2213.tar
-Built disproject in 0.981s, finished at 2024-12-10T00:45:28+0000
+  2024-12-12T01:35:02+0000  disproject-20241211.2257.entry
+  2024-12-12T01:35:02+0000  disproject-20241211.2257.tar
+Built disproject in 0.876s, finished at 2024-12-12T01:35:02+0000

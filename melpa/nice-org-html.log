@@ -3,20 +3,20 @@ Fetcher: github
 Source:  https://github.com/ewantown/nice-org-html
 
 Updating /mnt/store/melpa/working/nice-org-html/
-Checking out 3b23a6858bdc2459b3abaf4245b0d949a46bdea5
+Checking out 3cba504bab70a10a5ff63a10efa2bf26c91b1937
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/nice-org-html/
-  to /tmp/nice-org-htmlEn8XS6/nice-org-html-20241204.212
+  to /tmp/nice-org-htmlYUUpce/nice-org-html-20241211.1001
   ! code/nice-org-html.el -> nice-org-html.el
   ! code/nice-org-html.css -> nice-org-html.css
   ! code/nice-org-html.js -> nice-org-html.js
-Created nice-org-html-20241204.212.tar containing:
-  nice-org-html-20241204.212/
-  nice-org-html-20241204.212/nice-org-html-pkg.el
-  nice-org-html-20241204.212/nice-org-html.css
-  nice-org-html-20241204.212/nice-org-html.el
-  nice-org-html-20241204.212/nice-org-html.js
+Created nice-org-html-20241211.1001.tar containing:
+  nice-org-html-20241211.1001/
+  nice-org-html-20241211.1001/nice-org-html-pkg.el
+  nice-org-html-20241211.1001/nice-org-html.css
+  nice-org-html-20241211.1001/nice-org-html.el
+  nice-org-html-20241211.1001/nice-org-html.js
  ✓ Success:
-  2024-12-10T01:17:22+0000  nice-org-html-20241204.212.entry
-  2024-12-10T01:17:22+0000  nice-org-html-20241204.212.tar
-Built nice-org-html in 2.382s, finished at 2024-12-10T01:17:23+0000
+  2024-12-11T23:40:30+0000  nice-org-html-20241211.1001.entry
+  2024-12-11T23:40:30+0000  nice-org-html-20241211.1001.tar
+Built nice-org-html in 2.785s, finished at 2024-12-11T23:40:31+0000

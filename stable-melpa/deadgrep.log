@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/Wilfred/deadgrep
 
 Updating /mnt/store/melpa/working/deadgrep/
-Checking out d89468d82abb778ef0938c5753be4498d5802a10
+Checking out bb555790c6f404572d537e1e4adec8b4ff0515f5
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/deadgrep/
-  to /tmp/deadgrepzY0C6h/deadgrep-20241130.2235
+  to /tmp/deadgrepz1rcjl/deadgrep-20241210.1630
     deadgrep.el -> deadgrep.el
-Created deadgrep-20241130.2235.tar containing:
-  deadgrep-20241130.2235/
-  deadgrep-20241130.2235/deadgrep-pkg.el
-  deadgrep-20241130.2235/deadgrep.el
+Created deadgrep-20241210.1630.tar containing:
+  deadgrep-20241210.1630/
+  deadgrep-20241210.1630/deadgrep-pkg.el
+  deadgrep-20241210.1630/deadgrep.el
  ✓ Success:
-  2024-12-10T00:44:00+0000  deadgrep-20241130.2235.entry
-  2024-12-10T00:44:00+0000  deadgrep-20241130.2235.tar
-Built deadgrep in 1.903s, finished at 2024-12-10T00:44:01+0000
+  2024-12-12T01:33:23+0000  deadgrep-20241210.1630.entry
+  2024-12-12T01:33:23+0000  deadgrep-20241210.1630.tar
+Built deadgrep in 3.029s, finished at 2024-12-12T01:33:24+0000
