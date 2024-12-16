@@ -1,0 +1,18 @@
+Package: hindu-calendar
+Fetcher: github
+Source:  https://github.com/bdsatish/hindu-calendar
+
+Updating /mnt/store/melpa/working/hindu-calendar/
+Checking out d17fb0101467e134bff8d88ed649458373f680de
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/hindu-calendar/
+  to /tmp/hindu-calendar8Cqikm/hindu-calendar-20241215.2114
+    hindu-calendar.el -> hindu-calendar.el
+Created hindu-calendar-20241215.2114.tar containing:
+  hindu-calendar-20241215.2114/
+  hindu-calendar-20241215.2114/hindu-calendar-pkg.el
+  hindu-calendar-20241215.2114/hindu-calendar.el
+ ✓ Success:
+  2024-12-16T00:37:58+0000  hindu-calendar-20241215.2114.entry
+  2024-12-16T00:37:58+0000  hindu-calendar-20241215.2114.tar
+Built hindu-calendar in 3.848s, finished at 2024-12-16T00:37:59+0000

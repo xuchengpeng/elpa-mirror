@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/lsp-ivy/
 Checking out 553276f3c8a6bc15859a9be666b0a50af65e9bc6
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/lsp-ivy/
-  to /tmp/lsp-ivyCSEb88/lsp-ivy-20241119.1452
+  to /tmp/lsp-ivy4BIPHE/lsp-ivy-20241119.1452
     lsp-ivy.el -> lsp-ivy.el
 Created lsp-ivy-20241119.1452.tar containing:
   lsp-ivy-20241119.1452/
   lsp-ivy-20241119.1452/lsp-ivy-pkg.el
   lsp-ivy-20241119.1452/lsp-ivy.el
  ✓ Success:
-  2024-12-14T00:23:29+0000  lsp-ivy-20241119.1452.entry
-  2024-12-14T00:23:29+0000  lsp-ivy-20241119.1452.tar
-Built lsp-ivy in 2.818s, finished at 2024-12-14T00:23:30+0000
+  2024-12-16T00:45:08+0000  lsp-ivy-20241119.1452.entry
+  2024-12-16T00:45:08+0000  lsp-ivy-20241119.1452.tar
+Built lsp-ivy in 4.067s, finished at 2024-12-16T00:45:09+0000

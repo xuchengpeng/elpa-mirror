@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/ob-crystal/
 Checking out b3bb27a21a4cefef3f5aeef52718b694bd51245b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ob-crystal/
-  to /tmp/ob-crystalJPWqVt/ob-crystal-20180126.718
+  to /tmp/ob-crystalT0fWLz/ob-crystal-20180126.718
     ob-crystal.el -> ob-crystal.el
     test-ob-crystal.el -> test-ob-crystal.el
 Created ob-crystal-20180126.718.tar containing:
@@ -15,6 +15,6 @@ Created ob-crystal-20180126.718.tar containing:
   ob-crystal-20180126.718/ob-crystal.el
   ob-crystal-20180126.718/test-ob-crystal.el
  ✓ Success:
-  2024-12-14T00:29:11+0000  ob-crystal-20180126.718.entry
-  2024-12-14T00:29:11+0000  ob-crystal-20180126.718.tar
-Built ob-crystal in 2.071s, finished at 2024-12-14T00:29:12+0000
+  2024-12-16T00:50:51+0000  ob-crystal-20180126.718.entry
+  2024-12-16T00:50:51+0000  ob-crystal-20180126.718.tar
+Built ob-crystal in 3.221s, finished at 2024-12-16T00:50:52+0000

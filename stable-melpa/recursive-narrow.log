@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/recursive-narrow/
 Checking out 5e3e2067d5a148d7e64e64e0355d3b6860e4c259
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/recursive-narrow/
-  to /tmp/recursive-narrowPrG0oi/recursive-narrow-20190306.1521
+  to /tmp/recursive-narrowVYMA2n/recursive-narrow-20190306.1521
     recursive-narrow.el -> recursive-narrow.el
 Created recursive-narrow-20190306.1521.tar containing:
   recursive-narrow-20190306.1521/
   recursive-narrow-20190306.1521/recursive-narrow-pkg.el
   recursive-narrow-20190306.1521/recursive-narrow.el
  ✓ Success:
-  2024-12-14T00:40:43+0000  recursive-narrow-20190306.1521.entry
-  2024-12-14T00:40:43+0000  recursive-narrow-20190306.1521.tar
-Built recursive-narrow in 2.247s, finished at 2024-12-14T00:40:44+0000
+  2024-12-16T01:03:04+0000  recursive-narrow-20190306.1521.entry
+  2024-12-16T01:03:04+0000  recursive-narrow-20190306.1521.tar
+Built recursive-narrow in 2.402s, finished at 2024-12-16T01:03:05+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/lsp-grammarly/
 Checking out 39deb23b282785eaffc6ae17838c92c613a49315
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/lsp-grammarly/
-  to /tmp/lsp-grammarlylqvR3d/lsp-grammarly-20240229.115
+  to /tmp/lsp-grammarlyuVF5q1/lsp-grammarly-20240229.115
     lsp-grammarly.el -> lsp-grammarly.el
 Created lsp-grammarly-20240229.115.tar containing:
   lsp-grammarly-20240229.115/
   lsp-grammarly-20240229.115/lsp-grammarly-pkg.el
   lsp-grammarly-20240229.115/lsp-grammarly.el
  ✓ Success:
-  2024-12-14T00:23:27+0000  lsp-grammarly-20240229.115.entry
-  2024-12-14T00:23:27+0000  lsp-grammarly-20240229.115.tar
-Built lsp-grammarly in 2.450s, finished at 2024-12-14T00:23:28+0000
+  2024-12-16T00:45:05+0000  lsp-grammarly-20240229.115.entry
+  2024-12-16T00:45:05+0000  lsp-grammarly-20240229.115.tar
+Built lsp-grammarly in 3.847s, finished at 2024-12-16T00:45:07+0000
