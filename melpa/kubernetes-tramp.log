@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/kubernetes-tramp/
 Checking out 8713571b66940f8f3f496b55baa23cdf1df7a869
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/kubernetes-tramp/
-  to /tmp/kubernetes-trampEC2JwC/kubernetes-tramp-20181228.922
+  to /tmp/kubernetes-trampv8SHM6/kubernetes-tramp-20181228.922
     kubernetes-tramp.el -> kubernetes-tramp.el
 Created kubernetes-tramp-20181228.922.tar containing:
   kubernetes-tramp-20181228.922/
   kubernetes-tramp-20181228.922/kubernetes-tramp-pkg.el
   kubernetes-tramp-20181228.922/kubernetes-tramp.el
  ✓ Success:
-  2024-12-16T00:43:12+0000  kubernetes-tramp-20181228.922.entry
-  2024-12-16T00:43:11+0000  kubernetes-tramp-20181228.922.tar
-Built kubernetes-tramp in 2.657s, finished at 2024-12-16T00:43:12+0000
+  2024-12-17T01:00:59+0000  kubernetes-tramp-20181228.922.entry
+  2024-12-17T01:00:59+0000  kubernetes-tramp-20181228.922.tar
+Built kubernetes-tramp in 2.793s, finished at 2024-12-17T01:01:00+0000

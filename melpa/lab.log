@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/lab/
 Checking out 193eb6b74f4c60c455cae276d3881668383b21fc
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/lab/
-  to /tmp/labCRaTgR/lab-20241004.818
+  to /tmp/labs37AcA/lab-20241004.818
     lab.el -> lab.el
 Created lab-20241004.818.tar containing:
   lab-20241004.818/
   lab-20241004.818/lab-pkg.el
   lab-20241004.818/lab.el
  ✓ Success:
-  2024-12-16T00:43:15+0000  lab-20241004.818.entry
-  2024-12-16T00:43:15+0000  lab-20241004.818.tar
-Built lab in 3.132s, finished at 2024-12-16T00:43:16+0000
+  2024-12-17T01:01:02+0000  lab-20241004.818.entry
+  2024-12-17T01:01:02+0000  lab-20241004.818.tar
+Built lab in 3.195s, finished at 2024-12-17T01:01:03+0000

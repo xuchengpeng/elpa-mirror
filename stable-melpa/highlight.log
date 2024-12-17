@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/highlight/
 Checking out 28557cb8d99b96eb509aaec1334c7cdda162517f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/highlight/
-  to /tmp/highlightldj7wB/highlight-20210318.2248
+  to /tmp/highlightIMMXr2/highlight-20210318.2248
     highlight.el -> highlight.el
 Created highlight-20210318.2248.tar containing:
   highlight-20210318.2248/
   highlight-20210318.2248/highlight-pkg.el
   highlight-20210318.2248/highlight.el
  ✓ Success:
-  2024-12-16T00:37:35+0000  highlight-20210318.2248.entry
-  2024-12-16T00:37:35+0000  highlight-20210318.2248.tar
-Built highlight in 2.822s, finished at 2024-12-16T00:37:36+0000
+  2024-12-17T00:55:25+0000  highlight-20210318.2248.entry
+  2024-12-17T00:55:25+0000  highlight-20210318.2248.tar
+Built highlight in 2.755s, finished at 2024-12-17T00:55:26+0000

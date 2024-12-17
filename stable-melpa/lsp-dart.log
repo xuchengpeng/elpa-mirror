@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/lsp-dart/
 Checking out 7e3d3429418bc42cda7fa7b58e6644a705cf2f89
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/lsp-dart/
-  to /tmp/lsp-dart7Jyy7C/lsp-dart-20241114.2005
+  to /tmp/lsp-dart8Qml4G/lsp-dart-20241114.2005
     lsp-dart-closing-labels.el -> lsp-dart-closing-labels.el
     lsp-dart-code-lens.el -> lsp-dart-code-lens.el
     lsp-dart-commands.el -> lsp-dart-commands.el
@@ -43,6 +43,6 @@ Created lsp-dart-20241114.2005.tar containing:
   lsp-dart-20241114.2005/lsp-dart-utils.el
   lsp-dart-20241114.2005/lsp-dart.el
  ✓ Success:
-  2024-12-16T00:45:04+0000  lsp-dart-20241114.2005.entry
-  2024-12-16T00:45:04+0000  lsp-dart-20241114.2005.tar
-Built lsp-dart in 4.748s, finished at 2024-12-16T00:45:05+0000
+  2024-12-17T01:03:19+0000  lsp-dart-20241114.2005.entry
+  2024-12-17T01:03:19+0000  lsp-dart-20241114.2005.tar
+Built lsp-dart in 3.176s, finished at 2024-12-17T01:03:20+0000

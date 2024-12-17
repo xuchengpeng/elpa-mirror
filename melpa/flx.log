@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/flx/
 Checking out 4b1346eb9a8a76ee9c9dede69738c63ad97ac5b6
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/flx/
-  to /tmp/flx1ZQ3eH/flx-20240205.356
+  to /tmp/flxA0CFsG/flx-20240205.356
     flx.el -> flx.el
 Created flx-20240205.356.tar containing:
   flx-20240205.356/
   flx-20240205.356/flx-pkg.el
   flx-20240205.356/flx.el
  ✓ Success:
-  2024-12-16T00:29:10+0000  flx-20240205.356.entry
-  2024-12-16T00:29:10+0000  flx-20240205.356.tar
-Built flx in 2.807s, finished at 2024-12-16T00:29:11+0000
+  2024-12-17T00:46:58+0000  flx-20240205.356.entry
+  2024-12-17T00:46:58+0000  flx-20240205.356.tar
+Built flx in 2.709s, finished at 2024-12-17T00:46:59+0000

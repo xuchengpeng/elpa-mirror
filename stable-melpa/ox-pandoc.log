@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/ox-pandoc/
 Checking out 34e6ea97b586e20529d07158a73af3cf33cdd1d5
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ox-pandoc/
-  to /tmp/ox-pandoc1YzSF0/ox-pandoc-20240710.1424
+  to /tmp/ox-pandochyE7ok/ox-pandoc-20240710.1424
     ox-pandoc.el -> ox-pandoc.el
 Created ox-pandoc-20240710.1424.tar containing:
   ox-pandoc-20240710.1424/
   ox-pandoc-20240710.1424/ox-pandoc-pkg.el
   ox-pandoc-20240710.1424/ox-pandoc.el
  ✓ Success:
-  2024-12-16T00:57:00+0000  ox-pandoc-20240710.1424.entry
-  2024-12-16T00:57:00+0000  ox-pandoc-20240710.1424.tar
-Built ox-pandoc in 1.094s, finished at 2024-12-16T00:57:00+0000
+  2024-12-17T01:15:15+0000  ox-pandoc-20240710.1424.entry
+  2024-12-17T01:15:15+0000  ox-pandoc-20240710.1424.tar
+Built ox-pandoc in 1.163s, finished at 2024-12-17T01:15:16+0000
