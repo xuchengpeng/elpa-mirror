@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/mina86/auto-dim-other-buffers.el
 
 Updating /mnt/store/melpa/working/auto-dim-other-buffers/
-Checking out 4831cdec23f0f9f785d899f7ceb90e4260dac0a0
+Checking out f5dddde6544e4b5defae7b853a8a54abddc62451
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/auto-dim-other-buffers/
-  to /tmp/auto-dim-other-buffersuZajyV/auto-dim-other-buffers-20241213.1830
+  to /tmp/auto-dim-other-bufferssl0pKc/auto-dim-other-buffers-20241217.1755
     auto-dim-other-buffers.el -> auto-dim-other-buffers.el
-Created auto-dim-other-buffers-20241213.1830.tar containing:
-  auto-dim-other-buffers-20241213.1830/
-  auto-dim-other-buffers-20241213.1830/auto-dim-other-buffers-pkg.el
-  auto-dim-other-buffers-20241213.1830/auto-dim-other-buffers.el
+Created auto-dim-other-buffers-20241217.1755.tar containing:
+  auto-dim-other-buffers-20241217.1755/
+  auto-dim-other-buffers-20241217.1755/auto-dim-other-buffers-pkg.el
+  auto-dim-other-buffers-20241217.1755/auto-dim-other-buffers.el
  ✓ Success:
-  2024-12-17T00:26:14+0000  auto-dim-other-buffers-20241213.1830.entry
-  2024-12-17T00:26:14+0000  auto-dim-other-buffers-20241213.1830.tar
-Built auto-dim-other-buffers in 2.949s, finished at 2024-12-17T00:26:15+0000
+  2024-12-18T00:41:27+0000  auto-dim-other-buffers-20241217.1755.entry
+  2024-12-18T00:41:27+0000  auto-dim-other-buffers-20241217.1755.tar
+Built auto-dim-other-buffers in 2.816s, finished at 2024-12-18T00:41:27+0000

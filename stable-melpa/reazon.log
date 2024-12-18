@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/reazon/
 Checking out da3c4a8acf236eddb73348056e08bea330e868c0
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/reazon/
-  to /tmp/reazon4vT57K/reazon-20211229.1733
+  to /tmp/reazonueq2JH/reazon-20211229.1733
     reazon-perf.el -> reazon-perf.el
     reazon-sudoku.el -> reazon-sudoku.el
     reazon.el -> reazon.el
@@ -17,6 +17,6 @@ Created reazon-20211229.1733.tar containing:
   reazon-20211229.1733/reazon-sudoku.el
   reazon-20211229.1733/reazon.el
  ✓ Success:
-  2024-12-17T01:20:51+0000  reazon-20211229.1733.entry
-  2024-12-17T01:20:51+0000  reazon-20211229.1733.tar
-Built reazon in 2.310s, finished at 2024-12-17T01:20:52+0000
+  2024-12-18T01:35:59+0000  reazon-20211229.1733.entry
+  2024-12-18T01:35:59+0000  reazon-20211229.1733.tar
+Built reazon in 12.111s, finished at 2024-12-18T01:35:59+0000

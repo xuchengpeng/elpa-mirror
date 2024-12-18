@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/exec-path-from-shell/
 Checking out 72ede29a0e0467b3b433e8edbee3c79bab005884
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/exec-path-from-shell/
-  to /tmp/exec-path-from-shell0xSJca/exec-path-from-shell-20240411.859
+  to /tmp/exec-path-from-shellHpo3Fv/exec-path-from-shell-20240411.859
     exec-path-from-shell.el -> exec-path-from-shell.el
 Created exec-path-from-shell-20240411.859.tar containing:
   exec-path-from-shell-20240411.859/
   exec-path-from-shell-20240411.859/exec-path-from-shell-pkg.el
   exec-path-from-shell-20240411.859/exec-path-from-shell.el
  ✓ Success:
-  2024-12-17T00:45:07+0000  exec-path-from-shell-20240411.859.entry
-  2024-12-17T00:45:07+0000  exec-path-from-shell-20240411.859.tar
-Built exec-path-from-shell in 2.420s, finished at 2024-12-17T00:45:07+0000
+  2024-12-18T00:59:00+0000  exec-path-from-shell-20240411.859.entry
+  2024-12-18T00:59:00+0000  exec-path-from-shell-20240411.859.tar
+Built exec-path-from-shell in 2.315s, finished at 2024-12-18T00:59:01+0000
