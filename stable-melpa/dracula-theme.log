@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/dracula/emacs
 
 Updating /mnt/store/melpa/working/dracula-theme/
-Checking out 4e521e716c2c914d7003243238a00ed330cd17c9
+Checking out a3508f702f96ff262f213de4a49d173449e2cf32
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/dracula-theme/
-  to /tmp/dracula-theme2FboTa/dracula-theme-20241102.1301
+  to /tmp/dracula-themeCjJ9b8/dracula-theme-20241217.2145
     dracula-theme.el -> dracula-theme.el
-Created dracula-theme-20241102.1301.tar containing:
-  dracula-theme-20241102.1301/
-  dracula-theme-20241102.1301/dracula-theme-pkg.el
-  dracula-theme-20241102.1301/dracula-theme.el
+Created dracula-theme-20241217.2145.tar containing:
+  dracula-theme-20241217.2145/
+  dracula-theme-20241217.2145/dracula-theme-pkg.el
+  dracula-theme-20241217.2145/dracula-theme.el
  ✓ Success:
-  2024-12-18T00:52:17+0000  dracula-theme-20241102.1301.entry
-  2024-12-18T00:52:17+0000  dracula-theme-20241102.1301.tar
-Built dracula-theme in 1.476s, finished at 2024-12-18T00:52:18+0000
+  2024-12-19T01:00:36+0000  dracula-theme-20241217.2145.entry
+  2024-12-19T01:00:36+0000  dracula-theme-20241217.2145.tar
+Built dracula-theme in 1.281s, finished at 2024-12-19T01:00:36+0000
