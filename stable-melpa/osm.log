@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/minad/osm
 
 Updating /mnt/store/melpa/working/osm/
-Checking out f532acda0dde4dafa115a3d1c82267473a3895e6
+Checking out 21bf49ba63333893142347df6472c215f94dcb34
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/osm/
-  to /tmp/osmt8KwKM/osm-20241219.1418
+  to /tmp/osmZkEUWn/osm-20241222.1332
     osm.el -> osm.el
-Created osm-20241219.1418.tar containing:
-  osm-20241219.1418/
-  osm-20241219.1418/osm-pkg.el
-  osm-20241219.1418/osm.el
+Created osm-20241222.1332.tar containing:
+  osm-20241222.1332/
+  osm-20241222.1332/osm-pkg.el
+  osm-20241222.1332/osm.el
  ✓ Success:
-  2024-12-22T00:26:58+0000  osm-20241219.1418.entry
-  2024-12-22T00:26:58+0000  osm-20241219.1418.tar
-Built osm in 2.011s, finished at 2024-12-22T00:26:58+0000
+  2024-12-22T23:53:05+0000  osm-20241222.1332.entry
+  2024-12-22T23:53:05+0000  osm-20241222.1332.tar
+Built osm in 2.054s, finished at 2024-12-22T23:53:06+0000

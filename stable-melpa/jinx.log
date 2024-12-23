@@ -3,20 +3,20 @@ Fetcher: github
 Source:  https://github.com/minad/jinx
 
 Updating /mnt/store/melpa/working/jinx/
-Checking out 9ffd681d66e2ee7720c62da1165341124c087a17
+Checking out 9c6600dfc546c416de0e91282359134f87ad9aaf
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/jinx/
-  to /tmp/jinx0Ajwsk/jinx-20241217.1807
+  to /tmp/jinx4nq2TS/jinx-20241222.1548
     jinx.el -> jinx.el
     jinx-mod.c -> jinx-mod.c
     emacs-module.h -> emacs-module.h
-Created jinx-20241217.1807.tar containing:
-  jinx-20241217.1807/
-  jinx-20241217.1807/emacs-module.h
-  jinx-20241217.1807/jinx-mod.c
-  jinx-20241217.1807/jinx-pkg.el
-  jinx-20241217.1807/jinx.el
+Created jinx-20241222.1548.tar containing:
+  jinx-20241222.1548/
+  jinx-20241222.1548/emacs-module.h
+  jinx-20241222.1548/jinx-mod.c
+  jinx-20241222.1548/jinx-pkg.el
+  jinx-20241222.1548/jinx.el
  ✓ Success:
-  2024-12-22T00:11:56+0000  jinx-20241217.1807.entry
-  2024-12-22T00:11:56+0000  jinx-20241217.1807.tar
-Built jinx in 2.371s, finished at 2024-12-22T00:11:56+0000
+  2024-12-22T23:38:33+0000  jinx-20241222.1548.entry
+  2024-12-22T23:38:33+0000  jinx-20241222.1548.tar
+Built jinx in 3.903s, finished at 2024-12-22T23:38:34+0000

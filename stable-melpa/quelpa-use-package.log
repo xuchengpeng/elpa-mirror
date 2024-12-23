@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/quelpa-use-package/
 Checking out a97461008391d045aa2a506fc126280a12a060e4
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/quelpa-use-package/
-  to /tmp/quelpa-use-packagejaBIdX/quelpa-use-package-20201022.746
+  to /tmp/quelpa-use-packageosxSEM/quelpa-use-package-20201022.746
     quelpa-use-package.el -> quelpa-use-package.el
 Created quelpa-use-package-20201022.746.tar containing:
   quelpa-use-package-20201022.746/
   quelpa-use-package-20201022.746/quelpa-use-package-pkg.el
   quelpa-use-package-20201022.746/quelpa-use-package.el
  ✓ Success:
-  2024-12-22T00:32:15+0000  quelpa-use-package-20201022.746.entry
-  2024-12-22T00:32:15+0000  quelpa-use-package-20201022.746.tar
-Built quelpa-use-package in 2.272s, finished at 2024-12-22T00:32:16+0000
+  2024-12-22T23:58:24+0000  quelpa-use-package-20201022.746.entry
+  2024-12-22T23:58:23+0000  quelpa-use-package-20201022.746.tar
+Built quelpa-use-package in 2.338s, finished at 2024-12-22T23:58:24+0000
