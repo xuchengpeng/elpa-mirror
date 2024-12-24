@@ -1,0 +1,20 @@
+Package: selected-window-contrast
+Fetcher: codeberg
+Source:  https://codeberg.org/Anoncheg/selected-window-contrast
+
+Updating /mnt/store/melpa/working/selected-window-contrast/
+Checking out 7557e03333f0e62932787f1ab5f3c672a2cd0ad9
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/selected-window-contrast/
+  to /tmp/selected-window-contrast8WtMpg/selected-window-contrast-20241223.2121
+    selected-window-contrast.el -> selected-window-contrast.el
+Created selected-window-contrast-20241223.2121.tar containing:
+  selected-window-contrast-20241223.2121/
+  selected-window-contrast-20241223.2121/selected-window-contrast-pkg.el
+  selected-window-contrast-20241223.2121/selected-window-contrast.el
+ ✓ Success:
+  2024-12-23T21:18:00+0000  selected-window-contrast-20241223.1607.entry
+  2024-12-23T21:18:00+0000  selected-window-contrast-20241223.1607.tar
+  2024-12-23T23:38:53+0000  selected-window-contrast-20241223.2121.entry
+  2024-12-23T23:38:53+0000  selected-window-contrast-20241223.2121.tar
+Built selected-window-contrast in 2.124s, finished at 2024-12-23T23:38:53+0000
