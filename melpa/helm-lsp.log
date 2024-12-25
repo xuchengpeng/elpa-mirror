@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/helm-lsp/
 Checking out e740efb2abbc0ffd43f6dbcdb4527bc55723b842
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/helm-lsp/
-  to /tmp/helm-lspc9y3JP/helm-lsp-20241118.1931
+  to /tmp/helm-lspttyeVa/helm-lsp-20241118.1931
     helm-lsp.el -> helm-lsp.el
 Created helm-lsp-20241118.1931.tar containing:
   helm-lsp-20241118.1931/
   helm-lsp-20241118.1931/helm-lsp-pkg.el
   helm-lsp-20241118.1931/helm-lsp.el
  ✓ Success:
-  2024-12-23T23:10:52+0000  helm-lsp-20241118.1931.entry
-  2024-12-23T23:10:52+0000  helm-lsp-20241118.1931.tar
-Built helm-lsp in 4.455s, finished at 2024-12-23T23:10:54+0000
+  2024-12-25T01:11:16+0000  helm-lsp-20241118.1931.entry
+  2024-12-25T01:11:16+0000  helm-lsp-20241118.1931.tar
+Built helm-lsp in 3.906s, finished at 2024-12-25T01:11:17+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/lemon-mode/
 Checking out 155bfced6c9afc8072a0133d3d1baa54c6d67430
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/lemon-mode/
-  to /tmp/lemon-moderGOdcU/lemon-mode-20130216.1304
+  to /tmp/lemon-mode8hmPoy/lemon-mode-20130216.1304
     lemon-mode.el -> lemon-mode.el
 Created lemon-mode-20130216.1304.tar containing:
   lemon-mode-20130216.1304/
   lemon-mode-20130216.1304/lemon-mode-pkg.el
   lemon-mode-20130216.1304/lemon-mode.el
  ✓ Success:
-  2024-12-23T23:17:59+0000  lemon-mode-20130216.1304.entry
-  2024-12-23T23:17:59+0000  lemon-mode-20130216.1304.tar
-Built lemon-mode in 2.230s, finished at 2024-12-23T23:18:00+0000
+  2024-12-25T01:18:24+0000  lemon-mode-20130216.1304.entry
+  2024-12-25T01:18:24+0000  lemon-mode-20130216.1304.tar
+Built lemon-mode in 2.312s, finished at 2024-12-25T01:18:25+0000
