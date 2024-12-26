@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/copilot/
 Checking out fd68d2e79e11939f5c2024671f67602bb2b34b4a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/copilot/
-  to /tmp/copilotlt2HyC/copilot-20241224.317
+  to /tmp/copilotJTxK5U/copilot-20241224.317
     copilot-balancer.el -> copilot-balancer.el
     copilot.el -> copilot.el
 Created copilot-20241224.317.tar containing:
@@ -15,6 +15,6 @@ Created copilot-20241224.317.tar containing:
   copilot-20241224.317/copilot-pkg.el
   copilot-20241224.317/copilot.el
  ✓ Success:
-  2024-12-25T00:50:57+0000  copilot-20241224.317.entry
-  2024-12-25T00:50:57+0000  copilot-20241224.317.tar
-Built copilot in 2.315s, finished at 2024-12-25T00:50:58+0000
+  2024-12-26T00:24:27+0000  copilot-20241224.317.entry
+  2024-12-26T00:24:27+0000  copilot-20241224.317.tar
+Built copilot in 2.253s, finished at 2024-12-26T00:24:28+0000

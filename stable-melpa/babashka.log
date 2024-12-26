@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/babashka/
 Checking out 4ea9d7febf3e9d301c91231ba2833f3417ba9059
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/babashka/
-  to /tmp/babashkawHp766/babashka-20240527.732
+  to /tmp/babashkaOr1kdv/babashka-20240527.732
     babashka.el -> babashka.el
 Created babashka-20240527.732.tar containing:
   babashka-20240527.732/
   babashka-20240527.732/babashka-pkg.el
   babashka-20240527.732/babashka.el
  ✓ Success:
-  2024-12-25T00:44:57+0000  babashka-20240527.732.entry
-  2024-12-25T00:44:57+0000  babashka-20240527.732.tar
-Built babashka in 2.517s, finished at 2024-12-25T00:44:58+0000
+  2024-12-26T00:18:09+0000  babashka-20240527.732.entry
+  2024-12-26T00:18:09+0000  babashka-20240527.732.tar
+Built babashka in 2.591s, finished at 2024-12-26T00:18:09+0000

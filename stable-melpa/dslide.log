@@ -3,20 +3,22 @@ Fetcher: github
 Source:  https://github.com/positron-solutions/dslide
 
 Updating /mnt/store/melpa/working/dslide/
-Checking out a4ddb10c7747d845c9b7b27024189177cbe083b9
+Checking out aa8aad225652217566fd0bb991e9eb946319220b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/dslide/
-  to /tmp/dslideIFm0EV/dslide-20241224.1513
+  to /tmp/dslideLgYv54/dslide-20241225.2307
     dslide.el -> dslide.el
   ! doc/dslide.texi -> dslide.texi
 Generating dslide.info
-Created dslide-20241224.1513.tar containing:
-  dslide-20241224.1513/
-  dslide-20241224.1513/dir
-  dslide-20241224.1513/dslide-pkg.el
-  dslide-20241224.1513/dslide.el
-  dslide-20241224.1513/dslide.info
+Created dslide-20241225.2307.tar containing:
+  dslide-20241225.2307/
+  dslide-20241225.2307/dir
+  dslide-20241225.2307/dslide-pkg.el
+  dslide-20241225.2307/dslide.el
+  dslide-20241225.2307/dslide.info
  ✓ Success:
-  2024-12-25T00:55:28+0000  dslide-20241224.1513.entry
-  2024-12-25T00:55:28+0000  dslide-20241224.1513.tar
-Built dslide in 3.551s, finished at 2024-12-25T00:55:29+0000
+  2024-12-25T22:07:39+0000  dslide-20241225.1056.entry
+  2024-12-25T22:07:39+0000  dslide-20241225.1056.tar
+  2024-12-26T00:28:47+0000  dslide-20241225.2307.entry
+  2024-12-26T00:28:47+0000  dslide-20241225.2307.tar
+Built dslide in 1.752s, finished at 2024-12-26T00:28:47+0000

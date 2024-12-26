@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/helm-kythe/
 Checking out eabbef4948f8ec7c7b2fac498e9145dfdb10ca82
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/helm-kythe/
-  to /tmp/helm-kytheTUeiKW/helm-kythe-20170709.726
+  to /tmp/helm-kythekcCQDq/helm-kythe-20170709.726
     helm-kythe.el -> helm-kythe.el
 Created helm-kythe-20170709.726.tar containing:
   helm-kythe-20170709.726/
   helm-kythe-20170709.726/helm-kythe-pkg.el
   helm-kythe-20170709.726/helm-kythe.el
  ✓ Success:
-  2024-12-25T01:11:09+0000  helm-kythe-20170709.726.entry
-  2024-12-25T01:11:08+0000  helm-kythe-20170709.726.tar
-Built helm-kythe in 3.706s, finished at 2024-12-25T01:11:09+0000
+  2024-12-26T00:43:51+0000  helm-kythe-20170709.726.entry
+  2024-12-26T00:43:51+0000  helm-kythe-20170709.726.tar
+Built helm-kythe in 2.513s, finished at 2024-12-26T00:43:52+0000

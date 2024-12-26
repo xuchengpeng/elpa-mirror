@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/jsonl/
 Checking out 3dd0b7bb2b4bce9f9de7367941f0cc78f82049c9
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/jsonl/
-  to /tmp/jsonlX61TLY/jsonl-20190623.509
+  to /tmp/jsonlJzohAs/jsonl-20190623.509
     jsonl.el -> jsonl.el
 Created jsonl-20190623.509.tar containing:
   jsonl-20190623.509/
   jsonl-20190623.509/jsonl-pkg.el
   jsonl-20190623.509/jsonl.el
  ✓ Success:
-  2024-12-25T01:16:17+0000  jsonl-20190623.509.entry
-  2024-12-25T01:16:17+0000  jsonl-20190623.509.tar
-Built jsonl in 2.475s, finished at 2024-12-25T01:16:18+0000
+  2024-12-26T00:49:06+0000  jsonl-20190623.509.entry
+  2024-12-26T00:49:06+0000  jsonl-20190623.509.tar
+Built jsonl in 2.049s, finished at 2024-12-26T00:49:07+0000

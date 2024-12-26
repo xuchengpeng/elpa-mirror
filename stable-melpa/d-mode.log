@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/Emacs-D-Mode-Maintainers/Emacs-D-Mode
 
 Updating /mnt/store/melpa/working/d-mode/
-Checking out de2a20eb21ae9bddfa86468a7522b0ba29f0c387
+Checking out e8754635a7dbb7b1712dc9fcf380acd3ed5a2db6
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/d-mode/
-  to /tmp/d-modeoXZLLY/d-mode-20241126.1056
+  to /tmp/d-modeiBQC4D/d-mode-20241225.1823
     d-mode.el -> d-mode.el
-Created d-mode-20241126.1056.tar containing:
-  d-mode-20241126.1056/
-  d-mode-20241126.1056/d-mode-pkg.el
-  d-mode-20241126.1056/d-mode.el
+Created d-mode-20241225.1823.tar containing:
+  d-mode-20241225.1823/
+  d-mode-20241225.1823/d-mode-pkg.el
+  d-mode-20241225.1823/d-mode.el
  ✓ Success:
-  2024-12-25T00:52:10+0000  d-mode-20241126.1056.entry
-  2024-12-25T00:52:10+0000  d-mode-20241126.1056.tar
-Built d-mode in 2.790s, finished at 2024-12-25T00:52:11+0000
+  2024-12-26T00:25:53+0000  d-mode-20241225.1823.entry
+  2024-12-26T00:25:53+0000  d-mode-20241225.1823.tar
+Built d-mode in 2.570s, finished at 2024-12-26T00:25:54+0000

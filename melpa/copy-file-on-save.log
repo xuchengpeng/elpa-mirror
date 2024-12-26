@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/copy-file-on-save/
 Checking out 370b1586feb2690d3c72185bd4f17c31ce03673a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/copy-file-on-save/
-  to /tmp/copy-file-on-saveV89Dkt/copy-file-on-save-20230402.1829
+  to /tmp/copy-file-on-savesSzTe5/copy-file-on-save-20230402.1829
     copy-file-on-save.el -> copy-file-on-save.el
 Created copy-file-on-save-20230402.1829.tar containing:
   copy-file-on-save-20230402.1829/
   copy-file-on-save-20230402.1829/copy-file-on-save-pkg.el
   copy-file-on-save-20230402.1829/copy-file-on-save.el
  ✓ Success:
-  2024-12-25T00:51:01+0000  copy-file-on-save-20230402.1829.entry
-  2024-12-25T00:51:01+0000  copy-file-on-save-20230402.1829.tar
-Built copy-file-on-save in 2.237s, finished at 2024-12-25T00:51:02+0000
+  2024-12-26T00:24:30+0000  copy-file-on-save-20230402.1829.entry
+  2024-12-26T00:24:30+0000  copy-file-on-save-20230402.1829.tar
+Built copy-file-on-save in 1.959s, finished at 2024-12-26T00:24:31+0000
