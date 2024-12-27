@@ -4,16 +4,15 @@ Source:  https://github.com/pjones/bitlbee-el
 
 Updating /mnt/store/melpa/working/bitlbee/
 Checking out f3342da46b0864ae8db4e82b553d9e617b090534
-Warning: bitlbee :files spec is equivalent to the default
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/bitlbee/
-  to /tmp/bitlbeeVQAvQV/bitlbee-20151203.0
+  to /tmp/bitlbeeCrLYUX/bitlbee-20151203.0
   ! lisp/bitlbee.el -> bitlbee.el
 Created bitlbee-20151203.0.tar containing:
   bitlbee-20151203.0/
   bitlbee-20151203.0/bitlbee-pkg.el
   bitlbee-20151203.0/bitlbee.el
  ✓ Success:
-  2024-12-26T00:19:08+0000  bitlbee-20151203.0.entry
-  2024-12-26T00:19:07+0000  bitlbee-20151203.0.tar
-Built bitlbee in 3.422s, finished at 2024-12-26T00:19:09+0000
+  2024-12-26T23:52:55+0000  bitlbee-20151203.0.entry
+  2024-12-26T23:52:55+0000  bitlbee-20151203.0.tar
+Built bitlbee in 1.901s, finished at 2024-12-26T23:52:56+0000

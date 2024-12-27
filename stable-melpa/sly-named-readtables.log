@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/sly-named-readtables/
 Checking out a5a42674ccffa97ccd5e4e9742beaf3ea719931f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/sly-named-readtables/
-  to /tmp/sly-named-readtablesdIqcgk/sly-named-readtables-20191013.2138
+  to /tmp/sly-named-readtablesDhQBFQ/sly-named-readtables-20191013.2138
     sly-named-readtables-autoloads.el -> sly-named-readtables-autoloads.el
     sly-named-readtables.el -> sly-named-readtables.el
     example.lisp -> example.lisp
@@ -21,6 +21,6 @@ Created sly-named-readtables-20191013.2138.tar containing:
   sly-named-readtables-20191013.2138/slynk-named-readtables.asd
   sly-named-readtables-20191013.2138/slynk-named-readtables.lisp
  ✓ Success:
-  2024-12-26T01:13:40+0000  sly-named-readtables-20191013.2138.entry
-  2024-12-26T01:13:40+0000  sly-named-readtables-20191013.2138.tar
-Built sly-named-readtables in 2.258s, finished at 2024-12-26T01:13:40+0000
+  2024-12-27T00:47:33+0000  sly-named-readtables-20191013.2138.entry
+  2024-12-27T00:47:33+0000  sly-named-readtables-20191013.2138.tar
+Built sly-named-readtables in 2.442s, finished at 2024-12-27T00:47:34+0000

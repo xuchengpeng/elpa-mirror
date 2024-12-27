@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/kivy/kivy
 
 Updating /mnt/store/melpa/working/kivy-mode/
-Checking out 9ef218027178115a66b417ae34b21f488bdd3617
+Checking out db86b06b9b72e514c122e3f54a0bce74adad44c5
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/kivy-mode/
-  to /tmp/kivy-moderS2C5Y/kivy-mode-20240105.940
+  to /tmp/kivy-modeYOHGvA/kivy-mode-20210318.2106
   ! kivy/tools/highlight/kivy-mode.el -> kivy-mode.el
-Created kivy-mode-20240105.940.tar containing:
-  kivy-mode-20240105.940/
-  kivy-mode-20240105.940/kivy-mode-pkg.el
-  kivy-mode-20240105.940/kivy-mode.el
+Created kivy-mode-20210318.2106.tar containing:
+  kivy-mode-20210318.2106/
+  kivy-mode-20210318.2106/kivy-mode-pkg.el
+  kivy-mode-20210318.2106/kivy-mode.el
  ✓ Success:
-  2024-12-26T00:50:12+0000  kivy-mode-20240105.940.entry
-  2024-12-26T00:50:12+0000  kivy-mode-20240105.940.tar
-Built kivy-mode in 4.610s, finished at 2024-12-26T00:50:13+0000
+  2024-12-27T00:24:19+0000  kivy-mode-20210318.2106.entry
+  2024-12-27T00:24:19+0000  kivy-mode-20210318.2106.tar
+Built kivy-mode in 3.846s, finished at 2024-12-27T00:24:20+0000

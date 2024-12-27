@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/phpstan/
 Checking out b616f5fa5f8aff9aa220c7fe63b39df6d10588a5
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/phpstan/
-  to /tmp/phpstanf9z2Bd/phpstan-20241107.408
+  to /tmp/phpstanr9FU08/phpstan-20241107.408
     phpstan.el -> phpstan.el
 Created phpstan-20241107.408.tar containing:
   phpstan-20241107.408/
   phpstan-20241107.408/phpstan-pkg.el
   phpstan-20241107.408/phpstan.el
  ✓ Success:
-  2024-12-26T01:06:02+0000  phpstan-20241107.408.entry
-  2024-12-26T01:06:02+0000  phpstan-20241107.408.tar
-Built phpstan in 2.160s, finished at 2024-12-26T01:06:02+0000
+  2024-12-27T00:39:37+0000  phpstan-20241107.408.entry
+  2024-12-27T00:39:36+0000  phpstan-20241107.408.tar
+Built phpstan in 3.279s, finished at 2024-12-27T00:39:37+0000

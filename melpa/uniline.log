@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/tbanel/uniline
 
 Updating /mnt/store/melpa/working/uniline/
-Checking out 4d5edad612d36c2377dd3fd2292601f4f9c120f2
+Checking out 5e17b5d8f73d917368e9ccd730bdc030b5f343f1
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/uniline/
-  to /tmp/unilinefcjThu/uniline-20241223.923
+  to /tmp/unilineizceH2/uniline-20241226.1056
     uniline.el -> uniline.el
-Created uniline-20241223.923.tar containing:
-  uniline-20241223.923/
-  uniline-20241223.923/uniline-pkg.el
-  uniline-20241223.923/uniline.el
+Created uniline-20241226.1056.tar containing:
+  uniline-20241226.1056/
+  uniline-20241226.1056/uniline-pkg.el
+  uniline-20241226.1056/uniline.el
  ✓ Success:
-  2024-12-26T01:19:34+0000  uniline-20241223.923.entry
-  2024-12-26T01:19:34+0000  uniline-20241223.923.tar
-Built uniline in 2.456s, finished at 2024-12-26T01:19:35+0000
+  2024-12-27T00:53:25+0000  uniline-20241226.1056.entry
+  2024-12-27T00:53:25+0000  uniline-20241226.1056.tar
+Built uniline in 2.384s, finished at 2024-12-27T00:53:25+0000
