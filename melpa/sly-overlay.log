@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/sly-overlay/
 Checking out d62945059035f8097a6f222ed2700cfd99609d11
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/sly-overlay/
-  to /tmp/sly-overlayMC5Z4T/sly-overlay-20240828.910
+  to /tmp/sly-overlayI3WdQt/sly-overlay-20240828.910
     sly-overlay.el -> sly-overlay.el
 Created sly-overlay-20240828.910.tar containing:
   sly-overlay-20240828.910/
   sly-overlay-20240828.910/sly-overlay-pkg.el
   sly-overlay-20240828.910/sly-overlay.el
  ✓ Success:
-  2024-12-27T00:47:34+0000  sly-overlay-20240828.910.entry
-  2024-12-27T00:47:34+0000  sly-overlay-20240828.910.tar
-Built sly-overlay in 2.170s, finished at 2024-12-27T00:47:35+0000
+  2024-12-28T00:22:07+0000  sly-overlay-20240828.910.entry
+  2024-12-28T00:22:07+0000  sly-overlay-20240828.910.tar
+Built sly-overlay in 2.493s, finished at 2024-12-28T00:22:08+0000
