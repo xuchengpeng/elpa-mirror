@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/backup-walker/
 Checking out 934a4128c122972ac32bb9952addf279a60a94da
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/backup-walker/
-  to /tmp/backup-walkerFh6xKx/backup-walker-20130720.1516
+  to /tmp/backup-walkerbzkG9w/backup-walker-20130720.1516
     backup-walker.el -> backup-walker.el
 Created backup-walker-20130720.1516.tar containing:
   backup-walker-20130720.1516/
   backup-walker-20130720.1516/backup-walker-pkg.el
   backup-walker-20130720.1516/backup-walker.el
  ✓ Success:
-  2024-12-29T01:17:42+0000  backup-walker-20130720.1516.entry
-  2024-12-29T01:17:42+0000  backup-walker-20130720.1516.tar
-Built backup-walker in 2.948s, finished at 2024-12-29T01:17:43+0000
+  2024-12-31T00:22:43+0000  backup-walker-20130720.1516.entry
+  2024-12-31T00:22:43+0000  backup-walker-20130720.1516.tar
+Built backup-walker in 2.782s, finished at 2024-12-31T00:22:44+0000

@@ -3,18 +3,16 @@ Fetcher: github
 Source:  https://github.com/chmouel/isgd.el
 
 Updating /mnt/store/melpa/working/isgd/
-Checking out cdddae749e27f3f3c53b8a8436ef79a87cd89eed
+Checking out 2dd030ab451cb9e704d173ee1b2388d92362db3b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/isgd/
-  to /tmp/isgdVZPBAi/isgd-20241228.2314
+  to /tmp/isgdSB4UBe/isgd-20241230.1331
     isgd.el -> isgd.el
-Created isgd-20241228.2314.tar containing:
-  isgd-20241228.2314/
-  isgd-20241228.2314/isgd-pkg.el
-  isgd-20241228.2314/isgd.el
+Created isgd-20241230.1331.tar containing:
+  isgd-20241230.1331/
+  isgd-20241230.1331/isgd-pkg.el
+  isgd-20241230.1331/isgd.el
  ✓ Success:
-  2024-12-28T21:04:59+0000  isgd-20150414.936.entry
-  2024-12-28T21:04:59+0000  isgd-20150414.936.tar
-  2024-12-28T23:25:59+0000  isgd-20241228.2314.entry
-  2024-12-28T23:25:59+0000  isgd-20241228.2314.tar
-Built isgd in 1.300s, finished at 2024-12-28T23:26:00+0000
+  2024-12-31T00:52:17+0000  isgd-20241230.1331.entry
+  2024-12-31T00:52:16+0000  isgd-20241230.1331.tar
+Built isgd in 1.344s, finished at 2024-12-31T00:52:17+0000

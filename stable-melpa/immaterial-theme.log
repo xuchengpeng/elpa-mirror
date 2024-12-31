@@ -3,20 +3,20 @@ Fetcher: github
 Source:  https://github.com/petergardfjall/emacs-immaterial-theme
 
 Updating /mnt/store/melpa/working/immaterial-theme/
-Checking out f1c1c3c49f114dcb93b4068c034641eeaa2a23af
+Checking out de29da5f47e4508c31439d4c29ea57d0659c19df
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/immaterial-theme/
-  to /tmp/immaterial-themeF7xNVj/immaterial-theme-20240908.821
+  to /tmp/immaterial-themekhj76N/immaterial-theme-20241230.756
     immaterial-dark-theme.el -> immaterial-dark-theme.el
     immaterial-light-theme.el -> immaterial-light-theme.el
     immaterial-theme.el -> immaterial-theme.el
-Created immaterial-theme-20240908.821.tar containing:
-  immaterial-theme-20240908.821/
-  immaterial-theme-20240908.821/immaterial-dark-theme.el
-  immaterial-theme-20240908.821/immaterial-light-theme.el
-  immaterial-theme-20240908.821/immaterial-theme-pkg.el
-  immaterial-theme-20240908.821/immaterial-theme.el
+Created immaterial-theme-20241230.756.tar containing:
+  immaterial-theme-20241230.756/
+  immaterial-theme-20241230.756/immaterial-dark-theme.el
+  immaterial-theme-20241230.756/immaterial-light-theme.el
+  immaterial-theme-20241230.756/immaterial-theme-pkg.el
+  immaterial-theme-20241230.756/immaterial-theme.el
  ✓ Success:
-  2024-12-28T23:25:07+0000  immaterial-theme-20240908.821.entry
-  2024-12-28T23:25:07+0000  immaterial-theme-20240908.821.tar
-Built immaterial-theme in 1.519s, finished at 2024-12-28T23:25:07+0000
+  2024-12-31T00:51:24+0000  immaterial-theme-20241230.756.entry
+  2024-12-31T00:51:24+0000  immaterial-theme-20241230.756.tar
+Built immaterial-theme in 1.681s, finished at 2024-12-31T00:51:24+0000

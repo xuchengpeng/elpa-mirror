@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/ddskk/
 Checking out f81ed803e617ccd8175d4bf57a3062bc5ffe1945
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ddskk/
-  to /tmp/ddskklCtYcA/ddskk-20241227.2223
+  to /tmp/ddskkn1qbU6/ddskk-20241227.2223
     context-skk.el -> context-skk.el
     ddskk.el -> ddskk.el
     skk-abbrev.el -> skk-abbrev.el
@@ -99,6 +99,6 @@ Created ddskk-20241227.2223.tar containing:
   ddskk-20241227.2223/skk.xpm
   ddskk-20241227.2223/tar-util.el
  ✓ Success:
-  2024-12-29T01:25:30+0000  ddskk-20241227.2223.entry
-  2024-12-29T01:25:30+0000  ddskk-20241227.2223.tar
-Built ddskk in 10.501s, finished at 2024-12-29T01:25:30+0000
+  2024-12-31T00:30:40+0000  ddskk-20241227.2223.entry
+  2024-12-31T00:30:40+0000  ddskk-20241227.2223.tar
+Built ddskk in 7.181s, finished at 2024-12-31T00:30:41+0000
