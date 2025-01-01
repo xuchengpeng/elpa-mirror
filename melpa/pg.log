@@ -3,22 +3,22 @@ Fetcher: github
 Source:  https://github.com/emarsden/pg-el
 
 Updating /mnt/store/melpa/working/pg/
-Checking out 2152055232656aa8335dce45b733ffe8d15ca520
+Checking out 912ad0086a81e672232fa319322a1226bb11fb3c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/pg/
-  to /tmp/pggL3lCy/pg-20241229.1622
+  to /tmp/pg4yQvd9/pg-20241231.1316
     pg-geometry.el -> pg-geometry.el
     pg-gis.el -> pg-gis.el
     pg-lo.el -> pg-lo.el
     pg.el -> pg.el
-Created pg-20241229.1622.tar containing:
-  pg-20241229.1622/
-  pg-20241229.1622/pg-geometry.el
-  pg-20241229.1622/pg-gis.el
-  pg-20241229.1622/pg-lo.el
-  pg-20241229.1622/pg-pkg.el
-  pg-20241229.1622/pg.el
+Created pg-20241231.1316.tar containing:
+  pg-20241231.1316/
+  pg-20241231.1316/pg-geometry.el
+  pg-20241231.1316/pg-gis.el
+  pg-20241231.1316/pg-lo.el
+  pg-20241231.1316/pg-pkg.el
+  pg-20241231.1316/pg.el
  ✓ Success:
-  2024-12-31T01:10:43+0000  pg-20241229.1622.entry
-  2024-12-31T01:10:43+0000  pg-20241229.1622.tar
-Built pg in 2.238s, finished at 2024-12-31T01:10:43+0000
+  2025-01-01T00:45:26+0000  pg-20241231.1316.entry
+  2025-01-01T00:45:26+0000  pg-20241231.1316.tar
+Built pg in 2.361s, finished at 2025-01-01T00:45:27+0000

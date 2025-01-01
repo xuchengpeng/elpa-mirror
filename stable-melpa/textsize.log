@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/textsize/
 Checking out d61fd65d823b17ff71a61fba5590a9e9b60e0e92
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/textsize/
-  to /tmp/textsizeGmDuCb/textsize-20231005.1335
+  to /tmp/textsizep9nFhO/textsize-20231005.1335
     textsize.el -> textsize.el
 Created textsize-20231005.1335.tar containing:
   textsize-20231005.1335/
   textsize-20231005.1335/textsize-pkg.el
   textsize-20231005.1335/textsize.el
  ✓ Success:
-  2024-12-31T01:22:37+0000  textsize-20231005.1335.entry
-  2024-12-31T01:22:37+0000  textsize-20231005.1335.tar
-Built textsize in 3.224s, finished at 2024-12-31T01:22:38+0000
+  2025-01-01T00:57:14+0000  textsize-20231005.1335.entry
+  2025-01-01T00:57:14+0000  textsize-20231005.1335.tar
+Built textsize in 2.182s, finished at 2025-01-01T00:57:15+0000

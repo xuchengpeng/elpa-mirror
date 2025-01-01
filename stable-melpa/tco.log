@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/tco/
 Checking out d82478d56568f60b3a82fd010b3ca0bab2ef5dc9
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/tco/
-  to /tmp/tcoLKQpnR/tco-20191129.2040
+  to /tmp/tcob1hGaM/tco-20191129.2040
     tco.el -> tco.el
 Created tco-20191129.2040.tar containing:
   tco-20191129.2040/
   tco-20191129.2040/tco-pkg.el
   tco-20191129.2040/tco.el
  ✓ Success:
-  2024-12-31T01:21:57+0000  tco-20191129.2040.entry
-  2024-12-31T01:21:57+0000  tco-20191129.2040.tar
-Built tco in 1.716s, finished at 2024-12-31T01:21:57+0000
+  2025-01-01T00:56:44+0000  tco-20191129.2040.entry
+  2025-01-01T00:56:44+0000  tco-20191129.2040.tar
+Built tco in 1.699s, finished at 2025-01-01T00:56:45+0000

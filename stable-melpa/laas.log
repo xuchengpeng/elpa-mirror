@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/laas/
 Checking out f5fb180ab23b7eb0695ade84c9077aa701f47bbf
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/laas/
-  to /tmp/laas418k1b/laas-20241212.1314
+  to /tmp/laasRFggQR/laas-20241212.1314
     laas-unicode.el -> laas-unicode.el
     laas.el -> laas.el
 Created laas-20241212.1314.tar containing:
@@ -15,6 +15,6 @@ Created laas-20241212.1314.tar containing:
   laas-20241212.1314/laas-unicode.el
   laas-20241212.1314/laas.el
  ✓ Success:
-  2024-12-31T00:55:16+0000  laas-20241212.1314.entry
-  2024-12-31T00:55:16+0000  laas-20241212.1314.tar
-Built laas in 3.008s, finished at 2024-12-31T00:55:17+0000
+  2025-01-01T00:30:46+0000  laas-20241212.1314.entry
+  2025-01-01T00:30:46+0000  laas-20241212.1314.tar
+Built laas in 3.027s, finished at 2025-01-01T00:30:47+0000

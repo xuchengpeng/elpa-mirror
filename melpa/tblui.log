@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/tblui/
 Checking out 62ab5f62982c061a902fd3e54d94a68a4706572c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/tblui/
-  to /tmp/tbluiD5aEsc/tblui-20231201.1100
+  to /tmp/tbluiogcxeG/tblui-20231201.1100
     tblui.el -> tblui.el
 Created tblui-20231201.1100.tar containing:
   tblui-20231201.1100/
   tblui-20231201.1100/tblui-pkg.el
   tblui-20231201.1100/tblui.el
  ✓ Success:
-  2024-12-31T01:21:54+0000  tblui-20231201.1100.entry
-  2024-12-31T01:21:54+0000  tblui-20231201.1100.tar
-Built tblui in 1.705s, finished at 2024-12-31T01:21:55+0000
+  2025-01-01T00:56:42+0000  tblui-20231201.1100.entry
+  2025-01-01T00:56:42+0000  tblui-20231201.1100.tar
+Built tblui in 1.586s, finished at 2025-01-01T00:56:43+0000

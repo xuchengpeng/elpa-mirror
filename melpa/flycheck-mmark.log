@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/flycheck-mmark/
 Checking out c796a2f18884bfc2afeec1fb2060da0f4044ddee
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/flycheck-mmark/
-  to /tmp/flycheck-mmarkbNH9nk/flycheck-mmark-20190713.1323
+  to /tmp/flycheck-mmarkcFtV7A/flycheck-mmark-20190713.1323
     flycheck-mmark.el -> flycheck-mmark.el
 Created flycheck-mmark-20190713.1323.tar containing:
   flycheck-mmark-20190713.1323/
   flycheck-mmark-20190713.1323/flycheck-mmark-pkg.el
   flycheck-mmark-20190713.1323/flycheck-mmark.el
  ✓ Success:
-  2024-12-31T00:41:57+0000  flycheck-mmark-20190713.1323.entry
-  2024-12-31T00:41:57+0000  flycheck-mmark-20190713.1323.tar
-Built flycheck-mmark in 2.855s, finished at 2024-12-31T00:41:58+0000
+  2025-01-01T00:17:08+0000  flycheck-mmark-20190713.1323.entry
+  2025-01-01T00:17:08+0000  flycheck-mmark-20190713.1323.tar
+Built flycheck-mmark in 2.745s, finished at 2025-01-01T00:17:09+0000
