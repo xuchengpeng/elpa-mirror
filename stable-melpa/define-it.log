@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/jcs-elpa/define-it
 
 Updating /mnt/store/melpa/working/define-it/
-Checking out a12331b5f4098b3cb0b046398fc3a34de1651de6
+Checking out 28e5ad9ef4bba59b61a9f1f4f5efe545e892540b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/define-it/
-  to /tmp/define-itHXetPB/define-it-20240101.933
+  to /tmp/define-it6LzLup/define-it-20250101.1006
     define-it.el -> define-it.el
-Created define-it-20240101.933.tar containing:
-  define-it-20240101.933/
-  define-it-20240101.933/define-it-pkg.el
-  define-it-20240101.933/define-it.el
+Created define-it-20250101.1006.tar containing:
+  define-it-20250101.1006/
+  define-it-20250101.1006/define-it-pkg.el
+  define-it-20250101.1006/define-it.el
  ✓ Success:
-  2025-01-01T00:05:58+0000  define-it-20240101.933.entry
-  2025-01-01T00:05:58+0000  define-it-20240101.933.tar
-Built define-it in 1.865s, finished at 2025-01-01T00:05:59+0000
+  2025-01-01T23:40:32+0000  define-it-20250101.1006.entry
+  2025-01-01T23:40:32+0000  define-it-20250101.1006.tar
+Built define-it in 1.953s, finished at 2025-01-01T23:40:33+0000

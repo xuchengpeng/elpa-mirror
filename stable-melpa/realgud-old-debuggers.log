@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/realgud-old-debuggers/
 Checking out 0fad38283e885c452160232e01adf3f6ae51983b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/realgud-old-debuggers/
-  to /tmp/realgud-old-debuggers1tw2N6/realgud-old-debuggers-20190520.1150
+  to /tmp/realgud-old-debuggersqcUOl0/realgud-old-debuggers-20190520.1150
     realgud-old-debuggers.el -> realgud-old-debuggers.el
     pydb/core.el -> pydb/core.el
     pydb/init.el -> pydb/init.el
@@ -49,6 +49,6 @@ Created realgud-old-debuggers-20190520.1150.tar containing:
   realgud-old-debuggers-20190520.1150/trepanx/track-mode.el
   realgud-old-debuggers-20190520.1150/trepanx/trepanx.el
  ✓ Success:
-  2025-01-01T00:49:31+0000  realgud-old-debuggers-20190520.1150.entry
-  2025-01-01T00:49:31+0000  realgud-old-debuggers-20190520.1150.tar
-Built realgud-old-debuggers in 2.429s, finished at 2025-01-01T00:49:32+0000
+  2025-01-02T00:24:08+0000  realgud-old-debuggers-20190520.1150.entry
+  2025-01-02T00:24:08+0000  realgud-old-debuggers-20190520.1150.tar
+Built realgud-old-debuggers in 2.377s, finished at 2025-01-02T00:24:08+0000

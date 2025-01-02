@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/emacs-vs/htmltagwrap
 
 Updating /mnt/store/melpa/working/htmltagwrap/
-Checking out 96f89ec74e39903d8ed1f87f261032778c19694a
+Checking out 66dd54079110b4b6d91bb81acf8a31649e3cb29f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/htmltagwrap/
-  to /tmp/htmltagwrap9Esdk5/htmltagwrap-20240120.1010
+  to /tmp/htmltagwrapQ0SYTO/htmltagwrap-20250101.907
     htmltagwrap.el -> htmltagwrap.el
-Created htmltagwrap-20240120.1010.tar containing:
-  htmltagwrap-20240120.1010/
-  htmltagwrap-20240120.1010/htmltagwrap-pkg.el
-  htmltagwrap-20240120.1010/htmltagwrap.el
+Created htmltagwrap-20250101.907.tar containing:
+  htmltagwrap-20250101.907/
+  htmltagwrap-20250101.907/htmltagwrap-pkg.el
+  htmltagwrap-20250101.907/htmltagwrap.el
  ✓ Success:
-  2025-01-01T00:25:55+0000  htmltagwrap-20240120.1010.entry
-  2025-01-01T00:25:55+0000  htmltagwrap-20240120.1010.tar
-Built htmltagwrap in 2.308s, finished at 2025-01-01T00:25:56+0000
+  2025-01-02T00:00:11+0000  htmltagwrap-20250101.907.entry
+  2025-01-02T00:00:11+0000  htmltagwrap-20250101.907.tar
+Built htmltagwrap in 2.788s, finished at 2025-01-02T00:00:12+0000

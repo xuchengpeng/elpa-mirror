@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/emacs-languagetool/flycheck-languagetool
 
 Updating /mnt/store/melpa/working/flycheck-languagetool/
-Checking out 03d023c78cca177901afe7223ee57a8e396dcf49
+Checking out 24910498ea5c9588813cc2c602de935aebb06505
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/flycheck-languagetool/
-  to /tmp/flycheck-languagetoolKP8PaT/flycheck-languagetool-20241018.1225
+  to /tmp/flycheck-languagetool06ovDK/flycheck-languagetool-20250101.852
     flycheck-languagetool.el -> flycheck-languagetool.el
-Created flycheck-languagetool-20241018.1225.tar containing:
-  flycheck-languagetool-20241018.1225/
-  flycheck-languagetool-20241018.1225/flycheck-languagetool-pkg.el
-  flycheck-languagetool-20241018.1225/flycheck-languagetool.el
+Created flycheck-languagetool-20250101.852.tar containing:
+  flycheck-languagetool-20250101.852/
+  flycheck-languagetool-20250101.852/flycheck-languagetool-pkg.el
+  flycheck-languagetool-20250101.852/flycheck-languagetool.el
  ✓ Success:
-  2025-01-01T00:17:04+0000  flycheck-languagetool-20241018.1225.entry
-  2025-01-01T00:17:04+0000  flycheck-languagetool-20241018.1225.tar
-Built flycheck-languagetool in 2.779s, finished at 2025-01-01T00:17:05+0000
+  2025-01-01T23:51:35+0000  flycheck-languagetool-20250101.852.entry
+  2025-01-01T23:51:35+0000  flycheck-languagetool-20250101.852.tar
+Built flycheck-languagetool in 2.548s, finished at 2025-01-01T23:51:36+0000

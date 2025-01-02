@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/emacs-sideline/sideline-blame
 
 Updating /mnt/store/melpa/working/sideline-blame/
-Checking out 24acacc766f7cc8ffb1a7dda695be6eb67ec5670
+Checking out 872c232b7f5d3805bde24607bd0050fc9464f8d6
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/sideline-blame/
-  to /tmp/sideline-blameoMOAlU/sideline-blame-20241130.1118
+  to /tmp/sideline-blame1mDwi9/sideline-blame-20250101.857
     sideline-blame.el -> sideline-blame.el
-Created sideline-blame-20241130.1118.tar containing:
-  sideline-blame-20241130.1118/
-  sideline-blame-20241130.1118/sideline-blame-pkg.el
-  sideline-blame-20241130.1118/sideline-blame.el
+Created sideline-blame-20250101.857.tar containing:
+  sideline-blame-20250101.857/
+  sideline-blame-20250101.857/sideline-blame-pkg.el
+  sideline-blame-20250101.857/sideline-blame.el
  ✓ Success:
-  2025-01-01T00:53:07+0000  sideline-blame-20241130.1118.entry
-  2025-01-01T00:53:07+0000  sideline-blame-20241130.1118.tar
-Built sideline-blame in 2.533s, finished at 2025-01-01T00:53:08+0000
+  2025-01-02T00:27:39+0000  sideline-blame-20250101.857.entry
+  2025-01-02T00:27:39+0000  sideline-blame-20250101.857.tar
+Built sideline-blame in 2.852s, finished at 2025-01-02T00:27:40+0000

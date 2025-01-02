@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/flycheck/flycheck-rust
 
 Updating /mnt/store/melpa/working/flycheck-rust/
-Checking out 4d365ed1c9e8b8ac43561eb365d37ab555a6e617
+Checking out d499471ec433a62898a95ce76561964e3d015ce5
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/flycheck-rust/
-  to /tmp/flycheck-rustVdrFi6/flycheck-rust-20240205.1018
+  to /tmp/flycheck-rustCSMwkN/flycheck-rust-20250101.902
     flycheck-rust.el -> flycheck-rust.el
-Created flycheck-rust-20240205.1018.tar containing:
-  flycheck-rust-20240205.1018/
-  flycheck-rust-20240205.1018/flycheck-rust-pkg.el
-  flycheck-rust-20240205.1018/flycheck-rust.el
+Created flycheck-rust-20250101.902.tar containing:
+  flycheck-rust-20250101.902/
+  flycheck-rust-20250101.902/flycheck-rust-pkg.el
+  flycheck-rust-20250101.902/flycheck-rust.el
  ✓ Success:
-  2025-01-01T00:17:23+0000  flycheck-rust-20240205.1018.entry
-  2025-01-01T00:17:23+0000  flycheck-rust-20240205.1018.tar
-Built flycheck-rust in 2.343s, finished at 2025-01-01T00:17:23+0000
+  2025-01-01T23:51:54+0000  flycheck-rust-20250101.902.entry
+  2025-01-01T23:51:54+0000  flycheck-rust-20250101.902.tar
+Built flycheck-rust in 2.539s, finished at 2025-01-01T23:51:55+0000

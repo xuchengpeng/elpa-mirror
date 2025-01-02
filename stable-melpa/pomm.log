@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/pomm/
 Checking out ba0b30888614a8dc932bd0ab198e08f78950c0e1
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/pomm/
-  to /tmp/pommPNRM3l/pomm-20240709.2156
+  to /tmp/pommkR7t4F/pomm-20240709.2156
     pomm-third-time.el -> pomm-third-time.el
     pomm.el -> pomm.el
     resources => resources
@@ -20,6 +20,6 @@ Created pomm-20240709.2156.tar containing:
   pomm-20240709.2156/resources/bell.wav
   pomm-20240709.2156/resources/tick.wav
  ✓ Success:
-  2025-01-01T00:46:48+0000  pomm-20240709.2156.entry
-  2025-01-01T00:46:48+0000  pomm-20240709.2156.tar
-Built pomm in 2.302s, finished at 2025-01-01T00:46:49+0000
+  2025-01-02T00:21:22+0000  pomm-20240709.2156.entry
+  2025-01-02T00:21:22+0000  pomm-20240709.2156.tar
+Built pomm in 3.901s, finished at 2025-01-02T00:21:23+0000
