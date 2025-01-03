@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/tramp-term/
 Checking out ed75189122737d301f716a30a8013205aa3736f1
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/tramp-term/
-  to /tmp/tramp-termV03lm4/tramp-term-20220725.1441
+  to /tmp/tramp-termsARswL/tramp-term-20220725.1441
     tramp-term.el -> tramp-term.el
 Created tramp-term-20220725.1441.tar containing:
   tramp-term-20220725.1441/
   tramp-term-20220725.1441/tramp-term-pkg.el
   tramp-term-20220725.1441/tramp-term.el
  ✓ Success:
-  2025-01-02T00:33:01+0000  tramp-term-20220725.1441.entry
-  2025-01-02T00:33:01+0000  tramp-term-20220725.1441.tar
-Built tramp-term in 1.635s, finished at 2025-01-02T00:33:01+0000
+  2025-01-03T00:41:41+0000  tramp-term-20220725.1441.entry
+  2025-01-03T00:41:41+0000  tramp-term-20220725.1441.tar
+Built tramp-term in 2.770s, finished at 2025-01-03T00:41:42+0000

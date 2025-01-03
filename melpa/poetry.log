@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/poetry/
 Checking out 1dff0d4a51ea8aff5f6ce97b154ea799902639ad
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/poetry/
-  to /tmp/poetryoftmlv/poetry-20240329.1103
+  to /tmp/poetryPieX8y/poetry-20240329.1103
     poetry.el -> poetry.el
 Created poetry-20240329.1103.tar containing:
   poetry-20240329.1103/
   poetry-20240329.1103/poetry-pkg.el
   poetry-20240329.1103/poetry.el
  ✓ Success:
-  2025-01-02T00:21:00+0000  poetry-20240329.1103.entry
-  2025-01-02T00:21:00+0000  poetry-20240329.1103.tar
-Built poetry in 3.408s, finished at 2025-01-02T00:21:01+0000
+  2025-01-03T00:29:05+0000  poetry-20240329.1103.entry
+  2025-01-03T00:29:05+0000  poetry-20240329.1103.tar
+Built poetry in 2.486s, finished at 2025-01-03T00:29:05+0000

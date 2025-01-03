@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/neon-mode/
 Checking out 23b12659d72a9520850bca72fe64bb7b06fc7b6b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/neon-mode/
-  to /tmp/neon-modebHm7xS/neon-mode-20241220.1304
+  to /tmp/neon-modeS4UYkI/neon-mode-20241220.1304
     neon-mode.el -> neon-mode.el
 Created neon-mode-20241220.1304.tar containing:
   neon-mode-20241220.1304/
   neon-mode-20241220.1304/neon-mode-pkg.el
   neon-mode-20241220.1304/neon-mode.el
  ✓ Success:
-  2025-01-02T00:11:25+0000  neon-mode-20241220.1304.entry
-  2025-01-02T00:11:25+0000  neon-mode-20241220.1304.tar
-Built neon-mode in 2.830s, finished at 2025-01-02T00:11:26+0000
+  2025-01-03T00:19:03+0000  neon-mode-20241220.1304.entry
+  2025-01-03T00:19:03+0000  neon-mode-20241220.1304.tar
+Built neon-mode in 4.762s, finished at 2025-01-03T00:19:05+0000

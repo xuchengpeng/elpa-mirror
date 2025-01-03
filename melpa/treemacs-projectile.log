@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/treemacs-projectile/
 Checking out bcba09c1581c4bd93ff0217d464aead04f6d26d4
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/treemacs-projectile/
-  to /tmp/treemacs-projectile2wgSzf/treemacs-projectile-20240131.2042
+  to /tmp/treemacs-projectilezyVX3p/treemacs-projectile-20240131.2042
   ! src/extra/treemacs-projectile.el -> treemacs-projectile.el
 Created treemacs-projectile-20240131.2042.tar containing:
   treemacs-projectile-20240131.2042/
   treemacs-projectile-20240131.2042/treemacs-projectile-pkg.el
   treemacs-projectile-20240131.2042/treemacs-projectile.el
  ✓ Success:
-  2025-01-02T00:33:25+0000  treemacs-projectile-20240131.2042.entry
-  2025-01-02T00:33:25+0000  treemacs-projectile-20240131.2042.tar
-Built treemacs-projectile in 2.225s, finished at 2025-01-02T00:33:25+0000
+  2025-01-03T00:42:12+0000  treemacs-projectile-20240131.2042.entry
+  2025-01-03T00:42:12+0000  treemacs-projectile-20240131.2042.tar
+Built treemacs-projectile in 2.494s, finished at 2025-01-03T00:42:12+0000

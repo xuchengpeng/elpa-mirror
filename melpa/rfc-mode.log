@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/rfc-mode/
 Checking out ab09db78d9d1baa4da4f926930833598e1e978ce
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/rfc-mode/
-  to /tmp/rfc-modeykARd2/rfc-mode-20231013.1353
+  to /tmp/rfc-mode7XQQD7/rfc-mode-20231013.1353
     rfc-mode.el -> rfc-mode.el
 Created rfc-mode-20231013.1353.tar containing:
   rfc-mode-20231013.1353/
   rfc-mode-20231013.1353/rfc-mode-pkg.el
   rfc-mode-20231013.1353/rfc-mode.el
  ✓ Success:
-  2025-01-02T00:24:58+0000  rfc-mode-20231013.1353.entry
-  2025-01-02T00:24:58+0000  rfc-mode-20231013.1353.tar
-Built rfc-mode in 1.642s, finished at 2025-01-02T00:24:58+0000
+  2025-01-03T00:33:18+0000  rfc-mode-20231013.1353.entry
+  2025-01-03T00:33:18+0000  rfc-mode-20231013.1353.tar
+Built rfc-mode in 1.966s, finished at 2025-01-03T00:33:18+0000
