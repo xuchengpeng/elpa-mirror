@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/recall/
 Checking out 37da3dc6db4f734f76a6f1a2965da59030cd63df
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/recall/
-  to /tmp/recallCfM4D6/recall-20241226.1135
+  to /tmp/recall8ZPuBI/recall-20241226.1135
     recall.el -> recall.el
 Created recall-20241226.1135.tar containing:
   recall-20241226.1135/
   recall-20241226.1135/recall-pkg.el
   recall-20241226.1135/recall.el
  ✓ Success:
-  2025-01-03T00:32:30+0000  recall-20241226.1135.entry
-  2025-01-03T00:32:30+0000  recall-20241226.1135.tar
-Built recall in 2.449s, finished at 2025-01-03T00:32:31+0000
+  2025-01-04T23:56:11+0000  recall-20241226.1135.entry
+  2025-01-04T23:56:11+0000  recall-20241226.1135.tar
+Built recall in 2.707s, finished at 2025-01-04T23:56:12+0000

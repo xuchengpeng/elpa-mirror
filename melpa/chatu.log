@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/chatu/
 Checking out e1420dc4bb63294ece93bf805424c6b5fafa0295
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/chatu/
-  to /tmp/chatuplHkKY/chatu-20250102.1213
+  to /tmp/chatuzuoXlP/chatu-20250102.1213
     chatu-babashka.el -> chatu-babashka.el
     chatu-clojure.el -> chatu-clojure.el
     chatu-common.el -> chatu-common.el
@@ -33,6 +33,6 @@ Created chatu-20250102.1213.tar containing:
   chatu-20250102.1213/chatu-r.el
   chatu-20250102.1213/chatu.el
  ✓ Success:
-  2025-01-02T23:41:45+0000  chatu-20250102.1213.entry
-  2025-01-02T23:41:45+0000  chatu-20250102.1213.tar
-Built chatu in 1.952s, finished at 2025-01-02T23:41:45+0000
+  2025-01-05T01:35:40+0000  chatu-20250102.1213.entry
+  2025-01-05T01:35:40+0000  chatu-20250102.1213.tar
+Built chatu in 2.755s, finished at 2025-01-05T01:35:41+0000

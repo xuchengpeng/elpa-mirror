@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/benchstat/
 Checking out fee86f521f22ef0f99564903d63e2023b591fc7f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/benchstat/
-  to /tmp/benchstatQDH1up/benchstat-20171014.312
+  to /tmp/benchstatYgDT5x/benchstat-20171014.312
     benchstat.el -> benchstat.el
 Created benchstat-20171014.312.tar containing:
   benchstat-20171014.312/
   benchstat-20171014.312/benchstat-pkg.el
   benchstat-20171014.312/benchstat.el
  ✓ Success:
-  2025-01-02T23:38:50+0000  benchstat-20171014.312.entry
-  2025-01-02T23:38:50+0000  benchstat-20171014.312.tar
-Built benchstat in 2.607s, finished at 2025-01-02T23:38:51+0000
+  2025-01-05T01:33:08+0000  benchstat-20171014.312.entry
+  2025-01-05T01:33:08+0000  benchstat-20171014.312.tar
+Built benchstat in 2.250s, finished at 2025-01-05T01:33:09+0000
