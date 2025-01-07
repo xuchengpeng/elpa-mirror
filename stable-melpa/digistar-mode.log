@@ -3,20 +3,20 @@ Fetcher: github
 Source:  https://github.com/retroj/digistar-mode
 
 Updating /mnt/store/melpa/working/digistar-mode/
-Checking out 4c1ebcf22007ecc9e5b236864514b8b31c4b2576
+Checking out fe3f90116c00e3c2f5d17b84c292d418b44dde6e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/digistar-mode/
-  to /tmp/digistar-modexCsULc/digistar-mode-20241229.2007
+  to /tmp/digistar-modeOsi3Gk/digistar-mode-20250106.1737
     digistar-mode.el -> digistar-mode.el
     images => images
-Created digistar-mode-20241229.2007.tar containing:
-  digistar-mode-20241229.2007/
-  digistar-mode-20241229.2007/digistar-mode-pkg.el
-  digistar-mode-20241229.2007/digistar-mode.el
-  digistar-mode-20241229.2007/images/
-  digistar-mode-20241229.2007/images/digistar-play.pbm
-  digistar-mode-20241229.2007/images/digistar-play.xpm
+Created digistar-mode-20250106.1737.tar containing:
+  digistar-mode-20250106.1737/
+  digistar-mode-20250106.1737/digistar-mode-pkg.el
+  digistar-mode-20250106.1737/digistar-mode.el
+  digistar-mode-20250106.1737/images/
+  digistar-mode-20250106.1737/images/digistar-play.pbm
+  digistar-mode-20250106.1737/images/digistar-play.xpm
  ✓ Success:
-  2025-01-04T23:10:50+0000  digistar-mode-20241229.2007.entry
-  2025-01-04T23:10:50+0000  digistar-mode-20241229.2007.tar
-Built digistar-mode in 1.311s, finished at 2025-01-04T23:10:50+0000
+  2025-01-07T00:20:30+0000  digistar-mode-20250106.1737.entry
+  2025-01-07T00:20:30+0000  digistar-mode-20250106.1737.tar
+Built digistar-mode in 1.395s, finished at 2025-01-07T00:20:30+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/beacon/
 Checking out 85261a928ae0ec3b41e639f05291ffd6bf7c231c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/beacon/
-  to /tmp/beaconVPedb3/beacon-20220730.100
+  to /tmp/beaconfN13P2/beacon-20220730.100
     beacon.el -> beacon.el
 Created beacon-20220730.100.tar containing:
   beacon-20220730.100/
   beacon-20220730.100/beacon-pkg.el
   beacon-20220730.100/beacon.el
  ✓ Success:
-  2025-01-05T01:33:03+0000  beacon-20220730.100.entry
-  2025-01-05T01:33:03+0000  beacon-20220730.100.tar
-Built beacon in 2.879s, finished at 2025-01-05T01:33:04+0000
+  2025-01-07T00:11:49+0000  beacon-20220730.100.entry
+  2025-01-07T00:11:48+0000  beacon-20220730.100.tar
+Built beacon in 2.849s, finished at 2025-01-07T00:11:49+0000

@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/bbatsov/projectile
 
 Updating /mnt/store/melpa/working/projectile/
-Checking out 9b466af28bac6d61fd0e717f1a4b0fcd2f18f37f
+Checking out 0404b9b6eeb0c6504337749a366fffd97de2bfbe
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/projectile/
-  to /tmp/projectiledNWhcx/projectile-20241102.1410
+  to /tmp/projectilexhcwtm/projectile-20250106.1438
     projectile.el -> projectile.el
-Created projectile-20241102.1410.tar containing:
-  projectile-20241102.1410/
-  projectile-20241102.1410/projectile-pkg.el
-  projectile-20241102.1410/projectile.el
+Created projectile-20250106.1438.tar containing:
+  projectile-20250106.1438/
+  projectile-20250106.1438/projectile-pkg.el
+  projectile-20250106.1438/projectile.el
  ✓ Success:
-  2025-01-04T23:53:47+0000  projectile-20241102.1410.entry
-  2025-01-04T23:53:47+0000  projectile-20241102.1410.tar
-Built projectile in 3.373s, finished at 2025-01-04T23:53:48+0000
+  2025-01-07T01:05:08+0000  projectile-20250106.1438.entry
+  2025-01-07T01:05:07+0000  projectile-20250106.1438.tar
+Built projectile in 3.949s, finished at 2025-01-07T01:05:09+0000

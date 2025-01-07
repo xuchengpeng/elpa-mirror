@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/beacoder/call-graph
 
 Updating /mnt/store/melpa/working/call-graph/
-Checking out e6f02568d1095d01f3bc7f788f39c3901c448e69
+Checking out 20dd4de35197d4d9d618615f4d13b31d4b5345fe
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/call-graph/
-  to /tmp/call-graph9iIMcc/call-graph-20241209.435
+  to /tmp/call-graphb2GPKS/call-graph-20250106.1659
     call-graph.el -> call-graph.el
-Created call-graph-20241209.435.tar containing:
-  call-graph-20241209.435/
-  call-graph-20241209.435/call-graph-pkg.el
-  call-graph-20241209.435/call-graph.el
+Created call-graph-20250106.1659.tar containing:
+  call-graph-20250106.1659/
+  call-graph-20250106.1659/call-graph-pkg.el
+  call-graph-20250106.1659/call-graph.el
  ✓ Success:
-  2025-01-05T01:34:52+0000  call-graph-20241209.435.entry
-  2025-01-05T01:34:51+0000  call-graph-20241209.435.tar
-Built call-graph in 1.615s, finished at 2025-01-05T01:34:52+0000
+  2025-01-07T00:13:38+0000  call-graph-20250106.1659.entry
+  2025-01-07T00:13:38+0000  call-graph-20250106.1659.tar
+Built call-graph in 1.638s, finished at 2025-01-07T00:13:38+0000

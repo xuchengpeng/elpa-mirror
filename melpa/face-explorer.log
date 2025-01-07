@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/Lindydancer/face-explorer
 
 Updating /mnt/store/melpa/working/face-explorer/
-Checking out ad1300e13e5643e4c246cabfd91f833d39113052
+Checking out 5e5a5f4c05ddcffa5f9c2e46beb1c48740c5ccf7
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/face-explorer/
-  to /tmp/face-explorermYSvkm/face-explorer-20190517.1857
+  to /tmp/face-explorerSmVWPh/face-explorer-20250105.957
     face-explorer.el -> face-explorer.el
-Created face-explorer-20190517.1857.tar containing:
-  face-explorer-20190517.1857/
-  face-explorer-20190517.1857/face-explorer-pkg.el
-  face-explorer-20190517.1857/face-explorer.el
+Created face-explorer-20250105.957.tar containing:
+  face-explorer-20250105.957/
+  face-explorer-20250105.957/face-explorer-pkg.el
+  face-explorer-20250105.957/face-explorer.el
  ✓ Success:
-  2025-01-04T23:19:36+0000  face-explorer-20190517.1857.entry
-  2025-01-04T23:19:36+0000  face-explorer-20190517.1857.tar
-Built face-explorer in 2.404s, finished at 2025-01-04T23:19:36+0000
+  2025-01-07T00:29:50+0000  face-explorer-20250105.957.entry
+  2025-01-07T00:29:49+0000  face-explorer-20250105.957.tar
+Built face-explorer in 3.029s, finished at 2025-01-07T00:29:50+0000
