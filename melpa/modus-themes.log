@@ -3,10 +3,10 @@ Fetcher: github
 Source:  https://github.com/protesilaos/modus-themes
 
 Updating /mnt/store/melpa/working/modus-themes/
-Checking out d807e1f013d1dae0e44860f45c9e9b7b4cb2ce49
+Checking out f4616689bcf56c84ef14bd7150a2bf922c4b47b2
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/modus-themes/
-  to /tmp/modus-themesjUdYgm/modus-themes-20241228.1050
+  to /tmp/modus-themesWXwuSr/modus-themes-20250107.1034
     modus-operandi-deuteranopia-theme.el -> modus-operandi-deuteranopia-theme.el
     modus-operandi-theme.el -> modus-operandi-theme.el
     modus-operandi-tinted-theme.el -> modus-operandi-tinted-theme.el
@@ -19,22 +19,22 @@ Copying files (->) and directories (=>)
   ! doc/modus-themes.info -> modus-themes.info
   ! doc/doclicense.texi -> doclicense.texi
 Generating doclicense.info
-Created modus-themes-20241228.1050.tar containing:
-  modus-themes-20241228.1050/
-  modus-themes-20241228.1050/dir
-  modus-themes-20241228.1050/doclicense.info
-  modus-themes-20241228.1050/modus-operandi-deuteranopia-theme.el
-  modus-themes-20241228.1050/modus-operandi-theme.el
-  modus-themes-20241228.1050/modus-operandi-tinted-theme.el
-  modus-themes-20241228.1050/modus-operandi-tritanopia-theme.el
-  modus-themes-20241228.1050/modus-themes-pkg.el
-  modus-themes-20241228.1050/modus-themes.el
-  modus-themes-20241228.1050/modus-themes.info
-  modus-themes-20241228.1050/modus-vivendi-deuteranopia-theme.el
-  modus-themes-20241228.1050/modus-vivendi-theme.el
-  modus-themes-20241228.1050/modus-vivendi-tinted-theme.el
-  modus-themes-20241228.1050/modus-vivendi-tritanopia-theme.el
+Created modus-themes-20250107.1034.tar containing:
+  modus-themes-20250107.1034/
+  modus-themes-20250107.1034/dir
+  modus-themes-20250107.1034/doclicense.info
+  modus-themes-20250107.1034/modus-operandi-deuteranopia-theme.el
+  modus-themes-20250107.1034/modus-operandi-theme.el
+  modus-themes-20250107.1034/modus-operandi-tinted-theme.el
+  modus-themes-20250107.1034/modus-operandi-tritanopia-theme.el
+  modus-themes-20250107.1034/modus-themes-pkg.el
+  modus-themes-20250107.1034/modus-themes.el
+  modus-themes-20250107.1034/modus-themes.info
+  modus-themes-20250107.1034/modus-vivendi-deuteranopia-theme.el
+  modus-themes-20250107.1034/modus-vivendi-theme.el
+  modus-themes-20250107.1034/modus-vivendi-tinted-theme.el
+  modus-themes-20250107.1034/modus-vivendi-tritanopia-theme.el
  ✓ Success:
-  2025-01-07T00:51:33+0000  modus-themes-20241228.1050.entry
-  2025-01-07T00:51:33+0000  modus-themes-20241228.1050.tar
-Built modus-themes in 4.013s, finished at 2025-01-07T00:51:34+0000
+  2025-01-07T23:53:23+0000  modus-themes-20250107.1034.entry
+  2025-01-07T23:53:23+0000  modus-themes-20250107.1034.tar
+Built modus-themes in 4.002s, finished at 2025-01-07T23:53:24+0000

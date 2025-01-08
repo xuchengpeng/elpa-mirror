@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/helm-git-grep/
 Checking out 744cea07dba6e6a5effbdba83f1b786c78fd86d3
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/helm-git-grep/
-  to /tmp/helm-git-grepyL1ekm/helm-git-grep-20170614.1411
+  to /tmp/helm-git-grep1W2mHE/helm-git-grep-20170614.1411
     helm-git-grep.el -> helm-git-grep.el
 Created helm-git-grep-20170614.1411.tar containing:
   helm-git-grep-20170614.1411/
   helm-git-grep-20170614.1411/helm-git-grep-pkg.el
   helm-git-grep-20170614.1411/helm-git-grep.el
  ✓ Success:
-  2025-01-07T00:38:58+0000  helm-git-grep-20170614.1411.entry
-  2025-01-07T00:38:58+0000  helm-git-grep-20170614.1411.tar
-Built helm-git-grep in 2.675s, finished at 2025-01-07T00:38:59+0000
+  2025-01-07T23:40:52+0000  helm-git-grep-20170614.1411.entry
+  2025-01-07T23:40:52+0000  helm-git-grep-20170614.1411.tar
+Built helm-git-grep in 2.561s, finished at 2025-01-07T23:40:53+0000
