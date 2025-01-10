@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/gmlarumbe/verilog-ts-mode
 
 Updating /mnt/store/melpa/working/verilog-ts-mode/
-Checking out a4ac914bf6a1a915b26a89fb89cdf72e75190977
+Checking out 7470732c2bdc934ce0454e1e8923694164fb1603
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/verilog-ts-mode/
-  to /tmp/verilog-ts-modeDjm6EQ/verilog-ts-mode-20250108.1614
+  to /tmp/verilog-ts-modequk2IG/verilog-ts-mode-20250109.2114
     verilog-ts-mode.el -> verilog-ts-mode.el
-Created verilog-ts-mode-20250108.1614.tar containing:
-  verilog-ts-mode-20250108.1614/
-  verilog-ts-mode-20250108.1614/verilog-ts-mode-pkg.el
-  verilog-ts-mode-20250108.1614/verilog-ts-mode.el
+Created verilog-ts-mode-20250109.2114.tar containing:
+  verilog-ts-mode-20250109.2114/
+  verilog-ts-mode-20250109.2114/verilog-ts-mode-pkg.el
+  verilog-ts-mode-20250109.2114/verilog-ts-mode.el
  ✓ Success:
-  2025-01-09T00:33:01+0000  verilog-ts-mode-20250108.1614.entry
-  2025-01-09T00:33:01+0000  verilog-ts-mode-20250108.1614.tar
-Built verilog-ts-mode in 1.138s, finished at 2025-01-09T00:33:01+0000
+  2025-01-10T00:52:49+0000  verilog-ts-mode-20250109.2114.entry
+  2025-01-10T00:52:49+0000  verilog-ts-mode-20250109.2114.tar
+Built verilog-ts-mode in 1.410s, finished at 2025-01-10T00:52:49+0000

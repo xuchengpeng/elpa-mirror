@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/solidity-mode/
 Checking out 8ba549e429e86778a0e079648f3bc3463fcb15f6
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/solidity-mode/
-  to /tmp/solidity-modePkLVTr/solidity-mode-20230628.1637
+  to /tmp/solidity-modeKs3o5p/solidity-mode-20230628.1637
     solidity-common.el -> solidity-common.el
     solidity-mode.el -> solidity-mode.el
 Created solidity-mode-20230628.1637.tar containing:
@@ -15,6 +15,6 @@ Created solidity-mode-20230628.1637.tar containing:
   solidity-mode-20230628.1637/solidity-mode-pkg.el
   solidity-mode-20230628.1637/solidity-mode.el
  ✓ Success:
-  2025-01-09T00:25:47+0000  solidity-mode-20230628.1637.entry
-  2025-01-09T00:25:47+0000  solidity-mode-20230628.1637.tar
-Built solidity-mode in 2.812s, finished at 2025-01-09T00:25:48+0000
+  2025-01-10T00:46:14+0000  solidity-mode-20230628.1637.entry
+  2025-01-10T00:46:13+0000  solidity-mode-20230628.1637.tar
+Built solidity-mode in 2.597s, finished at 2025-01-10T00:46:14+0000

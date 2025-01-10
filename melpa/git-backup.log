@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/git-backup/
 Checking out e28d7af2d1c58fa5b8068223eb83a73f044e6a6c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/git-backup/
-  to /tmp/git-backupHyKAjw/git-backup-20191209.2144
+  to /tmp/git-backupo3yRyp/git-backup-20191209.2144
     git-backup.el -> git-backup.el
 Created git-backup-20191209.2144.tar containing:
   git-backup-20191209.2144/
   git-backup-20191209.2144/git-backup-pkg.el
   git-backup-20191209.2144/git-backup.el
  ✓ Success:
-  2025-01-08T23:45:56+0000  git-backup-20191209.2144.entry
-  2025-01-08T23:45:56+0000  git-backup-20191209.2144.tar
-Built git-backup in 2.047s, finished at 2025-01-08T23:45:57+0000
+  2025-01-10T00:07:07+0000  git-backup-20191209.2144.entry
+  2025-01-10T00:07:07+0000  git-backup-20191209.2144.tar
+Built git-backup in 2.095s, finished at 2025-01-10T00:07:08+0000

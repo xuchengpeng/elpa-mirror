@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/sotlisp/
 Checking out 04186129f2dccf48e288639b78adeb9c0e94be54
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/sotlisp/
-  to /tmp/sotlispMOKQwG/sotlisp-20220909.803
+  to /tmp/sotlispXxMxgP/sotlisp-20220909.803
     sotlisp.el -> sotlisp.el
 Created sotlisp-20220909.803.tar containing:
   sotlisp-20220909.803/
   sotlisp-20220909.803/sotlisp-pkg.el
   sotlisp-20220909.803/sotlisp.el
  ✓ Success:
-  2025-01-09T00:25:55+0000  sotlisp-20220909.803.entry
-  2025-01-09T00:25:55+0000  sotlisp-20220909.803.tar
-Built sotlisp in 2.587s, finished at 2025-01-09T00:25:56+0000
+  2025-01-10T00:46:21+0000  sotlisp-20220909.803.entry
+  2025-01-10T00:46:21+0000  sotlisp-20220909.803.tar
+Built sotlisp in 2.660s, finished at 2025-01-10T00:46:22+0000

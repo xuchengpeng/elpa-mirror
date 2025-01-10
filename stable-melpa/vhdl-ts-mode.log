@@ -3,16 +3,18 @@ Fetcher: github
 Source:  https://github.com/gmlarumbe/vhdl-ts-mode
 
 Updating /mnt/store/melpa/working/vhdl-ts-mode/
-Checking out aacb5e4920c2b26c0e651f58afda656dfdbd021d
+Checking out 974fbf7af53d65a1560570d13d08faa5dae0b936
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/vhdl-ts-mode/
-  to /tmp/vhdl-ts-modeE4NQ7L/vhdl-ts-mode-20250108.1218
+  to /tmp/vhdl-ts-modeUVqC6k/vhdl-ts-mode-20250110.32
     vhdl-ts-mode.el -> vhdl-ts-mode.el
-Created vhdl-ts-mode-20250108.1218.tar containing:
-  vhdl-ts-mode-20250108.1218/
-  vhdl-ts-mode-20250108.1218/vhdl-ts-mode-pkg.el
-  vhdl-ts-mode-20250108.1218/vhdl-ts-mode.el
+Created vhdl-ts-mode-20250110.32.tar containing:
+  vhdl-ts-mode-20250110.32/
+  vhdl-ts-mode-20250110.32/vhdl-ts-mode-pkg.el
+  vhdl-ts-mode-20250110.32/vhdl-ts-mode.el
  ✓ Success:
-  2025-01-09T00:33:12+0000  vhdl-ts-mode-20250108.1218.entry
-  2025-01-09T00:33:12+0000  vhdl-ts-mode-20250108.1218.tar
-Built vhdl-ts-mode in 1.257s, finished at 2025-01-09T00:33:13+0000
+  2025-01-09T22:16:16+0000  vhdl-ts-mode-20250108.1218.entry
+  2025-01-09T22:16:16+0000  vhdl-ts-mode-20250108.1218.tar
+  2025-01-10T00:52:58+0000  vhdl-ts-mode-20250110.32.entry
+  2025-01-10T00:52:58+0000  vhdl-ts-mode-20250110.32.tar
+Built vhdl-ts-mode in 1.158s, finished at 2025-01-10T00:52:59+0000
