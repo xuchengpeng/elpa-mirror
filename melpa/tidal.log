@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/tidal/
 Checking out 88f09edf6bef2228d5f530dea872b08a9d803066
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/tidal/
-  to /tmp/tidallEY5mM/tidal-20240407.1952
+  to /tmp/tidalw3Yt2M/tidal-20240407.1952
     tidal.el -> tidal.el
 Created tidal-20240407.1952.tar containing:
   tidal-20240407.1952/
   tidal-20240407.1952/tidal-pkg.el
   tidal-20240407.1952/tidal.el
  ✓ Success:
-  2025-01-10T00:49:31+0000  tidal-20240407.1952.entry
-  2025-01-10T00:49:31+0000  tidal-20240407.1952.tar
-Built tidal in 2.395s, finished at 2025-01-10T00:49:31+0000
+  2025-01-11T00:12:05+0000  tidal-20240407.1952.entry
+  2025-01-11T00:12:05+0000  tidal-20240407.1952.tar
+Built tidal in 2.512s, finished at 2025-01-11T00:12:05+0000

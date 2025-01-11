@@ -3,21 +3,20 @@ Fetcher: github
 Source:  https://github.com/oitofelix/eterm-fn
 
 Updating /mnt/store/melpa/working/eterm-fn/
-Checking out 66f3b2f6308fa2ac4d8a32be5a7e35a96e08a9ee
+Checking out b5d433fedc030046ea0e4a217f4dd3846a113fe4
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/eterm-fn/
-  to /tmp/eterm-fn66HNEi/eterm-fn-20191010.2331
-    eterm-fn-pkg.el -> eterm-fn-pkg.el
+  to /tmp/eterm-fnuEWMBD/eterm-fn-20250110.1354
     eterm-fn.el -> eterm-fn.el
     eterm-fn-256color.ti -> eterm-fn-256color.ti
     eterm-fn-color.ti -> eterm-fn-color.ti
-Created eterm-fn-20191010.2331.tar containing:
-  eterm-fn-20191010.2331/
-  eterm-fn-20191010.2331/eterm-fn-256color.ti
-  eterm-fn-20191010.2331/eterm-fn-color.ti
-  eterm-fn-20191010.2331/eterm-fn-pkg.el
-  eterm-fn-20191010.2331/eterm-fn.el
+Created eterm-fn-20250110.1354.tar containing:
+  eterm-fn-20250110.1354/
+  eterm-fn-20250110.1354/eterm-fn-256color.ti
+  eterm-fn-20250110.1354/eterm-fn-color.ti
+  eterm-fn-20250110.1354/eterm-fn-pkg.el
+  eterm-fn-20250110.1354/eterm-fn.el
  ✓ Success:
-  2025-01-09T23:59:54+0000  eterm-fn-20191010.2331.entry
-  2025-01-09T23:59:54+0000  eterm-fn-20191010.2331.tar
-Built eterm-fn in 3.472s, finished at 2025-01-09T23:59:55+0000
+  2025-01-10T23:24:30+0000  eterm-fn-20250110.1354.entry
+  2025-01-10T23:24:30+0000  eterm-fn-20250110.1354.tar
+Built eterm-fn in 3.051s, finished at 2025-01-10T23:24:31+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/elforth/
 Checking out 2d8540434a28e7edaa04a992c3c362832b2fd61e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/elforth/
-  to /tmp/elforthzO27yo/elforth-20210522.928
+  to /tmp/elforthVeMyzT/elforth-20210522.928
     elforth.el -> elforth.el
 Created elforth-20210522.928.tar containing:
   elforth-20210522.928/
   elforth-20210522.928/elforth-pkg.el
   elforth-20210522.928/elforth.el
  ✓ Success:
-  2025-01-09T23:57:07+0000  elforth-20210522.928.entry
-  2025-01-09T23:57:07+0000  elforth-20210522.928.tar
-Built elforth in 0.966s, finished at 2025-01-09T23:57:07+0000
+  2025-01-10T23:21:50+0000  elforth-20210522.928.entry
+  2025-01-10T23:21:50+0000  elforth-20210522.928.tar
+Built elforth in 0.982s, finished at 2025-01-10T23:21:50+0000
