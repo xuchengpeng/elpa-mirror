@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/xml-rpc/
 Checking out fb6183597be1361be02f46c9a53257ac1dd9715e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/xml-rpc/
-  to /tmp/xml-rpc60k1il/xml-rpc-20231009.1432
+  to /tmp/xml-rpc2lkkYA/xml-rpc-20231009.1432
     xml-rpc.el -> xml-rpc.el
 Created xml-rpc-20231009.1432.tar containing:
   xml-rpc-20231009.1432/
   xml-rpc-20231009.1432/xml-rpc-pkg.el
   xml-rpc-20231009.1432/xml-rpc.el
  ✓ Success:
-  2025-01-13T00:25:47+0000  xml-rpc-20231009.1432.entry
-  2025-01-13T00:25:47+0000  xml-rpc-20231009.1432.tar
-Built xml-rpc in 2.639s, finished at 2025-01-13T00:25:48+0000
+  2025-01-14T00:23:54+0000  xml-rpc-20231009.1432.entry
+  2025-01-14T00:23:54+0000  xml-rpc-20231009.1432.tar
+Built xml-rpc in 2.313s, finished at 2025-01-14T00:23:55+0000
