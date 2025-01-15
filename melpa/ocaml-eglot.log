@@ -3,20 +3,22 @@ Fetcher: github
 Source:  https://github.com/tarides/ocaml-eglot
 
 Updating /mnt/store/melpa/working/ocaml-eglot/
-Checking out 1578210d2a1281373c3c6eaf1612ee86dd3f7e33
+Checking out 87f62b11dc48792de85995b95e275d71fb70fe1f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ocaml-eglot/
-  to /tmp/ocaml-eglotVfhYim/ocaml-eglot-20250106.1605
+  to /tmp/ocaml-eglot9NQB8x/ocaml-eglot-20250114.1600
     ocaml-eglot-req.el -> ocaml-eglot-req.el
+    ocaml-eglot-type-enclosing.el -> ocaml-eglot-type-enclosing.el
     ocaml-eglot-util.el -> ocaml-eglot-util.el
     ocaml-eglot.el -> ocaml-eglot.el
-Created ocaml-eglot-20250106.1605.tar containing:
-  ocaml-eglot-20250106.1605/
-  ocaml-eglot-20250106.1605/ocaml-eglot-pkg.el
-  ocaml-eglot-20250106.1605/ocaml-eglot-req.el
-  ocaml-eglot-20250106.1605/ocaml-eglot-util.el
-  ocaml-eglot-20250106.1605/ocaml-eglot.el
+Created ocaml-eglot-20250114.1600.tar containing:
+  ocaml-eglot-20250114.1600/
+  ocaml-eglot-20250114.1600/ocaml-eglot-pkg.el
+  ocaml-eglot-20250114.1600/ocaml-eglot-req.el
+  ocaml-eglot-20250114.1600/ocaml-eglot-type-enclosing.el
+  ocaml-eglot-20250114.1600/ocaml-eglot-util.el
+  ocaml-eglot-20250114.1600/ocaml-eglot.el
  ✓ Success:
-  2025-01-13T23:17:07+0000  ocaml-eglot-20250106.1605.entry
-  2025-01-13T23:17:07+0000  ocaml-eglot-20250106.1605.tar
-Built ocaml-eglot in 2.863s, finished at 2025-01-13T23:17:08+0000
+  2025-01-14T23:50:56+0000  ocaml-eglot-20250114.1600.entry
+  2025-01-14T23:50:56+0000  ocaml-eglot-20250114.1600.tar
+Built ocaml-eglot in 3.080s, finished at 2025-01-14T23:50:57+0000

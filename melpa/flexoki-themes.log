@@ -3,20 +3,20 @@ Fetcher: github
 Source:  https://github.com/crmsnbleyd/flexoki-emacs-theme
 
 Updating /mnt/store/melpa/working/flexoki-themes/
-Checking out 860de68a971e0f8cae98da897ba626ae7c27261e
+Checking out a777d2377a3d80af625c701d182c396316c0338d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/flexoki-themes/
-  to /tmp/flexoki-themesNxCUoJ/flexoki-themes-20240901.1100
+  to /tmp/flexoki-themesoNAWqK/flexoki-themes-20250114.959
     flexoki-themes-dark-theme.el -> flexoki-themes-dark-theme.el
     flexoki-themes-light-theme.el -> flexoki-themes-light-theme.el
     flexoki-themes.el -> flexoki-themes.el
-Created flexoki-themes-20240901.1100.tar containing:
-  flexoki-themes-20240901.1100/
-  flexoki-themes-20240901.1100/flexoki-themes-dark-theme.el
-  flexoki-themes-20240901.1100/flexoki-themes-light-theme.el
-  flexoki-themes-20240901.1100/flexoki-themes-pkg.el
-  flexoki-themes-20240901.1100/flexoki-themes.el
+Created flexoki-themes-20250114.959.tar containing:
+  flexoki-themes-20250114.959/
+  flexoki-themes-20250114.959/flexoki-themes-dark-theme.el
+  flexoki-themes-20250114.959/flexoki-themes-light-theme.el
+  flexoki-themes-20250114.959/flexoki-themes-pkg.el
+  flexoki-themes-20250114.959/flexoki-themes.el
  ✓ Success:
-  2025-01-13T22:51:07+0000  flexoki-themes-20240901.1100.entry
-  2025-01-13T22:51:07+0000  flexoki-themes-20240901.1100.tar
-Built flexoki-themes in 2.342s, finished at 2025-01-13T22:51:08+0000
+  2025-01-14T23:24:41+0000  flexoki-themes-20250114.959.entry
+  2025-01-14T23:24:41+0000  flexoki-themes-20250114.959.tar
+Built flexoki-themes in 2.444s, finished at 2025-01-14T23:24:42+0000
