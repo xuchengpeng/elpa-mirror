@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/conventional-changelog/
 Checking out 97778186ff529a487d7fb0fc20d199d26ef70f5c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/conventional-changelog/
-  to /tmp/conventional-changelogNJNBls/conventional-changelog-20230902.815
+  to /tmp/conventional-changelogHOkx76/conventional-changelog-20230902.815
     conventional-changelog.el -> conventional-changelog.el
 Created conventional-changelog-20230902.815.tar containing:
   conventional-changelog-20230902.815/
   conventional-changelog-20230902.815/conventional-changelog-pkg.el
   conventional-changelog-20230902.815/conventional-changelog.el
  ✓ Success:
-  2025-01-14T23:11:28+0000  conventional-changelog-20230902.815.entry
-  2025-01-14T23:11:28+0000  conventional-changelog-20230902.815.tar
-Built conventional-changelog in 2.467s, finished at 2025-01-14T23:11:28+0000
+  2025-01-17T00:35:36+0000  conventional-changelog-20230902.815.entry
+  2025-01-17T00:35:36+0000  conventional-changelog-20230902.815.tar
+Built conventional-changelog in 3.672s, finished at 2025-01-17T00:35:38+0000

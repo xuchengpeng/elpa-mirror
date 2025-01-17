@@ -3,10 +3,10 @@ Fetcher: github
 Source:  https://github.com/emacs-helm/helm
 
 Updating /mnt/store/melpa/working/helm/
-Checking out 00e8405b2fd8f0a8950d8d3525c77a1a67f223d1
+Checking out 6464df14ac6fecde6103835c8f8a7749c0768304
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/helm/
-  to /tmp/helm3EGbJh/helm-20250113.1722
+  to /tmp/helmeSKg90/helm-20250116.1628
     helm-adaptive.el -> helm-adaptive.el
     helm-bookmark.el -> helm-bookmark.el
     helm-buffers.el -> helm-buffers.el
@@ -47,50 +47,50 @@ Copying files (->) and directories (=>)
     helm-x-files.el -> helm-x-files.el
     helm.el -> helm.el
     emacs-helm.sh -> emacs-helm.sh
-Created helm-20250113.1722.tar containing:
-  helm-20250113.1722/
-  helm-20250113.1722/emacs-helm.sh
-  helm-20250113.1722/helm-adaptive.el
-  helm-20250113.1722/helm-bookmark.el
-  helm-20250113.1722/helm-buffers.el
-  helm-20250113.1722/helm-color.el
-  helm-20250113.1722/helm-command.el
-  helm-20250113.1722/helm-dabbrev.el
-  helm-20250113.1722/helm-easymenu.el
-  helm-20250113.1722/helm-elisp.el
-  helm-20250113.1722/helm-epa.el
-  helm-20250113.1722/helm-eshell.el
-  helm-20250113.1722/helm-eval.el
-  helm-20250113.1722/helm-external.el
-  helm-20250113.1722/helm-fd.el
-  helm-20250113.1722/helm-files.el
-  helm-20250113.1722/helm-find.el
-  helm-20250113.1722/helm-font.el
-  helm-20250113.1722/helm-for-files.el
-  helm-20250113.1722/helm-global-bindings.el
-  helm-20250113.1722/helm-grep.el
-  helm-20250113.1722/helm-help.el
-  helm-20250113.1722/helm-id-utils.el
-  helm-20250113.1722/helm-imenu.el
-  helm-20250113.1722/helm-info.el
-  helm-20250113.1722/helm-locate.el
-  helm-20250113.1722/helm-man.el
-  helm-20250113.1722/helm-misc.el
-  helm-20250113.1722/helm-mode.el
-  helm-20250113.1722/helm-net.el
-  helm-20250113.1722/helm-occur.el
-  helm-20250113.1722/helm-packages.el
-  helm-20250113.1722/helm-pkg.el
-  helm-20250113.1722/helm-regexp.el
-  helm-20250113.1722/helm-ring.el
-  helm-20250113.1722/helm-semantic.el
-  helm-20250113.1722/helm-sys.el
-  helm-20250113.1722/helm-tags.el
-  helm-20250113.1722/helm-types.el
-  helm-20250113.1722/helm-utils.el
-  helm-20250113.1722/helm-x-files.el
-  helm-20250113.1722/helm.el
+Created helm-20250116.1628.tar containing:
+  helm-20250116.1628/
+  helm-20250116.1628/emacs-helm.sh
+  helm-20250116.1628/helm-adaptive.el
+  helm-20250116.1628/helm-bookmark.el
+  helm-20250116.1628/helm-buffers.el
+  helm-20250116.1628/helm-color.el
+  helm-20250116.1628/helm-command.el
+  helm-20250116.1628/helm-dabbrev.el
+  helm-20250116.1628/helm-easymenu.el
+  helm-20250116.1628/helm-elisp.el
+  helm-20250116.1628/helm-epa.el
+  helm-20250116.1628/helm-eshell.el
+  helm-20250116.1628/helm-eval.el
+  helm-20250116.1628/helm-external.el
+  helm-20250116.1628/helm-fd.el
+  helm-20250116.1628/helm-files.el
+  helm-20250116.1628/helm-find.el
+  helm-20250116.1628/helm-font.el
+  helm-20250116.1628/helm-for-files.el
+  helm-20250116.1628/helm-global-bindings.el
+  helm-20250116.1628/helm-grep.el
+  helm-20250116.1628/helm-help.el
+  helm-20250116.1628/helm-id-utils.el
+  helm-20250116.1628/helm-imenu.el
+  helm-20250116.1628/helm-info.el
+  helm-20250116.1628/helm-locate.el
+  helm-20250116.1628/helm-man.el
+  helm-20250116.1628/helm-misc.el
+  helm-20250116.1628/helm-mode.el
+  helm-20250116.1628/helm-net.el
+  helm-20250116.1628/helm-occur.el
+  helm-20250116.1628/helm-packages.el
+  helm-20250116.1628/helm-pkg.el
+  helm-20250116.1628/helm-regexp.el
+  helm-20250116.1628/helm-ring.el
+  helm-20250116.1628/helm-semantic.el
+  helm-20250116.1628/helm-sys.el
+  helm-20250116.1628/helm-tags.el
+  helm-20250116.1628/helm-types.el
+  helm-20250116.1628/helm-utils.el
+  helm-20250116.1628/helm-x-files.el
+  helm-20250116.1628/helm.el
  ✓ Success:
-  2025-01-14T23:31:59+0000  helm-20250113.1722.entry
-  2025-01-14T23:31:59+0000  helm-20250113.1722.tar
-Built helm in 3.838s, finished at 2025-01-14T23:32:00+0000
+  2025-01-16T21:39:58+0000  helm-20250116.1628.entry
+  2025-01-16T21:39:58+0000  helm-20250116.1628.tar
+Built helm in 7.141s, finished at 2025-01-16T21:40:00+0000

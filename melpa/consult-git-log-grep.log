@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/ghosty141/consult-git-log-grep
 
 Updating /mnt/store/melpa/working/consult-git-log-grep/
-Checking out 2dcf5704313a490d5f7b355065b435aa58e5c1fe
+Checking out 2dbedc0efc90c8a0311c9f2244596fe1ee3eddd4
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/consult-git-log-grep/
-  to /tmp/consult-git-log-grep8q2W2L/consult-git-log-grep-20250110.2356
+  to /tmp/consult-git-log-grepBNkXxO/consult-git-log-grep-20250116.1919
     consult-git-log-grep.el -> consult-git-log-grep.el
-Created consult-git-log-grep-20250110.2356.tar containing:
-  consult-git-log-grep-20250110.2356/
-  consult-git-log-grep-20250110.2356/consult-git-log-grep-pkg.el
-  consult-git-log-grep-20250110.2356/consult-git-log-grep.el
+Created consult-git-log-grep-20250116.1919.tar containing:
+  consult-git-log-grep-20250116.1919/
+  consult-git-log-grep-20250116.1919/consult-git-log-grep-pkg.el
+  consult-git-log-grep-20250116.1919/consult-git-log-grep.el
  ✓ Success:
-  2025-01-14T23:11:13+0000  consult-git-log-grep-20250110.2356.entry
-  2025-01-14T23:11:12+0000  consult-git-log-grep-20250110.2356.tar
-Built consult-git-log-grep in 2.877s, finished at 2025-01-14T23:11:13+0000
+  2025-01-17T00:35:17+0000  consult-git-log-grep-20250116.1919.entry
+  2025-01-17T00:35:17+0000  consult-git-log-grep-20250116.1919.tar
+Built consult-git-log-grep in 3.893s, finished at 2025-01-17T00:35:18+0000

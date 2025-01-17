@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/laishulu/emacs-smart-input-source
 
 Updating /mnt/store/melpa/working/sis/
-Checking out fa12ae71e96dc3eb620db301c7e16ea1d15cc4c9
+Checking out 258ee6defb4b9c7f4c4fb082f3801c2557f0ce94
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/sis/
-  to /tmp/sisoWRbFl/sis-20241229.1843
+  to /tmp/sisgiAMOo/sis-20250116.1814
     sis.el -> sis.el
-Created sis-20241229.1843.tar containing:
-  sis-20241229.1843/
-  sis-20241229.1843/sis-pkg.el
-  sis-20241229.1843/sis.el
+Created sis-20250116.1814.tar containing:
+  sis-20250116.1814/
+  sis-20250116.1814/sis-pkg.el
+  sis-20250116.1814/sis.el
  ✓ Success:
-  2025-01-15T00:07:00+0000  sis-20241229.1843.entry
-  2025-01-15T00:07:00+0000  sis-20241229.1843.tar
-Built sis in 2.766s, finished at 2025-01-15T00:07:01+0000
+  2025-01-16T22:26:12+0000  sis-20250116.1814.entry
+  2025-01-16T22:26:12+0000  sis-20250116.1814.tar
+Built sis in 3.916s, finished at 2025-01-16T22:26:14+0000

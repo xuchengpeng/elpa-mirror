@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/tidalcycles/Tidal
 
 Updating /mnt/store/melpa/working/tidal/
-Checking out 88f09edf6bef2228d5f530dea872b08a9d803066
+Checking out bec741611a25a50f06aeb22338eebc73490d5029
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/tidal/
-  to /tmp/tidalgVAyCo/tidal-20240407.1952
+  to /tmp/tidalXPCQgn/tidal-20250116.1219
     tidal.el -> tidal.el
-Created tidal-20240407.1952.tar containing:
-  tidal-20240407.1952/
-  tidal-20240407.1952/tidal-pkg.el
-  tidal-20240407.1952/tidal.el
+Created tidal-20250116.1219.tar containing:
+  tidal-20250116.1219/
+  tidal-20250116.1219/tidal-pkg.el
+  tidal-20250116.1219/tidal.el
  ✓ Success:
-  2025-01-15T00:11:54+0000  tidal-20240407.1952.entry
-  2025-01-15T00:11:54+0000  tidal-20240407.1952.tar
-Built tidal in 2.029s, finished at 2025-01-15T00:11:54+0000
+  2025-01-16T22:32:35+0000  tidal-20250116.1219.entry
+  2025-01-16T22:32:35+0000  tidal-20250116.1219.tar
+Built tidal in 4.030s, finished at 2025-01-16T22:32:36+0000
