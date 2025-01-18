@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/pos-tip/
 Checking out 4889e08cf9077c8589ea6fea4e2ce558614dfcde
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/pos-tip/
-  to /tmp/pos-tipKmzRYP/pos-tip-20240209.837
+  to /tmp/pos-tipb0lLEa/pos-tip-20240209.837
     pos-tip.el -> pos-tip.el
 Created pos-tip-20240209.837.tar containing:
   pos-tip-20240209.837/
   pos-tip-20240209.837/pos-tip-pkg.el
   pos-tip-20240209.837/pos-tip.el
  ✓ Success:
-  2025-01-16T22:16:24+0000  pos-tip-20240209.837.entry
-  2025-01-16T22:16:24+0000  pos-tip-20240209.837.tar
-Built pos-tip in 4.407s, finished at 2025-01-16T22:16:25+0000
+  2025-01-18T00:44:17+0000  pos-tip-20240209.837.entry
+  2025-01-18T00:44:17+0000  pos-tip-20240209.837.tar
+Built pos-tip in 3.783s, finished at 2025-01-18T00:44:19+0000
