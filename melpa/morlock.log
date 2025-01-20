@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/tarsius/morlock
 
 Updating /mnt/store/melpa/working/morlock/
-Checking out cd349e401fd55ce2eab21fb02474ae8aeee39252
+Checking out d704b7d4fcbdf76a7dd8fd4422d07f0fbbc7a0fb
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/morlock/
-  to /tmp/morlock6xaMCa/morlock-20241001.1022
+  to /tmp/morlockpKowOo/morlock-20250117.1641
     morlock.el -> morlock.el
-Created morlock-20241001.1022.tar containing:
-  morlock-20241001.1022/
-  morlock-20241001.1022/morlock-pkg.el
-  morlock-20241001.1022/morlock.el
+Created morlock-20250117.1641.tar containing:
+  morlock-20250117.1641/
+  morlock-20250117.1641/morlock-pkg.el
+  morlock-20250117.1641/morlock.el
  ✓ Success:
-  2025-01-18T22:51:41+0000  morlock-20241001.1022.entry
-  2025-01-18T22:51:41+0000  morlock-20241001.1022.tar
-Built morlock in 3.348s, finished at 2025-01-18T22:51:42+0000
+  2025-01-20T00:29:21+0000  morlock-20250117.1641.entry
+  2025-01-20T00:29:21+0000  morlock-20250117.1641.tar
+Built morlock in 3.058s, finished at 2025-01-20T00:29:22+0000

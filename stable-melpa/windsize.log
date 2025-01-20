@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/windsize/
 Checking out 62c2846bbe95b0a73e996c75e4a644d05f57aaaa
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/windsize/
-  to /tmp/windsizeU3s9xJ/windsize-20181029.2257
+  to /tmp/windsizeh7HpVu/windsize-20181029.2257
     windsize.el -> windsize.el
 Created windsize-20181029.2257.tar containing:
   windsize-20181029.2257/
   windsize-20181029.2257/windsize-pkg.el
   windsize-20181029.2257/windsize.el
  ✓ Success:
-  2025-01-18T23:30:07+0000  windsize-20181029.2257.entry
-  2025-01-18T23:30:07+0000  windsize-20181029.2257.tar
-Built windsize in 4.841s, finished at 2025-01-18T23:30:08+0000
+  2025-01-19T21:56:36+0000  windsize-20181029.2257.entry
+  2025-01-19T21:56:36+0000  windsize-20181029.2257.tar
+Built windsize in 3.092s, finished at 2025-01-19T21:56:37+0000

@@ -3,16 +3,3 @@ Fetcher: github
 Source:  https://github.com/jakewilliami/splunk-mode
 
 Updating /mnt/store/melpa/working/splunk-mode/
-Checking out bc0ad3ed26e2f6d46c430a3f1ab86c93c4483403
-Copying files (->) and directories (=>)
-  from /mnt/store/melpa/working/splunk-mode/
-  to /tmp/splunk-modeEKb0jZ/splunk-mode-20241002.1040
-    splunk-mode.el -> splunk-mode.el
-Created splunk-mode-20241002.1040.tar containing:
-  splunk-mode-20241002.1040/
-  splunk-mode-20241002.1040/splunk-mode-pkg.el
-  splunk-mode-20241002.1040/splunk-mode.el
- ✓ Success:
-  2025-01-18T23:19:53+0000  splunk-mode-20241002.1040.entry
-  2025-01-18T23:19:53+0000  splunk-mode-20241002.1040.tar
-Built splunk-mode in 4.285s, finished at 2025-01-18T23:19:54+0000

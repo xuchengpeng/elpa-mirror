@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/imake/
 Checking out 21951b7081e4b36641bf87793b064e06670943d1
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/imake/
-  to /tmp/imake3Wt5IU/imake-20241001.1019
+  to /tmp/imakeBRYJ1T/imake-20241001.1019
     imake.el -> imake.el
 Created imake-20241001.1019.tar containing:
   imake-20241001.1019/
   imake-20241001.1019/imake-pkg.el
   imake-20241001.1019/imake.el
  ✓ Success:
-  2025-01-18T22:38:50+0000  imake-20241001.1019.entry
-  2025-01-18T22:38:50+0000  imake-20241001.1019.tar
-Built imake in 2.389s, finished at 2025-01-18T22:38:51+0000
+  2025-01-20T00:16:45+0000  imake-20241001.1019.entry
+  2025-01-20T00:16:45+0000  imake-20241001.1019.tar
+Built imake in 1.975s, finished at 2025-01-20T00:16:46+0000

@@ -3,16 +3,16 @@ Fetcher: codeberg
 Source:  https://codeberg.org/ideasman42/emacs-recomplete
 
 Updating /mnt/store/melpa/working/recomplete/
-Checking out 42642d2e0208eae4bb2a2a886b720fc4e3491ab9
+Checking out 9c4245bc1e8961c94e18519528f56c55de1561b2
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/recomplete/
-  to /tmp/recompleteET7ZOV/recomplete-20241208.454
+  to /tmp/recompleteWNZMQk/recomplete-20250119.1158
     recomplete.el -> recomplete.el
-Created recomplete-20241208.454.tar containing:
-  recomplete-20241208.454/
-  recomplete-20241208.454/recomplete-pkg.el
-  recomplete-20241208.454/recomplete.el
+Created recomplete-20250119.1158.tar containing:
+  recomplete-20250119.1158/
+  recomplete-20250119.1158/recomplete-pkg.el
+  recomplete-20250119.1158/recomplete.el
  ✓ Success:
-  2025-01-18T23:11:59+0000  recomplete-20241208.454.entry
-  2025-01-18T23:11:59+0000  recomplete-20241208.454.tar
-Built recomplete in 4.251s, finished at 2025-01-18T23:12:00+0000
+  2025-01-20T00:48:40+0000  recomplete-20250119.1158.entry
+  2025-01-20T00:48:40+0000  recomplete-20250119.1158.tar
+Built recomplete in 4.416s, finished at 2025-01-20T00:48:41+0000
