@@ -6,15 +6,13 @@ Updating /mnt/store/melpa/working/elysium/
 Checking out 98476a2b7165dc31a9e25c4528db70efecf57f1e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/elysium/
-  to /tmp/elysiumnHvcIf/elysium-20250119.2338
+  to /tmp/elysiumD8NaXF/elysium-20250119.2338
     elysium.el -> elysium.el
 Created elysium-20250119.2338.tar containing:
   elysium-20250119.2338/
   elysium-20250119.2338/elysium-pkg.el
   elysium-20250119.2338/elysium.el
  ✓ Success:
-  2025-01-19T20:47:07+0000  elysium-20250115.1236.entry
-  2025-01-19T20:47:07+0000  elysium-20250115.1236.tar
-  2025-01-19T23:55:54+0000  elysium-20250119.2338.entry
-  2025-01-19T23:55:54+0000  elysium-20250119.2338.tar
-Built elysium in 3.681s, finished at 2025-01-19T23:55:55+0000
+  2025-01-20T22:09:14+0000  elysium-20250119.2338.entry
+  2025-01-20T22:09:14+0000  elysium-20250119.2338.tar
+Built elysium in 5.552s, finished at 2025-01-20T22:09:16+0000

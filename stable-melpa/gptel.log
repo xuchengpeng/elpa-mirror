@@ -3,10 +3,10 @@ Fetcher: github
 Source:  https://github.com/karthink/gptel
 
 Updating /mnt/store/melpa/working/gptel/
-Checking out 447a37e715323bc447bbb37e045e0dbacd8e7bad
+Checking out 6f612f9102dde617303f9c59cb71655ed3de3463
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/gptel/
-  to /tmp/gptelDSHmvB/gptel-20250117.543
+  to /tmp/gptelUUz7PQ/gptel-20250120.1757
     gptel-anthropic.el -> gptel-anthropic.el
     gptel-context.el -> gptel-context.el
     gptel-curl.el -> gptel-curl.el
@@ -19,22 +19,22 @@ Copying files (->) and directories (=>)
     gptel-rewrite.el -> gptel-rewrite.el
     gptel-transient.el -> gptel-transient.el
     gptel.el -> gptel.el
-Created gptel-20250117.543.tar containing:
-  gptel-20250117.543/
-  gptel-20250117.543/gptel-anthropic.el
-  gptel-20250117.543/gptel-context.el
-  gptel-20250117.543/gptel-curl.el
-  gptel-20250117.543/gptel-gemini.el
-  gptel-20250117.543/gptel-kagi.el
-  gptel-20250117.543/gptel-ollama.el
-  gptel-20250117.543/gptel-openai.el
-  gptel-20250117.543/gptel-org.el
-  gptel-20250117.543/gptel-pkg.el
-  gptel-20250117.543/gptel-privategpt.el
-  gptel-20250117.543/gptel-rewrite.el
-  gptel-20250117.543/gptel-transient.el
-  gptel-20250117.543/gptel.el
+Created gptel-20250120.1757.tar containing:
+  gptel-20250120.1757/
+  gptel-20250120.1757/gptel-anthropic.el
+  gptel-20250120.1757/gptel-context.el
+  gptel-20250120.1757/gptel-curl.el
+  gptel-20250120.1757/gptel-gemini.el
+  gptel-20250120.1757/gptel-kagi.el
+  gptel-20250120.1757/gptel-ollama.el
+  gptel-20250120.1757/gptel-openai.el
+  gptel-20250120.1757/gptel-org.el
+  gptel-20250120.1757/gptel-pkg.el
+  gptel-20250120.1757/gptel-privategpt.el
+  gptel-20250120.1757/gptel-rewrite.el
+  gptel-20250120.1757/gptel-transient.el
+  gptel-20250120.1757/gptel.el
  ✓ Success:
-  2025-01-20T00:09:48+0000  gptel-20250117.543.entry
-  2025-01-20T00:09:48+0000  gptel-20250117.543.tar
-Built gptel in 4.093s, finished at 2025-01-20T00:09:49+0000
+  2025-01-20T22:22:54+0000  gptel-20250120.1757.entry
+  2025-01-20T22:22:54+0000  gptel-20250120.1757.tar
+Built gptel in 3.759s, finished at 2025-01-20T22:22:55+0000
