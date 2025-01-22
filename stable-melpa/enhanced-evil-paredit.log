@@ -3,16 +3,18 @@ Fetcher: github
 Source:  https://github.com/jamescherti/enhanced-evil-paredit.el
 
 Updating /mnt/store/melpa/working/enhanced-evil-paredit/
-Checking out e4b6c1fd000454d8b7730cc072069cc194f8a2bc
+Checking out 5dc0dc6eb98f5d598cdce25ec674e57ad546a720
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/enhanced-evil-paredit/
-  to /tmp/enhanced-evil-pareditEydgut/enhanced-evil-paredit-20241202.2305
+  to /tmp/enhanced-evil-pareditoLPAOY/enhanced-evil-paredit-20250121.2019
     enhanced-evil-paredit.el -> enhanced-evil-paredit.el
-Created enhanced-evil-paredit-20241202.2305.tar containing:
-  enhanced-evil-paredit-20241202.2305/
-  enhanced-evil-paredit-20241202.2305/enhanced-evil-paredit-pkg.el
-  enhanced-evil-paredit-20241202.2305/enhanced-evil-paredit.el
+Created enhanced-evil-paredit-20250121.2019.tar containing:
+  enhanced-evil-paredit-20250121.2019/
+  enhanced-evil-paredit-20250121.2019/enhanced-evil-paredit-pkg.el
+  enhanced-evil-paredit-20250121.2019/enhanced-evil-paredit.el
  ✓ Success:
-  2025-01-20T22:10:08+0000  enhanced-evil-paredit-20241202.2305.entry
-  2025-01-20T22:10:08+0000  enhanced-evil-paredit-20241202.2305.tar
-Built enhanced-evil-paredit in 3.769s, finished at 2025-01-20T22:10:09+0000
+  2025-01-21T20:02:19+0000  enhanced-evil-paredit-20241202.2305.entry
+  2025-01-21T20:02:19+0000  enhanced-evil-paredit-20241202.2305.tar
+  2025-01-21T23:05:31+0000  enhanced-evil-paredit-20250121.2019.entry
+  2025-01-21T23:05:31+0000  enhanced-evil-paredit-20250121.2019.tar
+Built enhanced-evil-paredit in 3.992s, finished at 2025-01-21T23:05:32+0000
