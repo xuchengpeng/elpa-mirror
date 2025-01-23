@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/sensei/
 Checking out 3538990de9ab57154e3da08d10fbd2c6228d87b8
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/sensei/
-  to /tmp/senseiGwJmUi/sensei-20220530.1226
+  to /tmp/senseiUDH9H9/sensei-20220530.1226
   ! elisp/sensei.el -> sensei.el
 Created sensei-20220530.1226.tar containing:
   sensei-20220530.1226/
   sensei-20220530.1226/sensei-pkg.el
   sensei-20220530.1226/sensei.el
  ✓ Success:
-  2025-01-21T23:58:09+0000  sensei-20220530.1226.entry
-  2025-01-21T23:58:09+0000  sensei-20220530.1226.tar
-Built sensei in 3.671s, finished at 2025-01-21T23:58:10+0000
+  2025-01-23T00:45:57+0000  sensei-20220530.1226.entry
+  2025-01-23T00:45:56+0000  sensei-20220530.1226.tar
+Built sensei in 3.487s, finished at 2025-01-23T00:45:58+0000

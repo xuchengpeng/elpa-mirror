@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/mood-line/
 Checking out d1c024fdf9543fbc0101cd2c6e8b248378f591cd
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mood-line/
-  to /tmp/mood-lineXpl5VX/mood-line-20231210.1309
+  to /tmp/mood-linepyYa8t/mood-line-20231210.1309
     mood-line-segment-checker.el -> mood-line-segment-checker.el
     mood-line-segment-indentation.el -> mood-line-segment-indentation.el
     mood-line-segment-modal.el -> mood-line-segment-modal.el
@@ -21,6 +21,6 @@ Created mood-line-20231210.1309.tar containing:
   mood-line-20231210.1309/mood-line-segment-vc.el
   mood-line-20231210.1309/mood-line.el
  ✓ Success:
-  2025-01-21T23:36:44+0000  mood-line-20231210.1309.entry
-  2025-01-21T23:36:44+0000  mood-line-20231210.1309.tar
-Built mood-line in 4.238s, finished at 2025-01-21T23:36:45+0000
+  2025-01-23T00:23:41+0000  mood-line-20231210.1309.entry
+  2025-01-23T00:23:40+0000  mood-line-20231210.1309.tar
+Built mood-line in 4.449s, finished at 2025-01-23T00:23:42+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/pulseaudio-control/
 Checking out e917e84661b0e2496b295f1bbfba6ad32a656527
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/pulseaudio-control/
-  to /tmp/pulseaudio-controlcpz38n/pulseaudio-control-20230316.1819
+  to /tmp/pulseaudio-controlhPBCs4/pulseaudio-control-20230316.1819
     pulseaudio-control.el -> pulseaudio-control.el
 Created pulseaudio-control-20230316.1819.tar containing:
   pulseaudio-control-20230316.1819/
   pulseaudio-control-20230316.1819/pulseaudio-control-pkg.el
   pulseaudio-control-20230316.1819/pulseaudio-control.el
  ✓ Success:
-  2025-01-21T23:52:14+0000  pulseaudio-control-20230316.1819.entry
-  2025-01-21T23:52:14+0000  pulseaudio-control-20230316.1819.tar
-Built pulseaudio-control in 4.539s, finished at 2025-01-21T23:52:15+0000
+  2025-01-23T00:40:12+0000  pulseaudio-control-20230316.1819.entry
+  2025-01-23T00:40:12+0000  pulseaudio-control-20230316.1819.tar
+Built pulseaudio-control in 9.837s, finished at 2025-01-23T00:40:14+0000

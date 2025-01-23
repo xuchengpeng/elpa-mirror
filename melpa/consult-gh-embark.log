@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/armindarvish/consult-gh
 
 Updating /mnt/store/melpa/working/consult-gh-embark/
-Checking out ec2ae24604b0edf5eff7d7b3e203354478f8f47e
+Checking out 53aa5d08159c1723d4158307d757f5df3cca3ce5
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/consult-gh-embark/
-  to /tmp/consult-gh-embarkJlGlac/consult-gh-embark-20250120.2238
+  to /tmp/consult-gh-embark8ndLfz/consult-gh-embark-20250122.1255
     consult-gh-embark.el -> consult-gh-embark.el
-Created consult-gh-embark-20250120.2238.tar containing:
-  consult-gh-embark-20250120.2238/
-  consult-gh-embark-20250120.2238/consult-gh-embark-pkg.el
-  consult-gh-embark-20250120.2238/consult-gh-embark.el
+Created consult-gh-embark-20250122.1255.tar containing:
+  consult-gh-embark-20250122.1255/
+  consult-gh-embark-20250122.1255/consult-gh-embark-pkg.el
+  consult-gh-embark-20250122.1255/consult-gh-embark.el
  ✓ Success:
-  2025-01-21T22:55:22+0000  consult-gh-embark-20250120.2238.entry
-  2025-01-21T22:55:22+0000  consult-gh-embark-20250120.2238.tar
-Built consult-gh-embark in 4.017s, finished at 2025-01-21T22:55:23+0000
+  2025-01-22T23:41:00+0000  consult-gh-embark-20250122.1255.entry
+  2025-01-22T23:41:00+0000  consult-gh-embark-20250122.1255.tar
+Built consult-gh-embark in 4.003s, finished at 2025-01-22T23:41:01+0000

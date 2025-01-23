@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/mini-echo/
 Checking out e82295c5c7506562fd6da5c907c88c0c32549e5d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mini-echo/
-  to /tmp/mini-echocXesMG/mini-echo-20250121.1533
+  to /tmp/mini-echoAYIMor/mini-echo-20250121.1533
     mini-echo-segments.el -> mini-echo-segments.el
     mini-echo.el -> mini-echo.el
 Created mini-echo-20250121.1533.tar containing:
@@ -15,6 +15,6 @@ Created mini-echo-20250121.1533.tar containing:
   mini-echo-20250121.1533/mini-echo-segments.el
   mini-echo-20250121.1533/mini-echo.el
  ✓ Success:
-  2025-01-21T23:35:44+0000  mini-echo-20250121.1533.entry
-  2025-01-21T23:35:44+0000  mini-echo-20250121.1533.tar
-Built mini-echo in 3.491s, finished at 2025-01-21T23:35:45+0000
+  2025-01-23T00:22:39+0000  mini-echo-20250121.1533.entry
+  2025-01-23T00:22:39+0000  mini-echo-20250121.1533.tar
+Built mini-echo in 3.597s, finished at 2025-01-23T00:22:40+0000

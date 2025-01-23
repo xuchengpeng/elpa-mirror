@@ -3,22 +3,22 @@ Fetcher: gitlab
 Source:  https://gitlab.com/tad-lispy/roc-ts-mode
 
 Updating /mnt/store/melpa/working/roc-ts-mode/
-Checking out de6a523be86c5ec925b8c58c950dcebef233b09a
+Checking out 8b652d53e3eeb457c4a820a5ca0c1ad4430c9d73
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/roc-ts-mode/
-  to /tmp/roc-ts-modebiILX7/roc-ts-mode-20241202.15
+  to /tmp/roc-ts-modeHyinGK/roc-ts-mode-20250122.208
     roc-ts-cli.el -> roc-ts-cli.el
     roc-ts-mode.el -> roc-ts-mode.el
     roc-ts-repl.el -> roc-ts-repl.el
     roc-ts-start.el -> roc-ts-start.el
-Created roc-ts-mode-20241202.15.tar containing:
-  roc-ts-mode-20241202.15/
-  roc-ts-mode-20241202.15/roc-ts-cli.el
-  roc-ts-mode-20241202.15/roc-ts-mode-pkg.el
-  roc-ts-mode-20241202.15/roc-ts-mode.el
-  roc-ts-mode-20241202.15/roc-ts-repl.el
-  roc-ts-mode-20241202.15/roc-ts-start.el
+Created roc-ts-mode-20250122.208.tar containing:
+  roc-ts-mode-20250122.208/
+  roc-ts-mode-20250122.208/roc-ts-cli.el
+  roc-ts-mode-20250122.208/roc-ts-mode-pkg.el
+  roc-ts-mode-20250122.208/roc-ts-mode.el
+  roc-ts-mode-20250122.208/roc-ts-repl.el
+  roc-ts-mode-20250122.208/roc-ts-start.el
  ✓ Success:
-  2025-01-21T23:56:00+0000  roc-ts-mode-20241202.15.entry
-  2025-01-21T23:56:00+0000  roc-ts-mode-20241202.15.tar
-Built roc-ts-mode in 4.413s, finished at 2025-01-21T23:56:01+0000
+  2025-01-23T00:43:49+0000  roc-ts-mode-20250122.208.entry
+  2025-01-23T00:43:49+0000  roc-ts-mode-20250122.208.tar
+Built roc-ts-mode in 7.077s, finished at 2025-01-23T00:43:51+0000
