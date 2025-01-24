@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/liuyinz/coercion.el
 
 Updating /mnt/store/melpa/working/coercion/
-Checking out 62da6ca2d18cb627de48f5b590309001c69864a8
+Checking out aa50f6c51a2363f7827e614c3e533152619dd050
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/coercion/
-  to /tmp/coercion1dJy7G/coercion-20241029.401
+  to /tmp/coercionlQiXAB/coercion-20250123.1931
     coercion.el -> coercion.el
-Created coercion-20241029.401.tar containing:
-  coercion-20241029.401/
-  coercion-20241029.401/coercion-pkg.el
-  coercion-20241029.401/coercion.el
+Created coercion-20250123.1931.tar containing:
+  coercion-20250123.1931/
+  coercion-20250123.1931/coercion-pkg.el
+  coercion-20250123.1931/coercion.el
  ✓ Success:
-  2025-01-22T23:38:42+0000  coercion-20241029.401.entry
-  2025-01-22T23:38:42+0000  coercion-20241029.401.tar
-Built coercion in 3.643s, finished at 2025-01-22T23:38:43+0000
+  2025-01-24T00:30:34+0000  coercion-20250123.1931.entry
+  2025-01-24T00:30:34+0000  coercion-20250123.1931.tar
+Built coercion in 4.036s, finished at 2025-01-24T00:30:35+0000

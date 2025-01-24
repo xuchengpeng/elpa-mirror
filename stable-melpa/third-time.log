@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/third-time/
 Checking out 093b74be860fac389fb173caef5fabf61e417eef
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/third-time/
-  to /tmp/third-timeqSQsUI/third-time-20240207.1621
+  to /tmp/third-timeYE4o3r/third-time-20240207.1621
     third-time.el -> third-time.el
 Created third-time-20240207.1621.tar containing:
   third-time-20240207.1621/
   third-time-20240207.1621/third-time-pkg.el
   third-time-20240207.1621/third-time.el
  ✓ Success:
-  2025-01-23T00:53:16+0000  third-time-20240207.1621.entry
-  2025-01-23T00:53:16+0000  third-time-20240207.1621.tar
-Built third-time in 6.543s, finished at 2025-01-23T00:53:17+0000
+  2025-01-23T22:44:09+0000  third-time-20240207.1621.entry
+  2025-01-23T22:44:08+0000  third-time-20240207.1621.tar
+Built third-time in 4.976s, finished at 2025-01-23T22:44:10+0000

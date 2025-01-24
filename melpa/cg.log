@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/cg/
 Checking out 07e099991185330b1d14e940e6e0e1d203972183
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/cg/
-  to /tmp/cgQTQjT9/cg-20240808.1902
+  to /tmp/cgm4bYKo/cg-20240808.1902
   ! emacs/cg.el -> cg.el
 Created cg-20240808.1902.tar containing:
   cg-20240808.1902/
   cg-20240808.1902/cg-pkg.el
   cg-20240808.1902/cg.el
  ✓ Success:
-  2025-01-22T23:36:49+0000  cg-20240808.1902.entry
-  2025-01-22T23:36:49+0000  cg-20240808.1902.tar
-Built cg in 5.005s, finished at 2025-01-22T23:36:51+0000
+  2025-01-24T00:28:36+0000  cg-20240808.1902.entry
+  2025-01-24T00:28:36+0000  cg-20240808.1902.tar
+Built cg in 4.691s, finished at 2025-01-24T00:28:37+0000
