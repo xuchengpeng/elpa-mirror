@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/cosmo/
 Checking out dd83b09a49a2843606b28279b674b2207040b36b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/cosmo/
-  to /tmp/cosmowdQcE0/cosmo-20170922.744
+  to /tmp/cosmopSWfvm/cosmo-20170922.744
     cosmo.el -> cosmo.el
 Created cosmo-20170922.744.tar containing:
   cosmo-20170922.744/
   cosmo-20170922.744/cosmo-pkg.el
   cosmo-20170922.744/cosmo.el
  ✓ Success:
-  2025-01-24T00:33:39+0000  cosmo-20170922.744.entry
-  2025-01-24T00:33:39+0000  cosmo-20170922.744.tar
-Built cosmo in 6.337s, finished at 2025-01-24T00:33:41+0000
+  2025-01-24T21:59:46+0000  cosmo-20170922.744.entry
+  2025-01-24T21:59:46+0000  cosmo-20170922.744.tar
+Built cosmo in 6.039s, finished at 2025-01-24T21:59:48+0000

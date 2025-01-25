@@ -3,18 +3,18 @@ Fetcher: github
 Source:  https://github.com/armindarvish/consult-gh
 
 Updating /mnt/store/melpa/working/consult-gh/
-Checking out 144454f4dfff9b2ca0e5d8178a35fe5f68a252bf
+Checking out f695812e0ad85bc56757e08f32e30797b1e55906
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/consult-gh/
-  to /tmp/consult-ghtYOGgO/consult-gh-20250123.1733
+  to /tmp/consult-ghsGnSEA/consult-gh-20250124.1210
     consult-gh.el -> consult-gh.el
     consult-gh-transient.el -> consult-gh-transient.el
-Created consult-gh-20250123.1733.tar containing:
-  consult-gh-20250123.1733/
-  consult-gh-20250123.1733/consult-gh-pkg.el
-  consult-gh-20250123.1733/consult-gh-transient.el
-  consult-gh-20250123.1733/consult-gh.el
+Created consult-gh-20250124.1210.tar containing:
+  consult-gh-20250124.1210/
+  consult-gh-20250124.1210/consult-gh-pkg.el
+  consult-gh-20250124.1210/consult-gh-transient.el
+  consult-gh-20250124.1210/consult-gh.el
  ✓ Success:
-  2025-01-24T00:32:43+0000  consult-gh-20250123.1733.entry
-  2025-01-24T00:32:43+0000  consult-gh-20250123.1733.tar
-Built consult-gh in 4.625s, finished at 2025-01-24T00:32:44+0000
+  2025-01-24T21:59:00+0000  consult-gh-20250124.1210.entry
+  2025-01-24T21:59:00+0000  consult-gh-20250124.1210.tar
+Built consult-gh in 4.590s, finished at 2025-01-24T21:59:01+0000

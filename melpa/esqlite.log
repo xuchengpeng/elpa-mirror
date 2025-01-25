@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/esqlite/
 Checking out fae9826cbc255b0f0686a801288f1441bda5f631
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/esqlite/
-  to /tmp/esqlitei5y0Z4/esqlite-20151206.1206
+  to /tmp/esqliteyfeusE/esqlite-20151206.1206
     esqlite.el -> esqlite.el
 Created esqlite-20151206.1206.tar containing:
   esqlite-20151206.1206/
   esqlite-20151206.1206/esqlite-pkg.el
   esqlite-20151206.1206/esqlite.el
  ✓ Success:
-  2025-01-24T00:45:22+0000  esqlite-20151206.1206.entry
-  2025-01-24T00:45:22+0000  esqlite-20151206.1206.tar
-Built esqlite in 5.546s, finished at 2025-01-24T00:45:24+0000
+  2025-01-24T22:10:51+0000  esqlite-20151206.1206.entry
+  2025-01-24T22:10:51+0000  esqlite-20151206.1206.tar
+Built esqlite in 3.589s, finished at 2025-01-24T22:10:53+0000

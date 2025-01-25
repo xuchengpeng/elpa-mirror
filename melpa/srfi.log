@@ -3,18 +3,18 @@ Fetcher: github
 Source:  https://github.com/srfi-explorations/emacs-srfi
 
 Updating /mnt/store/melpa/working/srfi/
-Checking out 9e667e59946c47a78cca88bf708efbe88ccc4a9e
+Checking out b76fa2f8a16034c549e9b629ce7883fdd75885b7
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/srfi/
-  to /tmp/srfi6B7DrT/srfi-20241230.338
+  to /tmp/srfiR7kmRl/srfi-20250124.1855
     srfi-data.el -> srfi-data.el
     srfi.el -> srfi.el
-Created srfi-20241230.338.tar containing:
-  srfi-20241230.338/
-  srfi-20241230.338/srfi-data.el
-  srfi-20241230.338/srfi-pkg.el
-  srfi-20241230.338/srfi.el
+Created srfi-20250124.1855.tar containing:
+  srfi-20250124.1855/
+  srfi-20250124.1855/srfi-data.el
+  srfi-20250124.1855/srfi-pkg.el
+  srfi-20250124.1855/srfi.el
  ✓ Success:
-  2025-01-23T22:40:48+0000  srfi-20241230.338.entry
-  2025-01-23T22:40:48+0000  srfi-20241230.338.tar
-Built srfi in 3.941s, finished at 2025-01-23T22:40:49+0000
+  2025-01-24T23:09:15+0000  srfi-20250124.1855.entry
+  2025-01-24T23:09:14+0000  srfi-20250124.1855.tar
+Built srfi in 4.034s, finished at 2025-01-24T23:09:16+0000

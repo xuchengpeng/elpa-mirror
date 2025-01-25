@@ -3,20 +3,22 @@ Fetcher: github
 Source:  https://github.com/federicotdn/verb
 
 Updating /mnt/store/melpa/working/verb/
-Checking out 77798d2566e741b86fb52826d21faad742120eae
+Checking out d5ce01b19bb49ea1417970409879d5368841b117
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/verb/
-  to /tmp/verbcRa2J8/verb-20250120.1743
+  to /tmp/verbSvnL7X/verb-20250124.2302
     ob-verb.el -> ob-verb.el
     verb-util.el -> verb-util.el
     verb.el -> verb.el
-Created verb-20250120.1743.tar containing:
-  verb-20250120.1743/
-  verb-20250120.1743/ob-verb.el
-  verb-20250120.1743/verb-pkg.el
-  verb-20250120.1743/verb-util.el
-  verb-20250120.1743/verb.el
+Created verb-20250124.2302.tar containing:
+  verb-20250124.2302/
+  verb-20250124.2302/ob-verb.el
+  verb-20250124.2302/verb-pkg.el
+  verb-20250124.2302/verb-util.el
+  verb-20250124.2302/verb.el
  ✓ Success:
-  2025-01-23T22:47:51+0000  verb-20250120.1743.entry
-  2025-01-23T22:47:51+0000  verb-20250120.1743.tar
-Built verb in 3.810s, finished at 2025-01-23T22:47:52+0000
+  2025-01-24T20:12:59+0000  verb-20250120.1743.entry
+  2025-01-24T20:12:59+0000  verb-20250120.1743.tar
+  2025-01-24T23:17:10+0000  verb-20250124.2302.entry
+  2025-01-24T23:17:10+0000  verb-20250124.2302.tar
+Built verb in 6.938s, finished at 2025-01-24T23:17:12+0000

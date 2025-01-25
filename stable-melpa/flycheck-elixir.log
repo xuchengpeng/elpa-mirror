@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/flycheck-elixir/
 Checking out b57a77a21d6cf9621b3387831cba34135c4fa35d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/flycheck-elixir/
-  to /tmp/flycheck-elixirXgEeP7/flycheck-elixir-20210413.612
+  to /tmp/flycheck-elixirWNOMxZ/flycheck-elixir-20210413.612
     flycheck-elixir.el -> flycheck-elixir.el
 Created flycheck-elixir-20210413.612.tar containing:
   flycheck-elixir-20210413.612/
   flycheck-elixir-20210413.612/flycheck-elixir-pkg.el
   flycheck-elixir-20210413.612/flycheck-elixir.el
  ✓ Success:
-  2025-01-24T00:49:39+0000  flycheck-elixir-20210413.612.entry
-  2025-01-24T00:49:39+0000  flycheck-elixir-20210413.612.tar
-Built flycheck-elixir in 3.221s, finished at 2025-01-24T00:49:40+0000
+  2025-01-24T22:15:49+0000  flycheck-elixir-20210413.612.entry
+  2025-01-24T22:15:49+0000  flycheck-elixir-20210413.612.tar
+Built flycheck-elixir in 3.361s, finished at 2025-01-24T22:15:50+0000

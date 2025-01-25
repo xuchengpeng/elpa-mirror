@@ -1,12 +1,12 @@
 Package: binky
 Fetcher: github
-Source:  https://github.com/liuyinz/binky.el
+Source:  https://github.com/eki3z/binky.el
 
-Updating /mnt/store/melpa/working/binky/
+Cloning https://github.com/eki3z/binky.el to /mnt/store/melpa/working/binky/
 Checking out 29f2492366ced8ff13802faf4a1c6df5e0c9cb07
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/binky/
-  to /tmp/binkyNTZwRS/binky-20250123.1928
+  to /tmp/binky2Xtqvk/binky-20250123.1928
     binky-margin.el -> binky-margin.el
     binky.el -> binky.el
 Created binky-20250123.1928.tar containing:
@@ -15,6 +15,6 @@ Created binky-20250123.1928.tar containing:
   binky-20250123.1928/binky-pkg.el
   binky-20250123.1928/binky.el
  ✓ Success:
-  2025-01-24T00:25:31+0000  binky-20250123.1928.entry
-  2025-01-24T00:25:30+0000  binky-20250123.1928.tar
-Built binky in 3.854s, finished at 2025-01-24T00:25:32+0000
+  2025-01-24T21:52:00+0000  binky-20250123.1928.entry
+  2025-01-24T21:52:00+0000  binky-20250123.1928.tar
+Built binky in 4.483s, finished at 2025-01-24T21:52:02+0000

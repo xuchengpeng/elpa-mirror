@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/ansilove/
 Checking out abd64819dc67e1ababd38d39c7c7f6a2459987c0
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ansilove/
-  to /tmp/ansilovev56CuQ/ansilove-20230210.1338
+  to /tmp/ansiloveMSS75Y/ansilove-20230210.1338
   ! src/ansilove.el -> ansilove.el
 Created ansilove-20230210.1338.tar containing:
   ansilove-20230210.1338/
   ansilove-20230210.1338/ansilove-pkg.el
   ansilove-20230210.1338/ansilove.el
  ✓ Success:
-  2025-01-24T00:22:25+0000  ansilove-20230210.1338.entry
-  2025-01-24T00:22:25+0000  ansilove-20230210.1338.tar
-Built ansilove in 4.214s, finished at 2025-01-24T00:22:26+0000
+  2025-01-24T21:48:59+0000  ansilove-20230210.1338.entry
+  2025-01-24T21:48:59+0000  ansilove-20230210.1338.tar
+Built ansilove in 4.604s, finished at 2025-01-24T21:49:01+0000
