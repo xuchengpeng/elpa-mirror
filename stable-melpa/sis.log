@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/sis/
 Checking out 16cde9e5c0a262933ff22e1e56d872b2cb64fa06
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/sis/
-  to /tmp/sisb5YjNi/sis-20250120.852
+  to /tmp/sisLx0SpF/sis-20250120.852
     sis.el -> sis.el
 Created sis-20250120.852.tar containing:
   sis-20250120.852/
   sis-20250120.852/sis-pkg.el
   sis-20250120.852/sis.el
  ✓ Success:
-  2025-01-24T23:06:40+0000  sis-20250120.852.entry
-  2025-01-24T23:06:40+0000  sis-20250120.852.tar
-Built sis in 3.792s, finished at 2025-01-24T23:06:41+0000
+  2025-01-25T22:53:32+0000  sis-20250120.852.entry
+  2025-01-25T22:53:31+0000  sis-20250120.852.tar
+Built sis in 5.489s, finished at 2025-01-25T22:53:33+0000

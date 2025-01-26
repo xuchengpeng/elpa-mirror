@@ -2,17 +2,17 @@ Package: coercion
 Fetcher: github
 Source:  https://github.com/eki3z/coercion.el
 
-Cloning https://github.com/eki3z/coercion.el to /mnt/store/melpa/working/coercion/
+Updating /mnt/store/melpa/working/coercion/
 Checking out aa50f6c51a2363f7827e614c3e533152619dd050
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/coercion/
-  to /tmp/coercionSBNd5Y/coercion-20250123.1931
+  to /tmp/coercionxlR0xx/coercion-20250123.1931
     coercion.el -> coercion.el
 Created coercion-20250123.1931.tar containing:
   coercion-20250123.1931/
   coercion-20250123.1931/coercion-pkg.el
   coercion-20250123.1931/coercion.el
  ✓ Success:
-  2025-01-24T21:57:02+0000  coercion-20250123.1931.entry
-  2025-01-24T21:57:02+0000  coercion-20250123.1931.tar
-Built coercion in 8.551s, finished at 2025-01-24T21:57:03+0000
+  2025-01-26T00:44:25+0000  coercion-20250123.1931.entry
+  2025-01-26T00:44:25+0000  coercion-20250123.1931.tar
+Built coercion in 3.407s, finished at 2025-01-26T00:44:26+0000

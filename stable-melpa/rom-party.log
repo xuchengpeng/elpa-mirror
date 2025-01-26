@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/rom-party/
 Checking out 60da757070d23c5f33b89b787ee01a280539c4f1
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/rom-party/
-  to /tmp/rom-partyEKKU2u/rom-party-20240830.1225
+  to /tmp/rom-partyraLog4/rom-party-20240830.1225
     rom-party.el -> rom-party.el
     index.extmap.gz -> index.extmap.gz
 Created rom-party-20240830.1225.tar containing:
@@ -15,6 +15,6 @@ Created rom-party-20240830.1225.tar containing:
   rom-party-20240830.1225/rom-party-pkg.el
   rom-party-20240830.1225/rom-party.el
  ✓ Success:
-  2025-01-24T23:03:02+0000  rom-party-20240830.1225.entry
-  2025-01-24T23:03:02+0000  rom-party-20240830.1225.tar
-Built rom-party in 4.778s, finished at 2025-01-24T23:03:03+0000
+  2025-01-25T22:50:08+0000  rom-party-20240830.1225.entry
+  2025-01-25T22:50:08+0000  rom-party-20240830.1225.tar
+Built rom-party in 5.869s, finished at 2025-01-25T22:50:09+0000

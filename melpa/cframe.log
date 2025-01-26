@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/cframe/
 Checking out 47b78e6ca389637a35963457ef2eda823fc1ebd1
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/cframe/
-  to /tmp/cframeh5QWju/cframe-20250123.1231
+  to /tmp/cframe72xHli/cframe-20250123.1231
     cframe.el -> cframe.el
 Created cframe-20250123.1231.tar containing:
   cframe-20250123.1231/
   cframe-20250123.1231/cframe-pkg.el
   cframe-20250123.1231/cframe.el
  ✓ Success:
-  2025-01-24T21:54:54+0000  cframe-20250123.1231.entry
-  2025-01-24T21:54:54+0000  cframe-20250123.1231.tar
-Built cframe in 3.580s, finished at 2025-01-24T21:54:56+0000
+  2025-01-26T00:42:32+0000  cframe-20250123.1231.entry
+  2025-01-26T00:42:31+0000  cframe-20250123.1231.tar
+Built cframe in 3.344s, finished at 2025-01-26T00:42:33+0000

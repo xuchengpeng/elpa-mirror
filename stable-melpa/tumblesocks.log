@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/tumblesocks/
 Checking out 4e72482b21750f495bffa6785b873d86743e9c0a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/tumblesocks/
-  to /tmp/tumblesocks8HIGop/tumblesocks-20250109.547
+  to /tmp/tumblesocksE67vqY/tumblesocks-20250109.547
     tumblesocks-api.el -> tumblesocks-api.el
     tumblesocks-compose.el -> tumblesocks-compose.el
     tumblesocks-user.el -> tumblesocks-user.el
@@ -21,6 +21,6 @@ Created tumblesocks-20250109.547.tar containing:
   tumblesocks-20250109.547/tumblesocks-view.el
   tumblesocks-20250109.547/tumblesocks.el
  ✓ Success:
-  2025-01-24T23:14:48+0000  tumblesocks-20250109.547.entry
-  2025-01-24T23:14:47+0000  tumblesocks-20250109.547.tar
-Built tumblesocks in 3.782s, finished at 2025-01-24T23:14:49+0000
+  2025-01-25T23:01:24+0000  tumblesocks-20250109.547.entry
+  2025-01-25T23:01:24+0000  tumblesocks-20250109.547.tar
+Built tumblesocks in 5.551s, finished at 2025-01-25T23:01:26+0000

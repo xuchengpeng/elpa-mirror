@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/ibrowse/
 Checking out addfec54f2c33d505d10bb5f17c084876db5baed
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ibrowse/
-  to /tmp/ibrowsejyZQGr/ibrowse-20230926.2056
+  to /tmp/ibrowseI1A5Sm/ibrowse-20230926.2056
     ibrowse-bookmark-chromium.el -> ibrowse-bookmark-chromium.el
     ibrowse-bookmark-firefox.el -> ibrowse-bookmark-firefox.el
     ibrowse-bookmark.el -> ibrowse-bookmark.el
@@ -27,6 +27,6 @@ Created ibrowse-20230926.2056.tar containing:
   ibrowse-20230926.2056/ibrowse-tab.el
   ibrowse-20230926.2056/ibrowse.el
  ✓ Success:
-  2025-01-24T22:29:20+0000  ibrowse-20230926.2056.entry
-  2025-01-24T22:29:20+0000  ibrowse-20230926.2056.tar
-Built ibrowse in 8.568s, finished at 2025-01-24T22:29:22+0000
+  2025-01-25T22:17:54+0000  ibrowse-20230926.2056.entry
+  2025-01-25T22:17:54+0000  ibrowse-20230926.2056.tar
+Built ibrowse in 5.140s, finished at 2025-01-25T22:17:56+0000

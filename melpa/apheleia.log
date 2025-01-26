@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/apheleia/
 Checking out 049325e7734603e3c7ba05f26016beccafefb473
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/apheleia/
-  to /tmp/apheleiatrjdg0/apheleia-20250122.624
+  to /tmp/apheleiaWbHf4W/apheleia-20250122.624
     apheleia-dp.el -> apheleia-dp.el
     apheleia-formatter-context.el -> apheleia-formatter-context.el
     apheleia-formatters.el -> apheleia-formatters.el
@@ -34,6 +34,6 @@ Created apheleia-20250122.624.tar containing:
   apheleia-20250122.624/scripts/formatters/apheleia-phpcs
   apheleia-20250122.624/scripts/formatters/pnp-bin.js
  ✓ Success:
-  2025-01-24T21:49:07+0000  apheleia-20250122.624.entry
-  2025-01-24T21:49:07+0000  apheleia-20250122.624.tar
-Built apheleia in 4.033s, finished at 2025-01-24T21:49:09+0000
+  2025-01-26T00:36:59+0000  apheleia-20250122.624.entry
+  2025-01-26T00:36:58+0000  apheleia-20250122.624.tar
+Built apheleia in 3.796s, finished at 2025-01-26T00:37:00+0000

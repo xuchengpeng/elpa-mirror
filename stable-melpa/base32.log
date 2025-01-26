@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/base32/
 Checking out 927257e97a602b6979a75028e8417bf1499582d4
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/base32/
-  to /tmp/base32n3Jp38/base32-20240227.1821
+  to /tmp/base32JfEY1B/base32-20240227.1821
     base32.el -> base32.el
 Created base32-20240227.1821.tar containing:
   base32-20240227.1821/
   base32-20240227.1821/base32-pkg.el
   base32-20240227.1821/base32.el
  ✓ Success:
-  2025-01-24T21:51:09+0000  base32-20240227.1821.entry
-  2025-01-24T21:51:08+0000  base32-20240227.1821.tar
-Built base32 in 4.593s, finished at 2025-01-24T21:51:10+0000
+  2025-01-26T00:38:54+0000  base32-20240227.1821.entry
+  2025-01-26T00:38:54+0000  base32-20240227.1821.tar
+Built base32 in 4.486s, finished at 2025-01-26T00:38:55+0000

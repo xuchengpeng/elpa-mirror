@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/test-c/
 Checking out 761a576f62c7021ba941f178f153c51289df1553
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/test-c/
-  to /tmp/test-c3n8V8u/test-c-20180423.1720
+  to /tmp/test-cmZlcaO/test-c-20180423.1720
     test-c.el -> test-c.el
 Created test-c-20180423.1720.tar containing:
   test-c-20180423.1720/
   test-c-20180423.1720/test-c-pkg.el
   test-c-20180423.1720/test-c.el
  ✓ Success:
-  2025-01-24T23:12:25+0000  test-c-20180423.1720.entry
-  2025-01-24T23:12:25+0000  test-c-20180423.1720.tar
-Built test-c in 3.937s, finished at 2025-01-24T23:12:26+0000
+  2025-01-25T22:58:55+0000  test-c-20180423.1720.entry
+  2025-01-25T22:58:55+0000  test-c-20180423.1720.tar
+Built test-c in 3.732s, finished at 2025-01-25T22:58:56+0000

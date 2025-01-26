@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/helm-twitch/
 Checking out 27fbec24cc250d508cd2f4286da16262752908eb
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/helm-twitch/
-  to /tmp/helm-twitchPFzWh2/helm-twitch-20220420.1625
+  to /tmp/helm-twitch3R0bII/helm-twitch-20220420.1625
     helm-twitch.el -> helm-twitch.el
 Created helm-twitch-20220420.1625.tar containing:
   helm-twitch-20220420.1625/
   helm-twitch-20220420.1625/helm-twitch-pkg.el
   helm-twitch-20220420.1625/helm-twitch.el
  ✓ Success:
-  2025-01-24T22:26:59+0000  helm-twitch-20220420.1625.entry
-  2025-01-24T22:26:59+0000  helm-twitch-20220420.1625.tar
-Built helm-twitch in 3.499s, finished at 2025-01-24T22:27:00+0000
+  2025-01-25T22:16:02+0000  helm-twitch-20220420.1625.entry
+  2025-01-25T22:16:02+0000  helm-twitch-20220420.1625.tar
+Built helm-twitch in 3.245s, finished at 2025-01-25T22:16:03+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/flycheck-d-unittest/
 Checking out 3e614f23cb4a5566fd7988dbcaaf254af81c7718
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/flycheck-d-unittest/
-  to /tmp/flycheck-d-unittestrpL4lg/flycheck-d-unittest-20160522.417
+  to /tmp/flycheck-d-unittestPUK2yR/flycheck-d-unittest-20160522.417
     flycheck-d-unittest.el -> flycheck-d-unittest.el
 Created flycheck-d-unittest-20160522.417.tar containing:
   flycheck-d-unittest-20160522.417/
   flycheck-d-unittest-20160522.417/flycheck-d-unittest-pkg.el
   flycheck-d-unittest-20160522.417/flycheck-d-unittest.el
  ✓ Success:
-  2025-01-24T22:15:37+0000  flycheck-d-unittest-20160522.417.entry
-  2025-01-24T22:15:37+0000  flycheck-d-unittest-20160522.417.tar
-Built flycheck-d-unittest in 6.055s, finished at 2025-01-24T22:15:39+0000
+  2025-01-25T22:05:32+0000  flycheck-d-unittest-20160522.417.entry
+  2025-01-25T22:05:32+0000  flycheck-d-unittest-20160522.417.tar
+Built flycheck-d-unittest in 3.158s, finished at 2025-01-25T22:05:33+0000

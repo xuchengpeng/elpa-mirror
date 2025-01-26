@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/sx/
 Checking out 8c1c28f33d714fc8869e49f5642e1a585c8c85af
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/sx/
-  to /tmp/sxais3Y6/sx-20240126.2120
+  to /tmp/sxr3QyES/sx-20240126.2120
     sx-auth.el -> sx-auth.el
     sx-babel.el -> sx-babel.el
     sx-button.el -> sx-button.el
@@ -65,6 +65,6 @@ Created sx-20240126.2120.tar containing:
   sx-20240126.2120/sx-user.el
   sx-20240126.2120/sx.el
  ✓ Success:
-  2025-01-24T23:11:02+0000  sx-20240126.2120.entry
-  2025-01-24T23:11:01+0000  sx-20240126.2120.tar
-Built sx in 5.388s, finished at 2025-01-24T23:11:03+0000
+  2025-01-25T22:57:35+0000  sx-20240126.2120.entry
+  2025-01-25T22:57:35+0000  sx-20240126.2120.tar
+Built sx in 4.444s, finished at 2025-01-25T22:57:36+0000

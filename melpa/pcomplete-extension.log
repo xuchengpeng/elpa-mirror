@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/pcomplete-extension/
 Checking out bc5eb204fee659e0980056009409b44bc7655716
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/pcomplete-extension/
-  to /tmp/pcomplete-extensionqNrzBx/pcomplete-extension-20190928.519
+  to /tmp/pcomplete-extensionVaKY2P/pcomplete-extension-20190928.519
     pcomplete-extension.el -> pcomplete-extension.el
 Created pcomplete-extension-20190928.519.tar containing:
   pcomplete-extension-20190928.519/
   pcomplete-extension-20190928.519/pcomplete-extension-pkg.el
   pcomplete-extension-20190928.519/pcomplete-extension.el
  ✓ Success:
-  2025-01-24T22:55:06+0000  pcomplete-extension-20190928.519.entry
-  2025-01-24T22:55:06+0000  pcomplete-extension-20190928.519.tar
-Built pcomplete-extension in 3.655s, finished at 2025-01-24T22:55:07+0000
+  2025-01-25T22:42:20+0000  pcomplete-extension-20190928.519.entry
+  2025-01-25T22:42:20+0000  pcomplete-extension-20190928.519.tar
+Built pcomplete-extension in 3.230s, finished at 2025-01-25T22:42:21+0000

@@ -2,17 +2,17 @@ Package: consult-todo
 Fetcher: github
 Source:  https://github.com/eki3z/consult-todo
 
-Cloning https://github.com/eki3z/consult-todo to /mnt/store/melpa/working/consult-todo/
+Updating /mnt/store/melpa/working/consult-todo/
 Checking out 0d962bd5115ae312505df7f63c9cb82a225245ca
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/consult-todo/
-  to /tmp/consult-todoQjdk4t/consult-todo-20250123.1915
+  to /tmp/consult-todolIG5k3/consult-todo-20250123.1915
     consult-todo.el -> consult-todo.el
 Created consult-todo-20250123.1915.tar containing:
   consult-todo-20250123.1915/
   consult-todo-20250123.1915/consult-todo-pkg.el
   consult-todo-20250123.1915/consult-todo.el
  ✓ Success:
-  2025-01-24T21:59:14+0000  consult-todo-20250123.1915.entry
-  2025-01-24T21:59:14+0000  consult-todo-20250123.1915.tar
-Built consult-todo in 2.991s, finished at 2025-01-24T21:59:15+0000
+  2025-01-26T00:46:51+0000  consult-todo-20250123.1915.entry
+  2025-01-26T00:46:51+0000  consult-todo-20250123.1915.tar
+Built consult-todo in 3.459s, finished at 2025-01-26T00:46:52+0000

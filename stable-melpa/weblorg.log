@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/weblorg/
 Checking out 0db218bd6b2e083546d3a69a022dfb1a08900acd
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/weblorg/
-  to /tmp/weblorgZCkLMM/weblorg-20240711.940
+  to /tmp/weblorgrUS83M/weblorg-20240711.940
     weblorg.el -> weblorg.el
     themes => themes
 Created weblorg-20240711.940.tar containing:
@@ -33,6 +33,6 @@ Created weblorg-20240711.940.tar containing:
   weblorg-20240711.940/weblorg-pkg.el
   weblorg-20240711.940/weblorg.el
  ✓ Success:
-  2025-01-24T23:18:53+0000  weblorg-20240711.940.entry
-  2025-01-24T23:18:53+0000  weblorg-20240711.940.tar
-Built weblorg in 3.615s, finished at 2025-01-24T23:18:54+0000
+  2025-01-25T23:04:45+0000  weblorg-20240711.940.entry
+  2025-01-25T23:04:45+0000  weblorg-20240711.940.tar
+Built weblorg in 3.491s, finished at 2025-01-25T23:04:46+0000

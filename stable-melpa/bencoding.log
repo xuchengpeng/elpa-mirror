@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/bencoding/
 Checking out 409836f2cf4883826600de42519ee9cffeb48a11
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/bencoding/
-  to /tmp/bencoding8nHJob/bencoding-20200331.1102
+  to /tmp/bencoding7OPPOr/bencoding-20200331.1102
     bencoding.el -> bencoding.el
 Created bencoding-20200331.1102.tar containing:
   bencoding-20200331.1102/
   bencoding-20200331.1102/bencoding-pkg.el
   bencoding-20200331.1102/bencoding.el
  ✓ Success:
-  2025-01-24T21:51:35+0000  bencoding-20200331.1102.entry
-  2025-01-24T21:51:35+0000  bencoding-20200331.1102.tar
-Built bencoding in 3.795s, finished at 2025-01-24T21:51:36+0000
+  2025-01-26T00:39:19+0000  bencoding-20200331.1102.entry
+  2025-01-26T00:39:19+0000  bencoding-20200331.1102.tar
+Built bencoding in 3.563s, finished at 2025-01-26T00:39:20+0000

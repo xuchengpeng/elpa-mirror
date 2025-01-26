@@ -811,7 +811,6 @@
   (contextual-menubar :url "https://github.com/aaronjensen/contextual-menubar")
   (contrast-color :url "https://github.com/yuutayamada/contrast-color-el")
   (control-mode :url "https://github.com/stephendavidmarsh/control-mode")
-  (conventional-changelog :url "https://github.com/eki3z/emacs-conventional-changelog")
   (cool-mode :url "https://github.com/nverno/cool-mode")
   (copilot :url "https://github.com/copilot-emacs/copilot.el")
   (copilot-chat :url "https://github.com/chep/copilot-chat.el")

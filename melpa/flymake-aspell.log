@@ -3,16 +3,18 @@ Fetcher: github
 Source:  https://github.com/leotaku/flycheck-aspell
 
 Updating /mnt/store/melpa/working/flymake-aspell/
-Checking out aa73874abc60a43fcf615af9bdd85d3008bfe687
+Checking out 0d9291fd3422de0eedbac387e8c1eb037904f808
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/flymake-aspell/
-  to /tmp/flymake-aspellSxAyE7/flymake-aspell-20240101.1945
+  to /tmp/flymake-aspellRZajMZ/flymake-aspell-20250118.2052
     flymake-aspell.el -> flymake-aspell.el
-Created flymake-aspell-20240101.1945.tar containing:
-  flymake-aspell-20240101.1945/
-  flymake-aspell-20240101.1945/flymake-aspell-pkg.el
-  flymake-aspell-20240101.1945/flymake-aspell.el
+Created flymake-aspell-20250118.2052.tar containing:
+  flymake-aspell-20250118.2052/
+  flymake-aspell-20250118.2052/flymake-aspell-pkg.el
+  flymake-aspell-20250118.2052/flymake-aspell.el
  ✓ Success:
-  2025-01-24T22:17:08+0000  flymake-aspell-20240101.1945.entry
-  2025-01-24T22:17:08+0000  flymake-aspell-20240101.1945.tar
-Built flymake-aspell in 6.070s, finished at 2025-01-24T22:17:10+0000
+  2025-01-25T19:10:27+0000  flymake-aspell-20240101.1945.entry
+  2025-01-25T19:10:27+0000  flymake-aspell-20240101.1945.tar
+  2025-01-25T22:06:46+0000  flymake-aspell-20250118.2052.entry
+  2025-01-25T22:06:46+0000  flymake-aspell-20250118.2052.tar
+Built flymake-aspell in 3.201s, finished at 2025-01-25T22:06:47+0000

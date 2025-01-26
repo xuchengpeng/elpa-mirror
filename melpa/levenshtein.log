@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/levenshtein/
 Checking out 070925197ebf6b704e6e00c4f2d2ec783f3df38c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/levenshtein/
-  to /tmp/levenshteinC9F5zn/levenshtein-20090830.1040
+  to /tmp/levenshteinGJc8p3/levenshtein-20090830.1040
     levenshtein.el -> levenshtein.el
 Created levenshtein-20090830.1040.tar containing:
   levenshtein-20090830.1040/
   levenshtein-20090830.1040/levenshtein-pkg.el
   levenshtein-20090830.1040/levenshtein.el
  ✓ Success:
-  2025-01-24T22:36:38+0000  levenshtein-20090830.1040.entry
-  2025-01-24T22:36:38+0000  levenshtein-20090830.1040.tar
-Built levenshtein in 3.232s, finished at 2025-01-24T22:36:39+0000
+  2025-01-25T22:25:05+0000  levenshtein-20090830.1040.entry
+  2025-01-25T22:25:05+0000  levenshtein-20090830.1040.tar
+Built levenshtein in 3.320s, finished at 2025-01-25T22:25:06+0000

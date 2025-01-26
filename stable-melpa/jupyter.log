@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/jupyter/
 Checking out db8a9e233a010a61063f34220821ec76157a2d84
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/jupyter/
-  to /tmp/jupyterLDqEAt/jupyter-20241203.1917
+  to /tmp/jupyteremGial/jupyter-20241203.1917
     jupyter-R.el -> jupyter-R.el
     jupyter-base.el -> jupyter-base.el
     jupyter-c++.el -> jupyter-c++.el
@@ -81,6 +81,6 @@ Created jupyter-20241203.1917.tar containing:
   jupyter-20241203.1917/ob-jupyter.el
   jupyter-20241203.1917/widget.html
  ✓ Success:
-  2025-01-24T22:33:48+0000  jupyter-20241203.1917.entry
-  2025-01-24T22:33:48+0000  jupyter-20241203.1917.tar
-Built jupyter in 5.295s, finished at 2025-01-24T22:33:49+0000
+  2025-01-25T22:22:32+0000  jupyter-20241203.1917.entry
+  2025-01-25T22:22:32+0000  jupyter-20241203.1917.tar
+Built jupyter in 8.241s, finished at 2025-01-25T22:22:34+0000

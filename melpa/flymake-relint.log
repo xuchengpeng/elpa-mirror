@@ -2,17 +2,17 @@ Package: flymake-relint
 Fetcher: github
 Source:  https://github.com/eki3z/flymake-relint
 
-Cloning https://github.com/eki3z/flymake-relint to /mnt/store/melpa/working/flymake-relint/
+Updating /mnt/store/melpa/working/flymake-relint/
 Checking out 7fd3dabe4fdc258aaf18abbe70e46f49f2fe6b69
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/flymake-relint/
-  to /tmp/flymake-relintL9yntN/flymake-relint-20250123.2108
+  to /tmp/flymake-relintJVCoqB/flymake-relint-20250123.2108
     flymake-relint.el -> flymake-relint.el
 Created flymake-relint-20250123.2108.tar containing:
   flymake-relint-20250123.2108/
   flymake-relint-20250123.2108/flymake-relint-pkg.el
   flymake-relint-20250123.2108/flymake-relint.el
  ✓ Success:
-  2025-01-24T22:18:06+0000  flymake-relint-20250123.2108.entry
-  2025-01-24T22:18:06+0000  flymake-relint-20250123.2108.tar
-Built flymake-relint in 2.708s, finished at 2025-01-24T22:18:07+0000
+  2025-01-25T22:07:28+0000  flymake-relint-20250123.2108.entry
+  2025-01-25T22:07:28+0000  flymake-relint-20250123.2108.tar
+Built flymake-relint in 3.221s, finished at 2025-01-25T22:07:29+0000

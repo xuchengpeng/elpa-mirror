@@ -2,17 +2,17 @@ Package: duplexer
 Fetcher: github
 Source:  https://github.com/eki3z/duplexer.el
 
-Cloning https://github.com/eki3z/duplexer.el to /mnt/store/melpa/working/duplexer/
+Updating /mnt/store/melpa/working/duplexer/
 Checking out 242b0bf47192164835a26ae5c553e689dd1b2974
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/duplexer/
-  to /tmp/duplexerp5PIKc/duplexer-20250123.1844
+  to /tmp/duplexerO5nkwD/duplexer-20250123.1844
     duplexer.el -> duplexer.el
 Created duplexer-20250123.1844.tar containing:
   duplexer-20250123.1844/
   duplexer-20250123.1844/duplexer-pkg.el
   duplexer-20250123.1844/duplexer.el
  ✓ Success:
-  2025-01-24T22:05:33+0000  duplexer-20250123.1844.entry
-  2025-01-24T22:05:33+0000  duplexer-20250123.1844.tar
-Built duplexer in 4.886s, finished at 2025-01-24T22:05:35+0000
+  2025-01-26T00:52:52+0000  duplexer-20250123.1844.entry
+  2025-01-26T00:52:52+0000  duplexer-20250123.1844.tar
+Built duplexer in 3.558s, finished at 2025-01-26T00:52:53+0000

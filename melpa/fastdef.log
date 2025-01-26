@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/fastdef/
 Checking out 0696f41dc150d35ce31fe8d2ea74f4173818bb55
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/fastdef/
-  to /tmp/fastdefOKQ5Rm/fastdef-20160713.1329
+  to /tmp/fastdefGSpvT2/fastdef-20160713.1329
     fastdef.el -> fastdef.el
 Created fastdef-20160713.1329.tar containing:
   fastdef-20160713.1329/
   fastdef-20160713.1329/fastdef-pkg.el
   fastdef-20160713.1329/fastdef.el
  ✓ Success:
-  2025-01-24T22:13:42+0000  fastdef-20160713.1329.entry
-  2025-01-24T22:13:42+0000  fastdef-20160713.1329.tar
-Built fastdef in 3.502s, finished at 2025-01-24T22:13:43+0000
+  2025-01-25T22:03:59+0000  fastdef-20160713.1329.entry
+  2025-01-25T22:03:59+0000  fastdef-20160713.1329.tar
+Built fastdef in 3.004s, finished at 2025-01-25T22:04:00+0000
