@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/vscode-icon/
 Checking out 27cbf4f178924de1e2a09b4d87f87b5fa67c8cf4
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/vscode-icon/
-  to /tmp/vscode-icon1aTfy8/vscode-icon-20241201.2200
+  to /tmp/vscode-iconrSsMBg/vscode-icon-20241201.2200
     vscode-icon.el -> vscode-icon.el
     icons => icons
 Created vscode-icon-20241201.2200.tar containing:
@@ -2657,6 +2657,6 @@ Created vscode-icon-20241201.2200.tar containing:
   vscode-icon-20241201.2200/vscode-icon-pkg.el
   vscode-icon-20241201.2200/vscode-icon.el
  ✓ Success:
-  2025-01-25T23:04:06+0000  vscode-icon-20241201.2200.entry
-  2025-01-25T23:04:03+0000  vscode-icon-20241201.2200.tar
-Built vscode-icon in 12.954s, finished at 2025-01-25T23:04:08+0000
+  2025-01-26T22:48:01+0000  vscode-icon-20241201.2200.entry
+  2025-01-26T22:47:57+0000  vscode-icon-20241201.2200.tar
+Built vscode-icon in 13.301s, finished at 2025-01-26T22:48:02+0000

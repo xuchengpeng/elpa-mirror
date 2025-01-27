@@ -3,10 +3,10 @@ Fetcher: github
 Source:  https://github.com/magit/forge
 
 Updating /mnt/store/melpa/working/forge/
-Checking out 91fb454775367e50604f3ed197342cc2a30dab14
+Checking out 839dc74b5e8e90e79f1527f75e7242ae2feac973
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/forge/
-  to /tmp/forgeUj9S4c/forge-20250124.1211
+  to /tmp/forgeiDZRHI/forge-20250126.1750
   ! lisp/forge-bitbucket.el -> forge-bitbucket.el
   ! lisp/forge-commands.el -> forge-commands.el
   ! lisp/forge-core.el -> forge-core.el
@@ -30,33 +30,33 @@ Copying files (->) and directories (=>)
   ! lisp/forge.el -> forge.el
   ! docs/forge.texi -> forge.texi
 Generating forge.info
-Created forge-20250124.1211.tar containing:
-  forge-20250124.1211/
-  forge-20250124.1211/dir
-  forge-20250124.1211/forge-bitbucket.el
-  forge-20250124.1211/forge-commands.el
-  forge-20250124.1211/forge-core.el
-  forge-20250124.1211/forge-db.el
-  forge-20250124.1211/forge-forgejo.el
-  forge-20250124.1211/forge-gitea.el
-  forge-20250124.1211/forge-github.el
-  forge-20250124.1211/forge-gitlab.el
-  forge-20250124.1211/forge-gogs.el
-  forge-20250124.1211/forge-issue.el
-  forge-20250124.1211/forge-notify.el
-  forge-20250124.1211/forge-pkg.el
-  forge-20250124.1211/forge-post.el
-  forge-20250124.1211/forge-pullreq.el
-  forge-20250124.1211/forge-repo.el
-  forge-20250124.1211/forge-repos.el
-  forge-20250124.1211/forge-revnote.el
-  forge-20250124.1211/forge-semi.el
-  forge-20250124.1211/forge-tablist.el
-  forge-20250124.1211/forge-topic.el
-  forge-20250124.1211/forge-topics.el
-  forge-20250124.1211/forge.el
-  forge-20250124.1211/forge.info
+Created forge-20250126.1750.tar containing:
+  forge-20250126.1750/
+  forge-20250126.1750/dir
+  forge-20250126.1750/forge-bitbucket.el
+  forge-20250126.1750/forge-commands.el
+  forge-20250126.1750/forge-core.el
+  forge-20250126.1750/forge-db.el
+  forge-20250126.1750/forge-forgejo.el
+  forge-20250126.1750/forge-gitea.el
+  forge-20250126.1750/forge-github.el
+  forge-20250126.1750/forge-gitlab.el
+  forge-20250126.1750/forge-gogs.el
+  forge-20250126.1750/forge-issue.el
+  forge-20250126.1750/forge-notify.el
+  forge-20250126.1750/forge-pkg.el
+  forge-20250126.1750/forge-post.el
+  forge-20250126.1750/forge-pullreq.el
+  forge-20250126.1750/forge-repo.el
+  forge-20250126.1750/forge-repos.el
+  forge-20250126.1750/forge-revnote.el
+  forge-20250126.1750/forge-semi.el
+  forge-20250126.1750/forge-tablist.el
+  forge-20250126.1750/forge-topic.el
+  forge-20250126.1750/forge-topics.el
+  forge-20250126.1750/forge.el
+  forge-20250126.1750/forge.info
  ✓ Success:
-  2025-01-25T22:08:07+0000  forge-20250124.1211.entry
-  2025-01-25T22:08:06+0000  forge-20250124.1211.tar
-Built forge in 7.327s, finished at 2025-01-25T22:08:08+0000
+  2025-01-27T00:47:28+0000  forge-20250126.1750.entry
+  2025-01-27T00:47:28+0000  forge-20250126.1750.tar
+Built forge in 6.835s, finished at 2025-01-27T00:47:29+0000

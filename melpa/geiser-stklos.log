@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/geiser-stklos/
 Checking out c634fc2049f1616b772f5e9cb78c6171dcc4c34d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/geiser-stklos/
-  to /tmp/geiser-stklosoRxt4h/geiser-stklos-20231004.2013
+  to /tmp/geiser-stklosRgUxwO/geiser-stklos-20231004.2013
     geiser-stklos.el -> geiser-stklos.el
     geiser.stk -> geiser.stk
 Created geiser-stklos-20231004.2013.tar containing:
@@ -15,6 +15,6 @@ Created geiser-stklos-20231004.2013.tar containing:
   geiser-stklos-20231004.2013/geiser-stklos.el
   geiser-stklos-20231004.2013/geiser.stk
  ✓ Success:
-  2025-01-25T22:09:24+0000  geiser-stklos-20231004.2013.entry
-  2025-01-25T22:09:24+0000  geiser-stklos-20231004.2013.tar
-Built geiser-stklos in 6.030s, finished at 2025-01-25T22:09:26+0000
+  2025-01-27T00:48:36+0000  geiser-stklos-20231004.2013.entry
+  2025-01-27T00:48:36+0000  geiser-stklos-20231004.2013.tar
+Built geiser-stklos in 4.087s, finished at 2025-01-27T00:48:37+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/yara-mode/
 Checking out 4c959b300ce52665c92e04e524dda5ed051c34f3
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/yara-mode/
-  to /tmp/yara-mode6B4ym5/yara-mode-20220317.935
+  to /tmp/yara-modeIY2ISv/yara-mode-20220317.935
     yara-mode.el -> yara-mode.el
 Created yara-mode-20220317.935.tar containing:
   yara-mode-20220317.935/
   yara-mode-20220317.935/yara-mode-pkg.el
   yara-mode-20220317.935/yara-mode.el
  ✓ Success:
-  2025-01-25T23:06:48+0000  yara-mode-20220317.935.entry
-  2025-01-25T23:06:48+0000  yara-mode-20220317.935.tar
-Built yara-mode in 5.237s, finished at 2025-01-25T23:06:50+0000
+  2025-01-26T22:50:42+0000  yara-mode-20220317.935.entry
+  2025-01-26T22:50:42+0000  yara-mode-20220317.935.tar
+Built yara-mode in 3.099s, finished at 2025-01-26T22:50:43+0000

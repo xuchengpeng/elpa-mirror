@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/shortcuts-mode/
 Checking out a781ae97e33f5a0bf75058c21a7784032e22b28d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/shortcuts-mode/
-  to /tmp/shortcuts-modejNfqLL/shortcuts-mode-20240707.1606
+  to /tmp/shortcuts-mode4IgsoL/shortcuts-mode-20240707.1606
     shortcuts-mode.el -> shortcuts-mode.el
 Created shortcuts-mode-20240707.1606.tar containing:
   shortcuts-mode-20240707.1606/
   shortcuts-mode-20240707.1606/shortcuts-mode-pkg.el
   shortcuts-mode-20240707.1606/shortcuts-mode.el
  ✓ Success:
-  2025-01-25T22:52:38+0000  shortcuts-mode-20240707.1606.entry
-  2025-01-25T22:52:38+0000  shortcuts-mode-20240707.1606.tar
-Built shortcuts-mode in 4.136s, finished at 2025-01-25T22:52:39+0000
+  2025-01-26T22:36:57+0000  shortcuts-mode-20240707.1606.entry
+  2025-01-26T22:36:57+0000  shortcuts-mode-20240707.1606.tar
+Built shortcuts-mode in 3.709s, finished at 2025-01-26T22:36:58+0000

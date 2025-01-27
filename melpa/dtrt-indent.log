@@ -3,18 +3,18 @@ Fetcher: github
 Source:  https://github.com/jscheid/dtrt-indent
 
 Updating /mnt/store/melpa/working/dtrt-indent/
-Checking out fcd8359184add020323b10a4eb478281b125a3de
+Checking out 61b856e1732d81585c23f0196f37b6723ffb9cec
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/dtrt-indent/
-  to /tmp/dtrt-indentKH1kJe/dtrt-indent-20250125.1700
+  to /tmp/dtrt-indentKAcCIg/dtrt-indent-20250126.2126
     dtrt-indent-diag.el -> dtrt-indent-diag.el
     dtrt-indent.el -> dtrt-indent.el
-Created dtrt-indent-20250125.1700.tar containing:
-  dtrt-indent-20250125.1700/
-  dtrt-indent-20250125.1700/dtrt-indent-diag.el
-  dtrt-indent-20250125.1700/dtrt-indent-pkg.el
-  dtrt-indent-20250125.1700/dtrt-indent.el
+Created dtrt-indent-20250126.2126.tar containing:
+  dtrt-indent-20250126.2126/
+  dtrt-indent-20250126.2126/dtrt-indent-diag.el
+  dtrt-indent-20250126.2126/dtrt-indent-pkg.el
+  dtrt-indent-20250126.2126/dtrt-indent.el
  ✓ Success:
-  2025-01-26T00:52:44+0000  dtrt-indent-20250125.1700.entry
-  2025-01-26T00:52:44+0000  dtrt-indent-20250125.1700.tar
-Built dtrt-indent in 3.625s, finished at 2025-01-26T00:52:45+0000
+  2025-01-27T00:35:22+0000  dtrt-indent-20250126.2126.entry
+  2025-01-27T00:35:22+0000  dtrt-indent-20250126.2126.tar
+Built dtrt-indent in 3.360s, finished at 2025-01-27T00:35:23+0000

@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/org-octopress/
 Checking out 38598ef98d04076a8eb78d549907ddfde8d3a652
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/org-octopress/
-  to /tmp/org-octopressop7qcU/org-octopress-20170821.415
+  to /tmp/org-octopressBmeyFP/org-octopress-20170821.415
     org-octopress.el -> org-octopress.el
     ox-jekyll.el -> ox-jekyll.el
     setupfile-sample.org -> setupfile-sample.org
@@ -17,6 +17,6 @@ Created org-octopress-20170821.415.tar containing:
   org-octopress-20170821.415/ox-jekyll.el
   org-octopress-20170821.415/setupfile-sample.org
  ✓ Success:
-  2025-01-25T22:38:17+0000  org-octopress-20170821.415.entry
-  2025-01-25T22:38:17+0000  org-octopress-20170821.415.tar
-Built org-octopress in 5.508s, finished at 2025-01-25T22:38:19+0000
+  2025-01-26T22:22:06+0000  org-octopress-20170821.415.entry
+  2025-01-26T22:22:06+0000  org-octopress-20170821.415.tar
+Built org-octopress in 3.513s, finished at 2025-01-26T22:22:07+0000

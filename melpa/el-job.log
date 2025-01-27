@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/el-job/
 Checking out 6c5879c74bf10203ab6f2c91ca346d28d029e20b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/el-job/
-  to /tmp/el-jobgXVDzz/el-job-20250121.1602
+  to /tmp/el-job9P54lE/el-job-20250121.1602
     el-job-child.el -> el-job-child.el
     el-job.el -> el-job.el
 Created el-job-20250121.1602.tar containing:
@@ -15,6 +15,6 @@ Created el-job-20250121.1602.tar containing:
   el-job-20250121.1602/el-job-pkg.el
   el-job-20250121.1602/el-job.el
  ✓ Success:
-  2025-01-26T00:54:24+0000  el-job-20250121.1602.entry
-  2025-01-26T00:54:24+0000  el-job-20250121.1602.tar
-Built el-job in 4.179s, finished at 2025-01-26T00:54:25+0000
+  2025-01-27T00:36:58+0000  el-job-20250121.1602.entry
+  2025-01-27T00:36:58+0000  el-job-20250121.1602.tar
+Built el-job in 4.230s, finished at 2025-01-27T00:36:59+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/disk/
 Checking out 283e54e3be7d08f959076240b2ab324e25632137
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/disk/
-  to /tmp/diskkNnJEm/disk-20171116.731
+  to /tmp/disk0xXrgP/disk-20171116.731
     disk.el -> disk.el
 Created disk-20171116.731.tar containing:
   disk-20171116.731/
   disk-20171116.731/disk-pkg.el
   disk-20171116.731/disk.el
  ✓ Success:
-  2025-01-26T00:51:19+0000  disk-20171116.731.entry
-  2025-01-26T00:51:19+0000  disk-20171116.731.tar
-Built disk in 5.017s, finished at 2025-01-26T00:51:21+0000
+  2025-01-27T00:34:14+0000  disk-20171116.731.entry
+  2025-01-27T00:34:14+0000  disk-20171116.731.tar
+Built disk in 2.876s, finished at 2025-01-27T00:34:15+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/kfg/
 Checking out ffc35b77f227d4c64a1271ec30d31333ffeb0013
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/kfg/
-  to /tmp/kfghyIheq/kfg-20140909.538
+  to /tmp/kfgXl2JN5/kfg-20140909.538
     kfg.el -> kfg.el
 Created kfg-20140909.538.tar containing:
   kfg-20140909.538/
   kfg-20140909.538/kfg-pkg.el
   kfg-20140909.538/kfg.el
  ✓ Success:
-  2025-01-25T22:23:32+0000  kfg-20140909.538.entry
-  2025-01-25T22:23:32+0000  kfg-20140909.538.tar
-Built kfg in 3.507s, finished at 2025-01-25T22:23:33+0000
+  2025-01-26T22:07:42+0000  kfg-20140909.538.entry
+  2025-01-26T22:07:42+0000  kfg-20140909.538.tar
+Built kfg in 3.195s, finished at 2025-01-26T22:07:43+0000

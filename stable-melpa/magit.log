@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/magit/
 Checking out a43c1d8d7a99dd2b9f865285bed442dddb0e5ce8
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/magit/
-  to /tmp/magith0UuDZ/magit-20250125.1132
+  to /tmp/magit5qL0xx/magit-20250125.1132
   ! lisp/magit-apply.el -> magit-apply.el
   ! lisp/magit-autorevert.el -> magit-autorevert.el
   ! lisp/magit-base.el -> magit-base.el
@@ -109,6 +109,6 @@ Created magit-20250125.1132.tar containing:
   magit-20250125.1132/magit.el
   magit-20250125.1132/magit.info
  ✓ Success:
-  2025-01-25T22:27:54+0000  magit-20250125.1132.entry
-  2025-01-25T22:27:54+0000  magit-20250125.1132.tar
-Built magit in 15.107s, finished at 2025-01-25T22:27:55+0000
+  2025-01-26T22:11:59+0000  magit-20250125.1132.entry
+  2025-01-26T22:11:58+0000  magit-20250125.1132.tar
+Built magit in 25.516s, finished at 2025-01-26T22:12:00+0000

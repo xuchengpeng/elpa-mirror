@@ -1,0 +1,20 @@
+Package: minuet
+Fetcher: github
+Source:  https://github.com/milanglacier/minuet-ai.el
+
+Updating /mnt/store/melpa/working/minuet/
+Checking out cc8c890413cab2008e7674b4b9ef55627fcf5766
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/minuet/
+  to /tmp/minuetNeFL6S/minuet-20250126.2201
+    minuet.el -> minuet.el
+Created minuet-20250126.2201.tar containing:
+  minuet-20250126.2201/
+  minuet-20250126.2201/minuet-pkg.el
+  minuet-20250126.2201/minuet.el
+ ✓ Success:
+  2025-01-26T19:17:52+0000  minuet-20250126.1823.entry
+  2025-01-26T19:17:52+0000  minuet-20250126.1823.tar
+  2025-01-26T22:14:18+0000  minuet-20250126.2201.entry
+  2025-01-26T22:14:18+0000  minuet-20250126.2201.tar
+Built minuet in 3.685s, finished at 2025-01-26T22:14:19+0000

@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/editorconfig/
 Checking out 24f5b2b1cd4e37adc245fb59f7edeb6872a707a4
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/editorconfig/
-  to /tmp/editorconfigxlJTGI/editorconfig-20241027.1815
+  to /tmp/editorconfigcPDOBP/editorconfig-20241027.1815
     editorconfig-conf-mode.el -> editorconfig-conf-mode.el
     editorconfig-core-handle.el -> editorconfig-core-handle.el
     editorconfig-core.el -> editorconfig-core.el
@@ -27,6 +27,6 @@ Created editorconfig-20241027.1815.tar containing:
   editorconfig-20241027.1815/editorconfig.el
   editorconfig-20241027.1815/editorconfig.info
  ✓ Success:
-  2025-01-26T00:53:51+0000  editorconfig-20241027.1815.entry
-  2025-01-26T00:53:51+0000  editorconfig-20241027.1815.tar
-Built editorconfig in 6.491s, finished at 2025-01-26T00:53:53+0000
+  2025-01-27T00:36:27+0000  editorconfig-20241027.1815.entry
+  2025-01-27T00:36:27+0000  editorconfig-20241027.1815.tar
+Built editorconfig in 6.165s, finished at 2025-01-27T00:36:28+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/eldoc-cmake/
 Checking out 4453c03b5c95ff32842f13db2fc317fb0fe2f79e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/eldoc-cmake/
-  to /tmp/eldoc-cmakexMCdEJ/eldoc-cmake-20190419.2244
+  to /tmp/eldoc-cmakeO8orOI/eldoc-cmake-20190419.2244
     eldoc-cmake.el -> eldoc-cmake.el
 Created eldoc-cmake-20190419.2244.tar containing:
   eldoc-cmake-20190419.2244/
   eldoc-cmake-20190419.2244/eldoc-cmake-pkg.el
   eldoc-cmake-20190419.2244/eldoc-cmake.el
  ✓ Success:
-  2025-01-26T00:54:43+0000  eldoc-cmake-20190419.2244.entry
-  2025-01-26T00:54:43+0000  eldoc-cmake-20190419.2244.tar
-Built eldoc-cmake in 3.123s, finished at 2025-01-26T00:54:44+0000
+  2025-01-27T00:37:26+0000  eldoc-cmake-20190419.2244.entry
+  2025-01-27T00:37:26+0000  eldoc-cmake-20190419.2244.tar
+Built eldoc-cmake in 5.132s, finished at 2025-01-27T00:37:28+0000

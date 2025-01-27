@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/evedel/
 Checking out d1c7d008fce74bc738231e18064708b2f0d4d710
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/evedel/
-  to /tmp/evedelseouRw/evedel-20241215.2233
+  to /tmp/evedelinQSkw/evedel-20241215.2233
     evedel.el -> evedel.el
 Created evedel-20241215.2233.tar containing:
   evedel-20241215.2233/
   evedel-20241215.2233/evedel-pkg.el
   evedel-20241215.2233/evedel.el
  ✓ Success:
-  2025-01-25T22:01:39+0000  evedel-20241215.2233.entry
-  2025-01-25T22:01:39+0000  evedel-20241215.2233.tar
-Built evedel in 3.454s, finished at 2025-01-25T22:01:40+0000
+  2025-01-27T00:41:04+0000  evedel-20241215.2233.entry
+  2025-01-27T00:41:04+0000  evedel-20241215.2233.tar
+Built evedel in 3.467s, finished at 2025-01-27T00:41:05+0000

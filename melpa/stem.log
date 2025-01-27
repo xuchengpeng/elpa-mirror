@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/stem/
 Checking out dd704c3447bd5d3f5ac0a4840f8987d4f855d87e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/stem/
-  to /tmp/stemviY8DN/stem-20131102.1109
+  to /tmp/stemi6s6rZ/stem-20131102.1109
     stem.el -> stem.el
 Created stem-20131102.1109.tar containing:
   stem-20131102.1109/
   stem-20131102.1109/stem-pkg.el
   stem-20131102.1109/stem.el
  ✓ Success:
-  2025-01-25T22:56:34+0000  stem-20131102.1109.entry
-  2025-01-25T22:56:34+0000  stem-20131102.1109.tar
-Built stem in 3.708s, finished at 2025-01-25T22:56:35+0000
+  2025-01-26T22:40:19+0000  stem-20131102.1109.entry
+  2025-01-26T22:40:19+0000  stem-20131102.1109.tar
+Built stem in 3.754s, finished at 2025-01-26T22:40:20+0000

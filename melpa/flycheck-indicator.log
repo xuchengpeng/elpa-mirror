@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/flycheck-indicator/
 Checking out e00d9a20cbc21d6814c27cc9206296da394478e8
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/flycheck-indicator/
-  to /tmp/flycheck-indicatorXSzaMF/flycheck-indicator-20200331.1142
+  to /tmp/flycheck-indicatormRg6ND/flycheck-indicator-20200331.1142
     flycheck-indicator.el -> flycheck-indicator.el
 Created flycheck-indicator-20200331.1142.tar containing:
   flycheck-indicator-20200331.1142/
   flycheck-indicator-20200331.1142/flycheck-indicator-pkg.el
   flycheck-indicator-20200331.1142/flycheck-indicator.el
  ✓ Success:
-  2025-01-25T22:05:57+0000  flycheck-indicator-20200331.1142.entry
-  2025-01-25T22:05:57+0000  flycheck-indicator-20200331.1142.tar
-Built flycheck-indicator in 3.660s, finished at 2025-01-25T22:05:59+0000
+  2025-01-27T00:45:21+0000  flycheck-indicator-20200331.1142.entry
+  2025-01-27T00:45:21+0000  flycheck-indicator-20200331.1142.tar
+Built flycheck-indicator in 4.032s, finished at 2025-01-27T00:45:23+0000

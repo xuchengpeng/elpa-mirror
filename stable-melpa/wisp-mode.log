@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/wisp-mode/
 Checking out 61d068638c88d149a6f75619e284f8c1e9657e90
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/wisp-mode/
-  to /tmp/wisp-modepaS69b/wisp-mode-20240921.1758
+  to /tmp/wisp-modeRX60ea/wisp-mode-20240921.1758
     wisp-mode.el -> wisp-mode.el
 Created wisp-mode-20240921.1758.tar containing:
   wisp-mode-20240921.1758/
   wisp-mode-20240921.1758/wisp-mode-pkg.el
   wisp-mode-20240921.1758/wisp-mode.el
  ✓ Success:
-  2025-01-25T23:05:46+0000  wisp-mode-20240921.1758.entry
-  2025-01-25T23:05:46+0000  wisp-mode-20240921.1758.tar
-Built wisp-mode in 23.210s, finished at 2025-01-25T23:05:52+0000
+  2025-01-26T22:49:38+0000  wisp-mode-20240921.1758.entry
+  2025-01-26T22:49:38+0000  wisp-mode-20240921.1758.tar
+Built wisp-mode in 23.545s, finished at 2025-01-26T22:49:45+0000

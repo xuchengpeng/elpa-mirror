@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/gitignore-snippets/
 Checking out f91b3397526fe09d2e4a1f507a73b06bc7542cf7
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/gitignore-snippets/
-  to /tmp/gitignore-snippetsq2aTkJ/gitignore-snippets-20201118.1551
+  to /tmp/gitignore-snippetsywUIQ0/gitignore-snippets-20201118.1551
     gitignore-snippets.el -> gitignore-snippets.el
     snippets => snippets
 Created gitignore-snippets-20201118.1551.tar containing:
@@ -492,6 +492,6 @@ Created gitignore-snippets-20201118.1551.tar containing:
   gitignore-snippets-20201118.1551/snippets/gitignore-mode/zsh
   gitignore-snippets-20201118.1551/snippets/gitignore-mode/zukencr8000
  ✓ Success:
-  2025-01-25T22:10:30+0000  gitignore-snippets-20201118.1551.entry
-  2025-01-25T22:10:30+0000  gitignore-snippets-20201118.1551.tar
-Built gitignore-snippets in 4.124s, finished at 2025-01-25T22:10:31+0000
+  2025-01-27T00:49:54+0000  gitignore-snippets-20201118.1551.entry
+  2025-01-27T00:49:54+0000  gitignore-snippets-20201118.1551.tar
+Built gitignore-snippets in 3.999s, finished at 2025-01-27T00:49:55+0000
