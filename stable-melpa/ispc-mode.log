@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/ispc-mode/
 Checking out bedfff2528157d4bb0b75927c459631bebe2b1ce
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ispc-mode/
-  to /tmp/ispc-modeQ0u3rY/ispc-mode-20201215.852
+  to /tmp/ispc-modef0llOM/ispc-mode-20201215.852
     ispc-mode.el -> ispc-mode.el
 Created ispc-mode-20201215.852.tar containing:
   ispc-mode-20201215.852/
   ispc-mode-20201215.852/ispc-mode-pkg.el
   ispc-mode-20201215.852/ispc-mode.el
  ✓ Success:
-  2025-01-26T22:04:25+0000  ispc-mode-20201215.852.entry
-  2025-01-26T22:04:25+0000  ispc-mode-20201215.852.tar
-Built ispc-mode in 3.080s, finished at 2025-01-26T22:04:26+0000
+  2025-01-28T00:46:27+0000  ispc-mode-20201215.852.entry
+  2025-01-28T00:46:27+0000  ispc-mode-20201215.852.tar
+Built ispc-mode in 3.289s, finished at 2025-01-28T00:46:28+0000

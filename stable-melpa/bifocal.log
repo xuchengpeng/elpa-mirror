@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/bifocal/
 Checking out 773a6dde790c4a240e643a9071e4c7bce09d40de
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/bifocal/
-  to /tmp/bifocalqgnU25/bifocal-20200325.539
+  to /tmp/bifocaltc98yr/bifocal-20200325.539
     bifocal.el -> bifocal.el
 Created bifocal-20200325.539.tar containing:
   bifocal-20200325.539/
   bifocal-20200325.539/bifocal-pkg.el
   bifocal-20200325.539/bifocal.el
  ✓ Success:
-  2025-01-27T00:22:09+0000  bifocal-20200325.539.entry
-  2025-01-27T00:22:09+0000  bifocal-20200325.539.tar
-Built bifocal in 3.661s, finished at 2025-01-27T00:22:11+0000
+  2025-01-28T00:07:34+0000  bifocal-20200325.539.entry
+  2025-01-28T00:07:33+0000  bifocal-20200325.539.tar
+Built bifocal in 3.613s, finished at 2025-01-28T00:07:35+0000

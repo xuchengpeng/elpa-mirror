@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/git-cliff/
 Checking out 936095b416edecd999a013e3cc0aab9a6050bdde
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/git-cliff/
-  to /tmp/git-cliffl5COXl/git-cliff-20250123.1912
+  to /tmp/git-cliff4RKbuj/git-cliff-20250123.1912
     git-cliff.el -> git-cliff.el
 Created git-cliff-20250123.1912.tar containing:
   git-cliff-20250123.1912/
   git-cliff-20250123.1912/git-cliff-pkg.el
   git-cliff-20250123.1912/git-cliff.el
  ✓ Success:
-  2025-01-27T00:49:24+0000  git-cliff-20250123.1912.entry
-  2025-01-27T00:49:24+0000  git-cliff-20250123.1912.tar
-Built git-cliff in 4.702s, finished at 2025-01-27T00:49:26+0000
+  2025-01-28T00:35:49+0000  git-cliff-20250123.1912.entry
+  2025-01-28T00:35:49+0000  git-cliff-20250123.1912.tar
+Built git-cliff in 3.223s, finished at 2025-01-28T00:35:50+0000

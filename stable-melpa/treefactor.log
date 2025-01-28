@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/treefactor/
 Checking out 75357757022a4399ab772ff0d92065bd114dabe9
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/treefactor/
-  to /tmp/treefactorCCbhuo/treefactor-20200516.1631
+  to /tmp/treefactorU8vOgi/treefactor-20200516.1631
     treefactor.el -> treefactor.el
 Created treefactor-20200516.1631.tar containing:
   treefactor-20200516.1631/
   treefactor-20200516.1631/treefactor-pkg.el
   treefactor-20200516.1631/treefactor.el
  ✓ Success:
-  2025-01-26T22:44:39+0000  treefactor-20200516.1631.entry
-  2025-01-26T22:44:39+0000  treefactor-20200516.1631.tar
-Built treefactor in 3.446s, finished at 2025-01-26T22:44:40+0000
+  2025-01-27T22:29:14+0000  treefactor-20200516.1631.entry
+  2025-01-27T22:29:14+0000  treefactor-20200516.1631.tar
+Built treefactor in 5.528s, finished at 2025-01-27T22:29:16+0000

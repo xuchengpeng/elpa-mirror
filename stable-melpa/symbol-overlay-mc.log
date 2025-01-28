@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/symbol-overlay-mc/
 Checking out 188fa07fe5cc142dbabcd2b4a102a9ec5f132839
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/symbol-overlay-mc/
-  to /tmp/symbol-overlay-mce1jLPS/symbol-overlay-mc-20241216.1436
+  to /tmp/symbol-overlay-mcpHVyp4/symbol-overlay-mc-20241216.1436
     symbol-overlay-mc.el -> symbol-overlay-mc.el
 Created symbol-overlay-mc-20241216.1436.tar containing:
   symbol-overlay-mc-20241216.1436/
   symbol-overlay-mc-20241216.1436/symbol-overlay-mc-pkg.el
   symbol-overlay-mc-20241216.1436/symbol-overlay-mc.el
  ✓ Success:
-  2025-01-26T22:41:38+0000  symbol-overlay-mc-20241216.1436.entry
-  2025-01-26T22:41:38+0000  symbol-overlay-mc-20241216.1436.tar
-Built symbol-overlay-mc in 3.243s, finished at 2025-01-26T22:41:39+0000
+  2025-01-27T22:26:08+0000  symbol-overlay-mc-20241216.1436.entry
+  2025-01-27T22:26:08+0000  symbol-overlay-mc-20241216.1436.tar
+Built symbol-overlay-mc in 3.356s, finished at 2025-01-27T22:26:09+0000

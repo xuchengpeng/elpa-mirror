@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/geiser/
 Checking out c1c27072a46a959fa28f963c5e381e219916f85a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/geiser/
-  to /tmp/geiserlsKUpN/geiser-20250119.1424
+  to /tmp/geiserZ5T325/geiser-20250119.1424
   ! elisp/geiser-autodoc.el -> geiser-autodoc.el
   ! elisp/geiser-base.el -> geiser-base.el
   ! elisp/geiser-capf.el -> geiser-capf.el
@@ -62,6 +62,6 @@ Created geiser-20250119.1424.tar containing:
   geiser-20250119.1424/geiser.el
   geiser-20250119.1424/geiser.info
  ✓ Success:
-  2025-01-27T00:48:29+0000  geiser-20250119.1424.entry
-  2025-01-27T00:48:28+0000  geiser-20250119.1424.tar
-Built geiser in 7.216s, finished at 2025-01-27T00:48:30+0000
+  2025-01-28T00:35:08+0000  geiser-20250119.1424.entry
+  2025-01-28T00:35:08+0000  geiser-20250119.1424.tar
+Built geiser in 6.842s, finished at 2025-01-28T00:35:09+0000

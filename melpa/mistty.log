@@ -3,10 +3,10 @@ Fetcher: github
 Source:  https://github.com/szermatt/mistty
 
 Updating /mnt/store/melpa/working/mistty/
-Checking out 0622a702ddc5767b841bb0374342c0456bd1d8b8
+Checking out 5f7f4bd7d47d585491ea84d4e8c33bb1cafc46e6
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mistty/
-  to /tmp/misttyslD8rs/mistty-20250126.1726
+  to /tmp/misttyxiA16e/mistty-20250127.1356
     mistty-changeset.el -> mistty-changeset.el
     mistty-launch.el -> mistty-launch.el
     mistty-log.el -> mistty-log.el
@@ -19,22 +19,22 @@ Copying files (->) and directories (=>)
     mistty.el -> mistty.el
     mistty.texi -> mistty.texi
 Generating mistty.info
-Created mistty-20250126.1726.tar containing:
-  mistty-20250126.1726/
-  mistty-20250126.1726/dir
-  mistty-20250126.1726/mistty-changeset.el
-  mistty-20250126.1726/mistty-launch.el
-  mistty-20250126.1726/mistty-log.el
-  mistty-20250126.1726/mistty-osc7.el
-  mistty-20250126.1726/mistty-pkg.el
-  mistty-20250126.1726/mistty-project.el
-  mistty-20250126.1726/mistty-queue.el
-  mistty-20250126.1726/mistty-term.el
-  mistty-20250126.1726/mistty-undo.el
-  mistty-20250126.1726/mistty-util.el
-  mistty-20250126.1726/mistty.el
-  mistty-20250126.1726/mistty.info
+Created mistty-20250127.1356.tar containing:
+  mistty-20250127.1356/
+  mistty-20250127.1356/dir
+  mistty-20250127.1356/mistty-changeset.el
+  mistty-20250127.1356/mistty-launch.el
+  mistty-20250127.1356/mistty-log.el
+  mistty-20250127.1356/mistty-osc7.el
+  mistty-20250127.1356/mistty-pkg.el
+  mistty-20250127.1356/mistty-project.el
+  mistty-20250127.1356/mistty-queue.el
+  mistty-20250127.1356/mistty-term.el
+  mistty-20250127.1356/mistty-undo.el
+  mistty-20250127.1356/mistty-util.el
+  mistty-20250127.1356/mistty.el
+  mistty-20250127.1356/mistty.info
  ✓ Success:
-  2025-01-26T22:14:25+0000  mistty-20250126.1726.entry
-  2025-01-26T22:14:25+0000  mistty-20250126.1726.tar
-Built mistty in 7.289s, finished at 2025-01-26T22:14:26+0000
+  2025-01-27T21:58:41+0000  mistty-20250127.1356.entry
+  2025-01-27T21:58:41+0000  mistty-20250127.1356.tar
+Built mistty in 7.051s, finished at 2025-01-27T21:58:42+0000

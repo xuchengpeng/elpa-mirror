@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/go-add-tags/
 Checking out 93ecde9f82bc960493eaf6921d46a5adc3699ffc
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/go-add-tags/
-  to /tmp/go-add-tagsjZ9ALg/go-add-tags-20211122.1812
+  to /tmp/go-add-tagsGSu9FW/go-add-tags-20211122.1812
     go-add-tags.el -> go-add-tags.el
 Created go-add-tags-20211122.1812.tar containing:
   go-add-tags-20211122.1812/
   go-add-tags-20211122.1812/go-add-tags-pkg.el
   go-add-tags-20211122.1812/go-add-tags.el
  ✓ Success:
-  2025-01-27T00:50:30+0000  go-add-tags-20211122.1812.entry
-  2025-01-27T00:50:30+0000  go-add-tags-20211122.1812.tar
-Built go-add-tags in 2.992s, finished at 2025-01-27T00:50:31+0000
+  2025-01-28T00:36:54+0000  go-add-tags-20211122.1812.entry
+  2025-01-28T00:36:54+0000  go-add-tags-20211122.1812.tar
+Built go-add-tags in 4.590s, finished at 2025-01-28T00:36:56+0000

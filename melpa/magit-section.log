@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/magit-section/
 Checking out a5962c0b916c1caf211a4f87fb85023068ab50b9
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/magit-section/
-  to /tmp/magit-sectionK6nBrx/magit-section-20250126.2059
+  to /tmp/magit-sectionmznt8b/magit-section-20250126.2059
   ! lisp/magit-section.el -> magit-section.el
   ! docs/magit-section.texi -> magit-section.texi
 Generating magit-section.info
@@ -17,8 +17,6 @@ Created magit-section-20250126.2059.tar containing:
   magit-section-20250126.2059/magit-section.el
   magit-section-20250126.2059/magit-section.info
  ✓ Success:
-  2025-01-26T19:15:24+0000  magit-section-20250109.1854.entry
-  2025-01-26T19:15:23+0000  magit-section-20250109.1854.tar
-  2025-01-26T22:12:12+0000  magit-section-20250126.2059.entry
-  2025-01-26T22:12:12+0000  magit-section-20250126.2059.tar
-Built magit-section in 7.234s, finished at 2025-01-26T22:12:13+0000
+  2025-01-28T00:53:54+0000  magit-section-20250126.2059.entry
+  2025-01-28T00:53:54+0000  magit-section-20250126.2059.tar
+Built magit-section in 6.117s, finished at 2025-01-28T00:53:55+0000

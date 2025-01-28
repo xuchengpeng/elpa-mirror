@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/fmo-mode/
 Checking out eb63a36ee8ca0ec985e6fd043db974e6f9b38c83
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/fmo-mode/
-  to /tmp/fmo-mode0JxU74/fmo-mode-20240306.1442
+  to /tmp/fmo-mode4AyVK4/fmo-mode-20240306.1442
     fmo-mode.el -> fmo-mode.el
 Created fmo-mode-20240306.1442.tar containing:
   fmo-mode-20240306.1442/
   fmo-mode-20240306.1442/fmo-mode-pkg.el
   fmo-mode-20240306.1442/fmo-mode.el
  ✓ Success:
-  2025-01-27T00:47:10+0000  fmo-mode-20240306.1442.entry
-  2025-01-27T00:47:10+0000  fmo-mode-20240306.1442.tar
-Built fmo-mode in 3.294s, finished at 2025-01-27T00:47:11+0000
+  2025-01-28T00:33:48+0000  fmo-mode-20240306.1442.entry
+  2025-01-28T00:33:48+0000  fmo-mode-20240306.1442.tar
+Built fmo-mode in 3.311s, finished at 2025-01-28T00:33:49+0000

@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/mastodon/
 Checking out e2443f1cd425b31228e87739d1fc5035640bba06
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mastodon/
-  to /tmp/mastodonCYn2qm/mastodon-20241223.1040
+  to /tmp/mastodonEvRKlL/mastodon-20241223.1040
   ! lisp/mastodon-async.el -> mastodon-async.el
   ! lisp/mastodon-auth.el -> mastodon-auth.el
   ! lisp/mastodon-client.el -> mastodon-client.el
@@ -27,30 +27,3 @@ Copying files (->) and directories (=>)
     dir -> dir
     mastodon.info -> mastodon.info
     mastodon.texi -> mastodon.texi
-Generating mastodon.info
-Created mastodon-20241223.1040.tar containing:
-  mastodon-20241223.1040/
-  mastodon-20241223.1040/dir
-  mastodon-20241223.1040/mastodon-async.el
-  mastodon-20241223.1040/mastodon-auth.el
-  mastodon-20241223.1040/mastodon-client.el
-  mastodon-20241223.1040/mastodon-discover.el
-  mastodon-20241223.1040/mastodon-http.el
-  mastodon-20241223.1040/mastodon-inspect.el
-  mastodon-20241223.1040/mastodon-iso.el
-  mastodon-20241223.1040/mastodon-media.el
-  mastodon-20241223.1040/mastodon-notifications.el
-  mastodon-20241223.1040/mastodon-pkg.el
-  mastodon-20241223.1040/mastodon-profile.el
-  mastodon-20241223.1040/mastodon-search.el
-  mastodon-20241223.1040/mastodon-tl.el
-  mastodon-20241223.1040/mastodon-toot.el
-  mastodon-20241223.1040/mastodon-transient.el
-  mastodon-20241223.1040/mastodon-views.el
-  mastodon-20241223.1040/mastodon-widget.el
-  mastodon-20241223.1040/mastodon.el
-  mastodon-20241223.1040/mastodon.info
- ✓ Success:
-  2025-01-26T22:12:59+0000  mastodon-20241223.1040.entry
-  2025-01-26T22:12:59+0000  mastodon-20241223.1040.tar
-Built mastodon in 8.288s, finished at 2025-01-26T22:13:00+0000

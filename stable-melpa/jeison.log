@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/jeison/
 Checking out 775b45657728c91f24f7508dfbc4d81a92b8e053
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/jeison/
-  to /tmp/jeisonILFkU4/jeison-20190721.1651
+  to /tmp/jeisonGishMI/jeison-20190721.1651
     jeison.el -> jeison.el
 Created jeison-20190721.1651.tar containing:
   jeison-20190721.1651/
   jeison-20190721.1651/jeison-pkg.el
   jeison-20190721.1651/jeison.el
  ✓ Success:
-  2025-01-26T22:05:27+0000  jeison-20190721.1651.entry
-  2025-01-26T22:05:27+0000  jeison-20190721.1651.tar
-Built jeison in 5.965s, finished at 2025-01-26T22:05:29+0000
+  2025-01-28T00:47:27+0000  jeison-20190721.1651.entry
+  2025-01-28T00:47:27+0000  jeison-20190721.1651.tar
+Built jeison in 3.452s, finished at 2025-01-28T00:47:28+0000

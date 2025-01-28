@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/pradyuman/typespec-ts-mode
 
 Updating /mnt/store/melpa/working/typespec-ts-mode/
-Checking out 4b814a3578b414430c99837bdc1bac8984e4994c
+Checking out 92f9a9e18876069cb176011d05854c6934cf5143
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/typespec-ts-mode/
-  to /tmp/typespec-ts-mode5Ng05Z/typespec-ts-mode-20250120.743
+  to /tmp/typespec-ts-modevfnahZ/typespec-ts-mode-20250127.834
     typespec-ts-mode.el -> typespec-ts-mode.el
-Created typespec-ts-mode-20250120.743.tar containing:
-  typespec-ts-mode-20250120.743/
-  typespec-ts-mode-20250120.743/typespec-ts-mode-pkg.el
-  typespec-ts-mode-20250120.743/typespec-ts-mode.el
+Created typespec-ts-mode-20250127.834.tar containing:
+  typespec-ts-mode-20250127.834/
+  typespec-ts-mode-20250127.834/typespec-ts-mode-pkg.el
+  typespec-ts-mode-20250127.834/typespec-ts-mode.el
  ✓ Success:
-  2025-01-26T22:45:19+0000  typespec-ts-mode-20250120.743.entry
-  2025-01-26T22:45:19+0000  typespec-ts-mode-20250120.743.tar
-Built typespec-ts-mode in 3.440s, finished at 2025-01-26T22:45:20+0000
+  2025-01-27T22:30:14+0000  typespec-ts-mode-20250127.834.entry
+  2025-01-27T22:30:13+0000  typespec-ts-mode-20250127.834.tar
+Built typespec-ts-mode in 3.774s, finished at 2025-01-27T22:30:15+0000

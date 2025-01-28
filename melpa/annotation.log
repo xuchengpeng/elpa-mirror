@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/annotation/
 Checking out aa5e3a127bf17a8c80d947f3c286758a36dadc36
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/annotation/
-  to /tmp/annotations5ziGB/annotation-20200914.644
+  to /tmp/annotationPc1FXm/annotation-20200914.644
   ! src/data/emacs-mode/annotation.el -> annotation.el
 Created annotation-20200914.644.tar containing:
   annotation-20200914.644/
   annotation-20200914.644/annotation-pkg.el
   annotation-20200914.644/annotation.el
  ✓ Success:
-  2025-01-27T00:18:54+0000  annotation-20200914.644.entry
-  2025-01-27T00:18:54+0000  annotation-20200914.644.tar
-Built annotation in 11.004s, finished at 2025-01-27T00:18:55+0000
+  2025-01-28T00:04:38+0000  annotation-20200914.644.entry
+  2025-01-28T00:04:38+0000  annotation-20200914.644.tar
+Built annotation in 10.831s, finished at 2025-01-28T00:04:39+0000

@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/mhc/
 Checking out b527a88748651d06222ad24f7417941088515275
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mhc/
-  to /tmp/mhcXypLyy/mhc-20240419.10
+  to /tmp/mhcr8ZD63/mhc-20240419.10
   ! emacs/mhc-calendar.el -> mhc-calendar.el
   ! emacs/mhc-calfw.el -> mhc-calfw.el
   ! emacs/mhc-compat.el -> mhc-compat.el
@@ -61,6 +61,6 @@ Created mhc-20240419.10.tar containing:
   mhc-20240419.10/mhc-vars.el
   mhc-20240419.10/mhc.el
  ✓ Success:
-  2025-01-26T22:13:50+0000  mhc-20240419.10.entry
-  2025-01-26T22:13:50+0000  mhc-20240419.10.tar
-Built mhc in 4.868s, finished at 2025-01-26T22:13:51+0000
+  2025-01-27T21:58:06+0000  mhc-20240419.10.entry
+  2025-01-27T21:58:06+0000  mhc-20240419.10.tar
+Built mhc in 4.483s, finished at 2025-01-27T21:58:07+0000

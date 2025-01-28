@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/evil/
 Checking out c222ce1ea6fbefaed08308c061371ebdf01b078f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/evil/
-  to /tmp/evilKxkSuT/evil-20250121.1800
+  to /tmp/evil3ZzRJt/evil-20250121.1800
     evil-command-window.el -> evil-command-window.el
     evil-commands.el -> evil-commands.el
     evil-common.el -> evil-common.el
@@ -51,6 +51,6 @@ Created evil-20250121.1800.tar containing:
   evil-20250121.1800/evil.el
   evil-20250121.1800/evil.info
  ✓ Success:
-  2025-01-27T00:41:11+0000  evil-20250121.1800.entry
-  2025-01-27T00:41:11+0000  evil-20250121.1800.tar
-Built evil in 8.233s, finished at 2025-01-27T00:41:13+0000
+  2025-01-28T00:27:32+0000  evil-20250121.1800.entry
+  2025-01-28T00:27:31+0000  evil-20250121.1800.tar
+Built evil in 8.321s, finished at 2025-01-28T00:27:33+0000

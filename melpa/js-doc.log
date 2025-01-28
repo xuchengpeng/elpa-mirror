@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/js-doc/
 Checking out f0606e89d5aa89146f96edb38cf69af0068a9d1e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/js-doc/
-  to /tmp/js-doc6CzB3e/js-doc-20160715.434
+  to /tmp/js-docmATmx6/js-doc-20160715.434
     js-doc.el -> js-doc.el
 Created js-doc-20160715.434.tar containing:
   js-doc-20160715.434/
   js-doc-20160715.434/js-doc-pkg.el
   js-doc-20160715.434/js-doc.el
  ✓ Success:
-  2025-01-26T22:06:12+0000  js-doc-20160715.434.entry
-  2025-01-26T22:06:12+0000  js-doc-20160715.434.tar
-Built js-doc in 5.245s, finished at 2025-01-26T22:06:14+0000
+  2025-01-28T00:47:56+0000  js-doc-20160715.434.entry
+  2025-01-28T00:47:56+0000  js-doc-20160715.434.tar
+Built js-doc in 3.331s, finished at 2025-01-28T00:47:57+0000

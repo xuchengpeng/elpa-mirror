@@ -3,16 +3,24 @@ Fetcher: codeberg
 Source:  https://codeberg.org/deadblackclover/twtxt-el
 
 Updating /mnt/store/melpa/working/twtxt/
-Checking out 8780c0f637ce5687033a0a0820df41d60d0d49b9
+Checking out 61285bbce14b82a587737db1eefd3439dc83eb65
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/twtxt/
-  to /tmp/twtxt2otjgo/twtxt-20241219.937
+  to /tmp/twtxtBc330d/twtxt-20250127.1521
+    twtxt-feed.el -> twtxt-feed.el
+    twtxt-post.el -> twtxt-post.el
+    twtxt-timeline.el -> twtxt-timeline.el
+    twtxt-variables.el -> twtxt-variables.el
     twtxt.el -> twtxt.el
-Created twtxt-20241219.937.tar containing:
-  twtxt-20241219.937/
-  twtxt-20241219.937/twtxt-pkg.el
-  twtxt-20241219.937/twtxt.el
+Created twtxt-20250127.1521.tar containing:
+  twtxt-20250127.1521/
+  twtxt-20250127.1521/twtxt-feed.el
+  twtxt-20250127.1521/twtxt-pkg.el
+  twtxt-20250127.1521/twtxt-post.el
+  twtxt-20250127.1521/twtxt-timeline.el
+  twtxt-20250127.1521/twtxt-variables.el
+  twtxt-20250127.1521/twtxt.el
  ✓ Success:
-  2025-01-26T22:45:18+0000  twtxt-20241219.937.entry
-  2025-01-26T22:45:18+0000  twtxt-20241219.937.tar
-Built twtxt in 3.999s, finished at 2025-01-26T22:45:19+0000
+  2025-01-27T22:30:12+0000  twtxt-20250127.1521.entry
+  2025-01-27T22:30:12+0000  twtxt-20250127.1521.tar
+Built twtxt in 5.433s, finished at 2025-01-27T22:30:14+0000

@@ -6,15 +6,13 @@ Updating /mnt/store/melpa/working/cov/
 Checking out 7a3599e42d4fe943b912701e04beffcf2ec812d2
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/cov/
-  to /tmp/cov7kw6Be/cov-20250126.2333
+  to /tmp/covHVsXlb/cov-20250126.2333
     cov.el -> cov.el
 Created cov-20250126.2333.tar containing:
   cov-20250126.2333/
   cov-20250126.2333/cov-pkg.el
   cov-20250126.2333/cov.el
  ✓ Success:
-  2025-01-26T21:34:54+0000  cov-20231007.254.entry
-  2025-01-26T21:34:54+0000  cov-20231007.254.tar
-  2025-01-27T00:29:56+0000  cov-20250126.2333.entry
-  2025-01-27T00:29:56+0000  cov-20250126.2333.tar
-Built cov in 3.824s, finished at 2025-01-27T00:29:57+0000
+  2025-01-28T00:16:09+0000  cov-20250126.2333.entry
+  2025-01-28T00:16:09+0000  cov-20250126.2333.tar
+Built cov in 3.599s, finished at 2025-01-28T00:16:10+0000

@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/sicp/
 Checking out 552b44fd873b5cadde4e76d10cef4d6e21a4287a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/sicp/
-  to /tmp/sicpnu4UuB/sicp-20240826.1844
+  to /tmp/sicpNrF6Ex/sicp-20240826.1844
     sicp.el -> sicp.el
     dir -> dir
     sicp.info -> sicp.info
@@ -17,6 +17,6 @@ Created sicp-20240826.1844.tar containing:
   sicp-20240826.1844/sicp.el
   sicp-20240826.1844/sicp.info
  ✓ Success:
-  2025-01-26T22:37:11+0000  sicp-20240826.1844.entry
-  2025-01-26T22:37:11+0000  sicp-20240826.1844.tar
-Built sicp in 4.179s, finished at 2025-01-26T22:37:12+0000
+  2025-01-27T22:21:38+0000  sicp-20240826.1844.entry
+  2025-01-27T22:21:38+0000  sicp-20240826.1844.tar
+Built sicp in 3.995s, finished at 2025-01-27T22:21:39+0000
