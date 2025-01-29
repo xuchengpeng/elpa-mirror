@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/chruby/
 Checking out 42bc6d521f832eca8e2ba210f30d03ad5529788f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/chruby/
-  to /tmp/chrubyT6i5Nx/chruby-20180114.1652
+  to /tmp/chrubyy6Rbpz/chruby-20180114.1652
     chruby.el -> chruby.el
 Created chruby-20180114.1652.tar containing:
   chruby-20180114.1652/
   chruby-20180114.1652/chruby-pkg.el
   chruby-20180114.1652/chruby.el
  ✓ Success:
-  2025-01-28T00:11:27+0000  chruby-20180114.1652.entry
-  2025-01-28T00:11:27+0000  chruby-20180114.1652.tar
-Built chruby in 3.231s, finished at 2025-01-28T00:11:28+0000
+  2025-01-28T23:48:57+0000  chruby-20180114.1652.entry
+  2025-01-28T23:48:56+0000  chruby-20180114.1652.tar
+Built chruby in 3.102s, finished at 2025-01-28T23:48:58+0000

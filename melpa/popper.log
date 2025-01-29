@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/popper/
 Checking out faf155059e519fb036324af579c342365795dbbb
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/popper/
-  to /tmp/popper1PdW1t/popper-20241201.110
+  to /tmp/popper7A1D6I/popper-20241201.110
     popper-echo.el -> popper-echo.el
     popper.el -> popper.el
 Created popper-20241201.110.tar containing:
@@ -15,6 +15,6 @@ Created popper-20241201.110.tar containing:
   popper-20241201.110/popper-pkg.el
   popper-20241201.110/popper.el
  ✓ Success:
-  2025-01-27T22:13:35+0000  popper-20241201.110.entry
-  2025-01-27T22:13:35+0000  popper-20241201.110.tar
-Built popper in 3.825s, finished at 2025-01-27T22:13:36+0000
+  2025-01-29T00:49:49+0000  popper-20241201.110.entry
+  2025-01-29T00:49:49+0000  popper-20241201.110.tar
+Built popper in 3.522s, finished at 2025-01-29T00:49:50+0000

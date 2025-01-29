@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/vcsh/
 Checking out b9c0109a8c77446980de668785e6af1e46bdcdcd
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/vcsh/
-  to /tmp/vcshcd0rgS/vcsh-20230402.1229
+  to /tmp/vcshqkZfA4/vcsh-20230402.1229
     vcsh.el -> vcsh.el
 Created vcsh-20230402.1229.tar containing:
   vcsh-20230402.1229/
   vcsh-20230402.1229/vcsh-pkg.el
   vcsh-20230402.1229/vcsh.el
  ✓ Success:
-  2025-01-27T22:31:47+0000  vcsh-20230402.1229.entry
-  2025-01-27T22:31:46+0000  vcsh-20230402.1229.tar
-Built vcsh in 6.894s, finished at 2025-01-27T22:31:48+0000
+  2025-01-28T22:09:34+0000  vcsh-20230402.1229.entry
+  2025-01-28T22:09:34+0000  vcsh-20230402.1229.tar
+Built vcsh in 4.943s, finished at 2025-01-28T22:09:35+0000

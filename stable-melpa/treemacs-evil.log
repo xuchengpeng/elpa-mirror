@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/treemacs-evil/
 Checking out 011f310eeb51db0ccad7b00b7cbd0f1ccddbb588
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/treemacs-evil/
-  to /tmp/treemacs-evilVFLG7y/treemacs-evil-20241222.1336
+  to /tmp/treemacs-evilNkWbnC/treemacs-evil-20241222.1336
   ! src/extra/treemacs-evil.el -> treemacs-evil.el
 Created treemacs-evil-20241222.1336.tar containing:
   treemacs-evil-20241222.1336/
   treemacs-evil-20241222.1336/treemacs-evil-pkg.el
   treemacs-evil-20241222.1336/treemacs-evil.el
  ✓ Success:
-  2025-01-27T22:29:18+0000  treemacs-evil-20241222.1336.entry
-  2025-01-27T22:29:18+0000  treemacs-evil-20241222.1336.tar
-Built treemacs-evil in 6.242s, finished at 2025-01-27T22:29:20+0000
+  2025-01-28T22:07:08+0000  treemacs-evil-20241222.1336.entry
+  2025-01-28T22:07:07+0000  treemacs-evil-20241222.1336.tar
+Built treemacs-evil in 4.226s, finished at 2025-01-28T22:07:09+0000

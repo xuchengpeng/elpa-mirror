@@ -1,7 +1,9 @@
 AI-powered code completion with dual modes:
 
-- Specialized prompts and various enhancements for chat-based LLMs on code completion tasks.
-- Fill-in-the-middle (FIM) completion for compatible models (DeepSeek, Codestral, and some Ollama models).
+- Specialized prompts and various enhancements for chat-based LLMs
+  on code completion tasks.
+- Fill-in-the-middle (FIM) completion for compatible models
+  (DeepSeek, Codestral, and some Ollama models).
 
 Minuet supports multiple AI providers (OpenAI, Claude, Gemini,
 Codestral, Ollama, and OpenAI-compatible providers)

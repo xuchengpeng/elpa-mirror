@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/hfst-mode/
 Checking out ac1bb9dd92545d3e7fdc05c83996c227cc15c6b8
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/hfst-mode/
-  to /tmp/hfst-modeIf6GTc/hfst-mode-20160708.1202
+  to /tmp/hfst-modeF5ZQcv/hfst-mode-20160708.1202
     hfst-mode.el -> hfst-mode.el
 Created hfst-mode-20160708.1202.tar containing:
   hfst-mode-20160708.1202/
   hfst-mode-20160708.1202/hfst-mode-pkg.el
   hfst-mode-20160708.1202/hfst-mode.el
  ✓ Success:
-  2025-01-28T00:42:27+0000  hfst-mode-20160708.1202.entry
-  2025-01-28T00:42:26+0000  hfst-mode-20160708.1202.tar
-Built hfst-mode in 3.842s, finished at 2025-01-28T00:42:28+0000
+  2025-01-29T00:20:26+0000  hfst-mode-20160708.1202.entry
+  2025-01-29T00:20:26+0000  hfst-mode-20160708.1202.tar
+Built hfst-mode in 4.446s, finished at 2025-01-29T00:20:28+0000

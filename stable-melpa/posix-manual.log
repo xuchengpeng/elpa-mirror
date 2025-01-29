@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/posix-manual/
 Checking out 428b10d011082a57db0ce310fad6cd092267e139
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/posix-manual/
-  to /tmp/posix-manualgz3kxk/posix-manual-20231215.1604
+  to /tmp/posix-manualahLYR4/posix-manual-20231215.1604
     posix-manual-data.el -> posix-manual-data.el
     posix-manual.el -> posix-manual.el
 Created posix-manual-20231215.1604.tar containing:
@@ -15,6 +15,6 @@ Created posix-manual-20231215.1604.tar containing:
   posix-manual-20231215.1604/posix-manual-pkg.el
   posix-manual-20231215.1604/posix-manual.el
  ✓ Success:
-  2025-01-27T22:13:47+0000  posix-manual-20231215.1604.entry
-  2025-01-27T22:13:47+0000  posix-manual-20231215.1604.tar
-Built posix-manual in 3.355s, finished at 2025-01-27T22:13:48+0000
+  2025-01-29T00:50:01+0000  posix-manual-20231215.1604.entry
+  2025-01-29T00:50:01+0000  posix-manual-20231215.1604.tar
+Built posix-manual in 3.594s, finished at 2025-01-29T00:50:02+0000

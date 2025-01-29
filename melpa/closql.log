@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/closql/
 Checking out d925b8c9c1c724b49d7af7806b7ec1d71209d6e3
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/closql/
-  to /tmp/closqlm6DVyU/closql-20250126.1747
+  to /tmp/closql9VDwYR/closql-20250126.1747
     closql.el -> closql.el
 Created closql-20250126.1747.tar containing:
   closql-20250126.1747/
   closql-20250126.1747/closql-pkg.el
   closql-20250126.1747/closql.el
  ✓ Success:
-  2025-01-28T00:12:24+0000  closql-20250126.1747.entry
-  2025-01-28T00:12:24+0000  closql-20250126.1747.tar
-Built closql in 3.523s, finished at 2025-01-28T00:12:26+0000
+  2025-01-28T23:49:53+0000  closql-20250126.1747.entry
+  2025-01-28T23:49:53+0000  closql-20250126.1747.tar
+Built closql in 3.629s, finished at 2025-01-28T23:49:54+0000

@@ -3,20 +3,20 @@ Fetcher: github
 Source:  https://github.com/minad/cape
 
 Updating /mnt/store/melpa/working/cape/
-Checking out cf0553114f51d8970837423f1b2da4f0980cb1e1
+Checking out 118db73710466ab03708e7511f4bff7827057000
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/cape/
-  to /tmp/capeDJ82Fc/cape-20250116.1230
+  to /tmp/cape3wzLe9/cape-20250128.819
     cape-char.el -> cape-char.el
     cape-keyword.el -> cape-keyword.el
     cape.el -> cape.el
-Created cape-20250116.1230.tar containing:
-  cape-20250116.1230/
-  cape-20250116.1230/cape-char.el
-  cape-20250116.1230/cape-keyword.el
-  cape-20250116.1230/cape-pkg.el
-  cape-20250116.1230/cape.el
+Created cape-20250128.819.tar containing:
+  cape-20250128.819/
+  cape-20250128.819/cape-char.el
+  cape-20250128.819/cape-keyword.el
+  cape-20250128.819/cape-pkg.el
+  cape-20250128.819/cape.el
  ✓ Success:
-  2025-01-28T00:10:09+0000  cape-20250116.1230.entry
-  2025-01-28T00:10:09+0000  cape-20250116.1230.tar
-Built cape in 4.351s, finished at 2025-01-28T00:10:10+0000
+  2025-01-28T23:47:45+0000  cape-20250128.819.entry
+  2025-01-28T23:47:45+0000  cape-20250128.819.tar
+Built cape in 3.800s, finished at 2025-01-28T23:47:46+0000

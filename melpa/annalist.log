@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/annalist/
 Checking out e1ef5dad75fa502d761f70d9ddf1aeb1c423f41d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/annalist/
-  to /tmp/annalistmmbiak/annalist-20240501.1201
+  to /tmp/annalistu340ky/annalist-20240501.1201
     annalist.el -> annalist.el
     annalist.texi -> annalist.texi
 Generating annalist.info
@@ -17,6 +17,6 @@ Created annalist-20240501.1201.tar containing:
   annalist-20240501.1201/annalist.info
   annalist-20240501.1201/dir
  ✓ Success:
-  2025-01-28T00:04:31+0000  annalist-20240501.1201.entry
-  2025-01-28T00:04:31+0000  annalist-20240501.1201.tar
-Built annalist in 6.053s, finished at 2025-01-28T00:04:32+0000
+  2025-01-28T23:42:17+0000  annalist-20240501.1201.entry
+  2025-01-28T23:42:17+0000  annalist-20240501.1201.tar
+Built annalist in 5.901s, finished at 2025-01-28T23:42:18+0000

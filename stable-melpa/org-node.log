@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/org-node/
 Checking out a8b4826efe2e6bb6e3d9ba9f4464792063c5f75b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/org-node/
-  to /tmp/org-nodeNq8bLf/org-node-20250125.1047
+  to /tmp/org-nodew2uSzm/org-node-20250125.1047
     org-node-backlink.el -> org-node-backlink.el
     org-node-changes.el -> org-node-changes.el
     org-node-parser.el -> org-node-parser.el
@@ -25,6 +25,6 @@ Created org-node-20250125.1047.tar containing:
   org-node-20250125.1047/org-node.el
   org-node-20250125.1047/org-node.info
  ✓ Success:
-  2025-01-27T22:07:14+0000  org-node-20250125.1047.entry
-  2025-01-27T22:07:14+0000  org-node-20250125.1047.tar
-Built org-node in 7.802s, finished at 2025-01-27T22:07:15+0000
+  2025-01-29T00:43:03+0000  org-node-20250125.1047.entry
+  2025-01-29T00:43:03+0000  org-node-20250125.1047.tar
+Built org-node in 6.683s, finished at 2025-01-29T00:43:04+0000

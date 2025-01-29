@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/bbdb-vcard/
 Checking out 113c66115ce68316e209f51ebce56de8dded3606
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/bbdb-vcard/
-  to /tmp/bbdb-vcardondsEu/bbdb-vcard-20210325.2208
+  to /tmp/bbdb-vcardd1tj2R/bbdb-vcard-20210325.2208
     bbdb-vcard-vcard21.el -> bbdb-vcard-vcard21.el
     bbdb-vcard.el -> bbdb-vcard.el
     bbdb-vcard.texi -> bbdb-vcard.texi
@@ -19,6 +19,6 @@ Created bbdb-vcard-20210325.2208.tar containing:
   bbdb-vcard-20210325.2208/bbdb-vcard.info
   bbdb-vcard-20210325.2208/dir
  ✓ Success:
-  2025-01-28T00:07:03+0000  bbdb-vcard-20210325.2208.entry
-  2025-01-28T00:07:03+0000  bbdb-vcard-20210325.2208.tar
-Built bbdb-vcard in 6.197s, finished at 2025-01-28T00:07:04+0000
+  2025-01-28T23:44:40+0000  bbdb-vcard-20210325.2208.entry
+  2025-01-28T23:44:39+0000  bbdb-vcard-20210325.2208.tar
+Built bbdb-vcard in 7.128s, finished at 2025-01-28T23:44:42+0000

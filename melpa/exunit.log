@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/exunit/
 Checking out b6134ce920a4bbc561f65fac1d1bf37206d97505
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/exunit/
-  to /tmp/exunit5iZC6z/exunit-20240502.431
+  to /tmp/exunitu7N3oI/exunit-20240502.431
     exunit.el -> exunit.el
 Created exunit-20240502.431.tar containing:
   exunit-20240502.431/
   exunit-20240502.431/exunit-pkg.el
   exunit-20240502.431/exunit.el
  ✓ Success:
-  2025-01-28T00:28:59+0000  exunit-20240502.431.entry
-  2025-01-28T00:28:59+0000  exunit-20240502.431.tar
-Built exunit in 3.381s, finished at 2025-01-28T00:29:00+0000
+  2025-01-29T00:06:26+0000  exunit-20240502.431.entry
+  2025-01-29T00:06:26+0000  exunit-20240502.431.tar
+Built exunit in 3.552s, finished at 2025-01-29T00:06:27+0000

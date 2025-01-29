@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/flymake-gradle/
 Checking out dbedd29b78d4828ef57d4de20867be5df3eaab99
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/flymake-gradle/
-  to /tmp/flymake-gradleY4LmXY/flymake-gradle-20190315.233
+  to /tmp/flymake-gradleN1715i/flymake-gradle-20190315.233
     flymake-gradle.el -> flymake-gradle.el
 Created flymake-gradle-20190315.233.tar containing:
   flymake-gradle-20190315.233/
   flymake-gradle-20190315.233/flymake-gradle-pkg.el
   flymake-gradle-20190315.233/flymake-gradle.el
  ✓ Success:
-  2025-01-28T00:33:04+0000  flymake-gradle-20190315.233.entry
-  2025-01-28T00:33:04+0000  flymake-gradle-20190315.233.tar
-Built flymake-gradle in 3.416s, finished at 2025-01-28T00:33:05+0000
+  2025-01-29T00:10:18+0000  flymake-gradle-20190315.233.entry
+  2025-01-29T00:10:17+0000  flymake-gradle-20190315.233.tar
+Built flymake-gradle in 5.467s, finished at 2025-01-29T00:10:20+0000

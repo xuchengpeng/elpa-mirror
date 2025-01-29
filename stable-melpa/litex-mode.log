@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/litex-mode/
 Checking out 45004b3a865771799b739d17ebb7849190fffa63
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/litex-mode/
-  to /tmp/litex-modeCy4SMO/litex-mode-20221107.147
+  to /tmp/litex-modeexx347/litex-mode-20221107.147
     litex-mode.el -> litex-mode.el
     litex-mode.texi -> litex-mode.texi
 Generating litex-mode.info
@@ -17,6 +17,6 @@ Created litex-mode-20221107.147.tar containing:
   litex-mode-20221107.147/litex-mode.el
   litex-mode-20221107.147/litex-mode.info
  ✓ Success:
-  2025-01-28T00:52:04+0000  litex-mode-20221107.147.entry
-  2025-01-28T00:52:04+0000  litex-mode-20221107.147.tar
-Built litex-mode in 6.206s, finished at 2025-01-28T00:52:06+0000
+  2025-01-29T00:30:39+0000  litex-mode-20221107.147.entry
+  2025-01-29T00:30:39+0000  litex-mode-20221107.147.tar
+Built litex-mode in 6.415s, finished at 2025-01-29T00:30:40+0000

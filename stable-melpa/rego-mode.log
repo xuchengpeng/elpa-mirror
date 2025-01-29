@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/rego-mode/
 Checking out be110e6cef5d34eef0529a8739c68e619cf15310
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/rego-mode/
-  to /tmp/rego-modeKpAkza/rego-mode-20201102.1420
+  to /tmp/rego-modeA2kexg/rego-mode-20201102.1420
     rego-mode.el -> rego-mode.el
 Created rego-mode-20201102.1420.tar containing:
   rego-mode-20201102.1420/
   rego-mode-20201102.1420/rego-mode-pkg.el
   rego-mode-20201102.1420/rego-mode.el
  ✓ Success:
-  2025-01-27T22:17:40+0000  rego-mode-20201102.1420.entry
-  2025-01-27T22:17:40+0000  rego-mode-20201102.1420.tar
-Built rego-mode in 5.215s, finished at 2025-01-27T22:17:42+0000
+  2025-01-29T00:54:14+0000  rego-mode-20201102.1420.entry
+  2025-01-29T00:54:14+0000  rego-mode-20201102.1420.tar
+Built rego-mode in 3.353s, finished at 2025-01-29T00:54:15+0000

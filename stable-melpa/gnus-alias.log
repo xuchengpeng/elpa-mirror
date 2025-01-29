@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/gnus-alias/
 Checking out cf1783a9294bc2f72bfafcaea288c159c4e3dee5
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/gnus-alias/
-  to /tmp/gnus-aliasOchbX2/gnus-alias-20230818.1830
+  to /tmp/gnus-aliasSttc9J/gnus-alias-20230818.1830
     gnus-alias.el -> gnus-alias.el
 Created gnus-alias-20230818.1830.tar containing:
   gnus-alias-20230818.1830/
   gnus-alias-20230818.1830/gnus-alias-pkg.el
   gnus-alias-20230818.1830/gnus-alias.el
  ✓ Success:
-  2025-01-28T00:36:45+0000  gnus-alias-20230818.1830.entry
-  2025-01-28T00:36:45+0000  gnus-alias-20230818.1830.tar
-Built gnus-alias in 2.920s, finished at 2025-01-28T00:36:46+0000
+  2025-01-29T00:14:24+0000  gnus-alias-20230818.1830.entry
+  2025-01-29T00:14:24+0000  gnus-alias-20230818.1830.tar
+Built gnus-alias in 3.024s, finished at 2025-01-29T00:14:25+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/ipretty/
 Checking out 042f5cc4e6f81d59115e8335c582bb5c571c2585
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ipretty/
-  to /tmp/iprettyj8KJUj/ipretty-20180606.522
+  to /tmp/iprettyzGmf6m/ipretty-20180606.522
     ipretty.el -> ipretty.el
 Created ipretty-20180606.522.tar containing:
   ipretty-20180606.522/
   ipretty-20180606.522/ipretty-pkg.el
   ipretty-20180606.522/ipretty.el
  ✓ Success:
-  2025-01-28T00:46:14+0000  ipretty-20180606.522.entry
-  2025-01-28T00:46:14+0000  ipretty-20180606.522.tar
-Built ipretty in 4.303s, finished at 2025-01-28T00:46:15+0000
+  2025-01-29T00:24:30+0000  ipretty-20180606.522.entry
+  2025-01-29T00:24:30+0000  ipretty-20180606.522.tar
+Built ipretty in 4.745s, finished at 2025-01-29T00:24:31+0000

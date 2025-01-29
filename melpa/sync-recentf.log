@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/sync-recentf/
 Checking out 0052561d5c5b5c2684faedc3eead776aec06c3ed
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/sync-recentf/
-  to /tmp/sync-recentfbzP5yo/sync-recentf-20160326.2001
+  to /tmp/sync-recentfGViyAa/sync-recentf-20160326.2001
     sync-recentf.el -> sync-recentf.el
 Created sync-recentf-20160326.2001.tar containing:
   sync-recentf-20160326.2001/
   sync-recentf-20160326.2001/sync-recentf-pkg.el
   sync-recentf-20160326.2001/sync-recentf.el
  ✓ Success:
-  2025-01-27T22:26:15+0000  sync-recentf-20160326.2001.entry
-  2025-01-27T22:26:15+0000  sync-recentf-20160326.2001.tar
-Built sync-recentf in 3.814s, finished at 2025-01-27T22:26:16+0000
+  2025-01-28T22:04:07+0000  sync-recentf-20160326.2001.entry
+  2025-01-28T22:04:07+0000  sync-recentf-20160326.2001.tar
+Built sync-recentf in 4.270s, finished at 2025-01-28T22:04:08+0000

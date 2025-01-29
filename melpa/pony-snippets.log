@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/pony-snippets/
 Checking out 115a0d5066f89554bee9cb1045bcda5a18ebd441
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/pony-snippets/
-  to /tmp/pony-snippetsMHZ1sN/pony-snippets-20200418.354
+  to /tmp/pony-snippetsUFh1Ef/pony-snippets-20200418.354
     pony-snippets.el -> pony-snippets.el
     snippets => snippets
 Created pony-snippets-20200418.354.tar containing:
@@ -47,6 +47,6 @@ Created pony-snippets-20200418.354.tar containing:
   pony-snippets-20200418.354/snippets/ponylang-mode/while.block
   pony-snippets-20200418.354/snippets/ponylang-mode/with.block
  ✓ Success:
-  2025-01-27T22:13:30+0000  pony-snippets-20200418.354.entry
-  2025-01-27T22:13:30+0000  pony-snippets-20200418.354.tar
-Built pony-snippets in 3.767s, finished at 2025-01-27T22:13:31+0000
+  2025-01-29T00:49:45+0000  pony-snippets-20200418.354.entry
+  2025-01-29T00:49:45+0000  pony-snippets-20200418.354.tar
+Built pony-snippets in 3.881s, finished at 2025-01-29T00:49:46+0000
