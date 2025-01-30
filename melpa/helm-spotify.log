@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/helm-spotify/
 Checking out f7a62d1ff88e3127de9be7cd3e818b0a92268ab3
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/helm-spotify/
-  to /tmp/helm-spotifyB3LKNE/helm-spotify-20160905.2147
+  to /tmp/helm-spotifyVJyEhN/helm-spotify-20160905.2147
     helm-spotify.el -> helm-spotify.el
 Created helm-spotify-20160905.2147.tar containing:
   helm-spotify-20160905.2147/
   helm-spotify-20160905.2147/helm-spotify-pkg.el
   helm-spotify-20160905.2147/helm-spotify.el
  ✓ Success:
-  2025-01-29T00:19:55+0000  helm-spotify-20160905.2147.entry
-  2025-01-29T00:19:54+0000  helm-spotify-20160905.2147.tar
-Built helm-spotify in 3.860s, finished at 2025-01-29T00:19:56+0000
+  2025-01-30T00:06:04+0000  helm-spotify-20160905.2147.entry
+  2025-01-30T00:06:03+0000  helm-spotify-20160905.2147.tar
+Built helm-spotify in 3.416s, finished at 2025-01-30T00:06:05+0000

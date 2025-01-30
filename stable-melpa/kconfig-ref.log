@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/kconfig-ref/
 Checking out a3f602032cd3b9a7167505bd8ad0f156ae34c0b8
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/kconfig-ref/
-  to /tmp/kconfig-refweK01q/kconfig-ref-20230814.1052
+  to /tmp/kconfig-ref7ww8gW/kconfig-ref-20230814.1052
     kconfig-ref.el -> kconfig-ref.el
 Created kconfig-ref-20230814.1052.tar containing:
   kconfig-ref-20230814.1052/
   kconfig-ref-20230814.1052/kconfig-ref-pkg.el
   kconfig-ref-20230814.1052/kconfig-ref.el
  ✓ Success:
-  2025-01-29T00:27:23+0000  kconfig-ref-20230814.1052.entry
-  2025-01-29T00:27:23+0000  kconfig-ref-20230814.1052.tar
-Built kconfig-ref in 3.671s, finished at 2025-01-29T00:27:25+0000
+  2025-01-30T00:13:15+0000  kconfig-ref-20230814.1052.entry
+  2025-01-30T00:13:15+0000  kconfig-ref-20230814.1052.tar
+Built kconfig-ref in 3.658s, finished at 2025-01-30T00:13:17+0000

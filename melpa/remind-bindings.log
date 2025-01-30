@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/remind-bindings/
 Checking out c9a327bfd3c68a0c41b5b64df491bdee4c73ca39
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/remind-bindings/
-  to /tmp/remind-bindingsaYiM3G/remind-bindings-20200820.1723
+  to /tmp/remind-bindingsNQicrA/remind-bindings-20200820.1723
     remind-bindings.el -> remind-bindings.el
 Created remind-bindings-20200820.1723.tar containing:
   remind-bindings-20200820.1723/
   remind-bindings-20200820.1723/remind-bindings-pkg.el
   remind-bindings-20200820.1723/remind-bindings.el
  ✓ Success:
-  2025-01-29T00:54:20+0000  remind-bindings-20200820.1723.entry
-  2025-01-29T00:54:20+0000  remind-bindings-20200820.1723.tar
-Built remind-bindings in 4.501s, finished at 2025-01-29T00:54:21+0000
+  2025-01-30T00:40:00+0000  remind-bindings-20200820.1723.entry
+  2025-01-30T00:40:00+0000  remind-bindings-20200820.1723.tar
+Built remind-bindings in 4.462s, finished at 2025-01-30T00:40:01+0000

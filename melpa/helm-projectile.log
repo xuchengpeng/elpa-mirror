@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/helm-projectile/
 Checking out 52ee6ad725d6a82adccb64849f5b7aa2c3aa769c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/helm-projectile/
-  to /tmp/helm-projectile1PhCuC/helm-projectile-20250127.1601
+  to /tmp/helm-projectilefBXX9L/helm-projectile-20250127.1601
     helm-projectile.el -> helm-projectile.el
 Created helm-projectile-20250127.1601.tar containing:
   helm-projectile-20250127.1601/
   helm-projectile-20250127.1601/helm-projectile-pkg.el
   helm-projectile-20250127.1601/helm-projectile.el
  ✓ Success:
-  2025-01-29T00:19:27+0000  helm-projectile-20250127.1601.entry
-  2025-01-29T00:19:27+0000  helm-projectile-20250127.1601.tar
-Built helm-projectile in 3.804s, finished at 2025-01-29T00:19:28+0000
+  2025-01-30T00:05:37+0000  helm-projectile-20250127.1601.entry
+  2025-01-30T00:05:37+0000  helm-projectile-20250127.1601.tar
+Built helm-projectile in 3.447s, finished at 2025-01-30T00:05:39+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/d-mode/
 Checking out e8754635a7dbb7b1712dc9fcf380acd3ed5a2db6
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/d-mode/
-  to /tmp/d-modeDX4w5M/d-mode-20241225.1823
+  to /tmp/d-modeGCbrca/d-mode-20241225.1823
     d-mode.el -> d-mode.el
 Created d-mode-20241225.1823.tar containing:
   d-mode-20241225.1823/
   d-mode-20241225.1823/d-mode-pkg.el
   d-mode-20241225.1823/d-mode.el
  ✓ Success:
-  2025-01-28T23:54:36+0000  d-mode-20241225.1823.entry
-  2025-01-28T23:54:36+0000  d-mode-20241225.1823.tar
-Built d-mode in 4.068s, finished at 2025-01-28T23:54:37+0000
+  2025-01-29T23:42:03+0000  d-mode-20241225.1823.entry
+  2025-01-29T23:42:03+0000  d-mode-20241225.1823.tar
+Built d-mode in 4.618s, finished at 2025-01-29T23:42:04+0000

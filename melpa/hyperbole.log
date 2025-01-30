@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/hyperbole/
 Checking out e610cf4190bb5cc9bbab75511511fc13dc65ccd5
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/hyperbole/
-  to /tmp/hyperbole8Oisx9/hyperbole-20250128.841
+  to /tmp/hyperbole3uQDT8/hyperbole-20250128.841
     hact.el -> hact.el
     hactypes.el -> hactypes.el
     hargs.el -> hargs.el
@@ -343,6 +343,6 @@ Created hyperbole-20250128.841.tar containing:
   hyperbole-20250128.841/test/test-helpers-tests.el
   hyperbole-20250128.841/topwin.py
  ✓ Success:
-  2025-01-29T00:22:23+0000  hyperbole-20250128.841.entry
-  2025-01-29T00:22:22+0000  hyperbole-20250128.841.tar
-Built hyperbole in 33.491s, finished at 2025-01-29T00:22:25+0000
+  2025-01-30T00:08:13+0000  hyperbole-20250128.841.entry
+  2025-01-30T00:08:12+0000  hyperbole-20250128.841.tar
+Built hyperbole in 18.687s, finished at 2025-01-30T00:08:14+0000

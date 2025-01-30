@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/elisa/
 Checking out bfd4f2a2dab054adc788d82447432e059fbd0f8c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/elisa/
-  to /tmp/elisaKdRrDx/elisa-20250128.736
+  to /tmp/elisakw2v9B/elisa-20250128.736
     elisa.el -> elisa.el
 Created elisa-20250128.736.tar containing:
   elisa-20250128.736/
   elisa-20250128.736/elisa-pkg.el
   elisa-20250128.736/elisa.el
  ✓ Success:
-  2025-01-29T00:01:11+0000  elisa-20250128.736.entry
-  2025-01-29T00:01:11+0000  elisa-20250128.736.tar
-Built elisa in 3.624s, finished at 2025-01-29T00:01:12+0000
+  2025-01-29T23:48:32+0000  elisa-20250128.736.entry
+  2025-01-29T23:48:31+0000  elisa-20250128.736.tar
+Built elisa in 3.349s, finished at 2025-01-29T23:48:33+0000

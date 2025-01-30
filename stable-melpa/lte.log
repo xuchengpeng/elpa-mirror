@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/lte/
 Checking out 011c86d9fb72d00105293efabef4756274d851b4
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/lte/
-  to /tmp/ltep0Bkcy/lte-20250112.2154
+  to /tmp/lteMPaMbD/lte-20250112.2154
     lte.el -> lte.el
 Created lte-20250112.2154.tar containing:
   lte-20250112.2154/
   lte-20250112.2154/lte-pkg.el
   lte-20250112.2154/lte.el
  ✓ Success:
-  2025-01-29T00:31:48+0000  lte-20250112.2154.entry
-  2025-01-29T00:31:48+0000  lte-20250112.2154.tar
-Built lte in 4.344s, finished at 2025-01-29T00:31:49+0000
+  2025-01-30T00:17:31+0000  lte-20250112.2154.entry
+  2025-01-30T00:17:31+0000  lte-20250112.2154.tar
+Built lte in 3.977s, finished at 2025-01-30T00:17:32+0000

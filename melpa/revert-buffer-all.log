@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/revert-buffer-all/
 Checking out d49462047ebb442d7872f12007380797ee49473c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/revert-buffer-all/
-  to /tmp/revert-buffer-allEdBsXO/revert-buffer-all-20240421.836
+  to /tmp/revert-buffer-alldiuyGD/revert-buffer-all-20240421.836
     revert-buffer-all.el -> revert-buffer-all.el
 Created revert-buffer-all-20240421.836.tar containing:
   revert-buffer-all-20240421.836/
   revert-buffer-all-20240421.836/revert-buffer-all-pkg.el
   revert-buffer-all-20240421.836/revert-buffer-all.el
  ✓ Success:
-  2025-01-29T00:54:49+0000  revert-buffer-all-20240421.836.entry
-  2025-01-29T00:54:48+0000  revert-buffer-all-20240421.836.tar
-Built revert-buffer-all in 4.146s, finished at 2025-01-29T00:54:50+0000
+  2025-01-30T00:40:29+0000  revert-buffer-all-20240421.836.entry
+  2025-01-30T00:40:29+0000  revert-buffer-all-20240421.836.tar
+Built revert-buffer-all in 4.063s, finished at 2025-01-30T00:40:30+0000

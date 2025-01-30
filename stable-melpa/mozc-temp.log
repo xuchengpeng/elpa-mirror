@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/mozc-temp/
 Checking out 7f5dd5fc8ceeca9b1822f7e056a4be67e2e74959
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mozc-temp/
-  to /tmp/mozc-temptrn4Ic/mozc-temp-20160228.840
+  to /tmp/mozc-tempEE91tI/mozc-temp-20160228.840
     mozc-temp.el -> mozc-temp.el
 Created mozc-temp-20160228.840.tar containing:
   mozc-temp-20160228.840/
   mozc-temp-20160228.840/mozc-temp-pkg.el
   mozc-temp-20160228.840/mozc-temp.el
  ✓ Success:
-  2025-01-29T00:36:08+0000  mozc-temp-20160228.840.entry
-  2025-01-29T00:36:08+0000  mozc-temp-20160228.840.tar
-Built mozc-temp in 3.512s, finished at 2025-01-29T00:36:10+0000
+  2025-01-30T00:21:49+0000  mozc-temp-20160228.840.entry
+  2025-01-30T00:21:49+0000  mozc-temp-20160228.840.tar
+Built mozc-temp in 3.613s, finished at 2025-01-30T00:21:50+0000

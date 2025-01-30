@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/dylan/
 Checking out 21e5953e2b1832f6a2c72012bd13795dc1ede52f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/dylan/
-  to /tmp/dylan82GPjw/dylan-20241102.2315
+  to /tmp/dylanQf9tfM/dylan-20241102.2315
     dylan-lid.el -> dylan-lid.el
     dylan-opt.el -> dylan-opt.el
     dylan.el -> dylan.el
@@ -17,6 +17,6 @@ Created dylan-20241102.2315.tar containing:
   dylan-20241102.2315/dylan-pkg.el
   dylan-20241102.2315/dylan.el
  ✓ Success:
-  2025-01-28T23:58:35+0000  dylan-20241102.2315.entry
-  2025-01-28T23:58:35+0000  dylan-20241102.2315.tar
-Built dylan in 7.032s, finished at 2025-01-28T23:58:37+0000
+  2025-01-29T23:46:23+0000  dylan-20241102.2315.entry
+  2025-01-29T23:46:23+0000  dylan-20241102.2315.tar
+Built dylan in 4.011s, finished at 2025-01-29T23:46:24+0000

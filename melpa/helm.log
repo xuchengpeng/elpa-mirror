@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/helm/
 Checking out bcdc99ac7a4063c202caf8e91f69fb455e30f0fb
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/helm/
-  to /tmp/helmvUJSFa/helm-20250128.1930
+  to /tmp/helmFpoaQu/helm-20250128.1930
     helm-adaptive.el -> helm-adaptive.el
     helm-bookmark.el -> helm-bookmark.el
     helm-buffers.el -> helm-buffers.el
@@ -93,6 +93,6 @@ Created helm-20250128.1930.tar containing:
   helm-20250128.1930/helm-x-icons.el
   helm-20250128.1930/helm.el
  ✓ Success:
-  2025-01-29T00:17:39+0000  helm-20250128.1930.entry
-  2025-01-29T00:17:38+0000  helm-20250128.1930.tar
-Built helm in 6.301s, finished at 2025-01-29T00:17:40+0000
+  2025-01-30T00:03:53+0000  helm-20250128.1930.entry
+  2025-01-30T00:03:52+0000  helm-20250128.1930.tar
+Built helm in 6.096s, finished at 2025-01-30T00:03:54+0000

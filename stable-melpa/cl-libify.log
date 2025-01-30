@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/cl-libify/
 Checking out e205b96f944a4f312fd523804cbbaf00027a3c8b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/cl-libify/
-  to /tmp/cl-libifyQq5v6z/cl-libify-20181130.230
+  to /tmp/cl-libifyrBs9ow/cl-libify-20181130.230
     cl-libify.el -> cl-libify.el
 Created cl-libify-20181130.230.tar containing:
   cl-libify-20181130.230/
   cl-libify-20181130.230/cl-libify-pkg.el
   cl-libify-20181130.230/cl-libify.el
  ✓ Success:
-  2025-01-28T23:49:17+0000  cl-libify-20181130.230.entry
-  2025-01-28T23:49:17+0000  cl-libify-20181130.230.tar
-Built cl-libify in 3.047s, finished at 2025-01-28T23:49:18+0000
+  2025-01-29T23:36:53+0000  cl-libify-20181130.230.entry
+  2025-01-29T23:36:53+0000  cl-libify-20181130.230.tar
+Built cl-libify in 3.158s, finished at 2025-01-29T23:36:54+0000

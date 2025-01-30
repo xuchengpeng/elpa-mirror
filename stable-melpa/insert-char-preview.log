@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/insert-char-preview/
 Checking out 8f13262ebcb3f271f1d188584d04ca6d87214111
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/insert-char-preview/
-  to /tmp/insert-char-previewBTZFzG/insert-char-preview-20201023.2108
+  to /tmp/insert-char-previewX7MkCs/insert-char-preview-20201023.2108
     insert-char-preview.el -> insert-char-preview.el
 Created insert-char-preview-20201023.2108.tar containing:
   insert-char-preview-20201023.2108/
   insert-char-preview-20201023.2108/insert-char-preview-pkg.el
   insert-char-preview-20201023.2108/insert-char-preview.el
  ✓ Success:
-  2025-01-29T00:24:09+0000  insert-char-preview-20201023.2108.entry
-  2025-01-29T00:24:09+0000  insert-char-preview-20201023.2108.tar
-Built insert-char-preview in 4.411s, finished at 2025-01-29T00:24:10+0000
+  2025-01-30T00:10:08+0000  insert-char-preview-20201023.2108.entry
+  2025-01-30T00:10:08+0000  insert-char-preview-20201023.2108.tar
+Built insert-char-preview in 4.016s, finished at 2025-01-30T00:10:09+0000

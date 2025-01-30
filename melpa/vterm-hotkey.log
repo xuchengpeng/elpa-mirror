@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/vterm-hotkey/
 Checking out 039033a4c30dabca625d6924d1796bb9e13d85c7
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/vterm-hotkey/
-  to /tmp/vterm-hotkey24shWu/vterm-hotkey-20240702.1445
+  to /tmp/vterm-hotkey6Jo2dT/vterm-hotkey-20240702.1445
     vterm-hotkey.el -> vterm-hotkey.el
 Created vterm-hotkey-20240702.1445.tar containing:
   vterm-hotkey-20240702.1445/
   vterm-hotkey-20240702.1445/vterm-hotkey-pkg.el
   vterm-hotkey-20240702.1445/vterm-hotkey.el
  ✓ Success:
-  2025-01-28T22:10:21+0000  vterm-hotkey-20240702.1445.entry
-  2025-01-28T22:10:21+0000  vterm-hotkey-20240702.1445.tar
-Built vterm-hotkey in 3.317s, finished at 2025-01-28T22:10:22+0000
+  2025-01-29T21:57:28+0000  vterm-hotkey-20240702.1445.entry
+  2025-01-29T21:57:28+0000  vterm-hotkey-20240702.1445.tar
+Built vterm-hotkey in 3.320s, finished at 2025-01-29T21:57:29+0000

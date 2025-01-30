@@ -3,18 +3,16 @@ Fetcher: github
 Source:  https://github.com/neeasade/ct.el
 
 Updating /mnt/store/melpa/working/ct/
-Checking out 032fc0bb150f914b99d1e9fac615a964df37c2f5
+Checking out 87276ddb75663a20d629ace5e321f614583e8f71
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ct/
-  to /tmp/ctnom17p/ct-20250128.2340
+  to /tmp/ctiHilUQ/ct-20250129.153
     ct.el -> ct.el
-Created ct-20250128.2340.tar containing:
-  ct-20250128.2340/
-  ct-20250128.2340/ct-pkg.el
-  ct-20250128.2340/ct.el
+Created ct-20250129.153.tar containing:
+  ct-20250129.153/
+  ct-20250129.153/ct-pkg.el
+  ct-20250129.153/ct.el
  ✓ Success:
-  2025-01-28T20:57:29+0000  ct-20241106.2223.entry
-  2025-01-28T20:57:29+0000  ct-20241106.2223.tar
-  2025-01-28T23:54:06+0000  ct-20250128.2340.entry
-  2025-01-28T23:54:06+0000  ct-20250128.2340.tar
-Built ct in 3.804s, finished at 2025-01-28T23:54:07+0000
+  2025-01-29T23:41:32+0000  ct-20250129.153.entry
+  2025-01-29T23:41:32+0000  ct-20250129.153.tar
+Built ct in 3.352s, finished at 2025-01-29T23:41:33+0000

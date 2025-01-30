@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/jest-test-mode/
 Checking out a397507d8bb41e4aa6b97994f1d7512e78d3dee3
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/jest-test-mode/
-  to /tmp/jest-test-modeP9DPa1/jest-test-mode-20231209.1754
+  to /tmp/jest-test-modeh9F5pV/jest-test-mode-20231209.1754
     jest-test-mode.el -> jest-test-mode.el
 Created jest-test-mode-20231209.1754.tar containing:
   jest-test-mode-20231209.1754/
   jest-test-mode-20231209.1754/jest-test-mode-pkg.el
   jest-test-mode-20231209.1754/jest-test-mode.el
  ✓ Success:
-  2025-01-29T00:25:56+0000  jest-test-mode-20231209.1754.entry
-  2025-01-29T00:25:56+0000  jest-test-mode-20231209.1754.tar
-Built jest-test-mode in 4.847s, finished at 2025-01-29T00:25:57+0000
+  2025-01-30T00:11:51+0000  jest-test-mode-20231209.1754.entry
+  2025-01-30T00:11:51+0000  jest-test-mode-20231209.1754.tar
+Built jest-test-mode in 3.662s, finished at 2025-01-30T00:11:52+0000

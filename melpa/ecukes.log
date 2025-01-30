@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/ecukes/
 Checking out 70cb0748b222b7c96ab9821ef898ffbdb45eacd8
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ecukes/
-  to /tmp/ecukescwkSZc/ecukes-20241226.1759
+  to /tmp/ecukesMcrOV1/ecukes-20241226.1759
     ecukes-byte-compile.el -> ecukes-byte-compile.el
     ecukes-cli.el -> ecukes-cli.el
     ecukes-core.el -> ecukes-core.el
@@ -60,6 +60,6 @@ Created ecukes-20241226.1759.tar containing:
   ecukes-20241226.1759/templates/missing-step.tpl
   ecukes-20241226.1759/templates/step-definition.tpl
  ✓ Success:
-  2025-01-28T23:59:27+0000  ecukes-20241226.1759.entry
-  2025-01-28T23:59:27+0000  ecukes-20241226.1759.tar
-Built ecukes in 3.769s, finished at 2025-01-28T23:59:28+0000
+  2025-01-29T23:46:58+0000  ecukes-20241226.1759.entry
+  2025-01-29T23:46:58+0000  ecukes-20241226.1759.tar
+Built ecukes in 3.517s, finished at 2025-01-29T23:46:59+0000

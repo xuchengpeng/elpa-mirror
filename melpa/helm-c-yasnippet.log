@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/helm-c-yasnippet/
 Checking out c6c9a14a65d11de967be593e5bead3196c1f4ecf
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/helm-c-yasnippet/
-  to /tmp/helm-c-yasnippetjQndly/helm-c-yasnippet-20230911.444
+  to /tmp/helm-c-yasnippetmqobvL/helm-c-yasnippet-20230911.444
     helm-c-yasnippet.el -> helm-c-yasnippet.el
 Created helm-c-yasnippet-20230911.444.tar containing:
   helm-c-yasnippet-20230911.444/
   helm-c-yasnippet-20230911.444/helm-c-yasnippet-pkg.el
   helm-c-yasnippet-20230911.444/helm-c-yasnippet.el
  ✓ Success:
-  2025-01-29T00:17:52+0000  helm-c-yasnippet-20230911.444.entry
-  2025-01-29T00:17:52+0000  helm-c-yasnippet-20230911.444.tar
-Built helm-c-yasnippet in 3.432s, finished at 2025-01-29T00:17:53+0000
+  2025-01-30T00:04:06+0000  helm-c-yasnippet-20230911.444.entry
+  2025-01-30T00:04:06+0000  helm-c-yasnippet-20230911.444.tar
+Built helm-c-yasnippet in 3.509s, finished at 2025-01-30T00:04:07+0000
