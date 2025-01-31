@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/requirejs-mode/
 Checking out 011849043098b6c4f27571625ae19071b53b8824
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/requirejs-mode/
-  to /tmp/requirejs-modemwZ8xE/requirejs-mode-20130215.2104
+  to /tmp/requirejs-modeYz4jB6/requirejs-mode-20130215.2104
     requirejs-mode.el -> requirejs-mode.el
 Created requirejs-mode-20130215.2104.tar containing:
   requirejs-mode-20130215.2104/
   requirejs-mode-20130215.2104/requirejs-mode-pkg.el
   requirejs-mode-20130215.2104/requirejs-mode.el
  ✓ Success:
-  2025-01-30T00:40:14+0000  requirejs-mode-20130215.2104.entry
-  2025-01-30T00:40:13+0000  requirejs-mode-20130215.2104.tar
-Built requirejs-mode in 3.340s, finished at 2025-01-30T00:40:15+0000
+  2025-01-30T23:36:29+0000  requirejs-mode-20130215.2104.entry
+  2025-01-30T23:36:29+0000  requirejs-mode-20130215.2104.tar
+Built requirejs-mode in 3.140s, finished at 2025-01-30T23:36:30+0000

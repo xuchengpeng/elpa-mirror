@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/justl/
 Checking out 1c3d0550cd4f53139ce9a63b9954685162e838f7
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/justl/
-  to /tmp/justlzOhgfD/justl-20241212.255
+  to /tmp/justlgnFt05/justl-20241212.255
     justl.el -> justl.el
 Created justl-20241212.255.tar containing:
   justl-20241212.255/
   justl-20241212.255/justl-pkg.el
   justl-20241212.255/justl.el
  ✓ Success:
-  2025-01-30T00:12:54+0000  justl-20241212.255.entry
-  2025-01-30T00:12:54+0000  justl-20241212.255.tar
-Built justl in 3.636s, finished at 2025-01-30T00:12:55+0000
+  2025-01-30T23:10:27+0000  justl-20241212.255.entry
+  2025-01-30T23:10:26+0000  justl-20241212.255.tar
+Built justl in 3.482s, finished at 2025-01-30T23:10:28+0000

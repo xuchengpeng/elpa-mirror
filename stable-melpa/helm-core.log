@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/helm-core/
 Checking out 474bb0cd74fa73076371f3b91f0d122c1d2d459e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/helm-core/
-  to /tmp/helm-coreGZoBl2/helm-core-20250128.1528
+  to /tmp/helm-core75srYI/helm-core-20250128.1528
     helm-core.el -> helm-core.el
     helm-lib.el -> helm-lib.el
     helm-source.el -> helm-source.el
@@ -19,6 +19,6 @@ Created helm-core-20250128.1528.tar containing:
   helm-core-20250128.1528/helm-multi-match.el
   helm-core-20250128.1528/helm-source.el
  ✓ Success:
-  2025-01-30T00:04:21+0000  helm-core-20250128.1528.entry
-  2025-01-30T00:04:21+0000  helm-core-20250128.1528.tar
-Built helm-core in 5.117s, finished at 2025-01-30T00:04:23+0000
+  2025-01-30T23:02:30+0000  helm-core-20250128.1528.entry
+  2025-01-30T23:02:29+0000  helm-core-20250128.1528.tar
+Built helm-core in 4.557s, finished at 2025-01-30T23:02:31+0000

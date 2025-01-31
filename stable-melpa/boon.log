@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/boon/
 Checking out 237b963231eeb820b5024191ebdf2a4353851bbb
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/boon/
-  to /tmp/boonuxTz13/boon-20250101.2055
+  to /tmp/boonH8gyJ3/boon-20250101.2055
     boon-arguments.el -> boon-arguments.el
     boon-colemak-hnei.el -> boon-colemak-hnei.el
     boon-colemak.el -> boon-colemak.el
@@ -56,6 +56,6 @@ Created boon-20250101.2055.tar containing:
   boon-20250101.2055/boon-workman.el
   boon-20250101.2055/boon.el
  ✓ Success:
-  2025-01-29T23:34:07+0000  boon-20250101.2055.entry
-  2025-01-29T23:34:07+0000  boon-20250101.2055.tar
-Built boon in 6.785s, finished at 2025-01-29T23:34:09+0000
+  2025-01-30T22:33:08+0000  boon-20250101.2055.entry
+  2025-01-30T22:33:07+0000  boon-20250101.2055.tar
+Built boon in 4.360s, finished at 2025-01-30T22:33:09+0000

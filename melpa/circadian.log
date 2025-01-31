@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/circadian/
 Checking out 76464419f69e9758bc5a76b2420c9648ddf93dba
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/circadian/
-  to /tmp/circadianuXBkfl/circadian-20240603.935
+  to /tmp/circadian4muDFr/circadian-20240603.935
     circadian.el -> circadian.el
 Created circadian-20240603.935.tar containing:
   circadian-20240603.935/
   circadian-20240603.935/circadian-pkg.el
   circadian-20240603.935/circadian.el
  ✓ Success:
-  2025-01-29T23:36:45+0000  circadian-20240603.935.entry
-  2025-01-29T23:36:45+0000  circadian-20240603.935.tar
-Built circadian in 3.772s, finished at 2025-01-29T23:36:46+0000
+  2025-01-30T22:35:39+0000  circadian-20240603.935.entry
+  2025-01-30T22:35:39+0000  circadian-20240603.935.tar
+Built circadian in 3.344s, finished at 2025-01-30T22:35:40+0000

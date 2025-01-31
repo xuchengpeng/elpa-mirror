@@ -3,13 +3,16 @@ Fetcher: github
 Source:  https://github.com/z80dev/uv-mode
 
 Updating /mnt/store/melpa/working/uv-mode/
-Checking out 4055d9e05fb54a4fbb655fa4413728b3db7bcd68
+Checking out cc5ba6e560fdad565f108b769cb77d4bc5046da5
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/uv-mode/
-  to /tmp/uv-modehw8gHa/uv-mode-20241216.640
+  to /tmp/uv-modeeWVT3G/uv-mode-20250130.537
     uv-mode.el -> uv-mode.el
-Created uv-mode-20241216.640.tar containing:
-  uv-mode-20241216.640/
-  uv-mode-20241216.640/uv-mode-pkg.el
-  uv-mode-20241216.640/uv-mode.el
+Created uv-mode-20250130.537.tar containing:
+  uv-mode-20250130.537/
+  uv-mode-20250130.537/uv-mode-pkg.el
+  uv-mode-20250130.537/uv-mode.el
  ✓ Success:
+  2025-01-30T23:48:53+0000  uv-mode-20250130.537.entry
+  2025-01-30T23:48:53+0000  uv-mode-20250130.537.tar
+Built uv-mode in 3.202s, finished at 2025-01-30T23:48:54+0000

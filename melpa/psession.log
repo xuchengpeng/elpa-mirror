@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/psession/
 Checking out 75834fe016f30a72890a1c284c1bd400ad61ea9f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/psession/
-  to /tmp/psession1qvBbg/psession-20240820.910
+  to /tmp/psessionZEJnQn/psession-20240820.910
     psession.el -> psession.el
 Created psession-20240820.910.tar containing:
   psession-20240820.910/
   psession-20240820.910/psession-pkg.el
   psession-20240820.910/psession.el
  ✓ Success:
-  2025-01-30T00:36:58+0000  psession-20240820.910.entry
-  2025-01-30T00:36:58+0000  psession-20240820.910.tar
-Built psession in 3.361s, finished at 2025-01-30T00:36:59+0000
+  2025-01-30T23:33:22+0000  psession-20240820.910.entry
+  2025-01-30T23:33:22+0000  psession-20240820.910.tar
+Built psession in 3.347s, finished at 2025-01-30T23:33:23+0000

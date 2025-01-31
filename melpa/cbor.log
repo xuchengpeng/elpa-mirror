@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/cbor/
 Checking out ba624ad3f8b726bee1d8dcb0a2a9e2b658bb4c9b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/cbor/
-  to /tmp/cborVKk39h/cbor-20230810.1653
+  to /tmp/cborOrsfn1/cbor-20230810.1653
     cbor.el -> cbor.el
 Created cbor-20230810.1653.tar containing:
   cbor-20230810.1653/
   cbor-20230810.1653/cbor-pkg.el
   cbor-20230810.1653/cbor.el
  ✓ Success:
-  2025-01-29T23:35:41+0000  cbor-20230810.1653.entry
-  2025-01-29T23:35:41+0000  cbor-20230810.1653.tar
-Built cbor in 3.805s, finished at 2025-01-29T23:35:42+0000
+  2025-01-30T22:34:36+0000  cbor-20230810.1653.entry
+  2025-01-30T22:34:36+0000  cbor-20230810.1653.tar
+Built cbor in 3.829s, finished at 2025-01-30T22:34:37+0000

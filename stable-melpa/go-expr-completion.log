@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/go-expr-completion/
 Checking out 66bba78f52a732b978848e3a4c99fa2afeb6c25f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/go-expr-completion/
-  to /tmp/go-expr-completion2os0mJ/go-expr-completion-20200817.1750
+  to /tmp/go-expr-completion9taM8m/go-expr-completion-20200817.1750
     go-expr-completion.el -> go-expr-completion.el
 Created go-expr-completion-20200817.1750.tar containing:
   go-expr-completion-20200817.1750/
   go-expr-completion-20200817.1750/go-expr-completion-pkg.el
   go-expr-completion-20200817.1750/go-expr-completion.el
  ✓ Success:
-  2025-01-30T00:01:15+0000  go-expr-completion-20200817.1750.entry
-  2025-01-30T00:01:15+0000  go-expr-completion-20200817.1750.tar
-Built go-expr-completion in 2.850s, finished at 2025-01-30T00:01:16+0000
+  2025-01-30T22:59:31+0000  go-expr-completion-20200817.1750.entry
+  2025-01-30T22:59:31+0000  go-expr-completion-20200817.1750.tar
+Built go-expr-completion in 2.582s, finished at 2025-01-30T22:59:32+0000

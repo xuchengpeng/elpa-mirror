@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/dwim-shell-command/
 Checking out 4a166377289ab89258fbaf6be070bbf6936c1797
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/dwim-shell-command/
-  to /tmp/dwim-shell-commandRJ6q7p/dwim-shell-command-20250128.1617
+  to /tmp/dwim-shell-commandHoxrpi/dwim-shell-command-20250128.1617
     dwim-shell-command.el -> dwim-shell-command.el
     dwim-shell-commands.el -> dwim-shell-commands.el
 Created dwim-shell-command-20250128.1617.tar containing:
@@ -15,6 +15,6 @@ Created dwim-shell-command-20250128.1617.tar containing:
   dwim-shell-command-20250128.1617/dwim-shell-command.el
   dwim-shell-command-20250128.1617/dwim-shell-commands.el
  ✓ Success:
-  2025-01-29T23:46:21+0000  dwim-shell-command-20250128.1617.entry
-  2025-01-29T23:46:21+0000  dwim-shell-command-20250128.1617.tar
-Built dwim-shell-command in 4.239s, finished at 2025-01-29T23:46:22+0000
+  2025-01-30T22:44:59+0000  dwim-shell-command-20250128.1617.entry
+  2025-01-30T22:44:59+0000  dwim-shell-command-20250128.1617.tar
+Built dwim-shell-command in 3.639s, finished at 2025-01-30T22:45:00+0000

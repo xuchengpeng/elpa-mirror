@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/darcsum/
 Checking out 6a8b690539d133c5e3d17cb23fe4365fbb6fb493
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/darcsum/
-  to /tmp/darcsumojgcuY/darcsum-20190316.2215
+  to /tmp/darcsumqdktC2/darcsum-20190316.2215
     darcsum.el -> darcsum.el
 Created darcsum-20190316.2215.tar containing:
   darcsum-20190316.2215/
   darcsum-20190316.2215/darcsum-pkg.el
   darcsum-20190316.2215/darcsum.el
  ✓ Success:
-  2025-01-29T23:42:13+0000  darcsum-20190316.2215.entry
-  2025-01-29T23:42:13+0000  darcsum-20190316.2215.tar
-Built darcsum in 3.413s, finished at 2025-01-29T23:42:14+0000
+  2025-01-30T22:41:03+0000  darcsum-20190316.2215.entry
+  2025-01-30T22:41:03+0000  darcsum-20190316.2215.tar
+Built darcsum in 3.365s, finished at 2025-01-30T22:41:04+0000

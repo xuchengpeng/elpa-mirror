@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/GrammarSoft/cg3
 
 Updating /mnt/store/melpa/working/cg/
-Checking out 88f34d5e09710eeece2976ab0313ef6d007590f5
+Checking out 9f3d75193e0a5988e51a901644356f4bec618d7f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/cg/
-  to /tmp/cgZGMQB2/cg-20250129.1717
+  to /tmp/cgzeJlzK/cg-20250130.1433
   ! emacs/cg.el -> cg.el
-Created cg-20250129.1717.tar containing:
-  cg-20250129.1717/
-  cg-20250129.1717/cg-pkg.el
-  cg-20250129.1717/cg.el
+Created cg-20250130.1433.tar containing:
+  cg-20250130.1433/
+  cg-20250130.1433/cg-pkg.el
+  cg-20250130.1433/cg.el
  ✓ Success:
-  2025-01-29T23:36:03+0000  cg-20250129.1717.entry
-  2025-01-29T23:36:03+0000  cg-20250129.1717.tar
-Built cg in 4.569s, finished at 2025-01-29T23:36:04+0000
+  2025-01-30T22:34:57+0000  cg-20250130.1433.entry
+  2025-01-30T22:34:57+0000  cg-20250130.1433.tar
+Built cg in 4.678s, finished at 2025-01-30T22:34:59+0000

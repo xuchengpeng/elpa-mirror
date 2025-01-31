@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/org2blog/
 Checking out 175244a0b7dae8211cf42c17a51c35e9236eda71
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/org2blog/
-  to /tmp/org2blogCcUfQK/org2blog-20250126.517
+  to /tmp/org2blogLZLMaI/org2blog-20250126.517
     org2blog-test-system.el -> org2blog-test-system.el
     org2blog.el -> org2blog.el
     ox-wp.el -> ox-wp.el
@@ -19,6 +19,6 @@ Created org2blog-20250126.517.tar containing:
   org2blog-20250126.517/org2blog.el
   org2blog-20250126.517/ox-wp.el
  ✓ Success:
-  2025-01-30T00:30:25+0000  org2blog-20250126.517.entry
-  2025-01-30T00:30:25+0000  org2blog-20250126.517.tar
-Built org2blog in 4.466s, finished at 2025-01-30T00:30:26+0000
+  2025-01-30T23:27:10+0000  org2blog-20250126.517.entry
+  2025-01-30T23:27:10+0000  org2blog-20250126.517.tar
+Built org2blog in 4.855s, finished at 2025-01-30T23:27:11+0000
