@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/mutant/
 Checking out aff50603a70a110f4ecd7142963ef719e8c11c06
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mutant/
-  to /tmp/mutantD3xbj2/mutant-20160124.1353
+  to /tmp/mutantpgisVF/mutant-20160124.1353
     mutant.el -> mutant.el
 Created mutant-20160124.1353.tar containing:
   mutant-20160124.1353/
   mutant-20160124.1353/mutant-pkg.el
   mutant-20160124.1353/mutant.el
  ✓ Success:
-  2025-01-30T23:19:29+0000  mutant-20160124.1353.entry
-  2025-01-30T23:19:29+0000  mutant-20160124.1353.tar
-Built mutant in 3.040s, finished at 2025-01-30T23:19:30+0000
+  2025-01-31T22:26:44+0000  mutant-20160124.1353.entry
+  2025-01-31T22:26:44+0000  mutant-20160124.1353.tar
+Built mutant in 3.447s, finished at 2025-01-31T22:26:45+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/isgd/
 Checking out 2dd030ab451cb9e704d173ee1b2388d92362db3b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/isgd/
-  to /tmp/isgduqLwu0/isgd-20241230.1331
+  to /tmp/isgd4fk1LA/isgd-20241230.1331
     isgd.el -> isgd.el
 Created isgd-20241230.1331.tar containing:
   isgd-20241230.1331/
   isgd-20241230.1331/isgd-pkg.el
   isgd-20241230.1331/isgd.el
  ✓ Success:
-  2025-01-30T23:08:22+0000  isgd-20241230.1331.entry
-  2025-01-30T23:08:22+0000  isgd-20241230.1331.tar
-Built isgd in 3.620s, finished at 2025-01-30T23:08:24+0000
+  2025-01-31T22:15:34+0000  isgd-20241230.1331.entry
+  2025-01-31T22:15:34+0000  isgd-20241230.1331.tar
+Built isgd in 3.051s, finished at 2025-01-31T22:15:35+0000

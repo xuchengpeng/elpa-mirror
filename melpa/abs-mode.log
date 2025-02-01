@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/abs-mode/
 Checking out debb48caef334870b4439609a9e818c7fd01f420
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/abs-mode/
-  to /tmp/abs-modeA9fPY9/abs-mode-20241217.839
+  to /tmp/abs-mode4tpNBQ/abs-mode-20241217.839
     abs-mode.el -> abs-mode.el
     snippets => snippets
 Created abs-mode-20241217.839.tar containing:
@@ -34,6 +34,6 @@ Created abs-mode-20241217.839.tar containing:
   abs-mode-20241217.839/snippets/abs-mode/type
   abs-mode-20241217.839/snippets/abs-mode/while
  ✓ Success:
-  2025-01-30T22:27:29+0000  abs-mode-20241217.839.entry
-  2025-01-30T22:27:29+0000  abs-mode-20241217.839.tar
-Built abs-mode in 4.190s, finished at 2025-01-30T22:27:30+0000
+  2025-02-01T00:27:08+0000  abs-mode-20241217.839.entry
+  2025-02-01T00:27:08+0000  abs-mode-20241217.839.tar
+Built abs-mode in 3.856s, finished at 2025-02-01T00:27:09+0000

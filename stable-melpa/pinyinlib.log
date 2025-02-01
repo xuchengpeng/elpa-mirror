@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/pinyinlib/
 Checking out 1772c79b6f319b26b6a394a8dda065be3ea4498d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/pinyinlib/
-  to /tmp/pinyinlibolRbHK/pinyinlib-20200911.1723
+  to /tmp/pinyinlib2Hhl94/pinyinlib-20200911.1723
     pinyinlib.el -> pinyinlib.el
 Created pinyinlib-20200911.1723.tar containing:
   pinyinlib-20200911.1723/
   pinyinlib-20200911.1723/pinyinlib-pkg.el
   pinyinlib-20200911.1723/pinyinlib.el
  ✓ Success:
-  2025-01-30T23:30:57+0000  pinyinlib-20200911.1723.entry
-  2025-01-30T23:30:57+0000  pinyinlib-20200911.1723.tar
-Built pinyinlib in 3.776s, finished at 2025-01-30T23:30:58+0000
+  2025-01-31T22:38:47+0000  pinyinlib-20200911.1723.entry
+  2025-01-31T22:38:46+0000  pinyinlib-20200911.1723.tar
+Built pinyinlib in 4.281s, finished at 2025-01-31T22:38:48+0000

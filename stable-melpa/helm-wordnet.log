@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/helm-wordnet/
 Checking out a36dbc6fcb570b812870bc1e190f203e0a0042fc
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/helm-wordnet/
-  to /tmp/helm-wordnetMUhQCg/helm-wordnet-20160128.1507
+  to /tmp/helm-wordnetQ4wT1K/helm-wordnet-20160128.1507
     helm-wordnet.el -> helm-wordnet.el
 Created helm-wordnet-20160128.1507.tar containing:
   helm-wordnet-20160128.1507/
   helm-wordnet-20160128.1507/helm-wordnet-pkg.el
   helm-wordnet-20160128.1507/helm-wordnet.el
  ✓ Success:
-  2025-01-30T23:04:19+0000  helm-wordnet-20160128.1507.entry
-  2025-01-30T23:04:19+0000  helm-wordnet-20160128.1507.tar
-Built helm-wordnet in 3.450s, finished at 2025-01-30T23:04:21+0000
+  2025-01-31T22:11:33+0000  helm-wordnet-20160128.1507.entry
+  2025-01-31T22:11:33+0000  helm-wordnet-20160128.1507.tar
+Built helm-wordnet in 2.947s, finished at 2025-01-31T22:11:34+0000

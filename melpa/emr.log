@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/emr/
 Checking out cac1b52932926f56d7f6d2923732d20bbd20670d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/emr/
-  to /tmp/emrjyELkS/emr-20220108.548
+  to /tmp/emr4W4vkY/emr-20220108.548
     emr-c.el -> emr-c.el
     emr-css.el -> emr-css.el
     emr-elisp.el -> emr-elisp.el
@@ -31,6 +31,6 @@ Created emr-20220108.548.tar containing:
   emr-20220108.548/emr-scheme.el
   emr-20220108.548/emr.el
  ✓ Success:
-  2025-01-30T22:48:20+0000  emr-20220108.548.entry
-  2025-01-30T22:48:20+0000  emr-20220108.548.tar
-Built emr in 3.372s, finished at 2025-01-30T22:48:21+0000
+  2025-02-01T00:48:41+0000  emr-20220108.548.entry
+  2025-02-01T00:48:40+0000  emr-20220108.548.tar
+Built emr in 5.485s, finished at 2025-02-01T00:48:42+0000

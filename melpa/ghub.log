@@ -4,9 +4,10 @@ Source:  https://github.com/magit/ghub
 
 Updating /mnt/store/melpa/working/ghub/
 Checking out 02a83b5560114a18e7c3f79c7f3b356c11d46ee7
+Warning: ghub :files spec is equivalent to the default
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ghub/
-  to /tmp/ghubeeck7M/ghub-20250123.1204
+  to /tmp/ghubwQ7ikQ/ghub-20250123.1204
   ! lisp/buck.el -> buck.el
   ! lisp/ghub-graphql.el -> ghub-graphql.el
   ! lisp/ghub.el -> ghub.el
@@ -29,6 +30,6 @@ Created ghub-20250123.1204.tar containing:
   ghub-20250123.1204/gsexp.el
   ghub-20250123.1204/gtea.el
  ✓ Success:
-  2025-01-30T22:58:17+0000  ghub-20250123.1204.entry
-  2025-01-30T22:58:17+0000  ghub-20250123.1204.tar
-Built ghub in 5.667s, finished at 2025-01-30T22:58:18+0000
+  2025-01-31T22:05:35+0000  ghub-20250123.1204.entry
+  2025-01-31T22:05:35+0000  ghub-20250123.1204.tar
+Built ghub in 6.055s, finished at 2025-01-31T22:05:36+0000

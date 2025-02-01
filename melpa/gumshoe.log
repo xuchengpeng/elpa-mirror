@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/gumshoe/
 Checking out f84bec6057506ec3f145cd3e06b320f1e40efcdf
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/gumshoe/
-  to /tmp/gumshoeKGqqAC/gumshoe-20240902.2137
+  to /tmp/gumshoeYv55Zv/gumshoe-20240902.2137
     elpa.el -> elpa.el
     gumshoe-core.el -> gumshoe-core.el
     gumshoe-persp.el -> gumshoe-persp.el
@@ -19,6 +19,6 @@ Created gumshoe-20240902.2137.tar containing:
   gumshoe-20240902.2137/gumshoe-pkg.el
   gumshoe-20240902.2137/gumshoe.el
  ✓ Success:
-  2025-01-30T23:01:11+0000  gumshoe-20240902.2137.entry
-  2025-01-30T23:01:11+0000  gumshoe-20240902.2137.tar
-Built gumshoe in 6.361s, finished at 2025-01-30T23:01:13+0000
+  2025-01-31T22:08:36+0000  gumshoe-20240902.2137.entry
+  2025-01-31T22:08:36+0000  gumshoe-20240902.2137.tar
+Built gumshoe in 3.509s, finished at 2025-01-31T22:08:37+0000

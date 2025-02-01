@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/init-dir/
 Checking out 406953deb5f29112ca02850885954f82abb1d334
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/init-dir/
-  to /tmp/init-dirBcSMTJ/init-dir-20240924.150
+  to /tmp/init-dircJf9h3/init-dir-20240924.150
     init-dir.el -> init-dir.el
 Created init-dir-20240924.150.tar containing:
   init-dir-20240924.150/
   init-dir-20240924.150/init-dir-pkg.el
   init-dir-20240924.150/init-dir.el
  ✓ Success:
-  2025-01-30T23:07:44+0000  init-dir-20240924.150.entry
-  2025-01-30T23:07:44+0000  init-dir-20240924.150.tar
-Built init-dir in 3.286s, finished at 2025-01-30T23:07:45+0000
+  2025-01-31T22:14:56+0000  init-dir-20240924.150.entry
+  2025-01-31T22:14:56+0000  init-dir-20240924.150.tar
+Built init-dir in 3.436s, finished at 2025-01-31T22:14:57+0000

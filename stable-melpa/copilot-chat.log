@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/copilot-chat/
 Checking out b7648e2f117403f2e12e00e0232a0953799cea24
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/copilot-chat/
-  to /tmp/copilot-chatozp1TZ/copilot-chat-20250129.811
+  to /tmp/copilot-chatG9oLs8/copilot-chat-20250129.811
     copilot-chat-common.el -> copilot-chat-common.el
     copilot-chat-copilot.el -> copilot-chat-copilot.el
     copilot-chat-curl.el -> copilot-chat-curl.el
@@ -29,6 +29,6 @@ Created copilot-chat-20250129.811.tar containing:
   copilot-chat-20250129.811/copilot-chat.el
   copilot-chat-20250129.811/test_copilot-chat.el
  ✓ Success:
-  2025-01-30T22:39:24+0000  copilot-chat-20250129.811.entry
-  2025-01-30T22:39:24+0000  copilot-chat-20250129.811.tar
-Built copilot-chat in 3.608s, finished at 2025-01-30T22:39:25+0000
+  2025-02-01T00:39:28+0000  copilot-chat-20250129.811.entry
+  2025-02-01T00:39:28+0000  copilot-chat-20250129.811.tar
+Built copilot-chat in 3.464s, finished at 2025-02-01T00:39:29+0000

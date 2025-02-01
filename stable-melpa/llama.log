@@ -4,15 +4,16 @@ Source:  https://github.com/tarsius/llama
 
 Updating /mnt/store/melpa/working/llama/
 Checking out 0b6d79826f2cdc78fd7a0dcc4e59a4baca8c025b
+Warning: llama :files spec is equivalent to the default
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/llama/
-  to /tmp/llamaX4RYM1/llama-20250120.2046
+  to /tmp/llamanLGsMO/llama-20250120.2046
     llama.el -> llama.el
 Created llama-20250120.2046.tar containing:
   llama-20250120.2046/
   llama-20250120.2046/llama-pkg.el
   llama-20250120.2046/llama.el
  ✓ Success:
-  2025-01-30T23:13:51+0000  llama-20250120.2046.entry
-  2025-01-30T23:13:51+0000  llama-20250120.2046.tar
-Built llama in 3.090s, finished at 2025-01-30T23:13:52+0000
+  2025-01-31T22:21:02+0000  llama-20250120.2046.entry
+  2025-01-31T22:21:02+0000  llama-20250120.2046.tar
+Built llama in 3.643s, finished at 2025-01-31T22:21:03+0000

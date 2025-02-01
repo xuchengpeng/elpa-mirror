@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/helm-idris/
 Checking out a2f45d6817974f318b55ad9b7fd19d5df132d47e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/helm-idris/
-  to /tmp/helm-idrisOu0533/helm-idris-20141202.1757
+  to /tmp/helm-idristmHwAk/helm-idris-20141202.1757
     helm-idris.el -> helm-idris.el
 Created helm-idris-20141202.1757.tar containing:
   helm-idris-20141202.1757/
   helm-idris-20141202.1757/helm-idris-pkg.el
   helm-idris-20141202.1757/helm-idris.el
  ✓ Success:
-  2025-01-30T23:03:06+0000  helm-idris-20141202.1757.entry
-  2025-01-30T23:03:06+0000  helm-idris-20141202.1757.tar
-Built helm-idris in 3.442s, finished at 2025-01-30T23:03:07+0000
+  2025-01-31T22:10:21+0000  helm-idris-20141202.1757.entry
+  2025-01-31T22:10:21+0000  helm-idris-20141202.1757.tar
+Built helm-idris in 3.222s, finished at 2025-01-31T22:10:22+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/wal-mode/
 Checking out 16733847f04af1929e590ff3e41f554baa3ba640
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/wal-mode/
-  to /tmp/wal-mode4iy0GP/wal-mode-20220409.1214
+  to /tmp/wal-modeNHYooq/wal-mode-20220409.1214
     wal-mode.el -> wal-mode.el
 Created wal-mode-20220409.1214.tar containing:
   wal-mode-20220409.1214/
   wal-mode-20220409.1214/wal-mode-pkg.el
   wal-mode-20220409.1214/wal-mode.el
  ✓ Success:
-  2025-01-30T23:50:15+0000  wal-mode-20220409.1214.entry
-  2025-01-30T23:50:15+0000  wal-mode-20220409.1214.tar
-Built wal-mode in 3.362s, finished at 2025-01-30T23:50:17+0000
+  2025-01-31T22:59:04+0000  wal-mode-20220409.1214.entry
+  2025-01-31T22:59:04+0000  wal-mode-20220409.1214.tar
+Built wal-mode in 5.200s, finished at 2025-01-31T22:59:06+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/pet/
 Checking out f6b1be00c280419ac1d0edd18529c04aa6f8a6d1
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/pet/
-  to /tmp/petZYJbmw/pet-20250115.422
+  to /tmp/petCyddZ4/pet-20250115.422
     pet.el -> pet.el
 Created pet-20250115.422.tar containing:
   pet-20250115.422/
   pet-20250115.422/pet-pkg.el
   pet-20250115.422/pet.el
  ✓ Success:
-  2025-01-30T23:30:19+0000  pet-20250115.422.entry
-  2025-01-30T23:30:19+0000  pet-20250115.422.tar
-Built pet in 5.429s, finished at 2025-01-30T23:30:21+0000
+  2025-01-31T22:38:06+0000  pet-20250115.422.entry
+  2025-01-31T22:38:06+0000  pet-20250115.422.tar
+Built pet in 3.458s, finished at 2025-01-31T22:38:07+0000

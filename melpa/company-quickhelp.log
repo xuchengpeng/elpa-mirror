@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/company-quickhelp/
 Checking out 5bda859577582cc42d16fc0eaf5f7c8bedfd9e69
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/company-quickhelp/
-  to /tmp/company-quickhelpTWNmYp/company-quickhelp-20231026.1714
+  to /tmp/company-quickhelpNdp7NF/company-quickhelp-20231026.1714
     company-quickhelp.el -> company-quickhelp.el
 Created company-quickhelp-20231026.1714.tar containing:
   company-quickhelp-20231026.1714/
   company-quickhelp-20231026.1714/company-quickhelp-pkg.el
   company-quickhelp-20231026.1714/company-quickhelp.el
  ✓ Success:
-  2025-01-30T22:38:17+0000  company-quickhelp-20231026.1714.entry
-  2025-01-30T22:38:17+0000  company-quickhelp-20231026.1714.tar
-Built company-quickhelp in 5.787s, finished at 2025-01-30T22:38:19+0000
+  2025-02-01T00:38:21+0000  company-quickhelp-20231026.1714.entry
+  2025-02-01T00:38:21+0000  company-quickhelp-20231026.1714.tar
+Built company-quickhelp in 3.333s, finished at 2025-02-01T00:38:22+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/cff/
 Checking out b6ab2a28e64ef06f281ec74cfe3114e450644dfa
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/cff/
-  to /tmp/cffhKfRcN/cff-20160118.2018
+  to /tmp/cff2k8wkh/cff-20160118.2018
     cff.el -> cff.el
 Created cff-20160118.2018.tar containing:
   cff-20160118.2018/
   cff-20160118.2018/cff-pkg.el
   cff-20160118.2018/cff.el
  ✓ Success:
-  2025-01-30T22:34:55+0000  cff-20160118.2018.entry
-  2025-01-30T22:34:54+0000  cff-20160118.2018.tar
-Built cff in 3.874s, finished at 2025-01-30T22:34:56+0000
+  2025-02-01T00:34:47+0000  cff-20160118.2018.entry
+  2025-02-01T00:34:47+0000  cff-20160118.2018.tar
+Built cff in 4.908s, finished at 2025-02-01T00:34:48+0000

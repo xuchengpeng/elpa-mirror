@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/purpleidea/mgmt
 
 Updating /mnt/store/melpa/working/mgmtconfig-mode/
-Checking out d30ff6cfae6e6b1a6fef8b30fb86ce572c422307
+Checking out e40819d617f8403a7487e3e6d740e8b3ee5c92ef
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mgmtconfig-mode/
-  to /tmp/mgmtconfig-modeR4dcFp/mgmtconfig-mode-20250126.2124
+  to /tmp/mgmtconfig-mode1ZNakt/mgmtconfig-mode-20250131.552
   ! misc/emacs/mgmtconfig-mode.el -> mgmtconfig-mode.el
-Created mgmtconfig-mode-20250126.2124.tar containing:
-  mgmtconfig-mode-20250126.2124/
-  mgmtconfig-mode-20250126.2124/mgmtconfig-mode-pkg.el
-  mgmtconfig-mode-20250126.2124/mgmtconfig-mode.el
+Created mgmtconfig-mode-20250131.552.tar containing:
+  mgmtconfig-mode-20250131.552/
+  mgmtconfig-mode-20250131.552/mgmtconfig-mode-pkg.el
+  mgmtconfig-mode-20250131.552/mgmtconfig-mode.el
  ✓ Success:
-  2025-01-30T23:17:04+0000  mgmtconfig-mode-20250126.2124.entry
-  2025-01-30T23:17:04+0000  mgmtconfig-mode-20250126.2124.tar
-Built mgmtconfig-mode in 4.994s, finished at 2025-01-30T23:17:05+0000
+  2025-01-31T22:24:36+0000  mgmtconfig-mode-20250131.552.entry
+  2025-01-31T22:24:36+0000  mgmtconfig-mode-20250131.552.tar
+Built mgmtconfig-mode in 3.550s, finished at 2025-01-31T22:24:37+0000

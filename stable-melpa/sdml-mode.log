@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/sdml-mode/
 Checking out ec867931868b0bced385f9b7517a8b48cd146ac4
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/sdml-mode/
-  to /tmp/sdml-modeZGHiQC/sdml-mode-20241104.1705
+  to /tmp/sdml-modegSK9Br/sdml-mode-20241104.1705
     sdml-mode-abbrev.el -> sdml-mode-abbrev.el
     sdml-mode-cli.el -> sdml-mode-cli.el
     sdml-mode-ctags.el -> sdml-mode-ctags.el
@@ -25,6 +25,6 @@ Created sdml-mode-20241104.1705.tar containing:
   sdml-mode-20241104.1705/sdml-mode-pkg.el
   sdml-mode-20241104.1705/sdml-mode.el
  ✓ Success:
-  2025-01-30T23:38:31+0000  sdml-mode-20241104.1705.entry
-  2025-01-30T23:38:30+0000  sdml-mode-20241104.1705.tar
-Built sdml-mode in 3.891s, finished at 2025-01-30T23:38:32+0000
+  2025-01-31T22:46:33+0000  sdml-mode-20241104.1705.entry
+  2025-01-31T22:46:33+0000  sdml-mode-20241104.1705.tar
+Built sdml-mode in 3.947s, finished at 2025-01-31T22:46:34+0000
