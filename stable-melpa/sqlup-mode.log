@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/sqlup-mode/
 Checking out 04970977b4abb4d44301651618bbf1cdb0b263dd
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/sqlup-mode/
-  to /tmp/sqlup-mode27noQt/sqlup-mode-20170610.1537
+  to /tmp/sqlup-modeYvyTl4/sqlup-mode-20170610.1537
     sqlup-mode.el -> sqlup-mode.el
 Created sqlup-mode-20170610.1537.tar containing:
   sqlup-mode-20170610.1537/
   sqlup-mode-20170610.1537/sqlup-mode-pkg.el
   sqlup-mode-20170610.1537/sqlup-mode.el
  ✓ Success:
-  2025-01-31T22:50:52+0000  sqlup-mode-20170610.1537.entry
-  2025-01-31T22:50:52+0000  sqlup-mode-20170610.1537.tar
-Built sqlup-mode in 3.210s, finished at 2025-01-31T22:50:53+0000
+  2025-02-02T00:41:50+0000  sqlup-mode-20170610.1537.entry
+  2025-02-02T00:41:50+0000  sqlup-mode-20170610.1537.tar
+Built sqlup-mode in 3.348s, finished at 2025-02-02T00:41:51+0000

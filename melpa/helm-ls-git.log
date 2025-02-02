@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/helm-ls-git/
 Checking out d6d061704f375f809a2ee7644149a28e8770b35f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/helm-ls-git/
-  to /tmp/helm-ls-gitjowd2L/helm-ls-git-20250127.2041
+  to /tmp/helm-ls-gitJUxqSe/helm-ls-git-20250127.2041
     helm-ls-git.el -> helm-ls-git.el
 Created helm-ls-git-20250127.2041.tar containing:
   helm-ls-git-20250127.2041/
   helm-ls-git-20250127.2041/helm-ls-git-pkg.el
   helm-ls-git-20250127.2041/helm-ls-git.el
  ✓ Success:
-  2025-01-31T22:10:33+0000  helm-ls-git-20250127.2041.entry
-  2025-01-31T22:10:33+0000  helm-ls-git-20250127.2041.tar
-Built helm-ls-git in 3.312s, finished at 2025-01-31T22:10:34+0000
+  2025-02-02T00:00:46+0000  helm-ls-git-20250127.2041.entry
+  2025-02-02T00:00:46+0000  helm-ls-git-20250127.2041.tar
+Built helm-ls-git in 3.240s, finished at 2025-02-02T00:00:47+0000

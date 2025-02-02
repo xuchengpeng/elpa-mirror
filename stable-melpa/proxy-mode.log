@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/proxy-mode/
 Checking out eca6f0b8a17fcf9eb961ed0426f57a5b7ca4e1f6
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/proxy-mode/
-  to /tmp/proxy-modezyhstM/proxy-mode-20230303.706
+  to /tmp/proxy-modeXnjel4/proxy-mode-20230303.706
     proxy-mode.el -> proxy-mode.el
 Created proxy-mode-20230303.706.tar containing:
   proxy-mode-20230303.706/
   proxy-mode-20230303.706/proxy-mode-pkg.el
   proxy-mode-20230303.706/proxy-mode.el
  ✓ Success:
-  2025-01-31T22:41:14+0000  proxy-mode-20230303.706.entry
-  2025-01-31T22:41:14+0000  proxy-mode-20230303.706.tar
-Built proxy-mode in 6.836s, finished at 2025-01-31T22:41:16+0000
+  2025-02-02T00:31:40+0000  proxy-mode-20230303.706.entry
+  2025-02-02T00:31:39+0000  proxy-mode-20230303.706.tar
+Built proxy-mode in 4.341s, finished at 2025-02-02T00:31:41+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/undo-fu/
 Checking out 399cc12f907f81a709f9014b6fad0205700d5772
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/undo-fu/
-  to /tmp/undo-fueLLUpj/undo-fu-20241206.219
+  to /tmp/undo-fu7sWiZJ/undo-fu-20241206.219
     undo-fu.el -> undo-fu.el
 Created undo-fu-20241206.219.tar containing:
   undo-fu-20241206.219/
   undo-fu-20241206.219/undo-fu-pkg.el
   undo-fu-20241206.219/undo-fu.el
  ✓ Success:
-  2025-01-31T22:56:44+0000  undo-fu-20241206.219.entry
-  2025-01-31T22:56:44+0000  undo-fu-20241206.219.tar
-Built undo-fu in 3.931s, finished at 2025-01-31T22:56:45+0000
+  2025-02-02T00:47:22+0000  undo-fu-20241206.219.entry
+  2025-02-02T00:47:22+0000  undo-fu-20241206.219.tar
+Built undo-fu in 4.272s, finished at 2025-02-02T00:47:23+0000

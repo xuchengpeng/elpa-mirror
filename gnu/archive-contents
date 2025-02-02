@@ -2552,7 +2552,7 @@
 		      ("Sean Whitton" . "spwhitton@spwhitton.name"))
 		     (:commit . "c22a15e86acf28da716532c26ba1371574c8e979"))])
  (llm .
-      [(0 22 0)
+      [(0 23 0)
        ((emacs
 	 (28 1))
 	(plz
@@ -2566,7 +2566,7 @@
 	(:maintainer "Andrew Hyatt" . "ahyatt@gmail.com")
 	(:authors
 	 ("Andrew Hyatt" . "ahyatt@gmail.com"))
-	(:commit . "600ea5e6c01790d267bb72e501a8d45818c6dcc7"))])
+	(:commit . "874d76211c6933f2f5e41583a495e9b3aee51fb3"))])
  (lmc .
       [(1 4)
        nil "Little Man Computer in Elisp" tar
@@ -4541,7 +4541,7 @@
 	       (:url . "https://elpa.gnu.org/packages/transcribe.html")
 	       (:commit . "89832e4cdc1e6d8262a4a2c9d1ff70f398b8faf0"))])
  (transient .
-	    [(0 8 3)
+	    [(0 8 4)
 	     ((emacs
 	       (26 1))
 	      (compat
@@ -4554,7 +4554,7 @@
 	      (:maintainer "Jonas Bernoulli" . "emacs.transient@jonas.bernoulli.dev")
 	      (:authors
 	       ("Jonas Bernoulli" . "emacs.transient@jonas.bernoulli.dev"))
-	      (:commit . "000ff15942878aa1108abaa020da86ada675fea9"))])
+	      (:commit . "e5cb1fd7e8d35e264313436f47972acae0819764"))])
  (transient-cycles .
 		   [(1 0)
 		    ((emacs

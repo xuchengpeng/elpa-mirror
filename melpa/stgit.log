@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/stgit/
 Checking out 67c7c7b25f5d128b1b5a6ab8d2195ef130540b8e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/stgit/
-  to /tmp/stgitaJs5HR/stgit-20250118.2328
+  to /tmp/stgiths1mC6/stgit-20250118.2328
   ! contrib/stgit.el -> stgit.el
 Created stgit-20250118.2328.tar containing:
   stgit-20250118.2328/
   stgit-20250118.2328/stgit-pkg.el
   stgit-20250118.2328/stgit.el
  ✓ Success:
-  2025-01-31T22:51:15+0000  stgit-20250118.2328.entry
-  2025-01-31T22:51:15+0000  stgit-20250118.2328.tar
-Built stgit in 4.390s, finished at 2025-01-31T22:51:16+0000
+  2025-02-02T00:42:14+0000  stgit-20250118.2328.entry
+  2025-02-02T00:42:14+0000  stgit-20250118.2328.tar
+Built stgit in 5.047s, finished at 2025-02-02T00:42:15+0000

@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/evil-textobj-tree-sitter/
 Checking out bce236e5d2cc2fa4eae7d284ffd19ad18d46349a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/evil-textobj-tree-sitter/
-  to /tmp/evil-textobj-tree-sitterOSeZhX/evil-textobj-tree-sitter-20241118.1711
+  to /tmp/evil-textobj-tree-sitterm3w3CJ/evil-textobj-tree-sitter-20241118.1711
     evil-textobj-tree-sitter-core.el -> evil-textobj-tree-sitter-core.el
     evil-textobj-tree-sitter-thing-at-point.el -> evil-textobj-tree-sitter-thing-at-point.el
     evil-textobj-tree-sitter.el -> evil-textobj-tree-sitter.el
@@ -351,6 +351,6 @@ Created evil-textobj-tree-sitter-20241118.1711.tar containing:
   evil-textobj-tree-sitter-20241118.1711/treesit-queries/zig/
   evil-textobj-tree-sitter-20241118.1711/treesit-queries/zig/textobjects.scm
  ✓ Success:
-  2025-02-01T00:51:32+0000  evil-textobj-tree-sitter-20241118.1711.entry
-  2025-02-01T00:51:32+0000  evil-textobj-tree-sitter-20241118.1711.tar
-Built evil-textobj-tree-sitter in 5.553s, finished at 2025-02-01T00:51:33+0000
+  2025-02-01T23:49:14+0000  evil-textobj-tree-sitter-20241118.1711.entry
+  2025-02-01T23:49:13+0000  evil-textobj-tree-sitter-20241118.1711.tar
+Built evil-textobj-tree-sitter in 5.425s, finished at 2025-02-01T23:49:15+0000

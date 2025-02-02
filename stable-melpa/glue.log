@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/glue/
 Checking out dcdf8a69db87acea4fa61d4b4b9b1265c7e025db
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/glue/
-  to /tmp/gluexoKSr5/glue-20230112.2159
+  to /tmp/glueNXouio/glue-20230112.2159
     glue.el -> glue.el
 Created glue-20230112.2159.tar containing:
   glue-20230112.2159/
   glue-20230112.2159/glue-pkg.el
   glue-20230112.2159/glue.el
  ✓ Success:
-  2025-01-31T22:06:28+0000  glue-20230112.2159.entry
-  2025-01-31T22:06:28+0000  glue-20230112.2159.tar
-Built glue in 4.315s, finished at 2025-01-31T22:06:29+0000
+  2025-02-01T23:56:34+0000  glue-20230112.2159.entry
+  2025-02-01T23:56:34+0000  glue-20230112.2159.tar
+Built glue in 3.544s, finished at 2025-02-01T23:56:35+0000

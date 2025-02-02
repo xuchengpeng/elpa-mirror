@@ -405,6 +405,19 @@
 	     ((:url . "https://github.com/bradyt/dart-mode")
 	      (:keywords "languages")
 	      (:commit . "3bac14200f9f8f8fcebc383087572da5c3823c34"))])
+ (datetime .
+	   [(0 10 1)
+	    ((emacs
+	      (25 1))
+	     (extmap
+	      (1 1 1)))
+	    "Parsing, formatting and matching timestamps" tar
+	    ((:url . "https://github.com/doublep/datetime")
+	     (:keywords "lisp" "i18n")
+	     (:maintainer "Paul Pogonyshev" . "pogonyshev@gmail.com")
+	     (:authors
+	      ("Paul Pogonyshev" . "pogonyshev@gmail.com"))
+	     (:commit . "41d0221ee2fc7b9f9c57cf930f0011edf977a2a8"))])
  (denote-refs .
 	      [(0 1 2)
 	       ((emacs
@@ -1497,6 +1510,51 @@
 		 ("Shodai Yokoyama" . "(quantumcars@gmail.com)"))
 		(:url . "https://elpa.nongnu.org/nongnu/kotlin-mode.html")
 		(:commit . "d92c3b773473e9fe15f61f6177e4fbf097aadd05"))])
+ (logview .
+	  [(0 19 1)
+	   ((emacs
+	     (25 1))
+	    (datetime
+	     (0 8))
+	    (extmap
+	     (1 0))
+	    (compat
+	     (29)))
+	   "Major mode for viewing log files" tar
+	   ((:url . "https://github.com/doublep/logview")
+	    (:keywords "files" "tools")
+	    (:maintainer "Paul Pogonyshev" . "pogonyshev@gmail.com")
+	    (:authors
+	     ("Paul Pogonyshev" . "pogonyshev@gmail.com"))
+	    (:commit . "9ce423a9fc319bb919c681e16939b9f561f7a942"))])
+ (loopy .
+	[(0 14 0)
+	 ((emacs
+	   (27 1))
+	  (map
+	   (3 3 1))
+	  (seq
+	   (2 22))
+	  (compat
+	   (29 1 3))
+	  (stream
+	   (2 4 0)))
+	 "A looping macro" tar
+	 ((:url . "https://github.com/okamsn/loopy")
+	  (:keywords "extensions")
+	  (:commit . "36f76980ea52a31a4c7682f7bd26c4baa32a1d4c"))])
+ (loopy-dash .
+	     [(0 13 0)
+	      ((emacs
+		(25 1))
+	       (loopy
+		(0 13 0))
+	       (dash
+		(2 19)))
+	      "Dash destructuring for `loopy'" tar
+	      ((:url . "https://github.com/okamsn/loopy")
+	       (:keywords "extensions")
+	       (:commit . "56c8413dbcffef2b1a0896d53584296619cb1504"))])
  (lorem-ipsum .
 	      [(0 4)
 	       nil "Insert dummy pseudo Latin text" tar
@@ -2063,7 +2121,7 @@
 	       ("David Christiansen" . "david@davidchristiansen.dk"))
 	      (:commit . "1edda80e2e32b72e77f4f16ae5b83c312c68ee95"))])
  (racket-mode .
-	      [(1 0 20250125 153651)
+	      [(1 0 20250201 91223)
 	       ((emacs
 		 (25 1)))
 	       "Racket editing, REPL, and more" tar

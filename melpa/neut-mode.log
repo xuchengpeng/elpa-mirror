@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/neut-mode/
 Checking out 7b599bbe96b77ac75b9c2c5b857126749501b70b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/neut-mode/
-  to /tmp/neut-mode3lKhST/neut-mode-20241207.16
+  to /tmp/neut-mode9JDD8k/neut-mode-20241207.16
     neut-mode.el -> neut-mode.el
 Created neut-mode-20241207.16.tar containing:
   neut-mode-20241207.16/
   neut-mode-20241207.16/neut-mode-pkg.el
   neut-mode-20241207.16/neut-mode.el
  ✓ Success:
-  2025-01-31T22:27:39+0000  neut-mode-20241207.16.entry
-  2025-01-31T22:27:39+0000  neut-mode-20241207.16.tar
-Built neut-mode in 3.547s, finished at 2025-01-31T22:27:40+0000
+  2025-02-02T00:18:36+0000  neut-mode-20241207.16.entry
+  2025-02-02T00:18:35+0000  neut-mode-20241207.16.tar
+Built neut-mode in 3.216s, finished at 2025-02-02T00:18:37+0000

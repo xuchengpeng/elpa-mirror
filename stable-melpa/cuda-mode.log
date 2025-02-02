@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/cuda-mode/
 Checking out c3dae31b3d1abedf4d0b98840127e2cac73d6ad8
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/cuda-mode/
-  to /tmp/cuda-modeZm5K9t/cuda-mode-20240819.11
+  to /tmp/cuda-modeOazdoX/cuda-mode-20240819.11
     cuda-mode.el -> cuda-mode.el
 Created cuda-mode-20240819.11.tar containing:
   cuda-mode-20240819.11/
   cuda-mode-20240819.11/cuda-mode-pkg.el
   cuda-mode-20240819.11/cuda-mode.el
  ✓ Success:
-  2025-02-01T00:40:41+0000  cuda-mode-20240819.11.entry
-  2025-02-01T00:40:41+0000  cuda-mode-20240819.11.tar
-Built cuda-mode in 3.124s, finished at 2025-02-01T00:40:42+0000
+  2025-02-01T23:38:07+0000  cuda-mode-20240819.11.entry
+  2025-02-01T23:38:07+0000  cuda-mode-20240819.11.tar
+Built cuda-mode in 3.295s, finished at 2025-02-01T23:38:08+0000

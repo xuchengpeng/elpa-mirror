@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/eide/
 Checking out 0e41fa0315b2e499dd0947cdda05d9a2e1aa2203
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/eide/
-  to /tmp/eide7Vaz5h/eide-20250106.2030
+  to /tmp/eideMxZmSI/eide-20250106.2030
   ! src/eide-compare.el -> eide-compare.el
   ! src/eide-config.el -> eide-config.el
   ! src/eide-display.el -> eide-display.el
@@ -39,6 +39,6 @@ Created eide-20250106.2030.tar containing:
   eide-20250106.2030/eide-windows.el
   eide-20250106.2030/eide.el
  ✓ Success:
-  2025-02-01T00:46:25+0000  eide-20250106.2030.entry
-  2025-02-01T00:46:25+0000  eide-20250106.2030.tar
-Built eide in 5.813s, finished at 2025-02-01T00:46:26+0000
+  2025-02-01T23:44:04+0000  eide-20250106.2030.entry
+  2025-02-01T23:44:04+0000  eide-20250106.2030.tar
+Built eide in 5.636s, finished at 2025-02-01T23:44:05+0000

@@ -3,11 +3,11 @@ Fetcher: github
 Source:  https://github.com/magit/ghub
 
 Updating /mnt/store/melpa/working/ghub/
-Checking out 02a83b5560114a18e7c3f79c7f3b356c11d46ee7
+Checking out c5003950b5efd065a20983546a12ffcd079b4a93
 Warning: ghub :files spec is equivalent to the default
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ghub/
-  to /tmp/ghubwQ7ikQ/ghub-20250123.1204
+  to /tmp/ghubnL8536/ghub-20250201.1721
   ! lisp/buck.el -> buck.el
   ! lisp/ghub-graphql.el -> ghub-graphql.el
   ! lisp/ghub.el -> ghub.el
@@ -17,19 +17,19 @@ Copying files (->) and directories (=>)
   ! lisp/gtea.el -> gtea.el
   ! docs/ghub.texi -> ghub.texi
 Generating ghub.info
-Created ghub-20250123.1204.tar containing:
-  ghub-20250123.1204/
-  ghub-20250123.1204/buck.el
-  ghub-20250123.1204/dir
-  ghub-20250123.1204/ghub-graphql.el
-  ghub-20250123.1204/ghub-pkg.el
-  ghub-20250123.1204/ghub.el
-  ghub-20250123.1204/ghub.info
-  ghub-20250123.1204/glab.el
-  ghub-20250123.1204/gogs.el
-  ghub-20250123.1204/gsexp.el
-  ghub-20250123.1204/gtea.el
+Created ghub-20250201.1721.tar containing:
+  ghub-20250201.1721/
+  ghub-20250201.1721/buck.el
+  ghub-20250201.1721/dir
+  ghub-20250201.1721/ghub-graphql.el
+  ghub-20250201.1721/ghub-pkg.el
+  ghub-20250201.1721/ghub.el
+  ghub-20250201.1721/ghub.info
+  ghub-20250201.1721/glab.el
+  ghub-20250201.1721/gogs.el
+  ghub-20250201.1721/gsexp.el
+  ghub-20250201.1721/gtea.el
  ✓ Success:
-  2025-01-31T22:05:35+0000  ghub-20250123.1204.entry
-  2025-01-31T22:05:35+0000  ghub-20250123.1204.tar
-Built ghub in 6.055s, finished at 2025-01-31T22:05:36+0000
+  2025-02-01T23:55:42+0000  ghub-20250201.1721.entry
+  2025-02-01T23:55:42+0000  ghub-20250201.1721.tar
+Built ghub in 5.371s, finished at 2025-02-01T23:55:43+0000

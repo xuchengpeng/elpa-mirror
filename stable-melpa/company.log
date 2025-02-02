@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/company/
 Checking out 9a81d0cca268d35d5e18d7d4e2277a9e57887dd8
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/company/
-  to /tmp/companyuRgWux/company-20250114.2109
+  to /tmp/companybHNwDl/company-20250114.2109
     company-abbrev.el -> company-abbrev.el
     company-bbdb.el -> company-bbdb.el
     company-capf.el -> company-capf.el
@@ -167,6 +167,6 @@ Created company-20250114.2109.tar containing:
   company-20250114.2109/images/small/tooltip-quick-access.png
   company-20250114.2109/images/small/tooltip-search.png
  ✓ Success:
-  2025-02-01T00:37:44+0000  company-20250114.2109.entry
-  2025-02-01T00:37:44+0000  company-20250114.2109.tar
-Built company in 8.211s, finished at 2025-02-01T00:37:45+0000
+  2025-02-01T23:34:57+0000  company-20250114.2109.entry
+  2025-02-01T23:34:57+0000  company-20250114.2109.tar
+Built company in 7.611s, finished at 2025-02-01T23:34:58+0000

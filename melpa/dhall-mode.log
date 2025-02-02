@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/dhall-mode/
 Checking out fca383a9c4622c1d9a39dc977572b34c7fa0b719
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/dhall-mode/
-  to /tmp/dhall-modeFOCz1V/dhall-mode-20250105.1418
+  to /tmp/dhall-modej2fm5u/dhall-mode-20250105.1418
     dhall-mode.el -> dhall-mode.el
 Created dhall-mode-20250105.1418.tar containing:
   dhall-mode-20250105.1418/
   dhall-mode-20250105.1418/dhall-mode-pkg.el
   dhall-mode-20250105.1418/dhall-mode.el
  ✓ Success:
-  2025-02-01T00:42:18+0000  dhall-mode-20250105.1418.entry
-  2025-02-01T00:42:17+0000  dhall-mode-20250105.1418.tar
-Built dhall-mode in 4.213s, finished at 2025-02-01T00:42:19+0000
+  2025-02-01T23:39:59+0000  dhall-mode-20250105.1418.entry
+  2025-02-01T23:39:59+0000  dhall-mode-20250105.1418.tar
+Built dhall-mode in 3.736s, finished at 2025-02-01T23:40:00+0000

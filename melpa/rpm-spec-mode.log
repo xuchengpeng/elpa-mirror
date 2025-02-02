@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/rpm-spec-mode/
 Checking out 283d2aac4ede343586a1fb9e9d2a5917f34809a1
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/rpm-spec-mode/
-  to /tmp/rpm-spec-modeJfaUfD/rpm-spec-mode-20241209.2001
+  to /tmp/rpm-spec-modeaYVjht/rpm-spec-mode-20241209.2001
     rpm-spec-mode.el -> rpm-spec-mode.el
 Created rpm-spec-mode-20241209.2001.tar containing:
   rpm-spec-mode-20241209.2001/
   rpm-spec-mode-20241209.2001/rpm-spec-mode-pkg.el
   rpm-spec-mode-20241209.2001/rpm-spec-mode.el
  ✓ Success:
-  2025-01-31T22:45:18+0000  rpm-spec-mode-20241209.2001.entry
-  2025-01-31T22:45:18+0000  rpm-spec-mode-20241209.2001.tar
-Built rpm-spec-mode in 4.203s, finished at 2025-01-31T22:45:19+0000
+  2025-02-02T00:35:47+0000  rpm-spec-mode-20241209.2001.entry
+  2025-02-02T00:35:47+0000  rpm-spec-mode-20241209.2001.tar
+Built rpm-spec-mode in 4.001s, finished at 2025-02-02T00:35:48+0000
