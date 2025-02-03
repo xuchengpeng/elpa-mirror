@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/armindarvish/consult-gh
 
 Updating /mnt/store/melpa/working/consult-gh-forge/
-Checking out 8a5c7ea1e732b01634c5f3533f72c002135c3421
+Checking out 2b3d90783583ef44006aea9552314e0b5ab2e47a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/consult-gh-forge/
-  to /tmp/consult-gh-forgeu6xb8y/consult-gh-forge-20250201.1318
+  to /tmp/consult-gh-forgeqfxdF5/consult-gh-forge-20250202.1941
     consult-gh-forge.el -> consult-gh-forge.el
-Created consult-gh-forge-20250201.1318.tar containing:
-  consult-gh-forge-20250201.1318/
-  consult-gh-forge-20250201.1318/consult-gh-forge-pkg.el
-  consult-gh-forge-20250201.1318/consult-gh-forge.el
+Created consult-gh-forge-20250202.1941.tar containing:
+  consult-gh-forge-20250202.1941/
+  consult-gh-forge-20250202.1941/consult-gh-forge-pkg.el
+  consult-gh-forge-20250202.1941/consult-gh-forge.el
  ✓ Success:
-  2025-02-01T23:36:37+0000  consult-gh-forge-20250201.1318.entry
-  2025-02-01T23:36:37+0000  consult-gh-forge-20250201.1318.tar
-Built consult-gh-forge in 3.643s, finished at 2025-02-01T23:36:38+0000
+  2025-02-02T22:58:43+0000  consult-gh-forge-20250202.1941.entry
+  2025-02-02T22:58:43+0000  consult-gh-forge-20250202.1941.tar
+Built consult-gh-forge in 3.326s, finished at 2025-02-02T22:58:44+0000

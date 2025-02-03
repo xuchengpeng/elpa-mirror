@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/ein/
 Checking out ac92eb92eac35a9542485969487e43f5318825a1
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ein/
-  to /tmp/eincDFJxj/ein-20230827.325
+  to /tmp/einTgBGVE/ein-20230827.325
   ! lisp/ein-cell.el -> ein-cell.el
   ! lisp/ein-classes.el -> ein-classes.el
   ! lisp/ein-completer.el -> ein-completer.el
@@ -83,6 +83,6 @@ Created ein-20230827.325.tar containing:
   ein-20230827.325/ob-ein.el
   ein-20230827.325/poly-ein.el
  ✓ Success:
-  2025-02-01T23:44:03+0000  ein-20230827.325.entry
-  2025-02-01T23:44:03+0000  ein-20230827.325.tar
-Built ein in 3.899s, finished at 2025-02-01T23:44:04+0000
+  2025-02-02T23:04:38+0000  ein-20230827.325.entry
+  2025-02-02T23:04:38+0000  ein-20230827.325.tar
+Built ein in 3.227s, finished at 2025-02-02T23:04:39+0000

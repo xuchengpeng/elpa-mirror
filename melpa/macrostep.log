@@ -3,20 +3,20 @@ Fetcher: github
 Source:  https://github.com/emacsorphanage/macrostep
 
 Updating /mnt/store/melpa/working/macrostep/
-Checking out 8e8487712d150178be7297604d0f47fd036a6d8d
+Checking out d0928626b4711dcf9f8f90439d23701118724199
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/macrostep/
-  to /tmp/macrostepxruw93/macrostep-20250201.2250
+  to /tmp/macrostep6KE7V2/macrostep-20250202.2205
     macrostep-c.el -> macrostep-c.el
     macrostep.el -> macrostep.el
-Created macrostep-20250201.2250.tar containing:
-  macrostep-20250201.2250/
-  macrostep-20250201.2250/macrostep-c.el
-  macrostep-20250201.2250/macrostep-pkg.el
-  macrostep-20250201.2250/macrostep.el
+Created macrostep-20250202.2205.tar containing:
+  macrostep-20250202.2205/
+  macrostep-20250202.2205/macrostep-c.el
+  macrostep-20250202.2205/macrostep-pkg.el
+  macrostep-20250202.2205/macrostep.el
  ✓ Success:
-  2025-02-01T21:23:51+0000  macrostep-20241224.1752.entry
-  2025-02-01T21:23:50+0000  macrostep-20241224.1752.tar
-  2025-02-02T00:13:12+0000  macrostep-20250201.2250.entry
-  2025-02-02T00:13:12+0000  macrostep-20250201.2250.tar
-Built macrostep in 4.046s, finished at 2025-02-02T00:13:13+0000
+  2025-02-02T21:06:12+0000  macrostep-20250201.2250.entry
+  2025-02-02T21:06:12+0000  macrostep-20250201.2250.tar
+  2025-02-02T23:28:42+0000  macrostep-20250202.2205.entry
+  2025-02-02T23:28:42+0000  macrostep-20250202.2205.tar
+Built macrostep in 3.378s, finished at 2025-02-02T23:28:43+0000

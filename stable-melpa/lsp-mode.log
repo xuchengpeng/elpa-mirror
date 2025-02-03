@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/lsp-mode/
 Checking out b7bc24d91f8c297614297ba71668db4262a47793
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/lsp-mode/
-  to /tmp/lsp-mode1aCZqk/lsp-mode-20250201.2131
+  to /tmp/lsp-modejwLZU5/lsp-mode-20250201.2131
     lsp-completion.el -> lsp-completion.el
     lsp-diagnostics.el -> lsp-diagnostics.el
     lsp-dired.el -> lsp-dired.el
@@ -291,8 +291,6 @@ Created lsp-mode-20250201.2131.tar containing:
   lsp-mode-20250201.2131/lsp-zig.el
   lsp-mode-20250201.2131/lsp.el
  ✓ Success:
-  2025-02-01T21:23:14+0000  lsp-mode-20250131.1615.entry
-  2025-02-01T21:23:13+0000  lsp-mode-20250131.1615.tar
-  2025-02-02T00:12:51+0000  lsp-mode-20250201.2131.entry
-  2025-02-02T00:12:51+0000  lsp-mode-20250201.2131.tar
-Built lsp-mode in 8.798s, finished at 2025-02-02T00:12:52+0000
+  2025-02-02T23:28:22+0000  lsp-mode-20250201.2131.entry
+  2025-02-02T23:28:21+0000  lsp-mode-20250201.2131.tar
+Built lsp-mode in 5.347s, finished at 2025-02-02T23:28:22+0000

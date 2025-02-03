@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/renpy/
 Checking out f2f95a72a8c842f229f80999132e8ea8ee73f6fc
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/renpy/
-  to /tmp/renpyXLxS2k/renpy-20200607.135
+  to /tmp/renpyoxh8J0/renpy-20200607.135
     renpy.el -> renpy.el
 Created renpy-20200607.135.tar containing:
   renpy-20200607.135/
   renpy-20200607.135/renpy-pkg.el
   renpy-20200607.135/renpy.el
  ✓ Success:
-  2025-02-02T00:34:45+0000  renpy-20200607.135.entry
-  2025-02-02T00:34:44+0000  renpy-20200607.135.tar
-Built renpy in 3.640s, finished at 2025-02-02T00:34:46+0000
+  2025-02-02T23:45:59+0000  renpy-20200607.135.entry
+  2025-02-02T23:45:59+0000  renpy-20200607.135.tar
+Built renpy in 3.057s, finished at 2025-02-02T23:46:00+0000

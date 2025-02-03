@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/nice-org-html/
 Checking out 51ed48ef25db3abba771b95fcc462394f35edfb1
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/nice-org-html/
-  to /tmp/nice-org-html0yJOtF/nice-org-html-20250201.933
+  to /tmp/nice-org-htmlJO2dCB/nice-org-html-20250201.933
   ! code/nice-org-html.el -> nice-org-html.el
   ! code/nice-org-html.css -> nice-org-html.css
   ! code/nice-org-html.js -> nice-org-html.js
@@ -17,6 +17,6 @@ Created nice-org-html-20250201.933.tar containing:
   nice-org-html-20250201.933/nice-org-html.el
   nice-org-html-20250201.933/nice-org-html.js
  ✓ Success:
-  2025-02-02T00:18:43+0000  nice-org-html-20250201.933.entry
-  2025-02-02T00:18:43+0000  nice-org-html-20250201.933.tar
-Built nice-org-html in 4.399s, finished at 2025-02-02T00:18:44+0000
+  2025-02-02T23:33:12+0000  nice-org-html-20250201.933.entry
+  2025-02-02T23:33:12+0000  nice-org-html-20250201.933.tar
+Built nice-org-html in 3.294s, finished at 2025-02-02T23:33:13+0000

@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/slack/
 Checking out 292a40a194bf6580d41f2cfd200911d5793817d7
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/slack/
-  to /tmp/slacka6tStS/slack-20250130.1303
+  to /tmp/slackLaaZm6/slack-20250130.1303
     emacs-slack.el -> emacs-slack.el
     slack-action.el -> slack-action.el
     slack-activity-feed-buffer.el -> slack-activity-feed-buffer.el
@@ -167,6 +167,6 @@ Created slack-20250130.1303.tar containing:
   slack-20250130.1303/slack-websocket.el
   slack-20250130.1303/slack.el
  ✓ Success:
-  2025-02-02T00:38:58+0000  slack-20250130.1303.entry
-  2025-02-02T00:38:58+0000  slack-20250130.1303.tar
-Built slack in 7.994s, finished at 2025-02-02T00:39:00+0000
+  2025-02-02T23:49:41+0000  slack-20250130.1303.entry
+  2025-02-02T23:49:41+0000  slack-20250130.1303.tar
+Built slack in 4.360s, finished at 2025-02-02T23:49:42+0000

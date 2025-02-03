@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/sql-presto/
 Checking out bcda455e300a1af75c7bb805882329bc844703b2
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/sql-presto/
-  to /tmp/sql-prestoTUs1KM/sql-presto-20190113.1742
+  to /tmp/sql-prestoNos17p/sql-presto-20190113.1742
   ! artifacts/sql-presto.el -> sql-presto.el
 Created sql-presto-20190113.1742.tar containing:
   sql-presto-20190113.1742/
   sql-presto-20190113.1742/sql-presto-pkg.el
   sql-presto-20190113.1742/sql-presto.el
  ✓ Success:
-  2025-02-02T00:41:45+0000  sql-presto-20190113.1742.entry
-  2025-02-02T00:41:45+0000  sql-presto-20190113.1742.tar
-Built sql-presto in 3.382s, finished at 2025-02-02T00:41:46+0000
+  2025-02-02T23:51:19+0000  sql-presto-20190113.1742.entry
+  2025-02-02T23:51:19+0000  sql-presto-20190113.1742.tar
+Built sql-presto in 2.430s, finished at 2025-02-02T23:51:20+0000

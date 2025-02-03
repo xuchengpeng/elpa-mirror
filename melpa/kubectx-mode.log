@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/kubectx-mode/
 Checking out b177c0fa9f8471d6199df4598afde1e39e83c504
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/kubectx-mode/
-  to /tmp/kubectx-modevpDDqu/kubectx-mode-20240312.2024
+  to /tmp/kubectx-modeE4jcX5/kubectx-mode-20240312.2024
     kubectx-mode.el -> kubectx-mode.el
 Created kubectx-mode-20240312.2024.tar containing:
   kubectx-mode-20240312.2024/
   kubectx-mode-20240312.2024/kubectx-mode-pkg.el
   kubectx-mode-20240312.2024/kubectx-mode.el
  ✓ Success:
-  2025-02-02T00:09:40+0000  kubectx-mode-20240312.2024.entry
-  2025-02-02T00:09:39+0000  kubectx-mode-20240312.2024.tar
-Built kubectx-mode in 5.123s, finished at 2025-02-02T00:09:41+0000
+  2025-02-02T23:26:07+0000  kubectx-mode-20240312.2024.entry
+  2025-02-02T23:26:07+0000  kubectx-mode-20240312.2024.tar
+Built kubectx-mode in 3.164s, finished at 2025-02-02T23:26:08+0000

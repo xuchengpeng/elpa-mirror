@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/flycheck-grammalecte/
 Checking out 76aca865992d828af54d77c1cf9a70663747e080
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/flycheck-grammalecte/
-  to /tmp/flycheck-grammalecten3SxoP/flycheck-grammalecte-20230605.1035
+  to /tmp/flycheck-grammalecteKEeWrS/flycheck-grammalecte-20230605.1035
     flycheck-grammalecte.el -> flycheck-grammalecte.el
     grammalecte.el -> grammalecte.el
     conjugueur.py -> conjugueur.py
@@ -19,6 +19,6 @@ Created flycheck-grammalecte-20230605.1035.tar containing:
   flycheck-grammalecte-20230605.1035/flycheck_grammalecte.py
   flycheck-grammalecte-20230605.1035/grammalecte.el
  ✓ Success:
-  2025-02-01T23:51:54+0000  flycheck-grammalecte-20230605.1035.entry
-  2025-02-01T23:51:54+0000  flycheck-grammalecte-20230605.1035.tar
-Built flycheck-grammalecte in 4.625s, finished at 2025-02-01T23:51:56+0000
+  2025-02-02T23:11:35+0000  flycheck-grammalecte-20230605.1035.entry
+  2025-02-02T23:11:35+0000  flycheck-grammalecte-20230605.1035.tar
+Built flycheck-grammalecte in 4.134s, finished at 2025-02-02T23:11:36+0000

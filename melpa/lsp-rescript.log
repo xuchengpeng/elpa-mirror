@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/lsp-rescript/
 Checking out 7baf9adf10234cf964feefae99050268e9bc5681
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/lsp-rescript/
-  to /tmp/lsp-rescriptoENCYh/lsp-rescript-20220314.1957
+  to /tmp/lsp-rescriptbglfGW/lsp-rescript-20220314.1957
     lsp-rescript.el -> lsp-rescript.el
 Created lsp-rescript-20220314.1957.tar containing:
   lsp-rescript-20220314.1957/
   lsp-rescript-20220314.1957/lsp-rescript-pkg.el
   lsp-rescript-20220314.1957/lsp-rescript.el
  ✓ Success:
-  2025-02-02T00:12:50+0000  lsp-rescript-20220314.1957.entry
-  2025-02-02T00:12:50+0000  lsp-rescript-20220314.1957.tar
-Built lsp-rescript in 3.001s, finished at 2025-02-02T00:12:51+0000
+  2025-02-02T23:28:24+0000  lsp-rescript-20220314.1957.entry
+  2025-02-02T23:28:24+0000  lsp-rescript-20220314.1957.tar
+Built lsp-rescript in 2.676s, finished at 2025-02-02T23:28:25+0000

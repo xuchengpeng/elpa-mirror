@@ -7,7 +7,7 @@ Checking out 0e1579b49fd65bd2bba34487c03cec1dd977313d
 Warning: forge :files spec is equivalent to the default
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/forge/
-  to /tmp/forgenNltWJ/forge-20250129.2012
+  to /tmp/forgeeTfnVs/forge-20250129.2012
   ! lisp/forge-bitbucket.el -> forge-bitbucket.el
   ! lisp/forge-commands.el -> forge-commands.el
   ! lisp/forge-core.el -> forge-core.el
@@ -58,6 +58,6 @@ Created forge-20250129.2012.tar containing:
   forge-20250129.2012/forge.el
   forge-20250129.2012/forge.info
  ✓ Success:
-  2025-02-01T23:54:18+0000  forge-20250129.2012.entry
-  2025-02-01T23:54:18+0000  forge-20250129.2012.tar
-Built forge in 7.150s, finished at 2025-02-01T23:54:19+0000
+  2025-02-02T23:13:37+0000  forge-20250129.2012.entry
+  2025-02-02T23:13:37+0000  forge-20250129.2012.tar
+Built forge in 5.537s, finished at 2025-02-02T23:13:38+0000

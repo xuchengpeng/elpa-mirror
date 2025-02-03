@@ -3,23 +3,23 @@ Fetcher: github
 Source:  https://github.com/pprevos/denote-explore
 
 Updating /mnt/store/melpa/working/denote-explore/
-Checking out 0fb807bd22a2cd031ef74c14904d760181749b96
+Checking out 4dbc3441c9d6ae340aabc1e80ae9c86ca781d72e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/denote-explore/
-  to /tmp/denote-explorepdT71D/denote-explore-20250126.525
+  to /tmp/denote-exploreGzEQ32/denote-explore-20250202.924
     denote-explore.el -> denote-explore.el
     denote-explore.info -> denote-explore.info
     denote-explore.texi -> denote-explore.texi
     denote-explore-network.html -> denote-explore-network.html
 Generating denote-explore.info
-Created denote-explore-20250126.525.tar containing:
-  denote-explore-20250126.525/
-  denote-explore-20250126.525/denote-explore-network.html
-  denote-explore-20250126.525/denote-explore-pkg.el
-  denote-explore-20250126.525/denote-explore.el
-  denote-explore-20250126.525/denote-explore.info
-  denote-explore-20250126.525/dir
+Created denote-explore-20250202.924.tar containing:
+  denote-explore-20250202.924/
+  denote-explore-20250202.924/denote-explore-network.html
+  denote-explore-20250202.924/denote-explore-pkg.el
+  denote-explore-20250202.924/denote-explore.el
+  denote-explore-20250202.924/denote-explore.info
+  denote-explore-20250202.924/dir
  ✓ Success:
-  2025-02-01T23:39:48+0000  denote-explore-20250126.525.entry
-  2025-02-01T23:39:48+0000  denote-explore-20250126.525.tar
-Built denote-explore in 5.304s, finished at 2025-02-01T23:39:49+0000
+  2025-02-02T23:01:08+0000  denote-explore-20250202.924.entry
+  2025-02-02T23:01:08+0000  denote-explore-20250202.924.tar
+Built denote-explore in 4.517s, finished at 2025-02-02T23:01:09+0000

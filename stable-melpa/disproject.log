@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/disproject/
 Checking out 1062f228a62ec87fe4c40e46bae098117b412790
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/disproject/
-  to /tmp/disprojecth0iL78/disproject-20241226.2043
+  to /tmp/disprojecth5v11W/disproject-20241226.2043
     disproject.el -> disproject.el
 Created disproject-20241226.2043.tar containing:
   disproject-20241226.2043/
   disproject-20241226.2043/disproject-pkg.el
   disproject-20241226.2043/disproject.el
  ✓ Success:
-  2025-02-01T23:41:22+0000  disproject-20241226.2043.entry
-  2025-02-01T23:41:21+0000  disproject-20241226.2043.tar
-Built disproject in 5.367s, finished at 2025-02-01T23:41:23+0000
+  2025-02-02T23:02:34+0000  disproject-20241226.2043.entry
+  2025-02-02T23:02:34+0000  disproject-20241226.2043.tar
+Built disproject in 2.868s, finished at 2025-02-02T23:02:35+0000

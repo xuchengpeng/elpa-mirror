@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/inferior-islisp/
 Checking out 423b84fe4cc6944e36971225b3e19c888e7e4690
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/inferior-islisp/
-  to /tmp/inferior-islispSoHD1w/inferior-islisp-20220924.1040
+  to /tmp/inferior-islispoU1wi5/inferior-islisp-20220924.1040
     inferior-islisp.el -> inferior-islisp.el
 Created inferior-islisp-20220924.1040.tar containing:
   inferior-islisp-20220924.1040/
   inferior-islisp-20220924.1040/inferior-islisp-pkg.el
   inferior-islisp-20220924.1040/inferior-islisp.el
  ✓ Success:
-  2025-02-02T00:05:09+0000  inferior-islisp-20220924.1040.entry
-  2025-02-02T00:05:08+0000  inferior-islisp-20220924.1040.tar
-Built inferior-islisp in 4.343s, finished at 2025-02-02T00:05:10+0000
+  2025-02-02T23:22:25+0000  inferior-islisp-20220924.1040.entry
+  2025-02-02T23:22:25+0000  inferior-islisp-20220924.1040.tar
+Built inferior-islisp in 3.417s, finished at 2025-02-02T23:22:25+0000

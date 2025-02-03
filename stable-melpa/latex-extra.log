@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/latex-extra/
 Checking out 81507c1b63eb3898b654818de047544f662c1f73
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/latex-extra/
-  to /tmp/latex-extraI6rb6k/latex-extra-20240909.2043
+  to /tmp/latex-extraU1EC0c/latex-extra-20240909.2043
     latex-extra.el -> latex-extra.el
 Created latex-extra-20240909.2043.tar containing:
   latex-extra-20240909.2043/
   latex-extra-20240909.2043/latex-extra-pkg.el
   latex-extra-20240909.2043/latex-extra.el
  ✓ Success:
-  2025-02-02T00:10:16+0000  latex-extra-20240909.2043.entry
-  2025-02-02T00:10:16+0000  latex-extra-20240909.2043.tar
-Built latex-extra in 5.520s, finished at 2025-02-02T00:10:18+0000
+  2025-02-02T23:26:29+0000  latex-extra-20240909.2043.entry
+  2025-02-02T23:26:29+0000  latex-extra-20240909.2043.tar
+Built latex-extra in 2.907s, finished at 2025-02-02T23:26:30+0000

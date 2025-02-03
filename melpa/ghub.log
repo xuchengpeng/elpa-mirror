@@ -7,7 +7,7 @@ Checking out c5003950b5efd065a20983546a12ffcd079b4a93
 Warning: ghub :files spec is equivalent to the default
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ghub/
-  to /tmp/ghubnL8536/ghub-20250201.1721
+  to /tmp/ghub15hCZq/ghub-20250201.1721
   ! lisp/buck.el -> buck.el
   ! lisp/ghub-graphql.el -> ghub-graphql.el
   ! lisp/ghub.el -> ghub.el
@@ -30,6 +30,6 @@ Created ghub-20250201.1721.tar containing:
   ghub-20250201.1721/gsexp.el
   ghub-20250201.1721/gtea.el
  ✓ Success:
-  2025-02-01T23:55:42+0000  ghub-20250201.1721.entry
-  2025-02-01T23:55:42+0000  ghub-20250201.1721.tar
-Built ghub in 5.371s, finished at 2025-02-01T23:55:43+0000
+  2025-02-02T23:14:50+0000  ghub-20250201.1721.entry
+  2025-02-02T23:14:50+0000  ghub-20250201.1721.tar
+Built ghub in 4.601s, finished at 2025-02-02T23:14:51+0000

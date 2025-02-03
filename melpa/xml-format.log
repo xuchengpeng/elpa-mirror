@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/xml-format/
 Checking out 2861c4e33e18b077112efa072316b031bca4236c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/xml-format/
-  to /tmp/xml-formatqViU5e/xml-format-20191011.1159
+  to /tmp/xml-formatzpu1Kc/xml-format-20191011.1159
     xml-format.el -> xml-format.el
 Created xml-format-20191011.1159.tar containing:
   xml-format-20191011.1159/
   xml-format-20191011.1159/xml-format-pkg.el
   xml-format-20191011.1159/xml-format.el
  ✓ Success:
-  2025-02-02T00:51:42+0000  xml-format-20191011.1159.entry
-  2025-02-02T00:51:42+0000  xml-format-20191011.1159.tar
-Built xml-format in 3.395s, finished at 2025-02-02T00:51:43+0000
+  2025-02-02T23:59:40+0000  xml-format-20191011.1159.entry
+  2025-02-02T23:59:40+0000  xml-format-20191011.1159.tar
+Built xml-format in 2.815s, finished at 2025-02-02T23:59:41+0000
