@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/helpful/
 Checking out 34328c639ed7aad371a3f57209acad2a5bb66401
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/helpful/
-  to /tmp/helpfulDWitwy/helpful-20250131.1645
+  to /tmp/helpfulDdWSDR/helpful-20250131.1645
     helpful.el -> helpful.el
 Created helpful-20250131.1645.tar containing:
   helpful-20250131.1645/
   helpful-20250131.1645/helpful-pkg.el
   helpful-20250131.1645/helpful.el
  ✓ Success:
-  2025-02-02T23:20:03+0000  helpful-20250131.1645.entry
-  2025-02-02T23:20:03+0000  helpful-20250131.1645.tar
-Built helpful in 3.372s, finished at 2025-02-02T23:20:04+0000
+  2025-02-03T23:28:05+0000  helpful-20250131.1645.entry
+  2025-02-03T23:28:05+0000  helpful-20250131.1645.tar
+Built helpful in 3.475s, finished at 2025-02-03T23:28:06+0000

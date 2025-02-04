@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/highlight2clipboard/
 Checking out 6564fafd09a9c676b4d393f2260a0c73daac7257
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/highlight2clipboard/
-  to /tmp/highlight2clipboard4564kF/highlight2clipboard-20240516.1942
+  to /tmp/highlight2clipboard4ngu7T/highlight2clipboard-20240516.1942
     highlight2clipboard.el -> highlight2clipboard.el
     bin => bin
 Created highlight2clipboard-20240516.1942.tar containing:
@@ -17,6 +17,6 @@ Created highlight2clipboard-20240516.1942.tar containing:
   highlight2clipboard-20240516.1942/highlight2clipboard-pkg.el
   highlight2clipboard-20240516.1942/highlight2clipboard.el
  ✓ Success:
-  2025-02-02T23:20:29+0000  highlight2clipboard-20240516.1942.entry
-  2025-02-02T23:20:29+0000  highlight2clipboard-20240516.1942.tar
-Built highlight2clipboard in 2.925s, finished at 2025-02-02T23:20:30+0000
+  2025-02-03T23:28:33+0000  highlight2clipboard-20240516.1942.entry
+  2025-02-03T23:28:33+0000  highlight2clipboard-20240516.1942.tar
+Built highlight2clipboard in 3.316s, finished at 2025-02-03T23:28:34+0000

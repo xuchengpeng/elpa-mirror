@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/macports/
 Checking out e80b6a523e49b6e15390ee00745035a4d87aea60
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/macports/
-  to /tmp/macportsccd4hW/macports-20250128.148
+  to /tmp/macportshg9CYu/macports-20250128.148
     macports-core.el -> macports-core.el
     macports-describe.el -> macports-describe.el
     macports-installed.el -> macports-installed.el
@@ -23,6 +23,6 @@ Created macports-20250128.148.tar containing:
   macports-20250128.148/macports-select.el
   macports-20250128.148/macports.el
  ✓ Success:
-  2025-02-02T23:28:40+0000  macports-20250128.148.entry
-  2025-02-02T23:28:40+0000  macports-20250128.148.tar
-Built macports in 2.656s, finished at 2025-02-02T23:28:41+0000
+  2025-02-03T23:37:47+0000  macports-20250128.148.entry
+  2025-02-03T23:37:47+0000  macports-20250128.148.tar
+Built macports in 4.030s, finished at 2025-02-03T23:37:48+0000

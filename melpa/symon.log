@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/symon/
 Checking out 76461679dfe13a5dccd3c8735fb6f58b26b46733
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/symon/
-  to /tmp/symonJm6PZ3/symon-20170224.833
+  to /tmp/symonRnAhLu/symon-20170224.833
     symon.el -> symon.el
 Created symon-20170224.833.tar containing:
   symon-20170224.833/
   symon-20170224.833/symon-pkg.el
   symon-20170224.833/symon.el
  ✓ Success:
-  2025-02-02T23:52:47+0000  symon-20170224.833.entry
-  2025-02-02T23:52:47+0000  symon-20170224.833.tar
-Built symon in 4.591s, finished at 2025-02-02T23:52:48+0000
+  2025-02-04T00:04:26+0000  symon-20170224.833.entry
+  2025-02-04T00:04:26+0000  symon-20170224.833.tar
+Built symon in 3.144s, finished at 2025-02-04T00:04:27+0000

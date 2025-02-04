@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/mastodon/
 Checking out e2443f1cd425b31228e87739d1fc5035640bba06
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mastodon/
-  to /tmp/mastodondwOSt4/mastodon-20241223.1040
+  to /tmp/mastodonOm8VsT/mastodon-20241223.1040
   ! lisp/mastodon-async.el -> mastodon-async.el
   ! lisp/mastodon-auth.el -> mastodon-auth.el
   ! lisp/mastodon-client.el -> mastodon-client.el
@@ -51,6 +51,6 @@ Created mastodon-20241223.1040.tar containing:
   mastodon-20241223.1040/mastodon.el
   mastodon-20241223.1040/mastodon.info
  ✓ Success:
-  2025-02-02T23:29:47+0000  mastodon-20241223.1040.entry
-  2025-02-02T23:29:47+0000  mastodon-20241223.1040.tar
-Built mastodon in 10.292s, finished at 2025-02-02T23:29:49+0000
+  2025-02-03T23:39:24+0000  mastodon-20241223.1040.entry
+  2025-02-03T23:39:24+0000  mastodon-20241223.1040.tar
+Built mastodon in 12.983s, finished at 2025-02-03T23:39:26+0000
