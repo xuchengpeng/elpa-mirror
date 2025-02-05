@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/visual-regexp-steroids/
 Checking out a6420b25ec0fbba43bf57875827092e1196d8a9e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/visual-regexp-steroids/
-  to /tmp/visual-regexp-steroidspLZf2J/visual-regexp-steroids-20170222.253
+  to /tmp/visual-regexp-steroidsueTAxT/visual-regexp-steroids-20170222.253
     visual-regexp-steroids.el -> visual-regexp-steroids.el
     regexp.py -> regexp.py
 Created visual-regexp-steroids-20170222.253.tar containing:
@@ -15,6 +15,6 @@ Created visual-regexp-steroids-20170222.253.tar containing:
   visual-regexp-steroids-20170222.253/visual-regexp-steroids-pkg.el
   visual-regexp-steroids-20170222.253/visual-regexp-steroids.el
  ✓ Success:
-  2025-02-04T00:09:52+0000  visual-regexp-steroids-20170222.253.entry
-  2025-02-04T00:09:52+0000  visual-regexp-steroids-20170222.253.tar
-Built visual-regexp-steroids in 5.093s, finished at 2025-02-04T00:09:53+0000
+  2025-02-04T23:08:55+0000  visual-regexp-steroids-20170222.253.entry
+  2025-02-04T23:08:55+0000  visual-regexp-steroids-20170222.253.tar
+Built visual-regexp-steroids in 3.225s, finished at 2025-02-04T23:08:56+0000

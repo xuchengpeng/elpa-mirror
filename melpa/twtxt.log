@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/twtxt/
 Checking out 61285bbce14b82a587737db1eefd3439dc83eb65
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/twtxt/
-  to /tmp/twtxtUKZqk7/twtxt-20250127.1521
+  to /tmp/twtxtDLzwyc/twtxt-20250127.1521
     twtxt-feed.el -> twtxt-feed.el
     twtxt-post.el -> twtxt-post.el
     twtxt-timeline.el -> twtxt-timeline.el
@@ -21,6 +21,6 @@ Created twtxt-20250127.1521.tar containing:
   twtxt-20250127.1521/twtxt-variables.el
   twtxt-20250127.1521/twtxt.el
  ✓ Success:
-  2025-02-04T00:07:59+0000  twtxt-20250127.1521.entry
-  2025-02-04T00:07:59+0000  twtxt-20250127.1521.tar
-Built twtxt in 4.678s, finished at 2025-02-04T00:08:00+0000
+  2025-02-04T23:07:04+0000  twtxt-20250127.1521.entry
+  2025-02-04T23:07:04+0000  twtxt-20250127.1521.tar
+Built twtxt in 4.430s, finished at 2025-02-04T23:07:05+0000

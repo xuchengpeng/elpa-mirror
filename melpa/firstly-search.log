@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/firstly-search/
 Checking out d2f58ef2411f664617e8164a1c8d036541f57cef
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/firstly-search/
-  to /tmp/firstly-searchOquYdf/firstly-search-20240804.955
+  to /tmp/firstly-searchWAoUxx/firstly-search-20240804.955
     firstly-search-bookmarks.el -> firstly-search-bookmarks.el
     firstly-search-buffermenu.el -> firstly-search-buffermenu.el
     firstly-search-dired.el -> firstly-search-dired.el
@@ -23,6 +23,6 @@ Created firstly-search-20240804.955.tar containing:
   firstly-search-20240804.955/firstly-search-tabulated-list.el
   firstly-search-20240804.955/firstly-search.el
  ✓ Success:
-  2025-02-03T23:17:53+0000  firstly-search-20240804.955.entry
-  2025-02-03T23:17:53+0000  firstly-search-20240804.955.tar
-Built firstly-search in 2.681s, finished at 2025-02-03T23:17:54+0000
+  2025-02-05T00:49:46+0000  firstly-search-20240804.955.entry
+  2025-02-05T00:49:46+0000  firstly-search-20240804.955.tar
+Built firstly-search in 3.439s, finished at 2025-02-05T00:49:47+0000

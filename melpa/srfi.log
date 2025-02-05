@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/srfi/
 Checking out f81391ab05ae1d4ea34ef1244b36f4961d3cfe83
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/srfi/
-  to /tmp/srfiHihxNO/srfi-20250127.2243
+  to /tmp/srfiWpzGOP/srfi-20250127.2243
     srfi-data.el -> srfi-data.el
     srfi.el -> srfi.el
 Created srfi-20250127.2243.tar containing:
@@ -15,6 +15,6 @@ Created srfi-20250127.2243.tar containing:
   srfi-20250127.2243/srfi-pkg.el
   srfi-20250127.2243/srfi.el
  ✓ Success:
-  2025-02-04T00:03:06+0000  srfi-20250127.2243.entry
-  2025-02-04T00:03:05+0000  srfi-20250127.2243.tar
-Built srfi in 3.601s, finished at 2025-02-04T00:03:07+0000
+  2025-02-04T23:02:20+0000  srfi-20250127.2243.entry
+  2025-02-04T23:02:20+0000  srfi-20250127.2243.tar
+Built srfi in 4.091s, finished at 2025-02-04T23:02:21+0000

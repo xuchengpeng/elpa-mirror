@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/eta/
 Checking out 651f96c46eeb7ff8a0f0efcfacad5b4d25bfaa4b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/eta/
-  to /tmp/etaQUm6HV/eta-20210115.1655
+  to /tmp/eta0fecJP/eta-20210115.1655
     eta.el -> eta.el
 Created eta-20210115.1655.tar containing:
   eta-20210115.1655/
   eta-20210115.1655/eta-pkg.el
   eta-20210115.1655/eta.el
  ✓ Success:
-  2025-02-03T23:15:10+0000  eta-20210115.1655.entry
-  2025-02-03T23:15:10+0000  eta-20210115.1655.tar
-Built eta in 4.952s, finished at 2025-02-03T23:15:12+0000
+  2025-02-05T00:47:02+0000  eta-20210115.1655.entry
+  2025-02-05T00:47:02+0000  eta-20210115.1655.tar
+Built eta in 3.599s, finished at 2025-02-05T00:47:03+0000

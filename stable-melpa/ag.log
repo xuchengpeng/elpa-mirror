@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/ag/
 Checking out ed7e32064f92f1315cecbfc43f120bbc7508672c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ag/
-  to /tmp/ag9NOf2m/ag-20201031.2202
+  to /tmp/aghxY9DG/ag-20201031.2202
     ag.el -> ag.el
 Created ag-20201031.2202.tar containing:
   ag-20201031.2202/
   ag-20201031.2202/ag-pkg.el
   ag-20201031.2202/ag.el
  ✓ Success:
-  2025-02-03T22:55:07+0000  ag-20201031.2202.entry
-  2025-02-03T22:55:07+0000  ag-20201031.2202.tar
-Built ag in 3.305s, finished at 2025-02-03T22:55:08+0000
+  2025-02-05T00:27:43+0000  ag-20201031.2202.entry
+  2025-02-05T00:27:43+0000  ag-20201031.2202.tar
+Built ag in 3.091s, finished at 2025-02-05T00:27:44+0000

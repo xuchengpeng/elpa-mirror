@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/snow/
 Checking out be17977677fa29709a726715a1a1cba1bd299f68
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/snow/
-  to /tmp/snowwmIq4K/snow-20221226.2238
+  to /tmp/snowLTQTgp/snow-20221226.2238
     snow.el -> snow.el
 Created snow-20221226.2238.tar containing:
   snow-20221226.2238/
   snow-20221226.2238/snow-pkg.el
   snow-20221226.2238/snow.el
  ✓ Success:
-  2025-02-04T00:02:07+0000  snow-20221226.2238.entry
-  2025-02-04T00:02:06+0000  snow-20221226.2238.tar
-Built snow in 3.344s, finished at 2025-02-04T00:02:07+0000
+  2025-02-04T23:01:20+0000  snow-20221226.2238.entry
+  2025-02-04T23:01:20+0000  snow-20221226.2238.tar
+Built snow in 3.857s, finished at 2025-02-04T23:01:21+0000
