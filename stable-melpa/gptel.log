@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/gptel/
 Checking out aa649b013322a62d29e7507e22234f8000c68c48
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/gptel/
-  to /tmp/gptelR1sUye/gptel-20250204.2001
+  to /tmp/gptelrvfeDE/gptel-20250204.2001
     gptel-anthropic.el -> gptel-anthropic.el
     gptel-context.el -> gptel-context.el
     gptel-curl.el -> gptel-curl.el
@@ -35,8 +35,6 @@ Created gptel-20250204.2001.tar containing:
   gptel-20250204.2001/gptel-transient.el
   gptel-20250204.2001/gptel.el
  ✓ Success:
-  2025-02-04T19:45:04+0000  gptel-20250203.136.entry
-  2025-02-04T19:45:04+0000  gptel-20250203.136.tar
-  2025-02-04T22:24:03+0000  gptel-20250204.2001.entry
-  2025-02-04T22:24:02+0000  gptel-20250204.2001.tar
-Built gptel in 4.273s, finished at 2025-02-04T22:24:03+0000
+  2025-02-06T00:04:50+0000  gptel-20250204.2001.entry
+  2025-02-06T00:04:50+0000  gptel-20250204.2001.tar
+Built gptel in 4.072s, finished at 2025-02-06T00:04:51+0000

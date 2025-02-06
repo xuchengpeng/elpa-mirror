@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/omni-tags/
 Checking out 8f0f6c302fab900b7681e5c039f90850cbbabd33
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/omni-tags/
-  to /tmp/omni-tagsOwXp6q/omni-tags-20170426.2109
+  to /tmp/omni-tagsTEWxrv/omni-tags-20170426.2109
     omni-tags-face.el -> omni-tags-face.el
     omni-tags-navigation.el -> omni-tags-navigation.el
     omni-tags-utils.el -> omni-tags-utils.el
@@ -19,6 +19,6 @@ Created omni-tags-20170426.2109.tar containing:
   omni-tags-20170426.2109/omni-tags-utils.el
   omni-tags-20170426.2109/omni-tags.el
  ✓ Success:
-  2025-02-04T22:45:16+0000  omni-tags-20170426.2109.entry
-  2025-02-04T22:45:16+0000  omni-tags-20170426.2109.tar
-Built omni-tags in 3.512s, finished at 2025-02-04T22:45:17+0000
+  2025-02-06T00:25:12+0000  omni-tags-20170426.2109.entry
+  2025-02-06T00:25:12+0000  omni-tags-20170426.2109.tar
+Built omni-tags in 3.495s, finished at 2025-02-06T00:25:13+0000

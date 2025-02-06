@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/twitch-api/
 Checking out 181681097d1fc8d7b78928f8a5b38c61d0e20ef5
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/twitch-api/
-  to /tmp/twitch-apiRvYSV9/twitch-api-20220420.1547
+  to /tmp/twitch-api5o7xXK/twitch-api-20220420.1547
     twitch-api.el -> twitch-api.el
 Created twitch-api-20220420.1547.tar containing:
   twitch-api-20220420.1547/
   twitch-api-20220420.1547/twitch-api-pkg.el
   twitch-api-20220420.1547/twitch-api.el
  ✓ Success:
-  2025-02-04T23:07:00+0000  twitch-api-20220420.1547.entry
-  2025-02-04T23:07:00+0000  twitch-api-20220420.1547.tar
-Built twitch-api in 3.652s, finished at 2025-02-04T23:07:01+0000
+  2025-02-06T00:46:45+0000  twitch-api-20220420.1547.entry
+  2025-02-06T00:46:45+0000  twitch-api-20220420.1547.tar
+Built twitch-api in 4.729s, finished at 2025-02-06T00:46:46+0000

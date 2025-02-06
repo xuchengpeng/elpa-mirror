@@ -7,13 +7,13 @@ Checking out 9802c215a3eea748d9d7f81a1465850388006897
 Warning: llama :files spec is equivalent to the default
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/llama/
-  to /tmp/llamaEHTEzH/llama-20250201.1300
+  to /tmp/llamamWXA8O/llama-20250201.1300
     llama.el -> llama.el
 Created llama-20250201.1300.tar containing:
   llama-20250201.1300/
   llama-20250201.1300/llama-pkg.el
   llama-20250201.1300/llama.el
  ✓ Success:
-  2025-02-04T22:36:19+0000  llama-20250201.1300.entry
-  2025-02-04T22:36:19+0000  llama-20250201.1300.tar
-Built llama in 3.591s, finished at 2025-02-04T22:36:20+0000
+  2025-02-06T00:16:44+0000  llama-20250201.1300.entry
+  2025-02-06T00:16:44+0000  llama-20250201.1300.tar
+Built llama in 3.210s, finished at 2025-02-06T00:16:45+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/helm-directory/
 Checking out 2c6d45404506ba744888dcdb65e9f63878f2da16
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/helm-directory/
-  to /tmp/helm-directory8l6nti/helm-directory-20170709.1103
+  to /tmp/helm-directoryHyBa71/helm-directory-20170709.1103
     helm-directory.el -> helm-directory.el
 Created helm-directory-20170709.1103.tar containing:
   helm-directory-20170709.1103/
   helm-directory-20170709.1103/helm-directory-pkg.el
   helm-directory-20170709.1103/helm-directory.el
  ✓ Success:
-  2025-02-04T22:25:47+0000  helm-directory-20170709.1103.entry
-  2025-02-04T22:25:47+0000  helm-directory-20170709.1103.tar
-Built helm-directory in 4.346s, finished at 2025-02-04T22:25:48+0000
+  2025-02-06T00:06:37+0000  helm-directory-20170709.1103.entry
+  2025-02-06T00:06:37+0000  helm-directory-20170709.1103.tar
+Built helm-directory in 5.259s, finished at 2025-02-06T00:06:39+0000

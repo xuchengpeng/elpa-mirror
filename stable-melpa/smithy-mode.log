@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/smithy-mode/
 Checking out 7dff0e7a497a055577226c7ae7ecdeaf7078b4c1
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/smithy-mode/
-  to /tmp/smithy-modepLaRAN/smithy-mode-20220619.1304
+  to /tmp/smithy-mode5tWlFf/smithy-mode-20220619.1304
     smithy-mode.el -> smithy-mode.el
 Created smithy-mode-20220619.1304.tar containing:
   smithy-mode-20220619.1304/
   smithy-mode-20220619.1304/smithy-mode-pkg.el
   smithy-mode-20220619.1304/smithy-mode.el
  ✓ Success:
-  2025-02-04T23:01:00+0000  smithy-mode-20220619.1304.entry
-  2025-02-04T23:01:00+0000  smithy-mode-20220619.1304.tar
-Built smithy-mode in 5.144s, finished at 2025-02-04T23:01:02+0000
+  2025-02-06T00:40:32+0000  smithy-mode-20220619.1304.entry
+  2025-02-06T00:40:32+0000  smithy-mode-20220619.1304.tar
+Built smithy-mode in 3.811s, finished at 2025-02-06T00:40:34+0000

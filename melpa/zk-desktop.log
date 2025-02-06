@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/zk-desktop/
 Checking out 297ebd0df13c957f4ba9700cafc5466dafacc5cb
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/zk-desktop/
-  to /tmp/zk-desktopZkagog/zk-desktop-20241006.1334
+  to /tmp/zk-desktop9An0Nb/zk-desktop-20241006.1334
     zk-desktop.el -> zk-desktop.el
 Created zk-desktop-20241006.1334.tar containing:
   zk-desktop-20241006.1334/
   zk-desktop-20241006.1334/zk-desktop-pkg.el
   zk-desktop-20241006.1334/zk-desktop.el
  ✓ Success:
-  2025-02-04T23:12:53+0000  zk-desktop-20241006.1334.entry
-  2025-02-04T23:12:53+0000  zk-desktop-20241006.1334.tar
-Built zk-desktop in 3.299s, finished at 2025-02-04T23:12:54+0000
+  2025-02-06T00:52:03+0000  zk-desktop-20241006.1334.entry
+  2025-02-06T00:52:03+0000  zk-desktop-20241006.1334.tar
+Built zk-desktop in 5.091s, finished at 2025-02-06T00:52:05+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/om-mode/
 Checking out 5a6b380f8d1293a865d8a37aa4816d7412c512ce
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/om-mode/
-  to /tmp/om-modeV0BSZB/om-mode-20140915.2110
+  to /tmp/om-modexCySjL/om-mode-20140915.2110
     om-mode.el -> om-mode.el
 Created om-mode-20140915.2110.tar containing:
   om-mode-20140915.2110/
   om-mode-20140915.2110/om-mode-pkg.el
   om-mode-20140915.2110/om-mode.el
  ✓ Success:
-  2025-02-04T22:45:10+0000  om-mode-20140915.2110.entry
-  2025-02-04T22:45:10+0000  om-mode-20140915.2110.tar
-Built om-mode in 3.218s, finished at 2025-02-04T22:45:11+0000
+  2025-02-06T00:25:07+0000  om-mode-20140915.2110.entry
+  2025-02-06T00:25:06+0000  om-mode-20140915.2110.tar
+Built om-mode in 2.973s, finished at 2025-02-06T00:25:07+0000

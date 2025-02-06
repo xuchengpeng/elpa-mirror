@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/cmake-mode/
 Checking out 72e27a48566e4b3becefc1a16aeba550c32c4128
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/cmake-mode/
-  to /tmp/cmake-mode8azWWA/cmake-mode-20250114.1444
+  to /tmp/cmake-modeG6LYPR/cmake-mode-20250114.1444
   ! Auxiliary/cmake-mode.el -> cmake-mode.el
 Created cmake-mode-20250114.1444.tar containing:
   cmake-mode-20250114.1444/
   cmake-mode-20250114.1444/cmake-mode-pkg.el
   cmake-mode-20250114.1444/cmake-mode.el
  ✓ Success:
-  2025-02-05T00:34:53+0000  cmake-mode-20250114.1444.entry
-  2025-02-05T00:34:53+0000  cmake-mode-20250114.1444.tar
-Built cmake-mode in 9.425s, finished at 2025-02-05T00:34:54+0000
+  2025-02-05T23:44:18+0000  cmake-mode-20250114.1444.entry
+  2025-02-05T23:44:17+0000  cmake-mode-20250114.1444.tar
+Built cmake-mode in 14.727s, finished at 2025-02-05T23:44:19+0000
