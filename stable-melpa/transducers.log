@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/transducers/
 Checking out 7019f7e4d26afbb601f660ed959eb88257f23f6d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/transducers/
-  to /tmp/transducersoqi6Q4/transducers-20250205.1149
+  to /tmp/transducersrX8gRB/transducers-20250205.1149
     transducers.el -> transducers.el
 Created transducers-20250205.1149.tar containing:
   transducers-20250205.1149/
   transducers-20250205.1149/transducers-pkg.el
   transducers-20250205.1149/transducers.el
  ✓ Success:
-  2025-02-06T00:45:40+0000  transducers-20250205.1149.entry
-  2025-02-06T00:45:40+0000  transducers-20250205.1149.tar
-Built transducers in 3.056s, finished at 2025-02-06T00:45:41+0000
+  2025-02-06T23:07:17+0000  transducers-20250205.1149.entry
+  2025-02-06T23:07:17+0000  transducers-20250205.1149.tar
+Built transducers in 2.992s, finished at 2025-02-06T23:07:18+0000

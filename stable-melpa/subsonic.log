@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/subsonic/
 Checking out 011e58d434ed707a06a2cfa20509629ebb339c04
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/subsonic/
-  to /tmp/subsonicPYlE1L/subsonic-20220826.748
+  to /tmp/subsonicOYxXOr/subsonic-20220826.748
     subsonic.el -> subsonic.el
 Created subsonic-20220826.748.tar containing:
   subsonic-20220826.748/
   subsonic-20220826.748/subsonic-pkg.el
   subsonic-20220826.748/subsonic.el
  ✓ Success:
-  2025-02-06T00:42:39+0000  subsonic-20220826.748.entry
-  2025-02-06T00:42:39+0000  subsonic-20220826.748.tar
-Built subsonic in 3.433s, finished at 2025-02-06T00:42:40+0000
+  2025-02-06T23:04:17+0000  subsonic-20220826.748.entry
+  2025-02-06T23:04:17+0000  subsonic-20220826.748.tar
+Built subsonic in 3.499s, finished at 2025-02-06T23:04:18+0000

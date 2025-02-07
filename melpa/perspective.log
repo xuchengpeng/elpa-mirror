@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/perspective/
 Checking out e32d3ea731f6bc551ce196527b3cb0dc19d71151
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/perspective/
-  to /tmp/perspectiveS8z86k/perspective-20241030.1848
+  to /tmp/perspectivehoyKhD/perspective-20241030.1848
     perspective.el -> perspective.el
 Created perspective-20241030.1848.tar containing:
   perspective-20241030.1848/
   perspective-20241030.1848/perspective-pkg.el
   perspective-20241030.1848/perspective.el
  ✓ Success:
-  2025-02-06T00:31:00+0000  perspective-20241030.1848.entry
-  2025-02-06T00:31:00+0000  perspective-20241030.1848.tar
-Built perspective in 2.850s, finished at 2025-02-06T00:31:01+0000
+  2025-02-06T22:52:48+0000  perspective-20241030.1848.entry
+  2025-02-06T22:52:48+0000  perspective-20241030.1848.tar
+Built perspective in 2.822s, finished at 2025-02-06T22:52:49+0000

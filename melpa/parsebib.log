@@ -3,16 +3,18 @@ Fetcher: github
 Source:  https://github.com/joostkremers/parsebib
 
 Updating /mnt/store/melpa/working/parsebib/
-Checking out 6843ecc22073484e0e48dbd63735b9b4ba103539
+Checking out 1920e457b6962e64062b1df43f5de8f2ce162193
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/parsebib/
-  to /tmp/parsebib05APGu/parsebib-20250116.1521
+  to /tmp/parsebibMyBOgh/parsebib-20250206.2120
     parsebib.el -> parsebib.el
-Created parsebib-20250116.1521.tar containing:
-  parsebib-20250116.1521/
-  parsebib-20250116.1521/parsebib-pkg.el
-  parsebib-20250116.1521/parsebib.el
+Created parsebib-20250206.2120.tar containing:
+  parsebib-20250206.2120/
+  parsebib-20250206.2120/parsebib-pkg.el
+  parsebib-20250206.2120/parsebib.el
  ✓ Success:
-  2025-02-06T00:30:14+0000  parsebib-20250116.1521.entry
-  2025-02-06T00:30:14+0000  parsebib-20250116.1521.tar
-Built parsebib in 3.288s, finished at 2025-02-06T00:30:15+0000
+  2025-02-06T20:20:43+0000  parsebib-20250116.1521.entry
+  2025-02-06T20:20:43+0000  parsebib-20250116.1521.tar
+  2025-02-06T22:52:02+0000  parsebib-20250206.2120.entry
+  2025-02-06T22:52:02+0000  parsebib-20250206.2120.tar
+Built parsebib in 3.304s, finished at 2025-02-06T22:52:03+0000

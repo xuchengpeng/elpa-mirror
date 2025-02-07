@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/lxc-tramp/
 Checking out 57559701334bb5635b82a252bd00298d06d794fe
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/lxc-tramp/
-  to /tmp/lxc-trampCAIuaL/lxc-tramp-20230119.1251
+  to /tmp/lxc-tramp1AIf6I/lxc-tramp-20230119.1251
     lxc-tramp.el -> lxc-tramp.el
 Created lxc-tramp-20230119.1251.tar containing:
   lxc-tramp-20230119.1251/
   lxc-tramp-20230119.1251/lxc-tramp-pkg.el
   lxc-tramp-20230119.1251/lxc-tramp.el
  ✓ Success:
-  2025-02-06T00:17:43+0000  lxc-tramp-20230119.1251.entry
-  2025-02-06T00:17:43+0000  lxc-tramp-20230119.1251.tar
-Built lxc-tramp in 3.012s, finished at 2025-02-06T00:17:44+0000
+  2025-02-06T22:39:45+0000  lxc-tramp-20230119.1251.entry
+  2025-02-06T22:39:45+0000  lxc-tramp-20230119.1251.tar
+Built lxc-tramp in 2.950s, finished at 2025-02-06T22:39:46+0000

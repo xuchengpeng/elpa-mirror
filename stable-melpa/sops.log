@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/djgoku/sops
 
 Updating /mnt/store/melpa/working/sops/
-Checking out 6d82ea998cd7f506f1d089c5a4d2f8708bb7d926
+Checking out afeb1232b89335d77a3f4b6639ebe8a2b70fae3f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/sops/
-  to /tmp/sopskXgnHj/sops-20250205.250
+  to /tmp/sopsQKgvxJ/sops-20250206.1651
     sops.el -> sops.el
-Created sops-20250205.250.tar containing:
-  sops-20250205.250/
-  sops-20250205.250/sops-pkg.el
-  sops-20250205.250/sops.el
+Created sops-20250206.1651.tar containing:
+  sops-20250206.1651/
+  sops-20250206.1651/sops-pkg.el
+  sops-20250206.1651/sops.el
  ✓ Success:
-  2025-02-06T00:41:16+0000  sops-20250205.250.entry
-  2025-02-06T00:41:16+0000  sops-20250205.250.tar
-Built sops in 2.891s, finished at 2025-02-06T00:41:17+0000
+  2025-02-06T23:02:55+0000  sops-20250206.1651.entry
+  2025-02-06T23:02:55+0000  sops-20250206.1651.tar
+Built sops in 2.997s, finished at 2025-02-06T23:02:56+0000

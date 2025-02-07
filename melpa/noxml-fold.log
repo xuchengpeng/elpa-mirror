@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/noxml-fold/
 Checking out 46c7f6a008672213238a9f8d7a416ce80916aa62
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/noxml-fold/
-  to /tmp/noxml-foldmp1XzZ/noxml-fold-20170823.1357
+  to /tmp/noxml-foldLhxbhv/noxml-fold-20170823.1357
     noxml-fold.el -> noxml-fold.el
 Created noxml-fold-20170823.1357.tar containing:
   noxml-fold-20170823.1357/
   noxml-fold-20170823.1357/noxml-fold-pkg.el
   noxml-fold-20170823.1357/noxml-fold.el
  ✓ Success:
-  2025-02-06T00:23:19+0000  noxml-fold-20170823.1357.entry
-  2025-02-06T00:23:19+0000  noxml-fold-20170823.1357.tar
-Built noxml-fold in 3.490s, finished at 2025-02-06T00:23:20+0000
+  2025-02-06T22:45:35+0000  noxml-fold-20170823.1357.entry
+  2025-02-06T22:45:35+0000  noxml-fold-20170823.1357.tar
+Built noxml-fold in 3.463s, finished at 2025-02-06T22:45:36+0000

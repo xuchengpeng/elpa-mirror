@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/khoj/
 Checking out a2af6bea8e613f5ec08fdd414decfbbf4672faec
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/khoj/
-  to /tmp/khojS5V1Mu/khoj-20250204.2123
+  to /tmp/khojGOmMSH/khoj-20250204.2123
   ! src/interface/emacs/khoj.el -> khoj.el
 Created khoj-20250204.2123.tar containing:
   khoj-20250204.2123/
   khoj-20250204.2123/khoj-pkg.el
   khoj-20250204.2123/khoj.el
  ✓ Success:
-  2025-02-06T00:14:41+0000  khoj-20250204.2123.entry
-  2025-02-06T00:14:41+0000  khoj-20250204.2123.tar
-Built khoj in 3.927s, finished at 2025-02-06T00:14:42+0000
+  2025-02-06T22:36:37+0000  khoj-20250204.2123.entry
+  2025-02-06T22:36:37+0000  khoj-20250204.2123.tar
+Built khoj in 3.890s, finished at 2025-02-06T22:36:38+0000

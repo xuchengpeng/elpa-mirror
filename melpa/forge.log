@@ -4,10 +4,9 @@ Source:  https://github.com/magit/forge
 
 Updating /mnt/store/melpa/working/forge/
 Checking out add7868aaf7b8538f086d3a007c412419d08ead9
-Warning: forge :files spec is equivalent to the default
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/forge/
-  to /tmp/forgeXDKuCb/forge-20250205.1920
+  to /tmp/forge2BFDmH/forge-20250205.1920
   ! lisp/forge-bitbucket.el -> forge-bitbucket.el
   ! lisp/forge-commands.el -> forge-commands.el
   ! lisp/forge-core.el -> forge-core.el
@@ -30,9 +29,11 @@ Copying files (->) and directories (=>)
   ! lisp/forge-topics.el -> forge-topics.el
   ! lisp/forge.el -> forge.el
   ! docs/forge.texi -> forge.texi
+    .dir-locals.el -> .dir-locals.el
 Generating forge.info
 Created forge-20250205.1920.tar containing:
   forge-20250205.1920/
+  forge-20250205.1920/.dir-locals.el
   forge-20250205.1920/dir
   forge-20250205.1920/forge-bitbucket.el
   forge-20250205.1920/forge-commands.el
@@ -58,6 +59,6 @@ Created forge-20250205.1920.tar containing:
   forge-20250205.1920/forge.el
   forge-20250205.1920/forge.info
  ✓ Success:
-  2025-02-06T00:01:44+0000  forge-20250205.1920.entry
-  2025-02-06T00:01:44+0000  forge-20250205.1920.tar
-Built forge in 6.019s, finished at 2025-02-06T00:01:45+0000
+  2025-02-07T00:51:58+0000  forge-20250205.1920.entry
+  2025-02-07T00:51:58+0000  forge-20250205.1920.tar
+Built forge in 5.656s, finished at 2025-02-07T00:51:59+0000
