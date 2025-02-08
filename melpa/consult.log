@@ -3,10 +3,10 @@ Fetcher: github
 Source:  https://github.com/minad/consult
 
 Updating /mnt/store/melpa/working/consult/
-Checking out 5b0c682d7092e02a0e8e0f047370be8c61ad3b4e
+Checking out c74ae6149172e3429b844c22d67e02b01abea1e4
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/consult/
-  to /tmp/consulteU3JIN/consult-20250128.1730
+  to /tmp/consult7Pg0qD/consult-20250207.1612
     consult-compile.el -> consult-compile.el
     consult-flymake.el -> consult-flymake.el
     consult-imenu.el -> consult-imenu.el
@@ -16,19 +16,19 @@ Copying files (->) and directories (=>)
     consult-register.el -> consult-register.el
     consult-xref.el -> consult-xref.el
     consult.el -> consult.el
-Created consult-20250128.1730.tar containing:
-  consult-20250128.1730/
-  consult-20250128.1730/consult-compile.el
-  consult-20250128.1730/consult-flymake.el
-  consult-20250128.1730/consult-imenu.el
-  consult-20250128.1730/consult-info.el
-  consult-20250128.1730/consult-kmacro.el
-  consult-20250128.1730/consult-org.el
-  consult-20250128.1730/consult-pkg.el
-  consult-20250128.1730/consult-register.el
-  consult-20250128.1730/consult-xref.el
-  consult-20250128.1730/consult.el
+Created consult-20250207.1612.tar containing:
+  consult-20250207.1612/
+  consult-20250207.1612/consult-compile.el
+  consult-20250207.1612/consult-flymake.el
+  consult-20250207.1612/consult-imenu.el
+  consult-20250207.1612/consult-info.el
+  consult-20250207.1612/consult-kmacro.el
+  consult-20250207.1612/consult-org.el
+  consult-20250207.1612/consult-pkg.el
+  consult-20250207.1612/consult-register.el
+  consult-20250207.1612/consult-xref.el
+  consult-20250207.1612/consult.el
  ✓ Success:
-  2025-02-07T00:36:15+0000  consult-20250128.1730.entry
-  2025-02-07T00:36:15+0000  consult-20250128.1730.tar
-Built consult in 4.193s, finished at 2025-02-07T00:36:16+0000
+  2025-02-07T23:01:03+0000  consult-20250207.1612.entry
+  2025-02-07T23:01:03+0000  consult-20250207.1612.tar
+Built consult in 4.575s, finished at 2025-02-07T23:01:04+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/yaml/
 Checking out 73a9f5356284716a123952ce194c14ad9d183444
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/yaml/
-  to /tmp/yamlhc5Ydk/yaml-20250204.1623
+  to /tmp/yamlil3rWj/yaml-20250204.1623
     yaml.el -> yaml.el
 Created yaml-20250204.1623.tar containing:
   yaml-20250204.1623/
   yaml-20250204.1623/yaml-pkg.el
   yaml-20250204.1623/yaml.el
  ✓ Success:
-  2025-02-06T23:12:50+0000  yaml-20250204.1623.entry
-  2025-02-06T23:12:50+0000  yaml-20250204.1623.tar
-Built yaml in 6.124s, finished at 2025-02-06T23:12:52+0000
+  2025-02-08T00:04:26+0000  yaml-20250204.1623.entry
+  2025-02-08T00:04:26+0000  yaml-20250204.1623.tar
+Built yaml in 3.276s, finished at 2025-02-08T00:04:27+0000

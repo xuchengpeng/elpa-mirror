@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/js-comint/
 Checking out 68908b5d232738bdc25c4cae502067ef2255a2fd
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/js-comint/
-  to /tmp/js-comintskT1fR/js-comint-20241205.2321
+  to /tmp/js-comint27EOwz/js-comint-20241205.2321
     js-comint.el -> js-comint.el
 Created js-comint-20241205.2321.tar containing:
   js-comint-20241205.2321/
   js-comint-20241205.2321/js-comint-pkg.el
   js-comint-20241205.2321/js-comint.el
  ✓ Success:
-  2025-02-06T22:35:23+0000  js-comint-20241205.2321.entry
-  2025-02-06T22:35:23+0000  js-comint-20241205.2321.tar
-Built js-comint in 3.149s, finished at 2025-02-06T22:35:24+0000
+  2025-02-07T23:27:44+0000  js-comint-20241205.2321.entry
+  2025-02-07T23:27:44+0000  js-comint-20241205.2321.tar
+Built js-comint in 2.936s, finished at 2025-02-07T23:27:45+0000

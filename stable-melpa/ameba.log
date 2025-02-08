@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/ameba/
 Checking out 0c4925ae0e998818326adcb47ed27ddf9761c7dc
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ameba/
-  to /tmp/amebaXdz1j0/ameba-20200103.1454
+  to /tmp/amebaqFXyca/ameba-20200103.1454
     ameba.el -> ameba.el
 Created ameba-20200103.1454.tar containing:
   ameba-20200103.1454/
   ameba-20200103.1454/ameba-pkg.el
   ameba-20200103.1454/ameba.el
  ✓ Success:
-  2025-02-07T00:27:50+0000  ameba-20200103.1454.entry
-  2025-02-07T00:27:50+0000  ameba-20200103.1454.tar
-Built ameba in 3.903s, finished at 2025-02-07T00:27:51+0000
+  2025-02-07T22:52:47+0000  ameba-20200103.1454.entry
+  2025-02-07T22:52:47+0000  ameba-20200103.1454.tar
+Built ameba in 3.482s, finished at 2025-02-07T22:52:48+0000

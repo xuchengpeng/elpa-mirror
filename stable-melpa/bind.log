@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/bind/
 Checking out 4c1698a7c1c9f3d45559c3be871d87d76a1cbe00
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/bind/
-  to /tmp/bindkGh5bj/bind-20231001.2051
+  to /tmp/bindSMY0ZC/bind-20231001.2051
     bind.el -> bind.el
 Created bind-20231001.2051.tar containing:
   bind-20231001.2051/
   bind-20231001.2051/bind-pkg.el
   bind-20231001.2051/bind.el
  ✓ Success:
-  2025-02-07T00:30:38+0000  bind-20231001.2051.entry
-  2025-02-07T00:30:38+0000  bind-20231001.2051.tar
-Built bind in 2.915s, finished at 2025-02-07T00:30:39+0000
+  2025-02-07T22:55:31+0000  bind-20231001.2051.entry
+  2025-02-07T22:55:31+0000  bind-20231001.2051.tar
+Built bind in 2.742s, finished at 2025-02-07T22:55:32+0000

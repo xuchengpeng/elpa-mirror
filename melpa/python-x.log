@@ -3,18 +3,18 @@ Fetcher: gitlab
 Source:  https://gitlab.com/wavexx/python-x.el
 
 Updating /mnt/store/melpa/working/python-x/
-Checking out 122cc32c1e4c312b0c793788aca03eb20cdebc91
+Checking out 6d98ab5fb46e93aece4320b509878fd078e2ba88
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/python-x/
-  to /tmp/python-xG6SJBf/python-x-20241230.943
+  to /tmp/python-xaJkvCx/python-x-20250207.2008
     python-help-mode.el -> python-help-mode.el
     python-x.el -> python-x.el
-Created python-x-20241230.943.tar containing:
-  python-x-20241230.943/
-  python-x-20241230.943/python-help-mode.el
-  python-x-20241230.943/python-x-pkg.el
-  python-x-20241230.943/python-x.el
+Created python-x-20250207.2008.tar containing:
+  python-x-20250207.2008/
+  python-x-20250207.2008/python-help-mode.el
+  python-x-20250207.2008/python-x-pkg.el
+  python-x-20250207.2008/python-x.el
  ✓ Success:
-  2025-02-06T22:56:33+0000  python-x-20241230.943.entry
-  2025-02-06T22:56:33+0000  python-x-20241230.943.tar
-Built python-x in 3.394s, finished at 2025-02-06T22:56:34+0000
+  2025-02-07T23:48:28+0000  python-x-20250207.2008.entry
+  2025-02-07T23:48:28+0000  python-x-20250207.2008.tar
+Built python-x in 3.759s, finished at 2025-02-07T23:48:29+0000

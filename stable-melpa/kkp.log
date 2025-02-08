@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/kkp/
 Checking out ad23d961c3a5dce83b1c9a6b4c65b48809c7af9a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/kkp/
-  to /tmp/kkpM6rZle/kkp-20250206.2000
+  to /tmp/kkpVDmbRQ/kkp-20250206.2000
     kkp-debug.el -> kkp-debug.el
     kkp.el -> kkp.el
 Created kkp-20250206.2000.tar containing:
@@ -15,8 +15,6 @@ Created kkp-20250206.2000.tar containing:
   kkp-20250206.2000/kkp-pkg.el
   kkp-20250206.2000/kkp.el
  ✓ Success:
-  2025-02-06T20:05:17+0000  kkp-20250206.1554.entry
-  2025-02-06T20:05:17+0000  kkp-20250206.1554.tar
-  2025-02-06T22:36:43+0000  kkp-20250206.2000.entry
-  2025-02-06T22:36:43+0000  kkp-20250206.2000.tar
-Built kkp in 3.349s, finished at 2025-02-06T22:36:44+0000
+  2025-02-07T23:29:06+0000  kkp-20250206.2000.entry
+  2025-02-07T23:29:06+0000  kkp-20250206.2000.tar
+Built kkp in 3.152s, finished at 2025-02-07T23:29:07+0000

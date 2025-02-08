@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/diff-at-point/
 Checking out bdd507b940e57a110e0e7d31834987924abc05b2
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/diff-at-point/
-  to /tmp/diff-at-pointbof4iK/diff-at-point-20240421.858
+  to /tmp/diff-at-pointCqZhR7/diff-at-point-20240421.858
     diff-at-point.el -> diff-at-point.el
 Created diff-at-point-20240421.858.tar containing:
   diff-at-point-20240421.858/
   diff-at-point-20240421.858/diff-at-point-pkg.el
   diff-at-point-20240421.858/diff-at-point.el
  ✓ Success:
-  2025-02-07T00:39:27+0000  diff-at-point-20240421.858.entry
-  2025-02-07T00:39:27+0000  diff-at-point-20240421.858.tar
-Built diff-at-point in 3.614s, finished at 2025-02-07T00:39:28+0000
+  2025-02-07T23:04:15+0000  diff-at-point-20240421.858.entry
+  2025-02-07T23:04:15+0000  diff-at-point-20240421.858.tar
+Built diff-at-point in 3.468s, finished at 2025-02-07T23:04:16+0000

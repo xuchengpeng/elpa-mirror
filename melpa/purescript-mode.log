@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/purescript-mode/
 Checking out e0de552627487e4c6613318e42d4402563362d28
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/purescript-mode/
-  to /tmp/purescript-modea91gzW/purescript-mode-20250204.1410
+  to /tmp/purescript-modeV61Xid/purescript-mode-20250204.1410
     purescript-align-imports.el -> purescript-align-imports.el
     purescript-collapse.el -> purescript-collapse.el
     purescript-decl-scan.el -> purescript-decl-scan.el
@@ -80,6 +80,6 @@ Created purescript-mode-20250204.1410.tar containing:
   purescript-mode-20250204.1410/snippets/haskell-mode/module.exports
   purescript-mode-20250204.1410/snippets/haskell-mode/newtype
  ✓ Success:
-  2025-02-06T22:55:57+0000  purescript-mode-20250204.1410.entry
-  2025-02-06T22:55:57+0000  purescript-mode-20250204.1410.tar
-Built purescript-mode in 5.513s, finished at 2025-02-06T22:55:58+0000
+  2025-02-07T23:47:55+0000  purescript-mode-20250204.1410.entry
+  2025-02-07T23:47:55+0000  purescript-mode-20250204.1410.tar
+Built purescript-mode in 5.217s, finished at 2025-02-07T23:47:56+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/tzc/
 Checking out 8f425cd6f020b5082445be9547e9308be73c6adf
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/tzc/
-  to /tmp/tzckfQEE9/tzc-20240403.332
+  to /tmp/tzcYGWWJA/tzc-20240403.332
     tzc.el -> tzc.el
 Created tzc-20240403.332.tar containing:
   tzc-20240403.332/
   tzc-20240403.332/tzc-pkg.el
   tzc-20240403.332/tzc.el
  ✓ Success:
-  2025-02-06T23:08:16+0000  tzc-20240403.332.entry
-  2025-02-06T23:08:16+0000  tzc-20240403.332.tar
-Built tzc in 3.027s, finished at 2025-02-06T23:08:16+0000
+  2025-02-08T00:00:04+0000  tzc-20240403.332.entry
+  2025-02-08T00:00:04+0000  tzc-20240403.332.tar
+Built tzc in 7.250s, finished at 2025-02-08T00:00:07+0000

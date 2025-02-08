@@ -3,20 +3,20 @@ Fetcher: github
 Source:  https://github.com/magit/magit
 
 Updating /mnt/store/melpa/working/magit-section/
-Checking out f52dfada8fa0fa6cd70886819868d84e198773a3
+Checking out 3f2a501ec8c327da166e000c5bd9dd77e139aa65
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/magit-section/
-  to /tmp/magit-sectionzwWvvU/magit-section-20250204.1334
+  to /tmp/magit-sectionSN2dnq/magit-section-20250206.2317
   ! lisp/magit-section.el -> magit-section.el
   ! docs/magit-section.texi -> magit-section.texi
 Generating magit-section.info
-Created magit-section-20250204.1334.tar containing:
-  magit-section-20250204.1334/
-  magit-section-20250204.1334/dir
-  magit-section-20250204.1334/magit-section-pkg.el
-  magit-section-20250204.1334/magit-section.el
-  magit-section-20250204.1334/magit-section.info
+Created magit-section-20250206.2317.tar containing:
+  magit-section-20250206.2317/
+  magit-section-20250206.2317/dir
+  magit-section-20250206.2317/magit-section-pkg.el
+  magit-section-20250206.2317/magit-section.el
+  magit-section-20250206.2317/magit-section.info
  ✓ Success:
-  2025-02-06T22:40:15+0000  magit-section-20250204.1334.entry
-  2025-02-06T22:40:15+0000  magit-section-20250204.1334.tar
-Built magit-section in 5.080s, finished at 2025-02-06T22:40:16+0000
+  2025-02-07T23:32:46+0000  magit-section-20250206.2317.entry
+  2025-02-07T23:32:46+0000  magit-section-20250206.2317.tar
+Built magit-section in 4.859s, finished at 2025-02-07T23:32:47+0000

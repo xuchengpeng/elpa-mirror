@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/dashboard/
 Checking out 7b7846689845078cb5604508c5075e28e2160efe
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/dashboard/
-  to /tmp/dashboardcriz54/dashboard-20250110.2013
+  to /tmp/dashboardAUTF5j/dashboard-20250110.2013
     dashboard-widgets.el -> dashboard-widgets.el
     dashboard.el -> dashboard.el
     banners => banners
@@ -23,6 +23,6 @@ Created dashboard-20250110.2013.tar containing:
   dashboard-20250110.2013/dashboard-widgets.el
   dashboard-20250110.2013/dashboard.el
  ✓ Success:
-  2025-02-07T00:38:36+0000  dashboard-20250110.2013.entry
-  2025-02-07T00:38:36+0000  dashboard-20250110.2013.tar
-Built dashboard in 3.923s, finished at 2025-02-07T00:38:37+0000
+  2025-02-07T23:03:18+0000  dashboard-20250110.2013.entry
+  2025-02-07T23:03:18+0000  dashboard-20250110.2013.tar
+Built dashboard in 6.046s, finished at 2025-02-07T23:03:20+0000
