@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/simple-call-tree/
 Checking out 90de7cb42e1dbfe295516e696df928966f1eede9
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/simple-call-tree/
-  to /tmp/simple-call-treeUouHe3/simple-call-tree-20240713.1008
+  to /tmp/simple-call-treeo988o4/simple-call-tree-20240713.1008
     simple-call-tree.el -> simple-call-tree.el
 Created simple-call-tree-20240713.1008.tar containing:
   simple-call-tree-20240713.1008/
   simple-call-tree-20240713.1008/simple-call-tree-pkg.el
   simple-call-tree-20240713.1008/simple-call-tree.el
  ✓ Success:
-  2025-02-07T23:53:14+0000  simple-call-tree-20240713.1008.entry
-  2025-02-07T23:53:14+0000  simple-call-tree-20240713.1008.tar
-Built simple-call-tree in 3.130s, finished at 2025-02-07T23:53:15+0000
+  2025-02-09T00:28:35+0000  simple-call-tree-20240713.1008.entry
+  2025-02-09T00:28:35+0000  simple-call-tree-20240713.1008.tar
+Built simple-call-tree in 3.233s, finished at 2025-02-09T00:28:36+0000

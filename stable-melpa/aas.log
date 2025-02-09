@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/aas/
 Checking out ddc2b7a58a2234477006af348b30e970f73bc2c1
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/aas/
-  to /tmp/aaswkcmmV/aas-20230303.2214
+  to /tmp/aasGpeV5L/aas-20230303.2214
     aas.el -> aas.el
 Created aas-20230303.2214.tar containing:
   aas-20230303.2214/
   aas-20230303.2214/aas-pkg.el
   aas-20230303.2214/aas.el
  ✓ Success:
-  2025-02-07T22:51:13+0000  aas-20230303.2214.entry
-  2025-02-07T22:51:13+0000  aas-20230303.2214.tar
-Built aas in 3.052s, finished at 2025-02-07T22:51:14+0000
+  2025-02-08T23:25:13+0000  aas-20230303.2214.entry
+  2025-02-08T23:25:13+0000  aas-20230303.2214.tar
+Built aas in 3.228s, finished at 2025-02-08T23:25:14+0000

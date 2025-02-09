@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/sumibi/
 Checking out d6bbc65b71f0c59a471fffe13797d1ab6cac80f8
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/sumibi/
-  to /tmp/sumibiA7tYxd/sumibi-20231019.1246
+  to /tmp/sumibi82GU79/sumibi-20231019.1246
   ! lisp/sumibi-localdic.el -> sumibi-localdic.el
   ! lisp/sumibi.el -> sumibi.el
 Created sumibi-20231019.1246.tar containing:
@@ -15,6 +15,6 @@ Created sumibi-20231019.1246.tar containing:
   sumibi-20231019.1246/sumibi-pkg.el
   sumibi-20231019.1246/sumibi.el
  ✓ Success:
-  2025-02-07T23:56:23+0000  sumibi-20231019.1246.entry
-  2025-02-07T23:56:23+0000  sumibi-20231019.1246.tar
-Built sumibi in 5.716s, finished at 2025-02-07T23:56:24+0000
+  2025-02-09T00:31:49+0000  sumibi-20231019.1246.entry
+  2025-02-09T00:31:49+0000  sumibi-20231019.1246.tar
+Built sumibi in 5.831s, finished at 2025-02-09T00:31:50+0000

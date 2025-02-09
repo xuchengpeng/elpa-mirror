@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/pacdiff/
 Checking out 74996064f7270a3b8fc57bbc8b166f3966c0a4c1
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/pacdiff/
-  to /tmp/pacdiff20KmrQ/pacdiff-20240219.1606
+  to /tmp/pacdiffeVbMT8/pacdiff-20240219.1606
     pacdiff.el -> pacdiff.el
 Created pacdiff-20240219.1606.tar containing:
   pacdiff-20240219.1606/
   pacdiff-20240219.1606/pacdiff-pkg.el
   pacdiff-20240219.1606/pacdiff.el
  ✓ Success:
-  2025-02-07T23:43:55+0000  pacdiff-20240219.1606.entry
-  2025-02-07T23:43:55+0000  pacdiff-20240219.1606.tar
-Built pacdiff in 2.736s, finished at 2025-02-07T23:43:56+0000
+  2025-02-09T00:18:56+0000  pacdiff-20240219.1606.entry
+  2025-02-09T00:18:56+0000  pacdiff-20240219.1606.tar
+Built pacdiff in 2.650s, finished at 2025-02-09T00:18:57+0000

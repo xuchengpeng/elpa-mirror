@@ -3,16 +3,18 @@ Fetcher: codeberg
 Source:  https://codeberg.org/ideasman42/emacs-diff-ansi
 
 Updating /mnt/store/melpa/working/diff-ansi/
-Checking out 13f5938a087362776dd0e883734d48c610a0b379
+Checking out 463efc61b44bb34f34e44a1cb028f5f69ac1bed4
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/diff-ansi/
-  to /tmp/diff-ansiOpIwsZ/diff-ansi-20241208.511
+  to /tmp/diff-ansiZmboY0/diff-ansi-20250208.2317
     diff-ansi.el -> diff-ansi.el
-Created diff-ansi-20241208.511.tar containing:
-  diff-ansi-20241208.511/
-  diff-ansi-20241208.511/diff-ansi-pkg.el
-  diff-ansi-20241208.511/diff-ansi.el
+Created diff-ansi-20250208.2317.tar containing:
+  diff-ansi-20250208.2317/
+  diff-ansi-20250208.2317/diff-ansi-pkg.el
+  diff-ansi-20250208.2317/diff-ansi.el
  ✓ Success:
-  2025-02-07T23:04:15+0000  diff-ansi-20241208.511.entry
-  2025-02-07T23:04:15+0000  diff-ansi-20241208.511.tar
-Built diff-ansi in 3.624s, finished at 2025-02-07T23:04:16+0000
+  2025-02-08T21:08:52+0000  diff-ansi-20241208.511.entry
+  2025-02-08T21:08:52+0000  diff-ansi-20241208.511.tar
+  2025-02-08T23:38:24+0000  diff-ansi-20250208.2317.entry
+  2025-02-08T23:38:24+0000  diff-ansi-20250208.2317.tar
+Built diff-ansi in 5.451s, finished at 2025-02-08T23:38:26+0000

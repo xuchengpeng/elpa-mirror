@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/zkry/yaml.el
 
 Updating /mnt/store/melpa/working/yaml/
-Checking out 73a9f5356284716a123952ce194c14ad9d183444
+Checking out 09e46d563f1f3ff948852e08360c7d3c76e2acba
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/yaml/
-  to /tmp/yamlil3rWj/yaml-20250204.1623
+  to /tmp/yamlxjLaLv/yaml-20250208.1534
     yaml.el -> yaml.el
-Created yaml-20250204.1623.tar containing:
-  yaml-20250204.1623/
-  yaml-20250204.1623/yaml-pkg.el
-  yaml-20250204.1623/yaml.el
+Created yaml-20250208.1534.tar containing:
+  yaml-20250208.1534/
+  yaml-20250208.1534/yaml-pkg.el
+  yaml-20250208.1534/yaml.el
  ✓ Success:
-  2025-02-08T00:04:26+0000  yaml-20250204.1623.entry
-  2025-02-08T00:04:26+0000  yaml-20250204.1623.tar
-Built yaml in 3.276s, finished at 2025-02-08T00:04:27+0000
+  2025-02-09T00:39:48+0000  yaml-20250208.1534.entry
+  2025-02-09T00:39:48+0000  yaml-20250208.1534.tar
+Built yaml in 3.271s, finished at 2025-02-09T00:39:49+0000
