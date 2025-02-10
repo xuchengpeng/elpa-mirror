@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/direnv/
 Checking out c0bf3b81c7a97e2a0d06d05495e86848254fcc1f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/direnv/
-  to /tmp/direnvGGkvyC/direnv-20240314.715
+  to /tmp/direnvzUod5O/direnv-20240314.715
     direnv.el -> direnv.el
 Created direnv-20240314.715.tar containing:
   direnv-20240314.715/
   direnv-20240314.715/direnv-pkg.el
   direnv-20240314.715/direnv.el
  ✓ Success:
-  2025-02-08T23:39:16+0000  direnv-20240314.715.entry
-  2025-02-08T23:39:16+0000  direnv-20240314.715.tar
-Built direnv in 3.439s, finished at 2025-02-08T23:39:17+0000
+  2025-02-09T22:44:19+0000  direnv-20240314.715.entry
+  2025-02-09T22:44:19+0000  direnv-20240314.715.tar
+Built direnv in 4.875s, finished at 2025-02-09T22:44:21+0000

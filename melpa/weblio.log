@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/weblio/
 Checking out 952d085fd814b139562ef947c7dcabc31f92341d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/weblio/
-  to /tmp/weblioWGpNOp/weblio-20240514.1005
+  to /tmp/webliobN56mI/weblio-20240514.1005
     weblio.el -> weblio.el
 Created weblio-20240514.1005.tar containing:
   weblio-20240514.1005/
   weblio-20240514.1005/weblio-pkg.el
   weblio-20240514.1005/weblio.el
  ✓ Success:
-  2025-02-09T00:38:11+0000  weblio-20240514.1005.entry
-  2025-02-09T00:38:11+0000  weblio-20240514.1005.tar
-Built weblio in 2.987s, finished at 2025-02-09T00:38:12+0000
+  2025-02-09T23:41:29+0000  weblio-20240514.1005.entry
+  2025-02-09T23:41:29+0000  weblio-20240514.1005.tar
+Built weblio in 4.502s, finished at 2025-02-09T23:41:30+0000

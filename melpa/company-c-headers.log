@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/company-c-headers/
 Checking out 5e676ab0c2f287c868b1e3931afd4c78895910cd
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/company-c-headers/
-  to /tmp/company-c-headersQ1vQ1b/company-c-headers-20190825.1631
+  to /tmp/company-c-headersHQ97fr/company-c-headers-20190825.1631
     company-c-headers.el -> company-c-headers.el
 Created company-c-headers-20190825.1631.tar containing:
   company-c-headers-20190825.1631/
   company-c-headers-20190825.1631/company-c-headers-pkg.el
   company-c-headers-20190825.1631/company-c-headers.el
  ✓ Success:
-  2025-02-08T23:34:15+0000  company-c-headers-20190825.1631.entry
-  2025-02-08T23:34:15+0000  company-c-headers-20190825.1631.tar
-Built company-c-headers in 2.955s, finished at 2025-02-08T23:34:16+0000
+  2025-02-09T22:39:35+0000  company-c-headers-20190825.1631.entry
+  2025-02-09T22:39:35+0000  company-c-headers-20190825.1631.tar
+Built company-c-headers in 4.644s, finished at 2025-02-09T22:39:36+0000

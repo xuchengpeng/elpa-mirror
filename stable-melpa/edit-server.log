@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/edit-server/
 Checking out 3ce09c6eb2919d56ef052b1584bba6abb12f7e99
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/edit-server/
-  to /tmp/edit-serverYS0x4g/edit-server-20220908.1014
+  to /tmp/edit-serverKmdgZx/edit-server-20220908.1014
   ! servers/edit-server.el -> edit-server.el
 Created edit-server-20220908.1014.tar containing:
   edit-server-20220908.1014/
   edit-server-20220908.1014/edit-server-pkg.el
   edit-server-20220908.1014/edit-server.el
  ✓ Success:
-  2025-02-08T23:41:19+0000  edit-server-20220908.1014.entry
-  2025-02-08T23:41:19+0000  edit-server-20220908.1014.tar
-Built edit-server in 3.504s, finished at 2025-02-08T23:41:20+0000
+  2025-02-09T22:46:28+0000  edit-server-20220908.1014.entry
+  2025-02-09T22:46:28+0000  edit-server-20220908.1014.tar
+Built edit-server in 3.285s, finished at 2025-02-09T22:46:29+0000

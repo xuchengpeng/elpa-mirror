@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/pronto/
 Checking out c0cd13d8219879610b7fe284b182a9db4d3d40b3
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/pronto/
-  to /tmp/prontooaGDoM/pronto-20200218.1633
+  to /tmp/pronto2wfUIW/pronto-20200218.1633
     pronto.el -> pronto.el
 Created pronto-20200218.1633.tar containing:
   pronto-20200218.1633/
   pronto-20200218.1633/pronto-pkg.el
   pronto-20200218.1633/pronto.el
  ✓ Success:
-  2025-02-09T00:22:39+0000  pronto-20200218.1633.entry
-  2025-02-09T00:22:39+0000  pronto-20200218.1633.tar
-Built pronto in 2.780s, finished at 2025-02-09T00:22:40+0000
+  2025-02-09T23:26:09+0000  pronto-20200218.1633.entry
+  2025-02-09T23:26:09+0000  pronto-20200218.1633.tar
+Built pronto in 2.547s, finished at 2025-02-09T23:26:10+0000

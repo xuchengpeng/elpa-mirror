@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/lsp-docker/
 Checking out 16a0cfbe06813a1191b19e412445f9d34cd7493f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/lsp-docker/
-  to /tmp/lsp-dockerexV91M/lsp-docker-20240419.1428
+  to /tmp/lsp-dockerPoG8qx/lsp-docker-20240419.1428
     lsp-docker.el -> lsp-docker.el
 Created lsp-docker-20240419.1428.tar containing:
   lsp-docker-20240419.1428/
   lsp-docker-20240419.1428/lsp-docker-pkg.el
   lsp-docker-20240419.1428/lsp-docker.el
  ✓ Success:
-  2025-02-09T00:06:11+0000  lsp-docker-20240419.1428.entry
-  2025-02-09T00:06:11+0000  lsp-docker-20240419.1428.tar
-Built lsp-docker in 3.239s, finished at 2025-02-09T00:06:12+0000
+  2025-02-09T23:10:27+0000  lsp-docker-20240419.1428.entry
+  2025-02-09T23:10:26+0000  lsp-docker-20240419.1428.tar
+Built lsp-docker in 3.366s, finished at 2025-02-09T23:10:27+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/parseedn/
 Checking out 3407e4530a367b6c2b857dae261cdbb67a440aaa
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/parseedn/
-  to /tmp/parseednYwqeIO/parseedn-20231203.1909
+  to /tmp/parseednE2toyq/parseedn-20231203.1909
     parseedn.el -> parseedn.el
 Created parseedn-20231203.1909.tar containing:
   parseedn-20231203.1909/
   parseedn-20231203.1909/parseedn-pkg.el
   parseedn-20231203.1909/parseedn.el
  ✓ Success:
-  2025-02-09T00:19:26+0000  parseedn-20231203.1909.entry
-  2025-02-09T00:19:26+0000  parseedn-20231203.1909.tar
-Built parseedn in 3.293s, finished at 2025-02-09T00:19:27+0000
+  2025-02-09T23:22:47+0000  parseedn-20231203.1909.entry
+  2025-02-09T23:22:46+0000  parseedn-20231203.1909.tar
+Built parseedn in 3.025s, finished at 2025-02-09T23:22:47+0000

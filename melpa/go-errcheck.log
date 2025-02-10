@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/go-errcheck/
 Checking out 9db21eccecedc2490793f176246094167164af31
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/go-errcheck/
-  to /tmp/go-errcheck7BW1RR/go-errcheck-20160723.43
+  to /tmp/go-errcheckPoCjRC/go-errcheck-20160723.43
     go-errcheck.el -> go-errcheck.el
 Created go-errcheck-20160723.43.tar containing:
   go-errcheck-20160723.43/
   go-errcheck-20160723.43/go-errcheck-pkg.el
   go-errcheck-20160723.43/go-errcheck.el
  ✓ Success:
-  2025-02-08T23:53:14+0000  go-errcheck-20160723.43.entry
-  2025-02-08T23:53:14+0000  go-errcheck-20160723.43.tar
-Built go-errcheck in 3.108s, finished at 2025-02-08T23:53:15+0000
+  2025-02-09T22:57:49+0000  go-errcheck-20160723.43.entry
+  2025-02-09T22:57:49+0000  go-errcheck-20160723.43.tar
+Built go-errcheck in 2.719s, finished at 2025-02-09T22:57:50+0000

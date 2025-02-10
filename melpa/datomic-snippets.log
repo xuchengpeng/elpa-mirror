@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/datomic-snippets/
 Checking out 4a14228840d5252e13d2bf6209670f26345bbb84
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/datomic-snippets/
-  to /tmp/datomic-snippetsKw3gC1/datomic-snippets-20180817.1045
+  to /tmp/datomic-snippetsfZLOAs/datomic-snippets-20180817.1045
     datomic-snippets-pkg.el -> datomic-snippets-pkg.el
     datomic-snippets.el -> datomic-snippets.el
     snippets => snippets
@@ -41,6 +41,6 @@ Created datomic-snippets-20180817.1045.tar containing:
   datomic-snippets-20180817.1045/snippets/clojure-mode/datomic-schema-unique-identity
   datomic-snippets-20180817.1045/snippets/clojure-mode/datomic-schema-value-type-ref
  ✓ Success:
-  2025-02-08T23:37:29+0000  datomic-snippets-20180817.1045.entry
-  2025-02-08T23:37:28+0000  datomic-snippets-20180817.1045.tar
-Built datomic-snippets in 2.765s, finished at 2025-02-08T23:37:29+0000
+  2025-02-09T22:42:45+0000  datomic-snippets-20180817.1045.entry
+  2025-02-09T22:42:45+0000  datomic-snippets-20180817.1045.tar
+Built datomic-snippets in 2.689s, finished at 2025-02-09T22:42:46+0000

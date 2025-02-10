@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/eglot-java/
 Checking out 492282d653c91b07ec10b30eb8a05cbfdc4017c7
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/eglot-java/
-  to /tmp/eglot-java3sfFJf/eglot-java-20240501.922
+  to /tmp/eglot-java2QjSyq/eglot-java-20240501.922
     eglot-java.el -> eglot-java.el
 Created eglot-java-20240501.922.tar containing:
   eglot-java-20240501.922/
   eglot-java-20240501.922/eglot-java-pkg.el
   eglot-java-20240501.922/eglot-java.el
  ✓ Success:
-  2025-02-08T23:41:34+0000  eglot-java-20240501.922.entry
-  2025-02-08T23:41:33+0000  eglot-java-20240501.922.tar
-Built eglot-java in 3.307s, finished at 2025-02-08T23:41:35+0000
+  2025-02-09T22:46:41+0000  eglot-java-20240501.922.entry
+  2025-02-09T22:46:41+0000  eglot-java-20240501.922.tar
+Built eglot-java in 2.783s, finished at 2025-02-09T22:46:42+0000

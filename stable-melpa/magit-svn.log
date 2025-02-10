@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/magit-svn/
 Checking out b8277081db90977247ae3900ea6afeb0ca644d36
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/magit-svn/
-  to /tmp/magit-svnQCqyFY/magit-svn-20220314.1451
+  to /tmp/magit-svnb6PK7f/magit-svn-20220314.1451
     magit-svn.el -> magit-svn.el
 Created magit-svn-20220314.1451.tar containing:
   magit-svn-20220314.1451/
   magit-svn-20220314.1451/magit-svn-pkg.el
   magit-svn-20220314.1451/magit-svn.el
  ✓ Success:
-  2025-02-09T00:07:24+0000  magit-svn-20220314.1451.entry
-  2025-02-09T00:07:24+0000  magit-svn-20220314.1451.tar
-Built magit-svn in 2.895s, finished at 2025-02-09T00:07:25+0000
+  2025-02-09T23:11:23+0000  magit-svn-20220314.1451.entry
+  2025-02-09T23:11:23+0000  magit-svn-20220314.1451.tar
+Built magit-svn in 2.899s, finished at 2025-02-09T23:11:24+0000
