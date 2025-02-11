@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/nasm-mode/
 Checking out 7079eb4ce14d94830513facf9bf2fca9e030a4d1
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/nasm-mode/
-  to /tmp/nasm-modeUXpigS/nasm-mode-20240610.1505
+  to /tmp/nasm-modeYcvjTO/nasm-mode-20240610.1505
     nasm-mode.el -> nasm-mode.el
 Created nasm-mode-20240610.1505.tar containing:
   nasm-mode-20240610.1505/
   nasm-mode-20240610.1505/nasm-mode-pkg.el
   nasm-mode-20240610.1505/nasm-mode.el
  ✓ Success:
-  2025-02-09T23:15:13+0000  nasm-mode-20240610.1505.entry
-  2025-02-09T23:15:13+0000  nasm-mode-20240610.1505.tar
-Built nasm-mode in 3.062s, finished at 2025-02-09T23:15:14+0000
+  2025-02-10T23:59:04+0000  nasm-mode-20240610.1505.entry
+  2025-02-10T23:59:04+0000  nasm-mode-20240610.1505.tar
+Built nasm-mode in 3.405s, finished at 2025-02-10T23:59:05+0000

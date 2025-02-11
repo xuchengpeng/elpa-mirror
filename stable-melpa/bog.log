@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/bog/
 Checking out c8e7c8cb54b1787cc3d9383f0514eb76cadd4002
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/bog/
-  to /tmp/bogX0k78z/bog-20240215.27
+  to /tmp/bogQL3PoH/bog-20240215.27
     bog.el -> bog.el
 Created bog-20240215.27.tar containing:
   bog-20240215.27/
   bog-20240215.27/bog-pkg.el
   bog-20240215.27/bog.el
  ✓ Success:
-  2025-02-09T22:35:25+0000  bog-20240215.27.entry
-  2025-02-09T22:35:25+0000  bog-20240215.27.tar
-Built bog in 2.659s, finished at 2025-02-09T22:35:26+0000
+  2025-02-10T23:18:07+0000  bog-20240215.27.entry
+  2025-02-10T23:18:07+0000  bog-20240215.27.tar
+Built bog in 3.535s, finished at 2025-02-10T23:18:08+0000

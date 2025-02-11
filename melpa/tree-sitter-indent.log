@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/tree-sitter-indent/
 Checking out 4ef246db3e4ff99f672fe5e4b416c890f885c09e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/tree-sitter-indent/
-  to /tmp/tree-sitter-indent9Rbzep/tree-sitter-indent-20220411.1439
+  to /tmp/tree-sitter-indent9A9Z1K/tree-sitter-indent-20220411.1439
     tree-sitter-indent.el -> tree-sitter-indent.el
 Created tree-sitter-indent-20220411.1439.tar containing:
   tree-sitter-indent-20220411.1439/
   tree-sitter-indent-20220411.1439/tree-sitter-indent-pkg.el
   tree-sitter-indent-20220411.1439/tree-sitter-indent.el
  ✓ Success:
-  2025-02-09T23:37:56+0000  tree-sitter-indent-20220411.1439.entry
-  2025-02-09T23:37:56+0000  tree-sitter-indent-20220411.1439.tar
-Built tree-sitter-indent in 4.030s, finished at 2025-02-09T23:37:57+0000
+  2025-02-11T00:23:01+0000  tree-sitter-indent-20220411.1439.entry
+  2025-02-11T00:23:01+0000  tree-sitter-indent-20220411.1439.tar
+Built tree-sitter-indent in 4.311s, finished at 2025-02-11T00:23:02+0000

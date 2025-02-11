@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/mistty/
 Checking out 05e018d4fffc45327bf3cd920dc7db7d73f29b10
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mistty/
-  to /tmp/mistty03PFca/mistty-20250209.2059
+  to /tmp/misttybUCcHK/mistty-20250209.2059
     mistty-changeset.el -> mistty-changeset.el
     mistty-launch.el -> mistty-launch.el
     mistty-log.el -> mistty-log.el
@@ -35,8 +35,6 @@ Created mistty-20250209.2059.tar containing:
   mistty-20250209.2059/mistty.el
   mistty-20250209.2059/mistty.info
  ✓ Success:
-  2025-02-09T20:50:29+0000  mistty-20250130.1831.entry
-  2025-02-09T20:50:29+0000  mistty-20250130.1831.tar
-  2025-02-09T23:13:28+0000  mistty-20250209.2059.entry
-  2025-02-09T23:13:28+0000  mistty-20250209.2059.tar
-Built mistty in 6.278s, finished at 2025-02-09T23:13:29+0000
+  2025-02-10T23:57:21+0000  mistty-20250209.2059.entry
+  2025-02-10T23:57:21+0000  mistty-20250209.2059.tar
+Built mistty in 6.730s, finished at 2025-02-10T23:57:22+0000

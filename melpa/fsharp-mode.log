@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/fsharp-mode/
 Checking out b4d31c3da018cfbb3d1f9e6fd416d8777f0835bd
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/fsharp-mode/
-  to /tmp/fsharp-mode7vWuSB/fsharp-mode-20230622.1854
+  to /tmp/fsharp-mode58xKui/fsharp-mode-20230622.1854
     fsharp-mode-font.el -> fsharp-mode-font.el
     fsharp-mode-structure.el -> fsharp-mode-structure.el
     fsharp-mode-util.el -> fsharp-mode-util.el
@@ -21,6 +21,6 @@ Created fsharp-mode-20230622.1854.tar containing:
   fsharp-mode-20230622.1854/fsharp-mode.el
   fsharp-mode-20230622.1854/inf-fsharp-mode.el
  ✓ Success:
-  2025-02-09T22:55:52+0000  fsharp-mode-20230622.1854.entry
-  2025-02-09T22:55:51+0000  fsharp-mode-20230622.1854.tar
-Built fsharp-mode in 5.216s, finished at 2025-02-09T22:55:53+0000
+  2025-02-10T23:39:16+0000  fsharp-mode-20230622.1854.entry
+  2025-02-10T23:39:16+0000  fsharp-mode-20230622.1854.tar
+Built fsharp-mode in 3.705s, finished at 2025-02-10T23:39:17+0000

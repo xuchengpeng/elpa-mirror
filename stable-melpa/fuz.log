@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/fuz/
 Checking out 0b6b64cebde5675be3a28520ee16234db48d3b8b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/fuz/
-  to /tmp/fuzp0mCLb/fuz-20200104.524
+  to /tmp/fuz29W3Dw/fuz-20200104.524
     fuz-extra.el -> fuz-extra.el
     fuz.el -> fuz.el
     Cargo.toml -> Cargo.toml
@@ -23,6 +23,6 @@ Created fuz-20200104.524.tar containing:
   fuz-20200104.524/src/dynmod.rs
   fuz-20200104.524/src/lib.rs
  ✓ Success:
-  2025-02-09T22:56:03+0000  fuz-20200104.524.entry
-  2025-02-09T22:56:03+0000  fuz-20200104.524.tar
-Built fuz in 4.427s, finished at 2025-02-09T22:56:05+0000
+  2025-02-10T23:39:23+0000  fuz-20200104.524.entry
+  2025-02-10T23:39:23+0000  fuz-20200104.524.tar
+Built fuz in 2.987s, finished at 2025-02-10T23:39:24+0000

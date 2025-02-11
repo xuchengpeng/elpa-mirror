@@ -3234,7 +3234,6 @@
   (magit-commit-mark :url "https://codeberg.org/ideasman42/emacs-magit-commit-mark")
   (magit-delta :url "https://github.com/dandavison/magit-delta")
   (magit-diff-flycheck :url "https://github.com/ragone/magit-diff-flycheck")
-  (magit-file-icons :url "https://github.com/gekoke/magit-file-icons")
   (magit-filenotify :url "https://github.com/ruediger/magit-filenotify")
   (magit-find-file :url "https://github.com/bradwright/magit-find-file.el")
   (magit-gerrit :url "https://github.com/emacsorphanage/magit-gerrit")

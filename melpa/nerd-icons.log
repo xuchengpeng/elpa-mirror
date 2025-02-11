@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/nerd-icons/
 Checking out 546ee20caf825e65da4c5435d31f13d269ed2a81
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/nerd-icons/
-  to /tmp/nerd-iconsfvwpcA/nerd-icons-20241230.716
+  to /tmp/nerd-icons71XwKw/nerd-icons-20241230.716
     nerd-icons-data.el -> nerd-icons-data.el
     nerd-icons-faces.el -> nerd-icons-faces.el
     nerd-icons.el -> nerd-icons.el
@@ -30,6 +30,6 @@ Created nerd-icons-20241230.716.tar containing:
   nerd-icons-20241230.716/nerd-icons-pkg.el
   nerd-icons-20241230.716/nerd-icons.el
  ✓ Success:
-  2025-02-09T23:15:25+0000  nerd-icons-20241230.716.entry
-  2025-02-09T23:15:25+0000  nerd-icons-20241230.716.tar
-Built nerd-icons in 3.318s, finished at 2025-02-09T23:15:26+0000
+  2025-02-10T23:59:15+0000  nerd-icons-20241230.716.entry
+  2025-02-10T23:59:15+0000  nerd-icons-20241230.716.tar
+Built nerd-icons in 3.233s, finished at 2025-02-10T23:59:16+0000

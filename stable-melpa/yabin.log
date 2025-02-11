@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/yabin/
 Checking out db8c404507560ef9147fcce2b94cd706fbfa03b5
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/yabin/
-  to /tmp/yabinXWj7DD/yabin-20140206.351
+  to /tmp/yabinpyFWhZ/yabin-20140206.351
     yabin.el -> yabin.el
 Created yabin-20140206.351.tar containing:
   yabin-20140206.351/
   yabin-20140206.351/yabin-pkg.el
   yabin-20140206.351/yabin.el
  ✓ Success:
-  2025-02-09T23:43:01+0000  yabin-20140206.351.entry
-  2025-02-09T23:43:01+0000  yabin-20140206.351.tar
-Built yabin in 2.672s, finished at 2025-02-09T23:43:02+0000
+  2025-02-11T00:27:59+0000  yabin-20140206.351.entry
+  2025-02-11T00:27:59+0000  yabin-20140206.351.tar
+Built yabin in 2.883s, finished at 2025-02-11T00:28:00+0000

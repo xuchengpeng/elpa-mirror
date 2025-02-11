@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/boxes/
 Checking out bae35281d0f814c704ef4a174a5f734541e1f457
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/boxes/
-  to /tmp/boxesWF96db/boxes-20241003.847
+  to /tmp/boxesQ53D7h/boxes-20241003.847
   ! doc/boxes.el -> boxes.el
 Created boxes-20241003.847.tar containing:
   boxes-20241003.847/
   boxes-20241003.847/boxes-pkg.el
   boxes-20241003.847/boxes.el
  ✓ Success:
-  2025-02-09T22:35:33+0000  boxes-20241003.847.entry
-  2025-02-09T22:35:33+0000  boxes-20241003.847.tar
-Built boxes in 3.302s, finished at 2025-02-09T22:35:34+0000
+  2025-02-10T23:18:15+0000  boxes-20241003.847.entry
+  2025-02-10T23:18:15+0000  boxes-20241003.847.tar
+Built boxes in 2.779s, finished at 2025-02-10T23:18:16+0000
