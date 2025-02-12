@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/helm-gitlab/
 Checking out 68318aca3206d50701039c9aae39734ca29a49f9
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/helm-gitlab/
-  to /tmp/helm-gitlab1mtBIw/helm-gitlab-20180312.1647
+  to /tmp/helm-gitlab4iwXcy/helm-gitlab-20180312.1647
     helm-gitlab.el -> helm-gitlab.el
 Created helm-gitlab-20180312.1647.tar containing:
   helm-gitlab-20180312.1647/
   helm-gitlab-20180312.1647/helm-gitlab-pkg.el
   helm-gitlab-20180312.1647/helm-gitlab.el
  ✓ Success:
-  2025-02-10T23:44:30+0000  helm-gitlab-20180312.1647.entry
-  2025-02-10T23:44:30+0000  helm-gitlab-20180312.1647.tar
-Built helm-gitlab in 2.867s, finished at 2025-02-10T23:44:31+0000
+  2025-02-12T00:51:28+0000  helm-gitlab-20180312.1647.entry
+  2025-02-12T00:51:28+0000  helm-gitlab-20180312.1647.tar
+Built helm-gitlab in 5.179s, finished at 2025-02-12T00:51:30+0000

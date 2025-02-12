@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/pivaldi/php-cs-fixer
 
 Updating /mnt/store/melpa/working/php-cs-fixer/
-Checking out fa8a4cdd39f23940beea7cfcee4177d8f5903e37
+Checking out 4bf549c1dedad2a2a52257b866bcb180a31f129d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/php-cs-fixer/
-  to /tmp/php-cs-fixerc5Y7V7/php-cs-fixer-20250210.1723
+  to /tmp/php-cs-fixerUFtmtA/php-cs-fixer-20250211.214
     php-cs-fixer.el -> php-cs-fixer.el
-Created php-cs-fixer-20250210.1723.tar containing:
-  php-cs-fixer-20250210.1723/
-  php-cs-fixer-20250210.1723/php-cs-fixer-pkg.el
-  php-cs-fixer-20250210.1723/php-cs-fixer.el
+Created php-cs-fixer-20250211.214.tar containing:
+  php-cs-fixer-20250211.214/
+  php-cs-fixer-20250211.214/php-cs-fixer-pkg.el
+  php-cs-fixer-20250211.214/php-cs-fixer.el
  ✓ Success:
-  2025-02-11T00:08:17+0000  php-cs-fixer-20250210.1723.entry
-  2025-02-11T00:08:17+0000  php-cs-fixer-20250210.1723.tar
-Built php-cs-fixer in 3.326s, finished at 2025-02-11T00:08:18+0000
+  2025-02-11T22:47:35+0000  php-cs-fixer-20250211.214.entry
+  2025-02-11T22:47:35+0000  php-cs-fixer-20250211.214.tar
+Built php-cs-fixer in 3.414s, finished at 2025-02-11T22:47:36+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/gtk-variant/
 Checking out a60af277fbb52306c17663074cf9954dd6cea024
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/gtk-variant/
-  to /tmp/gtk-variantdfmuJw/gtk-variant-20200416.2136
+  to /tmp/gtk-variantt8ieNA/gtk-variant-20200416.2136
     gtk-variant.el -> gtk-variant.el
 Created gtk-variant-20200416.2136.tar containing:
   gtk-variant-20200416.2136/
   gtk-variant-20200416.2136/gtk-variant-pkg.el
   gtk-variant-20200416.2136/gtk-variant.el
  ✓ Success:
-  2025-02-10T23:42:43+0000  gtk-variant-20200416.2136.entry
-  2025-02-10T23:42:42+0000  gtk-variant-20200416.2136.tar
-Built gtk-variant in 2.907s, finished at 2025-02-10T23:42:43+0000
+  2025-02-12T00:49:53+0000  gtk-variant-20200416.2136.entry
+  2025-02-12T00:49:53+0000  gtk-variant-20200416.2136.tar
+Built gtk-variant in 2.854s, finished at 2025-02-12T00:49:54+0000

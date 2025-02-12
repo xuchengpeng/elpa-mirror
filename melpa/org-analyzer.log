@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/org-analyzer/
 Checking out 19da62aa4dcf1090be8f574f6f2d4c7e116163a8
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/org-analyzer/
-  to /tmp/org-analyzerBu8mov/org-analyzer-20191001.1717
+  to /tmp/org-analyzerDcsD6Z/org-analyzer-20191001.1717
   ! org-analyzer-el/org-analyzer.jar -> org-analyzer.jar
   ! org-analyzer-el/org-analyzer-pkg.el -> org-analyzer-pkg.el
   ! org-analyzer-el/org-analyzer.el -> org-analyzer.el
@@ -16,6 +16,6 @@ Created org-analyzer-20191001.1717.tar containing:
   org-analyzer-20191001.1717/org-analyzer.el
   org-analyzer-20191001.1717/org-analyzer.jar
  ✓ Success:
-  2025-02-11T00:02:38+0000  org-analyzer-20191001.1717.entry
-  2025-02-11T00:02:38+0000  org-analyzer-20191001.1717.tar
-Built org-analyzer in 4.021s, finished at 2025-02-11T00:02:39+0000
+  2025-02-11T22:41:55+0000  org-analyzer-20191001.1717.entry
+  2025-02-11T22:41:55+0000  org-analyzer-20191001.1717.tar
+Built org-analyzer in 3.850s, finished at 2025-02-11T22:41:56+0000

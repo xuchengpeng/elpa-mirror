@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/flymake-ruff/
 Checking out b877f47eb9da608a40cc1bc25826d2176494bf6d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/flymake-ruff/
-  to /tmp/flymake-ruffOYGS4d/flymake-ruff-20241214.532
+  to /tmp/flymake-ruffif5iX8/flymake-ruff-20241214.532
     flymake-ruff.el -> flymake-ruff.el
 Created flymake-ruff-20241214.532.tar containing:
   flymake-ruff-20241214.532/
   flymake-ruff-20241214.532/flymake-ruff-pkg.el
   flymake-ruff-20241214.532/flymake-ruff.el
  ✓ Success:
-  2025-02-10T23:38:04+0000  flymake-ruff-20241214.532.entry
-  2025-02-10T23:38:04+0000  flymake-ruff-20241214.532.tar
-Built flymake-ruff in 3.423s, finished at 2025-02-10T23:38:05+0000
+  2025-02-12T00:45:33+0000  flymake-ruff-20241214.532.entry
+  2025-02-12T00:45:33+0000  flymake-ruff-20241214.532.tar
+Built flymake-ruff in 5.404s, finished at 2025-02-12T00:45:35+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/magit-gitlab/
 Checking out 6f10468f9091d02aa6f1ce4af914443209a7d2a5
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/magit-gitlab/
-  to /tmp/magit-gitlabQD2NzE/magit-gitlab-20240707.1506
+  to /tmp/magit-gitlabjXNYnd/magit-gitlab-20240707.1506
     magit-gitlab.el -> magit-gitlab.el
 Created magit-gitlab-20240707.1506.tar containing:
   magit-gitlab-20240707.1506/
   magit-gitlab-20240707.1506/magit-gitlab-pkg.el
   magit-gitlab-20240707.1506/magit-gitlab.el
  ✓ Success:
-  2025-02-10T23:55:02+0000  magit-gitlab-20240707.1506.entry
-  2025-02-10T23:55:02+0000  magit-gitlab-20240707.1506.tar
-Built magit-gitlab in 4.164s, finished at 2025-02-10T23:55:03+0000
+  2025-02-11T22:34:08+0000  magit-gitlab-20240707.1506.entry
+  2025-02-11T22:34:07+0000  magit-gitlab-20240707.1506.tar
+Built magit-gitlab in 3.868s, finished at 2025-02-11T22:34:08+0000

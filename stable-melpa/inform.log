@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/inform/
 Checking out 8ff0a19a9f40cfa8283da8ed73de94c35a327423
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/inform/
-  to /tmp/informjdJ6DH/inform-20200723.500
+  to /tmp/informRTUWrD/inform-20200723.500
     inform-pkg.el -> inform-pkg.el
     inform.el -> inform.el
 Created inform-20200723.500.tar containing:
@@ -14,6 +14,6 @@ Created inform-20200723.500.tar containing:
   inform-20200723.500/inform-pkg.el
   inform-20200723.500/inform.el
  ✓ Success:
-  2025-02-10T23:48:22+0000  inform-20200723.500.entry
-  2025-02-10T23:48:22+0000  inform-20200723.500.tar
-Built inform in 3.489s, finished at 2025-02-10T23:48:23+0000
+  2025-02-12T00:55:25+0000  inform-20200723.500.entry
+  2025-02-12T00:55:25+0000  inform-20200723.500.tar
+Built inform in 3.527s, finished at 2025-02-12T00:55:26+0000

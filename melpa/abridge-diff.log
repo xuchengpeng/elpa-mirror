@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/abridge-diff/
 Checking out 31e0ccaa9d0bd4ad257f5de25cc3c0b3395fafa1
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/abridge-diff/
-  to /tmp/abridge-diffYqKvtu/abridge-diff-20230307.2159
+  to /tmp/abridge-diffEuZyVx/abridge-diff-20230307.2159
     abridge-diff.el -> abridge-diff.el
 Created abridge-diff-20230307.2159.tar containing:
   abridge-diff-20230307.2159/
   abridge-diff-20230307.2159/abridge-diff-pkg.el
   abridge-diff-20230307.2159/abridge-diff.el
  ✓ Success:
-  2025-02-10T23:13:17+0000  abridge-diff-20230307.2159.entry
-  2025-02-10T23:13:17+0000  abridge-diff-20230307.2159.tar
-Built abridge-diff in 2.485s, finished at 2025-02-10T23:13:18+0000
+  2025-02-12T00:20:42+0000  abridge-diff-20230307.2159.entry
+  2025-02-12T00:20:42+0000  abridge-diff-20230307.2159.tar
+Built abridge-diff in 2.616s, finished at 2025-02-12T00:20:43+0000

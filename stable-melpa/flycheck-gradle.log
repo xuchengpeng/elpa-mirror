@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/flycheck-gradle/
 Checking out 1ca08bbc343362a923cbdc2010f66e41655e92ab
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/flycheck-gradle/
-  to /tmp/flycheck-gradleusAFqe/flycheck-gradle-20190315.234
+  to /tmp/flycheck-gradleZvTnAa/flycheck-gradle-20190315.234
     flycheck-gradle.el -> flycheck-gradle.el
 Created flycheck-gradle-20190315.234.tar containing:
   flycheck-gradle-20190315.234/
   flycheck-gradle-20190315.234/flycheck-gradle-pkg.el
   flycheck-gradle-20190315.234/flycheck-gradle.el
  ✓ Success:
-  2025-02-10T23:36:37+0000  flycheck-gradle-20190315.234.entry
-  2025-02-10T23:36:37+0000  flycheck-gradle-20190315.234.tar
-Built flycheck-gradle in 2.854s, finished at 2025-02-10T23:36:38+0000
+  2025-02-12T00:44:06+0000  flycheck-gradle-20190315.234.entry
+  2025-02-12T00:44:06+0000  flycheck-gradle-20190315.234.tar
+Built flycheck-gradle in 4.611s, finished at 2025-02-12T00:44:07+0000

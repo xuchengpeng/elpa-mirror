@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/attrap/
 Checking out bb61a4bc3d85a76e807f1ecede17031b51c8caed
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/attrap/
-  to /tmp/attrapF7sOPi/attrap-20230810.808
+  to /tmp/attrapvTQmjD/attrap-20230810.808
     attrap.el -> attrap.el
 Created attrap-20230810.808.tar containing:
   attrap-20230810.808/
   attrap-20230810.808/attrap-pkg.el
   attrap-20230810.808/attrap.el
  ✓ Success:
-  2025-02-10T23:15:53+0000  attrap-20230810.808.entry
-  2025-02-10T23:15:53+0000  attrap-20230810.808.tar
-Built attrap in 5.676s, finished at 2025-02-10T23:15:55+0000
+  2025-02-12T00:23:08+0000  attrap-20230810.808.entry
+  2025-02-12T00:23:08+0000  attrap-20230810.808.tar
+Built attrap in 5.178s, finished at 2025-02-12T00:23:10+0000

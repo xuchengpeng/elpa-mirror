@@ -3,16 +3,16 @@ Fetcher: gitlab
 Source:  https://gitlab.com/slotThe/change-env
 
 Updating /mnt/store/melpa/working/latex-change-env/
-Checking out 8b6bcd562c8ba5753551f7a6837b01b562b6439a
+Checking out c39f8fbc6c378e6969bd94a19213f548c88a949c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/latex-change-env/
-  to /tmp/latex-change-envekuWre/latex-change-env-20240318.855
+  to /tmp/latex-change-envMIG6nm/latex-change-env-20250210.637
     latex-change-env.el -> latex-change-env.el
-Created latex-change-env-20240318.855.tar containing:
-  latex-change-env-20240318.855/
-  latex-change-env-20240318.855/latex-change-env-pkg.el
-  latex-change-env-20240318.855/latex-change-env.el
+Created latex-change-env-20250210.637.tar containing:
+  latex-change-env-20250210.637/
+  latex-change-env-20250210.637/latex-change-env-pkg.el
+  latex-change-env-20250210.637/latex-change-env.el
  ✓ Success:
-  2025-02-10T23:52:30+0000  latex-change-env-20240318.855.entry
-  2025-02-10T23:52:29+0000  latex-change-env-20240318.855.tar
-Built latex-change-env in 3.975s, finished at 2025-02-10T23:52:30+0000
+  2025-02-11T22:31:32+0000  latex-change-env-20250210.637.entry
+  2025-02-11T22:31:32+0000  latex-change-env-20250210.637.tar
+Built latex-change-env in 4.016s, finished at 2025-02-11T22:31:33+0000

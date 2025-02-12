@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/opener/
 Checking out c384f67278046fdcd220275fdd212ab85672cbeb
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/opener/
-  to /tmp/opener3U0L7Z/opener-20161207.1810
+  to /tmp/openerAOW26W/opener-20161207.1810
     opener.el -> opener.el
     opener.texi -> opener.texi
 Generating opener.info
@@ -17,6 +17,6 @@ Created opener-20161207.1810.tar containing:
   opener-20161207.1810/opener.el
   opener-20161207.1810/opener.info
  ✓ Success:
-  2025-02-11T00:02:25+0000  opener-20161207.1810.entry
-  2025-02-11T00:02:25+0000  opener-20161207.1810.tar
-Built opener in 4.380s, finished at 2025-02-11T00:02:26+0000
+  2025-02-11T22:41:44+0000  opener-20161207.1810.entry
+  2025-02-11T22:41:44+0000  opener-20161207.1810.tar
+Built opener in 4.155s, finished at 2025-02-11T22:41:45+0000

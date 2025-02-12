@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/bbatsov/crux
 
 Updating /mnt/store/melpa/working/crux/
-Checking out 6ed75a69f542fb7feab6b8f182caf0924b3fb510
+Checking out 519c2907c31259cd07b45264a7c2b885881be1d8
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/crux/
-  to /tmp/cruxPd8kw5/crux-20240401.1136
+  to /tmp/cruxshVkLN/crux-20250211.1142
     crux.el -> crux.el
-Created crux-20240401.1136.tar containing:
-  crux-20240401.1136/
-  crux-20240401.1136/crux-pkg.el
-  crux-20240401.1136/crux.el
+Created crux-20250211.1142.tar containing:
+  crux-20250211.1142/
+  crux-20250211.1142/crux-pkg.el
+  crux-20250211.1142/crux.el
  ✓ Success:
-  2025-02-10T23:24:27+0000  crux-20240401.1136.entry
-  2025-02-10T23:24:27+0000  crux-20240401.1136.tar
-Built crux in 3.332s, finished at 2025-02-10T23:24:28+0000
+  2025-02-12T00:31:52+0000  crux-20250211.1142.entry
+  2025-02-12T00:31:51+0000  crux-20250211.1142.tar
+Built crux in 3.650s, finished at 2025-02-12T00:31:53+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/auth-source-kwallet/
 Checking out 57335d80876a526adb63a5ab57b83f55e8d79953
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/auth-source-kwallet/
-  to /tmp/auth-source-kwallet20QfNj/auth-source-kwallet-20210605.1032
+  to /tmp/auth-source-kwallet4gQf9k/auth-source-kwallet-20210605.1032
     auth-source-kwallet.el -> auth-source-kwallet.el
 Created auth-source-kwallet-20210605.1032.tar containing:
   auth-source-kwallet-20210605.1032/
   auth-source-kwallet-20210605.1032/auth-source-kwallet-pkg.el
   auth-source-kwallet-20210605.1032/auth-source-kwallet.el
  ✓ Success:
-  2025-02-10T23:16:04+0000  auth-source-kwallet-20210605.1032.entry
-  2025-02-10T23:16:04+0000  auth-source-kwallet-20210605.1032.tar
-Built auth-source-kwallet in 3.073s, finished at 2025-02-10T23:16:05+0000
+  2025-02-12T00:23:20+0000  auth-source-kwallet-20210605.1032.entry
+  2025-02-12T00:23:20+0000  auth-source-kwallet-20210605.1032.tar
+Built auth-source-kwallet in 4.647s, finished at 2025-02-12T00:23:22+0000

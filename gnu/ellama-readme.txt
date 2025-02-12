@@ -128,228 +128,249 @@
   (`C-u') will start new session with llm model interactive selection.
 
 
-1.2.2 ellama-chat-send-last-message
+1.2.2 ellama-write
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+
+  This command allows you to generate text using an LLM. When called
+  interactively, it prompts for an instruction that is then used to
+  generate text based on the context. If a region is active, the
+  selected text is added to the context before generating the response.
+
+
+1.2.3 ellama-chat-send-last-message
 ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 
   Send last user message extracted from current ellama chat buffer.
 
 
-1.2.3 ellama-ask-about
+1.2.4 ellama-ask-about
 ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 
   Ask Ellama about a selected region or the current buffer.
 
 
-1.2.4 ellama-ask-selection
+1.2.5 ellama-ask-selection
 ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 
   Send selected region or current buffer to ellama chat.
 
 
-1.2.5 ellama-ask-line
+1.2.6 ellama-ask-line
 ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 
   Send current line to ellama chat.
 
 
-1.2.6 ellama-complete
+1.2.7 ellama-complete
 ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 
   Complete text in current buffer with ellama.
 
 
-1.2.7 ellama-translate
+1.2.8 ellama-translate
 ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 
   Ask Ellama to translate a selected region or word at the point.
 
 
-1.2.8 ellama-translate-buffer
+1.2.9 ellama-translate-buffer
 ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 
   Translate current buffer.
 
 
-1.2.9 ellama-define-word
-╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+1.2.10 ellama-define-word
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 
   Find the definition of the current word using Ellama.
 
 
-1.2.10 ellama-summarize
+1.2.11 ellama-summarize
 ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 
   Summarize a selected region or the current buffer using Ellama.
 
 
-1.2.11 ellama-summarize-killring
+1.2.12 ellama-summarize-killring
 ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 
   Summarize text from the kill ring.
 
 
-1.2.12 ellama-code-review
+1.2.13 ellama-code-review
 ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 
   Review code in a selected region or the current buffer using Ellama.
 
 
-1.2.13 ellama-change
+1.2.14 ellama-change
 ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 
   Change text in a selected region or the current buffer according to a
   provided change.
 
 
-1.2.14 ellama-make-list
+1.2.15 ellama-make-list
 ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 
   Create a markdown list from the active region or the current buffer
   using Ellama.
 
 
-1.2.15 ellama-make-table
+1.2.16 ellama-make-table
 ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 
   Create a markdown table from the active region or the current buffer
   using Ellama.
 
 
-1.2.16 ellama-summarize-webpage
+1.2.17 ellama-summarize-webpage
 ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 
   Summarize a webpage fetched from a URL using Ellama.
 
 
-1.2.17 ellama-provider-select
+1.2.18 ellama-provider-select
 ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 
   Select ellama provider.
 
 
-1.2.18 ellama-code-complete
+1.2.19 ellama-code-complete
 ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 
   Complete selected code or code in the current buffer according to a
   provided change using Ellama.
 
 
-1.2.19 ellama-code-add
+1.2.20 ellama-code-add
 ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 
   Add new code according to a description, generating it with a provided
   context from the selected region or the current buffer using Ellama.
 
 
-1.2.20 ellama-code-edit
+1.2.21 ellama-code-edit
 ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 
   Change selected code or code in the current buffer according to a
   provided change using Ellama.
 
 
-1.2.21 ellama-code-improve
+1.2.22 ellama-code-improve
 ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 
   Change selected code or code in the current buffer according to a
   provided change using Ellama.
 
 
-1.2.22 ellama-generate-commit-message
+1.2.23 ellama-generate-commit-message
 ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 
   Generate commit message based on diff.
 
 
-1.2.23 ellama-improve-wording
+1.2.24 ellama-proofread
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+
+  Proofread selected text.
+
+
+1.2.25 ellama-improve-wording
 ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 
   Enhance the wording in the currently selected region or buffer using
   Ellama.
 
 
-1.2.24 ellama-improve-grammar
+1.2.26 ellama-improve-grammar
 ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 
   Enhance the grammar and spelling in the currently selected region or
   buffer using Ellama.
 
 
-1.2.25 ellama-improve-conciseness
+1.2.27 ellama-improve-conciseness
 ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 
   Make the text of the currently selected region or buffer concise and
   simple using Ellama.
 
 
-1.2.26 ellama-make-format
+1.2.28 ellama-make-format
 ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 
   Render the currently selected text or the text in the current buffer
   as a specified format using Ellama.
 
 
-1.2.27 ellama-load-session
+1.2.29 ellama-load-session
 ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 
   Load ellama session from file.
 
 
-1.2.28 ellama-session-remove
+1.2.30 ellama-session-remove
 ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 
   Remove ellama session.
 
 
-1.2.29 ellama-session-switch
+1.2.31 ellama-session-switch
 ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 
   Change current active session.
 
 
-1.2.30 ellama-session-rename
+1.2.32 ellama-session-rename
 ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 
   Rename current ellama session.
 
 
-1.2.31 ellama-context-add-file
+1.2.33 ellama-context-add-file
 ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 
   Add file to context.
 
 
-1.2.32 ellama-context-add-buffer
+1.2.34 ellama-context-add-buffer
 ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 
   Add buffer to context.
 
 
-1.2.33 ellama-context-add-selection
+1.2.35 ellama-context-add-selection
 ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 
   Add selected region to context.
 
 
-1.2.34 ellama-context-add-info-node
+1.2.36 ellama-context-add-info-node
 ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 
   Add info node to context.
 
 
-1.2.35 ellama-chat-translation-enable
+1.2.37 ellama-context-reset
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+
+  Clear global context.
+
+
+1.2.38 ellama-chat-translation-enable
 ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 
   Chat translation enable.
 
 
-1.2.36 ellama-chat-translation-disable
+1.2.39 ellama-chat-translation-disable
 ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 
   Chat translation disable.
 
 
-1.2.37 ellama-solve-reasoning-problem
+1.2.40 ellama-solve-reasoning-problem
 ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 
   Solve reasoning problem with [Absctraction of Thought] technique. It
@@ -363,7 +384,7 @@
 [phi3-mini] <https://ollama.com/library/phi3>
 
 
-1.2.38 ellama-solve-domain-specific-problem
+1.2.41 ellama-solve-domain-specific-problem
 ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 
   Solve domain specific problem with simple chain. It makes LLMs act
@@ -379,6 +400,7 @@
   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
    Keymap  Function                         Description                  
   ───────────────────────────────────────────────────────────────────────
+   "w"     ellama-write                     Write                        
    "c c"   ellama-code-complete             Code complete                
    "c a"   ellama-code-add                  Code add                     
    "c e"   ellama-code-edit                 Code edit                    
@@ -392,6 +414,7 @@
    "s r"   ellama-session-rename            Session rename               
    "s d"   ellama-session-remove            Session delete               
    "s a"   ellama-session-switch            Session activate             
+   "P"     ellama-proofread                 Proofread                    
    "i w"   ellama-improve-wording           Improve wording              
    "i g"   ellama-improve-grammar           Improve grammar and spelling 
    "i c"   ellama-improve-conciseness       Improve conciseness          
@@ -412,6 +435,7 @@
    "x f"   ellama-context-add-file          Context add file             
    "x s"   ellama-context-add-selection     Context add selection        
    "x i"   ellama-context-add-info-node     Context add info node        
+   "x r"   ellama-context-reset             Context reset                
    "p s"   ellama-provider-select           Provider select              
   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -475,6 +499,14 @@
   • `ellama-translate-italic': Translate italic during markdown to org
     transformations. Enabled by default.
   • `ellama-extraction-provider': LLM provider for data extraction.
+  • `ellama-text-display-limit': Limit for text display in context
+    elements.
+  • `ellama-context-poshandler': Position handler for displaying context
+    buffer.  `posframe-poshandler-frame-top-center' will be used if not
+    set.
+  • `ellama-context-border-width': Border width for the context buffer.
+  • `ellama-context-element-padding-size': Padding size for context
+    elements.
 
 
 [zephyr] <https://ollama.ai/library/zephyr>

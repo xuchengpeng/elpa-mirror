@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/calibredb/
 Checking out 807eb6397bc6fe61defd54efaf170e783853eace
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/calibredb/
-  to /tmp/calibredbXGtGrV/calibredb-20250210.1435
+  to /tmp/calibredb5sr175/calibredb-20250210.1435
     calibredb-annotation.el -> calibredb-annotation.el
     calibredb-consult.el -> calibredb-consult.el
     calibredb-core.el -> calibredb-core.el
@@ -41,6 +41,6 @@ Created calibredb-20250210.1435.tar containing:
   calibredb-20250210.1435/calibredb-utils.el
   calibredb-20250210.1435/calibredb.el
  ✓ Success:
-  2025-02-10T23:19:12+0000  calibredb-20250210.1435.entry
-  2025-02-10T23:19:12+0000  calibredb-20250210.1435.tar
-Built calibredb in 4.064s, finished at 2025-02-10T23:19:13+0000
+  2025-02-12T00:26:32+0000  calibredb-20250210.1435.entry
+  2025-02-12T00:26:32+0000  calibredb-20250210.1435.tar
+Built calibredb in 3.621s, finished at 2025-02-12T00:26:33+0000
