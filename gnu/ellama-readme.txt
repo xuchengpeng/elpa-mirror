@@ -246,8 +246,10 @@
 1.2.20 ellama-code-add
 ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 
-  Add new code according to a description, generating it with a provided
-  context from the selected region or the current buffer using Ellama.
+  Generate and insert new code based on description. This function
+  prompts the user to describe the code they want to generate. If a
+  region is active, it includes the selected text as context for code
+  generation.
 
 
 1.2.21 ellama-code-edit

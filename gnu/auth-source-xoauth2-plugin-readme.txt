@@ -26,11 +26,16 @@
 <https://stackoverflow.com/a/76389679/2337550>
 
 
-2 Setup
-═══════
+2 Installation
+══════════════
 
-  To set up, please put this file in the `load-path' of Emacs, and add
-  the following lines in your Emacs configuration:
+  `auth-source-xoauth2-plugin' is on [GNU ELPA], and you can install it
+  with `package-install' (see also [the Emacs document on how to use
+  package-install]).  Or you can clone the repository or simply download
+  the `auth-source-xoauth2-plugin.el' file and put it anywhere in your
+  Emacs' `load-path'.
+
+  Then add the following lines in your Emacs configuration:
 
   ┌────
   │ (require 'auth-source-xoauth2-plugin)
@@ -61,14 +66,6 @@
   To disable, just toggle the minor mode off by calling `M-x
   auth-source-xoauth2-plugin-mode' again.
 
-  auth-source uses the `secret' field in auth-source file as password
-  for authentication, including xoauth2.  To decide which authentication
-  method to use (e.g. plain password vs xoauth2), it inspects the `auth'
-  field from the auth-source entry, and if the value is `xoauth2', it
-  will try to gather data and get the access token for use of xoauth2
-  authentication; otherwise, it will fallback to the default
-  authentication method.
-
   When xoauth2 authentication is enabled, it will try to get the
   following data from the auth-source entry: `auth-url', `token-url',
   `scope', `client-id', `client-secret', `redirect-uri', and optionally
@@ -78,40 +75,44 @@
   settings):
 
   ┌────
-  │ {
-  │   "machine": "<your_imap_address_or_email>",
-  │   "login": "<your_email>",
-  │   "port": "imaps",
-  │   "auth": "xoauth2",
-  │   "auth-url": "https://accounts.google.com/o/oauth2/auth",
-  │   "token-url": "https://accounts.google.com/o/oauth2/token",
-  │   "client-id": "<the_client_id_from_your_app>",
-  │   "client-secret": "<the_client_secret_from_your_app>",
-  │   "redirect-uri": "https://oauth2.dance/",
-  │   "scope": "https://mail.google.com"
-  │ }
+  │ [
+  │   ...
+  │   {
+  │     "machine": "<your_imap_address_or_email>",
+  │     "login": "<your_email>",
+  │     "port": "imaps",
+  │     "auth": "xoauth2",
+  │     "auth-url": "https://accounts.google.com/o/oauth2/auth",
+  │     "token-url": "https://accounts.google.com/o/oauth2/token",
+  │     "client-id": "<the_client_id_from_your_app>",
+  │     "client-secret": "<the_client_secret_from_your_app>",
+  │     "redirect-uri": "https://oauth2.dance/",
+  │     "scope": "https://mail.google.com"
+  │   },
+  │   ...
+  │ ]
   └────
 
-  These information will be used by oauth2 to retrieve the access-token.
-  This package uses an advice to switch the auth-source search result
-  from the `password' to the `access-token' it got, which in turn will
-  be used to construct the xoauth2 authentication string, currently in
-  nnimap-login and smtpmail-try-auth-method.  To really enable xoauth2
-  in smtpmail, it will add \'xoauth2 to \'smtpmail-auth-supported (if it
-  is not already in the list) using `add-to-list' so that xoauth2 is
-  tried first.
+  It will then use `oauth2.el' to retrieve the access-token with those
+  information, use it to construct the oauth2 authentication string, and
+  let `auth-source' do the rest.
 
 
-2.1 Comparison with other xoauth2 implementations
-─────────────────────────────────────────────────
+[GNU ELPA]
+<https://elpa.gnu.org/packages/auth-source-xoauth2-plugin.html>
 
-[auth-source-xoauth2] <https://github.com/ccrusius/auth-source-xoauth2>
+[the Emacs document on how to use package-install]
+<https://www.gnu.org/software/emacs/manual/html_node/emacs/Package-Installation.html>
 
-2.1.1 [auth-source-xoauth2]
-╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 
-  This plugin takes inspirations from auth-source-xoauth2 to advice the
-  auth-source-search backends to add xoauth2 access-token for
+3 Comparison with other xoauth2 implementations
+═══════════════════════════════════════════════
+
+3.1 auth-source-xoauth2
+───────────────────────
+
+  This plugin takes inspirations from [auth-source-xoauth2] to advice
+  the auth-source-search backends to add xoauth2 access-token for
   authentication.  The implementation is independent and reuses many
   existing facilities in `auth-source.el', where auth-source-xoauth2
   reimplemented most of the required functions itself.
@@ -124,11 +125,51 @@
 [auth-source-xoauth2] <https://github.com/ccrusius/auth-source-xoauth2>
 
 
-2.2 Notes
-─────────
+4 Debugging
+═══════════
 
-  Currently the auth-source requires the searched entry must have
-  `secret' field set in the entry, which is not necessary when using
-  xoauth2.  Therefore in the advice it temporarily disables checking for
-  `:secret' if set and perform the search, and check the result before
-  returning.
+  In case you encounter any issues, you may consider enabling verbose
+  messages to help debugging.  `auth-source-xoauth2-plugin' uses the
+  same convention as `auth-source' for outputing verbose messages.  You
+  may do the following:
+
+  ┌────
+  │ (setq auth-source-debug t)
+  └────
+
+  and check the `*Message*' buffer for logs.  You can enable even more
+  verbose log by the following:
+
+  ┌────
+  │ (setq auth-source-debug 'trivia)
+  └────
+
+  NOTE: \'trivia will include your tokens for authentication in your
+  `*Message*' buffer so be careful not to share the log with untrusted
+  entities.
+
+
+5 Notes on Implementation
+═════════════════════════
+
+  `auth-source' uses the `secret' field in auth-source file as password
+  for authentication, including xoauth2.  To decide which authentication
+  method to use (e.g. plain password vs xoauth2), this plugin inspects
+  the `auth' field from the auth-source entry, and if the value is
+  `xoauth2', it will try to gather data and get the access token for use
+  of xoauth2 authentication; otherwise, it will fallback to the default
+  authentication method.
+
+  This package uses an advice to switch the auth-source search result
+  from the `password' to the `access-token' it got, which in turn will
+  be used to construct the xoauth2 authentication string, currently in
+  nnimap-login and smtpmail-try-auth-method.  To enable xoauth2 support
+  in smtpmail, it adds \'xoauth2 to \'smtpmail-auth-supported (if it is
+  not already in the list) using `add-to-list' so that xoauth2 is tried
+  first.
+
+  Note that currently `auth-source' requires the searched entry must
+  have `secret' field set in the entry, which is not necessarily true
+  when using xoauth2.  Therefore in the advice it temporarily disables
+  checking for `:secret' perform the search in the backend, and ensure
+  that `secret' contains the generated access-token before returning.

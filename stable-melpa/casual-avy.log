@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/casual-avy/
 Checking out 6716c12e9b7ba8325dab05d55c1ea5cc2b9a44f1
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/casual-avy/
-  to /tmp/casual-avy0tTrvH/casual-avy-20241217.1931
+  to /tmp/casual-avyUYag45/casual-avy-20241217.1931
   ! lisp/casual-avy-version.el -> casual-avy-version.el
   ! lisp/casual-avy.el -> casual-avy.el
 Created casual-avy-20241217.1931.tar containing:
@@ -15,6 +15,6 @@ Created casual-avy-20241217.1931.tar containing:
   casual-avy-20241217.1931/casual-avy-version.el
   casual-avy-20241217.1931/casual-avy.el
  ✓ Success:
-  2025-02-12T00:26:46+0000  casual-avy-20241217.1931.entry
-  2025-02-12T00:26:46+0000  casual-avy-20241217.1931.tar
-Built casual-avy in 3.861s, finished at 2025-02-12T00:26:47+0000
+  2025-02-12T23:05:55+0000  casual-avy-20241217.1931.entry
+  2025-02-12T23:05:55+0000  casual-avy-20241217.1931.tar
+Built casual-avy in 3.233s, finished at 2025-02-12T23:05:56+0000

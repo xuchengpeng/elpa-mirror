@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/anki-editor/
 Checking out 65b64b3c492aabae1289fff63120187b535a30ab
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/anki-editor/
-  to /tmp/anki-editorX4O37z/anki-editor-20250118.856
+  to /tmp/anki-editorJ9XTqM/anki-editor-20250118.856
     anki-editor-ui.el -> anki-editor-ui.el
     anki-editor.el -> anki-editor.el
 Created anki-editor-20250118.856.tar containing:
@@ -15,6 +15,6 @@ Created anki-editor-20250118.856.tar containing:
   anki-editor-20250118.856/anki-editor-ui.el
   anki-editor-20250118.856/anki-editor.el
  ✓ Success:
-  2025-02-12T00:22:12+0000  anki-editor-20250118.856.entry
-  2025-02-12T00:22:12+0000  anki-editor-20250118.856.tar
-Built anki-editor in 2.913s, finished at 2025-02-12T00:22:13+0000
+  2025-02-12T23:01:20+0000  anki-editor-20250118.856.entry
+  2025-02-12T23:01:20+0000  anki-editor-20250118.856.tar
+Built anki-editor in 2.800s, finished at 2025-02-12T23:01:21+0000

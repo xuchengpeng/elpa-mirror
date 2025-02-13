@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/dirvish/
 Checking out e7faf3916c5e74fef450ca4b338df03dabf34cda
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/dirvish/
-  to /tmp/dirvishbBWiKR/dirvish-20250211.540
+  to /tmp/dirvishqXeUu4/dirvish-20250211.540
     dirvish-extras.el -> dirvish-extras.el
     dirvish-tramp.el -> dirvish-tramp.el
     dirvish-widgets.el -> dirvish-widgets.el
@@ -47,6 +47,6 @@ Created dirvish-20250211.540.tar containing:
   dirvish-20250211.540/dirvish-yank.el
   dirvish-20250211.540/dirvish.el
  ✓ Success:
-  2025-02-12T00:34:44+0000  dirvish-20250211.540.entry
-  2025-02-12T00:34:44+0000  dirvish-20250211.540.tar
-Built dirvish in 6.622s, finished at 2025-02-12T00:34:46+0000
+  2025-02-12T23:13:48+0000  dirvish-20250211.540.entry
+  2025-02-12T23:13:48+0000  dirvish-20250211.540.tar
+Built dirvish in 6.220s, finished at 2025-02-12T23:13:49+0000

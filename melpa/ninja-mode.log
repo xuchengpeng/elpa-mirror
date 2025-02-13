@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/ninja-mode/
 Checking out 573c3aaedc6e90e9a8954bb70a24e079af7df390
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ninja-mode/
-  to /tmp/ninja-modeAbpr81/ninja-mode-20241103.1737
+  to /tmp/ninja-modeUl8CTo/ninja-mode-20241103.1737
     ninja-mode.el -> ninja-mode.el
 Created ninja-mode-20241103.1737.tar containing:
   ninja-mode-20241103.1737/
   ninja-mode-20241103.1737/ninja-mode-pkg.el
   ninja-mode-20241103.1737/ninja-mode.el
  ✓ Success:
-  2025-02-11T22:38:42+0000  ninja-mode-20241103.1737.entry
-  2025-02-11T22:38:42+0000  ninja-mode-20241103.1737.tar
-Built ninja-mode in 2.890s, finished at 2025-02-11T22:38:43+0000
+  2025-02-12T23:46:30+0000  ninja-mode-20241103.1737.entry
+  2025-02-12T23:46:29+0000  ninja-mode-20241103.1737.tar
+Built ninja-mode in 2.781s, finished at 2025-02-12T23:46:30+0000

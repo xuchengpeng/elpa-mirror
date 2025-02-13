@@ -3,10 +3,10 @@ Fetcher: github
 Source:  https://github.com/radian-software/apheleia
 
 Updating /mnt/store/melpa/working/apheleia/
-Checking out ba333e7ddce49fcbb34b7ad6e37ed880a90e4f4d
+Checking out d8ccc0ba0f127c11df39e79313a17bcb740359c0
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/apheleia/
-  to /tmp/apheleia6nIw5t/apheleia-20250207.2227
+  to /tmp/apheleiaSWpsS9/apheleia-20250212.2259
     apheleia-dp.el -> apheleia-dp.el
     apheleia-formatter-context.el -> apheleia-formatter-context.el
     apheleia-formatters.el -> apheleia-formatters.el
@@ -15,25 +15,27 @@ Copying files (->) and directories (=>)
     apheleia-utils.el -> apheleia-utils.el
     apheleia.el -> apheleia.el
     scripts/formatters => scripts/formatters
-Created apheleia-20250207.2227.tar containing:
-  apheleia-20250207.2227/
-  apheleia-20250207.2227/apheleia-dp.el
-  apheleia-20250207.2227/apheleia-formatter-context.el
-  apheleia-20250207.2227/apheleia-formatters.el
-  apheleia-20250207.2227/apheleia-log.el
-  apheleia-20250207.2227/apheleia-pkg.el
-  apheleia-20250207.2227/apheleia-rcs.el
-  apheleia-20250207.2227/apheleia-utils.el
-  apheleia-20250207.2227/apheleia.el
-  apheleia-20250207.2227/scripts/
-  apheleia-20250207.2227/scripts/formatters/
-  apheleia-20250207.2227/scripts/formatters/apheleia-docformatter
-  apheleia-20250207.2227/scripts/formatters/apheleia-from-project-root
-  apheleia-20250207.2227/scripts/formatters/apheleia-mix-format
-  apheleia-20250207.2227/scripts/formatters/apheleia-npx
-  apheleia-20250207.2227/scripts/formatters/apheleia-phpcs
-  apheleia-20250207.2227/scripts/formatters/pnp-bin.js
+Created apheleia-20250212.2259.tar containing:
+  apheleia-20250212.2259/
+  apheleia-20250212.2259/apheleia-dp.el
+  apheleia-20250212.2259/apheleia-formatter-context.el
+  apheleia-20250212.2259/apheleia-formatters.el
+  apheleia-20250212.2259/apheleia-log.el
+  apheleia-20250212.2259/apheleia-pkg.el
+  apheleia-20250212.2259/apheleia-rcs.el
+  apheleia-20250212.2259/apheleia-utils.el
+  apheleia-20250212.2259/apheleia.el
+  apheleia-20250212.2259/scripts/
+  apheleia-20250212.2259/scripts/formatters/
+  apheleia-20250212.2259/scripts/formatters/apheleia-docformatter
+  apheleia-20250212.2259/scripts/formatters/apheleia-from-project-root
+  apheleia-20250212.2259/scripts/formatters/apheleia-mix-format
+  apheleia-20250212.2259/scripts/formatters/apheleia-npx
+  apheleia-20250212.2259/scripts/formatters/apheleia-phpcs
+  apheleia-20250212.2259/scripts/formatters/pnp-bin.js
  ✓ Success:
-  2025-02-12T00:22:29+0000  apheleia-20250207.2227.entry
-  2025-02-12T00:22:29+0000  apheleia-20250207.2227.tar
-Built apheleia in 3.047s, finished at 2025-02-12T00:22:30+0000
+  2025-02-12T20:31:36+0000  apheleia-20250207.2227.entry
+  2025-02-12T20:31:36+0000  apheleia-20250207.2227.tar
+  2025-02-12T23:01:40+0000  apheleia-20250212.2259.entry
+  2025-02-12T23:01:40+0000  apheleia-20250212.2259.tar
+Built apheleia in 3.675s, finished at 2025-02-12T23:01:41+0000

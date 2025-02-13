@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/ct/
 Checking out 5dce87360e5a8c22e2ffde970ff4189cd7fa4138
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ct/
-  to /tmp/ctdxk12J/ct-20250205.1258
+  to /tmp/ctZHj7m5/ct-20250205.1258
     ct.el -> ct.el
 Created ct-20250205.1258.tar containing:
   ct-20250205.1258/
   ct-20250205.1258/ct-pkg.el
   ct-20250205.1258/ct.el
  ✓ Success:
-  2025-02-12T00:31:59+0000  ct-20250205.1258.entry
-  2025-02-12T00:31:59+0000  ct-20250205.1258.tar
-Built ct in 2.877s, finished at 2025-02-12T00:32:00+0000
+  2025-02-12T23:11:04+0000  ct-20250205.1258.entry
+  2025-02-12T23:11:04+0000  ct-20250205.1258.tar
+Built ct in 2.725s, finished at 2025-02-12T23:11:05+0000

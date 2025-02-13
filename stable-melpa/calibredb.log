@@ -3,15 +3,16 @@ Fetcher: github
 Source:  https://github.com/chenyanming/calibredb.el
 
 Updating /mnt/store/melpa/working/calibredb/
-Checking out 807eb6397bc6fe61defd54efaf170e783853eace
+Checking out bfad1491faf5e6c3d77f7543fb271f2ef1575d13
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/calibredb/
-  to /tmp/calibredb5sr175/calibredb-20250210.1435
+  to /tmp/calibredbBSDspe/calibredb-20250212.1628
     calibredb-annotation.el -> calibredb-annotation.el
     calibredb-consult.el -> calibredb-consult.el
     calibredb-core.el -> calibredb-core.el
     calibredb-dired.el -> calibredb-dired.el
     calibredb-faces.el -> calibredb-faces.el
+    calibredb-folder.el -> calibredb-folder.el
     calibredb-helm.el -> calibredb-helm.el
     calibredb-ivy.el -> calibredb-ivy.el
     calibredb-library.el -> calibredb-library.el
@@ -22,25 +23,26 @@ Copying files (->) and directories (=>)
     calibredb-transient.el -> calibredb-transient.el
     calibredb-utils.el -> calibredb-utils.el
     calibredb.el -> calibredb.el
-Created calibredb-20250210.1435.tar containing:
-  calibredb-20250210.1435/
-  calibredb-20250210.1435/calibredb-annotation.el
-  calibredb-20250210.1435/calibredb-consult.el
-  calibredb-20250210.1435/calibredb-core.el
-  calibredb-20250210.1435/calibredb-dired.el
-  calibredb-20250210.1435/calibredb-faces.el
-  calibredb-20250210.1435/calibredb-helm.el
-  calibredb-20250210.1435/calibredb-ivy.el
-  calibredb-20250210.1435/calibredb-library.el
-  calibredb-20250210.1435/calibredb-opds.el
-  calibredb-20250210.1435/calibredb-org.el
-  calibredb-20250210.1435/calibredb-pkg.el
-  calibredb-20250210.1435/calibredb-search.el
-  calibredb-20250210.1435/calibredb-show.el
-  calibredb-20250210.1435/calibredb-transient.el
-  calibredb-20250210.1435/calibredb-utils.el
-  calibredb-20250210.1435/calibredb.el
+Created calibredb-20250212.1628.tar containing:
+  calibredb-20250212.1628/
+  calibredb-20250212.1628/calibredb-annotation.el
+  calibredb-20250212.1628/calibredb-consult.el
+  calibredb-20250212.1628/calibredb-core.el
+  calibredb-20250212.1628/calibredb-dired.el
+  calibredb-20250212.1628/calibredb-faces.el
+  calibredb-20250212.1628/calibredb-folder.el
+  calibredb-20250212.1628/calibredb-helm.el
+  calibredb-20250212.1628/calibredb-ivy.el
+  calibredb-20250212.1628/calibredb-library.el
+  calibredb-20250212.1628/calibredb-opds.el
+  calibredb-20250212.1628/calibredb-org.el
+  calibredb-20250212.1628/calibredb-pkg.el
+  calibredb-20250212.1628/calibredb-search.el
+  calibredb-20250212.1628/calibredb-show.el
+  calibredb-20250212.1628/calibredb-transient.el
+  calibredb-20250212.1628/calibredb-utils.el
+  calibredb-20250212.1628/calibredb.el
  ✓ Success:
-  2025-02-12T00:26:32+0000  calibredb-20250210.1435.entry
-  2025-02-12T00:26:32+0000  calibredb-20250210.1435.tar
-Built calibredb in 3.621s, finished at 2025-02-12T00:26:33+0000
+  2025-02-12T23:05:42+0000  calibredb-20250212.1628.entry
+  2025-02-12T23:05:42+0000  calibredb-20250212.1628.tar
+Built calibredb in 3.533s, finished at 2025-02-12T23:05:43+0000

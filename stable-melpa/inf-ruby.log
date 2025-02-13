@@ -6,15 +6,13 @@ Updating /mnt/store/melpa/working/inf-ruby/
 Checking out b8076aad10dfb0ba1e3a8b0d39c2b370dbe96ab0
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/inf-ruby/
-  to /tmp/inf-rubyuSUb9x/inf-ruby-20250212.29
+  to /tmp/inf-ruby3VHiUj/inf-ruby-20250212.29
     inf-ruby.el -> inf-ruby.el
 Created inf-ruby-20250212.29.tar containing:
   inf-ruby-20250212.29/
   inf-ruby-20250212.29/inf-ruby-pkg.el
   inf-ruby-20250212.29/inf-ruby.el
  ✓ Success:
-  2025-02-11T22:27:13+0000  inf-ruby-20241220.251.entry
-  2025-02-11T22:27:13+0000  inf-ruby-20241220.251.tar
-  2025-02-12T00:55:20+0000  inf-ruby-20250212.29.entry
-  2025-02-12T00:55:20+0000  inf-ruby-20250212.29.tar
-Built inf-ruby in 3.538s, finished at 2025-02-12T00:55:21+0000
+  2025-02-12T23:34:46+0000  inf-ruby-20250212.29.entry
+  2025-02-12T23:34:45+0000  inf-ruby-20250212.29.tar
+Built inf-ruby in 3.308s, finished at 2025-02-12T23:34:46+0000

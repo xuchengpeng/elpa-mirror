@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/auth-source-gopass/
 Checking out 6f7f0cc0d682f66d11f7fac4fa5c1e79904232da
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/auth-source-gopass/
-  to /tmp/auth-source-gopassQQL4HQ/auth-source-gopass-20230109.1213
+  to /tmp/auth-source-gopassf9wbNR/auth-source-gopass-20230109.1213
     auth-source-gopass.el -> auth-source-gopass.el
 Created auth-source-gopass-20230109.1213.tar containing:
   auth-source-gopass-20230109.1213/
   auth-source-gopass-20230109.1213/auth-source-gopass-pkg.el
   auth-source-gopass-20230109.1213/auth-source-gopass.el
  ✓ Success:
-  2025-02-12T00:23:20+0000  auth-source-gopass-20230109.1213.entry
-  2025-02-12T00:23:20+0000  auth-source-gopass-20230109.1213.tar
-Built auth-source-gopass in 4.583s, finished at 2025-02-12T00:23:21+0000
+  2025-02-12T23:02:20+0000  auth-source-gopass-20230109.1213.entry
+  2025-02-12T23:02:20+0000  auth-source-gopass-20230109.1213.tar
+Built auth-source-gopass in 3.095s, finished at 2025-02-12T23:02:21+0000

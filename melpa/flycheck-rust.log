@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/flycheck-rust/
 Checking out d499471ec433a62898a95ce76561964e3d015ce5
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/flycheck-rust/
-  to /tmp/flycheck-rustjE7tpP/flycheck-rust-20250101.902
+  to /tmp/flycheck-rustz1ONob/flycheck-rust-20250101.902
     flycheck-rust.el -> flycheck-rust.el
 Created flycheck-rust-20250101.902.tar containing:
   flycheck-rust-20250101.902/
   flycheck-rust-20250101.902/flycheck-rust-pkg.el
   flycheck-rust-20250101.902/flycheck-rust.el
  ✓ Success:
-  2025-02-12T00:44:42+0000  flycheck-rust-20250101.902.entry
-  2025-02-12T00:44:42+0000  flycheck-rust-20250101.902.tar
-Built flycheck-rust in 2.885s, finished at 2025-02-12T00:44:43+0000
+  2025-02-12T23:23:47+0000  flycheck-rust-20250101.902.entry
+  2025-02-12T23:23:47+0000  flycheck-rust-20250101.902.tar
+Built flycheck-rust in 3.158s, finished at 2025-02-12T23:23:48+0000

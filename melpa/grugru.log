@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/grugru/
 Checking out 3f1bc431f4dc919a7b04e519f1c8add9fb2949f3
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/grugru/
-  to /tmp/grugruXUO73Y/grugru-20231202.250
+  to /tmp/grugruCvN4WF/grugru-20231202.250
     grugru-default.el -> grugru-default.el
     grugru-utils.el -> grugru-utils.el
     grugru.el -> grugru.el
@@ -17,6 +17,6 @@ Created grugru-20231202.250.tar containing:
   grugru-20231202.250/grugru-utils.el
   grugru-20231202.250/grugru.el
  ✓ Success:
-  2025-02-12T00:49:47+0000  grugru-20231202.250.entry
-  2025-02-12T00:49:47+0000  grugru-20231202.250.tar
-Built grugru in 3.058s, finished at 2025-02-12T00:49:48+0000
+  2025-02-12T23:28:56+0000  grugru-20231202.250.entry
+  2025-02-12T23:28:56+0000  grugru-20231202.250.tar
+Built grugru in 3.147s, finished at 2025-02-12T23:28:57+0000
