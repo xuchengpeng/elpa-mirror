@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/js-pkg-mode/
 Checking out d2a609a6cfa0a00d6a96e53e124542e464ccc192
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/js-pkg-mode/
-  to /tmp/js-pkg-mode4hpSj7/js-pkg-mode-20241211.744
+  to /tmp/js-pkg-modec2cwSm/js-pkg-mode-20241211.744
     js-pkg-mode.el -> js-pkg-mode.el
 Created js-pkg-mode-20241211.744.tar containing:
   js-pkg-mode-20241211.744/
   js-pkg-mode-20241211.744/js-pkg-mode-pkg.el
   js-pkg-mode-20241211.744/js-pkg-mode.el
  ✓ Success:
-  2025-02-12T23:37:04+0000  js-pkg-mode-20241211.744.entry
-  2025-02-12T23:37:04+0000  js-pkg-mode-20241211.744.tar
-Built js-pkg-mode in 4.693s, finished at 2025-02-12T23:37:05+0000
+  2025-02-13T23:25:42+0000  js-pkg-mode-20241211.744.entry
+  2025-02-13T23:25:42+0000  js-pkg-mode-20241211.744.tar
+Built js-pkg-mode in 2.564s, finished at 2025-02-13T23:25:43+0000

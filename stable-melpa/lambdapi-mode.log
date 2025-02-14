@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/lambdapi-mode/
 Checking out 00c63619580c2bf679ec6ee85ba5161da8cd2cb7
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/lambdapi-mode/
-  to /tmp/lambdapi-modeQUx6Tp/lambdapi-mode-20250212.807
+  to /tmp/lambdapi-mode0ZrDkh/lambdapi-mode-20250212.807
   ! editors/emacs/lambdapi-abbrev.el -> lambdapi-abbrev.el
   ! editors/emacs/lambdapi-capf.el -> lambdapi-capf.el
   ! editors/emacs/lambdapi-input.el -> lambdapi-input.el
@@ -27,6 +27,6 @@ Created lambdapi-mode-20250212.807.tar containing:
   lambdapi-mode-20250212.807/lambdapi-smie.el
   lambdapi-mode-20250212.807/lambdapi-vars.el
  ✓ Success:
-  2025-02-12T23:38:56+0000  lambdapi-mode-20250212.807.entry
-  2025-02-12T23:38:55+0000  lambdapi-mode-20250212.807.tar
-Built lambdapi-mode in 3.750s, finished at 2025-02-12T23:38:56+0000
+  2025-02-13T23:27:35+0000  lambdapi-mode-20250212.807.entry
+  2025-02-13T23:27:35+0000  lambdapi-mode-20250212.807.tar
+Built lambdapi-mode in 3.454s, finished at 2025-02-13T23:27:36+0000

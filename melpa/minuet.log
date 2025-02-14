@@ -6,15 +6,13 @@ Updating /mnt/store/melpa/working/minuet/
 Checking out 5be76e84484bd150b30a2f304e120134155f50c0
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/minuet/
-  to /tmp/minuet3YfIPO/minuet-20250212.2307
+  to /tmp/minueteczCoF/minuet-20250212.2307
     minuet.el -> minuet.el
 Created minuet-20250212.2307.tar containing:
   minuet-20250212.2307/
   minuet-20250212.2307/minuet-pkg.el
   minuet-20250212.2307/minuet.el
  ✓ Success:
-  2025-02-12T21:15:33+0000  minuet-20250210.621.entry
-  2025-02-12T21:15:33+0000  minuet-20250210.621.tar
-  2025-02-12T23:44:05+0000  minuet-20250212.2307.entry
-  2025-02-12T23:44:05+0000  minuet-20250212.2307.tar
-Built minuet in 3.111s, finished at 2025-02-12T23:44:06+0000
+  2025-02-13T23:32:44+0000  minuet-20250212.2307.entry
+  2025-02-13T23:32:44+0000  minuet-20250212.2307.tar
+Built minuet in 3.405s, finished at 2025-02-13T23:32:45+0000

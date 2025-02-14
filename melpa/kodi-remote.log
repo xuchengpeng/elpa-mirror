@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/kodi-remote/
 Checking out f5e932036c16e2b61a63020e006fc601e38d181e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/kodi-remote/
-  to /tmp/kodi-remoteye1m5X/kodi-remote-20190622.1325
+  to /tmp/kodi-remotemamphX/kodi-remote-20190622.1325
     kodi-remote.el -> kodi-remote.el
 Created kodi-remote-20190622.1325.tar containing:
   kodi-remote-20190622.1325/
   kodi-remote-20190622.1325/kodi-remote-pkg.el
   kodi-remote-20190622.1325/kodi-remote.el
  ✓ Success:
-  2025-02-12T23:38:33+0000  kodi-remote-20190622.1325.entry
-  2025-02-12T23:38:33+0000  kodi-remote-20190622.1325.tar
-Built kodi-remote in 3.134s, finished at 2025-02-12T23:38:34+0000
+  2025-02-13T23:27:11+0000  kodi-remote-20190622.1325.entry
+  2025-02-13T23:27:11+0000  kodi-remote-20190622.1325.tar
+Built kodi-remote in 2.703s, finished at 2025-02-13T23:27:12+0000

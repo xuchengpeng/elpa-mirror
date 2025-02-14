@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/mc-calc/
 Checking out 74a046a5728919a4d1135ca62738326b0dde278c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mc-calc/
-  to /tmp/mc-calc2znJX0/mc-calc-20200420.1836
+  to /tmp/mc-calcM9I20g/mc-calc-20200420.1836
     mc-calc.el -> mc-calc.el
 Created mc-calc-20200420.1836.tar containing:
   mc-calc-20200420.1836/
   mc-calc-20200420.1836/mc-calc-pkg.el
   mc-calc-20200420.1836/mc-calc.el
  ✓ Success:
-  2025-02-12T23:42:50+0000  mc-calc-20200420.1836.entry
-  2025-02-12T23:42:50+0000  mc-calc-20200420.1836.tar
-Built mc-calc in 4.440s, finished at 2025-02-12T23:42:52+0000
+  2025-02-13T23:31:41+0000  mc-calc-20200420.1836.entry
+  2025-02-13T23:31:41+0000  mc-calc-20200420.1836.tar
+Built mc-calc in 2.812s, finished at 2025-02-13T23:31:42+0000

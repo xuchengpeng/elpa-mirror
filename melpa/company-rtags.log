@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/company-rtags/
 Checking out 74bd7db18411c15aa66f817184a61dfafb5ce2df
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/company-rtags/
-  to /tmp/company-rtagsqx9ROx/company-rtags-20250211.1817
+  to /tmp/company-rtagsbkaJ0n/company-rtags-20250211.1817
   ! src/company-rtags.el -> company-rtags.el
 Created company-rtags-20250211.1817.tar containing:
   company-rtags-20250211.1817/
   company-rtags-20250211.1817/company-rtags-pkg.el
   company-rtags-20250211.1817/company-rtags.el
  ✓ Success:
-  2025-02-12T23:09:16+0000  company-rtags-20250211.1817.entry
-  2025-02-12T23:09:16+0000  company-rtags-20250211.1817.tar
-Built company-rtags in 3.285s, finished at 2025-02-12T23:09:17+0000
+  2025-02-13T22:56:50+0000  company-rtags-20250211.1817.entry
+  2025-02-13T22:56:50+0000  company-rtags-20250211.1817.tar
+Built company-rtags in 2.983s, finished at 2025-02-13T22:56:51+0000

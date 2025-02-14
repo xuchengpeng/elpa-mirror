@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/inputrc-mode/
 Checking out 2ccf09ae19f3cbb2b8c35dcd54ed333d688fffae
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/inputrc-mode/
-  to /tmp/inputrc-modet46uck/inputrc-mode-20241109.10
+  to /tmp/inputrc-modeu1wkpX/inputrc-mode-20241109.10
     inputrc-mode.el -> inputrc-mode.el
 Created inputrc-mode-20241109.10.tar containing:
   inputrc-mode-20241109.10/
   inputrc-mode-20241109.10/inputrc-mode-pkg.el
   inputrc-mode-20241109.10/inputrc-mode.el
  ✓ Success:
-  2025-02-12T23:35:02+0000  inputrc-mode-20241109.10.entry
-  2025-02-12T23:35:02+0000  inputrc-mode-20241109.10.tar
-Built inputrc-mode in 3.200s, finished at 2025-02-12T23:35:03+0000
+  2025-02-13T23:23:36+0000  inputrc-mode-20241109.10.entry
+  2025-02-13T23:23:36+0000  inputrc-mode-20241109.10.tar
+Built inputrc-mode in 2.586s, finished at 2025-02-13T23:23:36+0000

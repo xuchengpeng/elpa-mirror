@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/dictionary/
 Checking out bdf0aa7761d1c1a3bc0652b2fdc4a54b3acdb06a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/dictionary/
-  to /tmp/dictionaryKoeVrc/dictionary-20201001.1727
+  to /tmp/dictionary5OIzgJ/dictionary-20201001.1727
     dictionary.el -> dictionary.el
 Created dictionary-20201001.1727.tar containing:
   dictionary-20201001.1727/
   dictionary-20201001.1727/dictionary-pkg.el
   dictionary-20201001.1727/dictionary.el
  ✓ Success:
-  2025-02-12T23:12:37+0000  dictionary-20201001.1727.entry
-  2025-02-12T23:12:37+0000  dictionary-20201001.1727.tar
-Built dictionary in 2.791s, finished at 2025-02-12T23:12:38+0000
+  2025-02-13T23:00:18+0000  dictionary-20201001.1727.entry
+  2025-02-13T23:00:18+0000  dictionary-20201001.1727.tar
+Built dictionary in 2.980s, finished at 2025-02-13T23:00:19+0000

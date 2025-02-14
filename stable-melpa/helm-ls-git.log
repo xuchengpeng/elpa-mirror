@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/emacs-helm/helm-ls-git
 
 Updating /mnt/store/melpa/working/helm-ls-git/
-Checking out d6d061704f375f809a2ee7644149a28e8770b35f
+Checking out cc57f4ccb9c4b18eabd27dafd70ef4decdd7c91f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/helm-ls-git/
-  to /tmp/helm-ls-gitAopvWQ/helm-ls-git-20250127.2041
+  to /tmp/helm-ls-gitnKiTyC/helm-ls-git-20250213.512
     helm-ls-git.el -> helm-ls-git.el
-Created helm-ls-git-20250127.2041.tar containing:
-  helm-ls-git-20250127.2041/
-  helm-ls-git-20250127.2041/helm-ls-git-pkg.el
-  helm-ls-git-20250127.2041/helm-ls-git.el
+Created helm-ls-git-20250213.512.tar containing:
+  helm-ls-git-20250213.512/
+  helm-ls-git-20250213.512/helm-ls-git-pkg.el
+  helm-ls-git-20250213.512/helm-ls-git.el
  ✓ Success:
-  2025-02-12T23:31:01+0000  helm-ls-git-20250127.2041.entry
-  2025-02-12T23:31:01+0000  helm-ls-git-20250127.2041.tar
-Built helm-ls-git in 5.241s, finished at 2025-02-12T23:31:03+0000
+  2025-02-13T23:19:45+0000  helm-ls-git-20250213.512.entry
+  2025-02-13T23:19:45+0000  helm-ls-git-20250213.512.tar
+Built helm-ls-git in 3.104s, finished at 2025-02-13T23:19:46+0000

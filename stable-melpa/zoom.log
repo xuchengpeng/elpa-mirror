@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/zoom/
 Checking out 950ff02112a1440093764d78b78ed95b855075ce
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/zoom/
-  to /tmp/zoom6g8fzv/zoom-20250212.1249
+  to /tmp/zoomrFFo2V/zoom-20250212.1249
     zoom.el -> zoom.el
 Created zoom-20250212.1249.tar containing:
   zoom-20250212.1249/
   zoom-20250212.1249/zoom-pkg.el
   zoom-20250212.1249/zoom.el
  ✓ Success:
-  2025-02-13T00:16:33+0000  zoom-20250212.1249.entry
-  2025-02-13T00:16:33+0000  zoom-20250212.1249.tar
-Built zoom in 4.456s, finished at 2025-02-13T00:16:35+0000
+  2025-02-14T00:05:08+0000  zoom-20250212.1249.entry
+  2025-02-14T00:05:08+0000  zoom-20250212.1249.tar
+Built zoom in 2.763s, finished at 2025-02-14T00:05:09+0000

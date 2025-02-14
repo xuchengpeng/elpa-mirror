@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/sideline/
 Checking out 06565011f7f91fb819567f0a7b9974ba2c256199
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/sideline/
-  to /tmp/sidelinewavHP3/sideline-20250131.2055
+  to /tmp/sidelineoDeqs2/sideline-20250131.2055
     sideline.el -> sideline.el
 Created sideline-20250131.2055.tar containing:
   sideline-20250131.2055/
   sideline-20250131.2055/sideline-pkg.el
   sideline-20250131.2055/sideline.el
  ✓ Success:
-  2025-02-13T00:03:23+0000  sideline-20250131.2055.entry
-  2025-02-13T00:03:22+0000  sideline-20250131.2055.tar
-Built sideline in 3.282s, finished at 2025-02-13T00:03:24+0000
+  2025-02-13T23:52:09+0000  sideline-20250131.2055.entry
+  2025-02-13T23:52:09+0000  sideline-20250131.2055.tar
+Built sideline in 1.586s, finished at 2025-02-13T23:52:09+0000

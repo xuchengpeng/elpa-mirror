@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/flymake-golangci/
 Checking out dfc31a1a6ae3f087b49fe6f5f21b3866780aa91c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/flymake-golangci/
-  to /tmp/flymake-golangci0jMSKv/flymake-golangci-20191028.1927
+  to /tmp/flymake-golangciGWdrZG/flymake-golangci-20191028.1927
     flymake-golangci.el -> flymake-golangci.el
 Created flymake-golangci-20191028.1927.tar containing:
   flymake-golangci-20191028.1927/
   flymake-golangci-20191028.1927/flymake-golangci-pkg.el
   flymake-golangci-20191028.1927/flymake-golangci.el
  ✓ Success:
-  2025-02-12T23:24:14+0000  flymake-golangci-20191028.1927.entry
-  2025-02-12T23:24:14+0000  flymake-golangci-20191028.1927.tar
-Built flymake-golangci in 3.275s, finished at 2025-02-12T23:24:15+0000
+  2025-02-13T23:12:15+0000  flymake-golangci-20191028.1927.entry
+  2025-02-13T23:12:15+0000  flymake-golangci-20191028.1927.tar
+Built flymake-golangci in 3.560s, finished at 2025-02-13T23:12:16+0000

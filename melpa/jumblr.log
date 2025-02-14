@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/jumblr/
 Checking out 34533dfb9db8538c005f4eaffafeff7ed193729f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/jumblr/
-  to /tmp/jumblr6DVwMU/jumblr-20170727.2043
+  to /tmp/jumblrv8Sk2j/jumblr-20170727.2043
     jumblr.el -> jumblr.el
     dict => dict
 Created jumblr-20170727.2043.tar containing:
@@ -19,6 +19,6 @@ Created jumblr-20170727.2043.tar containing:
   jumblr-20170727.2043/jumblr-pkg.el
   jumblr-20170727.2043/jumblr.el
  ✓ Success:
-  2025-02-12T23:37:31+0000  jumblr-20170727.2043.entry
-  2025-02-12T23:37:31+0000  jumblr-20170727.2043.tar
-Built jumblr in 2.910s, finished at 2025-02-12T23:37:32+0000
+  2025-02-13T23:26:06+0000  jumblr-20170727.2043.entry
+  2025-02-13T23:26:06+0000  jumblr-20170727.2043.tar
+Built jumblr in 2.789s, finished at 2025-02-13T23:26:07+0000

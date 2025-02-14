@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/helm-dogears/
 Checking out 7ba83bd8924cec66fe3ede3334e98b1845e6852e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/helm-dogears/
-  to /tmp/helm-dogearsMPlwAo/helm-dogears-20230608.356
+  to /tmp/helm-dogearsABbKRd/helm-dogears-20230608.356
     helm-dogears.el -> helm-dogears.el
 Created helm-dogears-20230608.356.tar containing:
   helm-dogears-20230608.356/
   helm-dogears-20230608.356/helm-dogears-pkg.el
   helm-dogears-20230608.356/helm-dogears.el
  ✓ Success:
-  2025-02-12T23:30:13+0000  helm-dogears-20230608.356.entry
-  2025-02-12T23:30:13+0000  helm-dogears-20230608.356.tar
-Built helm-dogears in 2.907s, finished at 2025-02-12T23:30:14+0000
+  2025-02-13T23:19:02+0000  helm-dogears-20230608.356.entry
+  2025-02-13T23:19:02+0000  helm-dogears-20230608.356.tar
+Built helm-dogears in 5.348s, finished at 2025-02-13T23:19:04+0000

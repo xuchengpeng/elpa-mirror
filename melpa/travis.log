@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/travis/
 Checking out c8769d3db10ed4604969049e3bd276afa0a0138e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/travis/
-  to /tmp/travisl2BNIg/travis-20150825.1138
+  to /tmp/travisL3DEni/travis-20150825.1138
     travis-api.el -> travis-api.el
     travis-auth.el -> travis-auth.el
     travis-builds.el -> travis-builds.el
@@ -31,6 +31,6 @@ Created travis-20150825.1138.tar containing:
   travis-20150825.1138/travis-version.el
   travis-20150825.1138/travis.el
  ✓ Success:
-  2025-02-13T00:09:51+0000  travis-20150825.1138.entry
-  2025-02-13T00:09:51+0000  travis-20150825.1138.tar
-Built travis in 3.596s, finished at 2025-02-13T00:09:52+0000
+  2025-02-13T23:58:33+0000  travis-20150825.1138.entry
+  2025-02-13T23:58:33+0000  travis-20150825.1138.tar
+Built travis in 5.954s, finished at 2025-02-13T23:58:35+0000

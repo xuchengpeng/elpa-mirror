@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/dart-mode/
 Checking out 61e01142352f6813aca6512bedadb5007de3a0b9
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/dart-mode/
-  to /tmp/dart-modeNqssvB/dart-mode-20231002.1138
+  to /tmp/dart-modeMEj9mr/dart-mode-20231002.1138
     dart-mode.el -> dart-mode.el
 Created dart-mode-20231002.1138.tar containing:
   dart-mode-20231002.1138/
   dart-mode-20231002.1138/dart-mode-pkg.el
   dart-mode-20231002.1138/dart-mode.el
  ✓ Success:
-  2025-02-12T23:11:43+0000  dart-mode-20231002.1138.entry
-  2025-02-12T23:11:43+0000  dart-mode-20231002.1138.tar
-Built dart-mode in 3.072s, finished at 2025-02-12T23:11:44+0000
+  2025-02-13T22:59:22+0000  dart-mode-20231002.1138.entry
+  2025-02-13T22:59:22+0000  dart-mode-20231002.1138.tar
+Built dart-mode in 3.227s, finished at 2025-02-13T22:59:23+0000
