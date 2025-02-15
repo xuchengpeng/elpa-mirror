@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/dir-config/
 Checking out 97f127fd2dfb36c854e9455ccc5dc7b953286409
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/dir-config/
-  to /tmp/dir-config0uyo8B/dir-config-20250121.2019
+  to /tmp/dir-configTZn61S/dir-config-20250121.2019
     dir-config.el -> dir-config.el
 Created dir-config-20250121.2019.tar containing:
   dir-config-20250121.2019/
   dir-config-20250121.2019/dir-config-pkg.el
   dir-config-20250121.2019/dir-config.el
  ✓ Success:
-  2025-02-13T23:00:35+0000  dir-config-20250121.2019.entry
-  2025-02-13T23:00:35+0000  dir-config-20250121.2019.tar
-Built dir-config in 3.723s, finished at 2025-02-13T23:00:36+0000
+  2025-02-15T00:22:46+0000  dir-config-20250121.2019.entry
+  2025-02-15T00:22:46+0000  dir-config-20250121.2019.tar
+Built dir-config in 0.778s, finished at 2025-02-15T00:22:46+0000

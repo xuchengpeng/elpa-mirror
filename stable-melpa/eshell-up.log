@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/eshell-up/
 Checking out 1999afaa509204b780db44e99ac9648fe7d92d32
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/eshell-up/
-  to /tmp/eshell-upPhdm0v/eshell-up-20240226.1747
+  to /tmp/eshell-upqbTZvy/eshell-up-20240226.1747
     eshell-up.el -> eshell-up.el
 Created eshell-up-20240226.1747.tar containing:
   eshell-up-20240226.1747/
   eshell-up-20240226.1747/eshell-up-pkg.el
   eshell-up-20240226.1747/eshell-up.el
  ✓ Success:
-  2025-02-13T23:07:03+0000  eshell-up-20240226.1747.entry
-  2025-02-13T23:07:02+0000  eshell-up-20240226.1747.tar
-Built eshell-up in 6.207s, finished at 2025-02-13T23:07:04+0000
+  2025-02-15T00:29:31+0000  eshell-up-20240226.1747.entry
+  2025-02-15T00:29:31+0000  eshell-up-20240226.1747.tar
+Built eshell-up in 2.481s, finished at 2025-02-15T00:29:32+0000

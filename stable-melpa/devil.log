@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/devil/
 Checking out dd29681fe07f37c4acbff32a5767bddcbf3b5b80
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/devil/
-  to /tmp/deviltCAM7D/devil-20240107.2149
+  to /tmp/devilZ7I76A/devil-20240107.2149
     devil.el -> devil.el
 Created devil-20240107.2149.tar containing:
   devil-20240107.2149/
   devil-20240107.2149/devil-pkg.el
   devil-20240107.2149/devil.el
  ✓ Success:
-  2025-02-13T23:00:13+0000  devil-20240107.2149.entry
-  2025-02-13T23:00:12+0000  devil-20240107.2149.tar
-Built devil in 3.183s, finished at 2025-02-13T23:00:13+0000
+  2025-02-15T00:22:06+0000  devil-20240107.2149.entry
+  2025-02-15T00:22:06+0000  devil-20240107.2149.tar
+Built devil in 1.058s, finished at 2025-02-15T00:22:06+0000

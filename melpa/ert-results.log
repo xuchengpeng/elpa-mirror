@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/ert-results/
 Checking out 32200a195f68c25a013497329d85ae0703ab475d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ert-results/
-  to /tmp/ert-resultshni9Zh/ert-results-20240108.1358
+  to /tmp/ert-resultsp96sVY/ert-results-20240108.1358
     ert-results.el -> ert-results.el
 Created ert-results-20240108.1358.tar containing:
   ert-results-20240108.1358/
   ert-results-20240108.1358/ert-results-pkg.el
   ert-results-20240108.1358/ert-results.el
  ✓ Success:
-  2025-02-13T23:06:36+0000  ert-results-20240108.1358.entry
-  2025-02-13T23:06:36+0000  ert-results-20240108.1358.tar
-Built ert-results in 3.462s, finished at 2025-02-13T23:06:38+0000
+  2025-02-15T00:29:15+0000  ert-results-20240108.1358.entry
+  2025-02-15T00:29:15+0000  ert-results-20240108.1358.tar
+Built ert-results in 2.028s, finished at 2025-02-15T00:29:16+0000
