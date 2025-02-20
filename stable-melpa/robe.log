@@ -3,31 +3,31 @@ Fetcher: github
 Source:  https://github.com/dgutov/robe
 
 Updating /mnt/store/melpa/working/robe/
-Checking out 175d97f6321f9247d2831df9119f3bf376f5b572
+Checking out 73a78e55394c1c70c11f9354ef52e7ffce31547c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/robe/
-  to /tmp/robeshwktl/robe-20241226.520
+  to /tmp/robeamWQiQ/robe-20250219.1910
     robe.el -> robe.el
     lib => lib
-Created robe-20241226.520.tar containing:
-  robe-20241226.520/
-  robe-20241226.520/lib/
-  robe-20241226.520/lib/robe.rb
-  robe-20241226.520/lib/robe/
-  robe-20241226.520/lib/robe/core_ext.rb
-  robe-20241226.520/lib/robe/jvisor.rb
-  robe-20241226.520/lib/robe/sash.rb
-  robe-20241226.520/lib/robe/sash/
-  robe-20241226.520/lib/robe/sash/const_locations.rb
-  robe-20241226.520/lib/robe/sash/doc_for.rb
-  robe-20241226.520/lib/robe/sash/includes_tracker.rb
-  robe-20241226.520/lib/robe/scanners.rb
-  robe-20241226.520/lib/robe/server.rb
-  robe-20241226.520/lib/robe/type_space.rb
-  robe-20241226.520/lib/robe/visor.rb
-  robe-20241226.520/robe-pkg.el
-  robe-20241226.520/robe.el
+Created robe-20250219.1910.tar containing:
+  robe-20250219.1910/
+  robe-20250219.1910/lib/
+  robe-20250219.1910/lib/robe.rb
+  robe-20250219.1910/lib/robe/
+  robe-20250219.1910/lib/robe/core_ext.rb
+  robe-20250219.1910/lib/robe/jvisor.rb
+  robe-20250219.1910/lib/robe/sash.rb
+  robe-20250219.1910/lib/robe/sash/
+  robe-20250219.1910/lib/robe/sash/const_locations.rb
+  robe-20250219.1910/lib/robe/sash/doc_for.rb
+  robe-20250219.1910/lib/robe/sash/includes_tracker.rb
+  robe-20250219.1910/lib/robe/scanners.rb
+  robe-20250219.1910/lib/robe/server.rb
+  robe-20250219.1910/lib/robe/type_space.rb
+  robe-20250219.1910/lib/robe/visor.rb
+  robe-20250219.1910/robe-pkg.el
+  robe-20250219.1910/robe.el
  ✓ Success:
-  2025-02-19T00:21:21+0000  robe-20241226.520.entry
-  2025-02-19T00:21:21+0000  robe-20241226.520.tar
-Built robe in 3.554s, finished at 2025-02-19T00:21:22+0000
+  2025-02-20T00:45:33+0000  robe-20250219.1910.entry
+  2025-02-20T00:45:33+0000  robe-20250219.1910.tar
+Built robe in 3.166s, finished at 2025-02-20T00:45:34+0000
