@@ -3,16 +3,3 @@ Fetcher: github
 Source:  https://github.com/isamert/jsdoc.el
 
 Updating /mnt/store/melpa/working/jsdoc/
-Checking out 623994bb50d845de487c100f5cd393ce1d792460
-Copying files (->) and directories (=>)
-  from /mnt/store/melpa/working/jsdoc/
-  to /tmp/jsdocD7TD40/jsdoc-20241227.1219
-    jsdoc.el -> jsdoc.el
-Created jsdoc-20241227.1219.tar containing:
-  jsdoc-20241227.1219/
-  jsdoc-20241227.1219/jsdoc-pkg.el
-  jsdoc-20241227.1219/jsdoc.el
- ✓ Success:
-  2025-02-20T00:21:46+0000  jsdoc-20241227.1219.entry
-  2025-02-20T00:21:46+0000  jsdoc-20241227.1219.tar
-Built jsdoc in 2.831s, finished at 2025-02-20T00:21:46+0000
