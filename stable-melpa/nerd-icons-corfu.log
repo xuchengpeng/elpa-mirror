@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/LuigiPiucco/nerd-icons-corfu
 
 Updating /mnt/store/melpa/working/nerd-icons-corfu/
-Checking out 41110180ceab9d0edaa856d19633b2b3fdf82e75
+Checking out 0a932e89cf88f300fa37f70944d73acc8bc0676c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/nerd-icons-corfu/
-  to /tmp/nerd-icons-corfupUKRHV/nerd-icons-corfu-20241202.2355
+  to /tmp/nerd-icons-corfur0FQ6X/nerd-icons-corfu-20250221.1641
     nerd-icons-corfu.el -> nerd-icons-corfu.el
-Created nerd-icons-corfu-20241202.2355.tar containing:
-  nerd-icons-corfu-20241202.2355/
-  nerd-icons-corfu-20241202.2355/nerd-icons-corfu-pkg.el
-  nerd-icons-corfu-20241202.2355/nerd-icons-corfu.el
+Created nerd-icons-corfu-20250221.1641.tar containing:
+  nerd-icons-corfu-20250221.1641/
+  nerd-icons-corfu-20250221.1641/nerd-icons-corfu-pkg.el
+  nerd-icons-corfu-20250221.1641/nerd-icons-corfu.el
  ✓ Success:
-  2025-02-20T22:39:05+0000  nerd-icons-corfu-20241202.2355.entry
-  2025-02-20T22:39:05+0000  nerd-icons-corfu-20241202.2355.tar
-Built nerd-icons-corfu in 2.969s, finished at 2025-02-20T22:39:06+0000
+  2025-02-21T22:57:26+0000  nerd-icons-corfu-20250221.1641.entry
+  2025-02-21T22:57:26+0000  nerd-icons-corfu-20250221.1641.tar
+Built nerd-icons-corfu in 2.913s, finished at 2025-02-21T22:57:27+0000
