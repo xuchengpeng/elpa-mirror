@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/SqrtMinusOne/exwm-modeline
 
 Updating /mnt/store/melpa/working/exwm-modeline/
-Checking out f72e65818f90c754edb8d0dcff47e8248a7f0a56
+Checking out c933baccb8535a81ebae06a5dc4245b801c47f06
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/exwm-modeline/
-  to /tmp/exwm-modelineI08kGE/exwm-modeline-20231225.2340
+  to /tmp/exwm-modelineIryYHG/exwm-modeline-20250222.1334
     exwm-modeline.el -> exwm-modeline.el
-Created exwm-modeline-20231225.2340.tar containing:
-  exwm-modeline-20231225.2340/
-  exwm-modeline-20231225.2340/exwm-modeline-pkg.el
-  exwm-modeline-20231225.2340/exwm-modeline.el
+Created exwm-modeline-20250222.1334.tar containing:
+  exwm-modeline-20250222.1334/
+  exwm-modeline-20250222.1334/exwm-modeline-pkg.el
+  exwm-modeline-20250222.1334/exwm-modeline.el
  ✓ Success:
-  2025-02-21T22:33:01+0000  exwm-modeline-20231225.2340.entry
-  2025-02-21T22:33:01+0000  exwm-modeline-20231225.2340.tar
-Built exwm-modeline in 3.431s, finished at 2025-02-21T22:33:02+0000
+  2025-02-22T23:14:34+0000  exwm-modeline-20250222.1334.entry
+  2025-02-22T23:14:34+0000  exwm-modeline-20250222.1334.tar
+Built exwm-modeline in 3.297s, finished at 2025-02-22T23:14:35+0000
