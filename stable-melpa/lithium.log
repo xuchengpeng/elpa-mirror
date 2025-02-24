@@ -1,0 +1,18 @@
+Package: lithium
+Fetcher: github
+Source:  https://github.com/countvajhula/lithium
+
+Cloning https://github.com/countvajhula/lithium to /mnt/store/melpa/working/lithium/
+Checking out 97cc8d1fe68bab02f95ede45e35dc1d2f37e54b3
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/lithium/
+  to /tmp/lithiumBSov1e/lithium-20250219.417
+    lithium.el -> lithium.el
+Created lithium-20250219.417.tar containing:
+  lithium-20250219.417/
+  lithium-20250219.417/lithium-pkg.el
+  lithium-20250219.417/lithium.el
+ ✓ Success:
+  2025-02-24T00:34:50+0000  lithium-20250219.417.entry
+  2025-02-24T00:34:50+0000  lithium-20250219.417.tar
+Built lithium in 2.609s, finished at 2025-02-24T00:34:51+0000

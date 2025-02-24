@@ -3,16 +3,20 @@ Fetcher: github
 Source:  https://github.com/s-kostyaev/ellama
 
 Updating /mnt/store/melpa/working/ellama/
-Checking out 1c52902d4de4933b61cd3a3bcdd3f74cadd31f9f
+Checking out c1b51834c95bc843bde2e694cc3ed51163df2191
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ellama/
-  to /tmp/ellamasis9dc/ellama-20250222.1416
+  to /tmp/ellamaBkZLDm/ellama-20250223.2136
+    ellama-community-prompts.el -> ellama-community-prompts.el
     ellama.el -> ellama.el
-Created ellama-20250222.1416.tar containing:
-  ellama-20250222.1416/
-  ellama-20250222.1416/ellama-pkg.el
-  ellama-20250222.1416/ellama.el
+Created ellama-20250223.2136.tar containing:
+  ellama-20250223.2136/
+  ellama-20250223.2136/ellama-community-prompts.el
+  ellama-20250223.2136/ellama-pkg.el
+  ellama-20250223.2136/ellama.el
  ✓ Success:
-  2025-02-22T23:09:56+0000  ellama-20250222.1416.entry
-  2025-02-22T23:09:56+0000  ellama-20250222.1416.tar
-Built ellama in 3.432s, finished at 2025-02-22T23:09:57+0000
+  2025-02-23T21:28:50+0000  ellama-20250223.1046.entry
+  2025-02-23T21:28:49+0000  ellama-20250223.1046.tar
+  2025-02-24T00:08:48+0000  ellama-20250223.2136.entry
+  2025-02-24T00:08:48+0000  ellama-20250223.2136.tar
+Built ellama in 3.457s, finished at 2025-02-24T00:08:49+0000
