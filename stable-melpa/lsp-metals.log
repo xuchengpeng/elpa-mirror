@@ -3,75 +3,75 @@ Fetcher: github
 Source:  https://github.com/emacs-lsp/lsp-metals
 
 Updating /mnt/store/melpa/working/lsp-metals/
-Checking out d0e4fafe041912055860905b97af5c8e93d29584
+Checking out 95e48501fc809d8f94d131b3779e57727cd7609c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/lsp-metals/
-  to /tmp/lsp-metals6MdTDI/lsp-metals-20250217.1555
+  to /tmp/lsp-metalsuep7IP/lsp-metals-20250224.1407
     lsp-metals-protocol.el -> lsp-metals-protocol.el
     lsp-metals-treeview.el -> lsp-metals-treeview.el
     lsp-metals.el -> lsp-metals.el
     icons => icons
-Created lsp-metals-20250217.1555.tar containing:
-  lsp-metals-20250217.1555/
-  lsp-metals-20250217.1555/icons/
-  lsp-metals-20250217.1555/icons/book-dark.png
-  lsp-metals-20250217.1555/icons/book-light.png
-  lsp-metals-20250217.1555/icons/bug-dark.png
-  lsp-metals-20250217.1555/icons/bug-light.png
-  lsp-metals-20250217.1555/icons/cancel-dark.png
-  lsp-metals-20250217.1555/icons/cancel-light.png
-  lsp-metals-20250217.1555/icons/cascade-dark.png
-  lsp-metals-20250217.1555/icons/cascade-light.png
-  lsp-metals-20250217.1555/icons/class.png
-  lsp-metals-20250217.1555/icons/clean-all-dark.png
-  lsp-metals-20250217.1555/icons/clean-all-light.png
-  lsp-metals-20250217.1555/icons/clean-dark.png
-  lsp-metals-20250217.1555/icons/clean-light.png
-  lsp-metals-20250217.1555/icons/close-dark.png
-  lsp-metals-20250217.1555/icons/close-light.png
-  lsp-metals-20250217.1555/icons/compile-dark.png
-  lsp-metals-20250217.1555/icons/compile-light.png
-  lsp-metals-20250217.1555/icons/connect-dark.png
-  lsp-metals-20250217.1555/icons/connect-light.png
-  lsp-metals-20250217.1555/icons/debug-stop-dark.png
-  lsp-metals-20250217.1555/icons/debug-stop-light.png
-  lsp-metals-20250217.1555/icons/discord-dark.png
-  lsp-metals-20250217.1555/icons/discord-light.png
-  lsp-metals-20250217.1555/icons/doctor.png
-  lsp-metals-20250217.1555/icons/empty-window-dark.png
-  lsp-metals-20250217.1555/icons/empty-window-light.png
-  lsp-metals-20250217.1555/icons/enum.png
-  lsp-metals-20250217.1555/icons/exception-dark.png
-  lsp-metals-20250217.1555/icons/exception-light.png
-  lsp-metals-20250217.1555/icons/field.png
-  lsp-metals-20250217.1555/icons/focus-dark.png
-  lsp-metals-20250217.1555/icons/focus-light.png
-  lsp-metals-20250217.1555/icons/github-dark.png
-  lsp-metals-20250217.1555/icons/github-light.png
-  lsp-metals-20250217.1555/icons/gitter-dark.png
-  lsp-metals-20250217.1555/icons/gitter-light.png
-  lsp-metals-20250217.1555/icons/info-dark.png
-  lsp-metals-20250217.1555/icons/info-light.png
-  lsp-metals-20250217.1555/icons/interface.png
-  lsp-metals-20250217.1555/icons/issue-opened-dark.png
-  lsp-metals-20250217.1555/icons/issue-opened-light.png
-  lsp-metals-20250217.1555/icons/location-dark.png
-  lsp-metals-20250217.1555/icons/location-light.png
-  lsp-metals-20250217.1555/icons/logo.png
-  lsp-metals-20250217.1555/icons/method.png
-  lsp-metals-20250217.1555/icons/object.png
-  lsp-metals-20250217.1555/icons/sync-dark.png
-  lsp-metals-20250217.1555/icons/sync-light.png
-  lsp-metals-20250217.1555/icons/trait.png
-  lsp-metals-20250217.1555/icons/twitter-dark.png
-  lsp-metals-20250217.1555/icons/twitter-light.png
-  lsp-metals-20250217.1555/icons/val.png
-  lsp-metals-20250217.1555/icons/var.png
-  lsp-metals-20250217.1555/lsp-metals-pkg.el
-  lsp-metals-20250217.1555/lsp-metals-protocol.el
-  lsp-metals-20250217.1555/lsp-metals-treeview.el
-  lsp-metals-20250217.1555/lsp-metals.el
+Created lsp-metals-20250224.1407.tar containing:
+  lsp-metals-20250224.1407/
+  lsp-metals-20250224.1407/icons/
+  lsp-metals-20250224.1407/icons/book-dark.png
+  lsp-metals-20250224.1407/icons/book-light.png
+  lsp-metals-20250224.1407/icons/bug-dark.png
+  lsp-metals-20250224.1407/icons/bug-light.png
+  lsp-metals-20250224.1407/icons/cancel-dark.png
+  lsp-metals-20250224.1407/icons/cancel-light.png
+  lsp-metals-20250224.1407/icons/cascade-dark.png
+  lsp-metals-20250224.1407/icons/cascade-light.png
+  lsp-metals-20250224.1407/icons/class.png
+  lsp-metals-20250224.1407/icons/clean-all-dark.png
+  lsp-metals-20250224.1407/icons/clean-all-light.png
+  lsp-metals-20250224.1407/icons/clean-dark.png
+  lsp-metals-20250224.1407/icons/clean-light.png
+  lsp-metals-20250224.1407/icons/close-dark.png
+  lsp-metals-20250224.1407/icons/close-light.png
+  lsp-metals-20250224.1407/icons/compile-dark.png
+  lsp-metals-20250224.1407/icons/compile-light.png
+  lsp-metals-20250224.1407/icons/connect-dark.png
+  lsp-metals-20250224.1407/icons/connect-light.png
+  lsp-metals-20250224.1407/icons/debug-stop-dark.png
+  lsp-metals-20250224.1407/icons/debug-stop-light.png
+  lsp-metals-20250224.1407/icons/discord-dark.png
+  lsp-metals-20250224.1407/icons/discord-light.png
+  lsp-metals-20250224.1407/icons/doctor.png
+  lsp-metals-20250224.1407/icons/empty-window-dark.png
+  lsp-metals-20250224.1407/icons/empty-window-light.png
+  lsp-metals-20250224.1407/icons/enum.png
+  lsp-metals-20250224.1407/icons/exception-dark.png
+  lsp-metals-20250224.1407/icons/exception-light.png
+  lsp-metals-20250224.1407/icons/field.png
+  lsp-metals-20250224.1407/icons/focus-dark.png
+  lsp-metals-20250224.1407/icons/focus-light.png
+  lsp-metals-20250224.1407/icons/github-dark.png
+  lsp-metals-20250224.1407/icons/github-light.png
+  lsp-metals-20250224.1407/icons/gitter-dark.png
+  lsp-metals-20250224.1407/icons/gitter-light.png
+  lsp-metals-20250224.1407/icons/info-dark.png
+  lsp-metals-20250224.1407/icons/info-light.png
+  lsp-metals-20250224.1407/icons/interface.png
+  lsp-metals-20250224.1407/icons/issue-opened-dark.png
+  lsp-metals-20250224.1407/icons/issue-opened-light.png
+  lsp-metals-20250224.1407/icons/location-dark.png
+  lsp-metals-20250224.1407/icons/location-light.png
+  lsp-metals-20250224.1407/icons/logo.png
+  lsp-metals-20250224.1407/icons/method.png
+  lsp-metals-20250224.1407/icons/object.png
+  lsp-metals-20250224.1407/icons/sync-dark.png
+  lsp-metals-20250224.1407/icons/sync-light.png
+  lsp-metals-20250224.1407/icons/trait.png
+  lsp-metals-20250224.1407/icons/twitter-dark.png
+  lsp-metals-20250224.1407/icons/twitter-light.png
+  lsp-metals-20250224.1407/icons/val.png
+  lsp-metals-20250224.1407/icons/var.png
+  lsp-metals-20250224.1407/lsp-metals-pkg.el
+  lsp-metals-20250224.1407/lsp-metals-protocol.el
+  lsp-metals-20250224.1407/lsp-metals-treeview.el
+  lsp-metals-20250224.1407/lsp-metals.el
  ✓ Success:
-  2025-02-24T00:35:41+0000  lsp-metals-20250217.1555.entry
-  2025-02-24T00:35:40+0000  lsp-metals-20250217.1555.tar
-Built lsp-metals in 3.667s, finished at 2025-02-24T00:35:42+0000
+  2025-02-24T22:13:58+0000  lsp-metals-20250224.1407.entry
+  2025-02-24T22:13:57+0000  lsp-metals-20250224.1407.tar
+Built lsp-metals in 3.428s, finished at 2025-02-24T22:13:59+0000

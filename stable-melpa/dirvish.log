@@ -3,10 +3,10 @@ Fetcher: github
 Source:  https://github.com/alexluigit/dirvish
 
 Updating /mnt/store/melpa/working/dirvish/
-Checking out f6b19df63954b615ae4860bd43528cbad30526df
+Checking out a104ff7a240aa0d324d04eacff8a89e39fffccb5
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/dirvish/
-  to /tmp/dirvish4VqIV6/dirvish-20250222.1512
+  to /tmp/dirvishAwXP9k/dirvish-20250224.1620
     dirvish-extras.el -> dirvish-extras.el
     dirvish-tramp.el -> dirvish-tramp.el
     dirvish-widgets.el -> dirvish-widgets.el
@@ -25,28 +25,28 @@ Copying files (->) and directories (=>)
   ! extensions/dirvish-subtree.el -> dirvish-subtree.el
   ! extensions/dirvish-vc.el -> dirvish-vc.el
   ! extensions/dirvish-yank.el -> dirvish-yank.el
-Created dirvish-20250222.1512.tar containing:
-  dirvish-20250222.1512/
-  dirvish-20250222.1512/dirvish-collapse.el
-  dirvish-20250222.1512/dirvish-emerge.el
-  dirvish-20250222.1512/dirvish-extras.el
-  dirvish-20250222.1512/dirvish-fd.el
-  dirvish-20250222.1512/dirvish-history.el
-  dirvish-20250222.1512/dirvish-icons.el
-  dirvish-20250222.1512/dirvish-ls.el
-  dirvish-20250222.1512/dirvish-narrow.el
-  dirvish-20250222.1512/dirvish-peek.el
-  dirvish-20250222.1512/dirvish-pkg.el
-  dirvish-20250222.1512/dirvish-quick-access.el
-  dirvish-20250222.1512/dirvish-rsync.el
-  dirvish-20250222.1512/dirvish-side.el
-  dirvish-20250222.1512/dirvish-subtree.el
-  dirvish-20250222.1512/dirvish-tramp.el
-  dirvish-20250222.1512/dirvish-vc.el
-  dirvish-20250222.1512/dirvish-widgets.el
-  dirvish-20250222.1512/dirvish-yank.el
-  dirvish-20250222.1512/dirvish.el
+Created dirvish-20250224.1620.tar containing:
+  dirvish-20250224.1620/
+  dirvish-20250224.1620/dirvish-collapse.el
+  dirvish-20250224.1620/dirvish-emerge.el
+  dirvish-20250224.1620/dirvish-extras.el
+  dirvish-20250224.1620/dirvish-fd.el
+  dirvish-20250224.1620/dirvish-history.el
+  dirvish-20250224.1620/dirvish-icons.el
+  dirvish-20250224.1620/dirvish-ls.el
+  dirvish-20250224.1620/dirvish-narrow.el
+  dirvish-20250224.1620/dirvish-peek.el
+  dirvish-20250224.1620/dirvish-pkg.el
+  dirvish-20250224.1620/dirvish-quick-access.el
+  dirvish-20250224.1620/dirvish-rsync.el
+  dirvish-20250224.1620/dirvish-side.el
+  dirvish-20250224.1620/dirvish-subtree.el
+  dirvish-20250224.1620/dirvish-tramp.el
+  dirvish-20250224.1620/dirvish-vc.el
+  dirvish-20250224.1620/dirvish-widgets.el
+  dirvish-20250224.1620/dirvish-yank.el
+  dirvish-20250224.1620/dirvish.el
  ✓ Success:
-  2025-02-24T00:04:57+0000  dirvish-20250222.1512.entry
-  2025-02-24T00:04:57+0000  dirvish-20250222.1512.tar
-Built dirvish in 6.667s, finished at 2025-02-24T00:04:59+0000
+  2025-02-25T00:29:18+0000  dirvish-20250224.1620.entry
+  2025-02-25T00:29:18+0000  dirvish-20250224.1620.tar
+Built dirvish in 4.268s, finished at 2025-02-25T00:29:19+0000
