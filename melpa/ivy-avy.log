@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/abo-abo/swiper
 
 Updating /mnt/store/melpa/working/ivy-avy/
-Checking out 749ac1235a7948011cb0caddd4c31037e3314614
+Checking out 7a0d554aaf4ebbb2c45f2451d77747df4f7e2742
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ivy-avy/
-  to /tmp/ivy-avye5TJi5/ivy-avy-20240214.2118
+  to /tmp/ivy-avyHuWWxR/ivy-avy-20250224.2125
     ivy-avy.el -> ivy-avy.el
-Created ivy-avy-20240214.2118.tar containing:
-  ivy-avy-20240214.2118/
-  ivy-avy-20240214.2118/ivy-avy-pkg.el
-  ivy-avy-20240214.2118/ivy-avy.el
+Created ivy-avy-20250224.2125.tar containing:
+  ivy-avy-20250224.2125/
+  ivy-avy-20250224.2125/ivy-avy-pkg.el
+  ivy-avy-20250224.2125/ivy-avy.el
  ✓ Success:
-  2025-02-25T00:53:30+0000  ivy-avy-20240214.2118.entry
-  2025-02-25T00:53:30+0000  ivy-avy-20240214.2118.tar
-Built ivy-avy in 3.185s, finished at 2025-02-25T00:53:31+0000
+  2025-02-25T23:47:51+0000  ivy-avy-20250224.2125.entry
+  2025-02-25T23:47:51+0000  ivy-avy-20250224.2125.tar
+Built ivy-avy in 3.527s, finished at 2025-02-25T23:47:52+0000
