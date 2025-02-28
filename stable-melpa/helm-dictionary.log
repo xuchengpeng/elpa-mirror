@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/emacs-helm/helm-dictionary
 
 Updating /mnt/store/melpa/working/helm-dictionary/
-Checking out 6114ef3171cad09c74ac0028db58fb479f3c5d21
+Checking out 725cc0df42ad57a7902c330065d9e8ee1216791c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/helm-dictionary/
-  to /tmp/helm-dictionaryVdVuX9/helm-dictionary-20241222.651
+  to /tmp/helm-dictionaryCXT9UO/helm-dictionary-20250227.1635
     helm-dictionary.el -> helm-dictionary.el
-Created helm-dictionary-20241222.651.tar containing:
-  helm-dictionary-20241222.651/
-  helm-dictionary-20241222.651/helm-dictionary-pkg.el
-  helm-dictionary-20241222.651/helm-dictionary.el
+Created helm-dictionary-20250227.1635.tar containing:
+  helm-dictionary-20250227.1635/
+  helm-dictionary-20250227.1635/helm-dictionary-pkg.el
+  helm-dictionary-20250227.1635/helm-dictionary.el
  ✓ Success:
-  2025-02-27T00:48:43+0000  helm-dictionary-20241222.651.entry
-  2025-02-27T00:48:43+0000  helm-dictionary-20241222.651.tar
-Built helm-dictionary in 3.137s, finished at 2025-02-27T00:48:44+0000
+  2025-02-27T22:39:54+0000  helm-dictionary-20250227.1635.entry
+  2025-02-27T22:39:54+0000  helm-dictionary-20250227.1635.tar
+Built helm-dictionary in 2.935s, finished at 2025-02-27T22:39:55+0000
