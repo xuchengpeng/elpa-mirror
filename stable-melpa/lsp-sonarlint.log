@@ -3,17 +3,17 @@ Fetcher: github
 Source:  https://github.com/emacs-lsp/lsp-sonarlint
 
 Updating /mnt/store/melpa/working/lsp-sonarlint/
-Checking out ad668f7451664c901f798878534d85dd5e09a4a8
+Checking out f9c61eafce62edf15f05d7262290ea87f2beb60d
 Warning: lsp-sonarlint :files spec is equivalent to the default
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/lsp-sonarlint/
-  to /tmp/lsp-sonarlintNKlqeW/lsp-sonarlint-20240806.305
+  to /tmp/lsp-sonarlintxKycun/lsp-sonarlint-20250301.131
     lsp-sonarlint.el -> lsp-sonarlint.el
-Created lsp-sonarlint-20240806.305.tar containing:
-  lsp-sonarlint-20240806.305/
-  lsp-sonarlint-20240806.305/lsp-sonarlint-pkg.el
-  lsp-sonarlint-20240806.305/lsp-sonarlint.el
+Created lsp-sonarlint-20250301.131.tar containing:
+  lsp-sonarlint-20250301.131/
+  lsp-sonarlint-20250301.131/lsp-sonarlint-pkg.el
+  lsp-sonarlint-20250301.131/lsp-sonarlint.el
  ✓ Success:
-  2025-02-27T22:51:10+0000  lsp-sonarlint-20240806.305.entry
-  2025-02-27T22:51:10+0000  lsp-sonarlint-20240806.305.tar
-Built lsp-sonarlint in 3.059s, finished at 2025-02-27T22:51:11+0000
+  2025-03-02T22:27:50+0000  lsp-sonarlint-20250301.131.entry
+  2025-03-02T22:27:50+0000  lsp-sonarlint-20250301.131.tar
+Built lsp-sonarlint in 3.033s, finished at 2025-03-02T22:27:51+0000

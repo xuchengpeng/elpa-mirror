@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/coc-dc/
 Checking out 097bc2496263fc1e69a04d0528b41baf2fd08115
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/coc-dc/
-  to /tmp/coc-dcQx2kbY/coc-dc-20241104.1739
+  to /tmp/coc-dcUP1Ppp/coc-dc-20241104.1739
     coc-dc.el -> coc-dc.el
 Created coc-dc-20241104.1739.tar containing:
   coc-dc-20241104.1739/
   coc-dc-20241104.1739/coc-dc-pkg.el
   coc-dc-20241104.1739/coc-dc.el
  ✓ Success:
-  2025-02-28T00:53:32+0000  coc-dc-20241104.1739.entry
-  2025-02-28T00:53:32+0000  coc-dc-20241104.1739.tar
-Built coc-dc in 3.728s, finished at 2025-02-28T00:53:33+0000
+  2025-03-03T00:35:00+0000  coc-dc-20241104.1739.entry
+  2025-03-03T00:35:00+0000  coc-dc-20241104.1739.tar
+Built coc-dc in 3.812s, finished at 2025-03-03T00:35:01+0000

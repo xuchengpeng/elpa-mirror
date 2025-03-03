@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/magit/sisyphus
 
 Updating /mnt/store/melpa/working/sisyphus/
-Checking out fea66476e80fab13055fdcf3e395cdb694e23f78
+Checking out f04a145396e5534e09d381d218ec051e2137c9e0
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/sisyphus/
-  to /tmp/sisyphusY8ptfk/sisyphus-20250223.2220
+  to /tmp/sisyphusBKxiap/sisyphus-20250301.1714
     sisyphus.el -> sisyphus.el
-Created sisyphus-20250223.2220.tar containing:
-  sisyphus-20250223.2220/
-  sisyphus-20250223.2220/sisyphus-pkg.el
-  sisyphus-20250223.2220/sisyphus.el
+Created sisyphus-20250301.1714.tar containing:
+  sisyphus-20250301.1714/
+  sisyphus-20250301.1714/sisyphus-pkg.el
+  sisyphus-20250301.1714/sisyphus.el
  ✓ Success:
-  2025-02-27T23:15:09+0000  sisyphus-20250223.2220.entry
-  2025-02-27T23:15:09+0000  sisyphus-20250223.2220.tar
-Built sisyphus in 6.043s, finished at 2025-02-27T23:15:11+0000
+  2025-03-02T22:52:33+0000  sisyphus-20250301.1714.entry
+  2025-03-02T22:52:33+0000  sisyphus-20250301.1714.tar
+Built sisyphus in 3.263s, finished at 2025-03-02T22:52:34+0000

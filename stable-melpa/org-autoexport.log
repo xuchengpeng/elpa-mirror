@@ -3,16 +3,16 @@ Fetcher: sourcehut
 Source:  https://git.sr.ht/~zondo/org-autoexport
 
 Updating /mnt/store/melpa/working/org-autoexport/
-Checking out f5819f21ba4a92d1742371a3422102bb965f0706
+Checking out 0cd22707014f3ee14da6fa823b3991e2ebddf0dc
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/org-autoexport/
-  to /tmp/org-autoexportuTeTHe/org-autoexport-20241130.1655
+  to /tmp/org-autoexport686RUI/org-autoexport-20250302.1553
     org-autoexport.el -> org-autoexport.el
-Created org-autoexport-20241130.1655.tar containing:
-  org-autoexport-20241130.1655/
-  org-autoexport-20241130.1655/org-autoexport-pkg.el
-  org-autoexport-20241130.1655/org-autoexport.el
+Created org-autoexport-20250302.1553.tar containing:
+  org-autoexport-20250302.1553/
+  org-autoexport-20250302.1553/org-autoexport-pkg.el
+  org-autoexport-20250302.1553/org-autoexport.el
  ✓ Success:
-  2025-02-27T22:59:47+0000  org-autoexport-20241130.1655.entry
-  2025-02-27T22:59:47+0000  org-autoexport-20241130.1655.tar
-Built org-autoexport in 3.744s, finished at 2025-02-27T22:59:48+0000
+  2025-03-02T22:36:34+0000  org-autoexport-20250302.1553.entry
+  2025-03-02T22:36:34+0000  org-autoexport-20250302.1553.tar
+Built org-autoexport in 4.206s, finished at 2025-03-02T22:36:35+0000
