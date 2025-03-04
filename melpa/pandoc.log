@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/pandoc/
 Checking out 198d262d09e30448f1672338b0b5a81cf75e1eaa
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/pandoc/
-  to /tmp/pandoc7jiDZr/pandoc-20161128.1157
+  to /tmp/pandocbXY3s0/pandoc-20161128.1157
     pandoc.el -> pandoc.el
 Created pandoc-20161128.1157.tar containing:
   pandoc-20161128.1157/
   pandoc-20161128.1157/pandoc-pkg.el
   pandoc-20161128.1157/pandoc.el
  ✓ Success:
-  2025-03-02T22:41:15+0000  pandoc-20161128.1157.entry
-  2025-03-02T22:41:15+0000  pandoc-20161128.1157.tar
-Built pandoc in 3.445s, finished at 2025-03-02T22:41:16+0000
+  2025-03-03T22:55:53+0000  pandoc-20161128.1157.entry
+  2025-03-03T22:55:53+0000  pandoc-20161128.1157.tar
+Built pandoc in 3.014s, finished at 2025-03-03T22:55:54+0000

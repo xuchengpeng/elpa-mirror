@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/build-helper/
 Checking out d1962858734253eca791721ccf62d1c4a10719f5
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/build-helper/
-  to /tmp/build-helperRfke7C/build-helper-20161009.1755
+  to /tmp/build-helper82D5op/build-helper-20161009.1755
     build-helper.el -> build-helper.el
 Created build-helper-20161009.1755.tar containing:
   build-helper-20161009.1755/
   build-helper-20161009.1755/build-helper-pkg.el
   build-helper-20161009.1755/build-helper.el
  ✓ Success:
-  2025-03-03T00:31:48+0000  build-helper-20161009.1755.entry
-  2025-03-03T00:31:48+0000  build-helper-20161009.1755.tar
-Built build-helper in 4.381s, finished at 2025-03-03T00:31:50+0000
+  2025-03-04T00:38:28+0000  build-helper-20161009.1755.entry
+  2025-03-04T00:38:28+0000  build-helper-20161009.1755.tar
+Built build-helper in 3.364s, finished at 2025-03-04T00:38:29+0000

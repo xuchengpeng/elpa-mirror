@@ -1,0 +1,24 @@
+Package: helm-core
+Fetcher: github
+Source:  https://github.com/emacs-helm/helm
+
+Updating /mnt/store/melpa/working/helm-core/
+Checking out 04104d2add4806130cdeb3c915e9c09fb1de1046
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/helm-core/
+  to /tmp/helm-coreddAThh/helm-core-20250227.1917
+    helm-core.el -> helm-core.el
+    helm-lib.el -> helm-lib.el
+    helm-source.el -> helm-source.el
+    helm-multi-match.el -> helm-multi-match.el
+Created helm-core-20250227.1917.tar containing:
+  helm-core-20250227.1917/
+  helm-core-20250227.1917/helm-core-pkg.el
+  helm-core-20250227.1917/helm-core.el
+  helm-core-20250227.1917/helm-lib.el
+  helm-core-20250227.1917/helm-multi-match.el
+  helm-core-20250227.1917/helm-source.el
+ ✓ Success:
+  2025-03-03T22:31:21+0000  helm-core-20250227.1917.entry
+  2025-03-03T22:31:21+0000  helm-core-20250227.1917.tar
+Built helm-core in 4.239s, finished at 2025-03-03T22:31:22+0000

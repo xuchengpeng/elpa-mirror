@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/cc-cedict/
 Checking out 4b30010f98b34c7e1b3a3c327f9be0851ef83641
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/cc-cedict/
-  to /tmp/cc-cedictBIfxwA/cc-cedict-20241221.1256
+  to /tmp/cc-cedictGGA84G/cc-cedict-20241221.1256
     cc-cedict.el -> cc-cedict.el
 Created cc-cedict-20241221.1256.tar containing:
   cc-cedict-20241221.1256/
   cc-cedict-20241221.1256/cc-cedict-pkg.el
   cc-cedict-20241221.1256/cc-cedict.el
  ✓ Success:
-  2025-03-03T00:32:52+0000  cc-cedict-20241221.1256.entry
-  2025-03-03T00:32:52+0000  cc-cedict-20241221.1256.tar
-Built cc-cedict in 5.333s, finished at 2025-03-03T00:32:54+0000
+  2025-03-04T00:39:16+0000  cc-cedict-20241221.1256.entry
+  2025-03-04T00:39:16+0000  cc-cedict-20241221.1256.tar
+Built cc-cedict in 2.934s, finished at 2025-03-04T00:39:17+0000
