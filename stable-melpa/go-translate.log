@@ -3,10 +3,10 @@ Fetcher: github
 Source:  https://github.com/lorniu/go-translate
 
 Updating /mnt/store/melpa/working/go-translate/
-Checking out c1d8da15db8d44cdcb534ee672f5a39a9fdf9f6c
+Checking out 55efeac0f99f8eff3f9017e62229212e4876f09b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/go-translate/
-  to /tmp/go-translateHESYFX/go-translate-20250301.933
+  to /tmp/go-translateCHL2Iy/go-translate-20250304.814
     go-translate.el -> go-translate.el
     gt-core.el -> gt-core.el
     gt-engine-bing.el -> gt-engine-bing.el
@@ -23,26 +23,26 @@ Copying files (->) and directories (=>)
     gt-faces.el -> gt-faces.el
     gt-httpx.el -> gt-httpx.el
     gt-text-utility.el -> gt-text-utility.el
-Created go-translate-20250301.933.tar containing:
-  go-translate-20250301.933/
-  go-translate-20250301.933/go-translate-pkg.el
-  go-translate-20250301.933/go-translate.el
-  go-translate-20250301.933/gt-core.el
-  go-translate-20250301.933/gt-engine-bing.el
-  go-translate-20250301.933/gt-engine-chatgpt.el
-  go-translate-20250301.933/gt-engine-deepl.el
-  go-translate-20250301.933/gt-engine-echo.el
-  go-translate-20250301.933/gt-engine-google-rpc.el
-  go-translate-20250301.933/gt-engine-google.el
-  go-translate-20250301.933/gt-engine-libre.el
-  go-translate-20250301.933/gt-engine-osxdict.el
-  go-translate-20250301.933/gt-engine-stardict.el
-  go-translate-20250301.933/gt-engine-youdao.el
-  go-translate-20250301.933/gt-extension.el
-  go-translate-20250301.933/gt-faces.el
-  go-translate-20250301.933/gt-httpx.el
-  go-translate-20250301.933/gt-text-utility.el
+Created go-translate-20250304.814.tar containing:
+  go-translate-20250304.814/
+  go-translate-20250304.814/go-translate-pkg.el
+  go-translate-20250304.814/go-translate.el
+  go-translate-20250304.814/gt-core.el
+  go-translate-20250304.814/gt-engine-bing.el
+  go-translate-20250304.814/gt-engine-chatgpt.el
+  go-translate-20250304.814/gt-engine-deepl.el
+  go-translate-20250304.814/gt-engine-echo.el
+  go-translate-20250304.814/gt-engine-google-rpc.el
+  go-translate-20250304.814/gt-engine-google.el
+  go-translate-20250304.814/gt-engine-libre.el
+  go-translate-20250304.814/gt-engine-osxdict.el
+  go-translate-20250304.814/gt-engine-stardict.el
+  go-translate-20250304.814/gt-engine-youdao.el
+  go-translate-20250304.814/gt-extension.el
+  go-translate-20250304.814/gt-faces.el
+  go-translate-20250304.814/gt-httpx.el
+  go-translate-20250304.814/gt-text-utility.el
  ✓ Success:
-  2025-03-03T22:28:46+0000  go-translate-20250301.933.entry
-  2025-03-03T22:28:46+0000  go-translate-20250301.933.tar
-Built go-translate in 3.240s, finished at 2025-03-03T22:28:47+0000
+  2025-03-04T23:53:18+0000  go-translate-20250304.814.entry
+  2025-03-04T23:53:18+0000  go-translate-20250304.814.tar
+Built go-translate in 3.328s, finished at 2025-03-04T23:53:19+0000
