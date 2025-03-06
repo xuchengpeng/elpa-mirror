@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/jacktasia/dumb-jump
 
 Updating /mnt/store/melpa/working/dumb-jump/
-Checking out cd65a743370ac7b1a12e9ef0a7371b285a2597fb
+Checking out f65725420114215330ab01456c034f3e6ee25cd6
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/dumb-jump/
-  to /tmp/dumb-jumpVmACRH/dumb-jump-20240625.224
+  to /tmp/dumb-jumpjPWC76/dumb-jump-20250305.1646
     dumb-jump.el -> dumb-jump.el
-Created dumb-jump-20240625.224.tar containing:
-  dumb-jump-20240625.224/
-  dumb-jump-20240625.224/dumb-jump-pkg.el
-  dumb-jump-20240625.224/dumb-jump.el
+Created dumb-jump-20250305.1646.tar containing:
+  dumb-jump-20250305.1646/
+  dumb-jump-20250305.1646/dumb-jump-pkg.el
+  dumb-jump-20250305.1646/dumb-jump.el
  ✓ Success:
-  2025-03-04T23:40:03+0000  dumb-jump-20240625.224.entry
-  2025-03-04T23:40:03+0000  dumb-jump-20240625.224.tar
-Built dumb-jump in 3.405s, finished at 2025-03-04T23:40:04+0000
+  2025-03-06T00:00:41+0000  dumb-jump-20250305.1646.entry
+  2025-03-06T00:00:41+0000  dumb-jump-20250305.1646.tar
+Built dumb-jump in 3.195s, finished at 2025-03-06T00:00:42+0000

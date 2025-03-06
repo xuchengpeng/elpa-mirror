@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/tray/
 Checking out 68d6fa2f2cd7d40c82af6c78b7647a585755c1d1
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/tray/
-  to /tmp/traylTeXFO/tray-20240831.2205
+  to /tmp/trayZ6GqRe/tray-20240831.2205
     tray.el -> tray.el
 Created tray-20240831.2205.tar containing:
   tray-20240831.2205/
   tray-20240831.2205/tray-pkg.el
   tray-20240831.2205/tray.el
  ✓ Success:
-  2025-03-05T00:35:11+0000  tray-20240831.2205.entry
-  2025-03-05T00:35:11+0000  tray-20240831.2205.tar
-Built tray in 3.376s, finished at 2025-03-05T00:35:12+0000
+  2025-03-06T00:55:51+0000  tray-20240831.2205.entry
+  2025-03-06T00:55:51+0000  tray-20240831.2205.tar
+Built tray in 2.830s, finished at 2025-03-06T00:55:51+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/vagrant/
 Checking out eb4ec2053955eda1ac9e5ff92ded88f1919e13f2
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/vagrant/
-  to /tmp/vagrantA30C9Z/vagrant-20220730.302
+  to /tmp/vagrantdO0449/vagrant-20220730.302
     vagrant.el -> vagrant.el
 Created vagrant-20220730.302.tar containing:
   vagrant-20220730.302/
   vagrant-20220730.302/vagrant-pkg.el
   vagrant-20220730.302/vagrant.el
  ✓ Success:
-  2025-03-05T00:36:48+0000  vagrant-20220730.302.entry
-  2025-03-05T00:36:48+0000  vagrant-20220730.302.tar
-Built vagrant in 2.982s, finished at 2025-03-05T00:36:49+0000
+  2025-03-06T00:57:30+0000  vagrant-20220730.302.entry
+  2025-03-06T00:57:30+0000  vagrant-20220730.302.tar
+Built vagrant in 2.881s, finished at 2025-03-06T00:57:31+0000
