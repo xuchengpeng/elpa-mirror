@@ -3,18 +3,18 @@ Fetcher: github
 Source:  https://github.com/meedstrom/el-job
 
 Updating /mnt/store/melpa/working/el-job/
-Checking out 183ff2e77549ce32a4d4e1cd4037c37b119b61c9
+Checking out 96c1d0bf4f0b7cd00fa9944d636e77960cb413e9
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/el-job/
-  to /tmp/el-jobe1NCvH/el-job-20250306.1343
+  to /tmp/el-job6UGl2M/el-job-20250307.1151
     el-job-child.el -> el-job-child.el
     el-job.el -> el-job.el
-Created el-job-20250306.1343.tar containing:
-  el-job-20250306.1343/
-  el-job-20250306.1343/el-job-child.el
-  el-job-20250306.1343/el-job-pkg.el
-  el-job-20250306.1343/el-job.el
+Created el-job-20250307.1151.tar containing:
+  el-job-20250307.1151/
+  el-job-20250307.1151/el-job-child.el
+  el-job-20250307.1151/el-job-pkg.el
+  el-job-20250307.1151/el-job.el
  ✓ Success:
-  2025-03-06T23:01:20+0000  el-job-20250306.1343.entry
-  2025-03-06T23:01:20+0000  el-job-20250306.1343.tar
-Built el-job in 3.689s, finished at 2025-03-06T23:01:21+0000
+  2025-03-08T00:20:29+0000  el-job-20250307.1151.entry
+  2025-03-08T00:20:29+0000  el-job-20250307.1151.tar
+Built el-job in 6.766s, finished at 2025-03-08T00:20:31+0000

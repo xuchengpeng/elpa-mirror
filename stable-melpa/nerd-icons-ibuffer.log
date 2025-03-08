@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/seagle0128/nerd-icons-ibuffer
 
 Updating /mnt/store/melpa/working/nerd-icons-ibuffer/
-Checking out 18c00c03a0d7193bab5e3374ec02c5428db057fd
+Checking out 46f57138e57329d841b1745e586b4f2c69f82b87
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/nerd-icons-ibuffer/
-  to /tmp/nerd-icons-ibufferBrijyY/nerd-icons-ibuffer-20230417.1549
+  to /tmp/nerd-icons-ibufferzcHuxp/nerd-icons-ibuffer-20250307.958
     nerd-icons-ibuffer.el -> nerd-icons-ibuffer.el
-Created nerd-icons-ibuffer-20230417.1549.tar containing:
-  nerd-icons-ibuffer-20230417.1549/
-  nerd-icons-ibuffer-20230417.1549/nerd-icons-ibuffer-pkg.el
-  nerd-icons-ibuffer-20230417.1549/nerd-icons-ibuffer.el
+Created nerd-icons-ibuffer-20250307.958.tar containing:
+  nerd-icons-ibuffer-20250307.958/
+  nerd-icons-ibuffer-20250307.958/nerd-icons-ibuffer-pkg.el
+  nerd-icons-ibuffer-20250307.958/nerd-icons-ibuffer.el
  ✓ Success:
-  2025-03-06T23:31:17+0000  nerd-icons-ibuffer-20230417.1549.entry
-  2025-03-06T23:31:17+0000  nerd-icons-ibuffer-20230417.1549.tar
-Built nerd-icons-ibuffer in 3.081s, finished at 2025-03-06T23:31:18+0000
+  2025-03-07T22:23:11+0000  nerd-icons-ibuffer-20250307.958.entry
+  2025-03-07T22:23:11+0000  nerd-icons-ibuffer-20250307.958.tar
+Built nerd-icons-ibuffer in 2.898s, finished at 2025-03-07T22:23:12+0000
