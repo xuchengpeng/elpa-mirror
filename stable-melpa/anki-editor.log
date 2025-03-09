@@ -3,18 +3,18 @@ Fetcher: github
 Source:  https://github.com/anki-editor/anki-editor
 
 Updating /mnt/store/melpa/working/anki-editor/
-Checking out de89acb203a387427ce84472168b1c1b04919ad6
+Checking out ce90bc242753f798efc99a360e641b3184d687bb
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/anki-editor/
-  to /tmp/anki-editorMSuJSR/anki-editor-20250226.627
+  to /tmp/anki-editor3hwQhU/anki-editor-20250308.1011
     anki-editor-ui.el -> anki-editor-ui.el
     anki-editor.el -> anki-editor.el
-Created anki-editor-20250226.627.tar containing:
-  anki-editor-20250226.627/
-  anki-editor-20250226.627/anki-editor-pkg.el
-  anki-editor-20250226.627/anki-editor-ui.el
-  anki-editor-20250226.627/anki-editor.el
+Created anki-editor-20250308.1011.tar containing:
+  anki-editor-20250308.1011/
+  anki-editor-20250308.1011/anki-editor-pkg.el
+  anki-editor-20250308.1011/anki-editor-ui.el
+  anki-editor-20250308.1011/anki-editor.el
  ✓ Success:
-  2025-03-08T00:05:58+0000  anki-editor-20250226.627.entry
-  2025-03-08T00:05:58+0000  anki-editor-20250226.627.tar
-Built anki-editor in 2.877s, finished at 2025-03-08T00:05:59+0000
+  2025-03-09T00:42:23+0000  anki-editor-20250308.1011.entry
+  2025-03-09T00:42:23+0000  anki-editor-20250308.1011.tar
+Built anki-editor in 2.807s, finished at 2025-03-09T00:42:24+0000

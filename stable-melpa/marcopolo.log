@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/marcopolo/
 Checking out 85db828f2bb4346a811b3326349b1c6d0aae4601
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/marcopolo/
-  to /tmp/marcopolodRX5WN/marcopolo-20160421.1004
+  to /tmp/marcopoloacraUS/marcopolo-20160421.1004
     marcopolo-api.el -> marcopolo-api.el
     marcopolo-custom.el -> marcopolo-custom.el
     marcopolo-errors.el -> marcopolo-errors.el
@@ -17,3 +17,20 @@ Copying files (->) and directories (=>)
     marcopolo-utils.el -> marcopolo-utils.el
     marcopolo-version.el -> marcopolo-version.el
     marcopolo.el -> marcopolo.el
+Created marcopolo-20160421.1004.tar containing:
+  marcopolo-20160421.1004/
+  marcopolo-20160421.1004/marcopolo-api.el
+  marcopolo-20160421.1004/marcopolo-custom.el
+  marcopolo-20160421.1004/marcopolo-errors.el
+  marcopolo-20160421.1004/marcopolo-hub.el
+  marcopolo-20160421.1004/marcopolo-mode.el
+  marcopolo-20160421.1004/marcopolo-pkg.el
+  marcopolo-20160421.1004/marcopolo-registry.el
+  marcopolo-20160421.1004/marcopolo-ui.el
+  marcopolo-20160421.1004/marcopolo-utils.el
+  marcopolo-20160421.1004/marcopolo-version.el
+  marcopolo-20160421.1004/marcopolo.el
+ ✓ Success:
+  2025-03-08T22:57:26+0000  marcopolo-20160421.1004.entry
+  2025-03-08T22:57:26+0000  marcopolo-20160421.1004.tar
+Built marcopolo in 3.433s, finished at 2025-03-08T22:57:26+0000
