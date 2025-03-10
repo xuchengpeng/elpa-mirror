@@ -3,25 +3,25 @@ Fetcher: git
 Source:  https://repo.or.cz/org-link-beautify.git
 
 Updating /mnt/store/melpa/working/org-link-beautify/
-Checking out f831dcaf0565a3b791d9f6c31e04f286192f4141
+Checking out d33cfbfbb24cab63f0c6c073ceefd95900f71801
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/org-link-beautify/
-  to /tmp/org-link-beautifyoPZX5H/org-link-beautify-20250303.1709
+  to /tmp/org-link-beautify0zUIu0/org-link-beautify-20250309.1315
     org-link-beautify-new.el -> org-link-beautify-new.el
     org-link-beautify-old.el -> org-link-beautify-old.el
     org-link-beautify.el -> org-link-beautify.el
     scripts => scripts
-Created org-link-beautify-20250303.1709.tar containing:
-  org-link-beautify-20250303.1709/
-  org-link-beautify-20250303.1709/org-link-beautify-new.el
-  org-link-beautify-20250303.1709/org-link-beautify-old.el
-  org-link-beautify-20250303.1709/org-link-beautify-pkg.el
-  org-link-beautify-20250303.1709/org-link-beautify.el
-  org-link-beautify-20250303.1709/scripts/
-  org-link-beautify-20250303.1709/scripts/thumbnailer-ebook.py
-  org-link-beautify-20250303.1709/scripts/thumbnailer-video.py
-  org-link-beautify-20250303.1709/scripts/thumbnailer.py
+Created org-link-beautify-20250309.1315.tar containing:
+  org-link-beautify-20250309.1315/
+  org-link-beautify-20250309.1315/org-link-beautify-new.el
+  org-link-beautify-20250309.1315/org-link-beautify-old.el
+  org-link-beautify-20250309.1315/org-link-beautify-pkg.el
+  org-link-beautify-20250309.1315/org-link-beautify.el
+  org-link-beautify-20250309.1315/scripts/
+  org-link-beautify-20250309.1315/scripts/thumbnailer-epub.py
+  org-link-beautify-20250309.1315/scripts/thumbnailer-video.py
+  org-link-beautify-20250309.1315/scripts/thumbnailer.py
  ✓ Success:
-  2025-03-08T23:05:42+0000  org-link-beautify-20250303.1709.entry
-  2025-03-08T23:05:41+0000  org-link-beautify-20250303.1709.tar
-Built org-link-beautify in 4.149s, finished at 2025-03-08T23:05:42+0000
+  2025-03-09T23:21:14+0000  org-link-beautify-20250309.1315.entry
+  2025-03-09T23:21:14+0000  org-link-beautify-20250309.1315.tar
+Built org-link-beautify in 4.526s, finished at 2025-03-09T23:21:15+0000

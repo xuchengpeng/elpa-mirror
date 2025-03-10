@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/parsebib/
 Checking out 735e308fc5b7aaed975764f6c7139d1c4bf28d0c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/parsebib/
-  to /tmp/parsebiblE1V7c/parsebib-20250225.840
+  to /tmp/parsebibWF9dl9/parsebib-20250225.840
     parsebib.el -> parsebib.el
 Created parsebib-20250225.840.tar containing:
   parsebib-20250225.840/
   parsebib-20250225.840/parsebib-pkg.el
   parsebib-20250225.840/parsebib.el
  ✓ Success:
-  2025-03-08T23:08:54+0000  parsebib-20250225.840.entry
-  2025-03-08T23:08:54+0000  parsebib-20250225.840.tar
-Built parsebib in 4.457s, finished at 2025-03-08T23:08:55+0000
+  2025-03-09T23:24:28+0000  parsebib-20250225.840.entry
+  2025-03-09T23:24:28+0000  parsebib-20250225.840.tar
+Built parsebib in 3.138s, finished at 2025-03-09T23:24:29+0000
