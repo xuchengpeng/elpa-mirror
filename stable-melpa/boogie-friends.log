@@ -3,10 +3,10 @@ Fetcher: github
 Source:  https://github.com/boogie-org/boogie-friends
 
 Updating /mnt/store/melpa/working/boogie-friends/
-Checking out 5b32e4859823ed7f5e70fd5d2eac5d813a8e3e51
+Checking out 54905dab2944e7e808aa9445727646d7a3855174
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/boogie-friends/
-  to /tmp/boogie-friendszcfGAQ/boogie-friends-20221115.658
+  to /tmp/boogie-friendsGsUE9d/boogie-friends-20250310.1610
   ! emacs/boogie-friends-pkg.el -> boogie-friends-pkg.el
   ! emacs/boogie-friends.el -> boogie-friends.el
   ! emacs/boogie-mode.el -> boogie-mode.el
@@ -16,21 +16,21 @@ Copying files (->) and directories (=>)
   ! emacs/lsp-dafny.el -> lsp-dafny.el
   ! emacs/z3-smt2-mode.el -> z3-smt2-mode.el
   ! emacs/etc => etc
-Created boogie-friends-20221115.658.tar containing:
-  boogie-friends-20221115.658/
-  boogie-friends-20221115.658/boogie-friends-pkg.el
-  boogie-friends-20221115.658/boogie-friends.el
-  boogie-friends-20221115.658/boogie-mode.el
-  boogie-friends-20221115.658/dafny-docs.el
-  boogie-friends-20221115.658/dafny-mode.el
-  boogie-friends-20221115.658/etc/
-  boogie-friends-20221115.658/etc/dafny-attributes
-  boogie-friends-20221115.658/etc/dafny-docs.html.gz
-  boogie-friends-20221115.658/etc/dafny-snippets
-  boogie-friends-20221115.658/inferior-dafny.el
-  boogie-friends-20221115.658/lsp-dafny.el
-  boogie-friends-20221115.658/z3-smt2-mode.el
+Created boogie-friends-20250310.1610.tar containing:
+  boogie-friends-20250310.1610/
+  boogie-friends-20250310.1610/boogie-friends-pkg.el
+  boogie-friends-20250310.1610/boogie-friends.el
+  boogie-friends-20250310.1610/boogie-mode.el
+  boogie-friends-20250310.1610/dafny-docs.el
+  boogie-friends-20250310.1610/dafny-mode.el
+  boogie-friends-20250310.1610/etc/
+  boogie-friends-20250310.1610/etc/dafny-attributes
+  boogie-friends-20250310.1610/etc/dafny-docs.html.gz
+  boogie-friends-20250310.1610/etc/dafny-snippets
+  boogie-friends-20250310.1610/inferior-dafny.el
+  boogie-friends-20250310.1610/lsp-dafny.el
+  boogie-friends-20250310.1610/z3-smt2-mode.el
  ✓ Success:
-  2025-03-09T22:36:46+0000  boogie-friends-20221115.658.entry
-  2025-03-09T22:36:46+0000  boogie-friends-20221115.658.tar
-Built boogie-friends in 3.274s, finished at 2025-03-09T22:36:47+0000
+  2025-03-10T23:07:15+0000  boogie-friends-20250310.1610.entry
+  2025-03-10T23:07:15+0000  boogie-friends-20250310.1610.tar
+Built boogie-friends in 3.283s, finished at 2025-03-10T23:07:16+0000

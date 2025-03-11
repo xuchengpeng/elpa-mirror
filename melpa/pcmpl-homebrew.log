@@ -1,18 +1,18 @@
 Package: pcmpl-homebrew
 Fetcher: github
-Source:  https://github.com/zwild/pcmpl-homebrew
+Source:  https://github.com/suzzvv/pcmpl-homebrew
 
 Updating /mnt/store/melpa/working/pcmpl-homebrew/
 Checking out a2044042dd498abad1dc06162a8ee0d70314ca40
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/pcmpl-homebrew/
-  to /tmp/pcmpl-homebrew1wVg6h/pcmpl-homebrew-20200911.742
+  to /tmp/pcmpl-homebrew9gQx3n/pcmpl-homebrew-20200911.742
     pcmpl-homebrew.el -> pcmpl-homebrew.el
 Created pcmpl-homebrew-20200911.742.tar containing:
   pcmpl-homebrew-20200911.742/
   pcmpl-homebrew-20200911.742/pcmpl-homebrew-pkg.el
   pcmpl-homebrew-20200911.742/pcmpl-homebrew.el
  ✓ Success:
-  2025-03-09T23:24:48+0000  pcmpl-homebrew-20200911.742.entry
-  2025-03-09T23:24:48+0000  pcmpl-homebrew-20200911.742.tar
-Built pcmpl-homebrew in 2.887s, finished at 2025-03-09T23:24:49+0000
+  2025-03-10T23:55:50+0000  pcmpl-homebrew-20200911.742.entry
+  2025-03-10T23:55:50+0000  pcmpl-homebrew-20200911.742.tar
+Built pcmpl-homebrew in 4.273s, finished at 2025-03-10T23:55:51+0000
