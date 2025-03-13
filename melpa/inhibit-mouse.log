@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/jamescherti/inhibit-mouse.el
 
 Updating /mnt/store/melpa/working/inhibit-mouse/
-Checking out 8f03a8f6ca8c980e7d90c6ea4cb308fd6ea3e24a
+Checking out 8052a12c07cfdb8d344d35d4fbc0936dda495986
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/inhibit-mouse/
-  to /tmp/inhibit-mouseDXlYu9/inhibit-mouse-20250121.2019
+  to /tmp/inhibit-mousesMGwbG/inhibit-mouse-20250312.1941
     inhibit-mouse.el -> inhibit-mouse.el
-Created inhibit-mouse-20250121.2019.tar containing:
-  inhibit-mouse-20250121.2019/
-  inhibit-mouse-20250121.2019/inhibit-mouse-pkg.el
-  inhibit-mouse-20250121.2019/inhibit-mouse.el
+Created inhibit-mouse-20250312.1941.tar containing:
+  inhibit-mouse-20250312.1941/
+  inhibit-mouse-20250312.1941/inhibit-mouse-pkg.el
+  inhibit-mouse-20250312.1941/inhibit-mouse.el
  ✓ Success:
-  2025-03-12T00:06:36+0000  inhibit-mouse-20250121.2019.entry
-  2025-03-12T00:06:35+0000  inhibit-mouse-20250121.2019.tar
-Built inhibit-mouse in 3.037s, finished at 2025-03-12T00:06:36+0000
+  2025-03-13T00:43:48+0000  inhibit-mouse-20250312.1941.entry
+  2025-03-13T00:43:48+0000  inhibit-mouse-20250312.1941.tar
+Built inhibit-mouse in 3.144s, finished at 2025-03-13T00:43:49+0000
