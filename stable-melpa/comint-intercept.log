@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/comint-intercept/
 Checking out 99b17be632ff1d892f427244cad9e37752cbf71b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/comint-intercept/
-  to /tmp/comint-interceptKjO4TV/comint-intercept-20241021.629
+  to /tmp/comint-interceptAHSToO/comint-intercept-20241021.629
     comint-intercept.el -> comint-intercept.el
 Created comint-intercept-20241021.629.tar containing:
   comint-intercept-20241021.629/
   comint-intercept-20241021.629/comint-intercept-pkg.el
   comint-intercept-20241021.629/comint-intercept.el
  ✓ Success:
-  2025-03-14T00:57:23+0000  comint-intercept-20241021.629.entry
-  2025-03-14T00:57:23+0000  comint-intercept-20241021.629.tar
-Built comint-intercept in 2.930s, finished at 2025-03-14T00:57:24+0000
+  2025-03-14T23:06:51+0000  comint-intercept-20241021.629.entry
+  2025-03-14T23:06:51+0000  comint-intercept-20241021.629.tar
+Built comint-intercept in 2.864s, finished at 2025-03-14T23:06:52+0000
