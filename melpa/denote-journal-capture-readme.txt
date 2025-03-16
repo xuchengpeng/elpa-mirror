@@ -1,5 +1,5 @@
 This library provides basic integration between
-`denote-journal-extras' and `org-capture', providing a function to
+`denote-journal' and `org-capture', providing a function to
 allow a specific date to be captured to, while saving the date for
 later editing as part of the capture process.
 
@@ -16,6 +16,11 @@ used instead of filename, for example:
 Then, as shown above, in the template, the expansion of
 `%(denote-journal-capture-template)' can be used to prompt
 for (and reuse) the date that was selected as for capturing.
+
+Additionally, the expansion `%(denote-journal-capture-insert-date)'
+will insert the capture target's date.  This function takes an
+optional argument, `inactivep', which if non-nil will cause an
+inactive timestamp to be inserted.
 
 ;; Errors and Patches
 
