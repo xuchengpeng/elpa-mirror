@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/company-stan/
 Checking out 150bbbe5fd3ad2b5a3dbfba9d291e66eeea1a581
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/company-stan/
-  to /tmp/company-stan5fv5C8/company-stan-20211129.2051
+  to /tmp/company-stanVY7mbz/company-stan-20211129.2051
   ! company-stan/company-stan.el -> company-stan.el
 Created company-stan-20211129.2051.tar containing:
   company-stan-20211129.2051/
   company-stan-20211129.2051/company-stan-pkg.el
   company-stan-20211129.2051/company-stan.el
  ✓ Success:
-  2025-03-17T00:36:58+0000  company-stan-20211129.2051.entry
-  2025-03-17T00:36:58+0000  company-stan-20211129.2051.tar
-Built company-stan in 3.151s, finished at 2025-03-17T00:36:59+0000
+  2025-03-17T23:01:20+0000  company-stan-20211129.2051.entry
+  2025-03-17T23:01:20+0000  company-stan-20211129.2051.tar
+Built company-stan in 3.369s, finished at 2025-03-17T23:01:21+0000

@@ -1,0 +1,70 @@
+Package: howm
+Fetcher: github
+Source:  https://github.com/kaorahi/howm
+
+Updating /mnt/store/melpa/working/howm/
+Checking out 347228032d436bd72ec22616ca7cf8f52f32ed17
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/howm/
+  to /tmp/howmYiCjeS/howm-20250313.1131
+    action-lock.el -> action-lock.el
+    bcomp.el -> bcomp.el
+    cheat-font-lock.el -> cheat-font-lock.el
+    gfunc.el -> gfunc.el
+    honest-report.el -> honest-report.el
+    howm-backend.el -> howm-backend.el
+    howm-common.el -> howm-common.el
+    howm-date.el -> howm-date.el
+    howm-lang-en.el -> howm-lang-en.el
+    howm-lang-fr.el -> howm-lang-fr.el
+    howm-lang-ja.el -> howm-lang-ja.el
+    howm-markdown.el -> howm-markdown.el
+    howm-menu-en.el -> howm-menu-en.el
+    howm-menu-fr.el -> howm-menu-fr.el
+    howm-menu-ja.el -> howm-menu-ja.el
+    howm-menu.el -> howm-menu.el
+    howm-misc.el -> howm-misc.el
+    howm-mkmenu.el -> howm-mkmenu.el
+    howm-mode.el -> howm-mode.el
+    howm-org.el -> howm-org.el
+    howm-reminder.el -> howm-reminder.el
+    howm-vars.el -> howm-vars.el
+    howm-view.el -> howm-view.el
+    howm.el -> howm.el
+    iigrep.el -> iigrep.el
+    illusion.el -> illusion.el
+    riffle.el -> riffle.el
+Created howm-20250313.1131.tar containing:
+  howm-20250313.1131/
+  howm-20250313.1131/action-lock.el
+  howm-20250313.1131/bcomp.el
+  howm-20250313.1131/cheat-font-lock.el
+  howm-20250313.1131/gfunc.el
+  howm-20250313.1131/honest-report.el
+  howm-20250313.1131/howm-backend.el
+  howm-20250313.1131/howm-common.el
+  howm-20250313.1131/howm-date.el
+  howm-20250313.1131/howm-lang-en.el
+  howm-20250313.1131/howm-lang-fr.el
+  howm-20250313.1131/howm-lang-ja.el
+  howm-20250313.1131/howm-markdown.el
+  howm-20250313.1131/howm-menu-en.el
+  howm-20250313.1131/howm-menu-fr.el
+  howm-20250313.1131/howm-menu-ja.el
+  howm-20250313.1131/howm-menu.el
+  howm-20250313.1131/howm-misc.el
+  howm-20250313.1131/howm-mkmenu.el
+  howm-20250313.1131/howm-mode.el
+  howm-20250313.1131/howm-org.el
+  howm-20250313.1131/howm-pkg.el
+  howm-20250313.1131/howm-reminder.el
+  howm-20250313.1131/howm-vars.el
+  howm-20250313.1131/howm-view.el
+  howm-20250313.1131/howm.el
+  howm-20250313.1131/iigrep.el
+  howm-20250313.1131/illusion.el
+  howm-20250313.1131/riffle.el
+ ✓ Success:
+  2025-03-17T23:24:47+0000  howm-20250313.1131.entry
+  2025-03-17T23:24:47+0000  howm-20250313.1131.tar
+Built howm in 3.869s, finished at 2025-03-17T23:24:48+0000

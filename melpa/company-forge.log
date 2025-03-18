@@ -3,28 +3,28 @@ Fetcher: github
 Source:  https://github.com/pkryger/company-forge.el
 
 Updating /mnt/store/melpa/working/company-forge/
-Checking out 1f8df04be5c8da667877ac3669fc1ba55d1f4e83
+Checking out eff2bbf6fb40475164b6b525dc0028a1369326fc
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/company-forge/
-  to /tmp/company-forgeMEHWGF/company-forge-20250311.856
+  to /tmp/company-forgeCZE0es/company-forge-20250317.1414
     company-forge.el -> company-forge.el
     icons => icons
-Created company-forge-20250311.856.tar containing:
-  company-forge-20250311.856/
-  company-forge-20250311.856/company-forge-pkg.el
-  company-forge-20250311.856/company-forge.el
-  company-forge-20250311.856/icons/
-  company-forge-20250311.856/icons/LICENSE.txt
-  company-forge-20250311.856/icons/git-merge-16.svg
-  company-forge-20250311.856/icons/git-pull-request-16.svg
-  company-forge-20250311.856/icons/git-pull-request-closed-16.svg
-  company-forge-20250311.856/icons/git-pull-request-draft-16.svg
-  company-forge-20250311.856/icons/issue-closed-16.svg
-  company-forge-20250311.856/icons/issue-draft-16.svg
-  company-forge-20250311.856/icons/issue-opened-16.svg
-  company-forge-20250311.856/icons/people-16.svg
-  company-forge-20250311.856/icons/person-16.svg
+Created company-forge-20250317.1414.tar containing:
+  company-forge-20250317.1414/
+  company-forge-20250317.1414/company-forge-pkg.el
+  company-forge-20250317.1414/company-forge.el
+  company-forge-20250317.1414/icons/
+  company-forge-20250317.1414/icons/LICENSE.txt
+  company-forge-20250317.1414/icons/git-merge-16.svg
+  company-forge-20250317.1414/icons/git-pull-request-16.svg
+  company-forge-20250317.1414/icons/git-pull-request-closed-16.svg
+  company-forge-20250317.1414/icons/git-pull-request-draft-16.svg
+  company-forge-20250317.1414/icons/issue-closed-16.svg
+  company-forge-20250317.1414/icons/issue-draft-16.svg
+  company-forge-20250317.1414/icons/issue-opened-16.svg
+  company-forge-20250317.1414/icons/people-16.svg
+  company-forge-20250317.1414/icons/person-16.svg
  ✓ Success:
-  2025-03-17T00:36:31+0000  company-forge-20250311.856.entry
-  2025-03-17T00:36:31+0000  company-forge-20250311.856.tar
-Built company-forge in 2.937s, finished at 2025-03-17T00:36:32+0000
+  2025-03-17T23:00:51+0000  company-forge-20250317.1414.entry
+  2025-03-17T23:00:51+0000  company-forge-20250317.1414.tar
+Built company-forge in 2.841s, finished at 2025-03-17T23:00:52+0000
