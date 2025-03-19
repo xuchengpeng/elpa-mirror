@@ -3,10 +3,10 @@ Fetcher: github
 Source:  https://github.com/minad/vertico
 
 Updating /mnt/store/melpa/working/vertico/
-Checking out 026a81a9c893b1d73cdbcb12436a0fad3ebdeb5f
+Checking out c3b788b6bea10e3493ebc05a96bbde294824cff6
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/vertico/
-  to /tmp/verticoGIs3LC/vertico-20250311.1655
+  to /tmp/verticoSUNV3k/vertico-20250318.1630
     vertico.el -> vertico.el
   ! extensions/vertico-buffer.el -> vertico-buffer.el
   ! extensions/vertico-directory.el -> vertico-directory.el
@@ -20,23 +20,23 @@ Copying files (->) and directories (=>)
   ! extensions/vertico-reverse.el -> vertico-reverse.el
   ! extensions/vertico-suspend.el -> vertico-suspend.el
   ! extensions/vertico-unobtrusive.el -> vertico-unobtrusive.el
-Created vertico-20250311.1655.tar containing:
-  vertico-20250311.1655/
-  vertico-20250311.1655/vertico-buffer.el
-  vertico-20250311.1655/vertico-directory.el
-  vertico-20250311.1655/vertico-flat.el
-  vertico-20250311.1655/vertico-grid.el
-  vertico-20250311.1655/vertico-indexed.el
-  vertico-20250311.1655/vertico-mouse.el
-  vertico-20250311.1655/vertico-multiform.el
-  vertico-20250311.1655/vertico-pkg.el
-  vertico-20250311.1655/vertico-quick.el
-  vertico-20250311.1655/vertico-repeat.el
-  vertico-20250311.1655/vertico-reverse.el
-  vertico-20250311.1655/vertico-suspend.el
-  vertico-20250311.1655/vertico-unobtrusive.el
-  vertico-20250311.1655/vertico.el
+Created vertico-20250318.1630.tar containing:
+  vertico-20250318.1630/
+  vertico-20250318.1630/vertico-buffer.el
+  vertico-20250318.1630/vertico-directory.el
+  vertico-20250318.1630/vertico-flat.el
+  vertico-20250318.1630/vertico-grid.el
+  vertico-20250318.1630/vertico-indexed.el
+  vertico-20250318.1630/vertico-mouse.el
+  vertico-20250318.1630/vertico-multiform.el
+  vertico-20250318.1630/vertico-pkg.el
+  vertico-20250318.1630/vertico-quick.el
+  vertico-20250318.1630/vertico-repeat.el
+  vertico-20250318.1630/vertico-reverse.el
+  vertico-20250318.1630/vertico-suspend.el
+  vertico-20250318.1630/vertico-unobtrusive.el
+  vertico-20250318.1630/vertico.el
  ✓ Success:
-  2025-03-18T00:03:04+0000  vertico-20250311.1655.entry
-  2025-03-18T00:03:04+0000  vertico-20250311.1655.tar
-Built vertico in 4.007s, finished at 2025-03-18T00:03:05+0000
+  2025-03-19T00:49:27+0000  vertico-20250318.1630.entry
+  2025-03-19T00:49:27+0000  vertico-20250318.1630.tar
+Built vertico in 3.959s, finished at 2025-03-19T00:49:28+0000
