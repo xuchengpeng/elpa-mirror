@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/skeeto/nasm-mode
 
 Updating /mnt/store/melpa/working/nasm-mode/
-Checking out 7079eb4ce14d94830513facf9bf2fca9e030a4d1
+Checking out 4e670f6dededab858251670aa5459c950f78d867
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/nasm-mode/
-  to /tmp/nasm-mode6kt40C/nasm-mode-20240610.1505
+  to /tmp/nasm-modecaQHpm/nasm-mode-20250320.1646
     nasm-mode.el -> nasm-mode.el
-Created nasm-mode-20240610.1505.tar containing:
-  nasm-mode-20240610.1505/
-  nasm-mode-20240610.1505/nasm-mode-pkg.el
-  nasm-mode-20240610.1505/nasm-mode.el
+Created nasm-mode-20250320.1646.tar containing:
+  nasm-mode-20250320.1646/
+  nasm-mode-20250320.1646/nasm-mode-pkg.el
+  nasm-mode-20250320.1646/nasm-mode.el
  ✓ Success:
-  2025-03-19T23:26:57+0000  nasm-mode-20240610.1505.entry
-  2025-03-19T23:26:57+0000  nasm-mode-20240610.1505.tar
-Built nasm-mode in 3.311s, finished at 2025-03-19T23:26:58+0000
+  2025-03-20T23:55:06+0000  nasm-mode-20250320.1646.entry
+  2025-03-20T23:55:05+0000  nasm-mode-20250320.1646.tar
+Built nasm-mode in 5.686s, finished at 2025-03-20T23:55:07+0000
