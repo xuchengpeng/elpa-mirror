@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/company-shell/
 Checking out 5f959a63a6e66eb0cbdac3168cad523a62cc2ccd
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/company-shell/
-  to /tmp/company-shellmdJMq0/company-shell-20230106.1532
+  to /tmp/company-shellqPuGDk/company-shell-20230106.1532
     company-shell.el -> company-shell.el
 Created company-shell-20230106.1532.tar containing:
   company-shell-20230106.1532/
   company-shell-20230106.1532/company-shell-pkg.el
   company-shell-20230106.1532/company-shell.el
  ✓ Success:
-  2025-03-20T23:16:24+0000  company-shell-20230106.1532.entry
-  2025-03-20T23:16:24+0000  company-shell-20230106.1532.tar
-Built company-shell in 3.211s, finished at 2025-03-20T23:16:25+0000
+  2025-03-21T23:31:51+0000  company-shell-20230106.1532.entry
+  2025-03-21T23:31:51+0000  company-shell-20230106.1532.tar
+Built company-shell in 3.230s, finished at 2025-03-21T23:31:52+0000
