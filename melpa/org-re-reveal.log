@@ -3,18 +3,18 @@ Fetcher: gitlab
 Source:  https://gitlab.com/oer/org-re-reveal
 
 Updating /mnt/store/melpa/working/org-re-reveal/
-Checking out 68d8f8db58fee81c3e8ed3815da7ff37ec2040af
+Checking out 53e9be7d89a4ffd96690271bef0d7d5c58b8eae6
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/org-re-reveal/
-  to /tmp/org-re-reveal9KwUBF/org-re-reveal-20250316.744
+  to /tmp/org-re-revealyN66E2/org-re-reveal-20250323.840
     org-re-reveal.el -> org-re-reveal.el
     ox-re-reveal.el -> ox-re-reveal.el
-Created org-re-reveal-20250316.744.tar containing:
-  org-re-reveal-20250316.744/
-  org-re-reveal-20250316.744/org-re-reveal-pkg.el
-  org-re-reveal-20250316.744/org-re-reveal.el
-  org-re-reveal-20250316.744/ox-re-reveal.el
+Created org-re-reveal-20250323.840.tar containing:
+  org-re-reveal-20250323.840/
+  org-re-reveal-20250323.840/org-re-reveal-pkg.el
+  org-re-reveal-20250323.840/org-re-reveal.el
+  org-re-reveal-20250323.840/ox-re-reveal.el
  ✓ Success:
-  2025-03-22T00:16:04+0000  org-re-reveal-20250316.744.entry
-  2025-03-22T00:16:04+0000  org-re-reveal-20250316.744.tar
-Built org-re-reveal in 5.126s, finished at 2025-03-22T00:16:05+0000
+  2025-03-24T23:17:29+0000  org-re-reveal-20250323.840.entry
+  2025-03-24T23:17:29+0000  org-re-reveal-20250323.840.tar
+Built org-re-reveal in 5.172s, finished at 2025-03-24T23:17:30+0000

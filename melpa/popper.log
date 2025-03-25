@@ -3,18 +3,18 @@ Fetcher: github
 Source:  https://github.com/karthink/popper
 
 Updating /mnt/store/melpa/working/popper/
-Checking out 91b71955db19014d7139191660272c736458d87d
+Checking out 49f4904480cf4ca5c6db83fcfa9e6ea8d4567d96
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/popper/
-  to /tmp/popperEGiENZ/popper-20250222.2118
+  to /tmp/popperT1mb2i/popper-20250323.2147
     popper-echo.el -> popper-echo.el
     popper.el -> popper.el
-Created popper-20250222.2118.tar containing:
-  popper-20250222.2118/
-  popper-20250222.2118/popper-echo.el
-  popper-20250222.2118/popper-pkg.el
-  popper-20250222.2118/popper.el
+Created popper-20250323.2147.tar containing:
+  popper-20250323.2147/
+  popper-20250323.2147/popper-echo.el
+  popper-20250323.2147/popper-pkg.el
+  popper-20250323.2147/popper.el
  ✓ Success:
-  2025-03-22T00:21:23+0000  popper-20250222.2118.entry
-  2025-03-22T00:21:23+0000  popper-20250222.2118.tar
-Built popper in 3.132s, finished at 2025-03-22T00:21:24+0000
+  2025-03-24T23:23:17+0000  popper-20250323.2147.entry
+  2025-03-24T23:23:17+0000  popper-20250323.2147.tar
+Built popper in 3.417s, finished at 2025-03-24T23:23:18+0000

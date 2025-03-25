@@ -3,30 +3,28 @@ Fetcher: github
 Source:  https://github.com/abo-abo/swiper
 
 Updating /mnt/store/melpa/working/ivy/
-Checking out 078dcc713e088cb959af549cbd00f2267deb175a
+Checking out 790042e81e338f7b4848e5af5cda47ee31bae022
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ivy/
-  to /tmp/ivyLl2Bof/ivy-20250320.39
+  to /tmp/ivyDtD1GR/ivy-20250323.1348
     colir.el -> colir.el
-    elpa.el -> elpa.el
     ivy-faces.el -> ivy-faces.el
     ivy-overlay.el -> ivy-overlay.el
     ivy.el -> ivy.el
   ! doc/ivy.texi -> ivy.texi
   ! doc/ivy-help.org -> ivy-help.org
 Generating ivy.info
-Created ivy-20250320.39.tar containing:
-  ivy-20250320.39/
-  ivy-20250320.39/colir.el
-  ivy-20250320.39/dir
-  ivy-20250320.39/elpa.el
-  ivy-20250320.39/ivy-faces.el
-  ivy-20250320.39/ivy-help.org
-  ivy-20250320.39/ivy-overlay.el
-  ivy-20250320.39/ivy-pkg.el
-  ivy-20250320.39/ivy.el
-  ivy-20250320.39/ivy.info
+Created ivy-20250323.1348.tar containing:
+  ivy-20250323.1348/
+  ivy-20250323.1348/colir.el
+  ivy-20250323.1348/dir
+  ivy-20250323.1348/ivy-faces.el
+  ivy-20250323.1348/ivy-help.org
+  ivy-20250323.1348/ivy-overlay.el
+  ivy-20250323.1348/ivy-pkg.el
+  ivy-20250323.1348/ivy.el
+  ivy-20250323.1348/ivy.info
  ✓ Success:
-  2025-03-21T23:59:25+0000  ivy-20250320.39.entry
-  2025-03-21T23:59:25+0000  ivy-20250320.39.tar
-Built ivy in 5.602s, finished at 2025-03-21T23:59:26+0000
+  2025-03-24T23:02:07+0000  ivy-20250323.1348.entry
+  2025-03-24T23:02:07+0000  ivy-20250323.1348.tar
+Built ivy in 6.110s, finished at 2025-03-24T23:02:08+0000

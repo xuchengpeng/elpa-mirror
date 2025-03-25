@@ -3,10 +3,10 @@ Fetcher: github
 Source:  https://github.com/unmonoqueteclea/jira.el
 
 Updating /mnt/store/melpa/working/jira/
-Checking out 7c1e6f8244222d941b5242135ea911ffa3dd5f91
+Checking out 6b9cacaddbd9d23a4554231839a2cf33d30c75cc
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/jira/
-  to /tmp/jiraYdyArh/jira-20250321.1145
+  to /tmp/jiraqd2CMa/jira-20250324.1926
     jira-actions.el -> jira-actions.el
     jira-api.el -> jira-api.el
     jira-detail.el -> jira-detail.el
@@ -17,20 +17,20 @@ Copying files (->) and directories (=>)
     jira-tempo.el -> jira-tempo.el
     jira-utils.el -> jira-utils.el
     jira.el -> jira.el
-Created jira-20250321.1145.tar containing:
-  jira-20250321.1145/
-  jira-20250321.1145/jira-actions.el
-  jira-20250321.1145/jira-api.el
-  jira-20250321.1145/jira-detail.el
-  jira-20250321.1145/jira-doc.el
-  jira-20250321.1145/jira-fmt.el
-  jira-20250321.1145/jira-issues.el
-  jira-20250321.1145/jira-pkg.el
-  jira-20250321.1145/jira-table.el
-  jira-20250321.1145/jira-tempo.el
-  jira-20250321.1145/jira-utils.el
-  jira-20250321.1145/jira.el
+Created jira-20250324.1926.tar containing:
+  jira-20250324.1926/
+  jira-20250324.1926/jira-actions.el
+  jira-20250324.1926/jira-api.el
+  jira-20250324.1926/jira-detail.el
+  jira-20250324.1926/jira-doc.el
+  jira-20250324.1926/jira-fmt.el
+  jira-20250324.1926/jira-issues.el
+  jira-20250324.1926/jira-pkg.el
+  jira-20250324.1926/jira-table.el
+  jira-20250324.1926/jira-tempo.el
+  jira-20250324.1926/jira-utils.el
+  jira-20250324.1926/jira.el
  ✓ Success:
-  2025-03-22T00:00:26+0000  jira-20250321.1145.entry
-  2025-03-22T00:00:26+0000  jira-20250321.1145.tar
-Built jira in 4.737s, finished at 2025-03-22T00:00:27+0000
+  2025-03-24T23:02:59+0000  jira-20250324.1926.entry
+  2025-03-24T23:02:59+0000  jira-20250324.1926.tar
+Built jira in 3.721s, finished at 2025-03-24T23:03:00+0000

@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/purcell/envrc
 
 Updating /mnt/store/melpa/working/envrc/
-Checking out 2b818ca6e4a2f723e7cab70cd0101c2728581c3a
+Checking out e510141269c7bf94c24bcaf1148be762b9404838
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/envrc/
-  to /tmp/envrcgpQBFw/envrc-20250110.1756
+  to /tmp/envrc6yxV4K/envrc-20250324.1914
     envrc.el -> envrc.el
-Created envrc-20250110.1756.tar containing:
-  envrc-20250110.1756/
-  envrc-20250110.1756/envrc-pkg.el
-  envrc-20250110.1756/envrc.el
+Created envrc-20250324.1914.tar containing:
+  envrc-20250324.1914/
+  envrc-20250324.1914/envrc-pkg.el
+  envrc-20250324.1914/envrc.el
  ✓ Success:
-  2025-03-21T23:41:27+0000  envrc-20250110.1756.entry
-  2025-03-21T23:41:27+0000  envrc-20250110.1756.tar
-Built envrc in 3.310s, finished at 2025-03-21T23:41:28+0000
+  2025-03-24T22:44:13+0000  envrc-20250324.1914.entry
+  2025-03-24T22:44:13+0000  envrc-20250324.1914.tar
+Built envrc in 3.502s, finished at 2025-03-24T22:44:15+0000
