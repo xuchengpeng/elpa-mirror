@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/shx/
 Checking out ae32d2f6917e16c8feb8b7372267449179abd608
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/shx/
-  to /tmp/shxZNtUx1/shx-20240512.1515
+  to /tmp/shxrROItW/shx-20240512.1515
     shx.el -> shx.el
 Created shx-20240512.1515.tar containing:
   shx-20240512.1515/
   shx-20240512.1515/shx-pkg.el
   shx-20240512.1515/shx.el
  ✓ Success:
-  2025-03-24T23:30:27+0000  shx-20240512.1515.entry
-  2025-03-24T23:30:27+0000  shx-20240512.1515.tar
-Built shx in 3.302s, finished at 2025-03-24T23:30:28+0000
+  2025-03-26T00:38:12+0000  shx-20240512.1515.entry
+  2025-03-26T00:38:12+0000  shx-20240512.1515.tar
+Built shx in 3.162s, finished at 2025-03-26T00:38:13+0000
