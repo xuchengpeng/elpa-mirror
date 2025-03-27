@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/typit/
 Checking out 6ad0d5a106c4a4428fd131653bbe7c0aab4b5f60
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/typit/
-  to /tmp/typit1NEadX/typit-20220909.1233
+  to /tmp/typitxUXjWD/typit-20220909.1233
     typit.el -> typit.el
     dict => dict
 Created typit-20220909.1233.tar containing:
@@ -20,6 +20,6 @@ Created typit-20220909.1233.tar containing:
   typit-20220909.1233/typit-pkg.el
   typit-20220909.1233/typit.el
  ✓ Success:
-  2025-03-26T00:46:05+0000  typit-20220909.1233.entry
-  2025-03-26T00:46:05+0000  typit-20220909.1233.tar
-Built typit in 3.970s, finished at 2025-03-26T00:46:06+0000
+  2025-03-27T00:36:38+0000  typit-20220909.1233.entry
+  2025-03-27T00:36:38+0000  typit-20220909.1233.tar
+Built typit in 3.800s, finished at 2025-03-27T00:36:39+0000

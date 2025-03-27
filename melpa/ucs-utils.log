@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/ucs-utils/
 Checking out 91b9e0207fff5883383fd39c45ad5522e9b90e65
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ucs-utils/
-  to /tmp/ucs-utilsfUPobJ/ucs-utils-20230119.2237
+  to /tmp/ucs-utilsptdZi2/ucs-utils-20230119.2237
     ucs-utils-6.0-delta.el -> ucs-utils-6.0-delta.el
     ucs-utils.el -> ucs-utils.el
 Created ucs-utils-20230119.2237.tar containing:
@@ -15,6 +15,6 @@ Created ucs-utils-20230119.2237.tar containing:
   ucs-utils-20230119.2237/ucs-utils-pkg.el
   ucs-utils-20230119.2237/ucs-utils.el
  ✓ Success:
-  2025-03-26T00:46:11+0000  ucs-utils-20230119.2237.entry
-  2025-03-26T00:46:11+0000  ucs-utils-20230119.2237.tar
-Built ucs-utils in 3.963s, finished at 2025-03-26T00:46:12+0000
+  2025-03-27T00:36:43+0000  ucs-utils-20230119.2237.entry
+  2025-03-27T00:36:42+0000  ucs-utils-20230119.2237.tar
+Built ucs-utils in 3.580s, finished at 2025-03-27T00:36:44+0000

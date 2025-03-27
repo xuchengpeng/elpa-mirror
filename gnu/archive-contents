@@ -1477,16 +1477,16 @@
 	   ("João Távora" . "joaotavora@gmail.com"))
 	  (:commit . "49f449bb5bc90bc1eca6b4a1f013d4c0b5460d65"))])
  (el-job .
-	 [(2 3 1)
+	 [(2 4 1)
 	  ((emacs
 	    (29 1)))
 	  "Contrived way to call a function using all CPU cores" tar
 	  ((:url . "https://github.com/meedstrom/el-job")
 	   (:keywords "processes")
-	   (:maintainer "Martin Edström" . "meedstrom91@gmail.com")
+	   (:maintainer "Martin Edström" . "meedstrom@runbox.eu")
 	   (:authors
-	    ("Martin Edström" . "meedstrom91@gmail.com"))
-	   (:commit . "23a698822e44c73843a59180745bbf0a9b6712a6"))])
+	    ("Martin Edström" . "meedstrom@runbox.eu"))
+	   (:commit . "5fcadfaf967afd6bf4e2cc0c64576f72c4b9cf65"))])
  (el-search .
 	    [(1 12 6 1)
 	     ((emacs
@@ -1634,7 +1634,7 @@
 	   ("Adam Porter" . "adam@alphapapa.net"))
 	  (:commit . "26bf5a4efd08bc724cf29c412c36c2909d72bb13"))])
  (emms .
-       [(21)
+       [(22)
 	((cl-lib
 	  (0 5))
 	 (nadvice
@@ -1647,7 +1647,7 @@
 	 (:maintainer "Yoni Rabkin" . "yrk@gnu.org")
 	 (:authors
 	  ("Jorgen Schäfer" . "forcer@forcix.cx"))
-	 (:commit . "e54fc692b623668dcfc81207adfb220611931af5"))])
+	 (:commit . "338462506d7de508f7f74a01d15753f9113cd3cb"))])
  (engrave-faces .
 		[(0 3 1)
 		 ((emacs
@@ -2035,7 +2035,7 @@
 		  (:keywords "gnome" "c" "coding style")
 		  (:url . "http://elpa.gnu.org/packages/gnome-c-style.html"))])
  (gnome-dark-style .
-		   [(0 2 2)
+		   [(0 2 3)
 		    ((emacs
 		      (30 1)))
 		    "Sync theme with GNOME color-scheme" tar
@@ -2044,7 +2044,7 @@
 		     (:maintainer "David Dimagid" . "davidimagid@gmail.com")
 		     (:authors
 		      ("David Dimagid" . "davidimagid@gmail.com"))
-		     (:commit . "cbc4fbe8f24ec28b5ca754c6022f60d09879d20c"))])
+		     (:commit . "a2e9248ea09776c13966d8181d3f2078e9a1c7ba"))])
  (gnorb .
 	[(1 6 11)
 	 ((cl-lib

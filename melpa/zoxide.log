@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/zoxide/
 Checking out 6de851de46db51253350edd67f329dbc0587b97c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/zoxide/
-  to /tmp/zoxide30WE2J/zoxide-20241003.1103
+  to /tmp/zoxiderQWFAS/zoxide-20241003.1103
     zoxide.el -> zoxide.el
 Created zoxide-20241003.1103.tar containing:
   zoxide-20241003.1103/
   zoxide-20241003.1103/zoxide-pkg.el
   zoxide-20241003.1103/zoxide.el
  ✓ Success:
-  2025-03-26T00:52:29+0000  zoxide-20241003.1103.entry
-  2025-03-26T00:52:29+0000  zoxide-20241003.1103.tar
-Built zoxide in 5.655s, finished at 2025-03-26T00:52:30+0000
+  2025-03-27T00:43:18+0000  zoxide-20241003.1103.entry
+  2025-03-27T00:43:18+0000  zoxide-20241003.1103.tar
+Built zoxide in 5.870s, finished at 2025-03-27T00:43:20+0000
