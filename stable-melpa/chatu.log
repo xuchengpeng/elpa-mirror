@@ -3,10 +3,10 @@ Fetcher: github
 Source:  https://github.com/kimim/chatu
 
 Updating /mnt/store/melpa/working/chatu/
-Checking out b666b53e5a13f722833f856a76b0ce996c1b2bcd
+Checking out f3852326de2d0fbebb0007a345ba957ce9d150af
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/chatu/
-  to /tmp/chatu6TTZQo/chatu-20250301.319
+  to /tmp/chatuxXU2R8/chatu-20250327.539
     chatu-babashka.el -> chatu-babashka.el
     chatu-clojure.el -> chatu-clojure.el
     chatu-common.el -> chatu-common.el
@@ -18,21 +18,21 @@ Copying files (->) and directories (=>)
     chatu-python.el -> chatu-python.el
     chatu-r.el -> chatu-r.el
     chatu.el -> chatu.el
-Created chatu-20250301.319.tar containing:
-  chatu-20250301.319/
-  chatu-20250301.319/chatu-babashka.el
-  chatu-20250301.319/chatu-clojure.el
-  chatu-20250301.319/chatu-common.el
-  chatu-20250301.319/chatu-curl.el
-  chatu-20250301.319/chatu-drawio.el
-  chatu-20250301.319/chatu-inline.el
-  chatu-20250301.319/chatu-lilypond.el
-  chatu-20250301.319/chatu-pkg.el
-  chatu-20250301.319/chatu-plantuml.el
-  chatu-20250301.319/chatu-python.el
-  chatu-20250301.319/chatu-r.el
-  chatu-20250301.319/chatu.el
+Created chatu-20250327.539.tar containing:
+  chatu-20250327.539/
+  chatu-20250327.539/chatu-babashka.el
+  chatu-20250327.539/chatu-clojure.el
+  chatu-20250327.539/chatu-common.el
+  chatu-20250327.539/chatu-curl.el
+  chatu-20250327.539/chatu-drawio.el
+  chatu-20250327.539/chatu-inline.el
+  chatu-20250327.539/chatu-lilypond.el
+  chatu-20250327.539/chatu-pkg.el
+  chatu-20250327.539/chatu-plantuml.el
+  chatu-20250327.539/chatu-python.el
+  chatu-20250327.539/chatu-r.el
+  chatu-20250327.539/chatu.el
  ✓ Success:
-  2025-03-26T23:19:19+0000  chatu-20250301.319.entry
-  2025-03-26T23:19:19+0000  chatu-20250301.319.tar
-Built chatu in 3.408s, finished at 2025-03-26T23:19:20+0000
+  2025-03-27T23:01:17+0000  chatu-20250327.539.entry
+  2025-03-27T23:01:16+0000  chatu-20250327.539.tar
+Built chatu in 3.406s, finished at 2025-03-27T23:01:18+0000

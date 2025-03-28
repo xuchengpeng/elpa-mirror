@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/pepita/
 Checking out 02ac00ad23b9a3e19797fc76ac569c2d46da54b9
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/pepita/
-  to /tmp/pepitaXNcIkj/pepita-20240102.401
+  to /tmp/pepitaYy9aZr/pepita-20240102.401
     pepita.el -> pepita.el
 Created pepita-20240102.401.tar containing:
   pepita-20240102.401/
   pepita-20240102.401/pepita-pkg.el
   pepita-20240102.401/pepita.el
  ✓ Success:
-  2025-03-27T00:17:30+0000  pepita-20240102.401.entry
-  2025-03-27T00:17:30+0000  pepita-20240102.401.tar
-Built pepita in 3.220s, finished at 2025-03-27T00:17:31+0000
+  2025-03-27T23:55:31+0000  pepita-20240102.401.entry
+  2025-03-27T23:55:31+0000  pepita-20240102.401.tar
+Built pepita in 5.155s, finished at 2025-03-27T23:55:33+0000
