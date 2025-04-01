@@ -1,0 +1,18 @@
+Package: forge-llm
+Fetcher: gitlab
+Source:  https://gitlab.com/rogs/forge-llm
+
+Updating /mnt/store/melpa/working/forge-llm/
+Checking out e0d7c3f532de7cb8d26969786f1ab54e90200142
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/forge-llm/
+  to /tmp/forge-llmofsYw4/forge-llm-20250331.1948
+    forge-llm.el -> forge-llm.el
+Created forge-llm-20250331.1948.tar containing:
+  forge-llm-20250331.1948/
+  forge-llm-20250331.1948/forge-llm-pkg.el
+  forge-llm-20250331.1948/forge-llm.el
+ ✓ Success:
+  2025-04-01T00:41:41+0000  forge-llm-20250331.1948.entry
+  2025-04-01T00:41:41+0000  forge-llm-20250331.1948.tar
+Built forge-llm in 4.971s, finished at 2025-04-01T00:41:43+0000

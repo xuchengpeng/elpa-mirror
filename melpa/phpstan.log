@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/emacs-php/phpstan.el
 
 Updating /mnt/store/melpa/working/phpstan/
-Checking out b616f5fa5f8aff9aa220c7fe63b39df6d10588a5
+Checking out e1aa8b269c0e3281c323bc1fad509edabb668441
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/phpstan/
-  to /tmp/phpstanb26veR/phpstan-20241107.408
+  to /tmp/phpstanYdbXgS/phpstan-20250331.1920
     phpstan.el -> phpstan.el
-Created phpstan-20241107.408.tar containing:
-  phpstan-20241107.408/
-  phpstan-20241107.408/phpstan-pkg.el
-  phpstan-20241107.408/phpstan.el
+Created phpstan-20250331.1920.tar containing:
+  phpstan-20250331.1920/
+  phpstan-20250331.1920/phpstan-pkg.el
+  phpstan-20250331.1920/phpstan.el
  ✓ Success:
-  2025-03-28T23:16:26+0000  phpstan-20241107.408.entry
-  2025-03-28T23:16:26+0000  phpstan-20241107.408.tar
-Built phpstan in 3.915s, finished at 2025-03-28T23:16:27+0000
+  2025-03-31T22:22:33+0000  phpstan-20250331.1920.entry
+  2025-03-31T22:22:33+0000  phpstan-20250331.1920.tar
+Built phpstan in 3.761s, finished at 2025-03-31T22:22:34+0000

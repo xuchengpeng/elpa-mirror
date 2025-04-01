@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/go-translate/
 Checking out a924e0bd6b37d424c222377982e6f71a4ddf4452
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/go-translate/
-  to /tmp/go-translatedTlEhu/go-translate-20250318.907
+  to /tmp/go-translatexy0D5f/go-translate-20250318.907
     go-translate.el -> go-translate.el
     gt-core.el -> gt-core.el
     gt-engine-bing.el -> gt-engine-bing.el
@@ -43,6 +43,6 @@ Created go-translate-20250318.907.tar containing:
   go-translate-20250318.907/gt-httpx.el
   go-translate-20250318.907/gt-text-utility.el
  ✓ Success:
-  2025-03-28T22:45:06+0000  go-translate-20250318.907.entry
-  2025-03-28T22:45:06+0000  go-translate-20250318.907.tar
-Built go-translate in 4.416s, finished at 2025-03-28T22:45:08+0000
+  2025-04-01T00:44:54+0000  go-translate-20250318.907.entry
+  2025-04-01T00:44:54+0000  go-translate-20250318.907.tar
+Built go-translate in 4.148s, finished at 2025-04-01T00:44:55+0000

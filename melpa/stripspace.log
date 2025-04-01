@@ -1,0 +1,18 @@
+Package: stripspace
+Fetcher: github
+Source:  https://github.com/jamescherti/stripspace.el
+
+Updating /mnt/store/melpa/working/stripspace/
+Checking out 70eac3a2f99feedcc3fcd03ceb3b2c51b82fb1bf
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/stripspace/
+  to /tmp/stripspacewKImi4/stripspace-20250330.2329
+    stripspace.el -> stripspace.el
+Created stripspace-20250330.2329.tar containing:
+  stripspace-20250330.2329/
+  stripspace-20250330.2329/stripspace-pkg.el
+  stripspace-20250330.2329/stripspace.el
+ ✓ Success:
+  2025-03-31T22:35:35+0000  stripspace-20250330.2329.entry
+  2025-03-31T22:35:35+0000  stripspace-20250330.2329.tar
+Built stripspace in 3.517s, finished at 2025-03-31T22:35:37+0000

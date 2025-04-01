@@ -3,10 +3,10 @@ Fetcher: github
 Source:  https://github.com/szermatt/mistty
 
 Updating /mnt/store/melpa/working/mistty/
-Checking out 685b3b4cee90efd885b0b138ae6793a286715a75
+Checking out 9730f84cde9a6d7f553a72a075727fcba8145b89
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mistty/
-  to /tmp/misttyVD33Tk/mistty-20250328.2130
+  to /tmp/mistty12vsZQ/mistty-20250331.1952
     mistty-changeset.el -> mistty-changeset.el
     mistty-launch.el -> mistty-launch.el
     mistty-log.el -> mistty-log.el
@@ -20,25 +20,23 @@ Copying files (->) and directories (=>)
     mistty.el -> mistty.el
     mistty.texi -> mistty.texi
 Generating mistty.info
-Created mistty-20250328.2130.tar containing:
-  mistty-20250328.2130/
-  mistty-20250328.2130/dir
-  mistty-20250328.2130/mistty-changeset.el
-  mistty-20250328.2130/mistty-launch.el
-  mistty-20250328.2130/mistty-log.el
-  mistty-20250328.2130/mistty-osc-colors.el
-  mistty-20250328.2130/mistty-osc7.el
-  mistty-20250328.2130/mistty-pkg.el
-  mistty-20250328.2130/mistty-project.el
-  mistty-20250328.2130/mistty-queue.el
-  mistty-20250328.2130/mistty-term.el
-  mistty-20250328.2130/mistty-undo.el
-  mistty-20250328.2130/mistty-util.el
-  mistty-20250328.2130/mistty.el
-  mistty-20250328.2130/mistty.info
+Created mistty-20250331.1952.tar containing:
+  mistty-20250331.1952/
+  mistty-20250331.1952/dir
+  mistty-20250331.1952/mistty-changeset.el
+  mistty-20250331.1952/mistty-launch.el
+  mistty-20250331.1952/mistty-log.el
+  mistty-20250331.1952/mistty-osc-colors.el
+  mistty-20250331.1952/mistty-osc7.el
+  mistty-20250331.1952/mistty-pkg.el
+  mistty-20250331.1952/mistty-project.el
+  mistty-20250331.1952/mistty-queue.el
+  mistty-20250331.1952/mistty-term.el
+  mistty-20250331.1952/mistty-undo.el
+  mistty-20250331.1952/mistty-util.el
+  mistty-20250331.1952/mistty.el
+  mistty-20250331.1952/mistty.info
  ✓ Success:
-  2025-03-28T20:11:08+0000  mistty-20250326.1457.entry
-  2025-03-28T20:11:08+0000  mistty-20250326.1457.tar
-  2025-03-28T23:03:38+0000  mistty-20250328.2130.entry
-  2025-03-28T23:03:37+0000  mistty-20250328.2130.tar
-Built mistty in 8.426s, finished at 2025-03-28T23:03:39+0000
+  2025-04-01T01:03:14+0000  mistty-20250331.1952.entry
+  2025-04-01T01:03:13+0000  mistty-20250331.1952.tar
+Built mistty in 11.254s, finished at 2025-04-01T01:03:15+0000
