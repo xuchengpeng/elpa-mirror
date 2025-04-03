@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/fcitx/
 Checking out b399482ed8db5893db2701df01db4c38cccda495
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/fcitx/
-  to /tmp/fcitxEIv2Wu/fcitx-20240121.1829
+  to /tmp/fcitxqeHLjF/fcitx-20240121.1829
     fcitx.el -> fcitx.el
 Created fcitx-20240121.1829.tar containing:
   fcitx-20240121.1829/
   fcitx-20240121.1829/fcitx-pkg.el
   fcitx-20240121.1829/fcitx.el
  ✓ Success:
-  2025-04-01T00:36:46+0000  fcitx-20240121.1829.entry
-  2025-04-01T00:36:46+0000  fcitx-20240121.1829.tar
-Built fcitx in 3.682s, finished at 2025-04-01T00:36:47+0000
+  2025-04-02T23:43:26+0000  fcitx-20240121.1829.entry
+  2025-04-02T23:43:26+0000  fcitx-20240121.1829.tar
+Built fcitx in 3.900s, finished at 2025-04-02T23:43:27+0000
