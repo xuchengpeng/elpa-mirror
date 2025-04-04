@@ -3,22 +3,22 @@ Fetcher: github
 Source:  https://github.com/tarides/ocaml-eglot
 
 Updating /mnt/store/melpa/working/ocaml-eglot/
-Checking out 049449a28bf8b5be87854df344963865303998ce
+Checking out 2427524deb415035aecf2c02279d3416ff2d9abd
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ocaml-eglot/
-  to /tmp/ocaml-eglotqFh02a/ocaml-eglot-20250401.1605
+  to /tmp/ocaml-eglot6Yv0VC/ocaml-eglot-20250403.1303
     ocaml-eglot-req.el -> ocaml-eglot-req.el
     ocaml-eglot-type-enclosing.el -> ocaml-eglot-type-enclosing.el
     ocaml-eglot-util.el -> ocaml-eglot-util.el
     ocaml-eglot.el -> ocaml-eglot.el
-Created ocaml-eglot-20250401.1605.tar containing:
-  ocaml-eglot-20250401.1605/
-  ocaml-eglot-20250401.1605/ocaml-eglot-pkg.el
-  ocaml-eglot-20250401.1605/ocaml-eglot-req.el
-  ocaml-eglot-20250401.1605/ocaml-eglot-type-enclosing.el
-  ocaml-eglot-20250401.1605/ocaml-eglot-util.el
-  ocaml-eglot-20250401.1605/ocaml-eglot.el
+Created ocaml-eglot-20250403.1303.tar containing:
+  ocaml-eglot-20250403.1303/
+  ocaml-eglot-20250403.1303/ocaml-eglot-pkg.el
+  ocaml-eglot-20250403.1303/ocaml-eglot-req.el
+  ocaml-eglot-20250403.1303/ocaml-eglot-type-enclosing.el
+  ocaml-eglot-20250403.1303/ocaml-eglot-util.el
+  ocaml-eglot-20250403.1303/ocaml-eglot.el
  ✓ Success:
-  2025-04-03T00:17:20+0000  ocaml-eglot-20250401.1605.entry
-  2025-04-03T00:17:20+0000  ocaml-eglot-20250401.1605.tar
-Built ocaml-eglot in 4.679s, finished at 2025-04-03T00:17:21+0000
+  2025-04-04T00:14:09+0000  ocaml-eglot-20250403.1303.entry
+  2025-04-04T00:14:09+0000  ocaml-eglot-20250403.1303.tar
+Built ocaml-eglot in 3.941s, finished at 2025-04-04T00:14:10+0000

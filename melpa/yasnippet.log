@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/joaotavora/yasnippet
 
 Updating /mnt/store/melpa/working/yasnippet/
-Checking out 03b1b11547eab76851574eadd18e2ad186b2a080
+Checking out 2384fe1655c60e803521ba59a34c0a7e48a25d06
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/yasnippet/
-  to /tmp/yasnippet1oW2E5/yasnippet-20250112.1504
+  to /tmp/yasnippetA37GdK/yasnippet-20250403.1926
     yasnippet.el -> yasnippet.el
-Created yasnippet-20250112.1504.tar containing:
-  yasnippet-20250112.1504/
-  yasnippet-20250112.1504/yasnippet-pkg.el
-  yasnippet-20250112.1504/yasnippet.el
+Created yasnippet-20250403.1926.tar containing:
+  yasnippet-20250403.1926/
+  yasnippet-20250403.1926/yasnippet-pkg.el
+  yasnippet-20250403.1926/yasnippet.el
  ✓ Success:
-  2025-04-03T00:50:41+0000  yasnippet-20250112.1504.entry
-  2025-04-03T00:50:41+0000  yasnippet-20250112.1504.tar
-Built yasnippet in 4.636s, finished at 2025-04-03T00:50:42+0000
+  2025-04-04T00:44:30+0000  yasnippet-20250403.1926.entry
+  2025-04-04T00:44:30+0000  yasnippet-20250403.1926.tar
+Built yasnippet in 4.230s, finished at 2025-04-04T00:44:31+0000

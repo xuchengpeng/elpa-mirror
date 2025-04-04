@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/sq/
 Checking out 096c641fe2ac1efeb8ba09d1244ef95bf25ae1bb
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/sq/
-  to /tmp/sqiSq2NV/sq-20240721.933
+  to /tmp/sqVCWiWe/sq-20240721.933
     sq.el -> sq.el
 Created sq-20240721.933.tar containing:
   sq-20240721.933/
   sq-20240721.933/sq-pkg.el
   sq-20240721.933/sq.el
  ✓ Success:
-  2025-04-03T00:39:08+0000  sq-20240721.933.entry
-  2025-04-03T00:39:08+0000  sq-20240721.933.tar
-Built sq in 3.989s, finished at 2025-04-03T00:39:09+0000
+  2025-04-04T00:33:41+0000  sq-20240721.933.entry
+  2025-04-04T00:33:41+0000  sq-20240721.933.tar
+Built sq in 5.946s, finished at 2025-04-04T00:33:43+0000
