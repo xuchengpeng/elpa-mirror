@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/tarsius/keycast
 
 Updating /mnt/store/melpa/working/keycast/
-Checking out df329db48c22a3905d540c4240ac65c7b45f51dd
+Checking out b231289e3b63a982187f84fda73f3852a14963fd
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/keycast/
-  to /tmp/keycastfLCr5u/keycast-20250301.1645
+  to /tmp/keycastjaFlu0/keycast-20250406.1103
     keycast.el -> keycast.el
-Created keycast-20250301.1645.tar containing:
-  keycast-20250301.1645/
-  keycast-20250301.1645/keycast-pkg.el
-  keycast-20250301.1645/keycast.el
+Created keycast-20250406.1103.tar containing:
+  keycast-20250406.1103/
+  keycast-20250406.1103/keycast-pkg.el
+  keycast-20250406.1103/keycast.el
  ✓ Success:
-  2025-04-04T23:03:00+0000  keycast-20250301.1645.entry
-  2025-04-04T23:03:00+0000  keycast-20250301.1645.tar
-Built keycast in 3.549s, finished at 2025-04-04T23:03:02+0000
+  2025-04-07T23:10:47+0000  keycast-20250406.1103.entry
+  2025-04-07T23:10:47+0000  keycast-20250406.1103.tar
+Built keycast in 3.243s, finished at 2025-04-07T23:10:48+0000

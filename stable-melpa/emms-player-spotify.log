@@ -3,18 +3,16 @@ Fetcher: github
 Source:  https://github.com/sarg/emms-spotify
 
 Updating /mnt/store/melpa/working/emms-player-spotify/
-Checking out e553a2157fb2ebf4e0b00594067eea4c680a1940
+Checking out dec0d34736da7ff538117033b3758edde3b8e546
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/emms-player-spotify/
-  to /tmp/emms-player-spotifyx07vZt/emms-player-spotify-20250322.838
-    emms-player-spotify-counsel.el -> emms-player-spotify-counsel.el
+  to /tmp/emms-player-spotifyLTcORk/emms-player-spotify-20250405.915
     emms-player-spotify.el -> emms-player-spotify.el
-Created emms-player-spotify-20250322.838.tar containing:
-  emms-player-spotify-20250322.838/
-  emms-player-spotify-20250322.838/emms-player-spotify-counsel.el
-  emms-player-spotify-20250322.838/emms-player-spotify-pkg.el
-  emms-player-spotify-20250322.838/emms-player-spotify.el
+Created emms-player-spotify-20250405.915.tar containing:
+  emms-player-spotify-20250405.915/
+  emms-player-spotify-20250405.915/emms-player-spotify-pkg.el
+  emms-player-spotify-20250405.915/emms-player-spotify.el
  ✓ Success:
-  2025-04-04T22:39:39+0000  emms-player-spotify-20250322.838.entry
-  2025-04-04T22:39:39+0000  emms-player-spotify-20250322.838.tar
-Built emms-player-spotify in 3.326s, finished at 2025-04-04T22:39:40+0000
+  2025-04-07T22:46:31+0000  emms-player-spotify-20250405.915.entry
+  2025-04-07T22:46:31+0000  emms-player-spotify-20250405.915.tar
+Built emms-player-spotify in 4.971s, finished at 2025-04-07T22:46:33+0000
