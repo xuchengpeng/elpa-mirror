@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/motform/arduino-cli-mode
 
 Updating /mnt/store/melpa/working/arduino-cli-mode/
-Checking out 0722e4af48be69fd8a3e54c20626b4aa093ded1e
+Checking out e734bbaa31a0f4dd0d3a4ca28031ff2f53d34ed2
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/arduino-cli-mode/
-  to /tmp/arduino-cli-modeXG27BT/arduino-cli-mode-20250407.1204
+  to /tmp/arduino-cli-modekueA8P/arduino-cli-mode-20250411.1340
     arduino-cli-mode.el -> arduino-cli-mode.el
-Created arduino-cli-mode-20250407.1204.tar containing:
-  arduino-cli-mode-20250407.1204/
-  arduino-cli-mode-20250407.1204/arduino-cli-mode-pkg.el
-  arduino-cli-mode-20250407.1204/arduino-cli-mode.el
+Created arduino-cli-mode-20250411.1340.tar containing:
+  arduino-cli-mode-20250411.1340/
+  arduino-cli-mode-20250411.1340/arduino-cli-mode-pkg.el
+  arduino-cli-mode-20250411.1340/arduino-cli-mode.el
  ✓ Success:
-  2025-04-07T22:27:04+0000  arduino-cli-mode-20250407.1204.entry
-  2025-04-07T22:27:04+0000  arduino-cli-mode-20250407.1204.tar
-Built arduino-cli-mode in 3.733s, finished at 2025-04-07T22:27:05+0000
+  2025-04-12T00:19:12+0000  arduino-cli-mode-20250411.1340.entry
+  2025-04-12T00:19:12+0000  arduino-cli-mode-20250411.1340.tar
+Built arduino-cli-mode in 2.809s, finished at 2025-04-12T00:19:13+0000
