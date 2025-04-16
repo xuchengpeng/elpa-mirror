@@ -40,6 +40,7 @@ Example use.
 
 ; Changes
 
+2025-04-14: add `org-review-unreviewed' to review never reviewed entries
 2022-04-11: systematically insert name of week day in date
 2016-08-18: better detection of org-agenda buffers
 2014-05-08: added the ability to specify next review dates

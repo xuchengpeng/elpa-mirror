@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/bind-map/
 Checking out f23cfc13222a39e686d28a83ff83e9901d8908b2
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/bind-map/
-  to /tmp/bind-mapsTA0Sh/bind-map-20250308.1210
+  to /tmp/bind-mapW8wfrK/bind-map-20250308.1210
     bind-map.el -> bind-map.el
 Created bind-map-20250308.1210.tar containing:
   bind-map-20250308.1210/
   bind-map-20250308.1210/bind-map-pkg.el
   bind-map-20250308.1210/bind-map.el
  ✓ Success:
-  2025-04-13T01:41:44+0000  bind-map-20250308.1210.entry
-  2025-04-13T01:41:44+0000  bind-map-20250308.1210.tar
-Built bind-map in 3.307s, finished at 2025-04-13T01:41:45+0000
+  2025-04-15T22:36:24+0000  bind-map-20250308.1210.entry
+  2025-04-15T22:36:24+0000  bind-map-20250308.1210.tar
+Built bind-map in 4.551s, finished at 2025-04-15T22:36:25+0000

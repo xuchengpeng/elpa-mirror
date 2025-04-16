@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/lice/
 Checking out 0b69ba54057146f1473e85c0760029e584e3eb13
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/lice/
-  to /tmp/licekqIne3/lice-20220312.2215
+  to /tmp/lice1V3qrA/lice-20220312.2215
     lice.el -> lice.el
     template => template
 Created lice-20220312.2215.tar containing:
@@ -31,6 +31,6 @@ Created lice-20220312.2215.tar containing:
   lice-20220312.2215/template/mozilla
   lice-20220312.2215/template/unlicense
  ✓ Success:
-  2025-04-13T02:19:22+0000  lice-20220312.2215.entry
-  2025-04-13T02:19:22+0000  lice-20220312.2215.tar
-Built lice in 2.700s, finished at 2025-04-13T02:19:23+0000
+  2025-04-15T23:13:26+0000  lice-20220312.2215.entry
+  2025-04-15T23:13:25+0000  lice-20220312.2215.tar
+Built lice in 2.791s, finished at 2025-04-15T23:13:26+0000

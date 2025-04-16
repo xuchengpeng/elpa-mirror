@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/copyit/
 Checking out 09556ba8407dc2b132b7f76cd1b458c0773a1fe8
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/copyit/
-  to /tmp/copyitWBUt17/copyit-20241030.543
+  to /tmp/copyitrwB0OI/copyit-20241030.543
     copyit.el -> copyit.el
 Created copyit-20241030.543.tar containing:
   copyit-20241030.543/
   copyit-20241030.543/copyit-pkg.el
   copyit-20241030.543/copyit.el
  ✓ Success:
-  2025-04-13T01:48:51+0000  copyit-20241030.543.entry
-  2025-04-13T01:48:51+0000  copyit-20241030.543.tar
-Built copyit in 3.356s, finished at 2025-04-13T01:48:52+0000
+  2025-04-15T22:42:54+0000  copyit-20241030.543.entry
+  2025-04-15T22:42:54+0000  copyit-20241030.543.tar
+Built copyit in 3.152s, finished at 2025-04-15T22:42:55+0000

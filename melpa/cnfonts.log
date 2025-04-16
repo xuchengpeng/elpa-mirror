@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/cnfonts/
 Checking out 0b4fb8c2f743594010bb8137db6e71087efdaf67
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/cnfonts/
-  to /tmp/cnfontsGXMD2V/cnfonts-20241120.2133
+  to /tmp/cnfontsrkYZbs/cnfonts-20241120.2133
     cnfonts-ui.el -> cnfonts-ui.el
     cnfonts.el -> cnfonts.el
 Created cnfonts-20241120.2133.tar containing:
@@ -15,6 +15,6 @@ Created cnfonts-20241120.2133.tar containing:
   cnfonts-20241120.2133/cnfonts-ui.el
   cnfonts-20241120.2133/cnfonts.el
  ✓ Success:
-  2025-04-13T01:45:56+0000  cnfonts-20241120.2133.entry
-  2025-04-13T01:45:56+0000  cnfonts-20241120.2133.tar
-Built cnfonts in 3.736s, finished at 2025-04-13T01:45:57+0000
+  2025-04-15T22:40:25+0000  cnfonts-20241120.2133.entry
+  2025-04-15T22:40:25+0000  cnfonts-20241120.2133.tar
+Built cnfonts in 3.619s, finished at 2025-04-15T22:40:26+0000
