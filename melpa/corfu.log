@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/corfu/
 Checking out 5834e3ed652068209a653ea067f91d3f537d0be5
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/corfu/
-  to /tmp/corfuvcsPIq/corfu-20250415.610
+  to /tmp/corfuHjZ4SK/corfu-20250415.610
     corfu.el -> corfu.el
   ! extensions/corfu-echo.el -> corfu-echo.el
   ! extensions/corfu-history.el -> corfu-history.el
@@ -25,6 +25,6 @@ Created corfu-20250415.610.tar containing:
   corfu-20250415.610/corfu-quick.el
   corfu-20250415.610/corfu.el
  ✓ Success:
-  2025-04-15T22:42:56+0000  corfu-20250415.610.entry
-  2025-04-15T22:42:56+0000  corfu-20250415.610.tar
-Built corfu in 3.049s, finished at 2025-04-15T22:42:57+0000
+  2025-04-18T23:57:31+0000  corfu-20250415.610.entry
+  2025-04-18T23:57:31+0000  corfu-20250415.610.tar
+Built corfu in 3.740s, finished at 2025-04-18T23:57:32+0000

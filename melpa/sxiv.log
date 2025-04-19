@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/sxiv/
 Checking out 47f5b2fbb94c569dc5e71cbe4de9c6eabbbc69e8
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/sxiv/
-  to /tmp/sxivxJrQOA/sxiv-20220530.14
+  to /tmp/sxivLW1fFL/sxiv-20220530.14
     sxiv.el -> sxiv.el
 Created sxiv-20220530.14.tar containing:
   sxiv-20220530.14/
   sxiv-20220530.14/sxiv-pkg.el
   sxiv-20220530.14/sxiv.el
  ✓ Success:
-  2025-04-15T23:41:21+0000  sxiv-20220530.14.entry
-  2025-04-15T23:41:21+0000  sxiv-20220530.14.tar
-Built sxiv in 3.591s, finished at 2025-04-15T23:41:22+0000
+  2025-04-19T00:55:20+0000  sxiv-20220530.14.entry
+  2025-04-19T00:55:20+0000  sxiv-20220530.14.tar
+Built sxiv in 3.626s, finished at 2025-04-19T00:55:21+0000

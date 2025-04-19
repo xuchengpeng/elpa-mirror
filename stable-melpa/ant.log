@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/ant/
 Checking out 510b5a3f57ee4b2855422d88d359a28922c1ab70
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ant/
-  to /tmp/antlWSvdQ/ant-20160211.1543
+  to /tmp/antxhKHmT/ant-20160211.1543
     ant.el -> ant.el
 Created ant-20160211.1543.tar containing:
   ant-20160211.1543/
   ant-20160211.1543/ant-pkg.el
   ant-20160211.1543/ant.el
  ✓ Success:
-  2025-04-15T22:33:47+0000  ant-20160211.1543.entry
-  2025-04-15T22:33:47+0000  ant-20160211.1543.tar
-Built ant in 3.228s, finished at 2025-04-15T22:33:48+0000
+  2025-04-18T23:48:44+0000  ant-20160211.1543.entry
+  2025-04-18T23:48:43+0000  ant-20160211.1543.tar
+Built ant in 2.463s, finished at 2025-04-18T23:48:44+0000

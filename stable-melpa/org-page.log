@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/org-page/
 Checking out 3641afab005b892b586a1e70da29201004c189c3
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/org-page/
-  to /tmp/org-pageZ5hj1l/org-page-20241227.814
+  to /tmp/org-pageyoRTMn/org-page-20241227.814
     op-enhance.el -> op-enhance.el
     op-export.el -> op-export.el
     op-git.el -> op-git.el
@@ -188,6 +188,6 @@ Created org-page-20241227.814.tar containing:
   org-page-20241227.814/themes/wy/templates/tag-index.mustache
   org-page-20241227.814/themes/wy/templates/tag.mustache
  ✓ Success:
-  2025-04-15T23:24:52+0000  org-page-20241227.814.entry
-  2025-04-15T23:24:52+0000  org-page-20241227.814.tar
-Built org-page in 3.886s, finished at 2025-04-15T23:24:53+0000
+  2025-04-19T00:38:40+0000  org-page-20241227.814.entry
+  2025-04-19T00:38:40+0000  org-page-20241227.814.tar
+Built org-page in 4.302s, finished at 2025-04-19T00:38:42+0000

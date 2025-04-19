@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/helm-chrome-history/
 Checking out f9002d4c12df65a99830376b126dbbeae3ef2148
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/helm-chrome-history/
-  to /tmp/helm-chrome-historyMigqF6/helm-chrome-history-20191031.1233
+  to /tmp/helm-chrome-history41jjMe/helm-chrome-history-20191031.1233
     helm-chrome-history.el -> helm-chrome-history.el
 Created helm-chrome-history-20191031.1233.tar containing:
   helm-chrome-history-20191031.1233/
   helm-chrome-history-20191031.1233/helm-chrome-history-pkg.el
   helm-chrome-history-20191031.1233/helm-chrome-history.el
  ✓ Success:
-  2025-04-15T23:03:28+0000  helm-chrome-history-20191031.1233.entry
-  2025-04-15T23:03:28+0000  helm-chrome-history-20191031.1233.tar
-Built helm-chrome-history in 2.671s, finished at 2025-04-15T23:03:29+0000
+  2025-04-19T00:17:55+0000  helm-chrome-history-20191031.1233.entry
+  2025-04-19T00:17:55+0000  helm-chrome-history-20191031.1233.tar
+Built helm-chrome-history in 2.780s, finished at 2025-04-19T00:17:56+0000

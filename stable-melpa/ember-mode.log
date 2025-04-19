@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/ember-mode/
 Checking out 38145ad189000c58860594c05523e42bacb3d246
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ember-mode/
-  to /tmp/ember-mode7b87Na/ember-mode-20240507.915
+  to /tmp/ember-modeC2kYsx/ember-mode-20240507.915
     ember-mode.el -> ember-mode.el
 Created ember-mode-20240507.915.tar containing:
   ember-mode-20240507.915/
   ember-mode-20240507.915/ember-mode-pkg.el
   ember-mode-20240507.915/ember-mode.el
  ✓ Success:
-  2025-04-15T22:50:55+0000  ember-mode-20240507.915.entry
-  2025-04-15T22:50:55+0000  ember-mode-20240507.915.tar
-Built ember-mode in 3.117s, finished at 2025-04-15T22:50:56+0000
+  2025-04-19T00:05:37+0000  ember-mode-20240507.915.entry
+  2025-04-19T00:05:37+0000  ember-mode-20240507.915.tar
+Built ember-mode in 2.893s, finished at 2025-04-19T00:05:38+0000

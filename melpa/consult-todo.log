@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/eki3z/consult-todo
 
 Updating /mnt/store/melpa/working/consult-todo/
-Checking out b50df0da6243d7a91016e1b8c9a208fb167695be
+Checking out f9ba063a6714cb95ddbd886786ada93771f3c140
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/consult-todo/
-  to /tmp/consult-todoLHm0db/consult-todo-20250201.1342
+  to /tmp/consult-todoLbur5Q/consult-todo-20250417.1903
     consult-todo.el -> consult-todo.el
-Created consult-todo-20250201.1342.tar containing:
-  consult-todo-20250201.1342/
-  consult-todo-20250201.1342/consult-todo-pkg.el
-  consult-todo-20250201.1342/consult-todo.el
+Created consult-todo-20250417.1903.tar containing:
+  consult-todo-20250417.1903/
+  consult-todo-20250417.1903/consult-todo-pkg.el
+  consult-todo-20250417.1903/consult-todo.el
  ✓ Success:
-  2025-04-15T22:42:45+0000  consult-todo-20250201.1342.entry
-  2025-04-15T22:42:45+0000  consult-todo-20250201.1342.tar
-Built consult-todo in 3.040s, finished at 2025-04-15T22:42:46+0000
+  2025-04-18T23:57:19+0000  consult-todo-20250417.1903.entry
+  2025-04-18T23:57:19+0000  consult-todo-20250417.1903.tar
+Built consult-todo in 2.673s, finished at 2025-04-18T23:57:20+0000

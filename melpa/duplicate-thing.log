@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/duplicate-thing/
 Checking out 9d8fd05e3e5caa35d3f2a0c0032c92f0c0908e21
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/duplicate-thing/
-  to /tmp/duplicate-thingFA6UPe/duplicate-thing-20181031.1500
+  to /tmp/duplicate-thingdmpqqo/duplicate-thing-20181031.1500
     duplicate-thing.el -> duplicate-thing.el
 Created duplicate-thing-20181031.1500.tar containing:
   duplicate-thing-20181031.1500/
   duplicate-thing-20181031.1500/duplicate-thing-pkg.el
   duplicate-thing-20181031.1500/duplicate-thing.el
  ✓ Success:
-  2025-04-15T22:48:13+0000  duplicate-thing-20181031.1500.entry
-  2025-04-15T22:48:13+0000  duplicate-thing-20181031.1500.tar
-Built duplicate-thing in 4.915s, finished at 2025-04-15T22:48:15+0000
+  2025-04-19T00:02:34+0000  duplicate-thing-20181031.1500.entry
+  2025-04-19T00:02:34+0000  duplicate-thing-20181031.1500.tar
+Built duplicate-thing in 3.064s, finished at 2025-04-19T00:02:35+0000

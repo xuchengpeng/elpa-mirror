@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/indexed/
 Checking out 61b31212800cd6b2a5a2b95eeb0fd27bed8dd009
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/indexed/
-  to /tmp/indexed9osC32/indexed-20250412.1124
+  to /tmp/indexedYvDJ2A/indexed-20250412.1124
     indexed-list.el -> indexed-list.el
     indexed-org-parser.el -> indexed-org-parser.el
     indexed-orgdb.el -> indexed-orgdb.el
@@ -23,6 +23,6 @@ Created indexed-20250412.1124.tar containing:
   indexed-20250412.1124/indexed-x.el
   indexed-20250412.1124/indexed.el
  ✓ Success:
-  2025-04-15T23:08:07+0000  indexed-20250412.1124.entry
-  2025-04-15T23:08:07+0000  indexed-20250412.1124.tar
-Built indexed in 3.639s, finished at 2025-04-15T23:08:08+0000
+  2025-04-19T00:22:30+0000  indexed-20250412.1124.entry
+  2025-04-19T00:22:30+0000  indexed-20250412.1124.tar
+Built indexed in 5.323s, finished at 2025-04-19T00:22:31+0000

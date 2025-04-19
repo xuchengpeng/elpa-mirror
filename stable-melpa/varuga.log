@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/varuga/
 Checking out b88ea762f7f0c321176ffd0d5d47c89d6971faf7
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/varuga/
-  to /tmp/varuganZNKAj/varuga-20241006.2204
+  to /tmp/varugagTMRey/varuga-20241006.2204
     varuga.el -> varuga.el
 Created varuga-20241006.2204.tar containing:
   varuga-20241006.2204/
   varuga-20241006.2204/varuga-pkg.el
   varuga-20241006.2204/varuga.el
  ✓ Success:
-  2025-04-15T23:45:58+0000  varuga-20241006.2204.entry
-  2025-04-15T23:45:58+0000  varuga-20241006.2204.tar
-Built varuga in 8.643s, finished at 2025-04-15T23:45:59+0000
+  2025-04-18T22:28:52+0000  varuga-20241006.2204.entry
+  2025-04-18T22:28:52+0000  varuga-20241006.2204.tar
+Built varuga in 7.804s, finished at 2025-04-18T22:28:53+0000

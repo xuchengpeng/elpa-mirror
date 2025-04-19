@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/flycheck-dialyzer/
 Checking out a5df0db95ac69f397b5f85d325a6d88cf8974f64
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/flycheck-dialyzer/
-  to /tmp/flycheck-dialyzer8rIUfQ/flycheck-dialyzer-20160326.1430
+  to /tmp/flycheck-dialyzerYLk2nQ/flycheck-dialyzer-20160326.1430
     flycheck-dialyzer.el -> flycheck-dialyzer.el
 Created flycheck-dialyzer-20160326.1430.tar containing:
   flycheck-dialyzer-20160326.1430/
   flycheck-dialyzer-20160326.1430/flycheck-dialyzer-pkg.el
   flycheck-dialyzer-20160326.1430/flycheck-dialyzer.el
  ✓ Success:
-  2025-04-15T22:56:10+0000  flycheck-dialyzer-20160326.1430.entry
-  2025-04-15T22:56:10+0000  flycheck-dialyzer-20160326.1430.tar
-Built flycheck-dialyzer in 2.561s, finished at 2025-04-15T22:56:11+0000
+  2025-04-19T00:10:50+0000  flycheck-dialyzer-20160326.1430.entry
+  2025-04-19T00:10:49+0000  flycheck-dialyzer-20160326.1430.tar
+Built flycheck-dialyzer in 4.465s, finished at 2025-04-19T00:10:51+0000
