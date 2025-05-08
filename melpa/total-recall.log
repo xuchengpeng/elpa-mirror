@@ -1,0 +1,18 @@
+Package: total-recall
+Fetcher: github
+Source:  https://github.com/phf-1/total-recall
+
+Updating /mnt/store/melpa/working/total-recall/
+Checking out e3e54d0ea9f5add496d168e97a1149d836d9216b
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/total-recall/
+  to /tmp/total-recall05KII0/total-recall-20250501.1140
+    total-recall.el -> total-recall.el
+Created total-recall-20250501.1140.tar containing:
+  total-recall-20250501.1140/
+  total-recall-20250501.1140/total-recall-pkg.el
+  total-recall-20250501.1140/total-recall.el
+ ✓ Success:
+  2025-05-08T05:18:03+0000  total-recall-20250501.1140.entry
+  2025-05-08T05:18:03+0000  total-recall-20250501.1140.tar
+Built total-recall in 3.435s, finished at 2025-05-08T05:18:04+0000

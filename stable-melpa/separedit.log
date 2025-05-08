@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/twlz0ne/separedit.el
 
 Updating /mnt/store/melpa/working/separedit/
-Checking out 0001d2b4fcc6e5f40ebc82dd3c80ac7ce4031234
+Checking out 5cb46a65fc6e12b753dce8f581fbfa144d011a80
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/separedit/
-  to /tmp/separeditX8gyX7/separedit-20241012.125
+  to /tmp/separeditZ07LPl/separedit-20250506.833
     separedit.el -> separedit.el
-Created separedit-20241012.125.tar containing:
-  separedit-20241012.125/
-  separedit-20241012.125/separedit-pkg.el
-  separedit-20241012.125/separedit.el
+Created separedit-20250506.833.tar containing:
+  separedit-20250506.833/
+  separedit-20250506.833/separedit-pkg.el
+  separedit-20250506.833/separedit.el
  ✓ Success:
-  2025-04-19T00:50:37+0000  separedit-20241012.125.entry
-  2025-04-19T00:50:37+0000  separedit-20241012.125.tar
-Built separedit in 4.824s, finished at 2025-04-19T00:50:38+0000
+  2025-05-08T05:11:07+0000  separedit-20250506.833.entry
+  2025-05-08T05:11:07+0000  separedit-20250506.833.tar
+Built separedit in 3.196s, finished at 2025-05-08T05:11:08+0000

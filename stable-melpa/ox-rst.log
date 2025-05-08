@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/msnoigrs/ox-rst
 
 Updating /mnt/store/melpa/working/ox-rst/
-Checking out 31999a9114ad9f2546eb72d8361b7181fed35337
+Checking out b73eff187eebac24b457688bfd27f09eff434860
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ox-rst/
-  to /tmp/ox-rsts2ZWIR/ox-rst-20250407.746
+  to /tmp/ox-rstu06RQC/ox-rst-20250428.534
     ox-rst.el -> ox-rst.el
-Created ox-rst-20250407.746.tar containing:
-  ox-rst-20250407.746/
-  ox-rst-20250407.746/ox-rst-pkg.el
-  ox-rst-20250407.746/ox-rst.el
+Created ox-rst-20250428.534.tar containing:
+  ox-rst-20250428.534/
+  ox-rst-20250428.534/ox-rst-pkg.el
+  ox-rst-20250428.534/ox-rst.el
  ✓ Success:
-  2025-04-19T00:41:12+0000  ox-rst-20250407.746.entry
-  2025-04-19T00:41:12+0000  ox-rst-20250407.746.tar
-Built ox-rst in 3.108s, finished at 2025-04-19T00:41:13+0000
+  2025-05-08T05:01:22+0000  ox-rst-20250428.534.entry
+  2025-05-08T05:01:22+0000  ox-rst-20250428.534.tar
+Built ox-rst in 7.565s, finished at 2025-05-08T05:01:24+0000

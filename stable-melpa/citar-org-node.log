@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/krisbalintona/citar-org-node
 
 Updating /mnt/store/melpa/working/citar-org-node/
-Checking out b5a1870b958bd872482f163fd337b11eb4d49fc6
+Checking out ba832ea2c5a774d4dc5bcb66f321a030c6380600
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/citar-org-node/
-  to /tmp/citar-org-nodefzMfFE/citar-org-node-20250406.1610
+  to /tmp/citar-org-node47Wq51/citar-org-node-20250422.839
     citar-org-node.el -> citar-org-node.el
-Created citar-org-node-20250406.1610.tar containing:
-  citar-org-node-20250406.1610/
-  citar-org-node-20250406.1610/citar-org-node-pkg.el
-  citar-org-node-20250406.1610/citar-org-node.el
+Created citar-org-node-20250422.839.tar containing:
+  citar-org-node-20250422.839/
+  citar-org-node-20250422.839/citar-org-node-pkg.el
+  citar-org-node-20250422.839/citar-org-node.el
  ✓ Success:
-  2025-04-18T23:54:34+0000  citar-org-node-20250406.1610.entry
-  2025-04-18T23:54:34+0000  citar-org-node-20250406.1610.tar
-Built citar-org-node in 2.902s, finished at 2025-04-18T23:54:35+0000
+  2025-05-08T06:48:46+0000  citar-org-node-20250422.839.entry
+  2025-05-08T06:48:46+0000  citar-org-node-20250422.839.tar
+Built citar-org-node in 3.091s, finished at 2025-05-08T06:48:47+0000

@@ -3,36 +3,38 @@ Fetcher: github
 Source:  https://github.com/kimim/chatu
 
 Updating /mnt/store/melpa/working/chatu/
-Checking out d5d06c4efcc54156e6c8be3db488434508ce370f
+Checking out 5324662e8dc3b16cdd7e596c98832f427962c223
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/chatu/
-  to /tmp/chatuwuuLBV/chatu-20250403.45
+  to /tmp/chatu99PLdJ/chatu-20250425.645
     chatu-babashka.el -> chatu-babashka.el
     chatu-clojure.el -> chatu-clojure.el
     chatu-common.el -> chatu-common.el
     chatu-curl.el -> chatu-curl.el
     chatu-drawio.el -> chatu-drawio.el
     chatu-inline.el -> chatu-inline.el
+    chatu-latex.el -> chatu-latex.el
     chatu-lilypond.el -> chatu-lilypond.el
     chatu-plantuml.el -> chatu-plantuml.el
     chatu-python.el -> chatu-python.el
     chatu-r.el -> chatu-r.el
     chatu.el -> chatu.el
-Created chatu-20250403.45.tar containing:
-  chatu-20250403.45/
-  chatu-20250403.45/chatu-babashka.el
-  chatu-20250403.45/chatu-clojure.el
-  chatu-20250403.45/chatu-common.el
-  chatu-20250403.45/chatu-curl.el
-  chatu-20250403.45/chatu-drawio.el
-  chatu-20250403.45/chatu-inline.el
-  chatu-20250403.45/chatu-lilypond.el
-  chatu-20250403.45/chatu-pkg.el
-  chatu-20250403.45/chatu-plantuml.el
-  chatu-20250403.45/chatu-python.el
-  chatu-20250403.45/chatu-r.el
-  chatu-20250403.45/chatu.el
+Created chatu-20250425.645.tar containing:
+  chatu-20250425.645/
+  chatu-20250425.645/chatu-babashka.el
+  chatu-20250425.645/chatu-clojure.el
+  chatu-20250425.645/chatu-common.el
+  chatu-20250425.645/chatu-curl.el
+  chatu-20250425.645/chatu-drawio.el
+  chatu-20250425.645/chatu-inline.el
+  chatu-20250425.645/chatu-latex.el
+  chatu-20250425.645/chatu-lilypond.el
+  chatu-20250425.645/chatu-pkg.el
+  chatu-20250425.645/chatu-plantuml.el
+  chatu-20250425.645/chatu-python.el
+  chatu-20250425.645/chatu-r.el
+  chatu-20250425.645/chatu.el
  ✓ Success:
-  2025-04-18T23:53:59+0000  chatu-20250403.45.entry
-  2025-04-18T23:53:58+0000  chatu-20250403.45.tar
-Built chatu in 2.773s, finished at 2025-04-18T23:53:59+0000
+  2025-05-08T06:48:07+0000  chatu-20250425.645.entry
+  2025-05-08T06:48:07+0000  chatu-20250425.645.tar
+Built chatu in 2.791s, finished at 2025-05-08T06:48:08+0000

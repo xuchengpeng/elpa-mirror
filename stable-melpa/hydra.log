@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/hydra/
 Checking out 59a2a45a35027948476d1d7751b0f0215b1e61aa
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/hydra/
-  to /tmp/hydra6wwtCa/hydra-20250316.1254
+  to /tmp/hydra5HyuGF/hydra-20250316.1254
     hydra-examples.el -> hydra-examples.el
     hydra-ox.el -> hydra-ox.el
     hydra.el -> hydra.el
@@ -17,6 +17,6 @@ Created hydra-20250316.1254.tar containing:
   hydra-20250316.1254/hydra-pkg.el
   hydra-20250316.1254/hydra.el
  ✓ Success:
-  2025-04-19T00:21:04+0000  hydra-20250316.1254.entry
-  2025-04-19T00:21:04+0000  hydra-20250316.1254.tar
-Built hydra in 3.376s, finished at 2025-04-19T00:21:05+0000
+  2025-05-08T04:40:46+0000  hydra-20250316.1254.entry
+  2025-05-08T04:40:46+0000  hydra-20250316.1254.tar
+Built hydra in 3.231s, finished at 2025-05-08T04:40:47+0000

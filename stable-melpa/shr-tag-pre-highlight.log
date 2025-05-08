@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/xuchunyang/shr-tag-pre-highlight.el
 
 Updating /mnt/store/melpa/working/shr-tag-pre-highlight/
-Checking out af8ae8d558d1e26d276130c100e02746278ce037
+Checking out 02a93d48f030d71eba460bd09d091baedcad6626
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/shr-tag-pre-highlight/
-  to /tmp/shr-tag-pre-highlightUZkwXZ/shr-tag-pre-highlight-20240515.1420
+  to /tmp/shr-tag-pre-highlight4MwLjy/shr-tag-pre-highlight-20250501.1509
     shr-tag-pre-highlight.el -> shr-tag-pre-highlight.el
-Created shr-tag-pre-highlight-20240515.1420.tar containing:
-  shr-tag-pre-highlight-20240515.1420/
-  shr-tag-pre-highlight-20240515.1420/shr-tag-pre-highlight-pkg.el
-  shr-tag-pre-highlight-20240515.1420/shr-tag-pre-highlight.el
+Created shr-tag-pre-highlight-20250501.1509.tar containing:
+  shr-tag-pre-highlight-20250501.1509/
+  shr-tag-pre-highlight-20250501.1509/shr-tag-pre-highlight-pkg.el
+  shr-tag-pre-highlight-20250501.1509/shr-tag-pre-highlight.el
  ✓ Success:
-  2025-04-19T00:51:26+0000  shr-tag-pre-highlight-20240515.1420.entry
-  2025-04-19T00:51:26+0000  shr-tag-pre-highlight-20240515.1420.tar
-Built shr-tag-pre-highlight in 2.659s, finished at 2025-04-19T00:51:27+0000
+  2025-05-08T05:11:43+0000  shr-tag-pre-highlight-20250501.1509.entry
+  2025-05-08T05:11:43+0000  shr-tag-pre-highlight-20250501.1509.tar
+Built shr-tag-pre-highlight in 2.542s, finished at 2025-05-08T05:11:43+0000

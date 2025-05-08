@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/dmacro/
 Checking out cb3ce0e1d6ce868baf47cb9225c8daae4b610dab
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/dmacro/
-  to /tmp/dmacro9dghMa/dmacro-20241027.830
+  to /tmp/dmacro8buBBa/dmacro-20241027.830
     dmacro.el -> dmacro.el
 Created dmacro-20241027.830.tar containing:
   dmacro-20241027.830/
   dmacro-20241027.830/dmacro-pkg.el
   dmacro-20241027.830/dmacro.el
  ✓ Success:
-  2025-04-19T00:01:44+0000  dmacro-20241027.830.entry
-  2025-04-19T00:01:43+0000  dmacro-20241027.830.tar
-Built dmacro in 2.943s, finished at 2025-04-19T00:01:44+0000
+  2025-05-08T06:56:01+0000  dmacro-20241027.830.entry
+  2025-05-08T06:56:01+0000  dmacro-20241027.830.tar
+Built dmacro in 4.366s, finished at 2025-05-08T06:56:02+0000

@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/shg/ob-julia-vterm.el
 
 Updating /mnt/store/melpa/working/ob-julia-vterm/
-Checking out 2996d851c2676631396429c4374ce4ff06ff318e
+Checking out bb2eea8a98046c5f63501bca7b4c2df2b3bff087
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ob-julia-vterm/
-  to /tmp/ob-julia-vtermgvpC4I/ob-julia-vterm-20250414.558
+  to /tmp/ob-julia-vtermhc3ECZ/ob-julia-vterm-20250501.1404
     ob-julia-vterm.el -> ob-julia-vterm.el
-Created ob-julia-vterm-20250414.558.tar containing:
-  ob-julia-vterm-20250414.558/
-  ob-julia-vterm-20250414.558/ob-julia-vterm-pkg.el
-  ob-julia-vterm-20250414.558/ob-julia-vterm.el
+Created ob-julia-vterm-20250501.1404.tar containing:
+  ob-julia-vterm-20250501.1404/
+  ob-julia-vterm-20250501.1404/ob-julia-vterm-pkg.el
+  ob-julia-vterm-20250501.1404/ob-julia-vterm.el
  ✓ Success:
-  2025-04-19T00:35:55+0000  ob-julia-vterm-20250414.558.entry
-  2025-04-19T00:35:55+0000  ob-julia-vterm-20250414.558.tar
-Built ob-julia-vterm in 3.520s, finished at 2025-04-19T00:35:56+0000
+  2025-05-08T04:55:38+0000  ob-julia-vterm-20250501.1404.entry
+  2025-05-08T04:55:38+0000  ob-julia-vterm-20250501.1404.tar
+Built ob-julia-vterm in 5.463s, finished at 2025-05-08T04:55:39+0000

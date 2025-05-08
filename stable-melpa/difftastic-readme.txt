@@ -124,15 +124,18 @@ Or, if you use `use-package':
   :ensure difftastic ;; or nil if you prefer manual installation
   :config (difftastic-bindings-mode))
 
-This will bind `D' to `difftastic-magit-diff' and `S' to
-`difftastic-magit-show' in `magit-diff' and `magit-blame' transient
-prefixes as well as in `magit-blame-read-only-map'.  Please refer to
-`difftastic-bindings' documentation to see how to change default bindings.
+By default this will bind:
+- `M-d' to `difftastic-magit-diff' and `M-c' to `difftastic-magit-show' in
+  `magit-diff' prefix,
+- `M-RET' to `difftastic-magit-show' in `magit-blame' transient prefix and
+  in `magit-blame-read-only-map' keymap,
+- `M-d' to `difftastic-magit-diff-buffer-file' in `magit-file-dispatch'
+  prefix,
+- `M-\=' to `difftastic-dired-diff' in `dired-mode-map'.
 
-You can adjust what bindings you want to have configured by changing values
-of `difftastic-bindings-alist', `difftastic-bindings-prefixes', and
-`difftastic-bindings-keymaps'.  You need to turn the
-`difftastic-bindings-mode' off and on again to apply the changes.
+Please refer to `difftastic-bindings-alist' documentation to see how to
+change default bindings.  You need to toggle the `difftastic-bindings-mode'
+off and on again to apply the changes.
 
 The `difftastic-bindings=mode' was designed to have minimal dependencies
 and be reasonably fast to load, while providing a mechanism to bind
@@ -144,8 +147,8 @@ Manual Key Bindings Configuration
 
 If you don't want to use mechanism delivered by `difftastic-bindings-mode'
 you can write your own configuration.  As a starting point the following
-snippets demonstrate how to achieve roughly the same effect as
-`difftastic-bindings-mode':
+snippets demonstrate how to achieve partial effect similar to the one
+provided by `difftastic-bindings-mode' in default configuration:
 
 (require 'difftastic)
 (require 'transient)
@@ -155,15 +158,14 @@ snippets demonstrate how to achieve roughly the same effect as
   (with-eval-after-load 'magit-diff
     (unless (equal (transient-parse-suffix 'magit-diff suffix)
                    (transient-get-suffix 'magit-diff '(-1 -1)))
-      (transient-append-suffix 'magit-diff '(-1 -1) suffix)))
+      (transient-append-suffix 'magit-diff '(-1 -1) suffix))))
+(let ((suffix '("M-RET" "Difftastic show" difftastic-magit-show)))
   (with-eval-after-load 'magit-blame
     (unless (equal (transient-parse-suffix 'magit-blame suffix)
-                   (transient-get-suffix 'magit-blame '(-1)))
-      (transient-append-suffix 'magit-blame '(-1) suffix))
+                   (transient-get-suffix 'magit-blame "b"))
+      (transient-append-suffix 'magit-blame "b" suffix))
     (keymap-set magit-blame-read-only-mode-map
-                "D" #'difftastic-magit-show)
-    (keymap-set magit-blame-read-only-mode-map
-                "S" #'difftastic-magit-show)))
+                "M-RET" #'difftastic-magit-show)))
 
 Or, if you use `use-package':
 
@@ -174,32 +176,30 @@ Or, if you use `use-package':
     :autoload (transient-get-suffix
                transient-parse-suffix))
 
-  (let ((suffix [("D" "Difftastic diff (dwim)" difftastic-magit-diff)
-                 ("S" "Difftastic show" difftastic-magit-show)]))
     (use-package magit-blame
       :defer t :ensure magit
       :bind
       (:map magit-blame-read-only-mode-map
-            ("D" . #'difftastic-magit-diff)
-            ("S" . #'difftastic-magit-show))
+            ("M-RET" . #'difftastic-magit-show))
       :config
-      (unless (equal (transient-parse-suffix 'magit-blame suffix)
-                     (transient-get-suffix 'magit-blame '(-1)))
-        (transient-append-suffix 'magit-blame '(-1) suffix)))
+      (let ((suffix '("M-RET" "Difftastic show" difftastic-magit-show)))
+        (unless (equal (transient-parse-suffix 'magit-blame suffix)
+                       (transient-get-suffix 'magit-blame "b"))
+          (transient-append-suffix 'magit-blame "b" suffix)))
     (use-package magit-diff
       :defer t :ensure magit
       :config
-      (unless (equal (transient-parse-suffix 'magit-diff suffix)
-                     (transient-get-suffix 'magit-diff '(-1 -1)))
-        (transient-append-suffix 'magit-diff '(-1 -1) suffix)))))
+      (let ((suffix [("M-d" "Difftastic diff (dwim)" difftastic-magit-diff)
+                     ("M-c" "Difftastic show" difftastic-magit-show)]))
+        (unless (equal (transient-parse-suffix 'magit-diff suffix)
+                       (transient-get-suffix 'magit-diff '(-1 -1)))
+          (transient-append-suffix 'magit-diff '(-1 -1) suffix)))))
 
 
 Usage
 =====
 
 The following commands are meant to help to interact with `difftastic'.
-Commands are followed by their default keybindings in `difftastic-mode' (in
-parenthesis).
 
 - `difftastic-magit-diff' - show the result of `git diff ARGS -- FILES'
   with `difftastic'.  This is the main entry point for DWIM action, so it
@@ -207,6 +207,10 @@ parenthesis).
 - `difftastic-magit-show' - show the result of `git show ARG' with
   `difftastic'.  It tries to guess `ARG', and ask for it when can't. When
   called with prefix argument it will ask for `ARG'.
+- `difftastic-magit-diff-buffer-file' - show diff for the blob or file
+  visited in the current buffer with `difftastic'.  When the buffer visits
+  a blob, then show the respective commit.  When the buffer visits a file,
+  then show the differences between `HEAD' and the working tree.
 - `difftastic-files' - show the result of `difft FILE-A FILE-B'.  When
   called with prefix argument it will ask for language to use, instead of
   relaying on `difftastic''s detection mechanism.
@@ -215,6 +219,16 @@ parenthesis).
   argument it will ask for language to use.
 - `difftastic-dired-diff' - same as `dired-diff', but with
   `difftastic-files' instead of the built-in `diff'.
+- `difftastic-git-diff-range' - transform `ARGS' for difftastic and show
+  the result of `git diff ARGS REV-OR-RANGE -- FILES' with `difftastic'.
+
+
+`difftastic-mode' commands
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+When a buffer shows `difftastic' output the following commands can be used.
+Commands are followed by their default keybindings (in parenthesis).
+
 - `difftastic-rerun' (`g') - rerun difftastic for the current buffer.  It
   runs difftastic again in the current buffer, but respects the window
   configuration.  It uses
@@ -229,10 +243,20 @@ parenthesis).
   move point to a previous logical chunk or a previous file respectively.
 - `difftastic-toggle-chunk' (`TAB' or `C-i') - toggle visibility of a chunk
   at point.  The point has to be in a chunk header.  When called with a
-  prefix all file chunks from the header to the end of the file.  See also
-  `difftastic-hide-chunk' and `difftastic=show-chunk'.
-- `difftastic-git-diff-range' - transform `ARGS' for difftastic and show
-  the result of `git diff ARGS REV-OR-RANGE -- FILES' with `difftastic'.
+  prefix toggle all file chunks from the header to the end of the file.
+  See also `difftastic-hide-chunk' and `difftastic=show-chunk'.
+- `difftastic-diff-visit-file' (`RET'),
+  `difftastic-diff-visit-file-other-window',
+  `difftastic-diff-visit-file-other-frame' - from a diff visit appropriate
+  version of a chunk file.  This has been modeled after
+  `magit-diff-visit-file', but there are some differences, please see
+  documentation for `difftastic-diff-visit-file'.
+- `difftastic-diff-visit-worktree-file' (`C-RET', `C-j'),
+  `difftastic-diff-visit-worktree-file-other-window',
+  `difftastic-diff-visit-worktree-file-other-frame' - from a diff visit
+  appropriate version of a chunk file.  This has been modeled after
+  `magit-diff-visit-worktree-file', but there are some differences, please
+  see documentation for `difftastic-diff-visit-worktree-file'.
 
 
 Customization
@@ -294,6 +318,14 @@ aspects of interaction with `difft':
 - `difftastic-display-buffer-function' - this function is called after a
   first call to `difft'.  It is meant to select an appropriate Emacs
   mechanism to display the `difft' output.
+
+
+`difftastic-mode' behavior
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- `difftastic-diff-visit-avoid-head-blob' - controls whether to avoid
+  visiting blob of a `HEAD' revision when visiting file form a
+  `difftastic-mode' buffer.
 
 
 Contributing

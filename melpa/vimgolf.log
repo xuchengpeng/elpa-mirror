@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/vimgolf/
 Checking out f565447ed294898588a19438d56c116555d8c628
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/vimgolf/
-  to /tmp/vimgolfhIQ2Zj/vimgolf-20200205.1420
+  to /tmp/vimgolfpqGpNF/vimgolf-20200205.1420
     vimgolf.el -> vimgolf.el
 Created vimgolf-20200205.1420.tar containing:
   vimgolf-20200205.1420/
   vimgolf-20200205.1420/vimgolf-pkg.el
   vimgolf-20200205.1420/vimgolf.el
  ✓ Success:
-  2025-04-18T22:29:19+0000  vimgolf-20200205.1420.entry
-  2025-04-18T22:29:19+0000  vimgolf-20200205.1420.tar
-Built vimgolf in 2.979s, finished at 2025-04-18T22:29:20+0000
+  2025-05-08T05:21:07+0000  vimgolf-20200205.1420.entry
+  2025-05-08T05:21:06+0000  vimgolf-20200205.1420.tar
+Built vimgolf in 3.466s, finished at 2025-05-08T05:21:07+0000

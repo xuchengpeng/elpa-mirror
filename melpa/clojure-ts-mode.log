@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/clojure-emacs/clojure-ts-mode
 
 Updating /mnt/store/melpa/working/clojure-ts-mode/
-Checking out 6efda6a94f4d17461f39c728070b1103f80fd277
+Checking out ea1c1342450f45ac328da6d80c978b181ca48ce1
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/clojure-ts-mode/
-  to /tmp/clojure-ts-modeS8X4Uo/clojure-ts-mode-20250415.804
+  to /tmp/clojure-ts-modeOnsw73/clojure-ts-mode-20250504.2033
     clojure-ts-mode.el -> clojure-ts-mode.el
-Created clojure-ts-mode-20250415.804.tar containing:
-  clojure-ts-mode-20250415.804/
-  clojure-ts-mode-20250415.804/clojure-ts-mode-pkg.el
-  clojure-ts-mode-20250415.804/clojure-ts-mode.el
+Created clojure-ts-mode-20250504.2033.tar containing:
+  clojure-ts-mode-20250504.2033/
+  clojure-ts-mode-20250504.2033/clojure-ts-mode-pkg.el
+  clojure-ts-mode-20250504.2033/clojure-ts-mode.el
  ✓ Success:
-  2025-04-18T23:55:08+0000  clojure-ts-mode-20250415.804.entry
-  2025-04-18T23:55:08+0000  clojure-ts-mode-20250415.804.tar
-Built clojure-ts-mode in 3.506s, finished at 2025-04-18T23:55:09+0000
+  2025-05-08T06:49:20+0000  clojure-ts-mode-20250504.2033.entry
+  2025-05-08T06:49:20+0000  clojure-ts-mode-20250504.2033.tar
+Built clojure-ts-mode in 3.895s, finished at 2025-05-08T06:49:21+0000

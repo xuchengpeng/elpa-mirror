@@ -3,20 +3,20 @@ Fetcher: github
 Source:  https://github.com/jimhourihan/glsl-mode
 
 Updating /mnt/store/melpa/working/glsl-mode/
-Checking out c5f2c2e7edf8a647eda74abe2cdf73fa6f62ebd2
+Checking out 86e6bb6cf28d1053366039683a4498401bab9c47
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/glsl-mode/
-  to /tmp/glsl-modeR0zIG5/glsl-mode-20241021.919
+  to /tmp/glsl-mode67GOSG/glsl-mode-20250324.1304
     glsl-db.el -> glsl-db.el
     glsl-mode.el -> glsl-mode.el
     glsl-ts-mode.el -> glsl-ts-mode.el
-Created glsl-mode-20241021.919.tar containing:
-  glsl-mode-20241021.919/
-  glsl-mode-20241021.919/glsl-db.el
-  glsl-mode-20241021.919/glsl-mode-pkg.el
-  glsl-mode-20241021.919/glsl-mode.el
-  glsl-mode-20241021.919/glsl-ts-mode.el
+Created glsl-mode-20250324.1304.tar containing:
+  glsl-mode-20250324.1304/
+  glsl-mode-20250324.1304/glsl-db.el
+  glsl-mode-20250324.1304/glsl-mode-pkg.el
+  glsl-mode-20250324.1304/glsl-mode.el
+  glsl-mode-20250324.1304/glsl-ts-mode.el
  ✓ Success:
-  2025-04-19T00:15:03+0000  glsl-mode-20241021.919.entry
-  2025-04-19T00:15:03+0000  glsl-mode-20241021.919.tar
-Built glsl-mode in 2.415s, finished at 2025-04-19T00:15:03+0000
+  2025-05-08T04:34:42+0000  glsl-mode-20250324.1304.entry
+  2025-05-08T04:34:42+0000  glsl-mode-20250324.1304.tar
+Built glsl-mode in 2.396s, finished at 2025-05-08T04:34:43+0000

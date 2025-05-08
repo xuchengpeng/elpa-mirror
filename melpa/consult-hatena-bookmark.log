@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/Nyoho/consult-hatena-bookmark
 
 Updating /mnt/store/melpa/working/consult-hatena-bookmark/
-Checking out b85484b11705ebd896878d3ac7fdb12bc8c9637a
+Checking out 8f2e48688455711df89533a7fe5af1d9cd02c137
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/consult-hatena-bookmark/
-  to /tmp/consult-hatena-bookmark9mn0vA/consult-hatena-bookmark-20221125.109
+  to /tmp/consult-hatena-bookmarkBxqNB5/consult-hatena-bookmark-20250421.1501
     consult-hatena-bookmark.el -> consult-hatena-bookmark.el
-Created consult-hatena-bookmark-20221125.109.tar containing:
-  consult-hatena-bookmark-20221125.109/
-  consult-hatena-bookmark-20221125.109/consult-hatena-bookmark-pkg.el
-  consult-hatena-bookmark-20221125.109/consult-hatena-bookmark.el
+Created consult-hatena-bookmark-20250421.1501.tar containing:
+  consult-hatena-bookmark-20250421.1501/
+  consult-hatena-bookmark-20250421.1501/consult-hatena-bookmark-pkg.el
+  consult-hatena-bookmark-20250421.1501/consult-hatena-bookmark.el
  ✓ Success:
-  2025-04-18T23:57:11+0000  consult-hatena-bookmark-20221125.109.entry
-  2025-04-18T23:57:11+0000  consult-hatena-bookmark-20221125.109.tar
-Built consult-hatena-bookmark in 2.891s, finished at 2025-04-18T23:57:12+0000
+  2025-05-08T06:51:42+0000  consult-hatena-bookmark-20250421.1501.entry
+  2025-05-08T06:51:42+0000  consult-hatena-bookmark-20250421.1501.tar
+Built consult-hatena-bookmark in 3.235s, finished at 2025-05-08T06:51:43+0000

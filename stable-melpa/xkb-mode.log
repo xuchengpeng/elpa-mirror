@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/captainflasmr/xkb-mode
 
 Updating /mnt/store/melpa/working/xkb-mode/
-Checking out b1de5233dc12749a97ad6a63d86b921bf1e33d3b
+Checking out 0e317a08dd665bfa8d1bbfbe23c7ca3ae0975519
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/xkb-mode/
-  to /tmp/xkb-modelh0WkK/xkb-mode-20240506.904
+  to /tmp/xkb-modesutiEa/xkb-mode-20250421.840
     xkb-mode.el -> xkb-mode.el
-Created xkb-mode-20240506.904.tar containing:
-  xkb-mode-20240506.904/
-  xkb-mode-20240506.904/xkb-mode-pkg.el
-  xkb-mode-20240506.904/xkb-mode.el
+Created xkb-mode-20250421.840.tar containing:
+  xkb-mode-20250421.840/
+  xkb-mode-20250421.840/xkb-mode-pkg.el
+  xkb-mode-20250421.840/xkb-mode.el
  ✓ Success:
-  2025-04-18T22:31:34+0000  xkb-mode-20240506.904.entry
-  2025-04-18T22:31:34+0000  xkb-mode-20240506.904.tar
-Built xkb-mode in 2.650s, finished at 2025-04-18T22:31:35+0000
+  2025-05-08T05:23:38+0000  xkb-mode-20250421.840.entry
+  2025-05-08T05:23:38+0000  xkb-mode-20250421.840.tar
+Built xkb-mode in 3.219s, finished at 2025-05-08T05:23:39+0000

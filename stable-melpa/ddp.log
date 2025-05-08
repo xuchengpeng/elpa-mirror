@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/eki3z/ddp.el
 
 Updating /mnt/store/melpa/working/ddp/
-Checking out a78219fe401bf9ca5f96ef3fa8fb9a8202d6f37c
+Checking out ee02e658f3bf8f26115e2dd61c713137e01227a9
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ddp/
-  to /tmp/ddplPakks/ddp-20250410.552
+  to /tmp/ddptYDJsk/ddp-20250421.353
     ddp.el -> ddp.el
-Created ddp-20250410.552.tar containing:
-  ddp-20250410.552/
-  ddp-20250410.552/ddp-pkg.el
-  ddp-20250410.552/ddp.el
+Created ddp-20250421.353.tar containing:
+  ddp-20250421.353/
+  ddp-20250421.353/ddp-pkg.el
+  ddp-20250421.353/ddp.el
  ✓ Success:
-  2025-04-18T23:59:34+0000  ddp-20250410.552.entry
-  2025-04-18T23:59:33+0000  ddp-20250410.552.tar
-Built ddp in 2.500s, finished at 2025-04-18T23:59:34+0000
+  2025-05-08T06:53:51+0000  ddp-20250421.353.entry
+  2025-05-08T06:53:50+0000  ddp-20250421.353.tar
+Built ddp in 2.682s, finished at 2025-05-08T06:53:51+0000

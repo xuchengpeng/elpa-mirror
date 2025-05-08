@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/WillForan/zim-wiki-mode
 
 Updating /mnt/store/melpa/working/zim-wiki-mode/
-Checking out 8afce06846b9b8c62e7eeb2ac874ee4f68f31616
+Checking out a6ddbdfe41ddb1f445d3480801f1db0f000c31a2
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/zim-wiki-mode/
-  to /tmp/zim-wiki-modetLRmbU/zim-wiki-mode-20241020.2315
+  to /tmp/zim-wiki-modeyr4G20/zim-wiki-mode-20250425.2345
     zim-wiki-mode.el -> zim-wiki-mode.el
-Created zim-wiki-mode-20241020.2315.tar containing:
-  zim-wiki-mode-20241020.2315/
-  zim-wiki-mode-20241020.2315/zim-wiki-mode-pkg.el
-  zim-wiki-mode-20241020.2315/zim-wiki-mode.el
+Created zim-wiki-mode-20250425.2345.tar containing:
+  zim-wiki-mode-20250425.2345/
+  zim-wiki-mode-20250425.2345/zim-wiki-mode-pkg.el
+  zim-wiki-mode-20250425.2345/zim-wiki-mode.el
  ✓ Success:
-  2025-04-18T22:32:45+0000  zim-wiki-mode-20241020.2315.entry
-  2025-04-18T22:32:45+0000  zim-wiki-mode-20241020.2315.tar
-Built zim-wiki-mode in 2.313s, finished at 2025-04-18T22:32:45+0000
+  2025-05-08T05:25:17+0000  zim-wiki-mode-20250425.2345.entry
+  2025-05-08T05:25:17+0000  zim-wiki-mode-20250425.2345.tar
+Built zim-wiki-mode in 5.312s, finished at 2025-05-08T05:25:19+0000

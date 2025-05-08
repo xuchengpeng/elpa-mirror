@@ -3,16 +3,16 @@ Fetcher: gitlab
 Source:  https://gitlab.com/marcowahl/rope-read-mode
 
 Updating /mnt/store/melpa/working/rope-read-mode/
-Checking out 6aad44e006a2999980c138f608d28c8ecab92b35
+Checking out 7cd80d6c8e4a7e24a5147c06f083d745aef91b55
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/rope-read-mode/
-  to /tmp/rope-read-modeuWrDdg/rope-read-mode-20211228.1126
+  to /tmp/rope-read-modeWRj2tb/rope-read-mode-20250428.1236
     rope-read-mode.el -> rope-read-mode.el
-Created rope-read-mode-20211228.1126.tar containing:
-  rope-read-mode-20211228.1126/
-  rope-read-mode-20211228.1126/rope-read-mode-pkg.el
-  rope-read-mode-20211228.1126/rope-read-mode.el
+Created rope-read-mode-20250428.1236.tar containing:
+  rope-read-mode-20250428.1236/
+  rope-read-mode-20250428.1236/rope-read-mode-pkg.el
+  rope-read-mode-20250428.1236/rope-read-mode.el
  ✓ Success:
-  2025-04-19T00:48:59+0000  rope-read-mode-20211228.1126.entry
-  2025-04-19T00:48:59+0000  rope-read-mode-20211228.1126.tar
-Built rope-read-mode in 3.934s, finished at 2025-04-19T00:49:00+0000
+  2025-05-08T05:09:32+0000  rope-read-mode-20250428.1236.entry
+  2025-05-08T05:09:32+0000  rope-read-mode-20250428.1236.tar
+Built rope-read-mode in 4.400s, finished at 2025-05-08T05:09:33+0000

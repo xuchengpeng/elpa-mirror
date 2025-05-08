@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/go-complete/
 Checking out 056294014f37a1004958ec17ebd6748deed63502
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/go-complete/
-  to /tmp/go-complete1KYVFK/go-complete-20190409.516
+  to /tmp/go-completest6ZWL/go-complete-20190409.516
     go-complete.el -> go-complete.el
 Created go-complete-20190409.516.tar containing:
   go-complete-20190409.516/
   go-complete-20190409.516/go-complete-pkg.el
   go-complete-20190409.516/go-complete.el
  ✓ Success:
-  2025-04-19T00:15:22+0000  go-complete-20190409.516.entry
-  2025-04-19T00:15:22+0000  go-complete-20190409.516.tar
-Built go-complete in 2.395s, finished at 2025-04-19T00:15:22+0000
+  2025-05-08T04:35:00+0000  go-complete-20190409.516.entry
+  2025-05-08T04:35:00+0000  go-complete-20190409.516.tar
+Built go-complete in 2.001s, finished at 2025-05-08T04:35:01+0000

@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/paperless/
 Checking out ef2e7ef5aeaffa997794f5d6e27be6631ba05d34
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/paperless/
-  to /tmp/paperlesstc0Wh7/paperless-20240130.1048
+  to /tmp/paperlessgAiTef/paperless-20240130.1048
     org-paperless.el -> org-paperless.el
     paperless.el -> paperless.el
 Created paperless-20240130.1048.tar containing:
@@ -15,6 +15,6 @@ Created paperless-20240130.1048.tar containing:
   paperless-20240130.1048/paperless-pkg.el
   paperless-20240130.1048/paperless.el
  ✓ Success:
-  2025-04-19T00:41:43+0000  paperless-20240130.1048.entry
-  2025-04-19T00:41:43+0000  paperless-20240130.1048.tar
-Built paperless in 2.743s, finished at 2025-04-19T00:41:44+0000
+  2025-05-08T05:02:17+0000  paperless-20240130.1048.entry
+  2025-05-08T05:02:17+0000  paperless-20240130.1048.tar
+Built paperless in 2.851s, finished at 2025-05-08T05:02:18+0000

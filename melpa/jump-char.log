@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/jump-char/
 Checking out 1e31a3c687f2b3c71bbfab881c6d75915534bb9e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/jump-char/
-  to /tmp/jump-charzKm9BW/jump-char-20180601.1348
+  to /tmp/jump-char6OSFFz/jump-char-20180601.1348
     jump-char.el -> jump-char.el
 Created jump-char-20180601.1348.tar containing:
   jump-char-20180601.1348/
   jump-char-20180601.1348/jump-char-pkg.el
   jump-char-20180601.1348/jump-char.el
  ✓ Success:
-  2025-04-19T00:25:20+0000  jump-char-20180601.1348.entry
-  2025-04-19T00:25:20+0000  jump-char-20180601.1348.tar
-Built jump-char in 2.729s, finished at 2025-04-19T00:25:21+0000
+  2025-05-08T04:44:49+0000  jump-char-20180601.1348.entry
+  2025-05-08T04:44:49+0000  jump-char-20180601.1348.tar
+Built jump-char in 3.675s, finished at 2025-05-08T04:44:50+0000

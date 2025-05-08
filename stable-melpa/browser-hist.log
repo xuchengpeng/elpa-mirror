@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/agzam/browser-hist.el
 
 Updating /mnt/store/melpa/working/browser-hist/
-Checking out 0372c6d984ca194d9454b14eba6eadec480ec3ff
+Checking out 1cd80081feaab99fef9e8eadd55d68b3cef90144
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/browser-hist/
-  to /tmp/browser-histsonZSR/browser-hist-20240607.406
+  to /tmp/browser-hist9xMgmB/browser-hist-20250501.1450
     browser-hist.el -> browser-hist.el
-Created browser-hist-20240607.406.tar containing:
-  browser-hist-20240607.406/
-  browser-hist-20240607.406/browser-hist-pkg.el
-  browser-hist-20240607.406/browser-hist.el
+Created browser-hist-20250501.1450.tar containing:
+  browser-hist-20250501.1450/
+  browser-hist-20250501.1450/browser-hist-pkg.el
+  browser-hist-20250501.1450/browser-hist.el
  ✓ Success:
-  2025-04-18T23:51:59+0000  browser-hist-20240607.406.entry
-  2025-04-18T23:51:59+0000  browser-hist-20240607.406.tar
-Built browser-hist in 4.217s, finished at 2025-04-18T23:52:00+0000
+  2025-05-08T06:46:31+0000  browser-hist-20250501.1450.entry
+  2025-05-08T06:46:31+0000  browser-hist-20250501.1450.tar
+Built browser-hist in 3.282s, finished at 2025-05-08T06:46:32+0000
