@@ -10,3 +10,13 @@ Copying files (->) and directories (=>)
   ! lisp/erk.el -> erk.el
   ! doc/erk.texi -> erk.texi
 Generating erk.info
+Created erk-20231227.1449.tar containing:
+  erk-20231227.1449/
+  erk-20231227.1449/dir
+  erk-20231227.1449/erk-pkg.el
+  erk-20231227.1449/erk.el
+  erk-20231227.1449/erk.info
+ ✓ Success:
+  2025-05-08T07:01:00+0000  erk-20231227.1449.entry
+  2025-05-08T07:01:00+0000  erk-20231227.1449.tar
+Built erk in 7.246s, finished at 2025-05-08T07:01:01+0000
