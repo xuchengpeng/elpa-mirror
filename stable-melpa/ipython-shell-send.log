@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/ipython-shell-send/
 Checking out 0faed86faff02a361f23ce5fc923d0e9b09bb2da
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ipython-shell-send/
-  to /tmp/ipython-shell-sendUmU69T/ipython-shell-send-20190220.2246
+  to /tmp/ipython-shell-sendanio4q/ipython-shell-send-20190220.2246
     ipython-shell-send.el -> ipython-shell-send.el
 Created ipython-shell-send-20190220.2246.tar containing:
   ipython-shell-send-20190220.2246/
   ipython-shell-send-20190220.2246/ipython-shell-send-pkg.el
   ipython-shell-send-20190220.2246/ipython-shell-send.el
  ✓ Success:
-  2025-05-08T04:42:34+0000  ipython-shell-send-20190220.2246.entry
-  2025-05-08T04:42:33+0000  ipython-shell-send-20190220.2246.tar
-Built ipython-shell-send in 2.801s, finished at 2025-05-08T04:42:34+0000
+  2025-05-12T00:49:45+0000  ipython-shell-send-20190220.2246.entry
+  2025-05-12T00:49:44+0000  ipython-shell-send-20190220.2246.tar
+Built ipython-shell-send in 2.752s, finished at 2025-05-12T00:49:46+0000

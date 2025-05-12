@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/python-cell/
 Checking out ea469071adc72f371698934c3709ee370ac6be6f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/python-cell/
-  to /tmp/python-cellPz0DVc/python-cell-20240126.841
+  to /tmp/python-cellSAupVy/python-cell-20240126.841
     python-cell.el -> python-cell.el
 Created python-cell-20240126.841.tar containing:
   python-cell-20240126.841/
   python-cell-20240126.841/python-cell-pkg.el
   python-cell-20240126.841/python-cell.el
  ✓ Success:
-  2025-05-08T05:06:44+0000  python-cell-20240126.841.entry
-  2025-05-08T05:06:44+0000  python-cell-20240126.841.tar
-Built python-cell in 2.936s, finished at 2025-05-08T05:06:45+0000
+  2025-05-12T01:11:36+0000  python-cell-20240126.841.entry
+  2025-05-12T01:11:36+0000  python-cell-20240126.841.tar
+Built python-cell in 2.691s, finished at 2025-05-12T01:11:37+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/flycheck-cfn/
 Checking out b26a95a219aa700256b22fd026cace57bce1701b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/flycheck-cfn/
-  to /tmp/flycheck-cfnKhO2dg/flycheck-cfn-20240512.2341
+  to /tmp/flycheck-cfntd6PRj/flycheck-cfn-20240512.2341
   ! flycheck-cfn/flycheck-cfn.el -> flycheck-cfn.el
 Created flycheck-cfn-20240512.2341.tar containing:
   flycheck-cfn-20240512.2341/
   flycheck-cfn-20240512.2341/flycheck-cfn-pkg.el
   flycheck-cfn-20240512.2341/flycheck-cfn.el
  ✓ Success:
-  2025-05-08T04:29:59+0000  flycheck-cfn-20240512.2341.entry
-  2025-05-08T04:29:58+0000  flycheck-cfn-20240512.2341.tar
-Built flycheck-cfn in 4.065s, finished at 2025-05-08T04:29:59+0000
+  2025-05-12T00:37:57+0000  flycheck-cfn-20240512.2341.entry
+  2025-05-12T00:37:57+0000  flycheck-cfn-20240512.2341.tar
+Built flycheck-cfn in 3.771s, finished at 2025-05-12T00:37:58+0000

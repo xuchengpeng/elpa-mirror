@@ -1,0 +1,18 @@
+Package: tomlparse
+Fetcher: github
+Source:  https://github.com/johannes-mueller/tomlparse.el
+
+Updating /mnt/store/melpa/working/tomlparse/
+Checking out ff28ee3679316ec66496789f4e69e8d37c0cace9
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/tomlparse/
+  to /tmp/tomlparsed2NUYr/tomlparse-20250503.727
+    tomlparse.el -> tomlparse.el
+Created tomlparse-20250503.727.tar containing:
+  tomlparse-20250503.727/
+  tomlparse-20250503.727/tomlparse-pkg.el
+  tomlparse-20250503.727/tomlparse.el
+ ✓ Success:
+  2025-05-12T01:21:56+0000  tomlparse-20250503.727.entry
+  2025-05-12T01:21:56+0000  tomlparse-20250503.727.tar
+Built tomlparse in 4.999s, finished at 2025-05-12T01:21:57+0000

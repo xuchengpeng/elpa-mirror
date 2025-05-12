@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/jenkins/
 Checking out bd06cdc57c0cb9217d773eeba06ecc998f10033b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/jenkins/
-  to /tmp/jenkinsenD0BY/jenkins-20200524.2016
+  to /tmp/jenkinsTJ94YM/jenkins-20200524.2016
     jenkins.el -> jenkins.el
 Created jenkins-20200524.2016.tar containing:
   jenkins-20200524.2016/
   jenkins-20200524.2016/jenkins-pkg.el
   jenkins-20200524.2016/jenkins.el
  ✓ Success:
-  2025-05-08T04:43:40+0000  jenkins-20200524.2016.entry
-  2025-05-08T04:43:40+0000  jenkins-20200524.2016.tar
-Built jenkins in 3.055s, finished at 2025-05-08T04:43:41+0000
+  2025-05-12T00:50:46+0000  jenkins-20200524.2016.entry
+  2025-05-12T00:50:46+0000  jenkins-20200524.2016.tar
+Built jenkins in 3.091s, finished at 2025-05-12T00:50:47+0000

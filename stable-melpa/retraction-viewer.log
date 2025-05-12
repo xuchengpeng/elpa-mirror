@@ -3,16 +3,16 @@ Fetcher: sourcehut
 Source:  https://git.sr.ht/~swflint/retraction-viewer
 
 Updating /mnt/store/melpa/working/retraction-viewer/
-Checking out e8ab96e5a95a93849b912e2684b9776c685ac4bd
+Checking out 21fc8844a744b28153dff055cec6c6a3859b1529
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/retraction-viewer/
-  to /tmp/retraction-viewer7bHmhm/retraction-viewer-20240509.1440
+  to /tmp/retraction-viewerK7IUGF/retraction-viewer-20250510.1847
     retraction-viewer.el -> retraction-viewer.el
-Created retraction-viewer-20240509.1440.tar containing:
-  retraction-viewer-20240509.1440/
-  retraction-viewer-20240509.1440/retraction-viewer-pkg.el
-  retraction-viewer-20240509.1440/retraction-viewer.el
+Created retraction-viewer-20250510.1847.tar containing:
+  retraction-viewer-20250510.1847/
+  retraction-viewer-20250510.1847/retraction-viewer-pkg.el
+  retraction-viewer-20250510.1847/retraction-viewer.el
  ✓ Success:
-  2025-05-08T05:09:01+0000  retraction-viewer-20240509.1440.entry
-  2025-05-08T05:09:01+0000  retraction-viewer-20240509.1440.tar
-Built retraction-viewer in 5.921s, finished at 2025-05-08T05:09:02+0000
+  2025-05-12T01:13:25+0000  retraction-viewer-20250510.1847.entry
+  2025-05-12T01:13:25+0000  retraction-viewer-20250510.1847.tar
+Built retraction-viewer in 3.781s, finished at 2025-05-12T01:13:26+0000
