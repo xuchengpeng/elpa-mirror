@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/emacs-sideline/sideline
 
 Updating /mnt/store/melpa/working/sideline/
-Checking out ed0d5ca69104aea2e3de0d9ab62f8709fa07b8e1
+Checking out 6c0562c5abfa9eb16320cec755ffe09ebc26c0cc
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/sideline/
-  to /tmp/sidelinejAQu2v/sideline-20250311.2149
+  to /tmp/sidelineifoV4N/sideline-20250517.508
     sideline.el -> sideline.el
-Created sideline-20250311.2149.tar containing:
-  sideline-20250311.2149/
-  sideline-20250311.2149/sideline-pkg.el
-  sideline-20250311.2149/sideline.el
+Created sideline-20250517.508.tar containing:
+  sideline-20250517.508/
+  sideline-20250517.508/sideline-pkg.el
+  sideline-20250517.508/sideline.el
  ✓ Success:
-  2025-05-12T01:16:29+0000  sideline-20250311.2149.entry
-  2025-05-12T01:16:29+0000  sideline-20250311.2149.tar
-Built sideline in 2.896s, finished at 2025-05-12T01:16:30+0000
+  2025-05-19T00:32:13+0000  sideline-20250517.508.entry
+  2025-05-19T00:32:13+0000  sideline-20250517.508.tar
+Built sideline in 3.611s, finished at 2025-05-19T00:32:14+0000

@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/skype/
 Checking out 8e3b33e620ed355522aa36434ff41e3ced080629
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/skype/
-  to /tmp/skypeuz4edK/skype-20160711.824
+  to /tmp/skypeXGUhaZ/skype-20160711.824
     skype.el -> skype.el
     skype-proxy.py -> skype-proxy.py
 Created skype-20160711.824.tar containing:
@@ -15,6 +15,6 @@ Created skype-20160711.824.tar containing:
   skype-20160711.824/skype-proxy.py
   skype-20160711.824/skype.el
  ✓ Success:
-  2025-05-12T01:16:54+0000  skype-20160711.824.entry
-  2025-05-12T01:16:54+0000  skype-20160711.824.tar
-Built skype in 2.568s, finished at 2025-05-12T01:16:54+0000
+  2025-05-19T00:33:05+0000  skype-20160711.824.entry
+  2025-05-19T00:33:05+0000  skype-20160711.824.tar
+Built skype in 2.805s, finished at 2025-05-19T00:33:06+0000

@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/salmanebah/opencl-mode
 
 Updating /mnt/store/melpa/working/opencl-c-mode/
-Checking out 85fa0482cc541384fc416cfefada83a4826039f5
+Checking out 0d305f9618ff56eb7e5e35c5bae980bcf957e972
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/opencl-c-mode/
-  to /tmp/opencl-c-modehZ9zAp/opencl-c-mode-20250506.1651
+  to /tmp/opencl-c-modeiZ5JDJ/opencl-c-mode-20250512.1753
     opencl-c-mode.el -> opencl-c-mode.el
-Created opencl-c-mode-20250506.1651.tar containing:
-  opencl-c-mode-20250506.1651/
-  opencl-c-mode-20250506.1651/opencl-c-mode-pkg.el
-  opencl-c-mode-20250506.1651/opencl-c-mode.el
+Created opencl-c-mode-20250512.1753.tar containing:
+  opencl-c-mode-20250512.1753/
+  opencl-c-mode-20250512.1753/opencl-c-mode-pkg.el
+  opencl-c-mode-20250512.1753/opencl-c-mode.el
  ✓ Success:
-  2025-05-12T01:02:50+0000  opencl-c-mode-20250506.1651.entry
-  2025-05-12T01:02:50+0000  opencl-c-mode-20250506.1651.tar
-Built opencl-c-mode in 2.699s, finished at 2025-05-12T01:02:51+0000
+  2025-05-19T00:19:49+0000  opencl-c-mode-20250512.1753.entry
+  2025-05-19T00:19:49+0000  opencl-c-mode-20250512.1753.tar
+Built opencl-c-mode in 2.573s, finished at 2025-05-19T00:19:50+0000

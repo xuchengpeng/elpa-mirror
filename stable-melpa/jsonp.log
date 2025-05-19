@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/joshbax189/jsonp-el
 
 Updating /mnt/store/melpa/working/jsonp/
-Checking out 5e18f1b24c3587fc94ffe395b7edf324349b664d
+Checking out 91c6ef2f998c4a70d3ebe30bf72d99f9c70ff6c7
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/jsonp/
-  to /tmp/jsonpdXWzsv/jsonp-20250509.1
+  to /tmp/jsonpibNWlB/jsonp-20250513.23
     jsonp.el -> jsonp.el
-Created jsonp-20250509.1.tar containing:
-  jsonp-20250509.1/
-  jsonp-20250509.1/jsonp-pkg.el
-  jsonp-20250509.1/jsonp.el
+Created jsonp-20250513.23.tar containing:
+  jsonp-20250513.23/
+  jsonp-20250513.23/jsonp-pkg.el
+  jsonp-20250513.23/jsonp.el
  ✓ Success:
-  2025-05-12T00:51:24+0000  jsonp-20250509.1.entry
-  2025-05-12T00:51:24+0000  jsonp-20250509.1.tar
-Built jsonp in 2.615s, finished at 2025-05-12T00:51:25+0000
+  2025-05-19T00:09:40+0000  jsonp-20250513.23.entry
+  2025-05-19T00:09:40+0000  jsonp-20250513.23.tar
+Built jsonp in 3.805s, finished at 2025-05-19T00:09:41+0000

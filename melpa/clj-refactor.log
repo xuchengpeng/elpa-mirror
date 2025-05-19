@@ -3,18 +3,18 @@ Fetcher: github
 Source:  https://github.com/clojure-emacs/clj-refactor.el
 
 Updating /mnt/store/melpa/working/clj-refactor/
-Checking out dc1bbc8cdaa723bdbb6669ea7d280625c370755d
+Checking out 362cb46bf808dc42d2aaf022afe93048439680c4
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/clj-refactor/
-  to /tmp/clj-refactormH7IHQ/clj-refactor-20240310.2054
+  to /tmp/clj-refactorMNhoLL/clj-refactor-20250514.1903
     clj-refactor.el -> clj-refactor.el
     CHANGELOG.md -> CHANGELOG.md
-Created clj-refactor-20240310.2054.tar containing:
-  clj-refactor-20240310.2054/
-  clj-refactor-20240310.2054/CHANGELOG.md
-  clj-refactor-20240310.2054/clj-refactor-pkg.el
-  clj-refactor-20240310.2054/clj-refactor.el
+Created clj-refactor-20250514.1903.tar containing:
+  clj-refactor-20250514.1903/
+  clj-refactor-20250514.1903/CHANGELOG.md
+  clj-refactor-20250514.1903/clj-refactor-pkg.el
+  clj-refactor-20250514.1903/clj-refactor.el
  ✓ Success:
-  2025-05-12T00:23:22+0000  clj-refactor-20240310.2054.entry
-  2025-05-12T00:23:22+0000  clj-refactor-20240310.2054.tar
-Built clj-refactor in 3.334s, finished at 2025-05-12T00:23:23+0000
+  2025-05-19T01:54:46+0000  clj-refactor-20250514.1903.entry
+  2025-05-19T01:54:46+0000  clj-refactor-20250514.1903.tar
+Built clj-refactor in 2.973s, finished at 2025-05-19T01:54:47+0000
