@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/emacs-php/phpstan.el
 
 Updating /mnt/store/melpa/working/flymake-phpstan/
-Checking out e1aa8b269c0e3281c323bc1fad509edabb668441
+Checking out 206573c8de58654384823765dcca636c9e35e909
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/flymake-phpstan/
-  to /tmp/flymake-phpstanqz5jwN/flymake-phpstan-20250331.1920
+  to /tmp/flymake-phpstansFIGQr/flymake-phpstan-20250522.350
     flymake-phpstan.el -> flymake-phpstan.el
-Created flymake-phpstan-20250331.1920.tar containing:
-  flymake-phpstan-20250331.1920/
-  flymake-phpstan-20250331.1920/flymake-phpstan-pkg.el
-  flymake-phpstan-20250331.1920/flymake-phpstan.el
+Created flymake-phpstan-20250522.350.tar containing:
+  flymake-phpstan-20250522.350/
+  flymake-phpstan-20250522.350/flymake-phpstan-pkg.el
+  flymake-phpstan-20250522.350/flymake-phpstan.el
  ✓ Success:
-  2025-05-18T23:58:39+0000  flymake-phpstan-20250331.1920.entry
-  2025-05-18T23:58:39+0000  flymake-phpstan-20250331.1920.tar
-Built flymake-phpstan in 4.279s, finished at 2025-05-18T23:58:40+0000
+  2025-05-26T01:39:13+0000  flymake-phpstan-20250522.350.entry
+  2025-05-26T01:39:13+0000  flymake-phpstan-20250522.350.tar
+Built flymake-phpstan in 2.423s, finished at 2025-05-26T01:39:14+0000

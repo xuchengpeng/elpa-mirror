@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/emacsorphanage/yafolding
 
 Updating /mnt/store/melpa/working/yafolding/
-Checking out 4c1888ae45f9241516519ae0ae3a899f2efa05ba
+Checking out 7247f48503b116eb10a61de55afc0866716b2f87
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/yafolding/
-  to /tmp/yafoldingR0Rwjh/yafolding-20200119.1353
+  to /tmp/yafolding35iCjv/yafolding-20250523.1216
     yafolding.el -> yafolding.el
-Created yafolding-20200119.1353.tar containing:
-  yafolding-20200119.1353/
-  yafolding-20200119.1353/yafolding-pkg.el
-  yafolding-20200119.1353/yafolding.el
+Created yafolding-20250523.1216.tar containing:
+  yafolding-20250523.1216/
+  yafolding-20250523.1216/yafolding-pkg.el
+  yafolding-20250523.1216/yafolding.el
  ✓ Success:
-  2025-05-19T00:42:34+0000  yafolding-20200119.1353.entry
-  2025-05-19T00:42:34+0000  yafolding-20200119.1353.tar
-Built yafolding in 2.653s, finished at 2025-05-19T00:42:35+0000
+  2025-05-26T00:12:26+0000  yafolding-20250523.1216.entry
+  2025-05-26T00:12:26+0000  yafolding-20250523.1216.tar
+Built yafolding in 2.388s, finished at 2025-05-26T00:12:26+0000

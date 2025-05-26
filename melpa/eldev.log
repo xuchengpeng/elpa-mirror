@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/eldev/
 Checking out 87373ddace0c4b2267d8f45ebd20e4b0eb27f821
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/eldev/
-  to /tmp/eldevWLE6Z2/eldev-20250314.2105
+  to /tmp/eldevESHqTT/eldev-20250314.2105
     eldev-build.el -> eldev-build.el
     eldev-buttercup.el -> eldev-buttercup.el
     eldev-doctest.el -> eldev-doctest.el
@@ -38,6 +38,6 @@ Created eldev-20250314.2105.tar containing:
   eldev-20250314.2105/eldev-vc.el
   eldev-20250314.2105/eldev.el
  ✓ Success:
-  2025-05-19T02:02:51+0000  eldev-20250314.2105.entry
-  2025-05-19T02:02:51+0000  eldev-20250314.2105.tar
-Built eldev in 3.233s, finished at 2025-05-19T02:02:52+0000
+  2025-05-26T01:32:20+0000  eldev-20250314.2105.entry
+  2025-05-26T01:32:20+0000  eldev-20250314.2105.tar
+Built eldev in 3.425s, finished at 2025-05-26T01:32:21+0000

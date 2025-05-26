@@ -6,15 +6,13 @@ Updating /mnt/store/melpa/working/cppinsights/
 Checking out 941e48a0d5c4a6aed865d8be30ebca006b5a6e3f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/cppinsights/
-  to /tmp/cppinsightsdFuQT7/cppinsights-20250519.101
+  to /tmp/cppinsightscSfZuk/cppinsights-20250519.101
     cppinsights.el -> cppinsights.el
 Created cppinsights-20250519.101.tar containing:
   cppinsights-20250519.101/
   cppinsights-20250519.101/cppinsights-pkg.el
   cppinsights-20250519.101/cppinsights.el
  ✓ Success:
-  2025-05-18T23:46:15+0000  cppinsights-20250515.128.entry
-  2025-05-18T23:46:14+0000  cppinsights-20250515.128.tar
-  2025-05-19T01:57:41+0000  cppinsights-20250519.101.entry
-  2025-05-19T01:57:41+0000  cppinsights-20250519.101.tar
-Built cppinsights in 2.552s, finished at 2025-05-19T01:57:42+0000
+  2025-05-26T01:27:05+0000  cppinsights-20250519.101.entry
+  2025-05-26T01:27:05+0000  cppinsights-20250519.101.tar
+Built cppinsights in 2.595s, finished at 2025-05-26T01:27:06+0000

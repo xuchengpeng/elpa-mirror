@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/srcery-colors/srcery-emacs
 
 Updating /mnt/store/melpa/working/srcery-theme/
-Checking out 60028633c5722e6b8ea12844618be0e9b31be55a
+Checking out 55771c3190f2ed2fdcde3d6e6e94d4366830657c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/srcery-theme/
-  to /tmp/srcery-themeW6gSn3/srcery-theme-20240220.805
+  to /tmp/srcery-themeD0P49g/srcery-theme-20250523.1304
     srcery-theme.el -> srcery-theme.el
-Created srcery-theme-20240220.805.tar containing:
-  srcery-theme-20240220.805/
-  srcery-theme-20240220.805/srcery-theme-pkg.el
-  srcery-theme-20240220.805/srcery-theme.el
+Created srcery-theme-20250523.1304.tar containing:
+  srcery-theme-20250523.1304/
+  srcery-theme-20250523.1304/srcery-theme-pkg.el
+  srcery-theme-20250523.1304/srcery-theme.el
  ✓ Success:
-  2025-05-19T00:34:45+0000  srcery-theme-20240220.805.entry
-  2025-05-19T00:34:44+0000  srcery-theme-20240220.805.tar
-Built srcery-theme in 2.360s, finished at 2025-05-19T00:34:45+0000
+  2025-05-26T00:04:29+0000  srcery-theme-20250523.1304.entry
+  2025-05-26T00:04:29+0000  srcery-theme-20250523.1304.tar
+Built srcery-theme in 2.427s, finished at 2025-05-26T00:04:29+0000

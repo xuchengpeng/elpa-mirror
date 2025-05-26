@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/autobuild/
 Checking out 4760f6ea843d5d15c3fcf7cbf6b69153b61739fa
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/autobuild/
-  to /tmp/autobuildbuSi2M/autobuild-20240430.1600
+  to /tmp/autobuildy3VHbi/autobuild-20240430.1600
     autobuild.el -> autobuild.el
 Created autobuild-20240430.1600.tar containing:
   autobuild-20240430.1600/
   autobuild-20240430.1600/autobuild-pkg.el
   autobuild-20240430.1600/autobuild.el
  ✓ Success:
-  2025-05-19T01:50:36+0000  autobuild-20240430.1600.entry
-  2025-05-19T01:50:36+0000  autobuild-20240430.1600.tar
-Built autobuild in 2.797s, finished at 2025-05-19T01:50:37+0000
+  2025-05-26T01:19:58+0000  autobuild-20240430.1600.entry
+  2025-05-26T01:19:58+0000  autobuild-20240430.1600.tar
+Built autobuild in 2.620s, finished at 2025-05-26T01:19:59+0000

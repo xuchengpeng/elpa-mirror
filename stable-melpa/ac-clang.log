@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/ac-clang/
 Checking out 3294b968eb1a8317049190940193f9da47c085ef
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ac-clang/
-  to /tmp/ac-clangChNILw/ac-clang-20180710.546
+  to /tmp/ac-clang2v0Q33/ac-clang-20180710.546
     ac-clang.el -> ac-clang.el
     clang-server.el -> clang-server.el
     sample-pic-complete.png -> sample-pic-complete.png
@@ -72,6 +72,6 @@ Created ac-clang-20180710.546.tar containing:
   ac-clang-20180710.546/clang-server/readme.org
   ac-clang-20180710.546/sample-pic-complete.png
  ✓ Success:
-  2025-05-19T01:48:09+0000  ac-clang-20180710.546.entry
-  2025-05-19T01:48:09+0000  ac-clang-20180710.546.tar
-Built ac-clang in 2.765s, finished at 2025-05-19T01:48:10+0000
+  2025-05-26T01:17:17+0000  ac-clang-20180710.546.entry
+  2025-05-26T01:17:17+0000  ac-clang-20180710.546.tar
+Built ac-clang in 2.901s, finished at 2025-05-26T01:17:18+0000

@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/NicolasPetton/pass
 
 Updating /mnt/store/melpa/working/pass/
-Checking out 1a9f6100153b07ac4f4d1d332501240e94c38f1e
+Checking out 896696999dde9b6ac950ab485cb09f8701ad7626
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/pass/
-  to /tmp/passVr2LRR/pass-20240928.1836
+  to /tmp/passMnqaSH/pass-20250525.1239
     pass.el -> pass.el
-Created pass-20240928.1836.tar containing:
-  pass-20240928.1836/
-  pass-20240928.1836/pass-pkg.el
-  pass-20240928.1836/pass.el
+Created pass-20250525.1239.tar containing:
+  pass-20250525.1239/
+  pass-20250525.1239/pass-pkg.el
+  pass-20250525.1239/pass.el
  ✓ Success:
-  2025-05-19T00:24:10+0000  pass-20240928.1836.entry
-  2025-05-19T00:24:10+0000  pass-20240928.1836.tar
-Built pass in 2.816s, finished at 2025-05-19T00:24:11+0000
+  2025-05-25T23:53:50+0000  pass-20250525.1239.entry
+  2025-05-25T23:53:50+0000  pass-20250525.1239.tar
+Built pass in 2.694s, finished at 2025-05-25T23:53:51+0000
