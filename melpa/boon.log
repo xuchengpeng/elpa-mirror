@@ -3,10 +3,10 @@ Fetcher: github
 Source:  https://github.com/jyp/boon
 
 Updating /mnt/store/melpa/working/boon/
-Checking out 237b963231eeb820b5024191ebdf2a4353851bbb
+Checking out b562e2dbcb089e37ff5a1276f6a5663af6dc15e1
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/boon/
-  to /tmp/boonvEqm4F/boon-20250101.2055
+  to /tmp/boonH7vnjW/boon-20250527.1749
     boon-arguments.el -> boon-arguments.el
     boon-colemak-hnei.el -> boon-colemak-hnei.el
     boon-colemak.el -> boon-colemak.el
@@ -30,32 +30,32 @@ Copying files (->) and directories (=>)
     boon-utils.el -> boon-utils.el
     boon-workman.el -> boon-workman.el
     boon.el -> boon.el
-Created boon-20250101.2055.tar containing:
-  boon-20250101.2055/
-  boon-20250101.2055/boon-arguments.el
-  boon-20250101.2055/boon-colemak-hnei.el
-  boon-20250101.2055/boon-colemak.el
-  boon-20250101.2055/boon-core.el
-  boon-20250101.2055/boon-dvorak.el
-  boon-20250101.2055/boon-emacs.el
-  boon-20250101.2055/boon-hl.el
-  boon-20250101.2055/boon-keys.el
-  boon-20250101.2055/boon-loaddefs.el
-  boon-20250101.2055/boon-main.el
-  boon-20250101.2055/boon-moves.el
-  boon-20250101.2055/boon-pkg.el
-  boon-20250101.2055/boon-powerline.el
-  boon-20250101.2055/boon-qwerty-hjkl.el
-  boon-20250101.2055/boon-qwerty.el
-  boon-20250101.2055/boon-qwertz.el
-  boon-20250101.2055/boon-regs.el
-  boon-20250101.2055/boon-search.el
-  boon-20250101.2055/boon-spaceline.el
-  boon-20250101.2055/boon-tutorial.el
-  boon-20250101.2055/boon-utils.el
-  boon-20250101.2055/boon-workman.el
-  boon-20250101.2055/boon.el
+Created boon-20250527.1749.tar containing:
+  boon-20250527.1749/
+  boon-20250527.1749/boon-arguments.el
+  boon-20250527.1749/boon-colemak-hnei.el
+  boon-20250527.1749/boon-colemak.el
+  boon-20250527.1749/boon-core.el
+  boon-20250527.1749/boon-dvorak.el
+  boon-20250527.1749/boon-emacs.el
+  boon-20250527.1749/boon-hl.el
+  boon-20250527.1749/boon-keys.el
+  boon-20250527.1749/boon-loaddefs.el
+  boon-20250527.1749/boon-main.el
+  boon-20250527.1749/boon-moves.el
+  boon-20250527.1749/boon-pkg.el
+  boon-20250527.1749/boon-powerline.el
+  boon-20250527.1749/boon-qwerty-hjkl.el
+  boon-20250527.1749/boon-qwerty.el
+  boon-20250527.1749/boon-qwertz.el
+  boon-20250527.1749/boon-regs.el
+  boon-20250527.1749/boon-search.el
+  boon-20250527.1749/boon-spaceline.el
+  boon-20250527.1749/boon-tutorial.el
+  boon-20250527.1749/boon-utils.el
+  boon-20250527.1749/boon-workman.el
+  boon-20250527.1749/boon.el
  ✓ Success:
-  2025-05-26T01:21:35+0000  boon-20250101.2055.entry
-  2025-05-26T01:21:35+0000  boon-20250101.2055.tar
-Built boon in 3.382s, finished at 2025-05-26T01:21:35+0000
+  2025-06-02T00:57:34+0000  boon-20250527.1749.entry
+  2025-06-02T00:57:33+0000  boon-20250527.1749.tar
+Built boon in 3.235s, finished at 2025-06-02T00:57:34+0000

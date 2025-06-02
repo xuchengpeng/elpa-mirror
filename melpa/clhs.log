@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/clhs/
 Checking out 7b106c4fb5a6388ab753f94740f6dfadcdeedcbb
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/clhs/
-  to /tmp/clhs0ftYGb/clhs-20210428.1911
+  to /tmp/clhsia9R3w/clhs-20210428.1911
     clhs.el -> clhs.el
 Created clhs-20210428.1911.tar containing:
   clhs-20210428.1911/
   clhs-20210428.1911/clhs-pkg.el
   clhs-20210428.1911/clhs.el
  ✓ Success:
-  2025-05-26T01:23:56+0000  clhs-20210428.1911.entry
-  2025-05-26T01:23:56+0000  clhs-20210428.1911.tar
-Built clhs in 3.058s, finished at 2025-05-26T01:23:57+0000
+  2025-06-02T01:00:02+0000  clhs-20210428.1911.entry
+  2025-06-02T01:00:02+0000  clhs-20210428.1911.tar
+Built clhs in 3.795s, finished at 2025-06-02T01:00:03+0000

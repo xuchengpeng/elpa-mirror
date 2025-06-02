@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/hcl-emacs/terraform-mode
 
 Updating /mnt/store/melpa/working/terraform-mode/
-Checking out 5bdd734a87f67f6574664f63eb4d02a0bc74c0d0
+Checking out 80383ff42bd0047cde6e3a1dfb87bdb9e0340da3
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/terraform-mode/
-  to /tmp/terraform-modec7pMzZ/terraform-mode-20241217.1628
+  to /tmp/terraform-mode5zeOAj/terraform-mode-20250528.1335
     terraform-mode.el -> terraform-mode.el
-Created terraform-mode-20241217.1628.tar containing:
-  terraform-mode-20241217.1628/
-  terraform-mode-20241217.1628/terraform-mode-pkg.el
-  terraform-mode-20241217.1628/terraform-mode.el
+Created terraform-mode-20250528.1335.tar containing:
+  terraform-mode-20250528.1335/
+  terraform-mode-20250528.1335/terraform-mode-pkg.el
+  terraform-mode-20250528.1335/terraform-mode.el
  ✓ Success:
-  2025-05-26T00:06:41+0000  terraform-mode-20241217.1628.entry
-  2025-05-26T00:06:41+0000  terraform-mode-20241217.1628.tar
-Built terraform-mode in 2.509s, finished at 2025-05-26T00:06:42+0000
+  2025-06-02T01:51:39+0000  terraform-mode-20250528.1335.entry
+  2025-06-02T01:51:39+0000  terraform-mode-20250528.1335.tar
+Built terraform-mode in 2.659s, finished at 2025-06-02T01:51:40+0000

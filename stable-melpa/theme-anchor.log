@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/GongYiLiao/theme-anchor
 
 Updating /mnt/store/melpa/working/theme-anchor/
-Checking out dd69fe04d901e771cafde3992042a212e4a62620
+Checking out dbe2263e797aa4d1d7c698afc7515c514390fef7
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/theme-anchor/
-  to /tmp/theme-anchor15n0iE/theme-anchor-20230924.2041
+  to /tmp/theme-anchorBDBbcn/theme-anchor-20250530.1449
     theme-anchor.el -> theme-anchor.el
-Created theme-anchor-20230924.2041.tar containing:
-  theme-anchor-20230924.2041/
-  theme-anchor-20230924.2041/theme-anchor-pkg.el
-  theme-anchor-20230924.2041/theme-anchor.el
+Created theme-anchor-20250530.1449.tar containing:
+  theme-anchor-20250530.1449/
+  theme-anchor-20250530.1449/theme-anchor-pkg.el
+  theme-anchor-20250530.1449/theme-anchor.el
  ✓ Success:
-  2025-05-26T00:06:55+0000  theme-anchor-20230924.2041.entry
-  2025-05-26T00:06:55+0000  theme-anchor-20230924.2041.tar
-Built theme-anchor in 2.735s, finished at 2025-05-26T00:06:56+0000
+  2025-06-02T01:51:52+0000  theme-anchor-20250530.1449.entry
+  2025-06-02T01:51:52+0000  theme-anchor-20250530.1449.tar
+Built theme-anchor in 2.539s, finished at 2025-06-02T01:51:53+0000

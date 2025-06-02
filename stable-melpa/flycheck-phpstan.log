@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/flycheck-phpstan/
 Checking out 206573c8de58654384823765dcca636c9e35e909
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/flycheck-phpstan/
-  to /tmp/flycheck-phpstangvKvkY/flycheck-phpstan-20250522.350
+  to /tmp/flycheck-phpstanPqugAV/flycheck-phpstan-20250522.350
     flycheck-phpstan.el -> flycheck-phpstan.el
 Created flycheck-phpstan-20250522.350.tar containing:
   flycheck-phpstan-20250522.350/
   flycheck-phpstan-20250522.350/flycheck-phpstan-pkg.el
   flycheck-phpstan-20250522.350/flycheck-phpstan.el
  ✓ Success:
-  2025-05-26T01:38:25+0000  flycheck-phpstan-20250522.350.entry
-  2025-05-26T01:38:25+0000  flycheck-phpstan-20250522.350.tar
-Built flycheck-phpstan in 2.335s, finished at 2025-05-26T01:38:26+0000
+  2025-06-02T01:13:59+0000  flycheck-phpstan-20250522.350.entry
+  2025-06-02T01:13:59+0000  flycheck-phpstan-20250522.350.tar
+Built flycheck-phpstan in 2.235s, finished at 2025-06-02T01:14:00+0000

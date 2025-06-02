@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/fanyi/
 Checking out df91f2d69b7dbd9b7ebb8f54085aee74f22ad3f5
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/fanyi/
-  to /tmp/fanyixZERhV/fanyi-20230926.1849
+  to /tmp/fanyittQ1Af/fanyi-20230926.1849
     fanyi-base.el -> fanyi-base.el
     fanyi-etymon.el -> fanyi-etymon.el
     fanyi-haici.el -> fanyi-haici.el
@@ -25,6 +25,6 @@ Created fanyi-20230926.1849.tar containing:
   fanyi-20230926.1849/fanyi.el
   fanyi-20230926.1849/ol-fanyi.el
  ✓ Success:
-  2025-05-26T01:36:41+0000  fanyi-20230926.1849.entry
-  2025-05-26T01:36:41+0000  fanyi-20230926.1849.tar
-Built fanyi in 2.053s, finished at 2025-05-26T01:36:42+0000
+  2025-06-02T01:12:16+0000  fanyi-20230926.1849.entry
+  2025-06-02T01:12:16+0000  fanyi-20230926.1849.tar
+Built fanyi in 2.867s, finished at 2025-06-02T01:12:17+0000

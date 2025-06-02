@@ -3,21 +3,21 @@ Fetcher: github
 Source:  https://github.com/pprevos/citar-denote
 
 Updating /mnt/store/melpa/working/citar-denote/
-Checking out ee33058fbce47b9874af6928b202223e6b12700b
+Checking out 6bff8e830dcbf5a57384d065b4e127349841251d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/citar-denote/
-  to /tmp/citar-denoteCKfo8e/citar-denote-20250225.927
+  to /tmp/citar-denotetOZ2ut/citar-denote-20250528.209
     citar-denote.el -> citar-denote.el
     citar-denote.info -> citar-denote.info
     citar-denote.texi -> citar-denote.texi
 Generating citar-denote.info
-Created citar-denote-20250225.927.tar containing:
-  citar-denote-20250225.927/
-  citar-denote-20250225.927/citar-denote-pkg.el
-  citar-denote-20250225.927/citar-denote.el
-  citar-denote-20250225.927/citar-denote.info
-  citar-denote-20250225.927/dir
+Created citar-denote-20250528.209.tar containing:
+  citar-denote-20250528.209/
+  citar-denote-20250528.209/citar-denote-pkg.el
+  citar-denote-20250528.209/citar-denote.el
+  citar-denote-20250528.209/citar-denote.info
+  citar-denote-20250528.209/dir
  ✓ Success:
-  2025-05-26T01:23:42+0000  citar-denote-20250225.927.entry
-  2025-05-26T01:23:42+0000  citar-denote-20250225.927.tar
-Built citar-denote in 4.032s, finished at 2025-05-26T01:23:43+0000
+  2025-06-02T00:59:48+0000  citar-denote-20250528.209.entry
+  2025-06-02T00:59:48+0000  citar-denote-20250528.209.tar
+Built citar-denote in 3.928s, finished at 2025-06-02T00:59:49+0000

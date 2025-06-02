@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/mozc/
 Checking out 58ebfadae04bc46c46e70edc9662347a29d8b7bc
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mozc/
-  to /tmp/mozcG1H4ox/mozc-20250116.1442
+  to /tmp/mozcOBtTBP/mozc-20250116.1442
   ! src/unix/emacs/mozc.el -> mozc.el
 Created mozc-20250116.1442.tar containing:
   mozc-20250116.1442/
   mozc-20250116.1442/mozc-pkg.el
   mozc-20250116.1442/mozc.el
  ✓ Success:
-  2025-05-26T01:56:24+0000  mozc-20250116.1442.entry
-  2025-05-26T01:56:24+0000  mozc-20250116.1442.tar
-Built mozc in 4.036s, finished at 2025-05-26T01:56:25+0000
+  2025-06-02T01:31:44+0000  mozc-20250116.1442.entry
+  2025-06-02T01:31:44+0000  mozc-20250116.1442.tar
+Built mozc in 4.101s, finished at 2025-06-02T01:31:45+0000

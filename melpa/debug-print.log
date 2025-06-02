@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/debug-print/
 Checking out d817fd9ea2d3f8d2c1ace4d8af155684f3a99dc5
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/debug-print/
-  to /tmp/debug-printJHH07o/debug-print-20140126.19
+  to /tmp/debug-printPVqnSO/debug-print-20140126.19
     debug-print.el -> debug-print.el
 Created debug-print-20140126.19.tar containing:
   debug-print-20140126.19/
   debug-print-20140126.19/debug-print-pkg.el
   debug-print-20140126.19/debug-print.el
  ✓ Success:
-  2025-05-26T01:28:19+0000  debug-print-20140126.19.entry
-  2025-05-26T01:28:19+0000  debug-print-20140126.19.tar
-Built debug-print in 2.706s, finished at 2025-05-26T01:28:19+0000
+  2025-06-02T01:04:21+0000  debug-print-20140126.19.entry
+  2025-06-02T01:04:21+0000  debug-print-20140126.19.tar
+Built debug-print in 4.577s, finished at 2025-06-02T01:04:23+0000

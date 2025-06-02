@@ -1,0 +1,42 @@
+Package: p-search
+Fetcher: github
+Source:  https://github.com/zkry/p-search
+
+Updating /mnt/store/melpa/working/p-search/
+Checking out d51ba2bf042265e7e04369c7b733f40a1f416343
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/p-search/
+  to /tmp/p-searchqQRNAo/p-search-20250601.1523
+    p-search-query.el -> p-search-query.el
+    p-search-transient.el -> p-search-transient.el
+    p-search.el -> p-search.el
+  ! docs/dir -> dir
+  ! docs/p-search.info -> p-search.info
+  ! docs/p-search.texi -> p-search.texi
+  ! extensions/p-search-x-bibtex.el -> p-search-x-bibtex.el
+  ! extensions/p-search-x-denote.el -> p-search-x-denote.el
+  ! extensions/p-search-x-elisp.el -> p-search-x-elisp.el
+  ! extensions/p-search-x-filesplit.el -> p-search-x-filesplit.el
+  ! extensions/p-search-x-info.el -> p-search-x-info.el
+  ! extensions/p-search-x-package-list.el -> p-search-x-package-list.el
+  ! extensions/p-search-x-pdfinfo.el -> p-search-x-pdfinfo.el
+Generating p-search.info
+Created p-search-20250601.1523.tar containing:
+  p-search-20250601.1523/
+  p-search-20250601.1523/dir
+  p-search-20250601.1523/p-search-pkg.el
+  p-search-20250601.1523/p-search-query.el
+  p-search-20250601.1523/p-search-transient.el
+  p-search-20250601.1523/p-search-x-bibtex.el
+  p-search-20250601.1523/p-search-x-denote.el
+  p-search-20250601.1523/p-search-x-elisp.el
+  p-search-20250601.1523/p-search-x-filesplit.el
+  p-search-20250601.1523/p-search-x-info.el
+  p-search-20250601.1523/p-search-x-package-list.el
+  p-search-20250601.1523/p-search-x-pdfinfo.el
+  p-search-20250601.1523/p-search.el
+  p-search-20250601.1523/p-search.info
+ ✓ Success:
+  2025-06-02T01:39:17+0000  p-search-20250601.1523.entry
+  2025-06-02T01:39:17+0000  p-search-20250601.1523.tar
+Built p-search in 4.682s, finished at 2025-06-02T01:39:18+0000

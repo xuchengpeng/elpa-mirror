@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/litable/
 Checking out b83b1283ea6642ab82f536f1f3b280160404ff6b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/litable/
-  to /tmp/litablekAOuNg/litable-20240321.2059
+  to /tmp/litablelh9wU2/litable-20240321.2059
     litable.el -> litable.el
 Created litable-20240321.2059.tar containing:
   litable-20240321.2059/
   litable-20240321.2059/litable-pkg.el
   litable-20240321.2059/litable.el
  ✓ Success:
-  2025-05-26T01:52:23+0000  litable-20240321.2059.entry
-  2025-05-26T01:52:23+0000  litable-20240321.2059.tar
-Built litable in 2.225s, finished at 2025-05-26T01:52:24+0000
+  2025-06-02T01:27:58+0000  litable-20240321.2059.entry
+  2025-06-02T01:27:58+0000  litable-20240321.2059.tar
+Built litable in 2.305s, finished at 2025-06-02T01:27:59+0000

@@ -3,24 +3,24 @@ Fetcher: github
 Source:  https://github.com/kuanyui/moe-theme.el
 
 Updating /mnt/store/melpa/working/moe-theme/
-Checking out 19a20cf08c0c72db97b8e1382a0ceba59f5f27c5
+Checking out 212d05cf64ac7b8387c7a66b0630cc027c7da7b5
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/moe-theme/
-  to /tmp/moe-themen5xiAm/moe-theme-20250203.1808
+  to /tmp/moe-theme4JvwGo/moe-theme-20250527.611
     moe-dark-theme.el -> moe-dark-theme.el
     moe-light-theme.el -> moe-light-theme.el
     moe-theme-flavours.el -> moe-theme-flavours.el
     moe-theme-switcher.el -> moe-theme-switcher.el
     moe-theme.el -> moe-theme.el
-Created moe-theme-20250203.1808.tar containing:
-  moe-theme-20250203.1808/
-  moe-theme-20250203.1808/moe-dark-theme.el
-  moe-theme-20250203.1808/moe-light-theme.el
-  moe-theme-20250203.1808/moe-theme-flavours.el
-  moe-theme-20250203.1808/moe-theme-pkg.el
-  moe-theme-20250203.1808/moe-theme-switcher.el
-  moe-theme-20250203.1808/moe-theme.el
+Created moe-theme-20250527.611.tar containing:
+  moe-theme-20250527.611/
+  moe-theme-20250527.611/moe-dark-theme.el
+  moe-theme-20250527.611/moe-light-theme.el
+  moe-theme-20250527.611/moe-theme-flavours.el
+  moe-theme-20250527.611/moe-theme-pkg.el
+  moe-theme-20250527.611/moe-theme-switcher.el
+  moe-theme-20250527.611/moe-theme.el
  ✓ Success:
-  2025-05-26T01:55:59+0000  moe-theme-20250203.1808.entry
-  2025-05-26T01:55:59+0000  moe-theme-20250203.1808.tar
-Built moe-theme in 2.750s, finished at 2025-05-26T01:56:00+0000
+  2025-06-02T01:31:20+0000  moe-theme-20250527.611.entry
+  2025-06-02T01:31:20+0000  moe-theme-20250527.611.tar
+Built moe-theme in 2.659s, finished at 2025-06-02T01:31:21+0000

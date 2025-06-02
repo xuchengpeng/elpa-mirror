@@ -3,10 +3,10 @@ Fetcher: github
 Source:  https://github.com/szermatt/mistty
 
 Updating /mnt/store/melpa/working/mistty/
-Checking out 248ad94b6285ddf092f9e4156221ac4acc1ff712
+Checking out ae459ded6fdf69c8222056a4a829d2de6c00fc0d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mistty/
-  to /tmp/misttyPOMtF9/mistty-20250509.1801
+  to /tmp/mistty6tiaZO/mistty-20250531.814
     mistty-accum-macros.el -> mistty-accum-macros.el
     mistty-accum.el -> mistty-accum.el
     mistty-changeset.el -> mistty-changeset.el
@@ -22,25 +22,25 @@ Copying files (->) and directories (=>)
     mistty.el -> mistty.el
     mistty.texi -> mistty.texi
 Generating mistty.info
-Created mistty-20250509.1801.tar containing:
-  mistty-20250509.1801/
-  mistty-20250509.1801/dir
-  mistty-20250509.1801/mistty-accum-macros.el
-  mistty-20250509.1801/mistty-accum.el
-  mistty-20250509.1801/mistty-changeset.el
-  mistty-20250509.1801/mistty-launch.el
-  mistty-20250509.1801/mistty-log.el
-  mistty-20250509.1801/mistty-osc-colors.el
-  mistty-20250509.1801/mistty-osc7.el
-  mistty-20250509.1801/mistty-pkg.el
-  mistty-20250509.1801/mistty-project.el
-  mistty-20250509.1801/mistty-queue.el
-  mistty-20250509.1801/mistty-term.el
-  mistty-20250509.1801/mistty-undo.el
-  mistty-20250509.1801/mistty-util.el
-  mistty-20250509.1801/mistty.el
-  mistty-20250509.1801/mistty.info
+Created mistty-20250531.814.tar containing:
+  mistty-20250531.814/
+  mistty-20250531.814/dir
+  mistty-20250531.814/mistty-accum-macros.el
+  mistty-20250531.814/mistty-accum.el
+  mistty-20250531.814/mistty-changeset.el
+  mistty-20250531.814/mistty-launch.el
+  mistty-20250531.814/mistty-log.el
+  mistty-20250531.814/mistty-osc-colors.el
+  mistty-20250531.814/mistty-osc7.el
+  mistty-20250531.814/mistty-pkg.el
+  mistty-20250531.814/mistty-project.el
+  mistty-20250531.814/mistty-queue.el
+  mistty-20250531.814/mistty-term.el
+  mistty-20250531.814/mistty-undo.el
+  mistty-20250531.814/mistty-util.el
+  mistty-20250531.814/mistty.el
+  mistty-20250531.814/mistty.info
  ✓ Success:
-  2025-05-26T01:55:42+0000  mistty-20250509.1801.entry
-  2025-05-26T01:55:42+0000  mistty-20250509.1801.tar
-Built mistty in 5.815s, finished at 2025-05-26T01:55:43+0000
+  2025-06-02T01:31:04+0000  mistty-20250531.814.entry
+  2025-06-02T01:31:04+0000  mistty-20250531.814.tar
+Built mistty in 5.758s, finished at 2025-06-02T01:31:05+0000
