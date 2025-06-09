@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/org-parser/
 Checking out fd4cb7035ff649378cc968b1ec2c386b5c565706
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/org-parser/
-  to /tmp/org-parseryDIJqL/org-parser-20200417.301
+  to /tmp/org-parserbg0xdq/org-parser-20200417.301
     org-parser.el -> org-parser.el
 Created org-parser-20200417.301.tar containing:
   org-parser-20200417.301/
   org-parser-20200417.301/org-parser-pkg.el
   org-parser-20200417.301/org-parser.el
  ✓ Success:
-  2025-06-02T01:37:10+0000  org-parser-20200417.301.entry
-  2025-06-02T01:37:10+0000  org-parser-20200417.301.tar
-Built org-parser in 15.544s, finished at 2025-06-02T01:37:15+0000
+  2025-06-09T01:25:38+0000  org-parser-20200417.301.entry
+  2025-06-09T01:25:38+0000  org-parser-20200417.301.tar
+Built org-parser in 18.268s, finished at 2025-06-09T01:25:44+0000

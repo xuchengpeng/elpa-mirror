@@ -3,26 +3,26 @@ Fetcher: github
 Source:  https://github.com/emacs-gnuplot/gnuplot
 
 Updating /mnt/store/melpa/working/gnuplot/
-Checking out 00b8395f1aad1cf507525529971b8ff26614af77
+Checking out 837bd9853d0b196927f3c1d9d32bda87608b0ca3
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/gnuplot/
-  to /tmp/gnuplotu6UImk/gnuplot-20250601.1700
+  to /tmp/gnuplotIrmlCD/gnuplot-20250606.1928
     gnuplot.el -> gnuplot.el
     gnuplot-gui.el -> gnuplot-gui.el
     gnuplot-context.el -> gnuplot-context.el
     gnuplot-eldoc.el -> gnuplot-eldoc.el
     gnuplot.texi -> gnuplot.texi
 Generating gnuplot.info
-Created gnuplot-20250601.1700.tar containing:
-  gnuplot-20250601.1700/
-  gnuplot-20250601.1700/dir
-  gnuplot-20250601.1700/gnuplot-context.el
-  gnuplot-20250601.1700/gnuplot-eldoc.el
-  gnuplot-20250601.1700/gnuplot-gui.el
-  gnuplot-20250601.1700/gnuplot-pkg.el
-  gnuplot-20250601.1700/gnuplot.el
-  gnuplot-20250601.1700/gnuplot.info
+Created gnuplot-20250606.1928.tar containing:
+  gnuplot-20250606.1928/
+  gnuplot-20250606.1928/dir
+  gnuplot-20250606.1928/gnuplot-context.el
+  gnuplot-20250606.1928/gnuplot-eldoc.el
+  gnuplot-20250606.1928/gnuplot-gui.el
+  gnuplot-20250606.1928/gnuplot-pkg.el
+  gnuplot-20250606.1928/gnuplot.el
+  gnuplot-20250606.1928/gnuplot.info
  ✓ Success:
-  2025-06-02T01:17:30+0000  gnuplot-20250601.1700.entry
-  2025-06-02T01:17:29+0000  gnuplot-20250601.1700.tar
-Built gnuplot in 10.948s, finished at 2025-06-02T01:17:30+0000
+  2025-06-09T01:04:39+0000  gnuplot-20250606.1928.entry
+  2025-06-09T01:04:39+0000  gnuplot-20250606.1928.tar
+Built gnuplot in 11.693s, finished at 2025-06-09T01:04:39+0000

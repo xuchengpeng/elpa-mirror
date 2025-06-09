@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/google/mozc
 
 Updating /mnt/store/melpa/working/mozc/
-Checking out 58ebfadae04bc46c46e70edc9662347a29d8b7bc
+Checking out d703e617246b3916edcb5b95812badef1a2764bc
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mozc/
-  to /tmp/mozcOBtTBP/mozc-20250116.1442
+  to /tmp/mozch2vijh/mozc-20250602.713
   ! src/unix/emacs/mozc.el -> mozc.el
-Created mozc-20250116.1442.tar containing:
-  mozc-20250116.1442/
-  mozc-20250116.1442/mozc-pkg.el
-  mozc-20250116.1442/mozc.el
+Created mozc-20250602.713.tar containing:
+  mozc-20250602.713/
+  mozc-20250602.713/mozc-pkg.el
+  mozc-20250602.713/mozc.el
  ✓ Success:
-  2025-06-02T01:31:44+0000  mozc-20250116.1442.entry
-  2025-06-02T01:31:44+0000  mozc-20250116.1442.tar
-Built mozc in 4.101s, finished at 2025-06-02T01:31:45+0000
+  2025-06-09T01:19:59+0000  mozc-20250602.713.entry
+  2025-06-09T01:19:59+0000  mozc-20250602.713.tar
+Built mozc in 4.306s, finished at 2025-06-09T01:20:00+0000

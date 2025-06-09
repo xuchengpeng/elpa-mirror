@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/ros/
 Checking out 2108aed4d075652c342e537fab120392f4703d74
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ros/
-  to /tmp/rosQUUBOO/ros-20250224.943
+  to /tmp/ros726Z4t/ros-20250224.943
     ros.el -> ros.el
 Created ros-20250224.943.tar containing:
   ros-20250224.943/
   ros-20250224.943/ros-pkg.el
   ros-20250224.943/ros.el
  ✓ Success:
-  2025-06-02T01:45:33+0000  ros-20250224.943.entry
-  2025-06-02T01:45:33+0000  ros-20250224.943.tar
-Built ros in 2.357s, finished at 2025-06-02T01:45:34+0000
+  2025-06-09T01:34:51+0000  ros-20250224.943.entry
+  2025-06-09T01:34:51+0000  ros-20250224.943.tar
+Built ros in 2.348s, finished at 2025-06-09T01:34:51+0000

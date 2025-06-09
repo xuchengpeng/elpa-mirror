@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/dumb-diff/
 Checking out 1a2331d283049b71a07c1b06b1e0627a950d55f4
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/dumb-diff/
-  to /tmp/dumb-diffEGhy3O/dumb-diff-20171211.2122
+  to /tmp/dumb-diffME5ICo/dumb-diff-20171211.2122
     dumb-diff.el -> dumb-diff.el
 Created dumb-diff-20171211.2122.tar containing:
   dumb-diff-20171211.2122/
   dumb-diff-20171211.2122/dumb-diff-pkg.el
   dumb-diff-20171211.2122/dumb-diff.el
  ✓ Success:
-  2025-06-02T01:06:44+0000  dumb-diff-20171211.2122.entry
-  2025-06-02T01:06:44+0000  dumb-diff-20171211.2122.tar
-Built dumb-diff in 2.517s, finished at 2025-06-02T01:06:45+0000
+  2025-06-09T00:53:27+0000  dumb-diff-20171211.2122.entry
+  2025-06-09T00:53:27+0000  dumb-diff-20171211.2122.tar
+Built dumb-diff in 2.407s, finished at 2025-06-09T00:53:28+0000

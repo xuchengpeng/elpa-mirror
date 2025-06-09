@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/Shopify/shadowenv.el
 
 Updating /mnt/store/melpa/working/shadowenv/
-Checking out dbcef650b906fec62608d5e4e3075bf251e675e1
+Checking out 2b8383b54cac9edf8204050d2a8d70a0e6f0d972
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/shadowenv/
-  to /tmp/shadowenvCOqN6x/shadowenv-20210512.1625
+  to /tmp/shadowenvgl0iFM/shadowenv-20250604.2048
     shadowenv.el -> shadowenv.el
-Created shadowenv-20210512.1625.tar containing:
-  shadowenv-20210512.1625/
-  shadowenv-20210512.1625/shadowenv-pkg.el
-  shadowenv-20210512.1625/shadowenv.el
+Created shadowenv-20250604.2048.tar containing:
+  shadowenv-20250604.2048/
+  shadowenv-20250604.2048/shadowenv-pkg.el
+  shadowenv-20250604.2048/shadowenv.el
  ✓ Success:
-  2025-06-02T01:47:02+0000  shadowenv-20210512.1625.entry
-  2025-06-02T01:47:02+0000  shadowenv-20210512.1625.tar
-Built shadowenv in 2.360s, finished at 2025-06-02T01:47:03+0000
+  2025-06-09T01:36:32+0000  shadowenv-20250604.2048.entry
+  2025-06-09T01:36:32+0000  shadowenv-20250604.2048.tar
+Built shadowenv in 2.748s, finished at 2025-06-09T01:36:33+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/kotlin-ts-mode/
 Checking out a25d56cecac9160ba7c140f982ec16ca7b2fe97f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/kotlin-ts-mode/
-  to /tmp/kotlin-ts-modeZdbtmf/kotlin-ts-mode-20241226.1643
+  to /tmp/kotlin-ts-modekEX5eO/kotlin-ts-mode-20241226.1643
     kotlin-ts-mode.el -> kotlin-ts-mode.el
 Created kotlin-ts-mode-20241226.1643.tar containing:
   kotlin-ts-mode-20241226.1643/
   kotlin-ts-mode-20241226.1643/kotlin-ts-mode-pkg.el
   kotlin-ts-mode-20241226.1643/kotlin-ts-mode.el
  ✓ Success:
-  2025-06-02T01:26:21+0000  kotlin-ts-mode-20241226.1643.entry
-  2025-06-02T01:26:21+0000  kotlin-ts-mode-20241226.1643.tar
-Built kotlin-ts-mode in 3.009s, finished at 2025-06-02T01:26:22+0000
+  2025-06-09T01:14:19+0000  kotlin-ts-mode-20241226.1643.entry
+  2025-06-09T01:14:18+0000  kotlin-ts-mode-20241226.1643.tar
+Built kotlin-ts-mode in 3.117s, finished at 2025-06-09T01:14:19+0000

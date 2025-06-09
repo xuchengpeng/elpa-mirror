@@ -3,18 +3,18 @@ Fetcher: github
 Source:  https://github.com/lorniu/pdd.el
 
 Updating /mnt/store/melpa/working/pdd/
-Checking out ec827d0be48e75c2ac4b8475c37ae6c38d5f5756
+Checking out 1e651753e8a902babc0dbee8992c1db68112334c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/pdd/
-  to /tmp/pdddptU9k/pdd-20250601.2333
+  to /tmp/pddYmX1Ee/pdd-20250609.119
     pdd.el -> pdd.el
-Created pdd-20250601.2333.tar containing:
-  pdd-20250601.2333/
-  pdd-20250601.2333/pdd-pkg.el
-  pdd-20250601.2333/pdd.el
+Created pdd-20250609.119.tar containing:
+  pdd-20250609.119/
+  pdd-20250609.119/pdd-pkg.el
+  pdd-20250609.119/pdd.el
  ✓ Success:
-  2025-06-01T23:31:49+0000  pdd-20250601.1623.entry
-  2025-06-01T23:31:49+0000  pdd-20250601.1623.tar
-  2025-06-02T01:40:05+0000  pdd-20250601.2333.entry
-  2025-06-02T01:40:04+0000  pdd-20250601.2333.tar
-Built pdd in 2.834s, finished at 2025-06-02T01:40:05+0000
+  2025-06-08T23:16:14+0000  pdd-20250608.1507.entry
+  2025-06-08T23:16:14+0000  pdd-20250608.1507.tar
+  2025-06-09T01:28:48+0000  pdd-20250609.119.entry
+  2025-06-09T01:28:48+0000  pdd-20250609.119.tar
+Built pdd in 3.435s, finished at 2025-06-09T01:28:49+0000

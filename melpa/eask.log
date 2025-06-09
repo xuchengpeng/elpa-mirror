@@ -3,20 +3,20 @@ Fetcher: github
 Source:  https://github.com/emacs-eask/eask
 
 Updating /mnt/store/melpa/working/eask/
-Checking out 2a94f252d69df007385ed4e65870e5d557113db9
+Checking out 7925aacf9cd8bd73cc025fa28d79cc266f778c77
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/eask/
-  to /tmp/easkGP50JR/eask-20250530.308
+  to /tmp/easkEn228J/eask-20250608.221
     eask-api.el -> eask-api.el
     eask-core.el -> eask-core.el
     eask.el -> eask.el
-Created eask-20250530.308.tar containing:
-  eask-20250530.308/
-  eask-20250530.308/eask-api.el
-  eask-20250530.308/eask-core.el
-  eask-20250530.308/eask-pkg.el
-  eask-20250530.308/eask.el
+Created eask-20250608.221.tar containing:
+  eask-20250608.221/
+  eask-20250608.221/eask-api.el
+  eask-20250608.221/eask-core.el
+  eask-20250608.221/eask-pkg.el
+  eask-20250608.221/eask.el
  ✓ Success:
-  2025-06-02T01:07:06+0000  eask-20250530.308.entry
-  2025-06-02T01:07:06+0000  eask-20250530.308.tar
-Built eask in 3.147s, finished at 2025-06-02T01:07:07+0000
+  2025-06-09T00:53:50+0000  eask-20250608.221.entry
+  2025-06-09T00:53:50+0000  eask-20250608.221.tar
+Built eask in 3.366s, finished at 2025-06-09T00:53:51+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/oauth/
 Checking out 737f4058b3239261cf7c95043034b95f1ce3b282
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/oauth/
-  to /tmp/oauthymmgcn/oauth-20230706.2026
+  to /tmp/oauthlcTgMo/oauth-20230706.2026
     oauth.el -> oauth.el
 Created oauth-20230706.2026.tar containing:
   oauth-20230706.2026/
   oauth-20230706.2026/oauth-pkg.el
   oauth-20230706.2026/oauth.el
  ✓ Success:
-  2025-06-02T01:34:02+0000  oauth-20230706.2026.entry
-  2025-06-02T01:34:02+0000  oauth-20230706.2026.tar
-Built oauth in 3.319s, finished at 2025-06-02T01:34:03+0000
+  2025-06-09T01:22:25+0000  oauth-20230706.2026.entry
+  2025-06-09T01:22:25+0000  oauth-20230706.2026.tar
+Built oauth in 3.018s, finished at 2025-06-09T01:22:26+0000

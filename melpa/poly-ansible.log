@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/poly-ansible/
 Checking out fc31708bff007a40314c1cfd5a5b9659f39b024a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/poly-ansible/
-  to /tmp/poly-ansible8X53pY/poly-ansible-20250501.1455
+  to /tmp/poly-ansibleGj6Hb6/poly-ansible-20250501.1455
   ! lisp/poly-ansible-jinja2-filters.el -> poly-ansible-jinja2-filters.el
   ! lisp/poly-ansible.el -> poly-ansible.el
   ! lisp/poly-jinja2.el -> poly-jinja2.el
@@ -19,6 +19,6 @@ Created poly-ansible-20250501.1455.tar containing:
   poly-ansible-20250501.1455/poly-jinja2.el
   poly-ansible-20250501.1455/poly-systemd-jinja2.el
  ✓ Success:
-  2025-06-02T01:41:26+0000  poly-ansible-20250501.1455.entry
-  2025-06-02T01:41:26+0000  poly-ansible-20250501.1455.tar
-Built poly-ansible in 3.544s, finished at 2025-06-02T01:41:27+0000
+  2025-06-09T01:30:20+0000  poly-ansible-20250501.1455.entry
+  2025-06-09T01:30:20+0000  poly-ansible-20250501.1455.tar
+Built poly-ansible in 4.280s, finished at 2025-06-09T01:30:21+0000

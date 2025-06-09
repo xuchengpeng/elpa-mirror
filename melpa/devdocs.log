@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/astoff/devdocs.el
 
 Updating /mnt/store/melpa/working/devdocs/
-Checking out d2214d34cdeb4483a594dd6973fcd095cef4653f
+Checking out 4023409017d37dc2d6c230fe010fadb917b4395b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/devdocs/
-  to /tmp/devdocsobHDSJ/devdocs-20241113.1341
+  to /tmp/devdocsW3cB5n/devdocs-20250608.1414
     devdocs.el -> devdocs.el
-Created devdocs-20241113.1341.tar containing:
-  devdocs-20241113.1341/
-  devdocs-20241113.1341/devdocs-pkg.el
-  devdocs-20241113.1341/devdocs.el
+Created devdocs-20250608.1414.tar containing:
+  devdocs-20250608.1414/
+  devdocs-20250608.1414/devdocs-pkg.el
+  devdocs-20250608.1414/devdocs.el
  ✓ Success:
-  2025-06-02T01:04:55+0000  devdocs-20241113.1341.entry
-  2025-06-02T01:04:55+0000  devdocs-20241113.1341.tar
-Built devdocs in 2.678s, finished at 2025-06-02T01:04:56+0000
+  2025-06-09T00:51:21+0000  devdocs-20250608.1414.entry
+  2025-06-09T00:51:21+0000  devdocs-20250608.1414.tar
+Built devdocs in 3.037s, finished at 2025-06-09T00:51:22+0000

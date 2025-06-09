@@ -311,14 +311,14 @@
 		 (:maintainer "Bozhidar Batsov" . "bozhidar@batsov.dev")
 		 (:commit . "d336db623e7ae8cffff50aaaea3f1b05cc4ccecb"))])
  (clojure-ts-mode .
-		  [(0 4 0)
+		  [(0 5 0)
 		   ((emacs
 		     (30 1)))
 		   "Major mode for Clojure code" tar
 		   ((:url . "http://github.com/clojure-emacs/clojure-ts-mode")
 		    (:keywords "languages" "clojure" "clojurescript" "lisp")
 		    (:maintainer "Bozhidar Batsov" . "bozhidar@batsov.dev")
-		    (:commit . "c2269ea10a9129113a98eb58fc8abd8888a07e94"))])
+		    (:commit . "bd08cd02612507c4012d078eb94ccd7aa9b567b1"))])
  (coffee-mode .
 	      [(0 6 3)
 	       ((emacs
@@ -1149,16 +1149,18 @@
 		("Akib Azmain Turja" . "akib@disroot.org"))
 	       (:commit . "6bb82ce89ed93222dd919bc65e0f46ac4aa13479"))])
  (gnuplot .
-	  [(0 9)
+	  [(0 10)
 	   ((emacs
-	     (25 1)))
+	     (28 1))
+	    (compat
+	     (30)))
 	   "Major-mode and interactive frontend for gnuplot" tar
 	   ((:url . "https://github.com/emacs-gnuplot/gnuplot")
 	    (:keywords "data" "gnuplot" "plotting")
 	    (:maintainer
 	     ("Maxime Tréca" . "maxime@gmail.com")
 	     ("Daniel Mendler" . "mail@daniel-mendler.de"))
-	    (:commit . "dad0462cd04190da3ec2603fba601260fa5e8a72"))])
+	    (:commit . "868c992c382955eb07db985e0b2cc9f152076125"))])
  (go-mode .
 	  [(1 6 0)
 	   ((emacs
@@ -1274,7 +1276,7 @@
 		     (:keywords "languages")
 		     (:commit . "59640ceec33cd4df37096289e11ff6f4b876be03"))])
  (haskell-ts-mode .
-		  [(1 2 0)
+		  [(1 2 1)
 		   ((emacs
 		     (29 3)))
 		   "A treesit based major mode for haskell" tar
@@ -1283,7 +1285,7 @@
 		    (:maintainer "Pranshu Sharma" . "pranshu@bauherren.ovh")
 		    (:authors
 		     ("Pranshu Sharma" . "pranshu@bauherren.ovh"))
-		    (:commit . "81876a51920931710408e17b45ec8ac19206b318"))])
+		    (:commit . "95388599a3b5ca33342d4445ebcae3094068c151"))])
  (helm .
        [(4 0 3)
 	((helm-core
@@ -1633,21 +1635,21 @@
 	       ("Jon Oddie" . "j.j.oddie@gmail.com"))
 	      (:commit . "8e8487712d150178be7297604d0f47fd036a6d8d"))])
  (magit .
-	[(4 3 5)
+	[(4 3 6)
 	 ((emacs
 	   (27 1))
 	  (compat
-	   (30 1 0 0))
+	   (30 1))
 	  (llama
-	   (0 6 2))
+	   (0 6 3))
 	  (magit-section
-	   (4 3 5))
+	   (4 3 6))
 	  (seq
 	   (2 24))
 	  (transient
-	   (0 8 8))
+	   (0 9 0))
 	  (with-editor
-	   (3 4 3)))
+	   (3 4 4)))
 	 "A Git porcelain inside Emacs" tar
 	 ((:url . "https://github.com/magit/magit")
 	  (:keywords "git" "tools" "vc")
@@ -1657,7 +1659,7 @@
 	  (:authors
 	   ("Marius Vollmer" . "marius.vollmer@gmail.com")
 	   ("Jonas Bernoulli" . "emacs.magit@jonas.bernoulli.dev"))
-	  (:commit . "04ee83d93fabbfbe202e9e7dc781b0dcd4d5b502"))])
+	  (:commit . "2f1ff91f128f28aa277e0e060ef44b4be8a989c1"))])
  (magit-section .
 		[(4 3 6)
 		 ((emacs
@@ -1687,7 +1689,7 @@
 		   ("Jason R. Blevins" . "jblevins@xbeta.org"))
 		  (:commit . "1c7aecba67cc478ca3f6bd7899dc06956e4762f4"))])
  (mastodon .
-	   [(2 0 0)
+	   [(2 0 1)
 	    ((emacs
 	      (28 1))
 	     (persist
@@ -1700,7 +1702,7 @@
 	     (:authors
 	      ("Johnson Denen" . "johnson.denen@gmail.com")
 	      ("Marty Hiatt" . "mousebot@disroot.org"))
-	     (:commit . "30091255352c891b6054a15e428927b2a45abdae"))])
+	     (:commit . "e24f6ee5db2594cbfe5b7d503d97261ebd4142c4"))])
  (material-theme .
 		 [(2015)
 		  ((emacs
@@ -1952,22 +1954,22 @@
 		    ("Takaaki ISHIKAWA" . "takaxpatieeedotorg"))
 		   (:commit . "941e7e6cb8a5a0b193345263ed912cceecae1887"))])
  (orgit .
-	[(2 0 2)
+	[(2 0 3)
 	 ((emacs
 	   (27 1))
 	  (compat
-	   (30 0 2 0))
+	   (30 1))
 	  (magit
-	   (4 3 2))
+	   (4 3 6))
 	  (org
-	   (9 7 26)))
+	   (9 7)))
 	 "Support for Org links to Magit buffers" tar
 	 ((:url . "https://github.com/magit/orgit")
 	  (:keywords "hypermedia" "vc")
 	  (:maintainer "Jonas Bernoulli" . "emacs.orgit@jonas.bernoulli.dev")
 	  (:authors
 	   ("Jonas Bernoulli" . "emacs.orgit@jonas.bernoulli.dev"))
-	  (:commit . "efd98e5caaac1d08677dae95be40fab65dcda2c8"))])
+	  (:commit . "224350397df0987f8cdc770eb7f4618eca34a727"))])
  (p4-16-mode .
 	     [(0 3)
 	      nil "Support for the P4_16 programming language" tar
@@ -2150,7 +2152,7 @@
 	       ("David Christiansen" . "david@davidchristiansen.dk"))
 	      (:commit . "1edda80e2e32b72e77f4f16ae5b83c312c68ee95"))])
  (racket-mode .
-	      [(1 0 20250522 142050)
+	      [(1 0 20250605 164918)
 	       ((emacs
 		 (25 1))
 		(compat
@@ -2814,14 +2816,14 @@
 	       ("Le Wang" . "l26wang@gmail.com"))
 	      (:commit . "9ee5a7657a22e836618813c2e2b64a548d27d2ff"))])
  (xah-fly-keys .
-	       [(26 12 20250517213917)
+	       [(26 12 20250606101544)
 		((emacs
 		  (28 3)))
 		"ergonomic modal keybinding minor mode." tar
 		((:url . "http://xahlee.info/emacs/misc/xah-fly-keys.html")
 		 (:keywords "convenience" "vi" "vim" "ergoemacs" "keybinding")
 		 (:maintainer "Xah Lee" . "xah@xahlee.org")
-		 (:commit . "edde947a4f27658c4a0b958461a77512176b8904"))])
+		 (:commit . "6ea524610ab805607e153b7b210a380a8fc79471"))])
  (xkcd .
        [(1 1)
 	((json

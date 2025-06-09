@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/govc/
 Checking out 95320a7de48d30233d7125b01727fb50c1cbc310
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/govc/
-  to /tmp/govcR0F6ZP/govc-20250503.250
+  to /tmp/govcsHcN0i/govc-20250503.250
   ! govc/emacs/govc.el -> govc.el
 Created govc-20250503.250.tar containing:
   govc-20250503.250/
   govc-20250503.250/govc-pkg.el
   govc-20250503.250/govc.el
  ✓ Success:
-  2025-06-02T01:18:03+0000  govc-20250503.250.entry
-  2025-06-02T01:18:03+0000  govc-20250503.250.tar
-Built govc in 3.405s, finished at 2025-06-02T01:18:04+0000
+  2025-06-09T01:05:17+0000  govc-20250503.250.entry
+  2025-06-09T01:05:17+0000  govc-20250503.250.tar
+Built govc in 3.616s, finished at 2025-06-09T01:05:17+0000
