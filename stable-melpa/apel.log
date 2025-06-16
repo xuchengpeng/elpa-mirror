@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/apel/
 Checking out bfd3ca11343ef5839dd1247622959891c740294b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/apel/
-  to /tmp/apelZnozEt/apel-20250519.1829
+  to /tmp/apelxxccYu/apel-20250519.1829
     alist.el -> alist.el
     apel-ver.el -> apel-ver.el
     apel.el -> apel.el
@@ -69,6 +69,6 @@ Created apel-20250519.1829.tar containing:
   apel-20250519.1829/richtext.el
   apel-20250519.1829/static.el
  ✓ Success:
-  2025-06-09T00:41:37+0000  apel-20250519.1829.entry
-  2025-06-09T00:41:36+0000  apel-20250519.1829.tar
-Built apel in 4.665s, finished at 2025-06-09T00:41:38+0000
+  2025-06-16T01:53:34+0000  apel-20250519.1829.entry
+  2025-06-16T01:53:34+0000  apel-20250519.1829.tar
+Built apel in 2.936s, finished at 2025-06-16T01:53:35+0000

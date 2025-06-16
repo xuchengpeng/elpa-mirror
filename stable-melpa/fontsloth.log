@@ -3,10 +3,10 @@ Fetcher: github
 Source:  https://github.com/jollm/fontsloth
 
 Updating /mnt/store/melpa/working/fontsloth/
-Checking out ff63c1769fc15a3b2addcdc6a6156d88eb555c7d
+Checking out fd37b78a789c0dfb6d718b4fc88bcec6bdd4272d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/fontsloth/
-  to /tmp/fontslothr9wCJt/fontsloth-20250606.428
+  to /tmp/fontsloth3jA6un/fontsloth-20250615.1453
     fontsloth--common-types.el -> fontsloth--common-types.el
     fontsloth-bbox.el -> fontsloth-bbox.el
     fontsloth-cache.el -> fontsloth-cache.el
@@ -30,33 +30,33 @@ Copying files (->) and directories (=>)
     fontsloth-raster.el -> fontsloth-raster.el
     fontsloth-woff.el -> fontsloth-woff.el
     fontsloth.el -> fontsloth.el
-Created fontsloth-20250606.428.tar containing:
-  fontsloth-20250606.428/
-  fontsloth-20250606.428/fontsloth--common-types.el
-  fontsloth-20250606.428/fontsloth-bbox.el
-  fontsloth-20250606.428/fontsloth-cache.el
-  fontsloth-20250606.428/fontsloth-coords.el
-  fontsloth-20250606.428/fontsloth-geometry.el
-  fontsloth-20250606.428/fontsloth-glyph.el
-  fontsloth-20250606.428/fontsloth-layout-lb-tables.el
-  fontsloth-20250606.428/fontsloth-layout-linebreak.el
-  fontsloth-20250606.428/fontsloth-layout.el
-  fontsloth-20250606.428/fontsloth-line.el
-  fontsloth-20250606.428/fontsloth-log.el
-  fontsloth-20250606.428/fontsloth-otf--mac-names.el
-  fontsloth-20250606.428/fontsloth-otf-.el
-  fontsloth-20250606.428/fontsloth-otf-cff-dict.el
-  fontsloth-20250606.428/fontsloth-otf-cff.el
-  fontsloth-20250606.428/fontsloth-otf-glyf.el
-  fontsloth-20250606.428/fontsloth-otf-kern.el
-  fontsloth-20250606.428/fontsloth-otf-typo.el
-  fontsloth-20250606.428/fontsloth-otf.el
-  fontsloth-20250606.428/fontsloth-pkg.el
-  fontsloth-20250606.428/fontsloth-point.el
-  fontsloth-20250606.428/fontsloth-raster.el
-  fontsloth-20250606.428/fontsloth-woff.el
-  fontsloth-20250606.428/fontsloth.el
+Created fontsloth-20250615.1453.tar containing:
+  fontsloth-20250615.1453/
+  fontsloth-20250615.1453/fontsloth--common-types.el
+  fontsloth-20250615.1453/fontsloth-bbox.el
+  fontsloth-20250615.1453/fontsloth-cache.el
+  fontsloth-20250615.1453/fontsloth-coords.el
+  fontsloth-20250615.1453/fontsloth-geometry.el
+  fontsloth-20250615.1453/fontsloth-glyph.el
+  fontsloth-20250615.1453/fontsloth-layout-lb-tables.el
+  fontsloth-20250615.1453/fontsloth-layout-linebreak.el
+  fontsloth-20250615.1453/fontsloth-layout.el
+  fontsloth-20250615.1453/fontsloth-line.el
+  fontsloth-20250615.1453/fontsloth-log.el
+  fontsloth-20250615.1453/fontsloth-otf--mac-names.el
+  fontsloth-20250615.1453/fontsloth-otf-.el
+  fontsloth-20250615.1453/fontsloth-otf-cff-dict.el
+  fontsloth-20250615.1453/fontsloth-otf-cff.el
+  fontsloth-20250615.1453/fontsloth-otf-glyf.el
+  fontsloth-20250615.1453/fontsloth-otf-kern.el
+  fontsloth-20250615.1453/fontsloth-otf-typo.el
+  fontsloth-20250615.1453/fontsloth-otf.el
+  fontsloth-20250615.1453/fontsloth-pkg.el
+  fontsloth-20250615.1453/fontsloth-point.el
+  fontsloth-20250615.1453/fontsloth-raster.el
+  fontsloth-20250615.1453/fontsloth-woff.el
+  fontsloth-20250615.1453/fontsloth.el
  ✓ Success:
-  2025-06-09T01:02:17+0000  fontsloth-20250606.428.entry
-  2025-06-09T01:02:17+0000  fontsloth-20250606.428.tar
-Built fontsloth in 2.599s, finished at 2025-06-09T01:02:17+0000
+  2025-06-15T23:59:17+0000  fontsloth-20250615.1453.entry
+  2025-06-15T23:59:17+0000  fontsloth-20250615.1453.tar
+Built fontsloth in 2.717s, finished at 2025-06-15T23:59:18+0000

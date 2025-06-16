@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/dotenv-mode/
 Checking out e3701bf739bde44f6484eb7753deadaf691b73fb
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/dotenv-mode/
-  to /tmp/dotenv-modeIshwDW/dotenv-mode-20191027.2129
+  to /tmp/dotenv-modewC9yj8/dotenv-mode-20191027.2129
     dotenv-mode.el -> dotenv-mode.el
 Created dotenv-mode-20191027.2129.tar containing:
   dotenv-mode-20191027.2129/
   dotenv-mode-20191027.2129/dotenv-mode-pkg.el
   dotenv-mode-20191027.2129/dotenv-mode.el
  ✓ Success:
-  2025-06-09T00:53:10+0000  dotenv-mode-20191027.2129.entry
-  2025-06-09T00:53:10+0000  dotenv-mode-20191027.2129.tar
-Built dotenv-mode in 2.979s, finished at 2025-06-09T00:53:11+0000
+  2025-06-16T02:05:20+0000  dotenv-mode-20191027.2129.entry
+  2025-06-16T02:05:20+0000  dotenv-mode-20191027.2129.tar
+Built dotenv-mode in 2.588s, finished at 2025-06-16T02:05:21+0000

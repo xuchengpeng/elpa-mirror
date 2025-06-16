@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/noctuid/general.el
 
 Updating /mnt/store/melpa/working/general/
-Checking out 74d4541781d3a01933dda298eb932c06e67413f9
+Checking out a48768f85a655fe77b5f45c2880b420da1b1b9c3
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/general/
-  to /tmp/generalt47ZtM/general-20250605.2148
+  to /tmp/general0t7lo2/general-20250612.2309
     general.el -> general.el
-Created general-20250605.2148.tar containing:
-  general-20250605.2148/
-  general-20250605.2148/general-pkg.el
-  general-20250605.2148/general.el
+Created general-20250612.2309.tar containing:
+  general-20250612.2309/
+  general-20250612.2309/general-pkg.el
+  general-20250612.2309/general.el
  ✓ Success:
-  2025-06-09T01:03:15+0000  general-20250605.2148.entry
-  2025-06-09T01:03:15+0000  general-20250605.2148.tar
-Built general in 2.697s, finished at 2025-06-09T01:03:15+0000
+  2025-06-16T00:00:19+0000  general-20250612.2309.entry
+  2025-06-16T00:00:19+0000  general-20250612.2309.tar
+Built general in 2.847s, finished at 2025-06-16T00:00:20+0000

@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/organize-imports-java/
 Checking out 6221c85b37d7baee27288848fa38d5519cdeafd5
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/organize-imports-java/
-  to /tmp/organize-imports-javaofgVuq/organize-imports-java-20250101.1012
+  to /tmp/organize-imports-javaJW3VFd/organize-imports-java-20250101.1012
     organize-imports-java.el -> organize-imports-java.el
     sdk => sdk
     default => default
@@ -38,6 +38,6 @@ Created organize-imports-java-20250101.1012.tar containing:
   organize-imports-java-20250101.1012/sdk/jre/lib/rt.jar
   organize-imports-java-20250101.1012/sdk/version.txt
  ✓ Success:
-  2025-06-09T01:26:46+0000  organize-imports-java-20250101.1012.entry
-  2025-06-09T01:26:46+0000  organize-imports-java-20250101.1012.tar
-Built organize-imports-java in 9.215s, finished at 2025-06-09T01:26:48+0000
+  2025-06-16T00:24:10+0000  organize-imports-java-20250101.1012.entry
+  2025-06-16T00:24:10+0000  organize-imports-java-20250101.1012.tar
+Built organize-imports-java in 4.968s, finished at 2025-06-16T00:24:11+0000

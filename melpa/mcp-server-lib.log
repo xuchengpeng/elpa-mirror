@@ -1,0 +1,26 @@
+Package: mcp-server-lib
+Fetcher: github
+Source:  https://github.com/laurynas-biveinis/mcp-server-lib.el
+
+Updating /mnt/store/melpa/working/mcp-server-lib/
+Checking out d7733a9f4e40a1191c09ddfa07755a1995ce5f93
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/mcp-server-lib/
+  to /tmp/mcp-server-libtMsldC/mcp-server-lib-20250613.1413
+    mcp-server-lib-commands.el -> mcp-server-lib-commands.el
+    mcp-server-lib-ert.el -> mcp-server-lib-ert.el
+    mcp-server-lib-metrics.el -> mcp-server-lib-metrics.el
+    mcp-server-lib.el -> mcp-server-lib.el
+    emacs-mcp-stdio.sh -> emacs-mcp-stdio.sh
+Created mcp-server-lib-20250613.1413.tar containing:
+  mcp-server-lib-20250613.1413/
+  mcp-server-lib-20250613.1413/emacs-mcp-stdio.sh
+  mcp-server-lib-20250613.1413/mcp-server-lib-commands.el
+  mcp-server-lib-20250613.1413/mcp-server-lib-ert.el
+  mcp-server-lib-20250613.1413/mcp-server-lib-metrics.el
+  mcp-server-lib-20250613.1413/mcp-server-lib-pkg.el
+  mcp-server-lib-20250613.1413/mcp-server-lib.el
+ ✓ Success:
+  2025-06-16T00:15:34+0000  mcp-server-lib-20250613.1413.entry
+  2025-06-16T00:15:34+0000  mcp-server-lib-20250613.1413.tar
+Built mcp-server-lib in 2.598s, finished at 2025-06-16T00:15:34+0000

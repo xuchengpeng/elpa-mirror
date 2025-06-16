@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/psibi/justl.el
 
 Updating /mnt/store/melpa/working/justl/
-Checking out 1c3d0550cd4f53139ce9a63b9954685162e838f7
+Checking out 8571ef205c0e14d526dcab82a9132c1375b08c02
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/justl/
-  to /tmp/justljXQuOS/justl-20241212.255
+  to /tmp/justld8n3lx/justl-20250612.311
     justl.el -> justl.el
-Created justl-20241212.255.tar containing:
-  justl-20241212.255/
-  justl-20241212.255/justl-pkg.el
-  justl-20241212.255/justl.el
+Created justl-20250612.311.tar containing:
+  justl-20250612.311/
+  justl-20250612.311/justl-pkg.el
+  justl-20250612.311/justl.el
  ✓ Success:
-  2025-06-09T01:13:25+0000  justl-20241212.255.entry
-  2025-06-09T01:13:25+0000  justl-20241212.255.tar
-Built justl in 2.568s, finished at 2025-06-09T01:13:26+0000
+  2025-06-16T00:10:42+0000  justl-20250612.311.entry
+  2025-06-16T00:10:42+0000  justl-20250612.311.tar
+Built justl in 2.761s, finished at 2025-06-16T00:10:43+0000

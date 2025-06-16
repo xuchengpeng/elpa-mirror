@@ -3,18 +3,18 @@ Fetcher: github
 Source:  https://github.com/mpdel/libmpdel
 
 Updating /mnt/store/melpa/working/libmpdel/
-Checking out f120aae409acf478542134cb2f562810ef32a731
+Checking out 3bc15d76c00dfc4879ec94731cca8609ece0864c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/libmpdel/
-  to /tmp/libmpdelJei7gn/libmpdel-20250601.1544
+  to /tmp/libmpdelUK0GW7/libmpdel-20250615.936
     libmpdel-directory.el -> libmpdel-directory.el
     libmpdel.el -> libmpdel.el
-Created libmpdel-20250601.1544.tar containing:
-  libmpdel-20250601.1544/
-  libmpdel-20250601.1544/libmpdel-directory.el
-  libmpdel-20250601.1544/libmpdel-pkg.el
-  libmpdel-20250601.1544/libmpdel.el
+Created libmpdel-20250615.936.tar containing:
+  libmpdel-20250615.936/
+  libmpdel-20250615.936/libmpdel-directory.el
+  libmpdel-20250615.936/libmpdel-pkg.el
+  libmpdel-20250615.936/libmpdel.el
  ✓ Success:
-  2025-06-09T01:15:27+0000  libmpdel-20250601.1544.entry
-  2025-06-09T01:15:27+0000  libmpdel-20250601.1544.tar
-Built libmpdel in 4.376s, finished at 2025-06-09T01:15:28+0000
+  2025-06-16T00:12:54+0000  libmpdel-20250615.936.entry
+  2025-06-16T00:12:54+0000  libmpdel-20250615.936.tar
+Built libmpdel in 2.610s, finished at 2025-06-16T00:12:54+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/markup/
 Checking out 876da2d3f23473475bb0fd0a1480ae11d2671291
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/markup/
-  to /tmp/markupcRWb8k/markup-20170420.1129
+  to /tmp/markup48jjcW/markup-20170420.1129
     markup.el -> markup.el
 Created markup-20170420.1129.tar containing:
   markup-20170420.1129/
   markup-20170420.1129/markup-pkg.el
   markup-20170420.1129/markup.el
  ✓ Success:
-  2025-06-09T01:18:01+0000  markup-20170420.1129.entry
-  2025-06-09T01:18:01+0000  markup-20170420.1129.tar
-Built markup in 2.836s, finished at 2025-06-09T01:18:02+0000
+  2025-06-16T00:15:16+0000  markup-20170420.1129.entry
+  2025-06-16T00:15:16+0000  markup-20170420.1129.tar
+Built markup in 2.572s, finished at 2025-06-16T00:15:16+0000

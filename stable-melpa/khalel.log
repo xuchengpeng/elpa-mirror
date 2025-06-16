@@ -3,18 +3,18 @@ Fetcher: gitlab
 Source:  https://gitlab.com/hperrey/khalel
 
 Updating /mnt/store/melpa/working/khalel/
-Checking out c4548265ee5947a4fc391ae615c6fb31c2e8dacd
+Checking out a8ea2706e5dce6d3d31ba58176dd1b8873dac04e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/khalel/
-  to /tmp/khalelr8gGHb/khalel-20250225.1846
+  to /tmp/khalelM2uXlQ/khalel-20250612.503
     khalel-icalendar.el -> khalel-icalendar.el
     khalel.el -> khalel.el
-Created khalel-20250225.1846.tar containing:
-  khalel-20250225.1846/
-  khalel-20250225.1846/khalel-icalendar.el
-  khalel-20250225.1846/khalel-pkg.el
-  khalel-20250225.1846/khalel.el
+Created khalel-20250612.503.tar containing:
+  khalel-20250612.503/
+  khalel-20250612.503/khalel-icalendar.el
+  khalel-20250612.503/khalel-pkg.el
+  khalel-20250612.503/khalel.el
  ✓ Success:
-  2025-06-09T01:14:03+0000  khalel-20250225.1846.entry
-  2025-06-09T01:14:03+0000  khalel-20250225.1846.tar
-Built khalel in 3.662s, finished at 2025-06-09T01:14:04+0000
+  2025-06-16T00:11:21+0000  khalel-20250612.503.entry
+  2025-06-16T00:11:21+0000  khalel-20250612.503.tar
+Built khalel in 3.515s, finished at 2025-06-16T00:11:22+0000

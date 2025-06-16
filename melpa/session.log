@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/session/
 Checking out 3be207c50dfe964de3cbf5cd8fa9b07fc7d2e609
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/session/
-  to /tmp/sessionvjqM3u/session-20210422.53
+  to /tmp/session0wItLG/session-20210422.53
     session.el -> session.el
 Created session-20210422.53.tar containing:
   session-20210422.53/
   session-20210422.53/session-pkg.el
   session-20210422.53/session.el
  ✓ Success:
-  2025-06-09T01:36:24+0000  session-20210422.53.entry
-  2025-06-09T01:36:24+0000  session-20210422.53.tar
-Built session in 2.906s, finished at 2025-06-09T01:36:25+0000
+  2025-06-16T00:33:17+0000  session-20210422.53.entry
+  2025-06-16T00:33:17+0000  session-20210422.53.tar
+Built session in 2.771s, finished at 2025-06-16T00:33:17+0000

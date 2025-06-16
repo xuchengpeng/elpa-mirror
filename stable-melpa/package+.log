@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/zenspider/package
 
 Updating /mnt/store/melpa/working/package+/
-Checking out 57a53a1da75d76a9dcd17008d1c1d77475b9671a
+Checking out c677513c61b273f3c688464b6005149aeed700ff
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/package+/
-  to /tmp/package+BGBrMb/package+-20230805.2115
+  to /tmp/package+n4mPyM/package+-20240823.2307
     package+.el -> package+.el
     package+advice.el -> package+advice.el
-Created package+-20230805.2115.tar containing:
-  package+-20230805.2115/
-  package+-20230805.2115/package+-pkg.el
-  package+-20230805.2115/package+.el
-  package+-20230805.2115/package+advice.el
+Created package+-20240823.2307.tar containing:
+  package+-20240823.2307/
+  package+-20240823.2307/package+-pkg.el
+  package+-20240823.2307/package+.el
+  package+-20240823.2307/package+advice.el
  ✓ Success:
-Built package+ in 3.295s, finished at 2025-06-09T01:28:03+0000
+Built package+ in 2.984s, finished at 2025-06-16T00:25:17+0000

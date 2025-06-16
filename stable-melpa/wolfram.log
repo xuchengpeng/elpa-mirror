@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/wolfram/
 Checking out 743c92f88bb3b6a77bc84ac2221adc6222cebb94
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/wolfram/
-  to /tmp/wolframVAJ3EG/wolfram-20231220.1950
+  to /tmp/wolframul9Y5H/wolfram-20231220.1950
     wolfram.el -> wolfram.el
 Created wolfram-20231220.1950.tar containing:
   wolfram-20231220.1950/
   wolfram-20231220.1950/wolfram-pkg.el
   wolfram-20231220.1950/wolfram.el
  ✓ Success:
-  2025-06-09T01:47:02+0000  wolfram-20231220.1950.entry
-  2025-06-09T01:47:02+0000  wolfram-20231220.1950.tar
-Built wolfram in 3.080s, finished at 2025-06-09T01:47:03+0000
+  2025-06-16T00:43:22+0000  wolfram-20231220.1950.entry
+  2025-06-16T00:43:22+0000  wolfram-20231220.1950.tar
+Built wolfram in 2.620s, finished at 2025-06-16T00:43:23+0000

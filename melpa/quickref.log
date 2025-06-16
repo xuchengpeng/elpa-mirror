@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/quickref/
 Checking out f368c8b8219bb90498c5ab84e26f00eedaa234cf
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/quickref/
-  to /tmp/quickrefwjtRj9/quickref-20170817.1232
+  to /tmp/quickrefgMXjhY/quickref-20170817.1232
     quickref.el -> quickref.el
 Created quickref-20170817.1232.tar containing:
   quickref-20170817.1232/
   quickref-20170817.1232/quickref-pkg.el
   quickref-20170817.1232/quickref.el
  ✓ Success:
-  2025-06-09T01:32:59+0000  quickref-20170817.1232.entry
-  2025-06-09T01:32:59+0000  quickref-20170817.1232.tar
-Built quickref in 2.541s, finished at 2025-06-09T01:32:59+0000
+  2025-06-16T00:29:57+0000  quickref-20170817.1232.entry
+  2025-06-16T00:29:57+0000  quickref-20170817.1232.tar
+Built quickref in 2.439s, finished at 2025-06-16T00:29:58+0000

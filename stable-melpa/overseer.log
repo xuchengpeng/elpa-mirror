@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/overseer/
 Checking out 7fdcf1a6fba6b1569a09c1666b4e51bcde266ed9
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/overseer/
-  to /tmp/overseerkmKKK0/overseer-20240109.800
+  to /tmp/overseerY2Efif/overseer-20240109.800
     overseer.el -> overseer.el
 Created overseer-20240109.800.tar containing:
   overseer-20240109.800/
   overseer-20240109.800/overseer-pkg.el
   overseer-20240109.800/overseer.el
  ✓ Success:
-  2025-06-09T01:27:23+0000  overseer-20240109.800.entry
-  2025-06-09T01:27:23+0000  overseer-20240109.800.tar
-Built overseer in 2.971s, finished at 2025-06-09T01:27:24+0000
+  2025-06-16T00:24:38+0000  overseer-20240109.800.entry
+  2025-06-16T00:24:38+0000  overseer-20240109.800.tar
+Built overseer in 3.088s, finished at 2025-06-16T00:24:39+0000

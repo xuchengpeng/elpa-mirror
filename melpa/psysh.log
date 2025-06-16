@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/psysh/
 Checking out 8bf82fa68ca90fc72528ea406f0e57718bcb1cbf
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/psysh/
-  to /tmp/psyshstc2t4/psysh-20230815.730
+  to /tmp/psyshRxqWyX/psysh-20230815.730
     psysh.el -> psysh.el
 Created psysh-20230815.730.tar containing:
   psysh-20230815.730/
   psysh-20230815.730/psysh-pkg.el
   psysh-20230815.730/psysh.el
  ✓ Success:
-  2025-06-09T01:31:43+0000  psysh-20230815.730.entry
-  2025-06-09T01:31:43+0000  psysh-20230815.730.tar
-Built psysh in 2.855s, finished at 2025-06-09T01:31:44+0000
+  2025-06-16T00:28:45+0000  psysh-20230815.730.entry
+  2025-06-16T00:28:45+0000  psysh-20230815.730.tar
+Built psysh in 2.703s, finished at 2025-06-16T00:28:46+0000
