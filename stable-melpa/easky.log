@@ -3,18 +3,18 @@ Fetcher: github
 Source:  https://github.com/emacs-eask/easky
 
 Updating /mnt/store/melpa/working/easky/
-Checking out 070c734bdc5fafdf0de060f9584b1a037681eac2
+Checking out 0b3216120d4e8c91813b8498694bfd3040a10cd3
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/easky/
-  to /tmp/easkyUkcL7F/easky-20250404.17
+  to /tmp/easkyNabaPC/easky-20250622.957
     easky-package.el -> easky-package.el
     easky.el -> easky.el
-Created easky-20250404.17.tar containing:
-  easky-20250404.17/
-  easky-20250404.17/easky-package.el
-  easky-20250404.17/easky-pkg.el
-  easky-20250404.17/easky.el
+Created easky-20250622.957.tar containing:
+  easky-20250622.957/
+  easky-20250622.957/easky-package.el
+  easky-20250622.957/easky-pkg.el
+  easky-20250622.957/easky.el
  ✓ Success:
-  2025-06-16T02:06:04+0000  easky-20250404.17.entry
-  2025-06-16T02:06:04+0000  easky-20250404.17.tar
-Built easky in 3.562s, finished at 2025-06-16T02:06:05+0000
+  2025-06-23T00:28:27+0000  easky-20250622.957.entry
+  2025-06-23T00:28:27+0000  easky-20250622.957.tar
+Built easky in 3.441s, finished at 2025-06-23T00:28:28+0000

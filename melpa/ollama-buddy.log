@@ -3,13 +3,14 @@ Fetcher: github
 Source:  https://github.com/captainflasmr/ollama-buddy
 
 Updating /mnt/store/melpa/working/ollama-buddy/
-Checking out c83f24c0108799be99b85fae6afcdb3b4a8c14b3
+Checking out 2c2d4723a83b9a243d6f4f5ab81161cfd16bb4e0
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ollama-buddy/
-  to /tmp/ollama-buddyUeZddz/ollama-buddy-20250604.907
+  to /tmp/ollama-buddyr8IbzQ/ollama-buddy-20250621.851
     ollama-buddy-awesome.el -> ollama-buddy-awesome.el
     ollama-buddy-claude.el -> ollama-buddy-claude.el
     ollama-buddy-core.el -> ollama-buddy-core.el
+    ollama-buddy-curl.el -> ollama-buddy-curl.el
     ollama-buddy-fabric.el -> ollama-buddy-fabric.el
     ollama-buddy-gemini.el -> ollama-buddy-gemini.el
     ollama-buddy-grok.el -> ollama-buddy-grok.el
@@ -20,22 +21,23 @@ Copying files (->) and directories (=>)
   ! docs/ollama-buddy.info -> ollama-buddy.info
   ! docs/ollama-buddy.texi -> ollama-buddy.texi
 Generating ollama-buddy.info
-Created ollama-buddy-20250604.907.tar containing:
-  ollama-buddy-20250604.907/
-  ollama-buddy-20250604.907/dir
-  ollama-buddy-20250604.907/ollama-buddy-awesome.el
-  ollama-buddy-20250604.907/ollama-buddy-claude.el
-  ollama-buddy-20250604.907/ollama-buddy-core.el
-  ollama-buddy-20250604.907/ollama-buddy-fabric.el
-  ollama-buddy-20250604.907/ollama-buddy-gemini.el
-  ollama-buddy-20250604.907/ollama-buddy-grok.el
-  ollama-buddy-20250604.907/ollama-buddy-openai.el
-  ollama-buddy-20250604.907/ollama-buddy-pkg.el
-  ollama-buddy-20250604.907/ollama-buddy-transient.el
-  ollama-buddy-20250604.907/ollama-buddy-user-prompts.el
-  ollama-buddy-20250604.907/ollama-buddy.el
-  ollama-buddy-20250604.907/ollama-buddy.info
+Created ollama-buddy-20250621.851.tar containing:
+  ollama-buddy-20250621.851/
+  ollama-buddy-20250621.851/dir
+  ollama-buddy-20250621.851/ollama-buddy-awesome.el
+  ollama-buddy-20250621.851/ollama-buddy-claude.el
+  ollama-buddy-20250621.851/ollama-buddy-core.el
+  ollama-buddy-20250621.851/ollama-buddy-curl.el
+  ollama-buddy-20250621.851/ollama-buddy-fabric.el
+  ollama-buddy-20250621.851/ollama-buddy-gemini.el
+  ollama-buddy-20250621.851/ollama-buddy-grok.el
+  ollama-buddy-20250621.851/ollama-buddy-openai.el
+  ollama-buddy-20250621.851/ollama-buddy-pkg.el
+  ollama-buddy-20250621.851/ollama-buddy-transient.el
+  ollama-buddy-20250621.851/ollama-buddy-user-prompts.el
+  ollama-buddy-20250621.851/ollama-buddy.el
+  ollama-buddy-20250621.851/ollama-buddy.info
  ✓ Success:
-  2025-06-16T00:21:10+0000  ollama-buddy-20250604.907.entry
-  2025-06-16T00:21:10+0000  ollama-buddy-20250604.907.tar
-Built ollama-buddy in 15.967s, finished at 2025-06-16T00:21:11+0000
+  2025-06-23T01:02:28+0000  ollama-buddy-20250621.851.entry
+  2025-06-23T01:02:28+0000  ollama-buddy-20250621.851.tar
+Built ollama-buddy in 18.949s, finished at 2025-06-23T01:02:29+0000

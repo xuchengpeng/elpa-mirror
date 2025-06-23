@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/selectrum/
 Checking out 810ea697bdd559d97b86b795e01769cddfa3daf2
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/selectrum/
-  to /tmp/selectrumhzYA2Q/selectrum-20220513.2106
+  to /tmp/selectrumw1VN9c/selectrum-20220513.2106
     selectrum.el -> selectrum.el
 Created selectrum-20220513.2106.tar containing:
   selectrum-20220513.2106/
   selectrum-20220513.2106/selectrum-pkg.el
   selectrum-20220513.2106/selectrum.el
  ✓ Success:
-  2025-06-16T00:33:02+0000  selectrum-20220513.2106.entry
-  2025-06-16T00:33:01+0000  selectrum-20220513.2106.tar
-Built selectrum in 2.750s, finished at 2025-06-16T00:33:02+0000
+  2025-06-23T01:16:27+0000  selectrum-20220513.2106.entry
+  2025-06-23T01:16:27+0000  selectrum-20220513.2106.tar
+Built selectrum in 3.180s, finished at 2025-06-23T01:16:28+0000

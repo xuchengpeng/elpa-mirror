@@ -46,9 +46,19 @@
 ╭─Hydra or Transient───────╯
 │ Uniline comes with two flavours of user interfaces:
 │ Hydra and Transient.
-│ Specify which one you prefer with:
-│   (setq uniline-interface-type :hydra)
-│   (setq uniline-interface-type :transient)
-│ prior to installing the package.
-│ By default, :transient is chosen.
+│ Both versions are compiled when installing the package.
+│ However, the Hydra version will be compiled only if
+│ the Hydra package was already installed, maybe by an
+│ unrelated package (soft dependency).
+│
+│ Then one or the other packages must be loaded (not both)
+│ for example with:
+│   (require 'uniline-hydra)
+│ or
+│   (use-package uniline-hydra
+│     ...)
+│
+│ This file, uniline-core.el, is the largest one, the one
+│ implementing all the core functions independent from
+│ Hydra or Transient
 ╰──────────────────────────□

@@ -1,18 +1,18 @@
 Package: tidal
-Fetcher: github
-Source:  https://github.com/tidalcycles/Tidal
+Fetcher: codeberg
+Source:  https://codeberg.org/uzu/tidal
 
 Updating /mnt/store/melpa/working/tidal/
-Checking out 433ed7f8524f2ec00f626146830537bd897eb08f
+Checking out b0ad946319fe5d6a503142b2d7d9310e1c1c466e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/tidal/
-  to /tmp/tidalOYGByE/tidal-20250607.855
+  to /tmp/tidalsOwfum/tidal-20250613.2016
     tidal.el -> tidal.el
-Created tidal-20250607.855.tar containing:
-  tidal-20250607.855/
-  tidal-20250607.855/tidal-pkg.el
-  tidal-20250607.855/tidal.el
+Created tidal-20250613.2016.tar containing:
+  tidal-20250613.2016/
+  tidal-20250613.2016/tidal-pkg.el
+  tidal-20250613.2016/tidal.el
  ✓ Success:
-  2025-06-16T00:38:35+0000  tidal-20250607.855.entry
-  2025-06-16T00:38:35+0000  tidal-20250607.855.tar
-Built tidal in 3.706s, finished at 2025-06-16T00:38:36+0000
+  2025-06-23T01:22:47+0000  tidal-20250613.2016.entry
+  2025-06-23T01:22:47+0000  tidal-20250613.2016.tar
+Built tidal in 4.831s, finished at 2025-06-23T01:22:48+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/move-mode/
 Checking out 6e4aaf6aae1e9b4aee096557c9f7b1f3550a1e59
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/move-mode/
-  to /tmp/move-modeVtM9NF/move-mode-20241118.1527
+  to /tmp/move-modeNN2dGv/move-mode-20241118.1527
     move-mode.el -> move-mode.el
 Created move-mode-20241118.1527.tar containing:
   move-mode-20241118.1527/
   move-mode-20241118.1527/move-mode-pkg.el
   move-mode-20241118.1527/move-mode.el
  ✓ Success:
-  2025-06-16T00:17:10+0000  move-mode-20241118.1527.entry
-  2025-06-16T00:17:10+0000  move-mode-20241118.1527.tar
-Built move-mode in 2.656s, finished at 2025-06-16T00:17:11+0000
+  2025-06-23T00:58:17+0000  move-mode-20241118.1527.entry
+  2025-06-23T00:58:17+0000  move-mode-20241118.1527.tar
+Built move-mode in 2.939s, finished at 2025-06-23T00:58:18+0000

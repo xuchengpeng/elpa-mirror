@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/unifdef/
 Checking out 4a428d544893e91835b625fab38fdac964dcff88
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/unifdef/
-  to /tmp/unifdefVy97Qv/unifdef-20250102.1047
+  to /tmp/unifdefiwcOeW/unifdef-20250102.1047
     unifdef.el -> unifdef.el
 Created unifdef-20250102.1047.tar containing:
   unifdef-20250102.1047/
   unifdef-20250102.1047/unifdef-pkg.el
   unifdef-20250102.1047/unifdef.el
  ✓ Success:
-  2025-06-16T00:40:50+0000  unifdef-20250102.1047.entry
-  2025-06-16T00:40:50+0000  unifdef-20250102.1047.tar
-Built unifdef in 2.596s, finished at 2025-06-16T00:40:51+0000
+  2025-06-23T01:25:03+0000  unifdef-20250102.1047.entry
+  2025-06-23T01:25:03+0000  unifdef-20250102.1047.tar
+Built unifdef in 3.275s, finished at 2025-06-23T01:25:04+0000

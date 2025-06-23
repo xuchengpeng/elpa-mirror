@@ -3,34 +3,26 @@ Fetcher: github
 Source:  https://github.com/magit/ghub
 
 Updating /mnt/store/melpa/working/ghub/
-Checking out 97a07691efad6fc16bc000a35be80d4f8dae251a
+Checking out 3e7ad9d138c09869df171d945541562448af0174
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ghub/
-  to /tmp/ghubVkryjW/ghub-20250601.1014
-  ! lisp/buck.el -> buck.el
+  to /tmp/ghubvmWDVb/ghub-20250620.2312
   ! lisp/ghub-graphql.el -> ghub-graphql.el
   ! lisp/ghub.el -> ghub.el
-  ! lisp/glab.el -> glab.el
-  ! lisp/gogs.el -> gogs.el
   ! lisp/gsexp.el -> gsexp.el
-  ! lisp/gtea.el -> gtea.el
   ! docs/ghub.texi -> ghub.texi
     .dir-locals.el -> .dir-locals.el
 Generating ghub.info
-Created ghub-20250601.1014.tar containing:
-  ghub-20250601.1014/
-  ghub-20250601.1014/.dir-locals.el
-  ghub-20250601.1014/buck.el
-  ghub-20250601.1014/dir
-  ghub-20250601.1014/ghub-graphql.el
-  ghub-20250601.1014/ghub-pkg.el
-  ghub-20250601.1014/ghub.el
-  ghub-20250601.1014/ghub.info
-  ghub-20250601.1014/glab.el
-  ghub-20250601.1014/gogs.el
-  ghub-20250601.1014/gsexp.el
-  ghub-20250601.1014/gtea.el
+Created ghub-20250620.2312.tar containing:
+  ghub-20250620.2312/
+  ghub-20250620.2312/.dir-locals.el
+  ghub-20250620.2312/dir
+  ghub-20250620.2312/ghub-graphql.el
+  ghub-20250620.2312/ghub-pkg.el
+  ghub-20250620.2312/ghub.el
+  ghub-20250620.2312/ghub.info
+  ghub-20250620.2312/gsexp.el
  ✓ Success:
-  2025-06-16T00:00:44+0000  ghub-20250601.1014.entry
-  2025-06-16T00:00:44+0000  ghub-20250601.1014.tar
-Built ghub in 7.981s, finished at 2025-06-16T00:00:45+0000
+  2025-06-23T00:39:46+0000  ghub-20250620.2312.entry
+  2025-06-23T00:39:45+0000  ghub-20250620.2312.tar
+Built ghub in 5.405s, finished at 2025-06-23T00:39:47+0000

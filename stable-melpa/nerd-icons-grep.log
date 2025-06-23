@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/hron/nerd-icons-grep
 
 Updating /mnt/store/melpa/working/nerd-icons-grep/
-Checking out 83418f928f995e4edabae61fbc1ace48fcdb2746
+Checking out 4e281a18c3af7a81c508969e536008db50696218
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/nerd-icons-grep/
-  to /tmp/nerd-icons-grepbJpec0/nerd-icons-grep-20250602.845
+  to /tmp/nerd-icons-grepuoHrN6/nerd-icons-grep-20250618.950
     nerd-icons-grep.el -> nerd-icons-grep.el
-Created nerd-icons-grep-20250602.845.tar containing:
-  nerd-icons-grep-20250602.845/
-  nerd-icons-grep-20250602.845/nerd-icons-grep-pkg.el
-  nerd-icons-grep-20250602.845/nerd-icons-grep.el
+Created nerd-icons-grep-20250618.950.tar containing:
+  nerd-icons-grep-20250618.950/
+  nerd-icons-grep-20250618.950/nerd-icons-grep-pkg.el
+  nerd-icons-grep-20250618.950/nerd-icons-grep.el
  ✓ Success:
-  2025-06-16T00:18:34+0000  nerd-icons-grep-20250602.845.entry
-  2025-06-16T00:18:34+0000  nerd-icons-grep-20250602.845.tar
-Built nerd-icons-grep in 2.441s, finished at 2025-06-16T00:18:35+0000
+  2025-06-23T00:59:35+0000  nerd-icons-grep-20250618.950.entry
+  2025-06-23T00:59:35+0000  nerd-icons-grep-20250618.950.tar
+Built nerd-icons-grep in 2.924s, finished at 2025-06-23T00:59:36+0000

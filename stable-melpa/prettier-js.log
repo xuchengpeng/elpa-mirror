@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/prettier-js/
 Checking out 0e8b95c4e5898a03e85dbc555c37b4f968292aec
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/prettier-js/
-  to /tmp/prettier-jsTNmz0n/prettier-js-20180109.726
+  to /tmp/prettier-jsxNfLW8/prettier-js-20180109.726
     prettier-js.el -> prettier-js.el
 Created prettier-js-20180109.726.tar containing:
   prettier-js-20180109.726/
   prettier-js-20180109.726/prettier-js-pkg.el
   prettier-js-20180109.726/prettier-js.el
  ✓ Success:
-  2025-06-16T00:28:00+0000  prettier-js-20180109.726.entry
-  2025-06-16T00:28:00+0000  prettier-js-20180109.726.tar
-Built prettier-js in 2.370s, finished at 2025-06-16T00:28:01+0000
+  2025-06-23T01:10:27+0000  prettier-js-20180109.726.entry
+  2025-06-23T01:10:27+0000  prettier-js-20180109.726.tar
+Built prettier-js in 2.646s, finished at 2025-06-23T01:10:28+0000

@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/taquangtrung/emacs-kdl-mode
 
 Updating /mnt/store/melpa/working/kdl-mode/
-Checking out 3e88553c05bf9ed5fa8ac0797e545ea67316677f
+Checking out 0723706e1248bf07b2761f630ad0de2393a76aeb
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/kdl-mode/
-  to /tmp/kdl-modeC11Qh4/kdl-mode-20250603.801
+  to /tmp/kdl-modenn9zfK/kdl-mode-20250620.259
     kdl-mode.el -> kdl-mode.el
-Created kdl-mode-20250603.801.tar containing:
-  kdl-mode-20250603.801/
-  kdl-mode-20250603.801/kdl-mode-pkg.el
-  kdl-mode-20250603.801/kdl-mode.el
+Created kdl-mode-20250620.259.tar containing:
+  kdl-mode-20250620.259/
+  kdl-mode-20250620.259/kdl-mode-pkg.el
+  kdl-mode-20250620.259/kdl-mode.el
  ✓ Success:
-  2025-06-16T00:11:00+0000  kdl-mode-20250603.801.entry
-  2025-06-16T00:11:00+0000  kdl-mode-20250603.801.tar
-Built kdl-mode in 3.268s, finished at 2025-06-16T00:11:01+0000
+  2025-06-23T00:51:14+0000  kdl-mode-20250620.259.entry
+  2025-06-23T00:51:14+0000  kdl-mode-20250620.259.tar
+Built kdl-mode in 3.623s, finished at 2025-06-23T00:51:15+0000

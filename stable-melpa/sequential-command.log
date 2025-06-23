@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/sequential-command/
 Checking out a48cbcbe273b33edd3ae56e68f44b4100fa3a48a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/sequential-command/
-  to /tmp/sequential-commandNrCFIH/sequential-command-20170926.40
+  to /tmp/sequential-commandpHc34C/sequential-command-20170926.40
     sequential-command-config.el -> sequential-command-config.el
     sequential-command.el -> sequential-command.el
 Created sequential-command-20170926.40.tar containing:
@@ -15,6 +15,6 @@ Created sequential-command-20170926.40.tar containing:
   sequential-command-20170926.40/sequential-command-pkg.el
   sequential-command-20170926.40/sequential-command.el
  ✓ Success:
-  2025-06-16T00:33:12+0000  sequential-command-20170926.40.entry
-  2025-06-16T00:33:12+0000  sequential-command-20170926.40.tar
-Built sequential-command in 2.398s, finished at 2025-06-16T00:33:13+0000
+  2025-06-23T01:16:41+0000  sequential-command-20170926.40.entry
+  2025-06-23T01:16:41+0000  sequential-command-20170926.40.tar
+Built sequential-command in 2.970s, finished at 2025-06-23T01:16:42+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/gnu-indent/
 Checking out f31dbe60478b6270bb57b6b05998df8eec56f801
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/gnu-indent/
-  to /tmp/gnu-indent5Qnisu/gnu-indent-20221127.2112
+  to /tmp/gnu-indentNP9SMg/gnu-indent-20221127.2112
     gnu-indent.el -> gnu-indent.el
 Created gnu-indent-20221127.2112.tar containing:
   gnu-indent-20221127.2112/
   gnu-indent-20221127.2112/gnu-indent-pkg.el
   gnu-indent-20221127.2112/gnu-indent.el
  ✓ Success:
-  2025-06-16T00:01:50+0000  gnu-indent-20221127.2112.entry
-  2025-06-16T00:01:50+0000  gnu-indent-20221127.2112.tar
-Built gnu-indent in 3.078s, finished at 2025-06-16T00:01:50+0000
+  2025-06-23T00:40:57+0000  gnu-indent-20221127.2112.entry
+  2025-06-23T00:40:57+0000  gnu-indent-20221127.2112.tar
+Built gnu-indent in 4.113s, finished at 2025-06-23T00:40:58+0000

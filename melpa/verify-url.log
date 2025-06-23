@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/verify-url/
 Checking out d6f3623cda8cd526a2d198619b137059cb1ba1ab
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/verify-url/
-  to /tmp/verify-url6VZLXx/verify-url-20160426.1228
+  to /tmp/verify-urlDO647t/verify-url-20160426.1228
     verify-url.el -> verify-url.el
 Created verify-url-20160426.1228.tar containing:
   verify-url-20160426.1228/
   verify-url-20160426.1228/verify-url-pkg.el
   verify-url-20160426.1228/verify-url.el
  ✓ Success:
-  2025-06-16T00:41:35+0000  verify-url-20160426.1228.entry
-  2025-06-16T00:41:35+0000  verify-url-20160426.1228.tar
-Built verify-url in 2.547s, finished at 2025-06-16T00:41:36+0000
+  2025-06-23T01:25:53+0000  verify-url-20160426.1228.entry
+  2025-06-23T01:25:53+0000  verify-url-20160426.1228.tar
+Built verify-url in 2.917s, finished at 2025-06-23T01:25:54+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/lua-mode/
 Checking out 2f6b8d7a6317e42c953c5119b0119ddb337e0a5f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/lua-mode/
-  to /tmp/lua-modeEiJ1QQ/lua-mode-20250310.1150
+  to /tmp/lua-modeVHSMW2/lua-mode-20250310.1150
     lua-mode.el -> lua-mode.el
 Created lua-mode-20250310.1150.tar containing:
   lua-mode-20250310.1150/
   lua-mode-20250310.1150/lua-mode-pkg.el
   lua-mode-20250310.1150/lua-mode.el
  ✓ Success:
-  2025-06-16T00:14:15+0000  lua-mode-20250310.1150.entry
-  2025-06-16T00:14:15+0000  lua-mode-20250310.1150.tar
-Built lua-mode in 2.693s, finished at 2025-06-16T00:14:16+0000
+  2025-06-23T00:54:49+0000  lua-mode-20250310.1150.entry
+  2025-06-23T00:54:49+0000  lua-mode-20250310.1150.tar
+Built lua-mode in 2.930s, finished at 2025-06-23T00:54:50+0000

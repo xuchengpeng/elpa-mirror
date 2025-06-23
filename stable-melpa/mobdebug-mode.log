@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/mobdebug-mode/
 Checking out e1d483bc4e341c762bc5c0a8c52306a8d01ea0da
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mobdebug-mode/
-  to /tmp/mobdebug-modeuoxc1G/mobdebug-mode-20140110.346
+  to /tmp/mobdebug-mode2erWQt/mobdebug-mode-20140110.346
     mobdebug-mode.el -> mobdebug-mode.el
 Created mobdebug-mode-20140110.346.tar containing:
   mobdebug-mode-20140110.346/
   mobdebug-mode-20140110.346/mobdebug-mode-pkg.el
   mobdebug-mode-20140110.346/mobdebug-mode.el
  ✓ Success:
-  2025-06-16T00:16:36+0000  mobdebug-mode-20140110.346.entry
-  2025-06-16T00:16:36+0000  mobdebug-mode-20140110.346.tar
-Built mobdebug-mode in 2.380s, finished at 2025-06-16T00:16:37+0000
+  2025-06-23T00:57:24+0000  mobdebug-mode-20140110.346.entry
+  2025-06-23T00:57:24+0000  mobdebug-mode-20140110.346.tar
+Built mobdebug-mode in 4.227s, finished at 2025-06-23T00:57:25+0000

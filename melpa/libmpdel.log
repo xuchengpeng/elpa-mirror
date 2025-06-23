@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/libmpdel/
 Checking out 3bc15d76c00dfc4879ec94731cca8609ece0864c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/libmpdel/
-  to /tmp/libmpdelUK0GW7/libmpdel-20250615.936
+  to /tmp/libmpdelgvue0L/libmpdel-20250615.936
     libmpdel-directory.el -> libmpdel-directory.el
     libmpdel.el -> libmpdel.el
 Created libmpdel-20250615.936.tar containing:
@@ -15,6 +15,6 @@ Created libmpdel-20250615.936.tar containing:
   libmpdel-20250615.936/libmpdel-pkg.el
   libmpdel-20250615.936/libmpdel.el
  ✓ Success:
-  2025-06-16T00:12:54+0000  libmpdel-20250615.936.entry
-  2025-06-16T00:12:54+0000  libmpdel-20250615.936.tar
-Built libmpdel in 2.610s, finished at 2025-06-16T00:12:54+0000
+  2025-06-23T00:53:18+0000  libmpdel-20250615.936.entry
+  2025-06-23T00:53:18+0000  libmpdel-20250615.936.tar
+Built libmpdel in 2.762s, finished at 2025-06-23T00:53:19+0000

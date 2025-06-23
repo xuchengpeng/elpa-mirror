@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/monkeytype/
 Checking out 0e949d08198c0bd003f1d5c8cdceb7e36bef22f7
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/monkeytype/
-  to /tmp/monkeytypeHZkQgA/monkeytype-20210110.513
+  to /tmp/monkeytypeS1X0lP/monkeytype-20210110.513
     monkeytype.el -> monkeytype.el
 Created monkeytype-20210110.513.tar containing:
   monkeytype-20210110.513/
   monkeytype-20210110.513/monkeytype-pkg.el
   monkeytype-20210110.513/monkeytype.el
  ✓ Success:
-  2025-06-16T00:16:52+0000  monkeytype-20210110.513.entry
-  2025-06-16T00:16:52+0000  monkeytype-20210110.513.tar
-Built monkeytype in 2.855s, finished at 2025-06-16T00:16:53+0000
+  2025-06-23T00:57:55+0000  monkeytype-20210110.513.entry
+  2025-06-23T00:57:55+0000  monkeytype-20210110.513.tar
+Built monkeytype in 5.504s, finished at 2025-06-23T00:57:56+0000

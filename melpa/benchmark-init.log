@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/benchmark-init/
 Checking out 6507caa3c4cb2a6c9b85c771c5e9e5aeb7d745bc
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/benchmark-init/
-  to /tmp/benchmark-initq87sxq/benchmark-init-20250313.1200
+  to /tmp/benchmark-initR3GU2C/benchmark-init-20250313.1200
     benchmark-init-modes.el -> benchmark-init-modes.el
     benchmark-init.el -> benchmark-init.el
 Created benchmark-init-20250313.1200.tar containing:
@@ -15,6 +15,6 @@ Created benchmark-init-20250313.1200.tar containing:
   benchmark-init-20250313.1200/benchmark-init-pkg.el
   benchmark-init-20250313.1200/benchmark-init.el
  ✓ Success:
-  2025-06-16T01:55:18+0000  benchmark-init-20250313.1200.entry
-  2025-06-16T01:55:18+0000  benchmark-init-20250313.1200.tar
-Built benchmark-init in 2.897s, finished at 2025-06-16T01:55:19+0000
+  2025-06-23T00:16:23+0000  benchmark-init-20250313.1200.entry
+  2025-06-23T00:16:23+0000  benchmark-init-20250313.1200.tar
+Built benchmark-init in 3.492s, finished at 2025-06-23T00:16:24+0000

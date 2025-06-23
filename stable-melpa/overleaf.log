@@ -3,16 +3,18 @@ Fetcher: github
 Source:  https://github.com/vale981/overleaf.el
 
 Updating /mnt/store/melpa/working/overleaf/
-Checking out c9e7fbb51a2d22d24172f4500a5e83f15616b006
+Checking out 5c05f4595fac2e66e484cd7f43724a97adca6330
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/overleaf/
-  to /tmp/overleafY2II8V/overleaf-20250614.2227
+  to /tmp/overleafTO46f0/overleaf-20250623.35
     overleaf.el -> overleaf.el
-Created overleaf-20250614.2227.tar containing:
-  overleaf-20250614.2227/
-  overleaf-20250614.2227/overleaf-pkg.el
-  overleaf-20250614.2227/overleaf.el
+Created overleaf-20250623.35.tar containing:
+  overleaf-20250623.35/
+  overleaf-20250623.35/overleaf-pkg.el
+  overleaf-20250623.35/overleaf.el
  ✓ Success:
-  2025-06-16T00:24:38+0000  overleaf-20250614.2227.entry
-  2025-06-16T00:24:38+0000  overleaf-20250614.2227.tar
-Built overleaf in 3.148s, finished at 2025-06-16T00:24:39+0000
+  2025-06-22T22:32:39+0000  overleaf-20250621.1947.entry
+  2025-06-22T22:32:39+0000  overleaf-20250621.1947.tar
+  2025-06-23T01:06:23+0000  overleaf-20250623.35.entry
+  2025-06-23T01:06:22+0000  overleaf-20250623.35.tar
+Built overleaf in 3.799s, finished at 2025-06-23T01:06:23+0000
