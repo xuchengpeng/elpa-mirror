@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/ppareit/graphviz-dot-mode
 
 Updating /mnt/store/melpa/working/graphviz-dot-mode/
-Checking out 8ff793b13707cb511875f56e167ff7f980a31136
+Checking out 45338857d0ad62c0f9dee392c23b9ba341225c7f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/graphviz-dot-mode/
-  to /tmp/graphviz-dot-moderUckSy/graphviz-dot-mode-20230325.1050
+  to /tmp/graphviz-dot-modeoRzvBs/graphviz-dot-mode-20250629.801
     graphviz-dot-mode.el -> graphviz-dot-mode.el
-Created graphviz-dot-mode-20230325.1050.tar containing:
-  graphviz-dot-mode-20230325.1050/
-  graphviz-dot-mode-20230325.1050/graphviz-dot-mode-pkg.el
-  graphviz-dot-mode-20230325.1050/graphviz-dot-mode.el
+Created graphviz-dot-mode-20250629.801.tar containing:
+  graphviz-dot-mode-20250629.801/
+  graphviz-dot-mode-20250629.801/graphviz-dot-mode-pkg.el
+  graphviz-dot-mode-20250629.801/graphviz-dot-mode.el
  ✓ Success:
-  2025-06-23T00:42:06+0000  graphviz-dot-mode-20230325.1050.entry
-  2025-06-23T00:42:06+0000  graphviz-dot-mode-20230325.1050.tar
-Built graphviz-dot-mode in 2.793s, finished at 2025-06-23T00:42:07+0000
+  2025-06-30T00:41:45+0000  graphviz-dot-mode-20250629.801.entry
+  2025-06-30T00:41:45+0000  graphviz-dot-mode-20250629.801.tar
+Built graphviz-dot-mode in 3.380s, finished at 2025-06-30T00:41:46+0000

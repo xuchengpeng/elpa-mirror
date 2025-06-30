@@ -1,18 +1,18 @@
 Package: restclient
 Fetcher: github
-Source:  https://github.com/pashky/restclient.el
+Source:  https://github.com/emacsorphanage/restclient
 
 Updating /mnt/store/melpa/working/restclient/
-Checking out e2a2b13482d72634f8e49864cd9e5c907a5fe137
+Checking out 9385ef5acc94a6770fcef60820baf083c916d148
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/restclient/
-  to /tmp/restclientnKDx4z/restclient-20231010.1327
+  to /tmp/restclientbXnC4U/restclient-20250629.2016
     restclient.el -> restclient.el
-Created restclient-20231010.1327.tar containing:
-  restclient-20231010.1327/
-  restclient-20231010.1327/restclient-pkg.el
-  restclient-20231010.1327/restclient.el
+Created restclient-20250629.2016.tar containing:
+  restclient-20250629.2016/
+  restclient-20250629.2016/restclient-pkg.el
+  restclient-20250629.2016/restclient.el
  ✓ Success:
-  2025-06-23T01:13:53+0000  restclient-20231010.1327.entry
-  2025-06-23T01:13:53+0000  restclient-20231010.1327.tar
-Built restclient in 3.043s, finished at 2025-06-23T01:13:54+0000
+  2025-06-30T01:14:32+0000  restclient-20250629.2016.entry
+  2025-06-30T01:14:32+0000  restclient-20250629.2016.tar
+Built restclient in 2.765s, finished at 2025-06-30T01:14:33+0000

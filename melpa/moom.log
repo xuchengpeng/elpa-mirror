@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/moom/
 Checking out 32c9ebafe80b51677605ffc1c37f555fdf5738c8
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/moom/
-  to /tmp/moomAqe6AJ/moom-20250620.1635
+  to /tmp/moomBhvDNN/moom-20250620.1635
     moom-font.el -> moom-font.el
     moom-transient.el -> moom-transient.el
     moom.el -> moom.el
@@ -17,6 +17,6 @@ Created moom-20250620.1635.tar containing:
   moom-20250620.1635/moom-transient.el
   moom-20250620.1635/moom.el
  ✓ Success:
-  2025-06-23T00:58:07+0000  moom-20250620.1635.entry
-  2025-06-23T00:58:07+0000  moom-20250620.1635.tar
-Built moom in 3.354s, finished at 2025-06-23T00:58:08+0000
+  2025-06-30T00:58:13+0000  moom-20250620.1635.entry
+  2025-06-30T00:58:13+0000  moom-20250620.1635.tar
+Built moom in 3.424s, finished at 2025-06-30T00:58:14+0000

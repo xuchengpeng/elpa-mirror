@@ -3,10 +3,10 @@ Fetcher: github
 Source:  https://github.com/dajva/rg.el
 
 Updating /mnt/store/melpa/working/rg/
-Checking out 50d42b1395d6381fef66ff8aae4b0d171f7e5b36
+Checking out 7611852b5517212a4f0fdab9cd9ecb0cf3995f08
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/rg/
-  to /tmp/rgEQF6v9/rg-20241221.1420
+  to /tmp/rgNmL1zj/rg-20250625.2009
     rg-header.el -> rg-header.el
     rg-history.el -> rg-history.el
     rg-ibuffer.el -> rg-ibuffer.el
@@ -17,21 +17,21 @@ Copying files (->) and directories (=>)
     rg.el -> rg.el
     wgrep-rg.el -> wgrep-rg.el
     rgel.info -> rgel.info
-Created rg-20241221.1420.tar containing:
-  rg-20241221.1420/
-  rg-20241221.1420/dir
-  rg-20241221.1420/rg-header.el
-  rg-20241221.1420/rg-history.el
-  rg-20241221.1420/rg-ibuffer.el
-  rg-20241221.1420/rg-info-hack.el
-  rg-20241221.1420/rg-isearch.el
-  rg-20241221.1420/rg-menu.el
-  rg-20241221.1420/rg-pkg.el
-  rg-20241221.1420/rg-result.el
-  rg-20241221.1420/rg.el
-  rg-20241221.1420/rgel.info
-  rg-20241221.1420/wgrep-rg.el
+Created rg-20250625.2009.tar containing:
+  rg-20250625.2009/
+  rg-20250625.2009/dir
+  rg-20250625.2009/rg-header.el
+  rg-20250625.2009/rg-history.el
+  rg-20250625.2009/rg-ibuffer.el
+  rg-20250625.2009/rg-info-hack.el
+  rg-20250625.2009/rg-isearch.el
+  rg-20250625.2009/rg-menu.el
+  rg-20250625.2009/rg-pkg.el
+  rg-20250625.2009/rg-result.el
+  rg-20250625.2009/rg.el
+  rg-20250625.2009/rgel.info
+  rg-20250625.2009/wgrep-rg.el
  ✓ Success:
-  2025-06-23T01:14:06+0000  rg-20241221.1420.entry
-  2025-06-23T01:14:06+0000  rg-20241221.1420.tar
-Built rg in 3.661s, finished at 2025-06-23T01:14:07+0000
+  2025-06-30T01:14:45+0000  rg-20250625.2009.entry
+  2025-06-30T01:14:45+0000  rg-20250625.2009.tar
+Built rg in 3.407s, finished at 2025-06-30T01:14:46+0000

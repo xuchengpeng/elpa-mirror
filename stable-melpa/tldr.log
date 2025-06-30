@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/tldr/
 Checking out 1b09d2032491d3904bd7ee9bf5ba7c7503db6593
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/tldr/
-  to /tmp/tldrcdi7eM/tldr-20230301.136
+  to /tmp/tldrBPG1Y2/tldr-20230301.136
     tldr.el -> tldr.el
 Created tldr-20230301.136.tar containing:
   tldr-20230301.136/
   tldr-20230301.136/tldr-pkg.el
   tldr-20230301.136/tldr.el
  ✓ Success:
-  2025-06-23T01:23:07+0000  tldr-20230301.136.entry
-  2025-06-23T01:23:07+0000  tldr-20230301.136.tar
-Built tldr in 3.243s, finished at 2025-06-23T01:23:08+0000
+  2025-06-30T01:23:22+0000  tldr-20230301.136.entry
+  2025-06-30T01:23:22+0000  tldr-20230301.136.tar
+Built tldr in 3.111s, finished at 2025-06-30T01:23:23+0000

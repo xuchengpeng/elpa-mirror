@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/smudge/
 Checking out aa806e84506d332bdbf379c199f66813daf4c855
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/smudge/
-  to /tmp/smudgeY76lQR/smudge-20250115.52
+  to /tmp/smudgeyrBFh8/smudge-20250115.52
     smudge-api.el -> smudge-api.el
     smudge-apple.el -> smudge-apple.el
     smudge-connect.el -> smudge-connect.el
@@ -31,6 +31,6 @@ Created smudge-20250115.52.tar containing:
   smudge-20250115.52/smudge-track.el
   smudge-20250115.52/smudge.el
  ✓ Success:
-  2025-06-23T01:18:44+0000  smudge-20250115.52.entry
-  2025-06-23T01:18:44+0000  smudge-20250115.52.tar
-Built smudge in 3.656s, finished at 2025-06-23T01:18:45+0000
+  2025-06-30T01:19:04+0000  smudge-20250115.52.entry
+  2025-06-30T01:19:04+0000  smudge-20250115.52.tar
+Built smudge in 3.453s, finished at 2025-06-30T01:19:05+0000

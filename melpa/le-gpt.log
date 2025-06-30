@@ -3,28 +3,40 @@ Fetcher: github
 Source:  https://github.com/AnselmC/le-gpt.el
 
 Updating /mnt/store/melpa/working/le-gpt/
-Checking out f1c43803df8078ee5f0de5d1e5300ca8b3449568
+Checking out b1225f25628183137a2e956850e1d399e343254a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/le-gpt/
-  to /tmp/le-gpt4njpbe/le-gpt-20250311.1510
+  to /tmp/le-gptJ53myo/le-gpt-20250630.4
     le-gpt-chat.el -> le-gpt-chat.el
     le-gpt-completion.el -> le-gpt-completion.el
+    le-gpt-context-buffers.el -> le-gpt-context-buffers.el
+    le-gpt-context-files.el -> le-gpt-context-files.el
+    le-gpt-context-history.el -> le-gpt-context-history.el
+    le-gpt-context-lang.el -> le-gpt-context-lang.el
+    le-gpt-context-utils.el -> le-gpt-context-utils.el
+    le-gpt-context.el -> le-gpt-context.el
     le-gpt-core.el -> le-gpt-core.el
-    le-gpt-project.el -> le-gpt-project.el
     le-gpt-transform.el -> le-gpt-transform.el
     le-gpt.el -> le-gpt.el
     le-gpt.py -> le-gpt.py
-Created le-gpt-20250311.1510.tar containing:
-  le-gpt-20250311.1510/
-  le-gpt-20250311.1510/le-gpt-chat.el
-  le-gpt-20250311.1510/le-gpt-completion.el
-  le-gpt-20250311.1510/le-gpt-core.el
-  le-gpt-20250311.1510/le-gpt-pkg.el
-  le-gpt-20250311.1510/le-gpt-project.el
-  le-gpt-20250311.1510/le-gpt-transform.el
-  le-gpt-20250311.1510/le-gpt.el
-  le-gpt-20250311.1510/le-gpt.py
+Created le-gpt-20250630.4.tar containing:
+  le-gpt-20250630.4/
+  le-gpt-20250630.4/le-gpt-chat.el
+  le-gpt-20250630.4/le-gpt-completion.el
+  le-gpt-20250630.4/le-gpt-context-buffers.el
+  le-gpt-20250630.4/le-gpt-context-files.el
+  le-gpt-20250630.4/le-gpt-context-history.el
+  le-gpt-20250630.4/le-gpt-context-lang.el
+  le-gpt-20250630.4/le-gpt-context-utils.el
+  le-gpt-20250630.4/le-gpt-context.el
+  le-gpt-20250630.4/le-gpt-core.el
+  le-gpt-20250630.4/le-gpt-pkg.el
+  le-gpt-20250630.4/le-gpt-transform.el
+  le-gpt-20250630.4/le-gpt.el
+  le-gpt-20250630.4/le-gpt.py
  ✓ Success:
-  2025-06-23T00:52:50+0000  le-gpt-20250311.1510.entry
-  2025-06-23T00:52:50+0000  le-gpt-20250311.1510.tar
-Built le-gpt in 2.654s, finished at 2025-06-23T00:52:51+0000
+  2025-06-29T22:19:00+0000  le-gpt-20250311.1510.entry
+  2025-06-29T22:18:59+0000  le-gpt-20250311.1510.tar
+  2025-06-30T00:52:33+0000  le-gpt-20250630.4.entry
+  2025-06-30T00:52:33+0000  le-gpt-20250630.4.tar
+Built le-gpt in 5.245s, finished at 2025-06-30T00:52:34+0000

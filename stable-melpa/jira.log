@@ -3,12 +3,13 @@ Fetcher: github
 Source:  https://github.com/unmonoqueteclea/jira.el
 
 Updating /mnt/store/melpa/working/jira/
-Checking out d750f13e750ac8848fdd59a2db52efdb0d77a057
+Checking out 63838f091d452b7e89c840b4e63fb74990539e75
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/jira/
-  to /tmp/jiraY5cBXM/jira-20250621.1508
+  to /tmp/jiradCDybA/jira-20250629.1657
     jira-actions.el -> jira-actions.el
     jira-api.el -> jira-api.el
+    jira-complete.el -> jira-complete.el
     jira-detail.el -> jira-detail.el
     jira-doc.el -> jira-doc.el
     jira-fmt.el -> jira-fmt.el
@@ -17,20 +18,21 @@ Copying files (->) and directories (=>)
     jira-tempo.el -> jira-tempo.el
     jira-utils.el -> jira-utils.el
     jira.el -> jira.el
-Created jira-20250621.1508.tar containing:
-  jira-20250621.1508/
-  jira-20250621.1508/jira-actions.el
-  jira-20250621.1508/jira-api.el
-  jira-20250621.1508/jira-detail.el
-  jira-20250621.1508/jira-doc.el
-  jira-20250621.1508/jira-fmt.el
-  jira-20250621.1508/jira-issues.el
-  jira-20250621.1508/jira-pkg.el
-  jira-20250621.1508/jira-table.el
-  jira-20250621.1508/jira-tempo.el
-  jira-20250621.1508/jira-utils.el
-  jira-20250621.1508/jira.el
+Created jira-20250629.1657.tar containing:
+  jira-20250629.1657/
+  jira-20250629.1657/jira-actions.el
+  jira-20250629.1657/jira-api.el
+  jira-20250629.1657/jira-complete.el
+  jira-20250629.1657/jira-detail.el
+  jira-20250629.1657/jira-doc.el
+  jira-20250629.1657/jira-fmt.el
+  jira-20250629.1657/jira-issues.el
+  jira-20250629.1657/jira-pkg.el
+  jira-20250629.1657/jira-table.el
+  jira-20250629.1657/jira-tempo.el
+  jira-20250629.1657/jira-utils.el
+  jira-20250629.1657/jira.el
  ✓ Success:
-  2025-06-23T00:50:04+0000  jira-20250621.1508.entry
-  2025-06-23T00:50:04+0000  jira-20250621.1508.tar
-Built jira in 4.464s, finished at 2025-06-23T00:50:05+0000
+  2025-06-30T00:49:57+0000  jira-20250629.1657.entry
+  2025-06-30T00:49:57+0000  jira-20250629.1657.tar
+Built jira in 3.971s, finished at 2025-06-30T00:49:58+0000

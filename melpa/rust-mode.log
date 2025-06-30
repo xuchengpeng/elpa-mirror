@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/rust-mode/
 Checking out 75cc63b6c19028c11e302c237a8ec64db3345780
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/rust-mode/
-  to /tmp/rust-modeGC5cef/rust-mode-20250621.1548
+  to /tmp/rust-modeFLwBox/rust-mode-20250621.1548
     rust-cargo.el -> rust-cargo.el
     rust-common.el -> rust-common.el
     rust-compile.el -> rust-compile.el
@@ -29,6 +29,6 @@ Created rust-mode-20250621.1548.tar containing:
   rust-mode-20250621.1548/rust-rustfmt.el
   rust-mode-20250621.1548/rust-utils.el
  ✓ Success:
-  2025-06-23T01:15:31+0000  rust-mode-20250621.1548.entry
-  2025-06-23T01:15:31+0000  rust-mode-20250621.1548.tar
-Built rust-mode in 5.847s, finished at 2025-06-23T01:15:33+0000
+  2025-06-30T01:15:36+0000  rust-mode-20250621.1548.entry
+  2025-06-30T01:15:36+0000  rust-mode-20250621.1548.tar
+Built rust-mode in 3.595s, finished at 2025-06-30T01:15:37+0000

@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/skuro/plantuml-mode
 
 Updating /mnt/store/melpa/working/plantuml-mode/
-Checking out dc0f497a67ee9b3d2e437e16023011780d0e8b05
+Checking out 6b6d2b77cbeece1e0d7bf577e74ca8a1ba299b11
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/plantuml-mode/
-  to /tmp/plantuml-mode1Wk48y/plantuml-mode-20250613.1438
+  to /tmp/plantuml-modet35uun/plantuml-mode-20250624.1342
     plantuml-mode.el -> plantuml-mode.el
-Created plantuml-mode-20250613.1438.tar containing:
-  plantuml-mode-20250613.1438/
-  plantuml-mode-20250613.1438/plantuml-mode-pkg.el
-  plantuml-mode-20250613.1438/plantuml-mode.el
+Created plantuml-mode-20250624.1342.tar containing:
+  plantuml-mode-20250624.1342/
+  plantuml-mode-20250624.1342/plantuml-mode-pkg.el
+  plantuml-mode-20250624.1342/plantuml-mode.el
  ✓ Success:
-  2025-06-23T01:09:22+0000  plantuml-mode-20250613.1438.entry
-  2025-06-23T01:09:22+0000  plantuml-mode-20250613.1438.tar
-Built plantuml-mode in 4.675s, finished at 2025-06-23T01:09:24+0000
+  2025-06-30T01:09:46+0000  plantuml-mode-20250624.1342.entry
+  2025-06-30T01:09:46+0000  plantuml-mode-20250624.1342.tar
+Built plantuml-mode in 2.793s, finished at 2025-06-30T01:09:47+0000

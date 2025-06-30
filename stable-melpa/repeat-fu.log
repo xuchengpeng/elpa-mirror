@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/repeat-fu/
 Checking out b91d55001cca71e5df7a9f665c7da73ab9f55efd
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/repeat-fu/
-  to /tmp/repeat-fu7lJB3C/repeat-fu-20250613.304
+  to /tmp/repeat-fuSqQWju/repeat-fu-20250613.304
     repeat-fu-preset-meep.el -> repeat-fu-preset-meep.el
     repeat-fu-preset-meow.el -> repeat-fu-preset-meow.el
     repeat-fu-preset-multi.el -> repeat-fu-preset-multi.el
@@ -21,6 +21,6 @@ Created repeat-fu-20250613.304.tar containing:
   repeat-fu-20250613.304/repeat-fu-preset-single.el
   repeat-fu-20250613.304/repeat-fu.el
  ✓ Success:
-  2025-06-23T01:13:39+0000  repeat-fu-20250613.304.entry
-  2025-06-23T01:13:39+0000  repeat-fu-20250613.304.tar
-Built repeat-fu in 3.902s, finished at 2025-06-23T01:13:40+0000
+  2025-06-30T01:14:18+0000  repeat-fu-20250613.304.entry
+  2025-06-30T01:14:18+0000  repeat-fu-20250613.304.tar
+Built repeat-fu in 3.625s, finished at 2025-06-30T01:14:19+0000

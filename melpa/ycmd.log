@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/ycmd/
 Checking out 6f4f7384b82203cccf208e3ec09252eb079439f9
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ycmd/
-  to /tmp/ycmd1kZ7S1/ycmd-20190416.807
+  to /tmp/ycmdwRdrsp/ycmd-20190416.807
     ycmd.el -> ycmd.el
     ycmd-eldoc.el -> ycmd-eldoc.el
   ! contrib/ycmd-next-error.el -> ycmd-next-error.el
@@ -17,6 +17,6 @@ Created ycmd-20190416.807.tar containing:
   ycmd-20190416.807/ycmd-pkg.el
   ycmd-20190416.807/ycmd.el
  ✓ Success:
-  2025-06-23T01:29:20+0000  ycmd-20190416.807.entry
-  2025-06-23T01:29:20+0000  ycmd-20190416.807.tar
-Built ycmd in 3.132s, finished at 2025-06-23T01:29:21+0000
+  2025-06-30T01:29:52+0000  ycmd-20190416.807.entry
+  2025-06-30T01:29:52+0000  ycmd-20190416.807.tar
+Built ycmd in 2.921s, finished at 2025-06-30T01:29:52+0000

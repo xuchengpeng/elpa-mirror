@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/jamescherti/vim-tab-bar.el
 
 Updating /mnt/store/melpa/working/vim-tab-bar/
-Checking out 44b216ad4e48ef60e7b0e581f66e85082956ffed
+Checking out abf7fb4f83c0dd87fa247c776c5d91963fb785e0
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/vim-tab-bar/
-  to /tmp/vim-tab-barzLhVy9/vim-tab-bar-20250522.1315
+  to /tmp/vim-tab-barjjWIPs/vim-tab-bar-20250629.344
     vim-tab-bar.el -> vim-tab-bar.el
-Created vim-tab-bar-20250522.1315.tar containing:
-  vim-tab-bar-20250522.1315/
-  vim-tab-bar-20250522.1315/vim-tab-bar-pkg.el
-  vim-tab-bar-20250522.1315/vim-tab-bar.el
+Created vim-tab-bar-20250629.344.tar containing:
+  vim-tab-bar-20250629.344/
+  vim-tab-bar-20250629.344/vim-tab-bar-pkg.el
+  vim-tab-bar-20250629.344/vim-tab-bar.el
  ✓ Success:
-  2025-06-23T01:26:10+0000  vim-tab-bar-20250522.1315.entry
-  2025-06-23T01:26:10+0000  vim-tab-bar-20250522.1315.tar
-Built vim-tab-bar in 4.802s, finished at 2025-06-23T01:26:12+0000
+  2025-06-30T01:26:21+0000  vim-tab-bar-20250629.344.entry
+  2025-06-30T01:26:21+0000  vim-tab-bar-20250629.344.tar
+Built vim-tab-bar in 2.843s, finished at 2025-06-30T01:26:22+0000

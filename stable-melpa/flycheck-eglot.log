@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/flycheck/flycheck-eglot
 
 Updating /mnt/store/melpa/working/flycheck-eglot/
-Checking out 96a1409214177750ab048cc0de2f23cc5094beea
+Checking out 0d7f0afc9bf08fce4a3ee225ec6540a91f8cfd76
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/flycheck-eglot/
-  to /tmp/flycheck-eglotxDmHX5/flycheck-eglot-20250616.211
+  to /tmp/flycheck-eglottjEkT4/flycheck-eglot-20250626.212
     flycheck-eglot.el -> flycheck-eglot.el
-Created flycheck-eglot-20250616.211.tar containing:
-  flycheck-eglot-20250616.211/
-  flycheck-eglot-20250616.211/flycheck-eglot-pkg.el
-  flycheck-eglot-20250616.211/flycheck-eglot.el
+Created flycheck-eglot-20250626.212.tar containing:
+  flycheck-eglot-20250626.212/
+  flycheck-eglot-20250626.212/flycheck-eglot-pkg.el
+  flycheck-eglot-20250626.212/flycheck-eglot.el
  ✓ Success:
-  2025-06-23T00:36:26+0000  flycheck-eglot-20250616.211.entry
-  2025-06-23T00:36:25+0000  flycheck-eglot-20250616.211.tar
-Built flycheck-eglot in 2.863s, finished at 2025-06-23T00:36:26+0000
+  2025-06-30T00:36:01+0000  flycheck-eglot-20250626.212.entry
+  2025-06-30T00:36:01+0000  flycheck-eglot-20250626.212.tar
+Built flycheck-eglot in 3.113s, finished at 2025-06-30T00:36:03+0000

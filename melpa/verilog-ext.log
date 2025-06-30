@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/verilog-ext/
 Checking out 028bac2b106079c147dddfc361e60b644b449426
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/verilog-ext/
-  to /tmp/verilog-extHf7n3D/verilog-ext-20250318.1344
+  to /tmp/verilog-ext1N8cBO/verilog-ext-20250318.1344
     verilog-ext-beautify.el -> verilog-ext-beautify.el
     verilog-ext-block-end-comments.el -> verilog-ext-block-end-comments.el
     verilog-ext-capf.el -> verilog-ext-capf.el
@@ -138,6 +138,6 @@ Created verilog-ext-20250318.1344.tar containing:
   verilog-ext-20250318.1344/verilog-ext-xref.el
   verilog-ext-20250318.1344/verilog-ext.el
  ✓ Success:
-  2025-06-23T01:25:56+0000  verilog-ext-20250318.1344.entry
-  2025-06-23T01:25:56+0000  verilog-ext-20250318.1344.tar
-Built verilog-ext in 3.902s, finished at 2025-06-23T01:25:57+0000
+  2025-06-30T01:26:09+0000  verilog-ext-20250318.1344.entry
+  2025-06-30T01:26:09+0000  verilog-ext-20250318.1344.tar
+Built verilog-ext in 3.655s, finished at 2025-06-30T01:26:10+0000

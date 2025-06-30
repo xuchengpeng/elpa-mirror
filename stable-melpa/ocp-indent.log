@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/OCamlPro/ocp-indent
 
 Updating /mnt/store/melpa/working/ocp-indent/
-Checking out 7c4d434132cebc15a8213c8be9e7323692eb0a2b
+Checking out 12138576832400d7fbe6938258f646ddab314fbd
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ocp-indent/
-  to /tmp/ocp-indentZT59Kd/ocp-indent-20211019.907
+  to /tmp/ocp-indentm3Ghtl/ocp-indent-20250629.1639
   ! tools/ocp-indent.el -> ocp-indent.el
-Created ocp-indent-20211019.907.tar containing:
-  ocp-indent-20211019.907/
-  ocp-indent-20211019.907/ocp-indent-pkg.el
-  ocp-indent-20211019.907/ocp-indent.el
+Created ocp-indent-20250629.1639.tar containing:
+  ocp-indent-20250629.1639/
+  ocp-indent-20250629.1639/ocp-indent-pkg.el
+  ocp-indent-20250629.1639/ocp-indent.el
  ✓ Success:
-  2025-06-23T01:02:03+0000  ocp-indent-20211019.907.entry
-  2025-06-23T01:02:03+0000  ocp-indent-20211019.907.tar
-Built ocp-indent in 3.335s, finished at 2025-06-23T01:02:04+0000
+  2025-06-30T01:02:31+0000  ocp-indent-20250629.1639.entry
+  2025-06-30T01:02:30+0000  ocp-indent-20250629.1639.tar
+Built ocp-indent in 3.488s, finished at 2025-06-30T01:02:32+0000

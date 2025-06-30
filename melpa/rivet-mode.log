@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/rivet-mode/
 Checking out 6cf58cf04fee933113857af07414b3f27c24b505
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/rivet-mode/
-  to /tmp/rivet-modeR8RO0V/rivet-mode-20201013.1905
+  to /tmp/rivet-mode1WR8gv/rivet-mode-20201013.1905
     rivet-mode.el -> rivet-mode.el
 Created rivet-mode-20201013.1905.tar containing:
   rivet-mode-20201013.1905/
   rivet-mode-20201013.1905/rivet-mode-pkg.el
   rivet-mode-20201013.1905/rivet-mode.el
  ✓ Success:
-  2025-06-23T01:14:20+0000  rivet-mode-20201013.1905.entry
-  2025-06-23T01:14:20+0000  rivet-mode-20201013.1905.tar
-Built rivet-mode in 3.563s, finished at 2025-06-23T01:14:21+0000
+  2025-06-30T01:14:58+0000  rivet-mode-20201013.1905.entry
+  2025-06-30T01:14:58+0000  rivet-mode-20201013.1905.tar
+Built rivet-mode in 3.366s, finished at 2025-06-30T01:14:59+0000

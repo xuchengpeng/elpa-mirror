@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/jammer/
 Checking out a780e4c2adb2e85a4daadcefd1a2b189d761872f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/jammer/
-  to /tmp/jammerH0Hfyp/jammer-20210508.1633
+  to /tmp/jammerts6CtU/jammer-20210508.1633
     jammer.el -> jammer.el
 Created jammer-20210508.1633.tar containing:
   jammer-20210508.1633/
   jammer-20210508.1633/jammer-pkg.el
   jammer-20210508.1633/jammer.el
  ✓ Success:
-  2025-06-23T00:49:39+0000  jammer-20210508.1633.entry
-  2025-06-23T00:49:39+0000  jammer-20210508.1633.tar
-Built jammer in 3.597s, finished at 2025-06-23T00:49:40+0000
+  2025-06-30T00:49:31+0000  jammer-20210508.1633.entry
+  2025-06-30T00:49:31+0000  jammer-20210508.1633.tar
+Built jammer in 3.486s, finished at 2025-06-30T00:49:32+0000

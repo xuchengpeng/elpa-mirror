@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/yatex/
 Checking out b00018b5a0b487be347d1abf944f8ae165c5a50b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/yatex/
-  to /tmp/yatexE3C1jM/yatex-20250224.1034
+  to /tmp/yatexf1LmQO/yatex-20250224.1034
     yahtml.el -> yahtml.el
     yatex.el -> yatex.el
     yatex19.el -> yatex19.el
@@ -49,6 +49,6 @@ Created yatex-20250224.1034.tar containing:
   yatex-20250224.1034/yatexprc.el
   yatex-20250224.1034/yatexsec.el
  ✓ Success:
-  2025-06-23T01:29:31+0000  yatex-20250224.1034.entry
-  2025-06-23T01:29:30+0000  yatex-20250224.1034.tar
-Built yatex in 20.677s, finished at 2025-06-23T01:29:37+0000
+  2025-06-30T01:30:01+0000  yatex-20250224.1034.entry
+  2025-06-30T01:30:01+0000  yatex-20250224.1034.tar
+Built yatex in 20.996s, finished at 2025-06-30T01:30:07+0000

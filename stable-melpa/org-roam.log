@@ -3,10 +3,10 @@ Fetcher: github
 Source:  https://github.com/org-roam/org-roam
 
 Updating /mnt/store/melpa/working/org-roam/
-Checking out c17295134510c8759baad0e8a9f151029d5e5fe1
+Checking out fc8638759b9d8e1725ff58a2b5f983679be0cf3d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/org-roam/
-  to /tmp/org-roamWz9GSV/org-roam-20250609.820
+  to /tmp/org-roamquSiNZ/org-roam-20250630.44
     org-roam-capture.el -> org-roam-capture.el
     org-roam-compat.el -> org-roam-compat.el
     org-roam-db.el -> org-roam-db.el
@@ -24,27 +24,29 @@ Copying files (->) and directories (=>)
   ! extensions/org-roam-overlay.el -> org-roam-overlay.el
   ! extensions/org-roam-protocol.el -> org-roam-protocol.el
 Generating org-roam.info
-Created org-roam-20250609.820.tar containing:
-  org-roam-20250609.820/
-  org-roam-20250609.820/dir
-  org-roam-20250609.820/org-roam-capture.el
-  org-roam-20250609.820/org-roam-compat.el
-  org-roam-20250609.820/org-roam-dailies.el
-  org-roam-20250609.820/org-roam-db.el
-  org-roam-20250609.820/org-roam-export.el
-  org-roam-20250609.820/org-roam-graph.el
-  org-roam-20250609.820/org-roam-id.el
-  org-roam-20250609.820/org-roam-log.el
-  org-roam-20250609.820/org-roam-migrate.el
-  org-roam-20250609.820/org-roam-mode.el
-  org-roam-20250609.820/org-roam-node.el
-  org-roam-20250609.820/org-roam-overlay.el
-  org-roam-20250609.820/org-roam-pkg.el
-  org-roam-20250609.820/org-roam-protocol.el
-  org-roam-20250609.820/org-roam-utils.el
-  org-roam-20250609.820/org-roam.el
-  org-roam-20250609.820/org-roam.info
+Created org-roam-20250630.44.tar containing:
+  org-roam-20250630.44/
+  org-roam-20250630.44/dir
+  org-roam-20250630.44/org-roam-capture.el
+  org-roam-20250630.44/org-roam-compat.el
+  org-roam-20250630.44/org-roam-dailies.el
+  org-roam-20250630.44/org-roam-db.el
+  org-roam-20250630.44/org-roam-export.el
+  org-roam-20250630.44/org-roam-graph.el
+  org-roam-20250630.44/org-roam-id.el
+  org-roam-20250630.44/org-roam-log.el
+  org-roam-20250630.44/org-roam-migrate.el
+  org-roam-20250630.44/org-roam-mode.el
+  org-roam-20250630.44/org-roam-node.el
+  org-roam-20250630.44/org-roam-overlay.el
+  org-roam-20250630.44/org-roam-pkg.el
+  org-roam-20250630.44/org-roam-protocol.el
+  org-roam-20250630.44/org-roam-utils.el
+  org-roam-20250630.44/org-roam.el
+  org-roam-20250630.44/org-roam.info
  ✓ Success:
-  2025-06-23T01:05:00+0000  org-roam-20250609.820.entry
-  2025-06-23T01:05:00+0000  org-roam-20250609.820.tar
-Built org-roam in 6.984s, finished at 2025-06-23T01:05:01+0000
+  2025-06-29T22:31:23+0000  org-roam-20250626.2154.entry
+  2025-06-29T22:31:23+0000  org-roam-20250626.2154.tar
+  2025-06-30T01:05:24+0000  org-roam-20250630.44.entry
+  2025-06-30T01:05:23+0000  org-roam-20250630.44.tar
+Built org-roam in 11.020s, finished at 2025-06-30T01:05:25+0000

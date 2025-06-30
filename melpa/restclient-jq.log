@@ -1,18 +1,18 @@
 Package: restclient-jq
 Fetcher: github
-Source:  https://github.com/pashky/restclient.el
+Source:  https://github.com/emacsorphanage/restclient
 
 Updating /mnt/store/melpa/working/restclient-jq/
-Checking out ae79e7dd283890072da69b8f48aeec1afd0d9442
+Checking out 25df2b310437994024326427ab215f49e0118b19
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/restclient-jq/
-  to /tmp/restclient-jqwjmazY/restclient-jq-20220426.1734
+  to /tmp/restclient-jqY6zOpB/restclient-jq-20250625.1903
     restclient-jq.el -> restclient-jq.el
-Created restclient-jq-20220426.1734.tar containing:
-  restclient-jq-20220426.1734/
-  restclient-jq-20220426.1734/restclient-jq-pkg.el
-  restclient-jq-20220426.1734/restclient-jq.el
+Created restclient-jq-20250625.1903.tar containing:
+  restclient-jq-20250625.1903/
+  restclient-jq-20250625.1903/restclient-jq-pkg.el
+  restclient-jq-20250625.1903/restclient-jq.el
  ✓ Success:
-  2025-06-23T01:13:55+0000  restclient-jq-20220426.1734.entry
-  2025-06-23T01:13:55+0000  restclient-jq-20220426.1734.tar
-Built restclient-jq in 2.539s, finished at 2025-06-23T01:13:55+0000
+  2025-06-30T01:14:33+0000  restclient-jq-20250625.1903.entry
+  2025-06-30T01:14:33+0000  restclient-jq-20250625.1903.tar
+Built restclient-jq in 2.882s, finished at 2025-06-30T01:14:34+0000

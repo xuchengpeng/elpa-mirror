@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/services/
 Checking out 04c7986041a33dfa0b0ae57c7d6fbd600548c596
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/services/
-  to /tmp/servicesqfzs4Y/services-20170802.1130
+  to /tmp/servicesHO6n65/services-20170802.1130
     services.el -> services.el
 Created services-20170802.1130.tar containing:
   services-20170802.1130/
   services-20170802.1130/services-pkg.el
   services-20170802.1130/services.el
  ✓ Success:
-  2025-06-23T01:16:42+0000  services-20170802.1130.entry
-  2025-06-23T01:16:42+0000  services-20170802.1130.tar
-Built services in 2.821s, finished at 2025-06-23T01:16:43+0000
+  2025-06-30T01:16:53+0000  services-20170802.1130.entry
+  2025-06-30T01:16:53+0000  services-20170802.1130.tar
+Built services in 4.604s, finished at 2025-06-30T01:16:54+0000
