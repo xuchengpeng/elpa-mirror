@@ -3,22 +3,22 @@ Fetcher: github
 Source:  https://github.com/oantolin/orderless
 
 Updating /mnt/store/melpa/working/orderless/
-Checking out 254f2412489bbbf62700f9d3d5f18e537841dcc3
+Checking out 082a487f79ca5e960046a31599a5f97dac79a858
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/orderless/
-  to /tmp/orderlessC2LTOD/orderless-20250316.2046
+  to /tmp/orderlessviTXF0/orderless-20250705.2023
     orderless-kwd.el -> orderless-kwd.el
     orderless.el -> orderless.el
     orderless.texi -> orderless.texi
 Generating orderless.info
-Created orderless-20250316.2046.tar containing:
-  orderless-20250316.2046/
-  orderless-20250316.2046/dir
-  orderless-20250316.2046/orderless-kwd.el
-  orderless-20250316.2046/orderless-pkg.el
-  orderless-20250316.2046/orderless.el
-  orderless-20250316.2046/orderless.info
+Created orderless-20250705.2023.tar containing:
+  orderless-20250705.2023/
+  orderless-20250705.2023/dir
+  orderless-20250705.2023/orderless-kwd.el
+  orderless-20250705.2023/orderless-pkg.el
+  orderless-20250705.2023/orderless.el
+  orderless-20250705.2023/orderless.info
  ✓ Success:
-  2025-06-30T01:03:09+0000  orderless-20250316.2046.entry
-  2025-06-30T01:03:09+0000  orderless-20250316.2046.tar
-Built orderless in 5.211s, finished at 2025-06-30T01:03:10+0000
+  2025-07-07T00:55:51+0000  orderless-20250705.2023.entry
+  2025-07-07T00:55:51+0000  orderless-20250705.2023.tar
+Built orderless in 8.136s, finished at 2025-07-07T00:55:52+0000

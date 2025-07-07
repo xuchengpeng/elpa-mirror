@@ -1,0 +1,28 @@
+Package: eca
+Fetcher: github
+Source:  https://github.com/editor-code-assistant/eca-emacs
+
+Updating /mnt/store/melpa/working/eca/
+Checking out 912adf956e4bbeef30e47403c57a6d21502251e3
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/eca/
+  to /tmp/ecaZ6xoNj/eca-20250706.2133
+    eca-api.el -> eca-api.el
+    eca-chat.el -> eca-chat.el
+    eca-mcp.el -> eca-mcp.el
+    eca-process.el -> eca-process.el
+    eca-util.el -> eca-util.el
+    eca.el -> eca.el
+Created eca-20250706.2133.tar containing:
+  eca-20250706.2133/
+  eca-20250706.2133/eca-api.el
+  eca-20250706.2133/eca-chat.el
+  eca-20250706.2133/eca-mcp.el
+  eca-20250706.2133/eca-pkg.el
+  eca-20250706.2133/eca-process.el
+  eca-20250706.2133/eca-util.el
+  eca-20250706.2133/eca.el
+ ✓ Success:
+  2025-07-07T00:22:38+0000  eca-20250706.2133.entry
+  2025-07-07T00:22:38+0000  eca-20250706.2133.tar
+Built eca in 3.353s, finished at 2025-07-07T00:22:39+0000

@@ -3,21 +3,21 @@ Fetcher: github
 Source:  https://github.com/captainflasmr/simply-annotate
 
 Updating /mnt/store/melpa/working/simply-annotate/
-Checking out 0ace6e048d26e580ee02f614fde578c288c765fc
+Checking out 7fbeb4d76fd242ec0cdadca20857af5c43e2da5e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/simply-annotate/
-  to /tmp/simply-annotatelboO4B/simply-annotate-20250629.2102
+  to /tmp/simply-annotate3cVCQG/simply-annotate-20250703.2055
     simply-annotate.el -> simply-annotate.el
   ! docs/simply-annotate.info -> simply-annotate.info
   ! docs/simply-annotate.texi -> simply-annotate.texi
 Generating simply-annotate.info
-Created simply-annotate-20250629.2102.tar containing:
-  simply-annotate-20250629.2102/
-  simply-annotate-20250629.2102/dir
-  simply-annotate-20250629.2102/simply-annotate-pkg.el
-  simply-annotate-20250629.2102/simply-annotate.el
-  simply-annotate-20250629.2102/simply-annotate.info
+Created simply-annotate-20250703.2055.tar containing:
+  simply-annotate-20250703.2055/
+  simply-annotate-20250703.2055/dir
+  simply-annotate-20250703.2055/simply-annotate-pkg.el
+  simply-annotate-20250703.2055/simply-annotate.el
+  simply-annotate-20250703.2055/simply-annotate.info
  ✓ Success:
-  2025-06-30T01:18:05+0000  simply-annotate-20250629.2102.entry
-  2025-06-30T01:18:05+0000  simply-annotate-20250629.2102.tar
-Built simply-annotate in 5.639s, finished at 2025-06-30T01:18:06+0000
+  2025-07-07T01:10:43+0000  simply-annotate-20250703.2055.entry
+  2025-07-07T01:10:43+0000  simply-annotate-20250703.2055.tar
+Built simply-annotate in 5.448s, finished at 2025-07-07T01:10:44+0000

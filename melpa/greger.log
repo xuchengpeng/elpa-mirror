@@ -3,10 +3,10 @@ Fetcher: github
 Source:  https://github.com/andreasjansson/greger.el
 
 Updating /mnt/store/melpa/working/greger/
-Checking out 2213e42535b3f9742015177bb4872595305c0424
+Checking out b9591c30193cc764b23f1741fbb43159f85e945b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/greger/
-  to /tmp/greger3MOvVl/greger-20250629.835
+  to /tmp/gregerc68dgw/greger-20250704.1635
     greger-client.el -> greger-client.el
     greger-parser.el -> greger-parser.el
     greger-stdlib.el -> greger-stdlib.el
@@ -14,17 +14,17 @@ Copying files (->) and directories (=>)
     greger-ui.el -> greger-ui.el
     greger-web.el -> greger-web.el
     greger.el -> greger.el
-Created greger-20250629.835.tar containing:
-  greger-20250629.835/
-  greger-20250629.835/greger-client.el
-  greger-20250629.835/greger-parser.el
-  greger-20250629.835/greger-pkg.el
-  greger-20250629.835/greger-stdlib.el
-  greger-20250629.835/greger-tools.el
-  greger-20250629.835/greger-ui.el
-  greger-20250629.835/greger-web.el
-  greger-20250629.835/greger.el
+Created greger-20250704.1635.tar containing:
+  greger-20250704.1635/
+  greger-20250704.1635/greger-client.el
+  greger-20250704.1635/greger-parser.el
+  greger-20250704.1635/greger-pkg.el
+  greger-20250704.1635/greger-stdlib.el
+  greger-20250704.1635/greger-tools.el
+  greger-20250704.1635/greger-ui.el
+  greger-20250704.1635/greger-web.el
+  greger-20250704.1635/greger.el
  ✓ Success:
-  2025-06-30T00:41:52+0000  greger-20250629.835.entry
-  2025-06-30T00:41:52+0000  greger-20250629.835.tar
-Built greger in 3.029s, finished at 2025-06-30T00:41:53+0000
+  2025-07-07T00:35:57+0000  greger-20250704.1635.entry
+  2025-07-07T00:35:57+0000  greger-20250704.1635.tar
+Built greger in 2.792s, finished at 2025-07-07T00:35:58+0000

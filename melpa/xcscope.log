@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/xcscope/
 Checking out 2f35b26428dd82c016941744f03aad97df80c47b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/xcscope/
-  to /tmp/xcscopet1FEEA/xcscope-20230626.2109
+  to /tmp/xcscopeadi37n/xcscope-20230626.2109
     xcscope.el -> xcscope.el
 Created xcscope-20230626.2109.tar containing:
   xcscope-20230626.2109/
   xcscope-20230626.2109/xcscope-pkg.el
   xcscope-20230626.2109/xcscope.el
  ✓ Success:
-  2025-06-30T01:29:10+0000  xcscope-20230626.2109.entry
-  2025-06-30T01:29:10+0000  xcscope-20230626.2109.tar
-Built xcscope in 3.143s, finished at 2025-06-30T01:29:11+0000
+  2025-07-07T01:21:13+0000  xcscope-20230626.2109.entry
+  2025-07-07T01:21:13+0000  xcscope-20230626.2109.tar
+Built xcscope in 3.008s, finished at 2025-07-07T01:21:14+0000

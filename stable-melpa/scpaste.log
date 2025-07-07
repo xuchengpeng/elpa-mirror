@@ -3,16 +3,16 @@ Fetcher: sourcehut
 Source:  https://git.sr.ht/~technomancy/scpaste
 
 Updating /mnt/store/melpa/working/scpaste/
-Checking out 7d4f9d5f392e05877ba3865c08a8f04892da3705
+Checking out 5203d3625c34e51433435dc466853aa36f4ebe21
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/scpaste/
-  to /tmp/scpasteliamrI/scpaste-20250125.453
+  to /tmp/scpastePW27qQ/scpaste-20250706.1759
     scpaste.el -> scpaste.el
-Created scpaste-20250125.453.tar containing:
-  scpaste-20250125.453/
-  scpaste-20250125.453/scpaste-pkg.el
-  scpaste-20250125.453/scpaste.el
+Created scpaste-20250706.1759.tar containing:
+  scpaste-20250706.1759/
+  scpaste-20250706.1759/scpaste-pkg.el
+  scpaste-20250706.1759/scpaste.el
  ✓ Success:
-  2025-06-30T01:16:07+0000  scpaste-20250125.453.entry
-  2025-06-30T01:16:07+0000  scpaste-20250125.453.tar
-Built scpaste in 4.223s, finished at 2025-06-30T01:16:08+0000
+  2025-07-07T01:09:02+0000  scpaste-20250706.1759.entry
+  2025-07-07T01:09:02+0000  scpaste-20250706.1759.tar
+Built scpaste in 4.316s, finished at 2025-07-07T01:09:03+0000

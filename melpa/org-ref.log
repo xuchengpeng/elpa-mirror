@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/org-ref/
 Checking out edbb80863ef63ef52ef04fce3239e063843f8d30
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/org-ref/
-  to /tmp/org-refp7YPyd/org-ref-20250301.1918
+  to /tmp/org-refYobQTH/org-ref-20250301.1918
     contrib.el -> contrib.el
     doi-utils.el -> doi-utils.el
     nist-webbook.el -> nist-webbook.el
@@ -95,6 +95,6 @@ Created org-ref-20250301.1918.tar containing:
   org-ref-20250301.1918/org-ref.org
   org-ref-20250301.1918/x2bib.el
  ✓ Success:
-  2025-06-30T01:05:10+0000  org-ref-20250301.1918.entry
-  2025-06-30T01:05:10+0000  org-ref-20250301.1918.tar
-Built org-ref in 5.972s, finished at 2025-06-30T01:05:12+0000
+  2025-07-07T00:57:50+0000  org-ref-20250301.1918.entry
+  2025-07-07T00:57:50+0000  org-ref-20250301.1918.tar
+Built org-ref in 4.069s, finished at 2025-07-07T00:57:51+0000

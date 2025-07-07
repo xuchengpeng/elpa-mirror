@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/lakkiy/gptel-commit
 
 Updating /mnt/store/melpa/working/gptel-commit/
-Checking out c6b3b62cc5cff803dea01528a8fc2754ffb66ad1
+Checking out 9caf217c9864c3f4cf819c2c48d35628ac729427
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/gptel-commit/
-  to /tmp/gptel-commitIEePVW/gptel-commit-20250629.1602
+  to /tmp/gptel-commitnrm1Sr/gptel-commit-20250630.1324
     gptel-commit.el -> gptel-commit.el
-Created gptel-commit-20250629.1602.tar containing:
-  gptel-commit-20250629.1602/
-  gptel-commit-20250629.1602/gptel-commit-pkg.el
-  gptel-commit-20250629.1602/gptel-commit.el
+Created gptel-commit-20250630.1324.tar containing:
+  gptel-commit-20250630.1324/
+  gptel-commit-20250630.1324/gptel-commit-pkg.el
+  gptel-commit-20250630.1324/gptel-commit.el
  ✓ Success:
-  2025-06-30T00:41:31+0000  gptel-commit-20250629.1602.entry
-  2025-06-30T00:41:31+0000  gptel-commit-20250629.1602.tar
-Built gptel-commit in 3.743s, finished at 2025-06-30T00:41:32+0000
+  2025-07-07T00:35:39+0000  gptel-commit-20250630.1324.entry
+  2025-07-07T00:35:39+0000  gptel-commit-20250630.1324.tar
+Built gptel-commit in 3.451s, finished at 2025-07-07T00:35:40+0000

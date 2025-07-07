@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/prettier/prettier-emacs
 
 Updating /mnt/store/melpa/working/prettier-js/
-Checking out 63ebfd0cd2fd88914f239b15da9664f76f6768c1
+Checking out 1ce7a310b000200e333f0015b87d910672ebdb7e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/prettier-js/
-  to /tmp/prettier-jsivwm3Y/prettier-js-20250625.620
+  to /tmp/prettier-jsCqBmlY/prettier-js-20250705.322
     prettier-js.el -> prettier-js.el
-Created prettier-js-20250625.620.tar containing:
-  prettier-js-20250625.620/
-  prettier-js-20250625.620/prettier-js-pkg.el
-  prettier-js-20250625.620/prettier-js.el
+Created prettier-js-20250705.322.tar containing:
+  prettier-js-20250705.322/
+  prettier-js-20250705.322/prettier-js-pkg.el
+  prettier-js-20250705.322/prettier-js.el
  ✓ Success:
-  2025-06-30T01:10:50+0000  prettier-js-20250625.620.entry
-  2025-06-30T01:10:49+0000  prettier-js-20250625.620.tar
-Built prettier-js in 2.761s, finished at 2025-06-30T01:10:50+0000
+  2025-07-07T01:03:44+0000  prettier-js-20250705.322.entry
+  2025-07-07T01:03:44+0000  prettier-js-20250705.322.tar
+Built prettier-js in 2.957s, finished at 2025-07-07T01:03:45+0000

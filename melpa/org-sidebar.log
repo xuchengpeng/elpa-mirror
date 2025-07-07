@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/org-sidebar/
 Checking out 1e06d1b4ab5f0d09301712cdecb757c9437a7179
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/org-sidebar/
-  to /tmp/org-sidebarPKb8BQ/org-sidebar-20240102.9
+  to /tmp/org-sidebar4pDmmd/org-sidebar-20240102.9
     org-sidebar.el -> org-sidebar.el
 Created org-sidebar-20240102.9.tar containing:
   org-sidebar-20240102.9/
   org-sidebar-20240102.9/org-sidebar-pkg.el
   org-sidebar-20240102.9/org-sidebar.el
  ✓ Success:
-  2025-06-30T01:05:35+0000  org-sidebar-20240102.9.entry
-  2025-06-30T01:05:35+0000  org-sidebar-20240102.9.tar
-Built org-sidebar in 4.687s, finished at 2025-06-30T01:05:36+0000
+  2025-07-07T00:58:06+0000  org-sidebar-20240102.9.entry
+  2025-07-07T00:58:06+0000  org-sidebar-20240102.9.tar
+Built org-sidebar in 3.067s, finished at 2025-07-07T00:58:07+0000

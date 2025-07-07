@@ -3,32 +3,32 @@ Fetcher: github
 Source:  https://github.com/pkryger/company-forge.el
 
 Updating /mnt/store/melpa/working/company-forge/
-Checking out c5e91220237fd422640633bd99f3c2037c2b47d2
+Checking out a31ae799ed8e0c83380d6b2e9a112b76053e4ce9
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/company-forge/
-  to /tmp/company-forgeHzERxM/company-forge-20250611.1343
+  to /tmp/company-forgeX7jMHb/company-forge-20250702.1534
     company-forge.el -> company-forge.el
     icons => icons
-Created company-forge-20250611.1343.tar containing:
-  company-forge-20250611.1343/
-  company-forge-20250611.1343/company-forge-pkg.el
-  company-forge-20250611.1343/company-forge.el
-  company-forge-20250611.1343/icons/
-  company-forge-20250611.1343/icons/LICENSE.txt
-  company-forge-20250611.1343/icons/comment-discussion-16.svg
-  company-forge-20250611.1343/icons/discussion-closed-16.svg
-  company-forge-20250611.1343/icons/discussion-duplicate-16.svg
-  company-forge-20250611.1343/icons/discussion-outdated-16.svg
-  company-forge-20250611.1343/icons/git-merge-16.svg
-  company-forge-20250611.1343/icons/git-pull-request-16.svg
-  company-forge-20250611.1343/icons/git-pull-request-closed-16.svg
-  company-forge-20250611.1343/icons/git-pull-request-draft-16.svg
-  company-forge-20250611.1343/icons/issue-closed-16.svg
-  company-forge-20250611.1343/icons/issue-draft-16.svg
-  company-forge-20250611.1343/icons/issue-opened-16.svg
-  company-forge-20250611.1343/icons/people-16.svg
-  company-forge-20250611.1343/icons/person-16.svg
+Created company-forge-20250702.1534.tar containing:
+  company-forge-20250702.1534/
+  company-forge-20250702.1534/company-forge-pkg.el
+  company-forge-20250702.1534/company-forge.el
+  company-forge-20250702.1534/icons/
+  company-forge-20250702.1534/icons/LICENSE.txt
+  company-forge-20250702.1534/icons/comment-discussion-16.svg
+  company-forge-20250702.1534/icons/discussion-closed-16.svg
+  company-forge-20250702.1534/icons/discussion-duplicate-16.svg
+  company-forge-20250702.1534/icons/discussion-outdated-16.svg
+  company-forge-20250702.1534/icons/git-merge-16.svg
+  company-forge-20250702.1534/icons/git-pull-request-16.svg
+  company-forge-20250702.1534/icons/git-pull-request-closed-16.svg
+  company-forge-20250702.1534/icons/git-pull-request-draft-16.svg
+  company-forge-20250702.1534/icons/issue-closed-16.svg
+  company-forge-20250702.1534/icons/issue-draft-16.svg
+  company-forge-20250702.1534/icons/issue-opened-16.svg
+  company-forge-20250702.1534/icons/people-16.svg
+  company-forge-20250702.1534/icons/person-16.svg
  ✓ Success:
-  2025-06-30T00:21:14+0000  company-forge-20250611.1343.entry
-  2025-06-30T00:21:14+0000  company-forge-20250611.1343.tar
-Built company-forge in 2.953s, finished at 2025-06-30T00:21:15+0000
+  2025-07-07T00:15:35+0000  company-forge-20250702.1534.entry
+  2025-07-07T00:15:35+0000  company-forge-20250702.1534.tar
+Built company-forge in 4.149s, finished at 2025-07-07T00:15:36+0000

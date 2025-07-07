@@ -3,18 +3,16 @@ Fetcher: github
 Source:  https://github.com/museoa/bqn-mode
 
 Updating /mnt/store/melpa/working/bqn-mode/
-Checking out 81eca6e1a6735e738cac3117810db5c9a4762452
+Checking out 7c04ca9009e72b48da307b41d6814df1e383609a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/bqn-mode/
-  to /tmp/bqn-modeV9JDHs/bqn-mode-20250410.38
+  to /tmp/bqn-modeFHDaOT/bqn-mode-20250705.1223
     bqn-mode.el -> bqn-mode.el
-    ob-bqn.el -> ob-bqn.el
-Created bqn-mode-20250410.38.tar containing:
-  bqn-mode-20250410.38/
-  bqn-mode-20250410.38/bqn-mode-pkg.el
-  bqn-mode-20250410.38/bqn-mode.el
-  bqn-mode-20250410.38/ob-bqn.el
+Created bqn-mode-20250705.1223.tar containing:
+  bqn-mode-20250705.1223/
+  bqn-mode-20250705.1223/bqn-mode-pkg.el
+  bqn-mode-20250705.1223/bqn-mode.el
  ✓ Success:
-  2025-06-30T00:16:58+0000  bqn-mode-20250410.38.entry
-  2025-06-30T00:16:58+0000  bqn-mode-20250410.38.tar
-Built bqn-mode in 3.376s, finished at 2025-06-30T00:16:59+0000
+  2025-07-07T00:11:39+0000  bqn-mode-20250705.1223.entry
+  2025-07-07T00:11:39+0000  bqn-mode-20250705.1223.tar
+Built bqn-mode in 3.629s, finished at 2025-07-07T00:11:40+0000

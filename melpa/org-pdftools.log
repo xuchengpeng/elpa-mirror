@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/fuxialexander/org-pdftools
 
 Updating /mnt/store/melpa/working/org-pdftools/
-Checking out 5613b7ae561e0af199f25aacc0a9c34c16638408
+Checking out 20d1ffd2b047c05a4bdf6735e51d2d7852d8f7bf
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/org-pdftools/
-  to /tmp/org-pdftoolsheOgl4/org-pdftools-20250210.118
+  to /tmp/org-pdftoolsmEipvg/org-pdftools-20250630.1734
     org-pdftools.el -> org-pdftools.el
-Created org-pdftools-20250210.118.tar containing:
-  org-pdftools-20250210.118/
-  org-pdftools-20250210.118/org-pdftools-pkg.el
-  org-pdftools-20250210.118/org-pdftools.el
+Created org-pdftools-20250630.1734.tar containing:
+  org-pdftools-20250630.1734/
+  org-pdftools-20250630.1734/org-pdftools-pkg.el
+  org-pdftools-20250630.1734/org-pdftools.el
  ✓ Success:
-  2025-06-30T01:04:50+0000  org-pdftools-20250210.118.entry
-  2025-06-30T01:04:50+0000  org-pdftools-20250210.118.tar
-Built org-pdftools in 2.945s, finished at 2025-06-30T01:04:51+0000
+  2025-07-07T00:57:33+0000  org-pdftools-20250630.1734.entry
+  2025-07-07T00:57:33+0000  org-pdftools-20250630.1734.tar
+Built org-pdftools in 2.920s, finished at 2025-07-07T00:57:34+0000
