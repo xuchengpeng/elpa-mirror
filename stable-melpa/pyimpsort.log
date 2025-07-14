@@ -3,18 +3,18 @@ Fetcher: github
 Source:  https://github.com/emacsorphanage/pyimpsort
 
 Updating /mnt/store/melpa/working/pyimpsort/
-Checking out d5c61d70896b642646dfd3c809c06174ae086c1a
+Checking out 70d739c134d89ba2025322fee101a13420d0b032
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/pyimpsort/
-  to /tmp/pyimpsortDn4JjC/pyimpsort-20160130.453
+  to /tmp/pyimpsortKzmhF1/pyimpsort-20250710.1607
     pyimpsort.el -> pyimpsort.el
     pyimpsort.py -> pyimpsort.py
-Created pyimpsort-20160130.453.tar containing:
-  pyimpsort-20160130.453/
-  pyimpsort-20160130.453/pyimpsort-pkg.el
-  pyimpsort-20160130.453/pyimpsort.el
-  pyimpsort-20160130.453/pyimpsort.py
+Created pyimpsort-20250710.1607.tar containing:
+  pyimpsort-20250710.1607/
+  pyimpsort-20250710.1607/pyimpsort-pkg.el
+  pyimpsort-20250710.1607/pyimpsort.el
+  pyimpsort-20250710.1607/pyimpsort.py
  ✓ Success:
-  2025-07-07T01:05:14+0000  pyimpsort-20160130.453.entry
-  2025-07-07T01:05:14+0000  pyimpsort-20160130.453.tar
-Built pyimpsort in 3.360s, finished at 2025-07-07T01:05:15+0000
+  2025-07-14T02:11:16+0000  pyimpsort-20250710.1607.entry
+  2025-07-14T02:11:16+0000  pyimpsort-20250710.1607.tar
+Built pyimpsort in 5.633s, finished at 2025-07-14T02:11:17+0000

@@ -3,16 +3,16 @@ Fetcher: codeberg
 Source:  https://codeberg.org/uzu/tidal
 
 Updating /mnt/store/melpa/working/tidal/
-Checking out 7b1624ac83177ecf4ceead7dc50448258988af8b
+Checking out 660ac746ec5c89da7ead100c0c46bf67e4037f41
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/tidal/
-  to /tmp/tidaljYjlRe/tidal-20250628.806
+  to /tmp/tidalqYdq33/tidal-20250711.1955
     tidal.el -> tidal.el
-Created tidal-20250628.806.tar containing:
-  tidal-20250628.806/
-  tidal-20250628.806/tidal-pkg.el
-  tidal-20250628.806/tidal.el
+Created tidal-20250711.1955.tar containing:
+  tidal-20250711.1955/
+  tidal-20250711.1955/tidal-pkg.el
+  tidal-20250711.1955/tidal.el
  ✓ Success:
-  2025-07-07T01:15:36+0000  tidal-20250628.806.entry
-  2025-07-07T01:15:36+0000  tidal-20250628.806.tar
-Built tidal in 5.632s, finished at 2025-07-07T01:15:37+0000
+  2025-07-13T23:57:13+0000  tidal-20250711.1955.entry
+  2025-07-13T23:57:13+0000  tidal-20250711.1955.tar
+Built tidal in 4.764s, finished at 2025-07-13T23:57:14+0000

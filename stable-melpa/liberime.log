@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/liberime/
 Checking out 23c0caa1bf73f4e9ab58d52dc46cf21088dc6c54
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/liberime/
-  to /tmp/liberimeHi7ngu/liberime-20240927.141
+  to /tmp/liberimeN6vSZI/liberime-20240927.141
     liberime.el -> liberime.el
     src => src
     emacs-module => emacs-module
@@ -38,6 +38,6 @@ Created liberime-20240927.141.tar containing:
   liberime-20240927.141/src/liberime-core.c
   liberime-20240927.141/src/liberime-core.h
  ✓ Success:
-  2025-07-07T00:46:19+0000  liberime-20240927.141.entry
-  2025-07-07T00:46:19+0000  liberime-20240927.141.tar
-Built liberime in 3.281s, finished at 2025-07-07T00:46:20+0000
+  2025-07-14T01:52:30+0000  liberime-20240927.141.entry
+  2025-07-14T01:52:30+0000  liberime-20240927.141.tar
+Built liberime in 3.609s, finished at 2025-07-14T01:52:31+0000

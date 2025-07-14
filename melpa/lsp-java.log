@@ -3,36 +3,36 @@ Fetcher: github
 Source:  https://github.com/emacs-lsp/lsp-java
 
 Updating /mnt/store/melpa/working/lsp-java/
-Checking out 6cfff8761e9f23889c002984f61e4ae04979eaf5
+Checking out 9230a0007c79a661028c142f35c7b8d1f9f55453
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/lsp-java/
-  to /tmp/lsp-java4DFLJ4/lsp-java-20250228.2147
+  to /tmp/lsp-javar2Nw7e/lsp-java-20250712.2133
     dap-java.el -> dap-java.el
     lsp-java-boot.el -> lsp-java-boot.el
     lsp-java.el -> lsp-java.el
     lsp-jt.el -> lsp-jt.el
     icons => icons
-Created lsp-java-20250228.2147.tar containing:
-  lsp-java-20250228.2147/
-  lsp-java-20250228.2147/dap-java.el
-  lsp-java-20250228.2147/icons/
-  lsp-java-20250228.2147/icons/vscode/
-  lsp-java-20250228.2147/icons/vscode/class.png
-  lsp-java-20250228.2147/icons/vscode/debug.png
-  lsp-java-20250228.2147/icons/vscode/history.png
-  lsp-java-20250228.2147/icons/vscode/method.png
-  lsp-java-20250228.2147/icons/vscode/package.png
-  lsp-java-20250228.2147/icons/vscode/pass.png
-  lsp-java-20250228.2147/icons/vscode/placeholder.png
-  lsp-java-20250228.2147/icons/vscode/refresh.png
-  lsp-java-20250228.2147/icons/vscode/run.png
-  lsp-java-20250228.2147/icons/vscode/running.png
-  lsp-java-20250228.2147/icons/vscode/test-error.png
-  lsp-java-20250228.2147/lsp-java-boot.el
-  lsp-java-20250228.2147/lsp-java-pkg.el
-  lsp-java-20250228.2147/lsp-java.el
-  lsp-java-20250228.2147/lsp-jt.el
+Created lsp-java-20250712.2133.tar containing:
+  lsp-java-20250712.2133/
+  lsp-java-20250712.2133/dap-java.el
+  lsp-java-20250712.2133/icons/
+  lsp-java-20250712.2133/icons/vscode/
+  lsp-java-20250712.2133/icons/vscode/class.png
+  lsp-java-20250712.2133/icons/vscode/debug.png
+  lsp-java-20250712.2133/icons/vscode/history.png
+  lsp-java-20250712.2133/icons/vscode/method.png
+  lsp-java-20250712.2133/icons/vscode/package.png
+  lsp-java-20250712.2133/icons/vscode/pass.png
+  lsp-java-20250712.2133/icons/vscode/placeholder.png
+  lsp-java-20250712.2133/icons/vscode/refresh.png
+  lsp-java-20250712.2133/icons/vscode/run.png
+  lsp-java-20250712.2133/icons/vscode/running.png
+  lsp-java-20250712.2133/icons/vscode/test-error.png
+  lsp-java-20250712.2133/lsp-java-boot.el
+  lsp-java-20250712.2133/lsp-java-pkg.el
+  lsp-java-20250712.2133/lsp-java.el
+  lsp-java-20250712.2133/lsp-jt.el
  ✓ Success:
-  2025-07-07T00:47:36+0000  lsp-java-20250228.2147.entry
-  2025-07-07T00:47:36+0000  lsp-java-20250228.2147.tar
-Built lsp-java in 4.009s, finished at 2025-07-07T00:47:37+0000
+  2025-07-14T01:53:45+0000  lsp-java-20250712.2133.entry
+  2025-07-14T01:53:45+0000  lsp-java-20250712.2133.tar
+Built lsp-java in 3.721s, finished at 2025-07-14T01:53:46+0000

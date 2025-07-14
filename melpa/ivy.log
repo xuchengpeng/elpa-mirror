@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/ivy/
 Checking out 2529a23f9f510a94efa6c088bd14217aa764dafb
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ivy/
-  to /tmp/ivy8Ie7Yt/ivy-20250417.1209
+  to /tmp/ivyKHIDh9/ivy-20250417.1209
     colir.el -> colir.el
     ivy-faces.el -> ivy-faces.el
     ivy-overlay.el -> ivy-overlay.el
@@ -25,6 +25,6 @@ Created ivy-20250417.1209.tar containing:
   ivy-20250417.1209/ivy.el
   ivy-20250417.1209/ivy.info
  ✓ Success:
-  2025-07-07T00:42:17+0000  ivy-20250417.1209.entry
-  2025-07-07T00:42:17+0000  ivy-20250417.1209.tar
-Built ivy in 5.876s, finished at 2025-07-07T00:42:18+0000
+  2025-07-14T01:48:27+0000  ivy-20250417.1209.entry
+  2025-07-14T01:48:27+0000  ivy-20250417.1209.tar
+Built ivy in 6.152s, finished at 2025-07-14T01:48:29+0000

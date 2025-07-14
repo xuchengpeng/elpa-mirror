@@ -3,18 +3,18 @@ Fetcher: github
 Source:  https://github.com/sshaw/git-link
 
 Updating /mnt/store/melpa/working/git-link/
-Checking out 7a9d0cf138e9e7c60e01418bfe3f8c3a9e621ad8
+Checking out 5d07efdb536a89ab615b4fd5b6842557e0130f87
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/git-link/
-  to /tmp/git-linkCpvf0h/git-link-20250630.1344
+  to /tmp/git-linkwwy3tk/git-link-20250712.1433
     git-link-transient.el -> git-link-transient.el
     git-link.el -> git-link.el
-Created git-link-20250630.1344.tar containing:
-  git-link-20250630.1344/
-  git-link-20250630.1344/git-link-pkg.el
-  git-link-20250630.1344/git-link-transient.el
-  git-link-20250630.1344/git-link.el
+Created git-link-20250712.1433.tar containing:
+  git-link-20250712.1433/
+  git-link-20250712.1433/git-link-pkg.el
+  git-link-20250712.1433/git-link-transient.el
+  git-link-20250712.1433/git-link.el
  ✓ Success:
-  2025-07-07T00:34:07+0000  git-link-20250630.1344.entry
-  2025-07-07T00:34:07+0000  git-link-20250630.1344.tar
-Built git-link in 3.279s, finished at 2025-07-07T00:34:08+0000
+  2025-07-14T01:40:10+0000  git-link-20250712.1433.entry
+  2025-07-14T01:40:10+0000  git-link-20250712.1433.tar
+Built git-link in 3.454s, finished at 2025-07-14T01:40:11+0000

@@ -3,24 +3,24 @@ Fetcher: github
 Source:  https://github.com/knu/emacsc
 
 Updating /mnt/store/melpa/working/emacsc/
-Checking out 810f5e8b97e3046bdc7b0195067335b8eecb0bcb
+Checking out c0d51eea7c5cbef4ea49350dff8c721227635be6
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/emacsc/
-  to /tmp/emacscnTqKzK/emacsc-20241206.557
+  to /tmp/emacsco2LMws/emacsc-20250710.1637
   ! lisp/emacsc.el -> emacsc.el
     bin => bin
-Created emacsc-20241206.557.tar containing:
-  emacsc-20241206.557/
-  emacsc-20241206.557/bin/
-  emacsc-20241206.557/bin/dired
-  emacsc-20241206.557/bin/ediff
-  emacsc-20241206.557/bin/ediff-merge
-  emacsc-20241206.557/bin/emacsc
-  emacsc-20241206.557/bin/evil
-  emacsc-20241206.557/bin/magit
-  emacsc-20241206.557/emacsc-pkg.el
-  emacsc-20241206.557/emacsc.el
+Created emacsc-20250710.1637.tar containing:
+  emacsc-20250710.1637/
+  emacsc-20250710.1637/bin/
+  emacsc-20250710.1637/bin/dired
+  emacsc-20250710.1637/bin/ediff
+  emacsc-20250710.1637/bin/ediff-merge
+  emacsc-20250710.1637/bin/emacsc
+  emacsc-20250710.1637/bin/evil
+  emacsc-20250710.1637/bin/magit
+  emacsc-20250710.1637/emacsc-pkg.el
+  emacsc-20250710.1637/emacsc.el
  ✓ Success:
-  2025-07-07T00:24:35+0000  emacsc-20241206.557.entry
-  2025-07-07T00:24:35+0000  emacsc-20241206.557.tar
-Built emacsc in 2.918s, finished at 2025-07-07T00:24:36+0000
+  2025-07-14T01:30:38+0000  emacsc-20250710.1637.entry
+  2025-07-14T01:30:38+0000  emacsc-20250710.1637.tar
+Built emacsc in 3.048s, finished at 2025-07-14T01:30:39+0000

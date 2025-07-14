@@ -1,0 +1,18 @@
+Package: org-table-highlight
+Fetcher: github
+Source:  https://github.com/llcc/org-table-highlight
+
+Updating /mnt/store/melpa/working/org-table-highlight/
+Checking out 4f57bb04b23f257004bde7fce88af4efb95e3624
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/org-table-highlight/
+  to /tmp/org-table-highlightmoXhJd/org-table-highlight-20250709.823
+    org-table-highlight.el -> org-table-highlight.el
+Created org-table-highlight-20250709.823.tar containing:
+  org-table-highlight-20250709.823/
+  org-table-highlight-20250709.823/org-table-highlight-pkg.el
+  org-table-highlight-20250709.823/org-table-highlight.el
+ ✓ Success:
+  2025-07-14T02:04:24+0000  org-table-highlight-20250709.823.entry
+  2025-07-14T02:04:24+0000  org-table-highlight-20250709.823.tar
+Built org-table-highlight in 3.004s, finished at 2025-07-14T02:04:25+0000
