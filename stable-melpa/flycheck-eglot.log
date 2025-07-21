@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/flycheck-eglot/
 Checking out 0d7f0afc9bf08fce4a3ee225ec6540a91f8cfd76
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/flycheck-eglot/
-  to /tmp/flycheck-eglotPrRRG2/flycheck-eglot-20250626.212
+  to /tmp/flycheck-eglotiMQ5pg/flycheck-eglot-20250626.212
     flycheck-eglot.el -> flycheck-eglot.el
 Created flycheck-eglot-20250626.212.tar containing:
   flycheck-eglot-20250626.212/
   flycheck-eglot-20250626.212/flycheck-eglot-pkg.el
   flycheck-eglot-20250626.212/flycheck-eglot.el
  ✓ Success:
-  2025-07-14T01:36:02+0000  flycheck-eglot-20250626.212.entry
-  2025-07-14T01:36:02+0000  flycheck-eglot-20250626.212.tar
-Built flycheck-eglot in 3.091s, finished at 2025-07-14T01:36:03+0000
+  2025-07-21T01:10:07+0000  flycheck-eglot-20250626.212.entry
+  2025-07-21T01:10:07+0000  flycheck-eglot-20250626.212.tar
+Built flycheck-eglot in 3.068s, finished at 2025-07-21T01:10:08+0000

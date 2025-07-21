@@ -3,22 +3,22 @@ Fetcher: github
 Source:  https://github.com/elken/doom-modeline-now-playing
 
 Updating /mnt/store/melpa/working/doom-modeline-now-playing/
-Checking out 684bfde0b88a2cb31dd824216608ecbc2eb00c8b
+Checking out 5dec02f0a35ea3255c629195dc379e29502c0a2f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/doom-modeline-now-playing/
-  to /tmp/doom-modeline-now-playingNmSYO1/doom-modeline-now-playing-20250710.1417
+  to /tmp/doom-modeline-now-playingSInaun/doom-modeline-now-playing-20250720.1851
     doom-modeline-now-playing-core.el -> doom-modeline-now-playing-core.el
     doom-modeline-now-playing-osascript.el -> doom-modeline-now-playing-osascript.el
     doom-modeline-now-playing-playerctl.el -> doom-modeline-now-playing-playerctl.el
     doom-modeline-now-playing.el -> doom-modeline-now-playing.el
-Created doom-modeline-now-playing-20250710.1417.tar containing:
-  doom-modeline-now-playing-20250710.1417/
-  doom-modeline-now-playing-20250710.1417/doom-modeline-now-playing-core.el
-  doom-modeline-now-playing-20250710.1417/doom-modeline-now-playing-osascript.el
-  doom-modeline-now-playing-20250710.1417/doom-modeline-now-playing-pkg.el
-  doom-modeline-now-playing-20250710.1417/doom-modeline-now-playing-playerctl.el
-  doom-modeline-now-playing-20250710.1417/doom-modeline-now-playing.el
+Created doom-modeline-now-playing-20250720.1851.tar containing:
+  doom-modeline-now-playing-20250720.1851/
+  doom-modeline-now-playing-20250720.1851/doom-modeline-now-playing-core.el
+  doom-modeline-now-playing-20250720.1851/doom-modeline-now-playing-osascript.el
+  doom-modeline-now-playing-20250720.1851/doom-modeline-now-playing-pkg.el
+  doom-modeline-now-playing-20250720.1851/doom-modeline-now-playing-playerctl.el
+  doom-modeline-now-playing-20250720.1851/doom-modeline-now-playing.el
  ✓ Success:
-  2025-07-14T01:27:37+0000  doom-modeline-now-playing-20250710.1417.entry
-  2025-07-14T01:27:37+0000  doom-modeline-now-playing-20250710.1417.tar
-Built doom-modeline-now-playing in 3.477s, finished at 2025-07-14T01:27:38+0000
+  2025-07-21T01:01:20+0000  doom-modeline-now-playing-20250720.1851.entry
+  2025-07-21T01:01:20+0000  doom-modeline-now-playing-20250720.1851.tar
+Built doom-modeline-now-playing in 3.391s, finished at 2025-07-21T01:01:21+0000

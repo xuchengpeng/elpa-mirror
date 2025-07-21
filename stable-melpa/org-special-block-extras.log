@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/alhassy/org-special-block-extras
 
 Updating /mnt/store/melpa/working/org-special-block-extras/
-Checking out 92443a7a346c60fd00e05464f9af7763a055e4ca
+Checking out 1a236c783958782a4027e29dafc1efe488f443f1
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/org-special-block-extras/
-  to /tmp/org-special-block-extras3rVIHj/org-special-block-extras-20241227.124
+  to /tmp/org-special-block-extrasr5mgJ3/org-special-block-extras-20250715.1754
     org-special-block-extras.el -> org-special-block-extras.el
-Created org-special-block-extras-20241227.124.tar containing:
-  org-special-block-extras-20241227.124/
-  org-special-block-extras-20241227.124/org-special-block-extras-pkg.el
-  org-special-block-extras-20241227.124/org-special-block-extras.el
+Created org-special-block-extras-20250715.1754.tar containing:
+  org-special-block-extras-20250715.1754/
+  org-special-block-extras-20250715.1754/org-special-block-extras-pkg.el
+  org-special-block-extras-20250715.1754/org-special-block-extras.el
  ✓ Success:
-  2025-07-14T02:04:17+0000  org-special-block-extras-20241227.124.entry
-  2025-07-14T02:04:17+0000  org-special-block-extras-20241227.124.tar
-Built org-special-block-extras in 3.904s, finished at 2025-07-14T02:04:18+0000
+  2025-07-21T01:38:09+0000  org-special-block-extras-20250715.1754.entry
+  2025-07-21T01:38:09+0000  org-special-block-extras-20250715.1754.tar
+Built org-special-block-extras in 3.801s, finished at 2025-07-21T01:38:10+0000

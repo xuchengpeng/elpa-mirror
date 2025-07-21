@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/json-reformat/
 Checking out e9999b1f1fc933c02ff44f4136602b6a45ed59c6
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/json-reformat/
-  to /tmp/json-reformatLXbca6/json-reformat-20220905.2342
+  to /tmp/json-reformatEF5CKC/json-reformat-20220905.2342
     json-reformat.el -> json-reformat.el
 Created json-reformat-20220905.2342.tar containing:
   json-reformat-20220905.2342/
   json-reformat-20220905.2342/json-reformat-pkg.el
   json-reformat-20220905.2342/json-reformat.el
  ✓ Success:
-  2025-07-14T01:50:04+0000  json-reformat-20220905.2342.entry
-  2025-07-14T01:50:04+0000  json-reformat-20220905.2342.tar
-Built json-reformat in 3.671s, finished at 2025-07-14T01:50:05+0000
+  2025-07-21T01:23:55+0000  json-reformat-20220905.2342.entry
+  2025-07-21T01:23:55+0000  json-reformat-20220905.2342.tar
+Built json-reformat in 3.299s, finished at 2025-07-21T01:23:56+0000

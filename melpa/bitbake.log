@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/bitbake/
 Checking out 8285f46fe19cb99fe5ed42d38de0fe5c51c98fb0
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/bitbake/
-  to /tmp/bitbakeWcNuCO/bitbake-20240605.1322
+  to /tmp/bitbakeJASOQG/bitbake-20240605.1322
     bitbake.el -> bitbake.el
 Created bitbake-20240605.1322.tar containing:
   bitbake-20240605.1322/
   bitbake-20240605.1322/bitbake-pkg.el
   bitbake-20240605.1322/bitbake.el
  ✓ Success:
-  2025-07-14T01:17:12+0000  bitbake-20240605.1322.entry
-  2025-07-14T01:17:12+0000  bitbake-20240605.1322.tar
-Built bitbake in 2.684s, finished at 2025-07-14T01:17:13+0000
+  2025-07-21T00:50:42+0000  bitbake-20240605.1322.entry
+  2025-07-21T00:50:42+0000  bitbake-20240605.1322.tar
+Built bitbake in 3.031s, finished at 2025-07-21T00:50:43+0000

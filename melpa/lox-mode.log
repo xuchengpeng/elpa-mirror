@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/lox-mode/
 Checking out 083a2299e188a516d1e46ef2dd1cbb89db1aec49
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/lox-mode/
-  to /tmp/lox-modeoqBwIh/lox-mode-20200619.1700
+  to /tmp/lox-mode055rqv/lox-mode-20200619.1700
     lox-mode.el -> lox-mode.el
 Created lox-mode-20200619.1700.tar containing:
   lox-mode-20200619.1700/
   lox-mode-20200619.1700/lox-mode-pkg.el
   lox-mode-20200619.1700/lox-mode.el
  ✓ Success:
-  2025-07-14T01:53:36+0000  lox-mode-20200619.1700.entry
-  2025-07-14T01:53:36+0000  lox-mode-20200619.1700.tar
-Built lox-mode in 2.771s, finished at 2025-07-14T01:53:37+0000
+  2025-07-21T01:27:40+0000  lox-mode-20200619.1700.entry
+  2025-07-21T01:27:40+0000  lox-mode-20200619.1700.tar
+Built lox-mode in 2.913s, finished at 2025-07-21T01:27:41+0000

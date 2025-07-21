@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/abrochard/emacs-habitica
 
 Updating /mnt/store/melpa/working/habitica/
-Checking out ed123a2adf82f5e5ecb119a0a55c860f17906aad
+Checking out de82cd5a1283ae4035602a86b2c92dd23d467ccf
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/habitica/
-  to /tmp/habiticaklExyf/habitica-20250622.2058
+  to /tmp/habiticaFzmeGV/habitica-20250715.1113
     habitica.el -> habitica.el
-Created habitica-20250622.2058.tar containing:
-  habitica-20250622.2058/
-  habitica-20250622.2058/habitica-pkg.el
-  habitica-20250622.2058/habitica.el
+Created habitica-20250715.1113.tar containing:
+  habitica-20250715.1113/
+  habitica-20250715.1113/habitica-pkg.el
+  habitica-20250715.1113/habitica.el
  ✓ Success:
-  2025-07-14T01:42:27+0000  habitica-20250622.2058.entry
-  2025-07-14T01:42:26+0000  habitica-20250622.2058.tar
-Built habitica in 2.825s, finished at 2025-07-14T01:42:27+0000
+  2025-07-21T01:16:38+0000  habitica-20250715.1113.entry
+  2025-07-21T01:16:38+0000  habitica-20250715.1113.tar
+Built habitica in 3.010s, finished at 2025-07-21T01:16:39+0000

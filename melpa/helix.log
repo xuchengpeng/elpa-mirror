@@ -3,22 +3,22 @@ Fetcher: github
 Source:  https://github.com/mgmarlow/helix-mode
 
 Updating /mnt/store/melpa/working/helix/
-Checking out b3f8c18b5cff37571f9d6bc02e47c8da62296d85
+Checking out a2f5c8be273c3e22d6599ed8cd0ed6b9571e94dd
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/helix/
-  to /tmp/helixVmSnYu/helix-20250630.1623
+  to /tmp/helix4o5uY2/helix-20250716.2105
     helix-core.el -> helix-core.el
     helix-jj.el -> helix-jj.el
     helix-multiple-cursors.el -> helix-multiple-cursors.el
     helix.el -> helix.el
-Created helix-20250630.1623.tar containing:
-  helix-20250630.1623/
-  helix-20250630.1623/helix-core.el
-  helix-20250630.1623/helix-jj.el
-  helix-20250630.1623/helix-multiple-cursors.el
-  helix-20250630.1623/helix-pkg.el
-  helix-20250630.1623/helix.el
+Created helix-20250716.2105.tar containing:
+  helix-20250716.2105/
+  helix-20250716.2105/helix-core.el
+  helix-20250716.2105/helix-jj.el
+  helix-20250716.2105/helix-multiple-cursors.el
+  helix-20250716.2105/helix-pkg.el
+  helix-20250716.2105/helix.el
  ✓ Success:
-  2025-07-14T01:43:05+0000  helix-20250630.1623.entry
-  2025-07-14T01:43:05+0000  helix-20250630.1623.tar
-Built helix in 4.873s, finished at 2025-07-14T01:43:06+0000
+  2025-07-21T01:17:08+0000  helix-20250716.2105.entry
+  2025-07-21T01:17:08+0000  helix-20250716.2105.tar
+Built helix in 2.995s, finished at 2025-07-21T01:17:09+0000

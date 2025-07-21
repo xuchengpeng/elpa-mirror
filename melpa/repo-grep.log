@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/BHFock/repo-grep
 
 Updating /mnt/store/melpa/working/repo-grep/
-Checking out fd8a73c7854f1096848099ecec4ef4d7cea38bb7
+Checking out d2732d30eb9b2a5b4fc3359f40424bd4a4dc2d4d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/repo-grep/
-  to /tmp/repo-grepS5aCFP/repo-grep-20250706.1706
+  to /tmp/repo-grepiaBAJk/repo-grep-20250714.627
     repo-grep.el -> repo-grep.el
-Created repo-grep-20250706.1706.tar containing:
-  repo-grep-20250706.1706/
-  repo-grep-20250706.1706/repo-grep-pkg.el
-  repo-grep-20250706.1706/repo-grep.el
+Created repo-grep-20250714.627.tar containing:
+  repo-grep-20250714.627/
+  repo-grep-20250714.627/repo-grep-pkg.el
+  repo-grep-20250714.627/repo-grep.el
  ✓ Success:
-  2025-07-13T23:48:59+0000  repo-grep-20250706.1706.entry
-  2025-07-13T23:48:59+0000  repo-grep-20250706.1706.tar
-Built repo-grep in 4.975s, finished at 2025-07-13T23:49:01+0000
+  2025-07-21T01:46:48+0000  repo-grep-20250714.627.entry
+  2025-07-21T01:46:47+0000  repo-grep-20250714.627.tar
+Built repo-grep in 2.967s, finished at 2025-07-21T01:46:48+0000

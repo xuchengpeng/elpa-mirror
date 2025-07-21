@@ -3,26 +3,26 @@ Fetcher: github
 Source:  https://github.com/MatthewZMD/aidermacs
 
 Updating /mnt/store/melpa/working/aidermacs/
-Checking out 5084913506b8b243c732a77b6de4768f18edcff3
+Checking out 9d819c1041d564d1691d1887f378ffdb24091da0
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/aidermacs/
-  to /tmp/aidermacs8SvBFo/aidermacs-20250707.1832
+  to /tmp/aidermacsu5Nypc/aidermacs-20250720.1607
     aidermacs-backend-comint.el -> aidermacs-backend-comint.el
     aidermacs-backend-vterm.el -> aidermacs-backend-vterm.el
     aidermacs-backends.el -> aidermacs-backends.el
     aidermacs-models.el -> aidermacs-models.el
     aidermacs-output.el -> aidermacs-output.el
     aidermacs.el -> aidermacs.el
-Created aidermacs-20250707.1832.tar containing:
-  aidermacs-20250707.1832/
-  aidermacs-20250707.1832/aidermacs-backend-comint.el
-  aidermacs-20250707.1832/aidermacs-backend-vterm.el
-  aidermacs-20250707.1832/aidermacs-backends.el
-  aidermacs-20250707.1832/aidermacs-models.el
-  aidermacs-20250707.1832/aidermacs-output.el
-  aidermacs-20250707.1832/aidermacs-pkg.el
-  aidermacs-20250707.1832/aidermacs.el
+Created aidermacs-20250720.1607.tar containing:
+  aidermacs-20250720.1607/
+  aidermacs-20250720.1607/aidermacs-backend-comint.el
+  aidermacs-20250720.1607/aidermacs-backend-vterm.el
+  aidermacs-20250720.1607/aidermacs-backends.el
+  aidermacs-20250720.1607/aidermacs-models.el
+  aidermacs-20250720.1607/aidermacs-output.el
+  aidermacs-20250720.1607/aidermacs-pkg.el
+  aidermacs-20250720.1607/aidermacs.el
  ✓ Success:
-  2025-07-14T01:13:35+0000  aidermacs-20250707.1832.entry
-  2025-07-14T01:13:35+0000  aidermacs-20250707.1832.tar
-Built aidermacs in 3.655s, finished at 2025-07-14T01:13:36+0000
+  2025-07-21T00:47:18+0000  aidermacs-20250720.1607.entry
+  2025-07-21T00:47:18+0000  aidermacs-20250720.1607.tar
+Built aidermacs in 3.965s, finished at 2025-07-21T00:47:19+0000

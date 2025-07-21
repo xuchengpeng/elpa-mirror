@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/abrochard/mermaid-mode
 
 Updating /mnt/store/melpa/working/mermaid-mode/
-Checking out e74d4da7612c7a88e07f9dd3369e3b9fd36f396c
+Checking out 9535d513b41ed11bcd91f644815e2db6430c1560
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mermaid-mode/
-  to /tmp/mermaid-modeuCMnfE/mermaid-mode-20241213.1913
+  to /tmp/mermaid-modeWgWW0e/mermaid-mode-20250718.1858
     mermaid-mode.el -> mermaid-mode.el
-Created mermaid-mode-20241213.1913.tar containing:
-  mermaid-mode-20241213.1913/
-  mermaid-mode-20241213.1913/mermaid-mode-pkg.el
-  mermaid-mode-20241213.1913/mermaid-mode.el
+Created mermaid-mode-20250718.1858.tar containing:
+  mermaid-mode-20250718.1858/
+  mermaid-mode-20250718.1858/mermaid-mode-pkg.el
+  mermaid-mode-20250718.1858/mermaid-mode.el
  ✓ Success:
-  2025-07-14T01:56:05+0000  mermaid-mode-20241213.1913.entry
-  2025-07-14T01:56:04+0000  mermaid-mode-20241213.1913.tar
-Built mermaid-mode in 2.958s, finished at 2025-07-14T01:56:05+0000
+  2025-07-21T01:29:51+0000  mermaid-mode-20250718.1858.entry
+  2025-07-21T01:29:50+0000  mermaid-mode-20250718.1858.tar
+Built mermaid-mode in 2.785s, finished at 2025-07-21T01:29:51+0000

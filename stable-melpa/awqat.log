@@ -1,0 +1,18 @@
+Package: awqat
+Fetcher: github
+Source:  https://github.com/zkry/awqat
+
+Updating /mnt/store/melpa/working/awqat/
+Checking out 2bc2286669cb048dacf65ec14a2ac9b85add918f
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/awqat/
+  to /tmp/awqat6Onx2h/awqat-20250708.953
+    awqat.el -> awqat.el
+Created awqat-20250708.953.tar containing:
+  awqat-20250708.953/
+  awqat-20250708.953/awqat-pkg.el
+  awqat-20250708.953/awqat.el
+ ✓ Success:
+  2025-07-21T00:49:32+0000  awqat-20250708.953.entry
+  2025-07-21T00:49:32+0000  awqat-20250708.953.tar
+Built awqat in 3.112s, finished at 2025-07-21T00:49:33+0000

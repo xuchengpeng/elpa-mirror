@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/communinfo/
 Checking out 294aadda671ca53b802394e3bbb39a984a48bb2f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/communinfo/
-  to /tmp/communinfoo6QlKH/communinfo-20241126.2028
+  to /tmp/communinfoBa535q/communinfo-20241126.2028
     communinfo.el -> communinfo.el
 Created communinfo-20241126.2028.tar containing:
   communinfo-20241126.2028/
   communinfo-20241126.2028/communinfo-pkg.el
   communinfo-20241126.2028/communinfo.el
  ✓ Success:
-  2025-07-14T01:21:35+0000  communinfo-20241126.2028.entry
-  2025-07-14T01:21:35+0000  communinfo-20241126.2028.tar
-Built communinfo in 3.653s, finished at 2025-07-14T01:21:36+0000
+  2025-07-21T00:55:10+0000  communinfo-20241126.2028.entry
+  2025-07-21T00:55:10+0000  communinfo-20241126.2028.tar
+Built communinfo in 3.768s, finished at 2025-07-21T00:55:11+0000

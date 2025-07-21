@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/casual/
 Checking out a587b65b5e04003410610c1d264cf5f7d6bdf32a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/casual/
-  to /tmp/casualDNZ7vx/casual-20250709.1922
+  to /tmp/casualVWU4kl/casual-20250709.1922
   ! lisp/casual-agenda-settings.el -> casual-agenda-settings.el
   ! lisp/casual-agenda-utils.el -> casual-agenda-utils.el
   ! lisp/casual-agenda.el -> casual-agenda.el
@@ -87,6 +87,7 @@ Copying files (->) and directories (=>)
   ! lisp/casual-timezone.el -> casual-timezone.el
   ! lisp/casual.el -> casual.el
   ! docs/casual.info -> casual.info
+  ! docs/images => images
 Created casual-20250709.1922.tar containing:
   casual-20250709.1922/
   casual-20250709.1922/casual-agenda-settings.el
@@ -171,7 +172,75 @@ Created casual-20250709.1922.tar containing:
   casual-20250709.1922/casual.el
   casual-20250709.1922/casual.info
   casual-20250709.1922/dir
+  casual-20250709.1922/images/
+  casual-20250709.1922/images/bookmarks-main-menu.png
+  casual-20250709.1922/images/casual-agenda-almanac-screenshot.png
+  casual-20250709.1922/images/casual-agenda-mark-screenshot.png
+  casual-20250709.1922/images/casual-agenda-operations-screenshot.png
+  casual-20250709.1922/images/casual-agenda-screenshot.png
+  casual-20250709.1922/images/casual-agenda-settings-screenshot.png
+  casual-20250709.1922/images/casual-agenda-unicode-screenshot.png
+  casual-20250709.1922/images/casual-bookmarks-screenshot.png
+  casual-20250709.1922/images/casual-bookmarks-unicode-screenshot.png
+  casual-20250709.1922/images/casual-calc-tmenu.png
+  casual-20250709.1922/images/casual-calendar-calendars-menu.png
+  casual-20250709.1922/images/casual-calendar-diary-menu.png
+  casual-20250709.1922/images/casual-calendar-lunar-menu.png
+  casual-20250709.1922/images/casual-calendar-screenshot.png
+  casual-20250709.1922/images/casual-calendar-settings-menu.png
+  casual-20250709.1922/images/casual-dired-link.png
+  casual-20250709.1922/images/casual-dired-screenshot-unicode.png
+  casual-20250709.1922/images/casual-dired-screenshot.png
+  casual-20250709.1922/images/casual-dired-search-replace.png
+  casual-20250709.1922/images/casual-dired-settings-screenshot.png
+  casual-20250709.1922/images/casual-dired-sort-by-screenshot.png
+  casual-20250709.1922/images/casual-dired-utils-screenshot.png
+  casual-20250709.1922/images/casual-editkit-bookmarks-screenshot.png
+  casual-20250709.1922/images/casual-editkit-copy-screenshot.png
+  casual-20250709.1922/images/casual-editkit-delete-screenshot.png
+  casual-20250709.1922/images/casual-editkit-edit-screenshot.png
+  casual-20250709.1922/images/casual-editkit-emoji-symbols-screenshot.png
+  casual-20250709.1922/images/casual-editkit-kill-screenshot.png
+  casual-20250709.1922/images/casual-editkit-macro-screenshot.png
+  casual-20250709.1922/images/casual-editkit-main-screenshot.png
+  casual-20250709.1922/images/casual-editkit-mark-screenshot.png
+  casual-20250709.1922/images/casual-editkit-move-screenshot.png
+  casual-20250709.1922/images/casual-editkit-narrow-screenshot.png
+  casual-20250709.1922/images/casual-editkit-open-screenshot.png
+  casual-20250709.1922/images/casual-editkit-project-screenshot.png
+  casual-20250709.1922/images/casual-editkit-rectangle-screenshot.png
+  casual-20250709.1922/images/casual-editkit-reformat-screenshot.png
+  casual-20250709.1922/images/casual-editkit-registers-screenshot.png
+  casual-20250709.1922/images/casual-editkit-search-screenshot.png
+  casual-20250709.1922/images/casual-editkit-settings-screenshot.png
+  casual-20250709.1922/images/casual-editkit-sort-screenshot.png
+  casual-20250709.1922/images/casual-editkit-tools-screenshot.png
+  casual-20250709.1922/images/casual-editkit-transform-screenshot.png
+  casual-20250709.1922/images/casual-editkit-transpose-screenshot.png
+  casual-20250709.1922/images/casual-editkit-window-delete-screenshot.png
+  casual-20250709.1922/images/casual-editkit-window-screenshot.png
+  casual-20250709.1922/images/casual-editkit-window-unicode-screenshot.png
+  casual-20250709.1922/images/casual-eshell-process-screenshot.png
+  casual-20250709.1922/images/casual-eshell-screenshot.png
+  casual-20250709.1922/images/casual-help-screenshot.png
+  casual-20250709.1922/images/casual-ibuffer-filter-screenshot.png
+  casual-20250709.1922/images/casual-ibuffer-main-screenshot.png
+  casual-20250709.1922/images/casual-ibuffer-screenshot.png
+  casual-20250709.1922/images/casual-ibuffer-sortby-screenshot.png
+  casual-20250709.1922/images/casual-image-main-screenshot.png
+  casual-20250709.1922/images/casual-image-resize-screenshot.png
+  casual-20250709.1922/images/casual-info-screenshot.png
+  casual-20250709.1922/images/casual-isearch-tmenu.png
+  casual-20250709.1922/images/casual-make-automatic-variables-screenshot.png
+  casual-20250709.1922/images/casual-make-mode-select-screenshot.png
+  casual-20250709.1922/images/casual-make-screenshot.png
+  casual-20250709.1922/images/casual-man-screenshot.png
+  casual-20250709.1922/images/casual-man-settings.png
+  casual-20250709.1922/images/casual-re-builder-screenshot.png
+  casual-20250709.1922/images/casual-timezone-planner-screenshot.png
+  casual-20250709.1922/images/casual-timezone-tmenu-screenshot.png
+  casual-20250709.1922/images/default-yellow.png
  ✓ Success:
-  2025-07-14T01:18:55+0000  casual-20250709.1922.entry
-  2025-07-14T01:18:55+0000  casual-20250709.1922.tar
-Built casual in 5.027s, finished at 2025-07-14T01:18:56+0000
+  2025-07-21T00:52:44+0000  casual-20250709.1922.entry
+  2025-07-21T00:52:44+0000  casual-20250709.1922.tar
+Built casual in 6.439s, finished at 2025-07-21T00:52:45+0000
