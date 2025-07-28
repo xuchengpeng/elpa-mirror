@@ -3,10 +3,10 @@ Fetcher: github
 Source:  https://github.com/zkry/p-search
 
 Updating /mnt/store/melpa/working/p-search/
-Checking out ff9c1d928a9698193c2748577b0a45c2568faa90
+Checking out dfb8316db8b25a8e274f5c62fd7accc61d9814a9
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/p-search/
-  to /tmp/p-searchJ3DUjm/p-search-20250720.1109
+  to /tmp/p-searchx8aiXT/p-search-20250722.2048
     p-search-query.el -> p-search-query.el
     p-search-transient.el -> p-search-transient.el
     p-search.el -> p-search.el
@@ -21,22 +21,22 @@ Copying files (->) and directories (=>)
   ! extensions/p-search-x-package-list.el -> p-search-x-package-list.el
   ! extensions/p-search-x-pdfinfo.el -> p-search-x-pdfinfo.el
 Generating p-search.info
-Created p-search-20250720.1109.tar containing:
-  p-search-20250720.1109/
-  p-search-20250720.1109/dir
-  p-search-20250720.1109/p-search-pkg.el
-  p-search-20250720.1109/p-search-query.el
-  p-search-20250720.1109/p-search-transient.el
-  p-search-20250720.1109/p-search-x-bibtex.el
-  p-search-20250720.1109/p-search-x-denote.el
-  p-search-20250720.1109/p-search-x-elisp.el
-  p-search-20250720.1109/p-search-x-filesplit.el
-  p-search-20250720.1109/p-search-x-info.el
-  p-search-20250720.1109/p-search-x-package-list.el
-  p-search-20250720.1109/p-search-x-pdfinfo.el
-  p-search-20250720.1109/p-search.el
-  p-search-20250720.1109/p-search.info
+Created p-search-20250722.2048.tar containing:
+  p-search-20250722.2048/
+  p-search-20250722.2048/dir
+  p-search-20250722.2048/p-search-pkg.el
+  p-search-20250722.2048/p-search-query.el
+  p-search-20250722.2048/p-search-transient.el
+  p-search-20250722.2048/p-search-x-bibtex.el
+  p-search-20250722.2048/p-search-x-denote.el
+  p-search-20250722.2048/p-search-x-elisp.el
+  p-search-20250722.2048/p-search-x-filesplit.el
+  p-search-20250722.2048/p-search-x-info.el
+  p-search-20250722.2048/p-search-x-package-list.el
+  p-search-20250722.2048/p-search-x-pdfinfo.el
+  p-search-20250722.2048/p-search.el
+  p-search-20250722.2048/p-search.info
  ✓ Success:
-  2025-07-21T01:39:58+0000  p-search-20250720.1109.entry
-  2025-07-21T01:39:57+0000  p-search-20250720.1109.tar
-Built p-search in 5.438s, finished at 2025-07-21T01:39:58+0000
+  2025-07-28T01:04:54+0000  p-search-20250722.2048.entry
+  2025-07-28T01:04:54+0000  p-search-20250722.2048.tar
+Built p-search in 5.301s, finished at 2025-07-28T01:04:54+0000

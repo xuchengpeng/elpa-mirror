@@ -3,20 +3,20 @@ Fetcher: gitlab
 Source:  https://gitlab.com/worr/cfn-mode
 
 Updating /mnt/store/melpa/working/cfn-mode/
-Checking out 7cb7e4d30a863bd9fa5b11fba72925ea1809ec66
+Checking out 9c7bd6026a38246159b9c76f4b02a625188fef5c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/cfn-mode/
-  to /tmp/cfn-mode0Kv3DL/cfn-mode-20250720.807
+  to /tmp/cfn-mode0UgBNs/cfn-mode-20250727.807
   ! cfn-mode/cfn-mode.el -> cfn-mode.el
   ! cfn-mode/cfn-properties.dat -> cfn-properties.dat
   ! cfn-mode/cfn-resources.dat -> cfn-resources.dat
-Created cfn-mode-20250720.807.tar containing:
-  cfn-mode-20250720.807/
-  cfn-mode-20250720.807/cfn-mode-pkg.el
-  cfn-mode-20250720.807/cfn-mode.el
-  cfn-mode-20250720.807/cfn-properties.dat
-  cfn-mode-20250720.807/cfn-resources.dat
+Created cfn-mode-20250727.807.tar containing:
+  cfn-mode-20250727.807/
+  cfn-mode-20250727.807/cfn-mode-pkg.el
+  cfn-mode-20250727.807/cfn-mode.el
+  cfn-mode-20250727.807/cfn-properties.dat
+  cfn-mode-20250727.807/cfn-resources.dat
  ✓ Success:
-  2025-07-21T00:53:06+0000  cfn-mode-20250720.807.entry
-  2025-07-21T00:53:06+0000  cfn-mode-20250720.807.tar
-Built cfn-mode in 3.787s, finished at 2025-07-21T00:53:07+0000
+  2025-07-28T00:19:18+0000  cfn-mode-20250727.807.entry
+  2025-07-28T00:19:18+0000  cfn-mode-20250727.807.tar
+Built cfn-mode in 3.591s, finished at 2025-07-28T00:19:19+0000

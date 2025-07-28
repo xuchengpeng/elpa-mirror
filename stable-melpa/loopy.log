@@ -3,10 +3,10 @@ Fetcher: github
 Source:  https://github.com/okamsn/loopy
 
 Updating /mnt/store/melpa/working/loopy/
-Checking out 0f13d310c34b90ff0d82066120062dfff3db8f31
+Checking out 873ec3d2771d83de222832ef41d50f5b6ca6d756
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/loopy/
-  to /tmp/loopywX02xb/loopy-20250712.1917
+  to /tmp/loopyya8uQp/loopy-20250726.2037
   ! lisp/loopy-commands.el -> loopy-commands.el
   ! lisp/loopy-destructure.el -> loopy-destructure.el
   ! lisp/loopy-instrs.el -> loopy-instrs.el
@@ -18,21 +18,21 @@ Copying files (->) and directories (=>)
   ! lisp/loopy.el -> loopy.el
   ! doc/loopy.texi -> loopy.texi
 Generating loopy.info
-Created loopy-20250712.1917.tar containing:
-  loopy-20250712.1917/
-  loopy-20250712.1917/dir
-  loopy-20250712.1917/loopy-commands.el
-  loopy-20250712.1917/loopy-destructure.el
-  loopy-20250712.1917/loopy-instrs.el
-  loopy-20250712.1917/loopy-iter.el
-  loopy-20250712.1917/loopy-misc.el
-  loopy-20250712.1917/loopy-pcase.el
-  loopy-20250712.1917/loopy-pkg.el
-  loopy-20250712.1917/loopy-seq.el
-  loopy-20250712.1917/loopy-vars.el
-  loopy-20250712.1917/loopy.el
-  loopy-20250712.1917/loopy.info
+Created loopy-20250726.2037.tar containing:
+  loopy-20250726.2037/
+  loopy-20250726.2037/dir
+  loopy-20250726.2037/loopy-commands.el
+  loopy-20250726.2037/loopy-destructure.el
+  loopy-20250726.2037/loopy-instrs.el
+  loopy-20250726.2037/loopy-iter.el
+  loopy-20250726.2037/loopy-misc.el
+  loopy-20250726.2037/loopy-pcase.el
+  loopy-20250726.2037/loopy-pkg.el
+  loopy-20250726.2037/loopy-seq.el
+  loopy-20250726.2037/loopy-vars.el
+  loopy-20250726.2037/loopy.el
+  loopy-20250726.2037/loopy.info
  ✓ Success:
-  2025-07-21T01:27:43+0000  loopy-20250712.1917.entry
-  2025-07-21T01:27:43+0000  loopy-20250712.1917.tar
-Built loopy in 7.479s, finished at 2025-07-21T01:27:44+0000
+  2025-07-28T00:52:42+0000  loopy-20250726.2037.entry
+  2025-07-28T00:52:42+0000  loopy-20250726.2037.tar
+Built loopy in 7.140s, finished at 2025-07-28T00:52:43+0000

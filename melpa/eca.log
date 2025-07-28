@@ -3,26 +3,26 @@ Fetcher: github
 Source:  https://github.com/editor-code-assistant/eca-emacs
 
 Updating /mnt/store/melpa/working/eca/
-Checking out 8023dfe02da8b0295faf1d3744dfe525b985177b
+Checking out da060a0389d4680c3d8a86529cbc5c1ce96bfc3f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/eca/
-  to /tmp/ecaEQmRis/eca-20250715.1602
+  to /tmp/ecaeB6M9U/eca-20250727.1450
     eca-api.el -> eca-api.el
     eca-chat.el -> eca-chat.el
     eca-mcp.el -> eca-mcp.el
     eca-process.el -> eca-process.el
     eca-util.el -> eca-util.el
     eca.el -> eca.el
-Created eca-20250715.1602.tar containing:
-  eca-20250715.1602/
-  eca-20250715.1602/eca-api.el
-  eca-20250715.1602/eca-chat.el
-  eca-20250715.1602/eca-mcp.el
-  eca-20250715.1602/eca-pkg.el
-  eca-20250715.1602/eca-process.el
-  eca-20250715.1602/eca-util.el
-  eca-20250715.1602/eca.el
+Created eca-20250727.1450.tar containing:
+  eca-20250727.1450/
+  eca-20250727.1450/eca-api.el
+  eca-20250727.1450/eca-chat.el
+  eca-20250727.1450/eca-mcp.el
+  eca-20250727.1450/eca-pkg.el
+  eca-20250727.1450/eca-process.el
+  eca-20250727.1450/eca-util.el
+  eca-20250727.1450/eca.el
  ✓ Success:
-  2025-07-21T01:02:22+0000  eca-20250715.1602.entry
-  2025-07-21T01:02:22+0000  eca-20250715.1602.tar
-Built eca in 3.357s, finished at 2025-07-21T01:02:23+0000
+  2025-07-28T00:28:19+0000  eca-20250727.1450.entry
+  2025-07-28T00:28:19+0000  eca-20250727.1450.tar
+Built eca in 3.409s, finished at 2025-07-28T00:28:20+0000

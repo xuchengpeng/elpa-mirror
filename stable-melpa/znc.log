@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/znc/
 Checking out 2605f78e37a8a759067dc14fa25a82824ba1bacc
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/znc/
-  to /tmp/zncDm1zsr/znc-20210803.159
+  to /tmp/zncvNzfYT/znc-20210803.159
     znc.el -> znc.el
 Created znc-20210803.159.tar containing:
   znc-20210803.159/
   znc-20210803.159/znc-pkg.el
   znc-20210803.159/znc.el
  ✓ Success:
-  2025-07-21T02:02:17+0000  znc-20210803.159.entry
-  2025-07-21T02:02:17+0000  znc-20210803.159.tar
-Built znc in 3.024s, finished at 2025-07-21T02:02:18+0000
+  2025-07-28T01:26:34+0000  znc-20210803.159.entry
+  2025-07-28T01:26:34+0000  znc-20210803.159.tar
+Built znc in 6.453s, finished at 2025-07-28T01:26:36+0000

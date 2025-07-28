@@ -3,22 +3,22 @@ Fetcher: github
 Source:  https://github.com/ruediger/weather-metno-el
 
 Updating /mnt/store/melpa/working/weather-metno/
-Checking out 58b3aa479d85b4b38eb233ac2fbac40faf906f4c
+Checking out 00eab9a9486e192917238145a4f2505d17fad77a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/weather-metno/
-  to /tmp/weather-metnoo9MfXC/weather-metno-20230129.1540
+  to /tmp/weather-metnoEdCoqv/weather-metno-20250727.1642
     org-weather-metno.el -> org-weather-metno.el
     weather-metno-mode-line.el -> weather-metno-mode-line.el
     weather-metno-query.el -> weather-metno-query.el
     weather-metno.el -> weather-metno.el
-Created weather-metno-20230129.1540.tar containing:
-  weather-metno-20230129.1540/
-  weather-metno-20230129.1540/org-weather-metno.el
-  weather-metno-20230129.1540/weather-metno-mode-line.el
-  weather-metno-20230129.1540/weather-metno-pkg.el
-  weather-metno-20230129.1540/weather-metno-query.el
-  weather-metno-20230129.1540/weather-metno.el
+Created weather-metno-20250727.1642.tar containing:
+  weather-metno-20250727.1642/
+  weather-metno-20250727.1642/org-weather-metno.el
+  weather-metno-20250727.1642/weather-metno-mode-line.el
+  weather-metno-20250727.1642/weather-metno-pkg.el
+  weather-metno-20250727.1642/weather-metno-query.el
+  weather-metno-20250727.1642/weather-metno.el
  ✓ Success:
-  2025-07-21T01:59:17+0000  weather-metno-20230129.1540.entry
-  2025-07-21T01:59:17+0000  weather-metno-20230129.1540.tar
-Built weather-metno in 3.334s, finished at 2025-07-21T01:59:18+0000
+  2025-07-28T01:23:39+0000  weather-metno-20250727.1642.entry
+  2025-07-28T01:23:39+0000  weather-metno-20250727.1642.tar
+Built weather-metno in 3.323s, finished at 2025-07-28T01:23:40+0000

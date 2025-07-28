@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/minitest/
 Checking out 9a7333180862c7a164d33e15056c90952944a9f8
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/minitest/
-  to /tmp/minitestYtLpce/minitest-20250713.401
+  to /tmp/minitest89hUa4/minitest-20250713.401
     minitest.el -> minitest.el
     snippets => snippets
 Created minitest-20250713.401.tar containing:
@@ -88,6 +88,6 @@ Created minitest-20250713.401.tar containing:
   minitest-20250713.401/snippets/minitest-mode/skip
   minitest-20250713.401/snippets/minitest-mode/skip_p
  ✓ Success:
-  2025-07-21T01:30:24+0000  minitest-20250713.401.entry
-  2025-07-21T01:30:24+0000  minitest-20250713.401.tar
-Built minitest in 4.391s, finished at 2025-07-21T01:30:25+0000
+  2025-07-28T00:55:19+0000  minitest-20250713.401.entry
+  2025-07-28T00:55:19+0000  minitest-20250713.401.tar
+Built minitest in 4.301s, finished at 2025-07-28T00:55:20+0000

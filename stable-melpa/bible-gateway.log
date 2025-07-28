@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/kristjoc/bible-gateway
 
 Updating /mnt/store/melpa/working/bible-gateway/
-Checking out c30789af353e37569e3dae7c910f3684320f8d8e
+Checking out af47d7247916727107298f6ee1e5c678ec000fc5
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/bible-gateway/
-  to /tmp/bible-gatewayQyvM4E/bible-gateway-20250605.905
+  to /tmp/bible-gatewayXNEndX/bible-gateway-20250724.849
     bible-gateway.el -> bible-gateway.el
-Created bible-gateway-20250605.905.tar containing:
-  bible-gateway-20250605.905/
-  bible-gateway-20250605.905/bible-gateway-pkg.el
-  bible-gateway-20250605.905/bible-gateway.el
+Created bible-gateway-20250724.849.tar containing:
+  bible-gateway-20250724.849/
+  bible-gateway-20250724.849/bible-gateway-pkg.el
+  bible-gateway-20250724.849/bible-gateway.el
  ✓ Success:
-  2025-07-21T00:50:24+0000  bible-gateway-20250605.905.entry
-  2025-07-21T00:50:24+0000  bible-gateway-20250605.905.tar
-Built bible-gateway in 3.424s, finished at 2025-07-21T00:50:25+0000
+  2025-07-28T00:16:40+0000  bible-gateway-20250724.849.entry
+  2025-07-28T00:16:40+0000  bible-gateway-20250724.849.tar
+Built bible-gateway in 2.644s, finished at 2025-07-28T00:16:41+0000

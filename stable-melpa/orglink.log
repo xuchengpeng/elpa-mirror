@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/tarsius/orglink
 
 Updating /mnt/store/melpa/working/orglink/
-Checking out 1df4181ae33dc470ba0cbfa0f8f9efd2a6fec6d9
+Checking out 5428ff6358211f7bb5b2dd16f97f47dc86e89320
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/orglink/
-  to /tmp/orglink5FyMaA/orglink-20250531.2228
+  to /tmp/orglinkO5svFn/orglink-20250721.601
     orglink.el -> orglink.el
-Created orglink-20250531.2228.tar containing:
-  orglink-20250531.2228/
-  orglink-20250531.2228/orglink-pkg.el
-  orglink-20250531.2228/orglink.el
+Created orglink-20250721.601.tar containing:
+  orglink-20250721.601/
+  orglink-20250721.601/orglink-pkg.el
+  orglink-20250721.601/orglink.el
  ✓ Success:
-  2025-07-21T01:38:50+0000  orglink-20250531.2228.entry
-  2025-07-21T01:38:50+0000  orglink-20250531.2228.tar
-Built orglink in 3.067s, finished at 2025-07-21T01:38:51+0000
+  2025-07-28T01:03:42+0000  orglink-20250721.601.entry
+  2025-07-28T01:03:42+0000  orglink-20250721.601.tar
+Built orglink in 4.727s, finished at 2025-07-28T01:03:43+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/morlock/
 Checking out d66b4d4e7f2239c2b4fc6e3ad19aa9ea7b3037c5
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/morlock/
-  to /tmp/morlockz3MKgL/morlock-20250531.2221
+  to /tmp/morlocknBgums/morlock-20250531.2221
     morlock.el -> morlock.el
 Created morlock-20250531.2221.tar containing:
   morlock-20250531.2221/
   morlock-20250531.2221/morlock-pkg.el
   morlock-20250531.2221/morlock.el
  ✓ Success:
-  2025-07-21T01:31:12+0000  morlock-20250531.2221.entry
-  2025-07-21T01:31:12+0000  morlock-20250531.2221.tar
-Built morlock in 2.996s, finished at 2025-07-21T01:31:13+0000
+  2025-07-28T00:56:17+0000  morlock-20250531.2221.entry
+  2025-07-28T00:56:17+0000  morlock-20250531.2221.tar
+Built morlock in 2.666s, finished at 2025-07-28T00:56:18+0000

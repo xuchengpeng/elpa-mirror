@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/tarsius/hl-todo
 
 Updating /mnt/store/melpa/working/hl-todo/
-Checking out 7ed8bbcadb5229d648b194e0e4c4d261825aa91b
+Checking out b83a7b57bc9e380f0a38efc47a1c52c58a9492a0
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/hl-todo/
-  to /tmp/hl-todoX1o2VB/hl-todo-20250531.2218
+  to /tmp/hl-todoIpjhfo/hl-todo-20250721.559
     hl-todo.el -> hl-todo.el
-Created hl-todo-20250531.2218.tar containing:
-  hl-todo-20250531.2218/
-  hl-todo-20250531.2218/hl-todo-pkg.el
-  hl-todo-20250531.2218/hl-todo.el
+Created hl-todo-20250721.559.tar containing:
+  hl-todo-20250721.559/
+  hl-todo-20250721.559/hl-todo-pkg.el
+  hl-todo-20250721.559/hl-todo.el
  ✓ Success:
-  2025-07-21T01:19:43+0000  hl-todo-20250531.2218.entry
-  2025-07-21T01:19:43+0000  hl-todo-20250531.2218.tar
-Built hl-todo in 2.961s, finished at 2025-07-21T01:19:44+0000
+  2025-07-28T00:44:44+0000  hl-todo-20250721.559.entry
+  2025-07-28T00:44:44+0000  hl-todo-20250721.559.tar
+Built hl-todo in 2.756s, finished at 2025-07-28T00:44:45+0000

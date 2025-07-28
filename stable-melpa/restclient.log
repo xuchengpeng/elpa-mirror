@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/restclient/
 Checking out 0d5056ff5495a22460b8879f714c99041acc84a9
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/restclient/
-  to /tmp/restclientJO4bD2/restclient-20250719.2226
+  to /tmp/restclientKhN4Vv/restclient-20250719.2226
     restclient.el -> restclient.el
 Created restclient-20250719.2226.tar containing:
   restclient-20250719.2226/
   restclient-20250719.2226/restclient-pkg.el
   restclient-20250719.2226/restclient.el
  ✓ Success:
-  2025-07-21T01:46:55+0000  restclient-20250719.2226.entry
-  2025-07-21T01:46:55+0000  restclient-20250719.2226.tar
-Built restclient in 2.811s, finished at 2025-07-21T01:46:56+0000
+  2025-07-28T01:11:30+0000  restclient-20250719.2226.entry
+  2025-07-28T01:11:30+0000  restclient-20250719.2226.tar
+Built restclient in 2.655s, finished at 2025-07-28T01:11:31+0000

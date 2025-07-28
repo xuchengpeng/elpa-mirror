@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/linkode/
 Checking out 5152aa3ba7a4360133efd5892f0891837af30440
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/linkode/
-  to /tmp/linkodeCXgODp/linkode-20240604.53
+  to /tmp/linkodehlyZAf/linkode-20240604.53
     linkode.el -> linkode.el
 Created linkode-20240604.53.tar containing:
   linkode-20240604.53/
   linkode-20240604.53/linkode-pkg.el
   linkode-20240604.53/linkode.el
  ✓ Success:
-  2025-07-21T01:26:48+0000  linkode-20240604.53.entry
-  2025-07-21T01:26:48+0000  linkode-20240604.53.tar
-Built linkode in 3.168s, finished at 2025-07-21T01:26:49+0000
+  2025-07-28T00:51:31+0000  linkode-20240604.53.entry
+  2025-07-28T00:51:31+0000  linkode-20240604.53.tar
+Built linkode in 3.328s, finished at 2025-07-28T00:51:32+0000

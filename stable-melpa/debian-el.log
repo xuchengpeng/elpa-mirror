@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/debian-el/
 Checking out ce6df85ee3c4220aedbaecdb6d623fb7b0707b21
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/debian-el/
-  to /tmp/debian-eluUU9rr/debian-el-20250411.2043
+  to /tmp/debian-elsPC67m/debian-el-20250411.2043
     apt-deb822-sources.el -> apt-deb822-sources.el
     apt-sources.el -> apt-sources.el
     apt-utils.el -> apt-utils.el
@@ -33,6 +33,6 @@ Created debian-el-20250411.2043.tar containing:
   debian-el-20250411.2043/gnus-BTS.el
   debian-el-20250411.2043/preseed.el
  ✓ Success:
-  2025-07-21T00:59:01+0000  debian-el-20250411.2043.entry
-  2025-07-21T00:59:01+0000  debian-el-20250411.2043.tar
-Built debian-el in 5.592s, finished at 2025-07-21T00:59:02+0000
+  2025-07-28T00:25:01+0000  debian-el-20250411.2043.entry
+  2025-07-28T00:25:01+0000  debian-el-20250411.2043.tar
+Built debian-el in 9.028s, finished at 2025-07-28T00:25:03+0000

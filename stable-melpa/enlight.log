@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/enlight/
 Checking out 5194c1a4f4c245a1ef544205d723381fac30414b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/enlight/
-  to /tmp/enlightS9JF8G/enlight-20240602.2025
+  to /tmp/enlightHI3RET/enlight-20240602.2025
     enlight-menu.el -> enlight-menu.el
     enlight.el -> enlight.el
 Created enlight-20240602.2025.tar containing:
@@ -15,6 +15,6 @@ Created enlight-20240602.2025.tar containing:
   enlight-20240602.2025/enlight-pkg.el
   enlight-20240602.2025/enlight.el
  ✓ Success:
-  2025-07-21T01:05:15+0000  enlight-20240602.2025.entry
-  2025-07-21T01:05:15+0000  enlight-20240602.2025.tar
-Built enlight in 3.059s, finished at 2025-07-21T01:05:16+0000
+  2025-07-28T00:31:05+0000  enlight-20240602.2025.entry
+  2025-07-28T00:31:05+0000  enlight-20240602.2025.tar
+Built enlight in 2.927s, finished at 2025-07-28T00:31:05+0000

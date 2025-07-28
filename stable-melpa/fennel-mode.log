@@ -3,26 +3,26 @@ Fetcher: sourcehut
 Source:  https://git.sr.ht/~technomancy/fennel-mode
 
 Updating /mnt/store/melpa/working/fennel-mode/
-Checking out 2f61376ad6c92acbb264a37678609c213a6cecfe
+Checking out a1ad6354b7c66bfa43f5bf117cf4e41bc33da64c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/fennel-mode/
-  to /tmp/fennel-modeMpLOeM/fennel-mode-20250518.1250
+  to /tmp/fennel-modeu1dRYz/fennel-mode-20250725.200
     antifennel.el -> antifennel.el
     fennel-ls-flymake.el -> fennel-ls-flymake.el
     fennel-mode.el -> fennel-mode.el
     fennel-proto-repl.el -> fennel-proto-repl.el
     fennel-scratch.el -> fennel-scratch.el
     ob-fennel.el -> ob-fennel.el
-Created fennel-mode-20250518.1250.tar containing:
-  fennel-mode-20250518.1250/
-  fennel-mode-20250518.1250/antifennel.el
-  fennel-mode-20250518.1250/fennel-ls-flymake.el
-  fennel-mode-20250518.1250/fennel-mode-pkg.el
-  fennel-mode-20250518.1250/fennel-mode.el
-  fennel-mode-20250518.1250/fennel-proto-repl.el
-  fennel-mode-20250518.1250/fennel-scratch.el
-  fennel-mode-20250518.1250/ob-fennel.el
+Created fennel-mode-20250725.200.tar containing:
+  fennel-mode-20250725.200/
+  fennel-mode-20250725.200/antifennel.el
+  fennel-mode-20250725.200/fennel-ls-flymake.el
+  fennel-mode-20250725.200/fennel-mode-pkg.el
+  fennel-mode-20250725.200/fennel-mode.el
+  fennel-mode-20250725.200/fennel-proto-repl.el
+  fennel-mode-20250725.200/fennel-scratch.el
+  fennel-mode-20250725.200/ob-fennel.el
  ✓ Success:
-  2025-07-21T01:08:37+0000  fennel-mode-20250518.1250.entry
-  2025-07-21T01:08:37+0000  fennel-mode-20250518.1250.tar
-Built fennel-mode in 6.191s, finished at 2025-07-21T01:08:38+0000
+  2025-07-28T00:34:17+0000  fennel-mode-20250725.200.entry
+  2025-07-28T00:34:17+0000  fennel-mode-20250725.200.tar
+Built fennel-mode in 4.283s, finished at 2025-07-28T00:34:18+0000

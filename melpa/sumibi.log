@@ -3,18 +3,18 @@ Fetcher: github
 Source:  https://github.com/kiyoka/Sumibi
 
 Updating /mnt/store/melpa/working/sumibi/
-Checking out 4778d1010003cbd009bd5bc2595fdf394483a87a
+Checking out 648148756a5f07a6eb43035773422c482654f80f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/sumibi/
-  to /tmp/sumibiJsgGU6/sumibi-20250710.1252
+  to /tmp/sumibi8LZI98/sumibi-20250722.1217
   ! lisp/sumibi-localdic.el -> sumibi-localdic.el
   ! lisp/sumibi.el -> sumibi.el
-Created sumibi-20250710.1252.tar containing:
-  sumibi-20250710.1252/
-  sumibi-20250710.1252/sumibi-localdic.el
-  sumibi-20250710.1252/sumibi-pkg.el
-  sumibi-20250710.1252/sumibi.el
+Created sumibi-20250722.1217.tar containing:
+  sumibi-20250722.1217/
+  sumibi-20250722.1217/sumibi-localdic.el
+  sumibi-20250722.1217/sumibi-pkg.el
+  sumibi-20250722.1217/sumibi.el
  ✓ Success:
-  2025-07-21T01:53:10+0000  sumibi-20250710.1252.entry
-  2025-07-21T01:53:10+0000  sumibi-20250710.1252.tar
-Built sumibi in 6.120s, finished at 2025-07-21T01:53:11+0000
+  2025-07-28T01:17:38+0000  sumibi-20250722.1217.entry
+  2025-07-28T01:17:38+0000  sumibi-20250722.1217.tar
+Built sumibi in 6.034s, finished at 2025-07-28T01:17:39+0000

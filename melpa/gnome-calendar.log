@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/gnome-calendar/
 Checking out 668591bec95c23934c5e1ef100cec4824e7cb25d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/gnome-calendar/
-  to /tmp/gnome-calendarEr5N6w/gnome-calendar-20161110.1256
+  to /tmp/gnome-calendarjBKyS5/gnome-calendar-20161110.1256
     gnome-calendar.el -> gnome-calendar.el
 Created gnome-calendar-20161110.1256.tar containing:
   gnome-calendar-20161110.1256/
   gnome-calendar-20161110.1256/gnome-calendar-pkg.el
   gnome-calendar-20161110.1256/gnome-calendar.el
  ✓ Success:
-  2025-07-21T01:14:25+0000  gnome-calendar-20161110.1256.entry
-  2025-07-21T01:14:25+0000  gnome-calendar-20161110.1256.tar
-Built gnome-calendar in 5.938s, finished at 2025-07-21T01:14:27+0000
+  2025-07-28T00:39:47+0000  gnome-calendar-20161110.1256.entry
+  2025-07-28T00:39:47+0000  gnome-calendar-20161110.1256.tar
+Built gnome-calendar in 2.544s, finished at 2025-07-28T00:39:48+0000

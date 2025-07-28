@@ -950,16 +950,16 @@
 		(:url . "https://elpa.gnu.org/packages/cursor-undo.html")
 		(:commit . "e82084c3d491ff7199e14cc8da69c250b9bda492"))])
  (cursory .
-	  [(1 1 0)
+	  [(1 2 0)
 	   ((emacs
-	     (27 1)))
+	     (29 1)))
 	   "Manage cursor styles using presets" tar
 	   ((:url . "https://github.com/protesilaos/cursory")
 	    (:keywords "convenience" "cursor")
 	    (:maintainer "Protesilaos Stavrou" . "info@protesilaos.com")
 	    (:authors
 	     ("Protesilaos Stavrou" . "info@protesilaos.com"))
-	    (:commit . "9c5bb8122d5780796b881da6d37442e532ba6c51"))])
+	    (:commit . "892c3b81037ece0e1753ab058e3cfda93f985693"))])
  (cycle-quotes .
 	       [(0 1)
 		nil "Cycle between quote styles" tar
@@ -2993,7 +2993,7 @@
 	    (:url . "https://elpa.gnu.org/packages/minimap.html")
 	    (:commit . "2ff29c5d6abae3637d6174d889f39745fcd13fa5"))])
  (minuet .
-	 [(0 5 4)
+	 [(0 5 5)
 	  ((emacs
 	    (29))
 	   (plz
@@ -3005,7 +3005,7 @@
 	   (:maintainer "Milan Glacier" . "dev@milanglacier.com")
 	   (:authors
 	    ("Milan Glacier" . "dev@milanglacier.com"))
-	   (:commit . "8e4075713885f7ec7253936e3e74c7860ce7f77f"))])
+	   (:commit . "b0dc9a068feaf34434e8fe0566725d19ed3b2f33"))])
  (mmm-mode .
 	   [(0 5 11)
 	    ((emacs
@@ -3298,7 +3298,7 @@
 	       ("Omar Antolín Camarena" . "omar@matem.unam.mx"))
 	      (:commit . "254f2412489bbbf62700f9d3d5f18e537841dcc3"))])
  (org .
-      [(9 7 32)
+      [(9 7 33)
        ((emacs
 	 (26 1)))
        "Outline-based notes management and organizer" tar
@@ -3307,7 +3307,7 @@
 	(:maintainer "Ihor Radchenko" . "yantar92@posteo.net")
 	(:authors
 	 ("Carsten Dominik" . "carsten.dominik@gmail.com"))
-	(:commit . "4438cb3b1a65826e625a2c1144176092a167183e"))])
+	(:commit . "aec572a65777f61536fe2637a7de5ddac4274006"))])
  (org-contacts .
 	       [(1 1)
 		((emacs
@@ -5066,6 +5066,20 @@
 	  (:authors
 	   ("Justin Burkett" . "justin@burkett.cc"))
 	  (:commit . "007e44be19d068fd6b49874b6e9b8df8b1f552bd"))])
+ (vecdb .
+	[(0 2)
+	 ((emacs
+	   (29 1))
+	  (plz
+	   (0 8))
+	  (pg
+	   (0 56)))
+	 "An interface to vector databases for embeddings" tar
+	 ((:url . "https://github.com/ahyatt/vecdb")
+	  (:maintainer "Andrew Hyatt" . "ahyatt@gmail.com")
+	  (:authors
+	   ("Andrew Hyatt" . "ahyatt@gmail.com"))
+	  (:commit . "e89d5a9a3abb6b1c0a72dbe2849ee8193a3c4019"))])
  (verilog-mode .
 	       [(2025 1 1 100165202)
 		nil "major mode for editing verilog source in Emacs" tar

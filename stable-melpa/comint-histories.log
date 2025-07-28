@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/comint-histories/
 Checking out 100173efba855e66e0a9596135f88820501125b9
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/comint-histories/
-  to /tmp/comint-historiesPVLE7f/comint-histories-20250319.1602
+  to /tmp/comint-historiesFm4zkI/comint-histories-20250319.1602
     comint-histories.el -> comint-histories.el
 Created comint-histories-20250319.1602.tar containing:
   comint-histories-20250319.1602/
   comint-histories-20250319.1602/comint-histories-pkg.el
   comint-histories-20250319.1602/comint-histories.el
  ✓ Success:
-  2025-07-21T00:54:59+0000  comint-histories-20250319.1602.entry
-  2025-07-21T00:54:59+0000  comint-histories-20250319.1602.tar
-Built comint-histories in 2.988s, finished at 2025-07-21T00:55:00+0000
+  2025-07-28T00:21:07+0000  comint-histories-20250319.1602.entry
+  2025-07-28T00:21:07+0000  comint-histories-20250319.1602.tar
+Built comint-histories in 2.895s, finished at 2025-07-28T00:21:08+0000

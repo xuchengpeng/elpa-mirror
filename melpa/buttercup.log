@@ -3,22 +3,22 @@ Fetcher: github
 Source:  https://github.com/jorgenschaefer/emacs-buttercup
 
 Updating /mnt/store/melpa/working/buttercup/
-Checking out c467c659b2c5b7029e20909331e072d7301af1d5
+Checking out d9b22e69550cbffd3d19c56ba661583ccbef8219
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/buttercup/
-  to /tmp/buttercupqgPwfB/buttercup-20250216.2315
+  to /tmp/buttercupNTOy1u/buttercup-20250727.2047
     buttercup-compat.el -> buttercup-compat.el
     buttercup.el -> buttercup.el
     bin => bin
-Created buttercup-20250216.2315.tar containing:
-  buttercup-20250216.2315/
-  buttercup-20250216.2315/bin/
-  buttercup-20250216.2315/bin/buttercup
-  buttercup-20250216.2315/bin/buttercup.bat
-  buttercup-20250216.2315/buttercup-compat.el
-  buttercup-20250216.2315/buttercup-pkg.el
-  buttercup-20250216.2315/buttercup.el
+Created buttercup-20250727.2047.tar containing:
+  buttercup-20250727.2047/
+  buttercup-20250727.2047/bin/
+  buttercup-20250727.2047/bin/buttercup
+  buttercup-20250727.2047/bin/buttercup.bat
+  buttercup-20250727.2047/buttercup-compat.el
+  buttercup-20250727.2047/buttercup-pkg.el
+  buttercup-20250727.2047/buttercup.el
  ✓ Success:
-  2025-07-21T00:52:08+0000  buttercup-20250216.2315.entry
-  2025-07-21T00:52:08+0000  buttercup-20250216.2315.tar
-Built buttercup in 4.347s, finished at 2025-07-21T00:52:08+0000
+  2025-07-28T00:18:15+0000  buttercup-20250727.2047.entry
+  2025-07-28T00:18:15+0000  buttercup-20250727.2047.tar
+Built buttercup in 5.657s, finished at 2025-07-28T00:18:16+0000

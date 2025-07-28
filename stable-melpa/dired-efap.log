@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/juan-leon/dired-efap
 
 Updating /mnt/store/melpa/working/dired-efap/
-Checking out 360b369cb19998c6730ee1debfbec3edb7f349a9
+Checking out 34afe56327e26b90634e054e3b38e69c82f833bd
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/dired-efap/
-  to /tmp/dired-efapJDH4N4/dired-efap-20220421.1535
+  to /tmp/dired-efapCEtmsH/dired-efap-20250726.1400
     dired-efap.el -> dired-efap.el
-Created dired-efap-20220421.1535.tar containing:
-  dired-efap-20220421.1535/
-  dired-efap-20220421.1535/dired-efap-pkg.el
-  dired-efap-20220421.1535/dired-efap.el
+Created dired-efap-20250726.1400.tar containing:
+  dired-efap-20250726.1400/
+  dired-efap-20250726.1400/dired-efap-pkg.el
+  dired-efap-20250726.1400/dired-efap.el
  ✓ Success:
-  2025-07-21T01:00:01+0000  dired-efap-20220421.1535.entry
-  2025-07-21T01:00:01+0000  dired-efap-20220421.1535.tar
-Built dired-efap in 3.608s, finished at 2025-07-21T01:00:03+0000
+  2025-07-28T00:26:11+0000  dired-efap-20250726.1400.entry
+  2025-07-28T00:26:11+0000  dired-efap-20250726.1400.tar
+Built dired-efap in 2.943s, finished at 2025-07-28T00:26:12+0000
