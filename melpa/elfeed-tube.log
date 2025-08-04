@@ -3,20 +3,20 @@ Fetcher: github
 Source:  https://github.com/karthink/elfeed-tube
 
 Updating /mnt/store/melpa/working/elfeed-tube/
-Checking out f4a84fa259472b217d7e3ce18c816626d397ba92
+Checking out 307bcfb30b7c14b110da6f64431ad91ded92905b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/elfeed-tube/
-  to /tmp/elfeed-tube5nTDzV/elfeed-tube-20250718.2307
+  to /tmp/elfeed-tubecKFDVg/elfeed-tube-20250801.1813
     elfeed-tube.el -> elfeed-tube.el
     elfeed-tube-utils.el -> elfeed-tube-utils.el
     elfeed-tube-fill.el -> elfeed-tube-fill.el
-Created elfeed-tube-20250718.2307.tar containing:
-  elfeed-tube-20250718.2307/
-  elfeed-tube-20250718.2307/elfeed-tube-fill.el
-  elfeed-tube-20250718.2307/elfeed-tube-pkg.el
-  elfeed-tube-20250718.2307/elfeed-tube-utils.el
-  elfeed-tube-20250718.2307/elfeed-tube.el
+Created elfeed-tube-20250801.1813.tar containing:
+  elfeed-tube-20250801.1813/
+  elfeed-tube-20250801.1813/elfeed-tube-fill.el
+  elfeed-tube-20250801.1813/elfeed-tube-pkg.el
+  elfeed-tube-20250801.1813/elfeed-tube-utils.el
+  elfeed-tube-20250801.1813/elfeed-tube.el
  ✓ Success:
-  2025-07-28T00:29:52+0000  elfeed-tube-20250718.2307.entry
-  2025-07-28T00:29:51+0000  elfeed-tube-20250718.2307.tar
-Built elfeed-tube in 3.650s, finished at 2025-07-28T00:29:52+0000
+  2025-08-04T02:12:38+0000  elfeed-tube-20250801.1813.entry
+  2025-08-04T02:12:38+0000  elfeed-tube-20250801.1813.tar
+Built elfeed-tube in 3.195s, finished at 2025-08-04T02:12:39+0000

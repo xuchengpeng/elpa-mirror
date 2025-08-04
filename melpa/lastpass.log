@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/lastpass/
 Checking out 2366de7824b6c5f8e9ec6811d219dc06794e8630
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/lastpass/
-  to /tmp/lastpassj4XF4r/lastpass-20201229.2109
+  to /tmp/lastpassTGQtAc/lastpass-20201229.2109
     lastpass.el -> lastpass.el
 Created lastpass-20201229.2109.tar containing:
   lastpass-20201229.2109/
   lastpass-20201229.2109/lastpass-pkg.el
   lastpass-20201229.2109/lastpass.el
  ✓ Success:
-  2025-07-28T00:50:39+0000  lastpass-20201229.2109.entry
-  2025-07-28T00:50:39+0000  lastpass-20201229.2109.tar
-Built lastpass in 3.197s, finished at 2025-07-28T00:50:40+0000
+  2025-08-04T00:15:52+0000  lastpass-20201229.2109.entry
+  2025-08-04T00:15:52+0000  lastpass-20201229.2109.tar
+Built lastpass in 3.231s, finished at 2025-08-04T00:15:53+0000

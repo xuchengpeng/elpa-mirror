@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/redis/
 Checking out 84382456beae70677aed2f9558a0b446f8ccc17a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/redis/
-  to /tmp/redisPi7AQ9/redis-20231111.1733
+  to /tmp/redisIWX4mC/redis-20231111.1733
     redis.el -> redis.el
 Created redis-20231111.1733.tar containing:
   redis-20231111.1733/
   redis-20231111.1733/redis-pkg.el
   redis-20231111.1733/redis.el
  ✓ Success:
-  2025-07-28T01:10:58+0000  redis-20231111.1733.entry
-  2025-07-28T01:10:58+0000  redis-20231111.1733.tar
-Built redis in 2.862s, finished at 2025-07-28T01:10:59+0000
+  2025-08-04T00:35:59+0000  redis-20231111.1733.entry
+  2025-08-04T00:35:59+0000  redis-20231111.1733.tar
+Built redis in 2.918s, finished at 2025-08-04T00:36:00+0000

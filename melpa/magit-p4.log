@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/magit-p4/
 Checking out 53b077672b05216c7f164b86514c3ee0d6dd7e90
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/magit-p4/
-  to /tmp/magit-p4vLIyti/magit-p4-20250519.522
+  to /tmp/magit-p4tRcFOQ/magit-p4-20250519.522
     magit-p4.el -> magit-p4.el
 Created magit-p4-20250519.522.tar containing:
   magit-p4-20250519.522/
   magit-p4-20250519.522/magit-p4-pkg.el
   magit-p4-20250519.522/magit-p4.el
  ✓ Success:
-  2025-07-28T00:53:33+0000  magit-p4-20250519.522.entry
-  2025-07-28T00:53:33+0000  magit-p4-20250519.522.tar
-Built magit-p4 in 3.261s, finished at 2025-07-28T00:53:34+0000
+  2025-08-04T00:18:41+0000  magit-p4-20250519.522.entry
+  2025-08-04T00:18:41+0000  magit-p4-20250519.522.tar
+Built magit-p4 in 3.347s, finished at 2025-08-04T00:18:42+0000

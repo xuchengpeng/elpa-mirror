@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/speed-type/
 Checking out 716f1c32a22dc6dcc0a33874facd0fbc033de52a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/speed-type/
-  to /tmp/speed-typeq3yDTk/speed-type-20250722.1033
+  to /tmp/speed-typezlewCs/speed-type-20250722.1033
     speed-type.el -> speed-type.el
     test-speed-type.el -> test-speed-type.el
 Created speed-type-20250722.1033.tar containing:
@@ -15,6 +15,6 @@ Created speed-type-20250722.1033.tar containing:
   speed-type-20250722.1033/speed-type.el
   speed-type-20250722.1033/test-speed-type.el
  ✓ Success:
-  2025-07-28T01:16:33+0000  speed-type-20250722.1033.entry
-  2025-07-28T01:16:33+0000  speed-type-20250722.1033.tar
-Built speed-type in 3.254s, finished at 2025-07-28T01:16:34+0000
+  2025-08-04T00:41:32+0000  speed-type-20250722.1033.entry
+  2025-08-04T00:41:32+0000  speed-type-20250722.1033.tar
+Built speed-type in 3.482s, finished at 2025-08-04T00:41:33+0000

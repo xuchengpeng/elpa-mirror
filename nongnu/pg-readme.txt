@@ -67,7 +67,7 @@ The following PostgreSQL-compatible databases or extensions have been tested:
 
 - [Neon](https://neon.tech/) “serverless PostgreSQL” works perfectly. This is a commercially hosted
   service using a new storage engine for PostgreSQL, that they make available under the Apache
-  licence. Last tested 2025-05.
+  licence. Last tested 2025-07.
 
 - [ParadeDB](https://www.paradedb.com/) version 0.13.1 works perfectly (it's really a PostgreSQL
   extension rather than a distinct database implementation).
@@ -124,11 +124,11 @@ The following PostgreSQL-compatible databases or extensions have been tested:
   though the `pg_sequences` table is not implemented so certain tests fail. YugabyteDB does not have
   full compatibility with PostgreSQL SQL, and for example `GENERATED ALWAYS AS` columns are not
   supported, and `LISTEN` and `NOTIFY` are not supported. It does support certain extensions such as
-  pgvector, however. Last tested on 2025-05 against version 2.25.
+  pgvector, however. Last tested on 2025-07 against version 2.25.
 
 - The [RisingWave](https://github.com/risingwavelabs/risingwave) event streaming database (Apache
   license) is mostly working. It does not support `GENERATED ALWAYS AS IDENTITY` or `SERIAL`
-  columns, nor `VACUUM ANALYZE`. Last tested 2025-07 with v2.4.3.
+  columns, nor `VACUUM ANALYZE`. Last tested 2025-07 with v2.5.0.
 
 - The [CrateDB](https://crate.io/) distributed database (Apache licence). CrateDB does not support
   rows (e.g. `SELECT (1,2)`), does not support the `time`, `varbit`, `bytea`, `jsonb` and `hstore`
@@ -153,7 +153,7 @@ The following PostgreSQL-compatible databases or extensions have been tested:
 - The [Materialize](https://materialize.com/) operational database (a proprietary differential
   dataflow database) has many limitations in its PostgreSQL compatibility: no support for primary
   keys, unique constraints, check constraints, for the `bit` type for example. It works with these
-  limitations with pg-el (last tested 2025-07 with Materialize v0.151).
+  limitations with pg-el (last tested 2025-07 with Materialize v0.152).
 
 - The [QuestDB](https://questdb.io/) time series database (Apache licensed) has very limited
   PostgreSQL support, and does not support the `integer` type for example. Last tested 2025-06 with

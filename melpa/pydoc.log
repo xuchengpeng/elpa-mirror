@@ -3,16 +3,18 @@ Fetcher: github
 Source:  https://github.com/statmobile/pydoc
 
 Updating /mnt/store/melpa/working/pydoc/
-Checking out c9d8b5249c1b3814da062ed9976e4137d6e8d869
+Checking out db0038a9afbf3a953dcdc23e56b6ae5ddb8d1a49
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/pydoc/
-  to /tmp/pydocwnOcyi/pydoc-20221222.1426
+  to /tmp/pydocwxXq5c/pydoc-20250802.1531
+    pydoc-treesit.el -> pydoc-treesit.el
     pydoc.el -> pydoc.el
-Created pydoc-20221222.1426.tar containing:
-  pydoc-20221222.1426/
-  pydoc-20221222.1426/pydoc-pkg.el
-  pydoc-20221222.1426/pydoc.el
+Created pydoc-20250802.1531.tar containing:
+  pydoc-20250802.1531/
+  pydoc-20250802.1531/pydoc-pkg.el
+  pydoc-20250802.1531/pydoc-treesit.el
+  pydoc-20250802.1531/pydoc.el
  ✓ Success:
-  2025-07-28T01:09:22+0000  pydoc-20221222.1426.entry
-  2025-07-28T01:09:22+0000  pydoc-20221222.1426.tar
-Built pydoc in 4.446s, finished at 2025-07-28T01:09:24+0000
+  2025-08-04T00:34:25+0000  pydoc-20250802.1531.entry
+  2025-08-04T00:34:25+0000  pydoc-20250802.1531.tar
+Built pydoc in 4.650s, finished at 2025-08-04T00:34:27+0000

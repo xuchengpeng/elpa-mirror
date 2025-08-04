@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/casouri/eldoc-box
 
 Updating /mnt/store/melpa/working/eldoc-box/
-Checking out 45bfd1c833ec0796c9aab1064667724de7dc6efd
+Checking out 8c5104f06700b774b8af76d77a440e334fbc03e9
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/eldoc-box/
-  to /tmp/eldoc-boxylkWx9/eldoc-box-20250727.2004
+  to /tmp/eldoc-boxjxcoIT/eldoc-box-20250729.132
     eldoc-box.el -> eldoc-box.el
-Created eldoc-box-20250727.2004.tar containing:
-  eldoc-box-20250727.2004/
-  eldoc-box-20250727.2004/eldoc-box-pkg.el
-  eldoc-box-20250727.2004/eldoc-box.el
+Created eldoc-box-20250729.132.tar containing:
+  eldoc-box-20250729.132/
+  eldoc-box-20250729.132/eldoc-box-pkg.el
+  eldoc-box-20250729.132/eldoc-box.el
  ✓ Success:
-  2025-07-28T00:29:25+0000  eldoc-box-20250727.2004.entry
-  2025-07-28T00:29:24+0000  eldoc-box-20250727.2004.tar
-Built eldoc-box in 5.367s, finished at 2025-07-28T00:29:26+0000
+  2025-08-04T02:12:22+0000  eldoc-box-20250729.132.entry
+  2025-08-04T02:12:22+0000  eldoc-box-20250729.132.tar
+Built eldoc-box in 2.747s, finished at 2025-08-04T02:12:22+0000

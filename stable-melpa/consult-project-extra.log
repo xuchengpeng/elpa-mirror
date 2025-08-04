@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/Qkessler/consult-project-extra
 
 Updating /mnt/store/melpa/working/consult-project-extra/
-Checking out 982e8008d69ea6733a2a7548e245d645c0fefb3f
+Checking out 0cdcf7fc04711417ee1e05e9aec21488732438fe
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/consult-project-extra/
-  to /tmp/consult-project-extraMliOtZ/consult-project-extra-20231221.1857
+  to /tmp/consult-project-extraFaQmrj/consult-project-extra-20250729.1123
     consult-project-extra.el -> consult-project-extra.el
-Created consult-project-extra-20231221.1857.tar containing:
-  consult-project-extra-20231221.1857/
-  consult-project-extra-20231221.1857/consult-project-extra-pkg.el
-  consult-project-extra-20231221.1857/consult-project-extra.el
+Created consult-project-extra-20250729.1123.tar containing:
+  consult-project-extra-20250729.1123/
+  consult-project-extra-20250729.1123/consult-project-extra-pkg.el
+  consult-project-extra-20250729.1123/consult-project-extra.el
  ✓ Success:
-  2025-07-28T00:22:38+0000  consult-project-extra-20231221.1857.entry
-  2025-07-28T00:22:38+0000  consult-project-extra-20231221.1857.tar
-Built consult-project-extra in 2.953s, finished at 2025-07-28T00:22:39+0000
+  2025-08-04T02:06:02+0000  consult-project-extra-20250729.1123.entry
+  2025-08-04T02:06:02+0000  consult-project-extra-20250729.1123.tar
+Built consult-project-extra in 3.190s, finished at 2025-08-04T02:06:03+0000

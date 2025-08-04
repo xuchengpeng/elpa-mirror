@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/insfactor/
 Checking out 7ef5446cebb08a17d4106d2e6f3c053e49e1e829
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/insfactor/
-  to /tmp/insfactorm8lNU2/insfactor-20141117.2
+  to /tmp/insfactormE51Eb/insfactor-20141117.2
     insfactor.el -> insfactor.el
 Created insfactor-20141117.2.tar containing:
   insfactor-20141117.2/
   insfactor-20141117.2/insfactor-pkg.el
   insfactor-20141117.2/insfactor.el
  ✓ Success:
-  2025-07-28T00:47:03+0000  insfactor-20141117.2.entry
-  2025-07-28T00:47:03+0000  insfactor-20141117.2.tar
-Built insfactor in 2.647s, finished at 2025-07-28T00:47:04+0000
+  2025-08-04T00:12:20+0000  insfactor-20141117.2.entry
+  2025-08-04T00:12:20+0000  insfactor-20141117.2.tar
+Built insfactor in 2.574s, finished at 2025-08-04T00:12:21+0000

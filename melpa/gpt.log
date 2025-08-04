@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/gpt/
 Checking out 17de2035a9299729391b6e42d47bf4f67907906e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/gpt/
-  to /tmp/gptq1EYIs/gpt-20250623.352
+  to /tmp/gptbvuTWb/gpt-20250623.352
     gpt-api.el -> gpt-api.el
     gpt-core.el -> gpt-core.el
     gpt-mode.el -> gpt-mode.el
@@ -52,6 +52,6 @@ Created gpt-20250623.352.tar containing:
   gpt-20250623.352/test_google_provider.py
   gpt-20250623.352/test_openai_provider.py
  ✓ Success:
-  2025-07-28T00:40:50+0000  gpt-20250623.352.entry
-  2025-07-28T00:40:50+0000  gpt-20250623.352.tar
-Built gpt in 4.854s, finished at 2025-07-28T00:40:52+0000
+  2025-08-04T02:23:40+0000  gpt-20250623.352.entry
+  2025-08-04T02:23:40+0000  gpt-20250623.352.tar
+Built gpt in 2.835s, finished at 2025-08-04T02:23:40+0000

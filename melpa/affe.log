@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/affe/
 Checking out a1607fbc66789408128e12c9224b6a6c51d12bcb
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/affe/
-  to /tmp/affeueeaFl/affe-20250128.839
+  to /tmp/affenlQxZR/affe-20250128.839
     affe-backend.el -> affe-backend.el
     affe.el -> affe.el
 Created affe-20250128.839.tar containing:
@@ -15,6 +15,6 @@ Created affe-20250128.839.tar containing:
   affe-20250128.839/affe-pkg.el
   affe-20250128.839/affe.el
  ✓ Success:
-  2025-07-28T00:13:33+0000  affe-20250128.839.entry
-  2025-07-28T00:13:33+0000  affe-20250128.839.tar
-Built affe in 2.911s, finished at 2025-07-28T00:13:34+0000
+  2025-08-04T01:56:51+0000  affe-20250128.839.entry
+  2025-08-04T01:56:51+0000  affe-20250128.839.tar
+Built affe in 2.748s, finished at 2025-08-04T01:56:52+0000

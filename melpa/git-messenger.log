@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/git-messenger/
 Checking out fb9a049ac3b5fba7369ef1f027b97881f1e377ec
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/git-messenger/
-  to /tmp/git-messengeriqqTGs/git-messenger-20201202.1637
+  to /tmp/git-messengerosrljI/git-messenger-20201202.1637
     git-messenger.el -> git-messenger.el
 Created git-messenger-20201202.1637.tar containing:
   git-messenger-20201202.1637/
   git-messenger-20201202.1637/git-messenger-pkg.el
   git-messenger-20201202.1637/git-messenger.el
  ✓ Success:
-  2025-07-28T00:39:15+0000  git-messenger-20201202.1637.entry
-  2025-07-28T00:39:15+0000  git-messenger-20201202.1637.tar
-Built git-messenger in 2.701s, finished at 2025-07-28T00:39:16+0000
+  2025-08-04T02:22:10+0000  git-messenger-20201202.1637.entry
+  2025-08-04T02:22:10+0000  git-messenger-20201202.1637.tar
+Built git-messenger in 2.694s, finished at 2025-08-04T02:22:11+0000

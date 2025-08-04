@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/loc-changes/
 Checking out 622371e432f50626aaac82f8ee2841f71685b0fb
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/loc-changes/
-  to /tmp/loc-changesAti4EC/loc-changes-20230214.1036
+  to /tmp/loc-changesEcaatN/loc-changes-20230214.1036
     loc-changes.el -> loc-changes.el
 Created loc-changes-20230214.1036.tar containing:
   loc-changes-20230214.1036/
   loc-changes-20230214.1036/loc-changes-pkg.el
   loc-changes-20230214.1036/loc-changes.el
  ✓ Success:
-  2025-07-28T00:52:15+0000  loc-changes-20230214.1036.entry
-  2025-07-28T00:52:14+0000  loc-changes-20230214.1036.tar
-Built loc-changes in 4.315s, finished at 2025-07-28T00:52:16+0000
+  2025-08-04T00:17:29+0000  loc-changes-20230214.1036.entry
+  2025-08-04T00:17:29+0000  loc-changes-20230214.1036.tar
+Built loc-changes in 3.430s, finished at 2025-08-04T00:17:30+0000

@@ -3,10 +3,10 @@ Fetcher: github
 Source:  https://github.com/kaorahi/howm
 
 Updating /mnt/store/melpa/working/howm/
-Checking out f9b13161a8f73948a686eec49b5d805ec2ee931f
+Checking out d44d5e8ca7ac40dd64ce3b53c35c14670cafeac3
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/howm/
-  to /tmp/howmGzu9xL/howm-20250727.1517
+  to /tmp/howmtZxYfY/howm-20250728.1027
     action-lock.el -> action-lock.el
     bcomp.el -> bcomp.el
     cheat-font-lock.el -> cheat-font-lock.el
@@ -34,37 +34,37 @@ Copying files (->) and directories (=>)
     iigrep.el -> iigrep.el
     illusion.el -> illusion.el
     riffle.el -> riffle.el
-Created howm-20250727.1517.tar containing:
-  howm-20250727.1517/
-  howm-20250727.1517/action-lock.el
-  howm-20250727.1517/bcomp.el
-  howm-20250727.1517/cheat-font-lock.el
-  howm-20250727.1517/gfunc.el
-  howm-20250727.1517/honest-report.el
-  howm-20250727.1517/howm-backend.el
-  howm-20250727.1517/howm-common.el
-  howm-20250727.1517/howm-date.el
-  howm-20250727.1517/howm-lang-en.el
-  howm-20250727.1517/howm-lang-fr.el
-  howm-20250727.1517/howm-lang-ja.el
-  howm-20250727.1517/howm-markdown.el
-  howm-20250727.1517/howm-menu-en.el
-  howm-20250727.1517/howm-menu-fr.el
-  howm-20250727.1517/howm-menu-ja.el
-  howm-20250727.1517/howm-menu.el
-  howm-20250727.1517/howm-misc.el
-  howm-20250727.1517/howm-mkmenu.el
-  howm-20250727.1517/howm-mode.el
-  howm-20250727.1517/howm-org.el
-  howm-20250727.1517/howm-pkg.el
-  howm-20250727.1517/howm-reminder.el
-  howm-20250727.1517/howm-vars.el
-  howm-20250727.1517/howm-view.el
-  howm-20250727.1517/howm.el
-  howm-20250727.1517/iigrep.el
-  howm-20250727.1517/illusion.el
-  howm-20250727.1517/riffle.el
+Created howm-20250728.1027.tar containing:
+  howm-20250728.1027/
+  howm-20250728.1027/action-lock.el
+  howm-20250728.1027/bcomp.el
+  howm-20250728.1027/cheat-font-lock.el
+  howm-20250728.1027/gfunc.el
+  howm-20250728.1027/honest-report.el
+  howm-20250728.1027/howm-backend.el
+  howm-20250728.1027/howm-common.el
+  howm-20250728.1027/howm-date.el
+  howm-20250728.1027/howm-lang-en.el
+  howm-20250728.1027/howm-lang-fr.el
+  howm-20250728.1027/howm-lang-ja.el
+  howm-20250728.1027/howm-markdown.el
+  howm-20250728.1027/howm-menu-en.el
+  howm-20250728.1027/howm-menu-fr.el
+  howm-20250728.1027/howm-menu-ja.el
+  howm-20250728.1027/howm-menu.el
+  howm-20250728.1027/howm-misc.el
+  howm-20250728.1027/howm-mkmenu.el
+  howm-20250728.1027/howm-mode.el
+  howm-20250728.1027/howm-org.el
+  howm-20250728.1027/howm-pkg.el
+  howm-20250728.1027/howm-reminder.el
+  howm-20250728.1027/howm-vars.el
+  howm-20250728.1027/howm-view.el
+  howm-20250728.1027/howm.el
+  howm-20250728.1027/iigrep.el
+  howm-20250728.1027/illusion.el
+  howm-20250728.1027/riffle.el
  ✓ Success:
-  2025-07-28T00:44:57+0000  howm-20250727.1517.entry
-  2025-07-28T00:44:57+0000  howm-20250727.1517.tar
-Built howm in 4.065s, finished at 2025-07-28T00:44:58+0000
+  2025-08-04T00:10:14+0000  howm-20250728.1027.entry
+  2025-08-04T00:10:14+0000  howm-20250728.1027.tar
+Built howm in 4.225s, finished at 2025-08-04T00:10:15+0000

@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/php-eldoc/
 Checking out df05064146b884d9081e10657e32dc480f070cfe
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/php-eldoc/
-  to /tmp/php-eldocY4vG5I/php-eldoc-20140202.1941
+  to /tmp/php-eldocEhDGKs/php-eldoc-20140202.1941
     php-eldoc.el -> php-eldoc.el
     probe.php -> probe.php
 Created php-eldoc-20140202.1941.tar containing:
@@ -15,6 +15,6 @@ Created php-eldoc-20140202.1941.tar containing:
   php-eldoc-20140202.1941/php-eldoc.el
   php-eldoc-20140202.1941/probe.php
  ✓ Success:
-  2025-07-28T01:06:23+0000  php-eldoc-20140202.1941.entry
-  2025-07-28T01:06:23+0000  php-eldoc-20140202.1941.tar
-Built php-eldoc in 2.659s, finished at 2025-07-28T01:06:24+0000
+  2025-08-04T00:31:25+0000  php-eldoc-20140202.1941.entry
+  2025-08-04T00:31:25+0000  php-eldoc-20140202.1941.tar
+Built php-eldoc in 2.563s, finished at 2025-08-04T00:31:26+0000

@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/Alexander-Miller/cfrs
 
 Updating /mnt/store/melpa/working/cfrs/
-Checking out f3a21f237b2a54e6b9f8a420a9da42b4f0a63121
+Checking out 981bddb3fb9fd9c58aed182e352975bd10ad74c8
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/cfrs/
-  to /tmp/cfrsoPdJll/cfrs-20220129.1149
+  to /tmp/cfrsuV7Ge6/cfrs-20250729.1422
     cfrs.el -> cfrs.el
-Created cfrs-20220129.1149.tar containing:
-  cfrs-20220129.1149/
-  cfrs-20220129.1149/cfrs-pkg.el
-  cfrs-20220129.1149/cfrs.el
+Created cfrs-20250729.1422.tar containing:
+  cfrs-20250729.1422/
+  cfrs-20250729.1422/cfrs-pkg.el
+  cfrs-20250729.1422/cfrs.el
  ✓ Success:
-  2025-07-28T00:19:18+0000  cfrs-20220129.1149.entry
-  2025-07-28T00:19:17+0000  cfrs-20220129.1149.tar
-Built cfrs in 2.637s, finished at 2025-07-28T00:19:18+0000
+  2025-08-04T02:02:30+0000  cfrs-20250729.1422.entry
+  2025-08-04T02:02:30+0000  cfrs-20250729.1422.tar
+Built cfrs in 2.585s, finished at 2025-08-04T02:02:31+0000

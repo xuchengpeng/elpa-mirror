@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/rainstormstudio/nerd-icons-completion
 
 Updating /mnt/store/melpa/working/nerd-icons-completion/
-Checking out 0ae16b596b6795926ddee8a758bac042874bfe5a
+Checking out 5f27607b008a972a27b237d266c8ee7b26fbd721
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/nerd-icons-completion/
-  to /tmp/nerd-icons-completiontFjEk8/nerd-icons-completion-20250727.236
+  to /tmp/nerd-icons-completioniFaLVR/nerd-icons-completion-20250728.1610
     nerd-icons-completion.el -> nerd-icons-completion.el
-Created nerd-icons-completion-20250727.236.tar containing:
-  nerd-icons-completion-20250727.236/
-  nerd-icons-completion-20250727.236/nerd-icons-completion-pkg.el
-  nerd-icons-completion-20250727.236/nerd-icons-completion.el
+Created nerd-icons-completion-20250728.1610.tar containing:
+  nerd-icons-completion-20250728.1610/
+  nerd-icons-completion-20250728.1610/nerd-icons-completion-pkg.el
+  nerd-icons-completion-20250728.1610/nerd-icons-completion.el
  ✓ Success:
-  2025-07-28T00:57:36+0000  nerd-icons-completion-20250727.236.entry
-  2025-07-28T00:57:36+0000  nerd-icons-completion-20250727.236.tar
-Built nerd-icons-completion in 4.393s, finished at 2025-07-28T00:57:38+0000
+  2025-08-04T00:22:29+0000  nerd-icons-completion-20250728.1610.entry
+  2025-08-04T00:22:29+0000  nerd-icons-completion-20250728.1610.tar
+Built nerd-icons-completion in 3.583s, finished at 2025-08-04T00:22:30+0000

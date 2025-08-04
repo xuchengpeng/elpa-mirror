@@ -3,23 +3,23 @@ Fetcher: github
 Source:  https://github.com/magit/transient
 
 Updating /mnt/store/melpa/working/transient/
-Checking out e9a636d3c7cbb9ac43ea4a08a1c252a02c7c3460
+Checking out aa32e0d66cc389befed7a8e8df9439d92a729daa
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/transient/
-  to /tmp/transientA13qHr/transient-20250724.1634
+  to /tmp/transientR9Uwul/transient-20250801.1149
   ! lisp/transient.el -> transient.el
   ! docs/gpl.texi -> gpl.texi
   ! docs/transient.texi -> transient.texi
 Generating gpl.info
 Generating transient.info
-Created transient-20250724.1634.tar containing:
-  transient-20250724.1634/
-  transient-20250724.1634/dir
-  transient-20250724.1634/gpl.info
-  transient-20250724.1634/transient-pkg.el
-  transient-20250724.1634/transient.el
-  transient-20250724.1634/transient.info
+Created transient-20250801.1149.tar containing:
+  transient-20250801.1149/
+  transient-20250801.1149/dir
+  transient-20250801.1149/gpl.info
+  transient-20250801.1149/transient-pkg.el
+  transient-20250801.1149/transient.el
+  transient-20250801.1149/transient.info
  ✓ Success:
-  2025-07-28T01:20:30+0000  transient-20250724.1634.entry
-  2025-07-28T01:20:30+0000  transient-20250724.1634.tar
-Built transient in 12.679s, finished at 2025-07-28T01:20:32+0000
+  2025-08-04T00:45:23+0000  transient-20250801.1149.entry
+  2025-08-04T00:45:23+0000  transient-20250801.1149.tar
+Built transient in 11.823s, finished at 2025-08-04T00:45:25+0000

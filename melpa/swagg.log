@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/swagg/
 Checking out 841159b8db75fd600c929e7d09c87526d94d0756
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/swagg/
-  to /tmp/swagg3NWyjZ/swagg-20250413.1409
+  to /tmp/swaggsZuGS7/swagg-20250413.1409
     swagg.el -> swagg.el
 Created swagg-20250413.1409.tar containing:
   swagg-20250413.1409/
   swagg-20250413.1409/swagg-pkg.el
   swagg-20250413.1409/swagg.el
  ✓ Success:
-  2025-07-28T01:17:46+0000  swagg-20250413.1409.entry
-  2025-07-28T01:17:46+0000  swagg-20250413.1409.tar
-Built swagg in 3.136s, finished at 2025-07-28T01:17:47+0000
+  2025-08-04T00:42:45+0000  swagg-20250413.1409.entry
+  2025-08-04T00:42:44+0000  swagg-20250413.1409.tar
+Built swagg in 3.288s, finished at 2025-08-04T00:42:45+0000

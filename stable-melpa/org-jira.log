@@ -3,20 +3,20 @@ Fetcher: github
 Source:  https://github.com/ahungry/org-jira
 
 Updating /mnt/store/melpa/working/org-jira/
-Checking out dfdc26ab8bfb54f4419d3eb52a17be5361d74b87
+Checking out c7259fa13b8eb99a988b06cdaf3a04f9109904de
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/org-jira/
-  to /tmp/org-jiraOJty20/org-jira-20250424.41
+  to /tmp/org-jirabWH700/org-jira-20250802.302
     jiralib.el -> jiralib.el
     org-jira.el -> org-jira.el
     org-jira-sdk.el -> org-jira-sdk.el
-Created org-jira-20250424.41.tar containing:
-  org-jira-20250424.41/
-  org-jira-20250424.41/jiralib.el
-  org-jira-20250424.41/org-jira-pkg.el
-  org-jira-20250424.41/org-jira-sdk.el
-  org-jira-20250424.41/org-jira.el
+Created org-jira-20250802.302.tar containing:
+  org-jira-20250802.302/
+  org-jira-20250802.302/jiralib.el
+  org-jira-20250802.302/org-jira-pkg.el
+  org-jira-20250802.302/org-jira-sdk.el
+  org-jira-20250802.302/org-jira.el
  ✓ Success:
-  2025-07-28T01:01:46+0000  org-jira-20250424.41.entry
-  2025-07-28T01:01:46+0000  org-jira-20250424.41.tar
-Built org-jira in 3.269s, finished at 2025-07-28T01:01:47+0000
+  2025-08-04T00:26:51+0000  org-jira-20250802.302.entry
+  2025-08-04T00:26:51+0000  org-jira-20250802.302.tar
+Built org-jira in 3.190s, finished at 2025-08-04T00:26:52+0000

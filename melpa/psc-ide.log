@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/psc-ide/
 Checking out c64b05d9011d7c87c6ff2b53be08c3374b6dab66
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/psc-ide/
-  to /tmp/psc-idegD9Mb8/psc-ide-20250523.1854
+  to /tmp/psc-idexjgKUj/psc-ide-20250523.1854
     psc-ide-backported.el -> psc-ide-backported.el
     psc-ide-flycheck.el -> psc-ide-flycheck.el
     psc-ide-protocol.el -> psc-ide-protocol.el
@@ -19,6 +19,6 @@ Created psc-ide-20250523.1854.tar containing:
   psc-ide-20250523.1854/psc-ide-protocol.el
   psc-ide-20250523.1854/psc-ide.el
  ✓ Success:
-  2025-07-28T01:08:43+0000  psc-ide-20250523.1854.entry
-  2025-07-28T01:08:43+0000  psc-ide-20250523.1854.tar
-Built psc-ide in 3.367s, finished at 2025-07-28T01:08:44+0000
+  2025-08-04T00:33:45+0000  psc-ide-20250523.1854.entry
+  2025-08-04T00:33:44+0000  psc-ide-20250523.1854.tar
+Built psc-ide in 3.256s, finished at 2025-08-04T00:33:45+0000

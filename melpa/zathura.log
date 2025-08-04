@@ -3,16 +3,16 @@ Fetcher: codeberg
 Source:  https://codeberg.org/treflip/zathura.el
 
 Updating /mnt/store/melpa/working/zathura/
-Checking out 754664519f0c346a296d1fa81f3243c584eaef66
+Checking out 947b8332f25810105d35e350f604cdad4e32ee6f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/zathura/
-  to /tmp/zathurauCF2D4/zathura-20250721.1057
+  to /tmp/zathura3iu8Fx/zathura-20250728.1208
     zathura.el -> zathura.el
-Created zathura-20250721.1057.tar containing:
-  zathura-20250721.1057/
-  zathura-20250721.1057/zathura-pkg.el
-  zathura-20250721.1057/zathura.el
+Created zathura-20250728.1208.tar containing:
+  zathura-20250728.1208/
+  zathura-20250728.1208/zathura-pkg.el
+  zathura-20250728.1208/zathura.el
  ✓ Success:
-  2025-07-28T01:25:52+0000  zathura-20250721.1057.entry
-  2025-07-28T01:25:52+0000  zathura-20250721.1057.tar
-Built zathura in 4.526s, finished at 2025-07-28T01:25:54+0000
+  2025-08-04T00:50:47+0000  zathura-20250728.1208.entry
+  2025-08-04T00:50:47+0000  zathura-20250728.1208.tar
+Built zathura in 3.657s, finished at 2025-08-04T00:50:48+0000

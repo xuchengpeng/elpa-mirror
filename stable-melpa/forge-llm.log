@@ -3,16 +3,16 @@ Fetcher: gitlab
 Source:  https://gitlab.com/rogs/forge-llm
 
 Updating /mnt/store/melpa/working/forge-llm/
-Checking out 5ee7de6370635565d0c39619b04ea37fc277487f
+Checking out ebd59266fd68bfd55a8115efc65817ba3e31c235
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/forge-llm/
-  to /tmp/forge-llmyUv0L0/forge-llm-20250717.2022
+  to /tmp/forge-llmHbnLXm/forge-llm-20250731.117
     forge-llm.el -> forge-llm.el
-Created forge-llm-20250717.2022.tar containing:
-  forge-llm-20250717.2022/
-  forge-llm-20250717.2022/forge-llm-pkg.el
-  forge-llm-20250717.2022/forge-llm.el
+Created forge-llm-20250731.117.tar containing:
+  forge-llm-20250731.117/
+  forge-llm-20250731.117/forge-llm-pkg.el
+  forge-llm-20250731.117/forge-llm.el
  ✓ Success:
-  2025-07-28T00:37:45+0000  forge-llm-20250717.2022.entry
-  2025-07-28T00:37:45+0000  forge-llm-20250717.2022.tar
-Built forge-llm in 3.683s, finished at 2025-07-28T00:37:46+0000
+  2025-08-04T02:20:27+0000  forge-llm-20250731.117.entry
+  2025-08-04T02:20:27+0000  forge-llm-20250731.117.tar
+Built forge-llm in 3.807s, finished at 2025-08-04T02:20:28+0000

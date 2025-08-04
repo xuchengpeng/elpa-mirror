@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/loopy/
 Checking out 873ec3d2771d83de222832ef41d50f5b6ca6d756
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/loopy/
-  to /tmp/loopyya8uQp/loopy-20250726.2037
+  to /tmp/loopyBOEpMz/loopy-20250726.2037
   ! lisp/loopy-commands.el -> loopy-commands.el
   ! lisp/loopy-destructure.el -> loopy-destructure.el
   ! lisp/loopy-instrs.el -> loopy-instrs.el
@@ -33,6 +33,6 @@ Created loopy-20250726.2037.tar containing:
   loopy-20250726.2037/loopy.el
   loopy-20250726.2037/loopy.info
  ✓ Success:
-  2025-07-28T00:52:42+0000  loopy-20250726.2037.entry
-  2025-07-28T00:52:42+0000  loopy-20250726.2037.tar
-Built loopy in 7.140s, finished at 2025-07-28T00:52:43+0000
+  2025-08-04T00:17:50+0000  loopy-20250726.2037.entry
+  2025-08-04T00:17:50+0000  loopy-20250726.2037.tar
+Built loopy in 6.812s, finished at 2025-08-04T00:17:51+0000

@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/ninetyfive-gg/ninetyfive.el
 
 Updating /mnt/store/melpa/working/ninetyfive/
-Checking out f3bece95b557ed906d8a9c4222e61518040553ff
+Checking out 728102e10377448dc9ef58fd7e246120283b8323
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ninetyfive/
-  to /tmp/ninetyfiveCo3Kw7/ninetyfive-20250724.1906
+  to /tmp/ninetyfiveMCorx4/ninetyfive-20250728.1427
     ninetyfive.el -> ninetyfive.el
-Created ninetyfive-20250724.1906.tar containing:
-  ninetyfive-20250724.1906/
-  ninetyfive-20250724.1906/ninetyfive-pkg.el
-  ninetyfive-20250724.1906/ninetyfive.el
+Created ninetyfive-20250728.1427.tar containing:
+  ninetyfive-20250728.1427/
+  ninetyfive-20250728.1427/ninetyfive-pkg.el
+  ninetyfive-20250728.1427/ninetyfive.el
  ✓ Success:
-  2025-07-28T00:58:11+0000  ninetyfive-20250724.1906.entry
-  2025-07-28T00:58:11+0000  ninetyfive-20250724.1906.tar
-Built ninetyfive in 3.845s, finished at 2025-07-28T00:58:12+0000
+  2025-08-04T00:23:02+0000  ninetyfive-20250728.1427.entry
+  2025-08-04T00:23:02+0000  ninetyfive-20250728.1427.tar
+Built ninetyfive in 4.930s, finished at 2025-08-04T00:23:04+0000
