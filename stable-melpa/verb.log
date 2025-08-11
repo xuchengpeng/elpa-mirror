@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/verb/
 Checking out e818377f2ceddf5670dcd9a32d3de0e8bf82a8f1
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/verb/
-  to /tmp/verb0bqhNt/verb-20250731.2205
+  to /tmp/verbUK24Va/verb-20250731.2205
     ob-verb.el -> ob-verb.el
     verb-util.el -> verb-util.el
     verb.el -> verb.el
@@ -17,6 +17,6 @@ Created verb-20250731.2205.tar containing:
   verb-20250731.2205/verb-util.el
   verb-20250731.2205/verb.el
  ✓ Success:
-  2025-08-04T00:47:32+0000  verb-20250731.2205.entry
-  2025-08-04T00:47:32+0000  verb-20250731.2205.tar
-Built verb in 2.744s, finished at 2025-08-04T00:47:33+0000
+  2025-08-11T01:03:27+0000  verb-20250731.2205.entry
+  2025-08-11T01:03:27+0000  verb-20250731.2205.tar
+Built verb in 2.870s, finished at 2025-08-11T01:03:28+0000

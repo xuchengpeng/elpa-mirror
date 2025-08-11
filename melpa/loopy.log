@@ -3,10 +3,10 @@ Fetcher: github
 Source:  https://github.com/okamsn/loopy
 
 Updating /mnt/store/melpa/working/loopy/
-Checking out 873ec3d2771d83de222832ef41d50f5b6ca6d756
+Checking out 3c6beb610fded397088d616c1cc3cf6c90c8e568
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/loopy/
-  to /tmp/loopyBOEpMz/loopy-20250726.2037
+  to /tmp/loopyTBRXfb/loopy-20250810.1948
   ! lisp/loopy-commands.el -> loopy-commands.el
   ! lisp/loopy-destructure.el -> loopy-destructure.el
   ! lisp/loopy-instrs.el -> loopy-instrs.el
@@ -18,21 +18,21 @@ Copying files (->) and directories (=>)
   ! lisp/loopy.el -> loopy.el
   ! doc/loopy.texi -> loopy.texi
 Generating loopy.info
-Created loopy-20250726.2037.tar containing:
-  loopy-20250726.2037/
-  loopy-20250726.2037/dir
-  loopy-20250726.2037/loopy-commands.el
-  loopy-20250726.2037/loopy-destructure.el
-  loopy-20250726.2037/loopy-instrs.el
-  loopy-20250726.2037/loopy-iter.el
-  loopy-20250726.2037/loopy-misc.el
-  loopy-20250726.2037/loopy-pcase.el
-  loopy-20250726.2037/loopy-pkg.el
-  loopy-20250726.2037/loopy-seq.el
-  loopy-20250726.2037/loopy-vars.el
-  loopy-20250726.2037/loopy.el
-  loopy-20250726.2037/loopy.info
+Created loopy-20250810.1948.tar containing:
+  loopy-20250810.1948/
+  loopy-20250810.1948/dir
+  loopy-20250810.1948/loopy-commands.el
+  loopy-20250810.1948/loopy-destructure.el
+  loopy-20250810.1948/loopy-instrs.el
+  loopy-20250810.1948/loopy-iter.el
+  loopy-20250810.1948/loopy-misc.el
+  loopy-20250810.1948/loopy-pcase.el
+  loopy-20250810.1948/loopy-pkg.el
+  loopy-20250810.1948/loopy-seq.el
+  loopy-20250810.1948/loopy-vars.el
+  loopy-20250810.1948/loopy.el
+  loopy-20250810.1948/loopy.info
  ✓ Success:
-  2025-08-04T00:17:50+0000  loopy-20250726.2037.entry
-  2025-08-04T00:17:50+0000  loopy-20250726.2037.tar
-Built loopy in 6.812s, finished at 2025-08-04T00:17:51+0000
+  2025-08-11T00:34:38+0000  loopy-20250810.1948.entry
+  2025-08-11T00:34:38+0000  loopy-20250810.1948.tar
+Built loopy in 7.204s, finished at 2025-08-11T00:34:39+0000

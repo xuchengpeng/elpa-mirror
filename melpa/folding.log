@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/folding/
 Checking out 443b826c76a4938fc0961298ff0e6c924c723ed7
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/folding/
-  to /tmp/foldingKHjZuz/folding-20250120.1132
+  to /tmp/foldingQiDXSF/folding-20250120.1132
     folding.el -> folding.el
     folding.texi -> folding.texi
 Generating folding.info
@@ -17,6 +17,6 @@ Created folding-20250120.1132.tar containing:
   folding-20250120.1132/folding.el
   folding-20250120.1132/folding.info
  ✓ Success:
-  2025-08-04T02:20:18+0000  folding-20250120.1132.entry
-  2025-08-04T02:20:17+0000  folding-20250120.1132.tar
-Built folding in 4.046s, finished at 2025-08-04T02:20:18+0000
+  2025-08-11T00:19:57+0000  folding-20250120.1132.entry
+  2025-08-11T00:19:57+0000  folding-20250120.1132.tar
+Built folding in 4.000s, finished at 2025-08-11T00:19:58+0000

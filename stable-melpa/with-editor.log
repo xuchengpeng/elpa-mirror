@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/with-editor/
 Checking out 0a2df46e2831c3b8ddc8f688069f2b4a49898731
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/with-editor/
-  to /tmp/with-editorrdXmSU/with-editor-20250801.1152
+  to /tmp/with-editorAxtr2l/with-editor-20250801.1152
   ! lisp/with-editor.el -> with-editor.el
   ! docs/with-editor.texi -> with-editor.texi
 Generating with-editor.info
@@ -17,6 +17,6 @@ Created with-editor-20250801.1152.tar containing:
   with-editor-20250801.1152/with-editor.el
   with-editor-20250801.1152/with-editor.info
  ✓ Success:
-  2025-08-04T00:49:23+0000  with-editor-20250801.1152.entry
-  2025-08-04T00:49:23+0000  with-editor-20250801.1152.tar
-Built with-editor in 4.247s, finished at 2025-08-04T00:49:24+0000
+  2025-08-11T01:05:16+0000  with-editor-20250801.1152.entry
+  2025-08-11T01:05:16+0000  with-editor-20250801.1152.tar
+Built with-editor in 4.251s, finished at 2025-08-11T01:05:17+0000

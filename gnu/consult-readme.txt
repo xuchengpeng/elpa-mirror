@@ -128,6 +128,7 @@ Table of Contents
     • b Buffers
     • SPC Hidden buffers
     • * Modified buffers
+    • o Buffers from other frames/tabs
     • f Files (Requires `recentf-mode')
     • r File and buffer registers
     • m Bookmarks
@@ -136,6 +137,10 @@ Table of Contents
     • F Project files
     • R Project roots
     • Custom [other sources] configured in `consult-buffer-sources'.
+    By default, buffers from all frames are taken into account. The
+    buffers which are taken into account, can be customized by the
+    variable `consult-buffer-list-function'. Other buffers are available
+    by pressing `o SPC'.
   • `consult-buffer-other-window', `consult-buffer-other-frame',
     `consult-buffer-other-tab': Variants of `consult-buffer'.
   • `consult-project-buffer': Variant of `consult-buffer' restricted to
@@ -953,6 +958,7 @@ Table of Contents
    consult-async-indicator           Async indicator characters                          
    consult-bookmark-narrow           Narrowing configuration for `consult-bookmark'      
    consult-buffer-filter             Filter for `consult-buffer'                         
+   consult-buffer-list-function      Function to retrieve list of buffers                
    consult-buffer-sources            List of virtual buffer sources                      
    consult-fd-args                   Command line arguments for fd                       
    consult-find-args                 Command line arguments for find                     

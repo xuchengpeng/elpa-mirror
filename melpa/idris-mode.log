@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/idris-mode/
 Checking out ccf32ed0b509f2173672297f6659b4459446064f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/idris-mode/
-  to /tmp/idris-modeOItKbB/idris-mode-20250424.908
+  to /tmp/idris-modeaJPyHb/idris-mode-20250424.908
     flycheck-idris.el -> flycheck-idris.el
     idris-commands.el -> idris-commands.el
     idris-common-utils.el -> idris-common-utils.el
@@ -61,6 +61,6 @@ Created idris-mode-20250424.908.tar containing:
   idris-mode-20250424.908/inferior-idris.el
   idris-mode-20250424.908/logo-small.png
  ✓ Success:
-  2025-08-04T00:11:16+0000  idris-mode-20250424.908.entry
-  2025-08-04T00:11:15+0000  idris-mode-20250424.908.tar
-Built idris-mode in 6.088s, finished at 2025-08-04T00:11:17+0000
+  2025-08-11T00:28:19+0000  idris-mode-20250424.908.entry
+  2025-08-11T00:28:19+0000  idris-mode-20250424.908.tar
+Built idris-mode in 3.704s, finished at 2025-08-11T00:28:20+0000

@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/haskell-mode/
 Checking out 2e08ba771ffdc46d082b2285c534afdb12efb941
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/haskell-mode/
-  to /tmp/haskell-mode0P8k1z/haskell-mode-20250519.1154
+  to /tmp/haskell-modeV7rXZF/haskell-mode-20250519.1154
     ghc-core.el -> ghc-core.el
     ghci-script-mode.el -> ghci-script-mode.el
     haskell-align-imports.el -> haskell-align-imports.el
@@ -101,6 +101,6 @@ Created haskell-mode-20250519.1154.tar containing:
   haskell-mode-20250519.1154/logo.svg
   haskell-mode-20250519.1154/w3m-haddock.el
  ✓ Success:
-  2025-08-04T02:24:47+0000  haskell-mode-20250519.1154.entry
-  2025-08-04T02:24:46+0000  haskell-mode-20250519.1154.tar
-Built haskell-mode in 6.829s, finished at 2025-08-04T02:24:47+0000
+  2025-08-11T00:24:20+0000  haskell-mode-20250519.1154.entry
+  2025-08-11T00:24:20+0000  haskell-mode-20250519.1154.tar
+Built haskell-mode in 6.601s, finished at 2025-08-11T00:24:21+0000

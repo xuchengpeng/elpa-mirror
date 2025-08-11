@@ -3,16 +3,16 @@ Fetcher: git
 Source:  https://repo.or.cz/org-bookmarks.git
 
 Updating /mnt/store/melpa/working/org-bookmarks/
-Checking out 965f5aab0586fe57ebbd978d4d0ef247dc8f7576
+Checking out 5f26a0a2a0d1bb64022d990a94772a2c018467fe
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/org-bookmarks/
-  to /tmp/org-bookmarksnFyagq/org-bookmarks-20250619.104
+  to /tmp/org-bookmarksvydFB2/org-bookmarks-20250810.1447
     org-bookmarks.el -> org-bookmarks.el
-Created org-bookmarks-20250619.104.tar containing:
-  org-bookmarks-20250619.104/
-  org-bookmarks-20250619.104/org-bookmarks-pkg.el
-  org-bookmarks-20250619.104/org-bookmarks.el
+Created org-bookmarks-20250810.1447.tar containing:
+  org-bookmarks-20250810.1447/
+  org-bookmarks-20250810.1447/org-bookmarks-pkg.el
+  org-bookmarks-20250810.1447/org-bookmarks.el
  ✓ Success:
-  2025-08-04T00:26:03+0000  org-bookmarks-20250619.104.entry
-  2025-08-04T00:26:03+0000  org-bookmarks-20250619.104.tar
-Built org-bookmarks in 4.078s, finished at 2025-08-04T00:26:04+0000
+  2025-08-11T00:42:25+0000  org-bookmarks-20250810.1447.entry
+  2025-08-11T00:42:25+0000  org-bookmarks-20250810.1447.tar
+Built org-bookmarks in 3.756s, finished at 2025-08-11T00:42:26+0000

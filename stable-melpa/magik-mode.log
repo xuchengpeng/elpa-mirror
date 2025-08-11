@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/magik-mode/
 Checking out 513a2521b63b9fddc2e9db95e72216a10a83870e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/magik-mode/
-  to /tmp/magik-modePKvoKj/magik-mode-20250802.1013
+  to /tmp/magik-mode42RZIz/magik-mode-20250802.1013
     magik-aliases.el -> magik-aliases.el
     magik-cb.el -> magik-cb.el
     magik-doc-gen.el -> magik-doc-gen.el
@@ -144,6 +144,6 @@ Created magik-mode-20250802.1013.tar containing:
   magik-mode-20250802.1013/snippets/magik-ts-mode/
   magik-mode-20250802.1013/snippets/magik-ts-mode/.yas-parents
  ✓ Success:
-  2025-08-04T00:18:29+0000  magik-mode-20250802.1013.entry
-  2025-08-04T00:18:29+0000  magik-mode-20250802.1013.tar
-Built magik-mode in 3.445s, finished at 2025-08-04T00:18:30+0000
+  2025-08-11T00:35:17+0000  magik-mode-20250802.1013.entry
+  2025-08-11T00:35:16+0000  magik-mode-20250802.1013.tar
+Built magik-mode in 3.449s, finished at 2025-08-11T00:35:17+0000

@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/mcp/
 Checking out 4708c5849ce4ddb632016eca662a7405bfa642d4
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mcp/
-  to /tmp/mcpfrGh6z/mcp-20250727.749
+  to /tmp/mcp4G7KS8/mcp-20250727.749
     mcp-hub.el -> mcp-hub.el
     mcp.el -> mcp.el
 Created mcp-20250727.749.tar containing:
@@ -15,6 +15,6 @@ Created mcp-20250727.749.tar containing:
   mcp-20250727.749/mcp-pkg.el
   mcp-20250727.749/mcp.el
  ✓ Success:
-  2025-08-04T00:19:36+0000  mcp-20250727.749.entry
-  2025-08-04T00:19:36+0000  mcp-20250727.749.tar
-Built mcp in 3.154s, finished at 2025-08-04T00:19:37+0000
+  2025-08-11T00:36:21+0000  mcp-20250727.749.entry
+  2025-08-11T00:36:21+0000  mcp-20250727.749.tar
+Built mcp in 2.848s, finished at 2025-08-11T00:36:22+0000

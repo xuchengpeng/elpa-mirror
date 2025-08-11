@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/hron/org-agenda-dock
 
 Updating /mnt/store/melpa/working/org-agenda-dock/
-Checking out 33c422c9d4f2ece95f55c36ff67c678186e6be88
+Checking out 1a0d37f471b6a8f5e9320b6bc97c5932ff83743b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/org-agenda-dock/
-  to /tmp/org-agenda-dockZhF7qo/org-agenda-dock-20250721.1143
+  to /tmp/org-agenda-dockZGVUfh/org-agenda-dock-20250809.703
     org-agenda-dock.el -> org-agenda-dock.el
-Created org-agenda-dock-20250721.1143.tar containing:
-  org-agenda-dock-20250721.1143/
-  org-agenda-dock-20250721.1143/org-agenda-dock-pkg.el
-  org-agenda-dock-20250721.1143/org-agenda-dock.el
+Created org-agenda-dock-20250809.703.tar containing:
+  org-agenda-dock-20250809.703/
+  org-agenda-dock-20250809.703/org-agenda-dock-pkg.el
+  org-agenda-dock-20250809.703/org-agenda-dock.el
  ✓ Success:
-  2025-08-04T00:25:46+0000  org-agenda-dock-20250721.1143.entry
-  2025-08-04T00:25:46+0000  org-agenda-dock-20250721.1143.tar
-Built org-agenda-dock in 2.722s, finished at 2025-08-04T00:25:47+0000
+  2025-08-11T00:42:09+0000  org-agenda-dock-20250809.703.entry
+  2025-08-11T00:42:08+0000  org-agenda-dock-20250809.703.tar
+Built org-agenda-dock in 2.526s, finished at 2025-08-11T00:42:09+0000

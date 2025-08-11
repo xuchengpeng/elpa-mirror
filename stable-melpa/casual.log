@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/casual/
 Checking out 4f14eac613e45cf2d7f5412971f9aad2e3589e22
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/casual/
-  to /tmp/casualaPEQn2/casual-20250728.2026
+  to /tmp/casualgksfhI/casual-20250728.2026
   ! lisp/casual-agenda-settings.el -> casual-agenda-settings.el
   ! lisp/casual-agenda-utils.el -> casual-agenda-utils.el
   ! lisp/casual-agenda.el -> casual-agenda.el
@@ -259,6 +259,6 @@ Created casual-20250728.2026.tar containing:
   casual-20250728.2026/images/casual-timezone-tmenu-screenshot.png
   casual-20250728.2026/images/default-yellow.png
  ✓ Success:
-  2025-08-04T02:02:13+0000  casual-20250728.2026.entry
-  2025-08-04T02:02:12+0000  casual-20250728.2026.tar
-Built casual in 8.116s, finished at 2025-08-04T02:02:14+0000
+  2025-08-11T00:01:49+0000  casual-20250728.2026.entry
+  2025-08-11T00:01:48+0000  casual-20250728.2026.tar
+Built casual in 8.517s, finished at 2025-08-11T00:01:50+0000

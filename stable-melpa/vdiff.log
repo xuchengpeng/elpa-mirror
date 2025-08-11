@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/vdiff/
 Checking out 170e968c6a46a572b30c52c1b038232d418734cc
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/vdiff/
-  to /tmp/vdiffldn1KF/vdiff-20230621.201
+  to /tmp/vdiff3vpyg1/vdiff-20230621.201
     vdiff.el -> vdiff.el
 Created vdiff-20230621.201.tar containing:
   vdiff-20230621.201/
   vdiff-20230621.201/vdiff-pkg.el
   vdiff-20230621.201/vdiff.el
  ✓ Success:
-  2025-08-04T00:47:25+0000  vdiff-20230621.201.entry
-  2025-08-04T00:47:25+0000  vdiff-20230621.201.tar
-Built vdiff in 2.223s, finished at 2025-08-04T00:47:26+0000
+  2025-08-11T01:03:21+0000  vdiff-20230621.201.entry
+  2025-08-11T01:03:20+0000  vdiff-20230621.201.tar
+Built vdiff in 2.585s, finished at 2025-08-11T01:03:21+0000

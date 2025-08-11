@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/aidermacs/
 Checking out 6b33f2ceb49b1832325e2fbfbbcb72e9df5e9128
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/aidermacs/
-  to /tmp/aidermacsrI6nKO/aidermacs-20250727.630
+  to /tmp/aidermacstJG6hL/aidermacs-20250727.630
     aidermacs-backend-comint.el -> aidermacs-backend-comint.el
     aidermacs-backend-vterm.el -> aidermacs-backend-vterm.el
     aidermacs-backends.el -> aidermacs-backends.el
@@ -23,6 +23,6 @@ Created aidermacs-20250727.630.tar containing:
   aidermacs-20250727.630/aidermacs-pkg.el
   aidermacs-20250727.630/aidermacs.el
  ✓ Success:
-  2025-08-04T01:57:03+0000  aidermacs-20250727.630.entry
-  2025-08-04T01:57:03+0000  aidermacs-20250727.630.tar
-Built aidermacs in 3.561s, finished at 2025-08-04T01:57:04+0000
+  2025-08-11T02:11:26+0000  aidermacs-20250727.630.entry
+  2025-08-11T02:11:26+0000  aidermacs-20250727.630.tar
+Built aidermacs in 3.525s, finished at 2025-08-11T02:11:27+0000

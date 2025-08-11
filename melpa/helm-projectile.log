@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/bbatsov/helm-projectile
 
 Updating /mnt/store/melpa/working/helm-projectile/
-Checking out a5407b44aec7dbe3d906be9f3ac2536b250a8497
+Checking out f28d7b8953e31e25b68eb60845f00a006999636c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/helm-projectile/
-  to /tmp/helm-projectileTOxYXE/helm-projectile-20250727.1043
+  to /tmp/helm-projectilehDPmmC/helm-projectile-20250807.1323
     helm-projectile.el -> helm-projectile.el
-Created helm-projectile-20250727.1043.tar containing:
-  helm-projectile-20250727.1043/
-  helm-projectile-20250727.1043/helm-projectile-pkg.el
-  helm-projectile-20250727.1043/helm-projectile.el
+Created helm-projectile-20250807.1323.tar containing:
+  helm-projectile-20250807.1323/
+  helm-projectile-20250807.1323/helm-projectile-pkg.el
+  helm-projectile-20250807.1323/helm-projectile.el
  ✓ Success:
-  2025-08-04T02:26:10+0000  helm-projectile-20250727.1043.entry
-  2025-08-04T02:26:10+0000  helm-projectile-20250727.1043.tar
-Built helm-projectile in 3.407s, finished at 2025-08-04T02:26:11+0000
+  2025-08-11T00:25:44+0000  helm-projectile-20250807.1323.entry
+  2025-08-11T00:25:44+0000  helm-projectile-20250807.1323.tar
+Built helm-projectile in 3.317s, finished at 2025-08-11T00:25:44+0000

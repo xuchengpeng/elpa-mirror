@@ -3,24 +3,24 @@ Fetcher: codeberg
 Source:  https://codeberg.org/martianh/fedi.el
 
 Updating /mnt/store/melpa/working/fedi/
-Checking out 0967dd0f05a46c19a44863c7c7bce560b5c9eee8
+Checking out 62aea20f11161d2665180498e79aade7e5f5a114
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/fedi/
-  to /tmp/fediOSOkNI/fedi-20250714.1432
+  to /tmp/fediobZnxW/fedi-20250806.922
     fedi-auth.el -> fedi-auth.el
     fedi-http.el -> fedi-http.el
     fedi-iso.el -> fedi-iso.el
     fedi-post.el -> fedi-post.el
     fedi.el -> fedi.el
-Created fedi-20250714.1432.tar containing:
-  fedi-20250714.1432/
-  fedi-20250714.1432/fedi-auth.el
-  fedi-20250714.1432/fedi-http.el
-  fedi-20250714.1432/fedi-iso.el
-  fedi-20250714.1432/fedi-pkg.el
-  fedi-20250714.1432/fedi-post.el
-  fedi-20250714.1432/fedi.el
+Created fedi-20250806.922.tar containing:
+  fedi-20250806.922/
+  fedi-20250806.922/fedi-auth.el
+  fedi-20250806.922/fedi-http.el
+  fedi-20250806.922/fedi-iso.el
+  fedi-20250806.922/fedi-pkg.el
+  fedi-20250806.922/fedi-post.el
+  fedi-20250806.922/fedi.el
  ✓ Success:
-  2025-08-04T02:17:14+0000  fedi-20250714.1432.entry
-  2025-08-04T02:17:14+0000  fedi-20250714.1432.tar
-Built fedi in 4.017s, finished at 2025-08-04T02:17:15+0000
+  2025-08-11T00:16:43+0000  fedi-20250806.922.entry
+  2025-08-11T00:16:43+0000  fedi-20250806.922.tar
+Built fedi in 4.275s, finished at 2025-08-11T00:16:44+0000

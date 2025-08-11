@@ -3,18 +3,18 @@ Fetcher: github
 Source:  https://github.com/dakra/speed-type
 
 Updating /mnt/store/melpa/working/speed-type/
-Checking out 716f1c32a22dc6dcc0a33874facd0fbc033de52a
+Checking out 76f74d313420111cb0f8ce578d6c348b1a46817b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/speed-type/
-  to /tmp/speed-typezlewCs/speed-type-20250722.1033
+  to /tmp/speed-type8d3n5J/speed-type-20250806.2155
     speed-type.el -> speed-type.el
     test-speed-type.el -> test-speed-type.el
-Created speed-type-20250722.1033.tar containing:
-  speed-type-20250722.1033/
-  speed-type-20250722.1033/speed-type-pkg.el
-  speed-type-20250722.1033/speed-type.el
-  speed-type-20250722.1033/test-speed-type.el
+Created speed-type-20250806.2155.tar containing:
+  speed-type-20250806.2155/
+  speed-type-20250806.2155/speed-type-pkg.el
+  speed-type-20250806.2155/speed-type.el
+  speed-type-20250806.2155/test-speed-type.el
  ✓ Success:
-  2025-08-04T00:41:32+0000  speed-type-20250722.1033.entry
-  2025-08-04T00:41:32+0000  speed-type-20250722.1033.tar
-Built speed-type in 3.482s, finished at 2025-08-04T00:41:33+0000
+  2025-08-11T00:57:35+0000  speed-type-20250806.2155.entry
+  2025-08-11T00:57:35+0000  speed-type-20250806.2155.tar
+Built speed-type in 3.206s, finished at 2025-08-11T00:57:36+0000

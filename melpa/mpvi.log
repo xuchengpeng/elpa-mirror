@@ -3,22 +3,24 @@ Fetcher: github
 Source:  https://github.com/lorniu/mpvi
 
 Updating /mnt/store/melpa/working/mpvi/
-Checking out 70c946caddf09f165dd01ed84a3c4301c63023a9
+Checking out c587b5e14b99c5e774fcaf7c90083fa9001325fe
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mpvi/
-  to /tmp/mpvim9bjbR/mpvi-20250731.310
+  to /tmp/mpviCU0FAO/mpvi-20250810.341
     mpvi-bilibili.el -> mpvi-bilibili.el
     mpvi-emms.el -> mpvi-emms.el
-    mpvi-sub.el -> mpvi-sub.el
+    mpvi-living.el -> mpvi-living.el
+    mpvi-subtitle.el -> mpvi-subtitle.el
     mpvi.el -> mpvi.el
-Created mpvi-20250731.310.tar containing:
-  mpvi-20250731.310/
-  mpvi-20250731.310/mpvi-bilibili.el
-  mpvi-20250731.310/mpvi-emms.el
-  mpvi-20250731.310/mpvi-pkg.el
-  mpvi-20250731.310/mpvi-sub.el
-  mpvi-20250731.310/mpvi.el
+Created mpvi-20250810.341.tar containing:
+  mpvi-20250810.341/
+  mpvi-20250810.341/mpvi-bilibili.el
+  mpvi-20250810.341/mpvi-emms.el
+  mpvi-20250810.341/mpvi-living.el
+  mpvi-20250810.341/mpvi-pkg.el
+  mpvi-20250810.341/mpvi-subtitle.el
+  mpvi-20250810.341/mpvi.el
  ✓ Success:
-  2025-08-04T00:21:30+0000  mpvi-20250731.310.entry
-  2025-08-04T00:21:29+0000  mpvi-20250731.310.tar
-Built mpvi in 3.389s, finished at 2025-08-04T00:21:30+0000
+  2025-08-11T00:38:26+0000  mpvi-20250810.341.entry
+  2025-08-11T00:38:26+0000  mpvi-20250810.341.tar
+Built mpvi in 3.468s, finished at 2025-08-11T00:38:27+0000

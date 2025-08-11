@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/undohist/
 Checking out fd11900663f307958dc7e1d7ea1b0004f6cdb4d0
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/undohist/
-  to /tmp/undohistGN2rPy/undohist-20240925.754
+  to /tmp/undohistpOzgr7/undohist-20240925.754
     undohist.el -> undohist.el
 Created undohist-20240925.754.tar containing:
   undohist-20240925.754/
   undohist-20240925.754/undohist-pkg.el
   undohist-20240925.754/undohist.el
  ✓ Success:
-  2025-08-04T00:46:37+0000  undohist-20240925.754.entry
-  2025-08-04T00:46:37+0000  undohist-20240925.754.tar
-Built undohist in 2.748s, finished at 2025-08-04T00:46:38+0000
+  2025-08-11T01:02:32+0000  undohist-20240925.754.entry
+  2025-08-11T01:02:32+0000  undohist-20240925.754.tar
+Built undohist in 2.646s, finished at 2025-08-11T01:02:33+0000

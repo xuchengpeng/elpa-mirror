@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/friendly-remote-shell/
 Checking out 5cafa3f6313ce04a47c8996ea1ac6b617d155d46
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/friendly-remote-shell/
-  to /tmp/friendly-remote-shellMo9lkk/friendly-remote-shell-20230916.1426
+  to /tmp/friendly-remote-shellB65TfB/friendly-remote-shell-20230916.1426
     friendly-remote-shell.el -> friendly-remote-shell.el
 Created friendly-remote-shell-20230916.1426.tar containing:
   friendly-remote-shell-20230916.1426/
   friendly-remote-shell-20230916.1426/friendly-remote-shell-pkg.el
   friendly-remote-shell-20230916.1426/friendly-remote-shell.el
  ✓ Success:
-  2025-08-04T02:20:43+0000  friendly-remote-shell-20230916.1426.entry
-  2025-08-04T02:20:43+0000  friendly-remote-shell-20230916.1426.tar
-Built friendly-remote-shell in 2.847s, finished at 2025-08-04T02:20:44+0000
+  2025-08-11T00:20:22+0000  friendly-remote-shell-20230916.1426.entry
+  2025-08-11T00:20:22+0000  friendly-remote-shell-20230916.1426.tar
+Built friendly-remote-shell in 2.777s, finished at 2025-08-11T00:20:23+0000

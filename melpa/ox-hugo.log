@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/ox-hugo/
 Checking out d6915602f9e16debf74c4603c1e77a8188d4bea7
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ox-hugo/
-  to /tmp/ox-hugo0UktXd/ox-hugo-20250801.1350
+  to /tmp/ox-hugor9A2qY/ox-hugo-20250801.1350
     org-hugo-auto-export-mode.el -> org-hugo-auto-export-mode.el
     ox-blackfriday.el -> ox-blackfriday.el
     ox-hugo-deprecated.el -> ox-hugo-deprecated.el
@@ -21,6 +21,6 @@ Created ox-hugo-20250801.1350.tar containing:
   ox-hugo-20250801.1350/ox-hugo-pkg.el
   ox-hugo-20250801.1350/ox-hugo.el
  ✓ Success:
-  2025-08-04T00:29:28+0000  ox-hugo-20250801.1350.entry
-  2025-08-04T00:29:28+0000  ox-hugo-20250801.1350.tar
-Built ox-hugo in 3.583s, finished at 2025-08-04T00:29:29+0000
+  2025-08-11T00:45:44+0000  ox-hugo-20250801.1350.entry
+  2025-08-11T00:45:44+0000  ox-hugo-20250801.1350.tar
+Built ox-hugo in 3.637s, finished at 2025-08-11T00:45:45+0000

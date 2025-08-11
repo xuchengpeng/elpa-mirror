@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/sulami/literate-calc-mode.el
 
 Updating /mnt/store/melpa/working/literate-calc-mode/
-Checking out 4fe134d60cf725d8e2ab0cde9b9db963e70abcae
+Checking out bdfdb6e526cdcf987ecded3bd9032990e5be1236
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/literate-calc-mode/
-  to /tmp/literate-calc-modeyBDipV/literate-calc-mode-20240823.335
+  to /tmp/literate-calc-modeyewhfl/literate-calc-mode-20250809.1227
     literate-calc-mode.el -> literate-calc-mode.el
-Created literate-calc-mode-20240823.335.tar containing:
-  literate-calc-mode-20240823.335/
-  literate-calc-mode-20240823.335/literate-calc-mode-pkg.el
-  literate-calc-mode-20240823.335/literate-calc-mode.el
+Created literate-calc-mode-20250809.1227.tar containing:
+  literate-calc-mode-20250809.1227/
+  literate-calc-mode-20250809.1227/literate-calc-mode-pkg.el
+  literate-calc-mode-20250809.1227/literate-calc-mode.el
  ✓ Success:
-  2025-08-04T00:17:07+0000  literate-calc-mode-20240823.335.entry
-  2025-08-04T00:17:06+0000  literate-calc-mode-20240823.335.tar
-Built literate-calc-mode in 4.093s, finished at 2025-08-04T00:17:08+0000
+  2025-08-11T00:34:03+0000  literate-calc-mode-20250809.1227.entry
+  2025-08-11T00:34:03+0000  literate-calc-mode-20250809.1227.tar
+Built literate-calc-mode in 2.680s, finished at 2025-08-11T00:34:04+0000

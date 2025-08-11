@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/repo-grep/
 Checking out d2732d30eb9b2a5b4fc3359f40424bd4a4dc2d4d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/repo-grep/
-  to /tmp/repo-grepupAuHV/repo-grep-20250714.627
+  to /tmp/repo-grep2sVzD0/repo-grep-20250714.627
     repo-grep.el -> repo-grep.el
 Created repo-grep-20250714.627.tar containing:
   repo-grep-20250714.627/
   repo-grep-20250714.627/repo-grep-pkg.el
   repo-grep-20250714.627/repo-grep.el
  ✓ Success:
-  2025-08-04T00:36:24+0000  repo-grep-20250714.627.entry
-  2025-08-04T00:36:24+0000  repo-grep-20250714.627.tar
-Built repo-grep in 2.860s, finished at 2025-08-04T00:36:25+0000
+  2025-08-11T00:52:38+0000  repo-grep-20250714.627.entry
+  2025-08-11T00:52:38+0000  repo-grep-20250714.627.tar
+Built repo-grep in 2.851s, finished at 2025-08-11T00:52:39+0000

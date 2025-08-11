@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/mutt-mode/
 Checking out 1d495de49e6f536459b00d5396a2f5ce5ad4757b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mutt-mode/
-  to /tmp/mutt-modeN1VzFK/mutt-mode-20191102.2330
+  to /tmp/mutt-modeHvqgx9/mutt-mode-20191102.2330
     mutt-mode.el -> mutt-mode.el
 Created mutt-mode-20191102.2330.tar containing:
   mutt-mode-20191102.2330/
   mutt-mode-20191102.2330/mutt-mode-pkg.el
   mutt-mode-20191102.2330/mutt-mode.el
  ✓ Success:
-  2025-08-04T00:21:56+0000  mutt-mode-20191102.2330.entry
-  2025-08-04T00:21:56+0000  mutt-mode-20191102.2330.tar
-Built mutt-mode in 3.555s, finished at 2025-08-04T00:21:57+0000
+  2025-08-11T00:38:53+0000  mutt-mode-20191102.2330.entry
+  2025-08-11T00:38:53+0000  mutt-mode-20191102.2330.tar
+Built mutt-mode in 3.335s, finished at 2025-08-11T00:38:54+0000

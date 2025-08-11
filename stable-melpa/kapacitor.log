@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/kapacitor/
 Checking out e3300d8b4017a2f66b0d929cb85bcc7ee2612072
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/kapacitor/
-  to /tmp/kapacitorEDHzhj/kapacitor-20190414.1908
+  to /tmp/kapacitorgDxmnw/kapacitor-20190414.1908
     kapacitor.el -> kapacitor.el
 Created kapacitor-20190414.1908.tar containing:
   kapacitor-20190414.1908/
   kapacitor-20190414.1908/kapacitor-pkg.el
   kapacitor-20190414.1908/kapacitor.el
  ✓ Success:
-  2025-08-04T00:14:42+0000  kapacitor-20190414.1908.entry
-  2025-08-04T00:14:42+0000  kapacitor-20190414.1908.tar
-Built kapacitor in 3.331s, finished at 2025-08-04T00:14:43+0000
+  2025-08-11T00:31:28+0000  kapacitor-20190414.1908.entry
+  2025-08-11T00:31:28+0000  kapacitor-20190414.1908.tar
+Built kapacitor in 3.987s, finished at 2025-08-11T00:31:30+0000
