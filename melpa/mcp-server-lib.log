@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/mcp-server-lib/
 Checking out 062a3078122171fffd1c1fc8ec64b114acd1cba2
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mcp-server-lib/
-  to /tmp/mcp-server-libcY3mT9/mcp-server-lib-20250728.457
+  to /tmp/mcp-server-libEOde2P/mcp-server-lib-20250728.457
     mcp-server-lib-commands.el -> mcp-server-lib-commands.el
     mcp-server-lib-ert.el -> mcp-server-lib-ert.el
     mcp-server-lib-metrics.el -> mcp-server-lib-metrics.el
@@ -21,6 +21,6 @@ Created mcp-server-lib-20250728.457.tar containing:
   mcp-server-lib-20250728.457/mcp-server-lib-pkg.el
   mcp-server-lib-20250728.457/mcp-server-lib.el
  ✓ Success:
-  2025-08-11T00:36:22+0000  mcp-server-lib-20250728.457.entry
-  2025-08-11T00:36:22+0000  mcp-server-lib-20250728.457.tar
-Built mcp-server-lib in 2.844s, finished at 2025-08-11T00:36:23+0000
+  2025-08-18T01:31:21+0000  mcp-server-lib-20250728.457.entry
+  2025-08-18T01:31:21+0000  mcp-server-lib-20250728.457.tar
+Built mcp-server-lib in 2.973s, finished at 2025-08-18T01:31:22+0000

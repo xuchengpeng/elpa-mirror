@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/forge/
 Checking out 3402272a8932e826d709c3b1c2d4ef40909e7246
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/forge/
-  to /tmp/forgeNr1jtu/forge-20250807.1144
+  to /tmp/forgeeNEs8s/forge-20250807.1144
   ! lisp/forge-bitbucket.el -> forge-bitbucket.el
   ! lisp/forge-client.el -> forge-client.el
   ! lisp/forge-commands.el -> forge-commands.el
@@ -63,6 +63,6 @@ Created forge-20250807.1144.tar containing:
   forge-20250807.1144/forge.el
   forge-20250807.1144/forge.info
  ✓ Success:
-  2025-08-11T00:20:07+0000  forge-20250807.1144.entry
-  2025-08-11T00:20:07+0000  forge-20250807.1144.tar
-Built forge in 5.256s, finished at 2025-08-11T00:20:08+0000
+  2025-08-18T01:14:42+0000  forge-20250807.1144.entry
+  2025-08-18T01:14:42+0000  forge-20250807.1144.tar
+Built forge in 5.960s, finished at 2025-08-18T01:14:43+0000

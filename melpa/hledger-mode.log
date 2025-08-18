@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/hledger-mode/
 Checking out 5492509a23047f0a1f05a112b47fa34eba7c5e1d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/hledger-mode/
-  to /tmp/hledger-modej4acRA/hledger-mode-20240415.1812
+  to /tmp/hledger-modejVAVm7/hledger-mode-20240415.1812
     hledger-core.el -> hledger-core.el
     hledger-defuns.el -> hledger-defuns.el
     hledger-input.el -> hledger-input.el
@@ -29,6 +29,6 @@ Created hledger-mode-20240415.1812.tar containing:
   hledger-mode-20240415.1812/hledger-suggest.el
   hledger-mode-20240415.1812/hledger-webservice.el
  ✓ Success:
-  2025-08-11T00:27:10+0000  hledger-mode-20240415.1812.entry
-  2025-08-11T00:27:10+0000  hledger-mode-20240415.1812.tar
-Built hledger-mode in 3.177s, finished at 2025-08-11T00:27:11+0000
+  2025-08-18T01:21:36+0000  hledger-mode-20240415.1812.entry
+  2025-08-18T01:21:36+0000  hledger-mode-20240415.1812.tar
+Built hledger-mode in 3.291s, finished at 2025-08-18T01:21:37+0000

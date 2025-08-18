@@ -3,10 +3,10 @@ Fetcher: github
 Source:  https://github.com/chep/copilot-chat.el
 
 Updating /mnt/store/melpa/working/copilot-chat/
-Checking out 2a086063a272c85d3b9d7454edb5d299d0c77d10
+Checking out dce5a645c9e215b44bf7ad89eec49b7d3f1954d1
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/copilot-chat/
-  to /tmp/copilot-chatIWZFcB/copilot-chat-20250724.1047
+  to /tmp/copilot-chattDv7Ap/copilot-chat-20250812.1237
     copilot-chat-backend.el -> copilot-chat-backend.el
     copilot-chat-body.el -> copilot-chat-body.el
     copilot-chat-command.el -> copilot-chat-command.el
@@ -19,6 +19,7 @@ Copying files (->) and directories (=>)
     copilot-chat-git.el -> copilot-chat-git.el
     copilot-chat-instance.el -> copilot-chat-instance.el
     copilot-chat-markdown.el -> copilot-chat-markdown.el
+    copilot-chat-mcp.el -> copilot-chat-mcp.el
     copilot-chat-model.el -> copilot-chat-model.el
     copilot-chat-org.el -> copilot-chat-org.el
     copilot-chat-prompt-mode.el -> copilot-chat-prompt-mode.el
@@ -28,31 +29,32 @@ Copying files (->) and directories (=>)
     copilot-chat-spinner.el -> copilot-chat-spinner.el
     copilot-chat-transient.el -> copilot-chat-transient.el
     copilot-chat.el -> copilot-chat.el
-Created copilot-chat-20250724.1047.tar containing:
-  copilot-chat-20250724.1047/
-  copilot-chat-20250724.1047/copilot-chat-backend.el
-  copilot-chat-20250724.1047/copilot-chat-body.el
-  copilot-chat-20250724.1047/copilot-chat-command.el
-  copilot-chat-20250724.1047/copilot-chat-common.el
-  copilot-chat-20250724.1047/copilot-chat-connection.el
-  copilot-chat-20250724.1047/copilot-chat-copilot.el
-  copilot-chat-20250724.1047/copilot-chat-curl.el
-  copilot-chat-20250724.1047/copilot-chat-debug.el
-  copilot-chat-20250724.1047/copilot-chat-frontend.el
-  copilot-chat-20250724.1047/copilot-chat-git.el
-  copilot-chat-20250724.1047/copilot-chat-instance.el
-  copilot-chat-20250724.1047/copilot-chat-markdown.el
-  copilot-chat-20250724.1047/copilot-chat-model.el
-  copilot-chat-20250724.1047/copilot-chat-org.el
-  copilot-chat-20250724.1047/copilot-chat-pkg.el
-  copilot-chat-20250724.1047/copilot-chat-prompt-mode.el
-  copilot-chat-20250724.1047/copilot-chat-prompts.el
-  copilot-chat-20250724.1047/copilot-chat-request.el
-  copilot-chat-20250724.1047/copilot-chat-shell-maker.el
-  copilot-chat-20250724.1047/copilot-chat-spinner.el
-  copilot-chat-20250724.1047/copilot-chat-transient.el
-  copilot-chat-20250724.1047/copilot-chat.el
+Created copilot-chat-20250812.1237.tar containing:
+  copilot-chat-20250812.1237/
+  copilot-chat-20250812.1237/copilot-chat-backend.el
+  copilot-chat-20250812.1237/copilot-chat-body.el
+  copilot-chat-20250812.1237/copilot-chat-command.el
+  copilot-chat-20250812.1237/copilot-chat-common.el
+  copilot-chat-20250812.1237/copilot-chat-connection.el
+  copilot-chat-20250812.1237/copilot-chat-copilot.el
+  copilot-chat-20250812.1237/copilot-chat-curl.el
+  copilot-chat-20250812.1237/copilot-chat-debug.el
+  copilot-chat-20250812.1237/copilot-chat-frontend.el
+  copilot-chat-20250812.1237/copilot-chat-git.el
+  copilot-chat-20250812.1237/copilot-chat-instance.el
+  copilot-chat-20250812.1237/copilot-chat-markdown.el
+  copilot-chat-20250812.1237/copilot-chat-mcp.el
+  copilot-chat-20250812.1237/copilot-chat-model.el
+  copilot-chat-20250812.1237/copilot-chat-org.el
+  copilot-chat-20250812.1237/copilot-chat-pkg.el
+  copilot-chat-20250812.1237/copilot-chat-prompt-mode.el
+  copilot-chat-20250812.1237/copilot-chat-prompts.el
+  copilot-chat-20250812.1237/copilot-chat-request.el
+  copilot-chat-20250812.1237/copilot-chat-shell-maker.el
+  copilot-chat-20250812.1237/copilot-chat-spinner.el
+  copilot-chat-20250812.1237/copilot-chat-transient.el
+  copilot-chat-20250812.1237/copilot-chat.el
  ✓ Success:
-  2025-08-11T00:05:50+0000  copilot-chat-20250724.1047.entry
-  2025-08-11T00:05:50+0000  copilot-chat-20250724.1047.tar
-Built copilot-chat in 4.259s, finished at 2025-08-11T00:05:51+0000
+  2025-08-18T01:00:05+0000  copilot-chat-20250812.1237.entry
+  2025-08-18T01:00:04+0000  copilot-chat-20250812.1237.tar
+Built copilot-chat in 5.308s, finished at 2025-08-18T01:00:06+0000

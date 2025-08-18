@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/eg/
 Checking out 1c7f1613d2aaae728ef540305f6ba030616f86bd
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/eg/
-  to /tmp/egVGykiS/eg-20170830.815
+  to /tmp/egoEj3hT/eg-20170830.815
     eg.el -> eg.el
 Created eg-20170830.815.tar containing:
   eg-20170830.815/
   eg-20170830.815/eg-pkg.el
   eg-20170830.815/eg.el
  ✓ Success:
-  2025-08-11T00:11:25+0000  eg-20170830.815.entry
-  2025-08-11T00:11:25+0000  eg-20170830.815.tar
-Built eg in 2.740s, finished at 2025-08-11T00:11:26+0000
+  2025-08-18T01:05:46+0000  eg-20170830.815.entry
+  2025-08-18T01:05:46+0000  eg-20170830.815.tar
+Built eg in 2.770s, finished at 2025-08-18T01:05:47+0000

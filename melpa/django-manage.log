@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/django-manage/
 Checking out e72b1cf2fdbb5c624d19169176e60467b4918fe2
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/django-manage/
-  to /tmp/django-managel8Jk0c/django-manage-20160819.212
+  to /tmp/django-manageCoDZUp/django-manage-20160819.212
     django-manage.el -> django-manage.el
 Created django-manage-20160819.212.tar containing:
   django-manage-20160819.212/
   django-manage-20160819.212/django-manage-pkg.el
   django-manage-20160819.212/django-manage.el
  ✓ Success:
-  2025-08-11T00:09:26+0000  django-manage-20160819.212.entry
-  2025-08-11T00:09:26+0000  django-manage-20160819.212.tar
-Built django-manage in 4.219s, finished at 2025-08-11T00:09:28+0000
+  2025-08-18T01:03:58+0000  django-manage-20160819.212.entry
+  2025-08-18T01:03:58+0000  django-manage-20160819.212.tar
+Built django-manage in 2.720s, finished at 2025-08-18T01:03:58+0000

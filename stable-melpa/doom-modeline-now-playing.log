@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/doom-modeline-now-playing/
 Checking out bb6f7111ac703962d3acdb1a42b499e7037699da
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/doom-modeline-now-playing/
-  to /tmp/doom-modeline-now-playingqVqj59/doom-modeline-now-playing-20250810.1114
+  to /tmp/doom-modeline-now-playingz8Yoms/doom-modeline-now-playing-20250810.1114
     doom-modeline-now-playing-core.el -> doom-modeline-now-playing-core.el
     doom-modeline-now-playing-media-control.el -> doom-modeline-now-playing-media-control.el
     doom-modeline-now-playing-osascript.el -> doom-modeline-now-playing-osascript.el
@@ -21,6 +21,6 @@ Created doom-modeline-now-playing-20250810.1114.tar containing:
   doom-modeline-now-playing-20250810.1114/doom-modeline-now-playing-playerctl.el
   doom-modeline-now-playing-20250810.1114/doom-modeline-now-playing.el
  ✓ Success:
-  2025-08-11T00:10:01+0000  doom-modeline-now-playing-20250810.1114.entry
-  2025-08-11T00:10:01+0000  doom-modeline-now-playing-20250810.1114.tar
-Built doom-modeline-now-playing in 3.503s, finished at 2025-08-11T00:10:03+0000
+  2025-08-18T01:04:24+0000  doom-modeline-now-playing-20250810.1114.entry
+  2025-08-18T01:04:24+0000  doom-modeline-now-playing-20250810.1114.tar
+Built doom-modeline-now-playing in 3.409s, finished at 2025-08-18T01:04:25+0000

@@ -1,0 +1,18 @@
+Package: hotdesk
+Fetcher: github
+Source:  https://github.com/j-hotlink/hotdesk
+
+Updating /mnt/store/melpa/working/hotdesk/
+Checking out cd31f1074365ef83e147ccd65c65bc58a9de1c91
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/hotdesk/
+  to /tmp/hotdesklWqJPP/hotdesk-20250813.1435
+    hotdesk.el -> hotdesk.el
+Created hotdesk-20250813.1435.tar containing:
+  hotdesk-20250813.1435/
+  hotdesk-20250813.1435/hotdesk-pkg.el
+  hotdesk-20250813.1435/hotdesk.el
+ ✓ Success:
+  2025-08-18T01:21:45+0000  hotdesk-20250813.1435.entry
+  2025-08-18T01:21:45+0000  hotdesk-20250813.1435.tar
+Built hotdesk in 2.747s, finished at 2025-08-18T01:21:46+0000

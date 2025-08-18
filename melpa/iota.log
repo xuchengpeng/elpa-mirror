@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/iota/
 Checking out c065c087567f074bff639eb12fa53018654b8ce2
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/iota/
-  to /tmp/iotaLdrLw6/iota-20230918.1028
+  to /tmp/iotaGXCVHt/iota-20230918.1028
     iota.el -> iota.el
 Created iota-20230918.1028.tar containing:
   iota-20230918.1028/
   iota-20230918.1028/iota-pkg.el
   iota-20230918.1028/iota.el
  ✓ Success:
-  2025-08-11T00:29:19+0000  iota-20230918.1028.entry
-  2025-08-11T00:29:19+0000  iota-20230918.1028.tar
-Built iota in 3.884s, finished at 2025-08-11T00:29:20+0000
+  2025-08-18T01:23:53+0000  iota-20230918.1028.entry
+  2025-08-18T01:23:53+0000  iota-20230918.1028.tar
+Built iota in 5.828s, finished at 2025-08-18T01:23:55+0000

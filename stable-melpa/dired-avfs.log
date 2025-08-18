@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/dired-avfs/
 Checking out d1a85901c892ba7ec273995070a43cbbbe5d0b37
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/dired-avfs/
-  to /tmp/dired-avfsUNopxh/dired-avfs-20240629.1857
+  to /tmp/dired-avfs3ENuNR/dired-avfs-20240629.1857
     dired-avfs.el -> dired-avfs.el
 Created dired-avfs-20240629.1857.tar containing:
   dired-avfs-20240629.1857/
   dired-avfs-20240629.1857/dired-avfs-pkg.el
   dired-avfs-20240629.1857/dired-avfs.el
  ✓ Success:
-  2025-08-11T00:08:35+0000  dired-avfs-20240629.1857.entry
-  2025-08-11T00:08:35+0000  dired-avfs-20240629.1857.tar
-Built dired-avfs in 2.608s, finished at 2025-08-11T00:08:36+0000
+  2025-08-18T01:03:12+0000  dired-avfs-20240629.1857.entry
+  2025-08-18T01:03:12+0000  dired-avfs-20240629.1857.tar
+Built dired-avfs in 2.905s, finished at 2025-08-18T01:03:13+0000

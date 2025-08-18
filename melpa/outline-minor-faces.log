@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/tarsius/outline-minor-faces
 
 Updating /mnt/store/melpa/working/outline-minor-faces/
-Checking out f0383146253972e68dc898c4714fbfc8ad549c09
+Checking out 5429d48d265a690fbecda1e94c40f1442eafbdb9
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/outline-minor-faces/
-  to /tmp/outline-minor-facesOtvbTb/outline-minor-faces-20250807.1027
+  to /tmp/outline-minor-facesRhGXWZ/outline-minor-faces-20250815.1812
     outline-minor-faces.el -> outline-minor-faces.el
-Created outline-minor-faces-20250807.1027.tar containing:
-  outline-minor-faces-20250807.1027/
-  outline-minor-faces-20250807.1027/outline-minor-faces-pkg.el
-  outline-minor-faces-20250807.1027/outline-minor-faces.el
+Created outline-minor-faces-20250815.1812.tar containing:
+  outline-minor-faces-20250815.1812/
+  outline-minor-faces-20250815.1812/outline-minor-faces-pkg.el
+  outline-minor-faces-20250815.1812/outline-minor-faces.el
  ✓ Success:
-  2025-08-11T00:45:27+0000  outline-minor-faces-20250807.1027.entry
-  2025-08-11T00:45:26+0000  outline-minor-faces-20250807.1027.tar
-Built outline-minor-faces in 2.829s, finished at 2025-08-11T00:45:27+0000
+  2025-08-18T01:40:22+0000  outline-minor-faces-20250815.1812.entry
+  2025-08-18T01:40:22+0000  outline-minor-faces-20250815.1812.tar
+Built outline-minor-faces in 3.115s, finished at 2025-08-18T01:40:23+0000

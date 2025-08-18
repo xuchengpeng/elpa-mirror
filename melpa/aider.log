@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/aider/
 Checking out cf5b74d7630d98e35196a13a888bacbf9d2798a1
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/aider/
-  to /tmp/aiderbzJ9CW/aider-20250729.1451
+  to /tmp/aider4fCLp2/aider-20250729.1451
     aider-agile.el -> aider-agile.el
     aider-bootstrap.el -> aider-bootstrap.el
     aider-code-change.el -> aider-code-change.el
@@ -103,6 +103,6 @@ Created aider-20250729.1451.tar containing:
   aider-20250729.1451/snippets/aider-prompt-mode/write-regex
   aider-20250729.1451/snippets/aider-prompt-mode/write-terms-conditions
  ✓ Success:
-  2025-08-11T02:11:26+0000  aider-20250729.1451.entry
-  2025-08-11T02:11:26+0000  aider-20250729.1451.tar
-Built aider in 3.663s, finished at 2025-08-11T02:11:27+0000
+  2025-08-18T00:50:59+0000  aider-20250729.1451.entry
+  2025-08-18T00:50:59+0000  aider-20250729.1451.tar
+Built aider in 3.794s, finished at 2025-08-18T00:51:00+0000

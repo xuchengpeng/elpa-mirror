@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/lgr/
 Checking out 4ab6c22bcbc533acace3c854876f40fa9d2f7819
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/lgr/
-  to /tmp/lgrYKFIZJ/lgr-20230407.1317
+  to /tmp/lgrzVbZeB/lgr-20230407.1317
     lgr.el -> lgr.el
 Created lgr-20230407.1317.tar containing:
   lgr-20230407.1317/
   lgr-20230407.1317/lgr-pkg.el
   lgr-20230407.1317/lgr.el
  ✓ Success:
-  2025-08-11T00:33:32+0000  lgr-20230407.1317.entry
-  2025-08-11T00:33:32+0000  lgr-20230407.1317.tar
-Built lgr in 3.032s, finished at 2025-08-11T00:33:33+0000
+  2025-08-18T01:28:11+0000  lgr-20230407.1317.entry
+  2025-08-18T01:28:11+0000  lgr-20230407.1317.tar
+Built lgr in 2.987s, finished at 2025-08-18T01:28:11+0000

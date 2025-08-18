@@ -4,7 +4,7 @@
 - [Installation](#installation)
 - [Quick Start: LLM Provider Examples](#quick-start-llm-provider-examples)
   - [Ollama Qwen-2.5-coder:3b](#ollama-qwen-25-coder3b)
-  - [OpenRouter Deepseek-V3-0324](#openrouter-deepseek-v3-0324)
+  - [OpenRouter Kimi-K2](#openrouter-kimi-k2)
   - [Llama.cpp Qwen-2.5-coder:1.5b](#llamacpp-qwen-25-coder15b)
 - [API Keys](#api-keys)
 - [Selecting a Provider or Model](#selecting-a-provider-or-model)
@@ -161,7 +161,7 @@ preferred package managers.
 
 </details>
 
-## OpenRouter Deepseek-V3-0324
+## OpenRouter Kimi-K2
 
 <details>
 
@@ -175,7 +175,7 @@ preferred package managers.
 
     (plist-put minuet-openai-compatible-options :end-point "https://openrouter.ai/api/v1/chat/completions")
     (plist-put minuet-openai-compatible-options :api-key "OPENROUTER_API_KEY")
-    (plist-put minuet-openai-compatible-options :model "deepseek/deepseek-chat-v3-0324")
+    (plist-put minuet-openai-compatible-options :model "moonshotai/kimi-k2")
 
 
     ;; Prioritize throughput for faster completion
@@ -289,17 +289,15 @@ significantly slow down the default provider used by Minuet
 (`openai-fim-compatible` with deepseek). We recommend trying alternative
 providers instead.
 
-For Gemini model users:
+We **do not** recommend using thinking models, as this mode
+significantly increases latency—even with the fastest models. However,
+if you choose to use thinking models, please ensure that their
+thinking capabilities are disabled.  Refer to the following examples
+for guidance on how to disable the thinking feature.
 
-<details>
-
-We recommend using `gemini-2.0-flash` over `gemini-2.5-flash`, as the 2.0
-version offers significantly lower costs with comparable performance. The
-primary improvement in version 2.5 lies in its extended thinking mode, which
-provides minimal value for code completion scenarios. Furthermore, the thinking
-mode substantially increases latency, so we recommend disabling it entirely.
-
-</details>
+Note: You can review the buffer contents in `*minuet*` to identify any
+errors returned by the provider in case of misconfiguration in your
+options.
 
 ## Understanding Model Speed
 
@@ -456,6 +454,12 @@ Below is the default value:
 
 ```
 
+You can disable thinking mode with the following configuration:
+
+```lisp
+(minuet-set-optional-options minuet-openai-options :reasoning_effort "minimal")
+```
+
 </details>
 
 ## Claude
@@ -596,7 +600,7 @@ The following config is the default.
 (defvar minuet-openai-compatible-options
     `(:end-point "https://openrouter.ai/api/v1/chat/completions"
       :api-key "OPENROUTER_API_KEY"
-      :model "mistralai/devstral-small-2505"
+      :model "mistralai/devstral-small"
       :system
       (:template minuet-default-system-template
        :prompt minuet-default-prompt

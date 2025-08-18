@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/loco/
 Checking out 1b677db115a1957f4ddc0a5edc225c0dbd29d1ed
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/loco/
-  to /tmp/locoRBtLVo/loco-20250725.1735
+  to /tmp/locojtDEfd/loco-20250725.1735
     loco.el -> loco.el
     loco.info -> loco.info
 Created loco-20250725.1735.tar containing:
@@ -16,6 +16,6 @@ Created loco-20250725.1735.tar containing:
   loco-20250725.1735/loco.el
   loco-20250725.1735/loco.info
  ✓ Success:
-  2025-08-11T00:34:20+0000  loco-20250725.1735.entry
-  2025-08-11T00:34:20+0000  loco-20250725.1735.tar
-Built loco in 3.530s, finished at 2025-08-11T00:34:21+0000
+  2025-08-18T01:29:00+0000  loco-20250725.1735.entry
+  2025-08-18T01:29:00+0000  loco-20250725.1735.tar
+Built loco in 3.567s, finished at 2025-08-18T01:29:01+0000

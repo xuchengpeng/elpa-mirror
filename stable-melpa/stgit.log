@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/stacked-git/stgit
 
 Updating /mnt/store/melpa/working/stgit/
-Checking out f88c7f0e375e069ea35f7db1294d1408d69e7a1d
+Checking out d05f56db8124fc76c37a10c61e8db8a45e8cae15
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/stgit/
-  to /tmp/stgitRxERKb/stgit-20250701.356
+  to /tmp/stgitkqUVwd/stgit-20250811.357
   ! contrib/stgit.el -> stgit.el
-Created stgit-20250701.356.tar containing:
-  stgit-20250701.356/
-  stgit-20250701.356/stgit-pkg.el
-  stgit-20250701.356/stgit.el
+Created stgit-20250811.357.tar containing:
+  stgit-20250811.357/
+  stgit-20250811.357/stgit-pkg.el
+  stgit-20250811.357/stgit.el
  ✓ Success:
-  2025-08-11T00:58:12+0000  stgit-20250701.356.entry
-  2025-08-11T00:58:12+0000  stgit-20250701.356.tar
-Built stgit in 3.669s, finished at 2025-08-11T00:58:13+0000
+  2025-08-18T01:53:23+0000  stgit-20250811.357.entry
+  2025-08-18T01:53:23+0000  stgit-20250811.357.tar
+Built stgit in 3.862s, finished at 2025-08-18T01:53:24+0000

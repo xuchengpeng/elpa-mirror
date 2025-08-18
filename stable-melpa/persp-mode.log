@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/Bad-ptr/persp-mode.el
 
 Updating /mnt/store/melpa/working/persp-mode/
-Checking out f146ddccaf598feb402664bc6848b60321b2dc78
+Checking out 82680795b3dbb9f9fb023b1754902f38519d9875
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/persp-mode/
-  to /tmp/persp-modeQqrWub/persp-mode-20250731.806
+  to /tmp/persp-mode1TmgBQ/persp-mode-20250814.1552
     persp-mode.el -> persp-mode.el
-Created persp-mode-20250731.806.tar containing:
-  persp-mode-20250731.806/
-  persp-mode-20250731.806/persp-mode-pkg.el
-  persp-mode-20250731.806/persp-mode.el
+Created persp-mode-20250814.1552.tar containing:
+  persp-mode-20250814.1552/
+  persp-mode-20250814.1552/persp-mode-pkg.el
+  persp-mode-20250814.1552/persp-mode.el
  ✓ Success:
-  2025-08-11T00:47:18+0000  persp-mode-20250731.806.entry
-  2025-08-11T00:47:18+0000  persp-mode-20250731.806.tar
-Built persp-mode in 2.927s, finished at 2025-08-11T00:47:19+0000
+  2025-08-18T01:42:31+0000  persp-mode-20250814.1552.entry
+  2025-08-18T01:42:31+0000  persp-mode-20250814.1552.tar
+Built persp-mode in 3.056s, finished at 2025-08-18T01:42:32+0000

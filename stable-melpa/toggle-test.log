@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/toggle-test/
 Checking out a0b64834101c2b8b24da365baea1d36e57b069b5
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/toggle-test/
-  to /tmp/toggle-testS4vGZt/toggle-test-20140723.537
+  to /tmp/toggle-testEwaR7s/toggle-test-20140723.537
     toggle-test.el -> toggle-test.el
 Created toggle-test-20140723.537.tar containing:
   toggle-test-20140723.537/
   toggle-test-20140723.537/toggle-test-pkg.el
   toggle-test-20140723.537/toggle-test.el
  ✓ Success:
-  2025-08-11T01:01:03+0000  toggle-test-20140723.537.entry
-  2025-08-11T01:01:03+0000  toggle-test-20140723.537.tar
-Built toggle-test in 2.930s, finished at 2025-08-11T01:01:04+0000
+  2025-08-18T01:56:15+0000  toggle-test-20140723.537.entry
+  2025-08-18T01:56:15+0000  toggle-test-20140723.537.tar
+Built toggle-test in 2.710s, finished at 2025-08-18T01:56:16+0000

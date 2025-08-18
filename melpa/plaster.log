@@ -1,18 +1,18 @@
 Package: plaster
-Fetcher: github
-Source:  https://github.com/Shirakumo/plaster
+Fetcher: codeberg
+Source:  https://codeberg.org/shirakumo/plaster
 
 Updating /mnt/store/melpa/working/plaster/
-Checking out 11eb23920410818fe444887b97ad4c8722d66c85
+Checking out e3cfbfb4aa874efe2fb5f8f09818d5f90cd9f22c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/plaster/
-  to /tmp/plastertfU0Y1/plaster-20180127.2050
+  to /tmp/plasterLWrG4H/plaster-20250811.1925
     plaster.el -> plaster.el
-Created plaster-20180127.2050.tar containing:
-  plaster-20180127.2050/
-  plaster-20180127.2050/plaster-pkg.el
-  plaster-20180127.2050/plaster.el
+Created plaster-20250811.1925.tar containing:
+  plaster-20250811.1925/
+  plaster-20250811.1925/plaster-pkg.el
+  plaster-20250811.1925/plaster.el
  ✓ Success:
-  2025-08-11T00:48:06+0000  plaster-20180127.2050.entry
-  2025-08-11T00:48:06+0000  plaster-20180127.2050.tar
-Built plaster in 2.816s, finished at 2025-08-11T00:48:07+0000
+  2025-08-18T01:43:22+0000  plaster-20250811.1925.entry
+  2025-08-18T01:43:22+0000  plaster-20250811.1925.tar
+Built plaster in 3.702s, finished at 2025-08-18T01:43:23+0000

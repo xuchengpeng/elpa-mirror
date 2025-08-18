@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/emms/
 Checking out e3824b81b11ac71b9bb0993a3a3d3647b923a377
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/emms/
-  to /tmp/emmsb5yQo1/emms-20250731.1547
+  to /tmp/emmsI2bvrK/emms-20250731.1547
     emms-bookmarks.el -> emms-bookmarks.el
     emms-browser.el -> emms-browser.el
     emms-cache.el -> emms-cache.el
@@ -155,6 +155,6 @@ Created emms-20250731.1547.tar containing:
   emms-20250731.1547/emms.el
   emms-20250731.1547/emms.info
  ✓ Success:
-  2025-08-11T00:13:12+0000  emms-20250731.1547.entry
-  2025-08-11T00:13:12+0000  emms-20250731.1547.tar
-Built emms in 9.280s, finished at 2025-08-11T00:13:13+0000
+  2025-08-18T01:07:51+0000  emms-20250731.1547.entry
+  2025-08-18T01:07:51+0000  emms-20250731.1547.tar
+Built emms in 9.146s, finished at 2025-08-18T01:07:52+0000

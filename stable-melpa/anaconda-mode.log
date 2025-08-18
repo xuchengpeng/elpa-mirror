@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/anaconda-mode/
 Checking out ee1562c6b443be9208910c700e229824b2f1af7a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/anaconda-mode/
-  to /tmp/anaconda-modesy9iXI/anaconda-mode-20250430.227
+  to /tmp/anaconda-modezLE4NZ/anaconda-mode-20250430.227
     anaconda-mode.el -> anaconda-mode.el
     anaconda-mode.py -> anaconda-mode.py
 Created anaconda-mode-20250430.227.tar containing:
@@ -15,6 +15,6 @@ Created anaconda-mode-20250430.227.tar containing:
   anaconda-mode-20250430.227/anaconda-mode.el
   anaconda-mode-20250430.227/anaconda-mode.py
  ✓ Success:
-  2025-08-11T02:11:51+0000  anaconda-mode-20250430.227.entry
-  2025-08-11T02:11:51+0000  anaconda-mode-20250430.227.tar
-Built anaconda-mode in 3.211s, finished at 2025-08-11T02:11:52+0000
+  2025-08-18T00:51:26+0000  anaconda-mode-20250430.227.entry
+  2025-08-18T00:51:26+0000  anaconda-mode-20250430.227.tar
+Built anaconda-mode in 3.160s, finished at 2025-08-18T00:51:27+0000

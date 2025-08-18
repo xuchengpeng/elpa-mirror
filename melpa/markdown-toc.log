@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/ardumont/markdown-toc
 
 Updating /mnt/store/melpa/working/markdown-toc/
-Checking out d2fb4cbd95e558042307d706f9f47f93687c9fcc
+Checking out 3835390ac44c5dc712d4caae5661995f0639262e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/markdown-toc/
-  to /tmp/markdown-tocCnCpbm/markdown-toc-20241226.1737
+  to /tmp/markdown-tocUzdvU2/markdown-toc-20250812.237
     markdown-toc.el -> markdown-toc.el
-Created markdown-toc-20241226.1737.tar containing:
-  markdown-toc-20241226.1737/
-  markdown-toc-20241226.1737/markdown-toc-pkg.el
-  markdown-toc-20241226.1737/markdown-toc.el
+Created markdown-toc-20250812.237.tar containing:
+  markdown-toc-20250812.237/
+  markdown-toc-20250812.237/markdown-toc-pkg.el
+  markdown-toc-20250812.237/markdown-toc.el
  ✓ Success:
-  2025-08-11T00:36:01+0000  markdown-toc-20241226.1737.entry
-  2025-08-11T00:36:01+0000  markdown-toc-20241226.1737.tar
-Built markdown-toc in 2.945s, finished at 2025-08-11T00:36:02+0000
+  2025-08-18T01:31:00+0000  markdown-toc-20250812.237.entry
+  2025-08-18T01:31:00+0000  markdown-toc-20250812.237.tar
+Built markdown-toc in 2.980s, finished at 2025-08-18T01:31:01+0000

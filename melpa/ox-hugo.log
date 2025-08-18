@@ -3,24 +3,24 @@ Fetcher: github
 Source:  https://github.com/kaushalmodi/ox-hugo
 
 Updating /mnt/store/melpa/working/ox-hugo/
-Checking out d6915602f9e16debf74c4603c1e77a8188d4bea7
+Checking out 6499e35bb04bec2629e51305ffb8a30ae988f92a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ox-hugo/
-  to /tmp/ox-hugor9A2qY/ox-hugo-20250801.1350
+  to /tmp/ox-hugo7ztV6P/ox-hugo-20250814.1439
     org-hugo-auto-export-mode.el -> org-hugo-auto-export-mode.el
     ox-blackfriday.el -> ox-blackfriday.el
     ox-hugo-deprecated.el -> ox-hugo-deprecated.el
     ox-hugo-pandoc-cite.el -> ox-hugo-pandoc-cite.el
     ox-hugo.el -> ox-hugo.el
-Created ox-hugo-20250801.1350.tar containing:
-  ox-hugo-20250801.1350/
-  ox-hugo-20250801.1350/org-hugo-auto-export-mode.el
-  ox-hugo-20250801.1350/ox-blackfriday.el
-  ox-hugo-20250801.1350/ox-hugo-deprecated.el
-  ox-hugo-20250801.1350/ox-hugo-pandoc-cite.el
-  ox-hugo-20250801.1350/ox-hugo-pkg.el
-  ox-hugo-20250801.1350/ox-hugo.el
+Created ox-hugo-20250814.1439.tar containing:
+  ox-hugo-20250814.1439/
+  ox-hugo-20250814.1439/org-hugo-auto-export-mode.el
+  ox-hugo-20250814.1439/ox-blackfriday.el
+  ox-hugo-20250814.1439/ox-hugo-deprecated.el
+  ox-hugo-20250814.1439/ox-hugo-pandoc-cite.el
+  ox-hugo-20250814.1439/ox-hugo-pkg.el
+  ox-hugo-20250814.1439/ox-hugo.el
  ✓ Success:
-  2025-08-11T00:45:44+0000  ox-hugo-20250801.1350.entry
-  2025-08-11T00:45:44+0000  ox-hugo-20250801.1350.tar
-Built ox-hugo in 3.637s, finished at 2025-08-11T00:45:45+0000
+  2025-08-18T01:40:46+0000  ox-hugo-20250814.1439.entry
+  2025-08-18T01:40:45+0000  ox-hugo-20250814.1439.tar
+Built ox-hugo in 5.856s, finished at 2025-08-18T01:40:47+0000

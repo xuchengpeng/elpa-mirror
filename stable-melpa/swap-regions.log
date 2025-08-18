@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/swap-regions/
 Checking out f4fd9880cf690e003fcde88dcf2b46adbbbb03cd
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/swap-regions/
-  to /tmp/swap-regionsWu6mqa/swap-regions-20180915.1346
+  to /tmp/swap-regionsz2NnC3/swap-regions-20180915.1346
     swap-regions.el -> swap-regions.el
 Created swap-regions-20180915.1346.tar containing:
   swap-regions-20180915.1346/
   swap-regions-20180915.1346/swap-regions-pkg.el
   swap-regions-20180915.1346/swap-regions.el
  ✓ Success:
-  2025-08-11T00:58:47+0000  swap-regions-20180915.1346.entry
-  2025-08-11T00:58:47+0000  swap-regions-20180915.1346.tar
-Built swap-regions in 2.603s, finished at 2025-08-11T00:58:48+0000
+  2025-08-18T01:53:59+0000  swap-regions-20180915.1346.entry
+  2025-08-18T01:53:59+0000  swap-regions-20180915.1346.tar
+Built swap-regions in 2.729s, finished at 2025-08-18T01:54:00+0000
