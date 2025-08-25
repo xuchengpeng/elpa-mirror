@@ -1,0 +1,18 @@
+Package: eprolog
+Fetcher: github
+Source:  https://github.com/tani/eprolog
+
+Updating /mnt/store/melpa/working/eprolog/
+Checking out a8b7a254ddc6e065e42bf57498f9109ca80f058e
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/eprolog/
+  to /tmp/eprologSoE1qs/eprolog-20250818.2314
+    eprolog.el -> eprolog.el
+Created eprolog-20250818.2314.tar containing:
+  eprolog-20250818.2314/
+  eprolog-20250818.2314/eprolog-pkg.el
+  eprolog-20250818.2314/eprolog.el
+ ✓ Success:
+  2025-08-25T00:32:24+0000  eprolog-20250818.2314.entry
+  2025-08-25T00:32:24+0000  eprolog-20250818.2314.tar
+Built eprolog in 2.537s, finished at 2025-08-25T00:32:25+0000

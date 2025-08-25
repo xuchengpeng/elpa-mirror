@@ -1,5 +1,5 @@
 
-Provides a comprehensive major mode for editing TradingView Pine Script v6 files.
+Provides a comprehensive major mode for editing TradingView Pine Script v6 and older files.
 It correctly highlights variables, constants, functions, methods, types,
 keywords, and annotations based on the v6 syntax.
 

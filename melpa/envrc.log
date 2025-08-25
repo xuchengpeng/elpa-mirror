@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/envrc/
 Checking out 189bafea47c3110ec897c1c5bc1558fbcc407b85
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/envrc/
-  to /tmp/envrcwnpRMx/envrc-20250728.1241
+  to /tmp/envrcOijVu4/envrc-20250728.1241
     envrc.el -> envrc.el
 Created envrc-20250728.1241.tar containing:
   envrc-20250728.1241/
   envrc-20250728.1241/envrc-pkg.el
   envrc-20250728.1241/envrc.el
  ✓ Success:
-  2025-08-18T01:08:09+0000  envrc-20250728.1241.entry
-  2025-08-18T01:08:09+0000  envrc-20250728.1241.tar
-Built envrc in 3.376s, finished at 2025-08-18T01:08:10+0000
+  2025-08-25T00:32:15+0000  envrc-20250728.1241.entry
+  2025-08-25T00:32:15+0000  envrc-20250728.1241.tar
+Built envrc in 2.917s, finished at 2025-08-25T00:32:15+0000

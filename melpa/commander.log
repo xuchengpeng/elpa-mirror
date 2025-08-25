@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/commander/
 Checking out 2c8a57b9c619e29ccbe2d5a85921b9c689e95bf9
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/commander/
-  to /tmp/commanderWx12Ki/commander-20140120.1852
+  to /tmp/commanderx41e0Y/commander-20140120.1852
     commander.el -> commander.el
 Created commander-20140120.1852.tar containing:
   commander-20140120.1852/
   commander-20140120.1852/commander-pkg.el
   commander-20140120.1852/commander.el
  ✓ Success:
-  2025-08-18T00:58:28+0000  commander-20140120.1852.entry
-  2025-08-18T00:58:28+0000  commander-20140120.1852.tar
-Built commander in 2.783s, finished at 2025-08-18T00:58:29+0000
+  2025-08-25T00:22:31+0000  commander-20140120.1852.entry
+  2025-08-25T00:22:31+0000  commander-20140120.1852.tar
+Built commander in 2.651s, finished at 2025-08-25T00:22:32+0000

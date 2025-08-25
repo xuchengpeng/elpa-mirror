@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/jamescherti/stripspace.el
 
 Updating /mnt/store/melpa/working/stripspace/
-Checking out ad553e53dad42c89b8bf7225d1c60f94cba930d5
+Checking out 3935581cc5d84aa6134b430c63fff9185a99564c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/stripspace/
-  to /tmp/stripspaceqZrwb4/stripspace-20250513.1731
+  to /tmp/stripspaceyVDjxe/stripspace-20250822.1937
     stripspace.el -> stripspace.el
-Created stripspace-20250513.1731.tar containing:
-  stripspace-20250513.1731/
-  stripspace-20250513.1731/stripspace-pkg.el
-  stripspace-20250513.1731/stripspace.el
+Created stripspace-20250822.1937.tar containing:
+  stripspace-20250822.1937/
+  stripspace-20250822.1937/stripspace-pkg.el
+  stripspace-20250822.1937/stripspace.el
  ✓ Success:
-  2025-08-18T01:53:33+0000  stripspace-20250513.1731.entry
-  2025-08-18T01:53:33+0000  stripspace-20250513.1731.tar
-Built stripspace in 2.737s, finished at 2025-08-18T01:53:34+0000
+  2025-08-25T01:18:41+0000  stripspace-20250822.1937.entry
+  2025-08-25T01:18:41+0000  stripspace-20250822.1937.tar
+Built stripspace in 1.770s, finished at 2025-08-25T01:18:42+0000

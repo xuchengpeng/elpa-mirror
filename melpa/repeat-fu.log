@@ -3,24 +3,24 @@ Fetcher: codeberg
 Source:  https://codeberg.org/ideasman42/emacs-repeat-fu
 
 Updating /mnt/store/melpa/working/repeat-fu/
-Checking out b91d55001cca71e5df7a9f665c7da73ab9f55efd
+Checking out 9cffa91052a0f5a1c7f1ff44c254f33b9350d6b8
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/repeat-fu/
-  to /tmp/repeat-fumpSv1W/repeat-fu-20250613.304
+  to /tmp/repeat-fuNJZmww/repeat-fu-20250824.918
     repeat-fu-preset-meep.el -> repeat-fu-preset-meep.el
     repeat-fu-preset-meow.el -> repeat-fu-preset-meow.el
     repeat-fu-preset-multi.el -> repeat-fu-preset-multi.el
     repeat-fu-preset-single.el -> repeat-fu-preset-single.el
     repeat-fu.el -> repeat-fu.el
-Created repeat-fu-20250613.304.tar containing:
-  repeat-fu-20250613.304/
-  repeat-fu-20250613.304/repeat-fu-pkg.el
-  repeat-fu-20250613.304/repeat-fu-preset-meep.el
-  repeat-fu-20250613.304/repeat-fu-preset-meow.el
-  repeat-fu-20250613.304/repeat-fu-preset-multi.el
-  repeat-fu-20250613.304/repeat-fu-preset-single.el
-  repeat-fu-20250613.304/repeat-fu.el
+Created repeat-fu-20250824.918.tar containing:
+  repeat-fu-20250824.918/
+  repeat-fu-20250824.918/repeat-fu-pkg.el
+  repeat-fu-20250824.918/repeat-fu-preset-meep.el
+  repeat-fu-20250824.918/repeat-fu-preset-meow.el
+  repeat-fu-20250824.918/repeat-fu-preset-multi.el
+  repeat-fu-20250824.918/repeat-fu-preset-single.el
+  repeat-fu-20250824.918/repeat-fu.el
  ✓ Success:
-  2025-08-18T01:47:35+0000  repeat-fu-20250613.304.entry
-  2025-08-18T01:47:35+0000  repeat-fu-20250613.304.tar
-Built repeat-fu in 3.428s, finished at 2025-08-18T01:47:36+0000
+  2025-08-25T01:12:39+0000  repeat-fu-20250824.918.entry
+  2025-08-25T01:12:39+0000  repeat-fu-20250824.918.tar
+Built repeat-fu in 3.279s, finished at 2025-08-25T01:12:39+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/lsp-haskell/
 Checking out cd0f5d251c14e90f2896d26d18de8ace462e011b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/lsp-haskell/
-  to /tmp/lsp-haskellnau23z/lsp-haskell-20250301.213
+  to /tmp/lsp-haskell9eMs1U/lsp-haskell-20250301.213
     lsp-haskell.el -> lsp-haskell.el
 Created lsp-haskell-20250301.213.tar containing:
   lsp-haskell-20250301.213/
   lsp-haskell-20250301.213/lsp-haskell-pkg.el
   lsp-haskell-20250301.213/lsp-haskell.el
  ✓ Success:
-  2025-08-18T01:29:28+0000  lsp-haskell-20250301.213.entry
-  2025-08-18T01:29:28+0000  lsp-haskell-20250301.213.tar
-Built lsp-haskell in 4.962s, finished at 2025-08-18T01:29:29+0000
+  2025-08-25T00:53:39+0000  lsp-haskell-20250301.213.entry
+  2025-08-25T00:53:39+0000  lsp-haskell-20250301.213.tar
+Built lsp-haskell in 3.120s, finished at 2025-08-25T00:53:39+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/perlbrew/
 Checking out 527b7f6a6a5edd2b779ae98029e60994391c0903
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/perlbrew/
-  to /tmp/perlbreweAZLEk/perlbrew-20230823.1652
+  to /tmp/perlbrewGG2F8x/perlbrew-20230823.1652
     perlbrew.el -> perlbrew.el
 Created perlbrew-20230823.1652.tar containing:
   perlbrew-20230823.1652/
   perlbrew-20230823.1652/perlbrew-pkg.el
   perlbrew-20230823.1652/perlbrew.el
  ✓ Success:
-  2025-08-18T01:42:23+0000  perlbrew-20230823.1652.entry
-  2025-08-18T01:42:23+0000  perlbrew-20230823.1652.tar
-Built perlbrew in 2.700s, finished at 2025-08-18T01:42:24+0000
+  2025-08-25T01:07:21+0000  perlbrew-20230823.1652.entry
+  2025-08-25T01:07:21+0000  perlbrew-20230823.1652.tar
+Built perlbrew in 2.653s, finished at 2025-08-25T01:07:22+0000

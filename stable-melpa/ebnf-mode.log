@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/ebnf-mode/
 Checking out 61486b1c9d4746249640410e58087e318f801ed8
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ebnf-mode/
-  to /tmp/ebnf-modeG0kmWt/ebnf-mode-20231022.1759
+  to /tmp/ebnf-modeTIElLq/ebnf-mode-20231022.1759
     ebnf-mode.el -> ebnf-mode.el
 Created ebnf-mode-20231022.1759.tar containing:
   ebnf-mode-20231022.1759/
   ebnf-mode-20231022.1759/ebnf-mode-pkg.el
   ebnf-mode-20231022.1759/ebnf-mode.el
  ✓ Success:
-  2025-08-18T01:05:20+0000  ebnf-mode-20231022.1759.entry
-  2025-08-18T01:05:20+0000  ebnf-mode-20231022.1759.tar
-Built ebnf-mode in 2.707s, finished at 2025-08-18T01:05:21+0000
+  2025-08-25T00:29:24+0000  ebnf-mode-20231022.1759.entry
+  2025-08-25T00:29:24+0000  ebnf-mode-20231022.1759.tar
+Built ebnf-mode in 2.619s, finished at 2025-08-25T00:29:25+0000

@@ -3,20 +3,20 @@ Fetcher: github
 Source:  https://github.com/purcell/package-lint
 
 Updating /mnt/store/melpa/working/package-lint/
-Checking out 29ccfea319ee6bac4b80045aa473b3aa2b77d074
+Checking out 078f403d57e3056338ef45e37973e7a27297f545
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/package-lint/
-  to /tmp/package-lintOzId7m/package-lint-20250527.1845
+  to /tmp/package-lintlL9YYQ/package-lint-20250819.1304
     package-lint.el -> package-lint.el
     data => data
-Created package-lint-20250527.1845.tar containing:
-  package-lint-20250527.1845/
-  package-lint-20250527.1845/data/
-  package-lint-20250527.1845/data/compat-symbols
-  package-lint-20250527.1845/data/stdlib-changes
-  package-lint-20250527.1845/package-lint-pkg.el
-  package-lint-20250527.1845/package-lint.el
+Created package-lint-20250819.1304.tar containing:
+  package-lint-20250819.1304/
+  package-lint-20250819.1304/data/
+  package-lint-20250819.1304/data/compat-symbols
+  package-lint-20250819.1304/data/stdlib-changes
+  package-lint-20250819.1304/package-lint-pkg.el
+  package-lint-20250819.1304/package-lint.el
  ✓ Success:
-  2025-08-18T01:41:27+0000  package-lint-20250527.1845.entry
-  2025-08-18T01:41:27+0000  package-lint-20250527.1845.tar
-Built package-lint in 3.007s, finished at 2025-08-18T01:41:28+0000
+  2025-08-25T01:06:12+0000  package-lint-20250819.1304.entry
+  2025-08-25T01:06:12+0000  package-lint-20250819.1304.tar
+Built package-lint in 7.212s, finished at 2025-08-25T01:06:14+0000

@@ -3,10 +3,10 @@ Fetcher: github
 Source:  https://github.com/reinierkof/magik-company
 
 Updating /mnt/store/melpa/working/magik-company/
-Checking out de5d179be07d43b46b821db10164dfbd92da665b
+Checking out db00024a7212dc6af674a9ce27c1a15a29d484e8
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/magik-company/
-  to /tmp/magik-companyE8D6v4/magik-company-20250808.1454
+  to /tmp/magik-companyrmIeOy/magik-company-20250822.1442
     magik-company-annotation.el -> magik-company-annotation.el
     magik-company-buffer-cache.el -> magik-company-buffer-cache.el
     magik-company-cb-cache.el -> magik-company-cb-cache.el
@@ -17,20 +17,20 @@ Copying files (->) and directories (=>)
     magik-company-treesitter-extras.el -> magik-company-treesitter-extras.el
     magik-company-yasnippet-handling.el -> magik-company-yasnippet-handling.el
     magik-company.el -> magik-company.el
-Created magik-company-20250808.1454.tar containing:
-  magik-company-20250808.1454/
-  magik-company-20250808.1454/magik-company-annotation.el
-  magik-company-20250808.1454/magik-company-buffer-cache.el
-  magik-company-20250808.1454/magik-company-cb-cache.el
-  magik-company-20250808.1454/magik-company-cb.el
-  magik-company-20250808.1454/magik-company-exemplar-types.el
-  magik-company-20250808.1454/magik-company-extras.el
-  magik-company-20250808.1454/magik-company-pkg.el
-  magik-company-20250808.1454/magik-company-prefixes.el
-  magik-company-20250808.1454/magik-company-treesitter-extras.el
-  magik-company-20250808.1454/magik-company-yasnippet-handling.el
-  magik-company-20250808.1454/magik-company.el
+Created magik-company-20250822.1442.tar containing:
+  magik-company-20250822.1442/
+  magik-company-20250822.1442/magik-company-annotation.el
+  magik-company-20250822.1442/magik-company-buffer-cache.el
+  magik-company-20250822.1442/magik-company-cb-cache.el
+  magik-company-20250822.1442/magik-company-cb.el
+  magik-company-20250822.1442/magik-company-exemplar-types.el
+  magik-company-20250822.1442/magik-company-extras.el
+  magik-company-20250822.1442/magik-company-pkg.el
+  magik-company-20250822.1442/magik-company-prefixes.el
+  magik-company-20250822.1442/magik-company-treesitter-extras.el
+  magik-company-20250822.1442/magik-company-yasnippet-handling.el
+  magik-company-20250822.1442/magik-company.el
  ✓ Success:
-  2025-08-18T01:30:11+0000  magik-company-20250808.1454.entry
-  2025-08-18T01:30:11+0000  magik-company-20250808.1454.tar
-Built magik-company in 3.123s, finished at 2025-08-18T01:30:12+0000
+  2025-08-25T00:54:13+0000  magik-company-20250822.1442.entry
+  2025-08-25T00:54:12+0000  magik-company-20250822.1442.tar
+Built magik-company in 3.969s, finished at 2025-08-25T00:54:14+0000

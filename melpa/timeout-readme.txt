@@ -1,5 +1,5 @@
-timeout is a small elisp library that provides higher order functions to
-throttle or debounce elisp functions.  This is useful for corraling
+timeout is a small Elisp library that provides higher order functions to
+throttle or debounce Elisp functions.  This is useful for corralling
 over-eager code that:
 (i) is slow and blocks Emacs, and
 (ii) does not provide customization options to limit how often it runs,

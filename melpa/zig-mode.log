@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/zig-mode/
 Checking out 9f86fded13e28c6c9ccf56d417276547bac7e54e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/zig-mode/
-  to /tmp/zig-modei3CZlo/zig-mode-20250618.1627
+  to /tmp/zig-modeBXozqn/zig-mode-20250618.1627
     zig-mode.el -> zig-mode.el
 Created zig-mode-20250618.1627.tar containing:
   zig-mode-20250618.1627/
   zig-mode-20250618.1627/zig-mode-pkg.el
   zig-mode-20250618.1627/zig-mode.el
  ✓ Success:
-  2025-08-18T02:02:22+0000  zig-mode-20250618.1627.entry
-  2025-08-18T02:02:22+0000  zig-mode-20250618.1627.tar
-Built zig-mode in 2.676s, finished at 2025-08-18T02:02:23+0000
+  2025-08-25T01:27:26+0000  zig-mode-20250618.1627.entry
+  2025-08-25T01:27:26+0000  zig-mode-20250618.1627.tar
+Built zig-mode in 2.742s, finished at 2025-08-25T01:27:27+0000

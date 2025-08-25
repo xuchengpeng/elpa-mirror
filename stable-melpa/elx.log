@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/elx/
 Checking out 2b965671ad1d7f5391e48169393492e314e487e8
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/elx/
-  to /tmp/elx6CHfY4/elx-20250807.1142
+  to /tmp/elxz0Vnqg/elx-20250807.1142
     elx.el -> elx.el
 Created elx-20250807.1142.tar containing:
   elx-20250807.1142/
   elx-20250807.1142/elx-pkg.el
   elx-20250807.1142/elx.el
  ✓ Success:
-  2025-08-18T01:07:32+0000  elx-20250807.1142.entry
-  2025-08-18T01:07:32+0000  elx-20250807.1142.tar
-Built elx in 3.117s, finished at 2025-08-18T01:07:32+0000
+  2025-08-25T00:31:20+0000  elx-20250807.1142.entry
+  2025-08-25T00:31:20+0000  elx-20250807.1142.tar
+Built elx in 2.500s, finished at 2025-08-25T00:31:20+0000

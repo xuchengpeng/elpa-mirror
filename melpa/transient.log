@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/transient/
 Checking out 07a104aa73b5d5e3168ba6e202ebfb60188af6ed
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/transient/
-  to /tmp/transientaLhU3T/transient-20250816.1830
+  to /tmp/transientXQoQ96/transient-20250816.1830
   ! lisp/transient.el -> transient.el
   ! docs/gpl.texi -> gpl.texi
   ! docs/transient.texi -> transient.texi
@@ -20,6 +20,6 @@ Created transient-20250816.1830.tar containing:
   transient-20250816.1830/transient.el
   transient-20250816.1830/transient.info
  ✓ Success:
-  2025-08-18T01:56:44+0000  transient-20250816.1830.entry
-  2025-08-18T01:56:44+0000  transient-20250816.1830.tar
-Built transient in 7.386s, finished at 2025-08-18T01:56:45+0000
+  2025-08-25T01:21:41+0000  transient-20250816.1830.entry
+  2025-08-25T01:21:41+0000  transient-20250816.1830.tar
+Built transient in 7.725s, finished at 2025-08-25T01:21:41+0000

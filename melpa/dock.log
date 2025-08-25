@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/dock/
 Checking out 8397c69d33444fa48ec24944e1886386801a27a1
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/dock/
-  to /tmp/dockbQ4DT0/dock-20250720.1954
+  to /tmp/dockXxlOUF/dock-20250720.1954
     dock.el -> dock.el
 Created dock-20250720.1954.tar containing:
   dock-20250720.1954/
   dock-20250720.1954/dock-pkg.el
   dock-20250720.1954/dock.el
  ✓ Success:
-  2025-08-18T01:04:12+0000  dock-20250720.1954.entry
-  2025-08-18T01:04:12+0000  dock-20250720.1954.tar
-Built dock in 2.870s, finished at 2025-08-18T01:04:13+0000
+  2025-08-25T00:28:16+0000  dock-20250720.1954.entry
+  2025-08-25T00:28:16+0000  dock-20250720.1954.tar
+Built dock in 2.729s, finished at 2025-08-25T00:28:17+0000

@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/mantra/
 Checking out da8a4fcd96340deb908c4c416bbe2b621f5b55d3
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mantra/
-  to /tmp/mantraew608z/mantra-20250706.1916
+  to /tmp/mantran0FgOY/mantra-20250706.1916
     mantra-debug.el -> mantra-debug.el
     mantra-dsl.el -> mantra-dsl.el
     mantra-parse.el -> mantra-parse.el
@@ -21,6 +21,6 @@ Created mantra-20250706.1916.tar containing:
   mantra-20250706.1916/mantra-util.el
   mantra-20250706.1916/mantra.el
  ✓ Success:
-  2025-08-18T01:30:49+0000  mantra-20250706.1916.entry
-  2025-08-18T01:30:49+0000  mantra-20250706.1916.tar
-Built mantra in 2.711s, finished at 2025-08-18T01:30:50+0000
+  2025-08-25T00:55:05+0000  mantra-20250706.1916.entry
+  2025-08-25T00:55:05+0000  mantra-20250706.1916.tar
+Built mantra in 2.547s, finished at 2025-08-25T00:55:06+0000

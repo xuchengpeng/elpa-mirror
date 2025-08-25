@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/jwiegley/alert
 
 Updating /mnt/store/melpa/working/alert/
-Checking out d17ad05ade019fd3560c78f8ed57a352034797e8
+Checking out 79f6936ab4d85227530959811143429347a6971b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/alert/
-  to /tmp/alerthaKwL6/alert-20250615.1845
+  to /tmp/alertzfo6FH/alert-20250823.650
     alert.el -> alert.el
-Created alert-20250615.1845.tar containing:
-  alert-20250615.1845/
-  alert-20250615.1845/alert-pkg.el
-  alert-20250615.1845/alert.el
+Created alert-20250823.650.tar containing:
+  alert-20250823.650/
+  alert-20250823.650/alert-pkg.el
+  alert-20250823.650/alert.el
  ✓ Success:
-  2025-08-18T00:51:09+0000  alert-20250615.1845.entry
-  2025-08-18T00:51:09+0000  alert-20250615.1845.tar
-Built alert in 2.736s, finished at 2025-08-18T00:51:10+0000
+  2025-08-25T00:15:19+0000  alert-20250823.650.entry
+  2025-08-25T00:15:19+0000  alert-20250823.650.tar
+Built alert in 2.765s, finished at 2025-08-25T00:15:20+0000

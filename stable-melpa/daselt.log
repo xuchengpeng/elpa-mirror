@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/daselt/
 Checking out f2fb095ee01f2464dcfda2155b60c68dc7d06d41
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/daselt/
-  to /tmp/daseltFQSxCR/daselt-20250816.2150
+  to /tmp/daseltVrHVLD/daselt-20250816.2150
     daselt-base.el -> daselt-base.el
     daselt-bind.el -> daselt-bind.el
     daselt-coords.el -> daselt-coords.el
@@ -158,6 +158,6 @@ Created daselt-20250816.2150.tar containing:
   daselt-20250816.2150/tri-configs/
   daselt-20250816.2150/tri-configs/daselt-tri.dbl
  ✓ Success:
-  2025-08-18T01:01:58+0000  daselt-20250816.2150.entry
-  2025-08-18T01:01:58+0000  daselt-20250816.2150.tar
-Built daselt in 5.013s, finished at 2025-08-18T01:01:59+0000
+  2025-08-25T00:25:49+0000  daselt-20250816.2150.entry
+  2025-08-25T00:25:48+0000  daselt-20250816.2150.tar
+Built daselt in 6.882s, finished at 2025-08-25T00:25:50+0000

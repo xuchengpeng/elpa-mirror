@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/disable-mouse/
 Checking out 93a55a6453f34049375f97d3cf817b4e6db46f25
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/disable-mouse/
-  to /tmp/disable-mouseaPaG9Q/disable-mouse-20240604.900
+  to /tmp/disable-mouseXo6kFx/disable-mouse-20240604.900
     disable-mouse.el -> disable-mouse.el
 Created disable-mouse-20240604.900.tar containing:
   disable-mouse-20240604.900/
   disable-mouse-20240604.900/disable-mouse-pkg.el
   disable-mouse-20240604.900/disable-mouse.el
  ✓ Success:
-  2025-08-18T01:03:44+0000  disable-mouse-20240604.900.entry
-  2025-08-18T01:03:44+0000  disable-mouse-20240604.900.tar
-Built disable-mouse in 2.833s, finished at 2025-08-18T01:03:45+0000
+  2025-08-25T00:27:48+0000  disable-mouse-20240604.900.entry
+  2025-08-25T00:27:48+0000  disable-mouse-20240604.900.tar
+Built disable-mouse in 2.515s, finished at 2025-08-25T00:27:49+0000

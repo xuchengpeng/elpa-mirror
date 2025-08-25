@@ -3,10 +3,10 @@ Fetcher: github
 Source:  https://github.com/magit/ghub
 
 Updating /mnt/store/melpa/working/ghub/
-Checking out 1affd93e6f878ffe2f8d9da8dc0711e9e325bad2
+Checking out 8d6f6e5d949f0afdd56c61f6f88936b68e976786
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ghub/
-  to /tmp/ghubIAZLma/ghub-20250807.1145
+  to /tmp/ghubmJgxe5/ghub-20250823.2101
   ! lisp/ghub-graphql.el -> ghub-graphql.el
   ! lisp/ghub-legacy.el -> ghub-legacy.el
   ! lisp/ghub.el -> ghub.el
@@ -14,17 +14,17 @@ Copying files (->) and directories (=>)
   ! docs/ghub.texi -> ghub.texi
     .dir-locals.el -> .dir-locals.el
 Generating ghub.info
-Created ghub-20250807.1145.tar containing:
-  ghub-20250807.1145/
-  ghub-20250807.1145/.dir-locals.el
-  ghub-20250807.1145/dir
-  ghub-20250807.1145/ghub-graphql.el
-  ghub-20250807.1145/ghub-legacy.el
-  ghub-20250807.1145/ghub-pkg.el
-  ghub-20250807.1145/ghub.el
-  ghub-20250807.1145/ghub.info
-  ghub-20250807.1145/gsexp.el
+Created ghub-20250823.2101.tar containing:
+  ghub-20250823.2101/
+  ghub-20250823.2101/.dir-locals.el
+  ghub-20250823.2101/dir
+  ghub-20250823.2101/ghub-graphql.el
+  ghub-20250823.2101/ghub-legacy.el
+  ghub-20250823.2101/ghub-pkg.el
+  ghub-20250823.2101/ghub.el
+  ghub-20250823.2101/ghub.info
+  ghub-20250823.2101/gsexp.el
  ✓ Success:
-  2025-08-18T01:15:53+0000  ghub-20250807.1145.entry
-  2025-08-18T01:15:53+0000  ghub-20250807.1145.tar
-Built ghub in 5.182s, finished at 2025-08-18T01:15:54+0000
+  2025-08-25T00:40:16+0000  ghub-20250823.2101.entry
+  2025-08-25T00:40:16+0000  ghub-20250823.2101.tar
+Built ghub in 5.464s, finished at 2025-08-25T00:40:17+0000

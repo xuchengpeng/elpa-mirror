@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/erlang/
 Checking out d04f6a0b261cf23e316e48e2febe14b30c592dc5
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/erlang/
-  to /tmp/erlang9EuS9h/erlang-20250717.731
+  to /tmp/erlangJWUdgB/erlang-20250717.731
   ! lib/tools/emacs/erlang-edoc.el -> erlang-edoc.el
   ! lib/tools/emacs/erlang-eunit.el -> erlang-eunit.el
   ! lib/tools/emacs/erlang-flymake.el -> erlang-flymake.el
@@ -29,6 +29,6 @@ Created erlang-20250717.731.tar containing:
   erlang-20250717.731/erlang.el
   erlang-20250717.731/erldoc.el
  ✓ Success:
-  2025-08-18T01:08:41+0000  erlang-20250717.731.entry
-  2025-08-18T01:08:41+0000  erlang-20250717.731.tar
-Built erlang in 8.628s, finished at 2025-08-18T01:08:42+0000
+  2025-08-25T00:32:47+0000  erlang-20250717.731.entry
+  2025-08-25T00:32:47+0000  erlang-20250717.731.tar
+Built erlang in 6.651s, finished at 2025-08-25T00:32:49+0000

@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/emacscollective/epkg-marginalia
 
 Updating /mnt/store/melpa/working/epkg-marginalia/
-Checking out d9e58d467c40bf71794f8eee758a83ab0e1933db
+Checking out b62b1d5da52cc31b34ffd563e8a6b97cfa9e4d01
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/epkg-marginalia/
-  to /tmp/epkg-marginaliaaSngGG/epkg-marginalia-20250601.1049
+  to /tmp/epkg-marginaliaTptbVw/epkg-marginalia-20250823.1655
     epkg-marginalia.el -> epkg-marginalia.el
-Created epkg-marginalia-20250601.1049.tar containing:
-  epkg-marginalia-20250601.1049/
-  epkg-marginalia-20250601.1049/epkg-marginalia-pkg.el
-  epkg-marginalia-20250601.1049/epkg-marginalia.el
+Created epkg-marginalia-20250823.1655.tar containing:
+  epkg-marginalia-20250823.1655/
+  epkg-marginalia-20250823.1655/epkg-marginalia-pkg.el
+  epkg-marginalia-20250823.1655/epkg-marginalia.el
  ✓ Success:
-  2025-08-18T01:08:12+0000  epkg-marginalia-20250601.1049.entry
-  2025-08-18T01:08:12+0000  epkg-marginalia-20250601.1049.tar
-Built epkg-marginalia in 2.899s, finished at 2025-08-18T01:08:13+0000
+  2025-08-25T00:32:19+0000  epkg-marginalia-20250823.1655.entry
+  2025-08-25T00:32:19+0000  epkg-marginalia-20250823.1655.tar
+Built epkg-marginalia in 2.501s, finished at 2025-08-25T00:32:20+0000

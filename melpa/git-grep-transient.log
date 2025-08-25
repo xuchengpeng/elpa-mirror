@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/git-grep-transient/
 Checking out c9eb6d76e6b0600d2f90d009fdc28a171f69dd80
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/git-grep-transient/
-  to /tmp/git-grep-transientmR7ZxN/git-grep-transient-20240521.648
+  to /tmp/git-grep-transientiEATdL/git-grep-transient-20240521.648
     git-grep-transient.el -> git-grep-transient.el
 Created git-grep-transient-20240521.648.tar containing:
   git-grep-transient-20240521.648/
   git-grep-transient-20240521.648/git-grep-transient-pkg.el
   git-grep-transient-20240521.648/git-grep-transient.el
  ✓ Success:
-  2025-08-18T01:16:05+0000  git-grep-transient-20240521.648.entry
-  2025-08-18T01:16:05+0000  git-grep-transient-20240521.648.tar
-Built git-grep-transient in 2.592s, finished at 2025-08-18T01:16:06+0000
+  2025-08-25T00:40:29+0000  git-grep-transient-20240521.648.entry
+  2025-08-25T00:40:29+0000  git-grep-transient-20240521.648.tar
+Built git-grep-transient in 2.511s, finished at 2025-08-25T00:40:30+0000

@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/j-mode/
 Checking out 62d373b9d0926f191f42c747a2364cf8dacf0fa1
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/j-mode/
-  to /tmp/j-modeg4yu70/j-mode-20240920.1706
+  to /tmp/j-mode5z0lua/j-mode-20240920.1706
     j-console.el -> j-console.el
     j-font-lock.el -> j-font-lock.el
     j-help.el -> j-help.el
@@ -19,6 +19,6 @@ Created j-mode-20240920.1706.tar containing:
   j-mode-20240920.1706/j-mode-pkg.el
   j-mode-20240920.1706/j-mode.el
  ✓ Success:
-  2025-08-18T01:24:43+0000  j-mode-20240920.1706.entry
-  2025-08-18T01:24:43+0000  j-mode-20240920.1706.tar
-Built j-mode in 2.718s, finished at 2025-08-18T01:24:44+0000
+  2025-08-25T00:49:13+0000  j-mode-20240920.1706.entry
+  2025-08-25T00:49:13+0000  j-mode-20240920.1706.tar
+Built j-mode in 2.363s, finished at 2025-08-25T00:49:13+0000

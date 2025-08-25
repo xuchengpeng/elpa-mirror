@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/fennel-mode/
 Checking out a1ad6354b7c66bfa43f5bf117cf4e41bc33da64c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/fennel-mode/
-  to /tmp/fennel-modeuRoSzj/fennel-mode-20250725.200
+  to /tmp/fennel-modeCQS9rC/fennel-mode-20250725.200
     antifennel.el -> antifennel.el
     fennel-ls-flymake.el -> fennel-ls-flymake.el
     fennel-mode.el -> fennel-mode.el
@@ -23,6 +23,6 @@ Created fennel-mode-20250725.200.tar containing:
   fennel-mode-20250725.200/fennel-scratch.el
   fennel-mode-20250725.200/ob-fennel.el
  ✓ Success:
-  2025-08-18T01:11:17+0000  fennel-mode-20250725.200.entry
-  2025-08-18T01:11:17+0000  fennel-mode-20250725.200.tar
-Built fennel-mode in 4.283s, finished at 2025-08-18T01:11:18+0000
+  2025-08-25T00:35:36+0000  fennel-mode-20250725.200.entry
+  2025-08-25T00:35:36+0000  fennel-mode-20250725.200.tar
+Built fennel-mode in 3.879s, finished at 2025-08-25T00:35:37+0000

@@ -3,19 +3,19 @@ Fetcher: github
 Source:  https://github.com/csmclaren/loco
 
 Updating /mnt/store/melpa/working/loco/
-Checking out 1b677db115a1957f4ddc0a5edc225c0dbd29d1ed
+Checking out b0955516ed13a288a9c2671050c1e25bd64e1b91
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/loco/
-  to /tmp/locojtDEfd/loco-20250725.1735
+  to /tmp/loco4CKWRj/loco-20250822.1459
     loco.el -> loco.el
     loco.info -> loco.info
-Created loco-20250725.1735.tar containing:
-  loco-20250725.1735/
-  loco-20250725.1735/dir
-  loco-20250725.1735/loco-pkg.el
-  loco-20250725.1735/loco.el
-  loco-20250725.1735/loco.info
+Created loco-20250822.1459.tar containing:
+  loco-20250822.1459/
+  loco-20250822.1459/dir
+  loco-20250822.1459/loco-pkg.el
+  loco-20250822.1459/loco.el
+  loco-20250822.1459/loco.info
  ✓ Success:
-  2025-08-18T01:29:00+0000  loco-20250725.1735.entry
-  2025-08-18T01:29:00+0000  loco-20250725.1735.tar
-Built loco in 3.567s, finished at 2025-08-18T01:29:01+0000
+  2025-08-25T00:53:16+0000  loco-20250822.1459.entry
+  2025-08-25T00:53:16+0000  loco-20250822.1459.tar
+Built loco in 3.002s, finished at 2025-08-25T00:53:17+0000

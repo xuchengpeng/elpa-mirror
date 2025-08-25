@@ -3,18 +3,18 @@ Fetcher: github
 Source:  https://github.com/xenodium/shell-maker
 
 Updating /mnt/store/melpa/working/shell-maker/
-Checking out d5748939c7209f927a4e563f03ad8a94cf5f802b
+Checking out b33eed1f939d107c01d4c1f7cfd50d76078f715e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/shell-maker/
-  to /tmp/shell-makerrdmY5O/shell-maker-20250812.1409
+  to /tmp/shell-makerL1I2TK/shell-maker-20250820.939
     markdown-overlays.el -> markdown-overlays.el
     shell-maker.el -> shell-maker.el
-Created shell-maker-20250812.1409.tar containing:
-  shell-maker-20250812.1409/
-  shell-maker-20250812.1409/markdown-overlays.el
-  shell-maker-20250812.1409/shell-maker-pkg.el
-  shell-maker-20250812.1409/shell-maker.el
+Created shell-maker-20250820.939.tar containing:
+  shell-maker-20250820.939/
+  shell-maker-20250820.939/markdown-overlays.el
+  shell-maker-20250820.939/shell-maker-pkg.el
+  shell-maker-20250820.939/shell-maker.el
  ✓ Success:
-  2025-08-18T01:50:12+0000  shell-maker-20250812.1409.entry
-  2025-08-18T01:50:12+0000  shell-maker-20250812.1409.tar
-Built shell-maker in 3.271s, finished at 2025-08-18T01:50:13+0000
+  2025-08-25T01:15:17+0000  shell-maker-20250820.939.entry
+  2025-08-25T01:15:17+0000  shell-maker-20250820.939.tar
+Built shell-maker in 3.051s, finished at 2025-08-25T01:15:17+0000

@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/saf-dmitry/taskpaper-mode
 
 Updating /mnt/store/melpa/working/taskpaper-mode/
-Checking out 1558c12b647d289285b638075be016f7f0c3466e
+Checking out 208e6832ca68b33263440c472386ca033ba2735c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/taskpaper-mode/
-  to /tmp/taskpaper-modeSmVf64/taskpaper-mode-20241231.1206
+  to /tmp/taskpaper-mode78wtYN/taskpaper-mode-20250823.1538
     taskpaper-mode.el -> taskpaper-mode.el
-Created taskpaper-mode-20241231.1206.tar containing:
-  taskpaper-mode-20241231.1206/
-  taskpaper-mode-20241231.1206/taskpaper-mode-pkg.el
-  taskpaper-mode-20241231.1206/taskpaper-mode.el
+Created taskpaper-mode-20250823.1538.tar containing:
+  taskpaper-mode-20250823.1538/
+  taskpaper-mode-20250823.1538/taskpaper-mode-pkg.el
+  taskpaper-mode-20250823.1538/taskpaper-mode.el
  ✓ Success:
-  2025-08-18T01:54:44+0000  taskpaper-mode-20241231.1206.entry
-  2025-08-18T01:54:44+0000  taskpaper-mode-20241231.1206.tar
-Built taskpaper-mode in 2.795s, finished at 2025-08-18T01:54:44+0000
+  2025-08-25T01:19:51+0000  taskpaper-mode-20250823.1538.entry
+  2025-08-25T01:19:51+0000  taskpaper-mode-20250823.1538.tar
+Built taskpaper-mode in 2.601s, finished at 2025-08-25T01:19:52+0000

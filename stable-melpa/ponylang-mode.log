@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/ponylang/ponylang-mode
 
 Updating /mnt/store/melpa/working/ponylang-mode/
-Checking out 1abf04bc8f4f09a6add4b587c7cf5ca23735e7c0
+Checking out 7e6425f2c12538bfeffce754b32ba75a14c72cbd
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ponylang-mode/
-  to /tmp/ponylang-modeH697cs/ponylang-mode-20211015.331
+  to /tmp/ponylang-modeN1b4EF/ponylang-mode-20250819.1840
     ponylang-mode.el -> ponylang-mode.el
-Created ponylang-mode-20211015.331.tar containing:
-  ponylang-mode-20211015.331/
-  ponylang-mode-20211015.331/ponylang-mode-pkg.el
-  ponylang-mode-20211015.331/ponylang-mode.el
+Created ponylang-mode-20250819.1840.tar containing:
+  ponylang-mode-20250819.1840/
+  ponylang-mode-20250819.1840/ponylang-mode-pkg.el
+  ponylang-mode-20250819.1840/ponylang-mode.el
  ✓ Success:
-  2025-08-18T01:43:56+0000  ponylang-mode-20211015.331.entry
-  2025-08-18T01:43:56+0000  ponylang-mode-20211015.331.tar
-Built ponylang-mode in 3.553s, finished at 2025-08-18T01:43:57+0000
+  2025-08-25T01:08:55+0000  ponylang-mode-20250819.1840.entry
+  2025-08-25T01:08:55+0000  ponylang-mode-20250819.1840.tar
+Built ponylang-mode in 3.244s, finished at 2025-08-25T01:08:56+0000

@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/EricCrosson/pine-script-mode
 
 Updating /mnt/store/melpa/working/pine-script-mode/
-Checking out 3affb90e7a3d26875bddf447eefcb3ed55f69e13
+Checking out 203ba62b1c36620dc59a85c5f6084037db48b146
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/pine-script-mode/
-  to /tmp/pine-script-mode8A1IrE/pine-script-mode-20250810.2158
+  to /tmp/pine-script-moderw09vr/pine-script-mode-20250824.1016
     pine-script-mode.el -> pine-script-mode.el
-Created pine-script-mode-20250810.2158.tar containing:
-  pine-script-mode-20250810.2158/
-  pine-script-mode-20250810.2158/pine-script-mode-pkg.el
-  pine-script-mode-20250810.2158/pine-script-mode.el
+Created pine-script-mode-20250824.1016.tar containing:
+  pine-script-mode-20250824.1016/
+  pine-script-mode-20250824.1016/pine-script-mode-pkg.el
+  pine-script-mode-20250824.1016/pine-script-mode.el
  ✓ Success:
-  2025-08-18T01:43:05+0000  pine-script-mode-20250810.2158.entry
-  2025-08-18T01:43:05+0000  pine-script-mode-20250810.2158.tar
-Built pine-script-mode in 2.813s, finished at 2025-08-18T01:43:06+0000
+  2025-08-25T01:08:02+0000  pine-script-mode-20250824.1016.entry
+  2025-08-25T01:08:02+0000  pine-script-mode-20250824.1016.tar
+Built pine-script-mode in 3.167s, finished at 2025-08-25T01:08:03+0000
