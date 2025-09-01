@@ -1,69 +1,17 @@
-			  ━━━━━━━━━━━━━━━━━━━━
-			   ORG-SUPERSTAR-MODE
-			  ━━━━━━━━━━━━━━━━━━━━
+                          ━━━━━━━━━━━━━━━━━━━━
+                           ORG-SUPERSTAR-MODE
+                          ━━━━━━━━━━━━━━━━━━━━
 
 
-Table of Contents
-─────────────────
-
-1. About
-.. 1. Planned features
-.. 2. Demos
-2. Installation
-3. Customization
-.. 1. "Can you make it more like `org-bullets'?"
-..... 1. `org-superstar-configure-like-org-bullets'
-.. 2. "Where do I find UTF8-bullets to use?"
-.. 3. Custom UTF8-bullets for heading lines
-..... 1. `org-superstar-headline-bullets-list'
-..... 2. `org-superstar-cycle-headline-bullets'
-..... 3. `org-superstar-leading-bullet'
-..... 4. `org-superstar-first-inlinetask-bullet'
-..... 5. Hide leading stars
-..... 6. Fancy `TODO' items
-..... 7. No `TODO' bullets
-.. 4. Custom UTF8-Bullets for plain lists
-..... 1. `org-superstar-item-bullet-alist'
-..... 2. `org-superstar-prettify-item-bullets'
-..... 3. Fast Plain List Items
-.. 5. Custom faces
-..... 1. `org-superstar-header-bullet': "Use `org-level-N', but…"
-..... 2. `org-superstar-leading'
-..... 3. `org-superstar-item'
-..... 4. `org-superstar-first'
-4. FAQ / Troubleshooting
-.. 1. "Question marks everywhere!  Help!"
-..... 1. Question mark salad on terminal
-..... 2. Borked even in graphical sessions
-.. 2. "This mode causes significant slowdown!"
-..... 1. "I experience lag when working with long plain lists!"
-.. 3. "I get an error when trying to use it."
-..... 1. Unknown function: `org-element-lineage'
-.. 4. "What are these weird points in front of heading bullets?"
-5. NEWS
-.. 1. `2021-02-16'
-.. 2. `2021-02-11'
-6. Announcement Log
-.. 1. `2020-02-02'
-.. 2. `2020-02-03'
-.. 3. `2020-02-04'
-.. 4. `2020-02-15'
-.. 5. `2020-02-16'
-.. 6. `2020-02-17'
-.. 7. `2020-02-26'
-.. 8. `2020-03-08'
-.. 9. `2020-04-01'
-.. 10. `2020-04-14'
-.. 11. `2020-08-08'
-.. 12. `2020-08-29'
-.. 13. `2020-08-18'
-
-
+[https://elpa.nongnu.org/nongnu/org-superstar.svg]
 [file:https://melpa.org/packages/org-superstar-badge.svg]
 [file:https://stable.melpa.org/packages/org-superstar-badge.svg]
 
 <file:sample_image.png>
 
+
+[https://elpa.nongnu.org/nongnu/org-superstar.svg]
+<https://elpa.nongnu.org/nongnu/org-superstar.html>
 
 [file:https://melpa.org/packages/org-superstar-badge.svg]
 <https://melpa.org/#/org-superstar>
@@ -158,7 +106,6 @@ Table of Contents
   If you prefer a manual installation, just plug `org-superstar.el' into
   your load path and add the following to your `.emacs':
   ┌────
-  │ (require 'org-superstar)
   │ (add-hook 'org-mode-hook (lambda () (org-superstar-mode 1)))
   └────
 
@@ -240,7 +187,8 @@ Table of Contents
 
 [Dingbats] <https://en.wikipedia.org/wiki/Dingbat#Unicode>
 
-[Geometric Shapes] <https://en.wikipedia.org/wiki/Geometric_Shapes>
+[Geometric Shapes]
+<https://en.wikipedia.org/wiki/Geometric_Shapes_(Unicode_block)>
 
 [Miscellaneous Symbols]
 <https://en.wikipedia.org/wiki/Miscellaneous_Symbols>
@@ -388,7 +336,10 @@ Table of Contents
 ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 
   Exactly as it says on the tin.  Set this variable to `nil' to stop
-  `org-superstar-mode' from prettifying lists.
+  `org-superstar-mode' from prettifying lists.  If set to the symbol
+  `only', this disables prettifying Org headings entirely.  As of
+  version *1.6.0*, ordered list bullets can be customized with an
+  independent face, but are not otherwise prettified.
 
 
 3.4.3 Fast Plain List Items
@@ -448,7 +399,14 @@ Table of Contents
   `org-superstar-prettify-item-bullets' is enabled.
 
 
-3.5.4 `org-superstar-first'
+3.5.4 `org-superstar-ordered-item'
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+
+  A face used to display prettified ordered list bullets if
+  `org-superstar-prettify-item-bullets' is enabled.
+
+
+3.5.5 `org-superstar-first'
 ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 
   A face used for the marker star of inline tasks (see the package
@@ -515,7 +473,7 @@ Table of Contents
 
   I have looked into the matter [in the past], and from what I
   understand the usual cause of this is relates to a deeper rooted issue
-  involving fonts and font-lock reliant packages.  I recommend adding
+  involving [fonts] and font-lock reliant packages.  I recommend adding
   the following to your `.emacs':
   ┌────
   │ (setq inhibit-compacting-font-caches t)
@@ -528,6 +486,8 @@ Table of Contents
 
 [in the past]
 <https://github.com/integral-dw/org-superstar-mode/issues/3>
+
+[fonts] <https://github.com/integral-dw/org-superstar-mode/issues/27>
 
 4.2.1 "I experience lag when working with long plain lists!"
 ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
@@ -578,7 +538,20 @@ Table of Contents
 5 NEWS
 ══════
 
-5.1 `2021-02-16'
+5.1 `2025-08-31'
+────────────────
+
+  *1.6.0* has been released (after several years of absence), adding
+  minor support for numbered lists.  Many years have passed since my
+  last update, and we have even surpassed the 262144 (2^18) downloads
+  milestone.. I hope that you, dear reader, find continued enjoyment in
+  this little aesthetics tweak to Org.  While I doubt that I will be as
+  active as I was back in 2020, Superstar is far from dead! I will
+  continue to support it and am slowly working on reducing the amount of
+  open issues.  Thank you all so much for your patience.
+
+
+5.2 `2021-02-16'
 ────────────────
 
   *1.5.0* has been released, adding support for hiding TODO item bullets
@@ -588,7 +561,7 @@ Table of Contents
   number change.
 
 
-5.2 `2021-02-11'
+5.3 `2021-02-11'
 ────────────────
 
   Since I have been asked whether there is a way to extend Superstar to
