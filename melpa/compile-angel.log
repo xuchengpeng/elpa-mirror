@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/jamescherti/compile-angel.el
 
 Updating /mnt/store/melpa/working/compile-angel/
-Checking out 99b6d26c19d889f6a2340ab02155f3100da642e5
+Checking out 7f71535f032beaca19c349672836d44b1aba299a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/compile-angel/
-  to /tmp/compile-angelNYg0rK/compile-angel-20250820.14
+  to /tmp/compile-angel0fwwVV/compile-angel-20250827.2007
     compile-angel.el -> compile-angel.el
-Created compile-angel-20250820.14.tar containing:
-  compile-angel-20250820.14/
-  compile-angel-20250820.14/compile-angel-pkg.el
-  compile-angel-20250820.14/compile-angel.el
+Created compile-angel-20250827.2007.tar containing:
+  compile-angel-20250827.2007/
+  compile-angel-20250827.2007/compile-angel-pkg.el
+  compile-angel-20250827.2007/compile-angel.el
  ✓ Success:
-  2025-08-25T00:23:28+0000  compile-angel-20250820.14.entry
-  2025-08-25T00:23:28+0000  compile-angel-20250820.14.tar
-Built compile-angel in 2.773s, finished at 2025-08-25T00:23:29+0000
+  2025-09-01T02:05:29+0000  compile-angel-20250827.2007.entry
+  2025-09-01T02:05:29+0000  compile-angel-20250827.2007.tar
+Built compile-angel in 2.733s, finished at 2025-09-01T02:05:30+0000

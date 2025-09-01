@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/crc/
 Checking out 568bd5e0fddfbf430c295da33a17f6ed99484188
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/crc/
-  to /tmp/crc2ZaKGK/crc-20250303.119
+  to /tmp/crcKwNzDX/crc-20250303.119
     crc.el -> crc.el
 Created crc-20250303.119.tar containing:
   crc-20250303.119/
   crc-20250303.119/crc-pkg.el
   crc-20250303.119/crc.el
  ✓ Success:
-  2025-08-25T00:24:50+0000  crc-20250303.119.entry
-  2025-08-25T00:24:50+0000  crc-20250303.119.tar
-Built crc in 3.838s, finished at 2025-08-25T00:24:51+0000
+  2025-08-31T23:34:36+0000  crc-20250303.119.entry
+  2025-08-31T23:34:36+0000  crc-20250303.119.tar
+Built crc in 3.682s, finished at 2025-08-31T23:34:36+0000

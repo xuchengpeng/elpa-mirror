@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/magit-lfs/
 Checking out cd9f46e1840270be27e2c2d9dcf036ff0781f66d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/magit-lfs/
-  to /tmp/magit-lfsvGkjGf/magit-lfs-20221031.1447
+  to /tmp/magit-lfsQji1sp/magit-lfs-20221031.1447
     magit-lfs.el -> magit-lfs.el
 Created magit-lfs-20221031.1447.tar containing:
   magit-lfs-20221031.1447/
   magit-lfs-20221031.1447/magit-lfs-pkg.el
   magit-lfs-20221031.1447/magit-lfs.el
  ✓ Success:
-  2025-08-25T00:54:35+0000  magit-lfs-20221031.1447.entry
-  2025-08-25T00:54:34+0000  magit-lfs-20221031.1447.tar
-Built magit-lfs in 4.494s, finished at 2025-08-25T00:54:36+0000
+  2025-09-01T00:04:58+0000  magit-lfs-20221031.1447.entry
+  2025-09-01T00:04:58+0000  magit-lfs-20221031.1447.tar
+Built magit-lfs in 2.933s, finished at 2025-09-01T00:04:59+0000

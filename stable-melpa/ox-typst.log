@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/ox-typst/
 Checking out 5c855902fe11c10292e495501e7f1b4adbb53d16
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ox-typst/
-  to /tmp/ox-typst3y66Iy/ox-typst-20250704.1835
+  to /tmp/ox-typstSIrlMA/ox-typst-20250704.1835
     ox-typst.el -> ox-typst.el
 Created ox-typst-20250704.1835.tar containing:
   ox-typst-20250704.1835/
   ox-typst-20250704.1835/ox-typst-pkg.el
   ox-typst-20250704.1835/ox-typst.el
  ✓ Success:
-  2025-08-25T01:05:46+0000  ox-typst-20250704.1835.entry
-  2025-08-25T01:05:46+0000  ox-typst-20250704.1835.tar
-Built ox-typst in 6.433s, finished at 2025-08-25T01:05:48+0000
+  2025-09-01T00:16:23+0000  ox-typst-20250704.1835.entry
+  2025-09-01T00:16:23+0000  ox-typst-20250704.1835.tar
+Built ox-typst in 2.700s, finished at 2025-09-01T00:16:23+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/elisp-dev-mcp/
 Checking out 45ae39151b66b9bfaa6382b01820a7762ab23ade
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/elisp-dev-mcp/
-  to /tmp/elisp-dev-mcpUMnrGG/elisp-dev-mcp-20250722.1502
+  to /tmp/elisp-dev-mcpU8Mpil/elisp-dev-mcp-20250722.1502
     elisp-dev-mcp.el -> elisp-dev-mcp.el
 Created elisp-dev-mcp-20250722.1502.tar containing:
   elisp-dev-mcp-20250722.1502/
   elisp-dev-mcp-20250722.1502/elisp-dev-mcp-pkg.el
   elisp-dev-mcp-20250722.1502/elisp-dev-mcp.el
  ✓ Success:
-  2025-08-25T00:30:48+0000  elisp-dev-mcp-20250722.1502.entry
-  2025-08-25T00:30:48+0000  elisp-dev-mcp-20250722.1502.tar
-Built elisp-dev-mcp in 2.219s, finished at 2025-08-25T00:30:49+0000
+  2025-08-31T23:40:47+0000  elisp-dev-mcp-20250722.1502.entry
+  2025-08-31T23:40:47+0000  elisp-dev-mcp-20250722.1502.tar
+Built elisp-dev-mcp in 2.101s, finished at 2025-08-31T23:40:47+0000

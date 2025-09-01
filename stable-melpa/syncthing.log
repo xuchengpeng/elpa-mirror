@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/syncthing/
 Checking out eac37ecf5458b6d554544b1ddb76e3c6fbe3cb2f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/syncthing/
-  to /tmp/syncthingfgbccQ/syncthing-20250612.206
+  to /tmp/syncthingg8B8AY/syncthing-20250612.206
     syncthing-common.el -> syncthing-common.el
     syncthing-constants.el -> syncthing-constants.el
     syncthing-custom.el -> syncthing-custom.el
@@ -43,6 +43,6 @@ Created syncthing-20250612.206.tar containing:
   syncthing-20250612.206/syncthing-widgets.el
   syncthing-20250612.206/syncthing.el
  ✓ Success:
-  2025-08-25T01:19:25+0000  syncthing-20250612.206.entry
-  2025-08-25T01:19:25+0000  syncthing-20250612.206.tar
-Built syncthing in 3.160s, finished at 2025-08-25T01:19:26+0000
+  2025-09-01T00:30:38+0000  syncthing-20250612.206.entry
+  2025-09-01T00:30:37+0000  syncthing-20250612.206.tar
+Built syncthing in 3.133s, finished at 2025-09-01T00:30:38+0000

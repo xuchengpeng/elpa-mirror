@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/thapakrish/samskritam.el
 
 Updating /mnt/store/melpa/working/samskritam/
-Checking out 07fd19057dc8122c6f7174bcd9b36ce711375385
+Checking out e84358904b93c5c03d00b62f1e6735393d2b3d53
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/samskritam/
-  to /tmp/samskritamyhF73P/samskritam-20250815.440
+  to /tmp/samskritamhetSPP/samskritam-20250829.2315
     samskritam.el -> samskritam.el
-Created samskritam-20250815.440.tar containing:
-  samskritam-20250815.440/
-  samskritam-20250815.440/samskritam-pkg.el
-  samskritam-20250815.440/samskritam.el
+Created samskritam-20250829.2315.tar containing:
+  samskritam-20250829.2315/
+  samskritam-20250829.2315/samskritam-pkg.el
+  samskritam-20250829.2315/samskritam.el
  ✓ Success:
-  2025-08-25T01:14:04+0000  samskritam-20250815.440.entry
-  2025-08-25T01:14:04+0000  samskritam-20250815.440.tar
-Built samskritam in 3.197s, finished at 2025-08-25T01:14:05+0000
+  2025-09-01T00:25:06+0000  samskritam-20250829.2315.entry
+  2025-09-01T00:25:06+0000  samskritam-20250829.2315.tar
+Built samskritam in 3.364s, finished at 2025-09-01T00:25:07+0000

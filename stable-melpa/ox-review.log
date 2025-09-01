@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/masfj/ox-review
 
 Updating /mnt/store/melpa/working/ox-review/
-Checking out f7dc418f9812088afc0ee0d08f778a5654686ef3
+Checking out 516bce8fb298e84d813d3c65b9cba200fa72e3b0
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ox-review/
-  to /tmp/ox-reviewi2kXad/ox-review-20220619.724
+  to /tmp/ox-reviewkyBvkc/ox-review-20250826.1233
     ox-review.el -> ox-review.el
-Created ox-review-20220619.724.tar containing:
-  ox-review-20220619.724/
-  ox-review-20220619.724/ox-review-pkg.el
-  ox-review-20220619.724/ox-review.el
+Created ox-review-20250826.1233.tar containing:
+  ox-review-20250826.1233/
+  ox-review-20250826.1233/ox-review-pkg.el
+  ox-review-20250826.1233/ox-review.el
  ✓ Success:
-  2025-08-25T01:05:24+0000  ox-review-20220619.724.entry
-  2025-08-25T01:05:24+0000  ox-review-20220619.724.tar
-Built ox-review in 2.011s, finished at 2025-08-25T01:05:25+0000
+  2025-09-01T00:16:13+0000  ox-review-20250826.1233.entry
+  2025-09-01T00:16:13+0000  ox-review-20250826.1233.tar
+Built ox-review in 2.340s, finished at 2025-09-01T00:16:13+0000

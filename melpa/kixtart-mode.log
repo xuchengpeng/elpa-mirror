@@ -3,22 +3,22 @@ Fetcher: sourcehut
 Source:  https://git.sr.ht/~mew/kixtart-mode
 
 Updating /mnt/store/melpa/working/kixtart-mode/
-Checking out ddf0c3b207e5695fbc80fe45374db29f5ea18211
+Checking out 168c1fd1427a53f7d463d698748e321b4eb0ea50
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/kixtart-mode/
-  to /tmp/kixtart-modeUEzrih/kixtart-mode-20250806.1656
+  to /tmp/kixtart-mode84zOc6/kixtart-mode-20250830.1722
   ! doc/kixtart-mode.texi -> kixtart-mode.texi
     kixtart-docstrings.el -> kixtart-docstrings.el
     kixtart-mode.el -> kixtart-mode.el
 Generating kixtart-mode.info
-Created kixtart-mode-20250806.1656.tar containing:
-  kixtart-mode-20250806.1656/
-  kixtart-mode-20250806.1656/dir
-  kixtart-mode-20250806.1656/kixtart-docstrings.el
-  kixtart-mode-20250806.1656/kixtart-mode-pkg.el
-  kixtart-mode-20250806.1656/kixtart-mode.el
-  kixtart-mode-20250806.1656/kixtart-mode.info
+Created kixtart-mode-20250830.1722.tar containing:
+  kixtart-mode-20250830.1722/
+  kixtart-mode-20250830.1722/dir
+  kixtart-mode-20250830.1722/kixtart-docstrings.el
+  kixtart-mode-20250830.1722/kixtart-mode-pkg.el
+  kixtart-mode-20250830.1722/kixtart-mode.el
+  kixtart-mode-20250830.1722/kixtart-mode.info
  ✓ Success:
-  2025-08-25T00:51:20+0000  kixtart-mode-20250806.1656.entry
-  2025-08-25T00:51:20+0000  kixtart-mode-20250806.1656.tar
-Built kixtart-mode in 5.140s, finished at 2025-08-25T00:51:21+0000
+  2025-09-01T00:01:46+0000  kixtart-mode-20250830.1722.entry
+  2025-09-01T00:01:46+0000  kixtart-mode-20250830.1722.tar
+Built kixtart-mode in 4.666s, finished at 2025-09-01T00:01:46+0000

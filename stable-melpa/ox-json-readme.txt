@@ -36,4 +36,4 @@ Export options:
   using `ox-json-encode-auto'.
 
 :json-postprocess (symbol) - How to postprocess the final output. Values are `pretty'
-;    (indent properly), `minimal' (remove whitespace), and nil (nothing, maybe faster?).
+  (indent properly), `minimal' (remove whitespace), and nil (nothing, maybe faster?).

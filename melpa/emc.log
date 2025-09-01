@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/emc/
 Checking out 78bbc27964571567cef5e2e78d852d0e46f600e7
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/emc/
-  to /tmp/emcJ8s59K/emc-20250609.606
+  to /tmp/emcyW1sOP/emc-20250609.606
     emc.el -> emc.el
 Created emc-20250609.606.tar containing:
   emc-20250609.606/
   emc-20250609.606/emc-pkg.el
   emc-20250609.606/emc.el
  ✓ Success:
-  2025-08-25T00:31:36+0000  emc-20250609.606.entry
-  2025-08-25T00:31:35+0000  emc-20250609.606.tar
-Built emc in 3.212s, finished at 2025-08-25T00:31:37+0000
+  2025-08-31T23:41:30+0000  emc-20250609.606.entry
+  2025-08-31T23:41:30+0000  emc-20250609.606.tar
+Built emc in 2.029s, finished at 2025-08-31T23:41:31+0000

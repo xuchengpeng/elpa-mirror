@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/mode-line-debug/
 Checking out a3f9adf892908dac0fcb2a000934d824c599ab67
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mode-line-debug/
-  to /tmp/mode-line-debugxccjaI/mode-line-debug-20250815.1335
+  to /tmp/mode-line-debugG80e37/mode-line-debug-20250815.1335
     mode-line-debug.el -> mode-line-debug.el
 Created mode-line-debug-20250815.1335.tar containing:
   mode-line-debug-20250815.1335/
   mode-line-debug-20250815.1335/mode-line-debug-pkg.el
   mode-line-debug-20250815.1335/mode-line-debug.el
  ✓ Success:
-  2025-08-25T00:56:47+0000  mode-line-debug-20250815.1335.entry
-  2025-08-25T00:56:47+0000  mode-line-debug-20250815.1335.tar
-Built mode-line-debug in 2.526s, finished at 2025-08-25T00:56:48+0000
+  2025-09-01T00:07:28+0000  mode-line-debug-20250815.1335.entry
+  2025-09-01T00:07:28+0000  mode-line-debug-20250815.1335.tar
+Built mode-line-debug in 2.903s, finished at 2025-09-01T00:07:29+0000

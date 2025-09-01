@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/starhugger/
 Checking out c9753808184eaa9328b6ada18bfe418150b92eac
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/starhugger/
-  to /tmp/starhugger5PNJQ2/starhugger-20250216.948
+  to /tmp/starhuggeruAf1qA/starhugger-20250216.948
     starhugger-grep-context.el -> starhugger-grep-context.el
     starhugger.el -> starhugger.el
     starhugger-grep-context-process.py -> starhugger-grep-context-process.py
@@ -17,6 +17,6 @@ Created starhugger-20250216.948.tar containing:
   starhugger-20250216.948/starhugger-pkg.el
   starhugger-20250216.948/starhugger.el
  ✓ Success:
-  2025-08-25T01:18:23+0000  starhugger-20250216.948.entry
-  2025-08-25T01:18:23+0000  starhugger-20250216.948.tar
-Built starhugger in 3.497s, finished at 2025-08-25T01:18:23+0000
+  2025-09-01T00:29:32+0000  starhugger-20250216.948.entry
+  2025-09-01T00:29:32+0000  starhugger-20250216.948.tar
+Built starhugger in 3.653s, finished at 2025-09-01T00:29:33+0000

@@ -3,21 +3,21 @@ Fetcher: gitlab
 Source:  https://gitlab.com/python-mode-devs/python-mode
 
 Updating /mnt/store/melpa/working/python-mode/
-Checking out fcff76c308b4409007c61492e4936e7c0b7d5aee
+Checking out 47e4eec51ccb32f57185f6add31ebcb6e92f9f0c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/python-mode/
-  to /tmp/python-modeYnb50S/python-mode-20250821.1140
+  to /tmp/python-modeXQbSeZ/python-mode-20250829.1331
     python-mode.el -> python-mode.el
     completion/pycomplete.el -> completion/pycomplete.el
     completion/pycomplete.py -> completion/pycomplete.py
-Created python-mode-20250821.1140.tar containing:
-  python-mode-20250821.1140/
-  python-mode-20250821.1140/completion/
-  python-mode-20250821.1140/completion/pycomplete.el
-  python-mode-20250821.1140/completion/pycomplete.py
-  python-mode-20250821.1140/python-mode-pkg.el
-  python-mode-20250821.1140/python-mode.el
+Created python-mode-20250829.1331.tar containing:
+  python-mode-20250829.1331/
+  python-mode-20250829.1331/completion/
+  python-mode-20250829.1331/completion/pycomplete.el
+  python-mode-20250829.1331/completion/pycomplete.py
+  python-mode-20250829.1331/python-mode-pkg.el
+  python-mode-20250829.1331/python-mode.el
  ✓ Success:
-  2025-08-25T01:10:54+0000  python-mode-20250821.1140.entry
-  2025-08-25T01:10:54+0000  python-mode-20250821.1140.tar
-Built python-mode in 4.183s, finished at 2025-08-25T01:10:55+0000
+  2025-09-01T00:21:47+0000  python-mode-20250829.1331.entry
+  2025-09-01T00:21:47+0000  python-mode-20250829.1331.tar
+Built python-mode in 5.259s, finished at 2025-09-01T00:21:48+0000

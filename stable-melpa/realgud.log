@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/realgud/
 Checking out bc479d7e1b14721006ec76b47bc070756baec16b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/realgud/
-  to /tmp/realgud53pDyl/realgud-20250605.1143
+  to /tmp/realgudW8gJL9/realgud-20250605.1143
     realgud.el -> realgud.el
   ! realgud/.nosearch -> .nosearch
     realgud-recursive-autoloads.el -> realgud-recursive-autoloads.el
@@ -240,6 +240,6 @@ Created realgud-20250605.1143.tar containing:
   realgud-20250605.1143/realgud/lang/python.el
   realgud-20250605.1143/realgud/lang/ruby.el
  ✓ Success:
-  2025-08-25T01:11:56+0000  realgud-20250605.1143.entry
-  2025-08-25T01:11:56+0000  realgud-20250605.1143.tar
-Built realgud in 4.322s, finished at 2025-08-25T01:11:57+0000
+  2025-09-01T00:22:53+0000  realgud-20250605.1143.entry
+  2025-09-01T00:22:53+0000  realgud-20250605.1143.tar
+Built realgud in 5.518s, finished at 2025-09-01T00:22:55+0000

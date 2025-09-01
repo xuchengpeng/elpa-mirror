@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/mew/
 Checking out a162361aab27e63a886ceff21349425d6da24c86
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mew/
-  to /tmp/mew8RuysP/mew-20250815.36
+  to /tmp/mewBuciZj/mew-20250815.36
   ! elisp/mew-addrbook.el -> mew-addrbook.el
   ! elisp/mew-attach.el -> mew-attach.el
   ! elisp/mew-auth.el -> mew-auth.el
@@ -185,6 +185,6 @@ Created mew-20250815.36.tar containing:
   mew-20250815.36/mew.info
   mew-20250815.36/mew.ja.info
  ✓ Success:
-  2025-08-25T00:56:05+0000  mew-20250815.36.entry
-  2025-08-25T00:56:05+0000  mew-20250815.36.tar
-Built mew in 3.945s, finished at 2025-08-25T00:56:06+0000
+  2025-09-01T00:06:44+0000  mew-20250815.36.entry
+  2025-09-01T00:06:44+0000  mew-20250815.36.tar
+Built mew in 3.885s, finished at 2025-09-01T00:06:45+0000

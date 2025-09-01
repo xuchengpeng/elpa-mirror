@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/ox-slack/
 Checking out c55b003f4ac343d6c6d8ef7cbe01d0d100abac34
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ox-slack/
-  to /tmp/ox-slackhbmEuk/ox-slack-20200108.1546
+  to /tmp/ox-slackbqiBBa/ox-slack-20200108.1546
     ox-slack.el -> ox-slack.el
 Created ox-slack-20200108.1546.tar containing:
   ox-slack-20200108.1546/
   ox-slack-20200108.1546/ox-slack-pkg.el
   ox-slack-20200108.1546/ox-slack.el
  ✓ Success:
-  2025-08-25T01:05:28+0000  ox-slack-20200108.1546.entry
-  2025-08-25T01:05:28+0000  ox-slack-20200108.1546.tar
-Built ox-slack in 2.470s, finished at 2025-08-25T01:05:29+0000
+  2025-09-01T00:16:16+0000  ox-slack-20200108.1546.entry
+  2025-09-01T00:16:16+0000  ox-slack-20200108.1546.tar
+Built ox-slack in 2.132s, finished at 2025-09-01T00:16:16+0000

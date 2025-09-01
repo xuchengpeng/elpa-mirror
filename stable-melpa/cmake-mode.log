@@ -3,16 +3,16 @@ Fetcher: git
 Source:  https://gitlab.kitware.com/cmake/cmake.git
 
 Updating /mnt/store/melpa/working/cmake-mode/
-Checking out 2a2c2e0b2658f7c07e00fcf649882fd5578c2fc1
+Checking out ba8c4a15f10e2636405106ff0dc92b79d94a616c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/cmake-mode/
-  to /tmp/cmake-modexWWg4d/cmake-mode-20250805.1455
+  to /tmp/cmake-modeI4WMYl/cmake-mode-20250827.1633
   ! Auxiliary/cmake-mode.el -> cmake-mode.el
-Created cmake-mode-20250805.1455.tar containing:
-  cmake-mode-20250805.1455/
-  cmake-mode-20250805.1455/cmake-mode-pkg.el
-  cmake-mode-20250805.1455/cmake-mode.el
+Created cmake-mode-20250827.1633.tar containing:
+  cmake-mode-20250827.1633/
+  cmake-mode-20250827.1633/cmake-mode-pkg.el
+  cmake-mode-20250827.1633/cmake-mode.el
  ✓ Success:
-  2025-08-25T00:22:05+0000  cmake-mode-20250805.1455.entry
-  2025-08-25T00:22:05+0000  cmake-mode-20250805.1455.tar
-Built cmake-mode in 8.994s, finished at 2025-08-25T00:22:07+0000
+  2025-09-01T02:03:50+0000  cmake-mode-20250827.1633.entry
+  2025-09-01T02:03:50+0000  cmake-mode-20250827.1633.tar
+Built cmake-mode in 9.122s, finished at 2025-09-01T02:03:52+0000

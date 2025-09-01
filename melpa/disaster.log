@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/jart/disaster
 
 Updating /mnt/store/melpa/working/disaster/
-Checking out 5b7f7b06ecffa474535afb34cca3e348c59de71d
+Checking out 0299c129d4153e3a794358159737c3ff9d155654
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/disaster/
-  to /tmp/disasterScTUi3/disaster-20250302.1549
+  to /tmp/disasterBJjDIP/disaster-20250828.2224
     disaster.el -> disaster.el
-Created disaster-20250302.1549.tar containing:
-  disaster-20250302.1549/
-  disaster-20250302.1549/disaster-pkg.el
-  disaster-20250302.1549/disaster.el
+Created disaster-20250828.2224.tar containing:
+  disaster-20250828.2224/
+  disaster-20250828.2224/disaster-pkg.el
+  disaster-20250828.2224/disaster.el
  ✓ Success:
-  2025-08-25T00:27:49+0000  disaster-20250302.1549.entry
-  2025-08-25T00:27:49+0000  disaster-20250302.1549.tar
-Built disaster in 2.663s, finished at 2025-08-25T00:27:50+0000
+  2025-08-31T23:37:39+0000  disaster-20250828.2224.entry
+  2025-08-31T23:37:38+0000  disaster-20250828.2224.tar
+Built disaster in 2.820s, finished at 2025-08-31T23:37:39+0000

@@ -3,16 +3,16 @@ Fetcher: codeberg
 Source:  https://codeberg.org/ideasman42/emacs-shift-number
 
 Updating /mnt/store/melpa/working/shift-number/
-Checking out cfe8e90591ec3271cb901cc34b68f2ca3d858c1f
+Checking out cad82f36077569b337e29c85c13ab19770ff8e2a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/shift-number/
-  to /tmp/shift-numberO1h9Kg/shift-number-20250710.340
+  to /tmp/shift-numbertStiWs/shift-number-20250831.406
     shift-number.el -> shift-number.el
-Created shift-number-20250710.340.tar containing:
-  shift-number-20250710.340/
-  shift-number-20250710.340/shift-number-pkg.el
-  shift-number-20250710.340/shift-number.el
+Created shift-number-20250831.406.tar containing:
+  shift-number-20250831.406/
+  shift-number-20250831.406/shift-number-pkg.el
+  shift-number-20250831.406/shift-number.el
  ✓ Success:
-  2025-08-25T01:15:25+0000  shift-number-20250710.340.entry
-  2025-08-25T01:15:25+0000  shift-number-20250710.340.tar
-Built shift-number in 3.445s, finished at 2025-08-25T01:15:26+0000
+  2025-09-01T00:26:32+0000  shift-number-20250831.406.entry
+  2025-09-01T00:26:32+0000  shift-number-20250831.406.tar
+Built shift-number in 5.801s, finished at 2025-09-01T00:26:33+0000

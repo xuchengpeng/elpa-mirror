@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/xenodium/sqlite-mode-extras
 
 Updating /mnt/store/melpa/working/sqlite-mode-extras/
-Checking out 2508fdd94b48517892a409a4cb725ece3bd015b6
+Checking out 83881ac1298eb15aaded2d579b59d7d9d25e403b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/sqlite-mode-extras/
-  to /tmp/sqlite-mode-extrasb4VaTG/sqlite-mode-extras-20241017.1030
+  to /tmp/sqlite-mode-extras2uhvah/sqlite-mode-extras-20250827.1317
     sqlite-mode-extras.el -> sqlite-mode-extras.el
-Created sqlite-mode-extras-20241017.1030.tar containing:
-  sqlite-mode-extras-20241017.1030/
-  sqlite-mode-extras-20241017.1030/sqlite-mode-extras-pkg.el
-  sqlite-mode-extras-20241017.1030/sqlite-mode-extras.el
+Created sqlite-mode-extras-20250827.1317.tar containing:
+  sqlite-mode-extras-20250827.1317/
+  sqlite-mode-extras-20250827.1317/sqlite-mode-extras-pkg.el
+  sqlite-mode-extras-20250827.1317/sqlite-mode-extras.el
  ✓ Success:
-  2025-08-25T01:18:09+0000  sqlite-mode-extras-20241017.1030.entry
-  2025-08-25T01:18:09+0000  sqlite-mode-extras-20241017.1030.tar
-Built sqlite-mode-extras in 2.168s, finished at 2025-08-25T01:18:09+0000
+  2025-09-01T00:29:18+0000  sqlite-mode-extras-20250827.1317.entry
+  2025-09-01T00:29:18+0000  sqlite-mode-extras-20250827.1317.tar
+Built sqlite-mode-extras in 2.235s, finished at 2025-09-01T00:29:18+0000

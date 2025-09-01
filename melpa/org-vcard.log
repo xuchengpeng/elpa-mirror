@@ -3,30 +3,30 @@ Fetcher: github
 Source:  https://github.com/pinoaffe/org-vcard
 
 Updating /mnt/store/melpa/working/org-vcard/
-Checking out d160870fa80b08007ea1a0f6bf1cc35f9ba6db1d
+Checking out 03c504c34e5c31091d971090b249064e332987d7
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/org-vcard/
-  to /tmp/org-vcard3ds1G1/org-vcard-20250823.1318
+  to /tmp/org-vcard30WSLq/org-vcard-20250828.809
     org-vcard.el -> org-vcard.el
     styles => styles
-Created org-vcard-20250823.1318.tar containing:
-  org-vcard-20250823.1318/
-  org-vcard-20250823.1318/org-vcard-pkg.el
-  org-vcard-20250823.1318/org-vcard.el
-  org-vcard-20250823.1318/styles/
-  org-vcard-20250823.1318/styles/flat/
-  org-vcard-20250823.1318/styles/flat/functions.el
-  org-vcard-20250823.1318/styles/flat/mappings/
-  org-vcard-20250823.1318/styles/flat/mappings/en
-  org-vcard-20250823.1318/styles/flat/mappings/en_AU
-  org-vcard-20250823.1318/styles/flat/mappings/en_US
-  org-vcard-20250823.1318/styles/tree/
-  org-vcard-20250823.1318/styles/tree/functions.el
-  org-vcard-20250823.1318/styles/tree/mappings/
-  org-vcard-20250823.1318/styles/tree/mappings/en
-  org-vcard-20250823.1318/styles/tree/mappings/en_AU
-  org-vcard-20250823.1318/styles/tree/mappings/en_US
+Created org-vcard-20250828.809.tar containing:
+  org-vcard-20250828.809/
+  org-vcard-20250828.809/org-vcard-pkg.el
+  org-vcard-20250828.809/org-vcard.el
+  org-vcard-20250828.809/styles/
+  org-vcard-20250828.809/styles/flat/
+  org-vcard-20250828.809/styles/flat/functions.el
+  org-vcard-20250828.809/styles/flat/mappings/
+  org-vcard-20250828.809/styles/flat/mappings/en
+  org-vcard-20250828.809/styles/flat/mappings/en_AU
+  org-vcard-20250828.809/styles/flat/mappings/en_US
+  org-vcard-20250828.809/styles/tree/
+  org-vcard-20250828.809/styles/tree/functions.el
+  org-vcard-20250828.809/styles/tree/mappings/
+  org-vcard-20250828.809/styles/tree/mappings/en
+  org-vcard-20250828.809/styles/tree/mappings/en_AU
+  org-vcard-20250828.809/styles/tree/mappings/en_US
  ✓ Success:
-  2025-08-25T01:04:15+0000  org-vcard-20250823.1318.entry
-  2025-08-25T01:04:15+0000  org-vcard-20250823.1318.tar
-Built org-vcard in 1.393s, finished at 2025-08-25T01:04:15+0000
+  2025-09-01T00:15:02+0000  org-vcard-20250828.809.entry
+  2025-09-01T00:15:02+0000  org-vcard-20250828.809.tar
+Built org-vcard in 1.375s, finished at 2025-09-01T00:15:02+0000

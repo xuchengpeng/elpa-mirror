@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/karthink/timeout
 
 Updating /mnt/store/melpa/working/timeout/
-Checking out 0efdd2173cfd84a9f49b721ce7ef685048499905
+Checking out 174f5e01c5d22a8d281223b9db20028ee84e0987
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/timeout/
-  to /tmp/timeout1b3wWT/timeout-20250822.1813
+  to /tmp/timeoutYVQL3Q/timeout-20250830.848
     timeout.el -> timeout.el
-Created timeout-20250822.1813.tar containing:
-  timeout-20250822.1813/
-  timeout-20250822.1813/timeout-pkg.el
-  timeout-20250822.1813/timeout.el
+Created timeout-20250830.848.tar containing:
+  timeout-20250830.848/
+  timeout-20250830.848/timeout-pkg.el
+  timeout-20250830.848/timeout.el
  ✓ Success:
-  2025-08-25T01:20:50+0000  timeout-20250822.1813.entry
-  2025-08-25T01:20:50+0000  timeout-20250822.1813.tar
-Built timeout in 2.659s, finished at 2025-08-25T01:20:50+0000
+  2025-09-01T00:32:07+0000  timeout-20250830.848.entry
+  2025-09-01T00:32:07+0000  timeout-20250830.848.tar
+Built timeout in 3.140s, finished at 2025-09-01T00:32:08+0000

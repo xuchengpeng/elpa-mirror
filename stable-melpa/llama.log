@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/llama/
 Checking out bf586c02ddf5cf2eb0bab468b99436018887bbec
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/llama/
-  to /tmp/llamaY92BT2/llama-20250808.1023
+  to /tmp/llamageeGBI/llama-20250808.1023
     llama.el -> llama.el
     .dir-locals.el -> .dir-locals.el
 Created llama-20250808.1023.tar containing:
@@ -15,6 +15,6 @@ Created llama-20250808.1023.tar containing:
   llama-20250808.1023/llama-pkg.el
   llama-20250808.1023/llama.el
  ✓ Success:
-  2025-08-25T00:53:07+0000  llama-20250808.1023.entry
-  2025-08-25T00:53:07+0000  llama-20250808.1023.tar
-Built llama in 2.665s, finished at 2025-08-25T00:53:08+0000
+  2025-09-01T00:03:38+0000  llama-20250808.1023.entry
+  2025-09-01T00:03:38+0000  llama-20250808.1023.tar
+Built llama in 2.823s, finished at 2025-09-01T00:03:39+0000

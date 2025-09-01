@@ -3,24 +3,26 @@ Fetcher: github
 Source:  https://github.com/lorniu/mpvi
 
 Updating /mnt/store/melpa/working/mpvi/
-Checking out e2d78d6c72d73c445fa49a145fdf2f4abb7b826f
+Checking out 15b7e976e1546843b79760fffbd13247e74ee60d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mpvi/
-  to /tmp/mpviybS9yv/mpvi-20250824.323
+  to /tmp/mpviW3Q6io/mpvi-20250831.1629
     mpvi-bilibili.el -> mpvi-bilibili.el
     mpvi-emms.el -> mpvi-emms.el
     mpvi-living.el -> mpvi-living.el
     mpvi-subtitle.el -> mpvi-subtitle.el
+    mpvi-websocket.el -> mpvi-websocket.el
     mpvi.el -> mpvi.el
-Created mpvi-20250824.323.tar containing:
-  mpvi-20250824.323/
-  mpvi-20250824.323/mpvi-bilibili.el
-  mpvi-20250824.323/mpvi-emms.el
-  mpvi-20250824.323/mpvi-living.el
-  mpvi-20250824.323/mpvi-pkg.el
-  mpvi-20250824.323/mpvi-subtitle.el
-  mpvi-20250824.323/mpvi.el
+Created mpvi-20250831.1629.tar containing:
+  mpvi-20250831.1629/
+  mpvi-20250831.1629/mpvi-bilibili.el
+  mpvi-20250831.1629/mpvi-emms.el
+  mpvi-20250831.1629/mpvi-living.el
+  mpvi-20250831.1629/mpvi-pkg.el
+  mpvi-20250831.1629/mpvi-subtitle.el
+  mpvi-20250831.1629/mpvi-websocket.el
+  mpvi-20250831.1629/mpvi.el
  ✓ Success:
-  2025-08-25T00:57:28+0000  mpvi-20250824.323.entry
-  2025-08-25T00:57:28+0000  mpvi-20250824.323.tar
-Built mpvi in 3.488s, finished at 2025-08-25T00:57:29+0000
+  2025-09-01T00:08:12+0000  mpvi-20250831.1629.entry
+  2025-09-01T00:08:12+0000  mpvi-20250831.1629.tar
+Built mpvi in 3.702s, finished at 2025-09-01T00:08:13+0000

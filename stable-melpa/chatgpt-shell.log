@@ -3,10 +3,10 @@ Fetcher: github
 Source:  https://github.com/xenodium/chatgpt-shell
 
 Updating /mnt/store/melpa/working/chatgpt-shell/
-Checking out 410abc7dfa2353c7753b46d842cbf29d6e5d32cc
+Checking out c5b9394fed338eb5bb129590aa29edb14f6d9ba7
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/chatgpt-shell/
-  to /tmp/chatgpt-shelldByS9b/chatgpt-shell-20250824.1104
+  to /tmp/chatgpt-shellDn049U/chatgpt-shell-20250831.1117
     chatgpt-shell-anthropic.el -> chatgpt-shell-anthropic.el
     chatgpt-shell-deepseek.el -> chatgpt-shell-deepseek.el
     chatgpt-shell-google.el -> chatgpt-shell-google.el
@@ -18,21 +18,21 @@ Copying files (->) and directories (=>)
     chatgpt-shell-prompt-compose.el -> chatgpt-shell-prompt-compose.el
     chatgpt-shell-transient.el -> chatgpt-shell-transient.el
     chatgpt-shell.el -> chatgpt-shell.el
-Created chatgpt-shell-20250824.1104.tar containing:
-  chatgpt-shell-20250824.1104/
-  chatgpt-shell-20250824.1104/chatgpt-shell-anthropic.el
-  chatgpt-shell-20250824.1104/chatgpt-shell-deepseek.el
-  chatgpt-shell-20250824.1104/chatgpt-shell-google.el
-  chatgpt-shell-20250824.1104/chatgpt-shell-kagi.el
-  chatgpt-shell-20250824.1104/chatgpt-shell-ollama.el
-  chatgpt-shell-20250824.1104/chatgpt-shell-openai.el
-  chatgpt-shell-20250824.1104/chatgpt-shell-openrouter.el
-  chatgpt-shell-20250824.1104/chatgpt-shell-perplexity.el
-  chatgpt-shell-20250824.1104/chatgpt-shell-pkg.el
-  chatgpt-shell-20250824.1104/chatgpt-shell-prompt-compose.el
-  chatgpt-shell-20250824.1104/chatgpt-shell-transient.el
-  chatgpt-shell-20250824.1104/chatgpt-shell.el
+Created chatgpt-shell-20250831.1117.tar containing:
+  chatgpt-shell-20250831.1117/
+  chatgpt-shell-20250831.1117/chatgpt-shell-anthropic.el
+  chatgpt-shell-20250831.1117/chatgpt-shell-deepseek.el
+  chatgpt-shell-20250831.1117/chatgpt-shell-google.el
+  chatgpt-shell-20250831.1117/chatgpt-shell-kagi.el
+  chatgpt-shell-20250831.1117/chatgpt-shell-ollama.el
+  chatgpt-shell-20250831.1117/chatgpt-shell-openai.el
+  chatgpt-shell-20250831.1117/chatgpt-shell-openrouter.el
+  chatgpt-shell-20250831.1117/chatgpt-shell-perplexity.el
+  chatgpt-shell-20250831.1117/chatgpt-shell-pkg.el
+  chatgpt-shell-20250831.1117/chatgpt-shell-prompt-compose.el
+  chatgpt-shell-20250831.1117/chatgpt-shell-transient.el
+  chatgpt-shell-20250831.1117/chatgpt-shell.el
  ✓ Success:
-  2025-08-25T00:20:48+0000  chatgpt-shell-20250824.1104.entry
-  2025-08-25T00:20:48+0000  chatgpt-shell-20250824.1104.tar
-Built chatgpt-shell in 4.396s, finished at 2025-08-25T00:20:49+0000
+  2025-09-01T02:02:32+0000  chatgpt-shell-20250831.1117.entry
+  2025-09-01T02:02:32+0000  chatgpt-shell-20250831.1117.tar
+Built chatgpt-shell in 4.549s, finished at 2025-09-01T02:02:33+0000

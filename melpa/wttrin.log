@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/cjennings/emacs-wttrin
 
 Updating /mnt/store/melpa/working/wttrin/
-Checking out 5655b5fd438622581f84eb84c8880f20e11b87ed
+Checking out 36ad9d4c1653ee1cf7e82052b0577f1606350e54
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/wttrin/
-  to /tmp/wttrinJfdGOR/wttrin-20240521.2004
+  to /tmp/wttrinTuCqko/wttrin-20250830.1730
     wttrin.el -> wttrin.el
-Created wttrin-20240521.2004.tar containing:
-  wttrin-20240521.2004/
-  wttrin-20240521.2004/wttrin-pkg.el
-  wttrin-20240521.2004/wttrin.el
+Created wttrin-20250830.1730.tar containing:
+  wttrin-20250830.1730/
+  wttrin-20250830.1730/wttrin-pkg.el
+  wttrin-20250830.1730/wttrin.el
  ✓ Success:
-  2025-08-25T01:26:11+0000  wttrin-20240521.2004.entry
-  2025-08-25T01:26:11+0000  wttrin-20240521.2004.tar
-Built wttrin in 2.837s, finished at 2025-08-25T01:26:12+0000
+  2025-09-01T00:37:44+0000  wttrin-20250830.1730.entry
+  2025-09-01T00:37:44+0000  wttrin-20250830.1730.tar
+Built wttrin in 2.819s, finished at 2025-09-01T00:37:45+0000

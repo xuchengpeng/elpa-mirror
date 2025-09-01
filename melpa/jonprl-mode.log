@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/jonprl-mode/
 Checking out 6059bb64891fae45827174e044d6a87ac07172d8
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/jonprl-mode/
-  to /tmp/jonprl-modeBcXH2z/jonprl-mode-20160819.59
+  to /tmp/jonprl-modecn8B5P/jonprl-mode-20160819.59
     jonprl-compat.el -> jonprl-compat.el
     jonprl-mode.el -> jonprl-mode.el
     jonprl-icon.png -> jonprl-icon.png
@@ -17,6 +17,6 @@ Created jonprl-mode-20160819.59.tar containing:
   jonprl-mode-20160819.59/jonprl-mode-pkg.el
   jonprl-mode-20160819.59/jonprl-mode.el
  ✓ Success:
-  2025-08-25T00:49:48+0000  jonprl-mode-20160819.59.entry
-  2025-08-25T00:49:48+0000  jonprl-mode-20160819.59.tar
-Built jonprl-mode in 2.920s, finished at 2025-08-25T00:49:49+0000
+  2025-08-31T23:59:52+0000  jonprl-mode-20160819.59.entry
+  2025-08-31T23:59:51+0000  jonprl-mode-20160819.59.tar
+Built jonprl-mode in 4.727s, finished at 2025-08-31T23:59:53+0000

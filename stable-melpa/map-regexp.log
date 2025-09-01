@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/map-regexp/
 Checking out ae2d1c22f786ad987aef3e319925e80160a887a0
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/map-regexp/
-  to /tmp/map-regexp29UDmU/map-regexp-20190128.18
+  to /tmp/map-regexpW9O1hT/map-regexp-20190128.18
     map-regexp.el -> map-regexp.el
 Created map-regexp-20190128.18.tar containing:
   map-regexp-20190128.18/
   map-regexp-20190128.18/map-regexp-pkg.el
   map-regexp-20190128.18/map-regexp.el
  ✓ Success:
-  2025-08-25T00:55:06+0000  map-regexp-20190128.18.entry
-  2025-08-25T00:55:06+0000  map-regexp-20190128.18.tar
-Built map-regexp in 2.574s, finished at 2025-08-25T00:55:07+0000
+  2025-09-01T00:05:32+0000  map-regexp-20190128.18.entry
+  2025-09-01T00:05:32+0000  map-regexp-20190128.18.tar
+Built map-regexp in 3.831s, finished at 2025-09-01T00:05:33+0000

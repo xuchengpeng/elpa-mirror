@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/ekg/
 Checking out f2c52383fe58802807436994709a6f453354690a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ekg/
-  to /tmp/ekgZGq2XM/ekg-20250813.22
+  to /tmp/ekgSdeCK3/ekg-20250813.22
     ekg-auto-save.el -> ekg-auto-save.el
     ekg-denote.el -> ekg-denote.el
     ekg-embedding.el -> ekg-embedding.el
@@ -34,6 +34,6 @@ Created ekg-20250813.22.tar containing:
   ekg-20250813.22/ekg.el
   ekg-20250813.22/ekg.info
  ✓ Success:
-  2025-08-25T00:30:07+0000  ekg-20250813.22.entry
-  2025-08-25T00:30:07+0000  ekg-20250813.22.tar
-Built ekg in 6.044s, finished at 2025-08-25T00:30:08+0000
+  2025-08-31T23:40:03+0000  ekg-20250813.22.entry
+  2025-08-31T23:40:03+0000  ekg-20250813.22.tar
+Built ekg in 6.517s, finished at 2025-08-31T23:40:04+0000

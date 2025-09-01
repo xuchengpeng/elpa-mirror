@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/lsp-intellij/
 Checking out cf30f0ac63bd0140e758840b8ab070e8313697b2
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/lsp-intellij/
-  to /tmp/lsp-intellijTeMczb/lsp-intellij-20180831.2051
+  to /tmp/lsp-intellijHmyjSd/lsp-intellij-20180831.2051
     lsp-intellij.el -> lsp-intellij.el
 Created lsp-intellij-20180831.2051.tar containing:
   lsp-intellij-20180831.2051/
   lsp-intellij-20180831.2051/lsp-intellij-pkg.el
   lsp-intellij-20180831.2051/lsp-intellij.el
  ✓ Success:
-  2025-08-25T00:53:39+0000  lsp-intellij-20180831.2051.entry
-  2025-08-25T00:53:39+0000  lsp-intellij-20180831.2051.tar
-Built lsp-intellij in 2.767s, finished at 2025-08-25T00:53:40+0000
+  2025-09-01T00:04:13+0000  lsp-intellij-20180831.2051.entry
+  2025-09-01T00:04:13+0000  lsp-intellij-20180831.2051.tar
+Built lsp-intellij in 2.904s, finished at 2025-09-01T00:04:14+0000

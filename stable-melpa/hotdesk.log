@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/j-hotlink/hotdesk
 
 Updating /mnt/store/melpa/working/hotdesk/
-Checking out 9ceb17c2b02d952723142ea3b62e85f12042a8b3
+Checking out 5fa4c4b1a05fbf9737eeedc7d46ce8f374c92471
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/hotdesk/
-  to /tmp/hotdeskk4PyOi/hotdesk-20250822.2225
+  to /tmp/hotdeskcbObbR/hotdesk-20250825.2217
     hotdesk.el -> hotdesk.el
-Created hotdesk-20250822.2225.tar containing:
-  hotdesk-20250822.2225/
-  hotdesk-20250822.2225/hotdesk-pkg.el
-  hotdesk-20250822.2225/hotdesk.el
+Created hotdesk-20250825.2217.tar containing:
+  hotdesk-20250825.2217/
+  hotdesk-20250825.2217/hotdesk-pkg.el
+  hotdesk-20250825.2217/hotdesk.el
  ✓ Success:
-  2025-08-25T00:46:09+0000  hotdesk-20250822.2225.entry
-  2025-08-25T00:46:09+0000  hotdesk-20250822.2225.tar
-Built hotdesk in 2.757s, finished at 2025-08-25T00:46:10+0000
+  2025-08-31T23:56:19+0000  hotdesk-20250825.2217.entry
+  2025-08-31T23:56:19+0000  hotdesk-20250825.2217.tar
+Built hotdesk in 2.478s, finished at 2025-08-31T23:56:20+0000

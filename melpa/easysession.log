@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/jamescherti/easysession.el
 
 Updating /mnt/store/melpa/working/easysession/
-Checking out 20ccabe8bcc9aeb1f6eabb8fb812d96550c9ef88
+Checking out e4aff5d98219dc0abac426fe9301cc0a4d737c5d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/easysession/
-  to /tmp/easysession4SvjwH/easysession-20250824.1632
+  to /tmp/easysession5jlRtI/easysession-20250825.59
     easysession.el -> easysession.el
-Created easysession-20250824.1632.tar containing:
-  easysession-20250824.1632/
-  easysession-20250824.1632/easysession-pkg.el
-  easysession-20250824.1632/easysession.el
+Created easysession-20250825.59.tar containing:
+  easysession-20250825.59/
+  easysession-20250825.59/easysession-pkg.el
+  easysession-20250825.59/easysession.el
  ✓ Success:
-  2025-08-25T00:29:22+0000  easysession-20250824.1632.entry
-  2025-08-25T00:29:22+0000  easysession-20250824.1632.tar
-Built easysession in 2.811s, finished at 2025-08-25T00:29:23+0000
+  2025-08-31T23:39:14+0000  easysession-20250825.59.entry
+  2025-08-31T23:39:14+0000  easysession-20250825.59.tar
+Built easysession in 3.023s, finished at 2025-08-31T23:39:15+0000

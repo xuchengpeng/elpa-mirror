@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/checkbox/
 Checking out 2afc2011fa35ccfa0ce9ef46cb1896911fa340d1
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/checkbox/
-  to /tmp/checkbox8RNvhZ/checkbox-20141117.58
+  to /tmp/checkbox3GlKoO/checkbox-20141117.58
     checkbox.el -> checkbox.el
 Created checkbox-20141117.58.tar containing:
   checkbox-20141117.58/
   checkbox-20141117.58/checkbox-pkg.el
   checkbox-20141117.58/checkbox.el
  ✓ Success:
-  2025-08-25T00:20:49+0000  checkbox-20141117.58.entry
-  2025-08-25T00:20:49+0000  checkbox-20141117.58.tar
-Built checkbox in 2.959s, finished at 2025-08-25T00:20:50+0000
+  2025-09-01T02:02:33+0000  checkbox-20141117.58.entry
+  2025-09-01T02:02:33+0000  checkbox-20141117.58.tar
+Built checkbox in 2.921s, finished at 2025-09-01T02:02:34+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/leaf-manager/
 Checking out a9fb7fda1432d0cf6bd8546d98a11b3fbe1d84e6
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/leaf-manager/
-  to /tmp/leaf-managerho0esJ/leaf-manager-20211225.624
+  to /tmp/leaf-managera3R6h7/leaf-manager-20211225.624
     leaf-manager.el -> leaf-manager.el
 Created leaf-manager-20211225.624.tar containing:
   leaf-manager-20211225.624/
   leaf-manager-20211225.624/leaf-manager-pkg.el
   leaf-manager-20211225.624/leaf-manager.el
  ✓ Success:
-  2025-08-25T00:52:09+0000  leaf-manager-20211225.624.entry
-  2025-08-25T00:52:09+0000  leaf-manager-20211225.624.tar
-Built leaf-manager in 2.308s, finished at 2025-08-25T00:52:10+0000
+  2025-09-01T00:02:38+0000  leaf-manager-20211225.624.entry
+  2025-09-01T00:02:38+0000  leaf-manager-20211225.624.tar
+Built leaf-manager in 2.492s, finished at 2025-09-01T00:02:38+0000

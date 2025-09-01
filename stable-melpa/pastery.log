@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/pastery/
 Checking out 4493be98b743b4d062cb4e00760125e394a55022
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/pastery/
-  to /tmp/pasteryZ6AGKN/pastery-20171114.349
+  to /tmp/pasteryiTtXkJ/pastery-20171114.349
     pastery-buffer.el -> pastery-buffer.el
     pastery-data.el -> pastery-data.el
     pastery-list-mode.el -> pastery-list-mode.el
@@ -21,6 +21,6 @@ Created pastery-20171114.349.tar containing:
   pastery-20171114.349/pastery-pkg.el
   pastery-20171114.349/pastery.el
  ✓ Success:
-  2025-08-25T01:06:56+0000  pastery-20171114.349.entry
-  2025-08-25T01:06:56+0000  pastery-20171114.349.tar
-Built pastery in 2.948s, finished at 2025-08-25T01:06:57+0000
+  2025-09-01T00:17:25+0000  pastery-20171114.349.entry
+  2025-09-01T00:17:25+0000  pastery-20171114.349.tar
+Built pastery in 3.039s, finished at 2025-09-01T00:17:26+0000

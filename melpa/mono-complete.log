@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/mono-complete/
 Checking out 341f7a5871e8416ee9ebc1527893ecbe7ae6a3c3
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mono-complete/
-  to /tmp/mono-completeJIQST5/mono-complete-20250821.509
+  to /tmp/mono-completelh0xZS/mono-complete-20250821.509
     mono-complete-backend-capf.el -> mono-complete-backend-capf.el
     mono-complete-backend-dabbrev.el -> mono-complete-backend-dabbrev.el
     mono-complete-backend-filesystem.el -> mono-complete-backend-filesystem.el
@@ -27,6 +27,6 @@ Created mono-complete-20250821.509.tar containing:
   mono-complete-20250821.509/mono-complete-pkg.el
   mono-complete-20250821.509/mono-complete.el
  ✓ Success:
-  2025-08-25T00:57:00+0000  mono-complete-20250821.509.entry
-  2025-08-25T00:57:00+0000  mono-complete-20250821.509.tar
-Built mono-complete in 3.382s, finished at 2025-08-25T00:57:01+0000
+  2025-09-01T00:07:44+0000  mono-complete-20250821.509.entry
+  2025-09-01T00:07:44+0000  mono-complete-20250821.509.tar
+Built mono-complete in 5.020s, finished at 2025-09-01T00:07:45+0000

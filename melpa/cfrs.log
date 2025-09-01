@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/cfrs/
 Checking out 981bddb3fb9fd9c58aed182e352975bd10ad74c8
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/cfrs/
-  to /tmp/cfrs1jPCxR/cfrs-20250729.1422
+  to /tmp/cfrseOnEXW/cfrs-20250729.1422
     cfrs.el -> cfrs.el
 Created cfrs-20250729.1422.tar containing:
   cfrs-20250729.1422/
   cfrs-20250729.1422/cfrs-pkg.el
   cfrs-20250729.1422/cfrs.el
  ✓ Success:
-  2025-08-25T00:20:35+0000  cfrs-20250729.1422.entry
-  2025-08-25T00:20:35+0000  cfrs-20250729.1422.tar
-Built cfrs in 4.449s, finished at 2025-08-25T00:20:36+0000
+  2025-09-01T02:02:23+0000  cfrs-20250729.1422.entry
+  2025-09-01T02:02:23+0000  cfrs-20250729.1422.tar
+Built cfrs in 2.687s, finished at 2025-09-01T02:02:24+0000

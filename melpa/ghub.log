@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/ghub/
 Checking out 8d6f6e5d949f0afdd56c61f6f88936b68e976786
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ghub/
-  to /tmp/ghubmJgxe5/ghub-20250823.2101
+  to /tmp/ghubAUzoxy/ghub-20250823.2101
   ! lisp/ghub-graphql.el -> ghub-graphql.el
   ! lisp/ghub-legacy.el -> ghub-legacy.el
   ! lisp/ghub.el -> ghub.el
@@ -25,6 +25,6 @@ Created ghub-20250823.2101.tar containing:
   ghub-20250823.2101/ghub.info
   ghub-20250823.2101/gsexp.el
  ✓ Success:
-  2025-08-25T00:40:16+0000  ghub-20250823.2101.entry
-  2025-08-25T00:40:16+0000  ghub-20250823.2101.tar
-Built ghub in 5.464s, finished at 2025-08-25T00:40:17+0000
+  2025-08-31T23:50:06+0000  ghub-20250823.2101.entry
+  2025-08-31T23:50:06+0000  ghub-20250823.2101.tar
+Built ghub in 5.438s, finished at 2025-08-31T23:50:07+0000

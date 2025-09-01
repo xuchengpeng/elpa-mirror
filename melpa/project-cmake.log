@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/lucius-martius/project-cmake
 
 Updating /mnt/store/melpa/working/project-cmake/
-Checking out 4a261cef5b7ca406577d3b0eaeabfae88419edeb
+Checking out 519ca5d7dd490a6b54435841c9fce3d5e3dcc140
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/project-cmake/
-  to /tmp/project-cmakeNXATng/project-cmake-20250824.2004
+  to /tmp/project-cmake9dDSfG/project-cmake-20250830.1304
     project-cmake.el -> project-cmake.el
-Created project-cmake-20250824.2004.tar containing:
-  project-cmake-20250824.2004/
-  project-cmake-20250824.2004/project-cmake-pkg.el
-  project-cmake-20250824.2004/project-cmake.el
+Created project-cmake-20250830.1304.tar containing:
+  project-cmake-20250830.1304/
+  project-cmake-20250830.1304/project-cmake-pkg.el
+  project-cmake-20250830.1304/project-cmake.el
  ✓ Success:
-  2025-08-25T01:09:36+0000  project-cmake-20250824.2004.entry
-  2025-08-25T01:09:36+0000  project-cmake-20250824.2004.tar
-Built project-cmake in 3.376s, finished at 2025-08-25T01:09:37+0000
+  2025-09-01T00:20:11+0000  project-cmake-20250830.1304.entry
+  2025-09-01T00:20:11+0000  project-cmake-20250830.1304.tar
+Built project-cmake in 2.952s, finished at 2025-09-01T00:20:12+0000

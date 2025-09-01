@@ -11,8 +11,10 @@ Installation:
  - Install the dependencies: mpv (required), yt-dlp, ffmpeg, danmaku2ass and tesseract
 
 Usage:
-  - Use `mpvi-open' to open a video or audio
-  - Use `mpvi-control' or `mpvi-seek' to operate the playing video
-  - Take interactive video notes with command `mpvi-insert'
+ - Use `mpvi-open' to open a video or audio
+ - Use `mpvi-control' or `mpvi-seek' to operate the playing video
+ - Take interactive video notes with command `mpvi-insert'
 
-You can also control MPV that is opened by `emms'.
+Miscellaneous:
+ - You can control MPV that is opened by `emms'
+ - You can open videos in webpage directly with MPV player through this

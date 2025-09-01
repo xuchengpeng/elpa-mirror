@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/caser/
 Checking out 6ed8fe13ff6a4c39a831cf51b031a9e9fdcba5ff
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/caser/
-  to /tmp/caserwa3zKA/caser-20241003.131
+  to /tmp/casern9TZrv/caser-20241003.131
     caser.el -> caser.el
 Created caser-20241003.131.tar containing:
   caser-20241003.131/
   caser-20241003.131/caser-pkg.el
   caser-20241003.131/caser.el
  ✓ Success:
-  2025-08-25T00:20:12+0000  caser-20241003.131.entry
-  2025-08-25T00:20:12+0000  caser-20241003.131.tar
-Built caser in 25.895s, finished at 2025-08-25T00:20:22+0000
+  2025-09-01T02:02:07+0000  caser-20241003.131.entry
+  2025-09-01T02:02:07+0000  caser-20241003.131.tar
+Built caser in 18.016s, finished at 2025-09-01T02:02:13+0000

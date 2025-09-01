@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/vim-tab-bar/
 Checking out 6fdb71cbb74449d9cc5492159691ee3d2eb42eab
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/vim-tab-bar/
-  to /tmp/vim-tab-barqmm2G2/vim-tab-bar-20250820.1631
+  to /tmp/vim-tab-barBlO67m/vim-tab-bar-20250820.1631
     vim-tab-bar.el -> vim-tab-bar.el
 Created vim-tab-bar-20250820.1631.tar containing:
   vim-tab-bar-20250820.1631/
   vim-tab-bar-20250820.1631/vim-tab-bar-pkg.el
   vim-tab-bar-20250820.1631/vim-tab-bar.el
  ✓ Success:
-  2025-08-25T01:24:11+0000  vim-tab-bar-20250820.1631.entry
-  2025-08-25T01:24:11+0000  vim-tab-bar-20250820.1631.tar
-Built vim-tab-bar in 2.791s, finished at 2025-08-25T01:24:11+0000
+  2025-09-01T00:35:40+0000  vim-tab-bar-20250820.1631.entry
+  2025-09-01T00:35:40+0000  vim-tab-bar-20250820.1631.tar
+Built vim-tab-bar in 3.158s, finished at 2025-09-01T00:35:41+0000
