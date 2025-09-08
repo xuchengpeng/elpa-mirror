@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/buffer-ring/
 Checking out 885c612c1629b7fcdeeb7e205d85743008ab1d2b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/buffer-ring/
-  to /tmp/buffer-ringyynpWt/buffer-ring-20250829.120
+  to /tmp/buffer-ringTjmzxy/buffer-ring-20250829.120
     buffer-ring.el -> buffer-ring.el
 Created buffer-ring-20250829.120.tar containing:
   buffer-ring-20250829.120/
   buffer-ring-20250829.120/buffer-ring-pkg.el
   buffer-ring-20250829.120/buffer-ring.el
  ✓ Success:
-  2025-09-01T02:01:10+0000  buffer-ring-20250829.120.entry
-  2025-09-01T02:01:10+0000  buffer-ring-20250829.120.tar
-Built buffer-ring in 3.029s, finished at 2025-09-01T02:01:11+0000
+  2025-09-08T01:15:45+0000  buffer-ring-20250829.120.entry
+  2025-09-08T01:15:45+0000  buffer-ring-20250829.120.tar
+Built buffer-ring in 3.006s, finished at 2025-09-08T01:15:46+0000

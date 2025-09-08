@@ -3,10 +3,10 @@ Fetcher: github
 Source:  https://github.com/unmonoqueteclea/jira.el
 
 Updating /mnt/store/melpa/working/jira/
-Checking out dd9bd4d992f7005ba2735dadeb84dda41f41359f
+Checking out 66e40f9e1ac9faf5e4190a53a13cffde7dc63867
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/jira/
-  to /tmp/jiraqPlBZc/jira-20250829.1516
+  to /tmp/jiraRFlLbL/jira-20250906.1544
     jira-actions.el -> jira-actions.el
     jira-api.el -> jira-api.el
     jira-complete.el -> jira-complete.el
@@ -19,22 +19,22 @@ Copying files (->) and directories (=>)
     jira-users.el -> jira-users.el
     jira-utils.el -> jira-utils.el
     jira.el -> jira.el
-Created jira-20250829.1516.tar containing:
-  jira-20250829.1516/
-  jira-20250829.1516/jira-actions.el
-  jira-20250829.1516/jira-api.el
-  jira-20250829.1516/jira-complete.el
-  jira-20250829.1516/jira-detail.el
-  jira-20250829.1516/jira-doc.el
-  jira-20250829.1516/jira-fmt.el
-  jira-20250829.1516/jira-issues.el
-  jira-20250829.1516/jira-pkg.el
-  jira-20250829.1516/jira-table.el
-  jira-20250829.1516/jira-tempo.el
-  jira-20250829.1516/jira-users.el
-  jira-20250829.1516/jira-utils.el
-  jira-20250829.1516/jira.el
+Created jira-20250906.1544.tar containing:
+  jira-20250906.1544/
+  jira-20250906.1544/jira-actions.el
+  jira-20250906.1544/jira-api.el
+  jira-20250906.1544/jira-complete.el
+  jira-20250906.1544/jira-detail.el
+  jira-20250906.1544/jira-doc.el
+  jira-20250906.1544/jira-fmt.el
+  jira-20250906.1544/jira-issues.el
+  jira-20250906.1544/jira-pkg.el
+  jira-20250906.1544/jira-table.el
+  jira-20250906.1544/jira-tempo.el
+  jira-20250906.1544/jira-users.el
+  jira-20250906.1544/jira-utils.el
+  jira-20250906.1544/jira.el
  ✓ Success:
-  2025-08-31T23:59:42+0000  jira-20250829.1516.entry
-  2025-08-31T23:59:42+0000  jira-20250829.1516.tar
-Built jira in 5.325s, finished at 2025-08-31T23:59:43+0000
+  2025-09-08T01:45:30+0000  jira-20250906.1544.entry
+  2025-09-08T01:45:30+0000  jira-20250906.1544.tar
+Built jira in 3.385s, finished at 2025-09-08T01:45:31+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/dicom/
 Checking out b10bd042bdac60314866df6be0f96031ebe0a79d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/dicom/
-  to /tmp/dicomUfBpkU/dicom-20250827.1159
+  to /tmp/dicomvwHUjz/dicom-20250827.1159
     dicom.el -> dicom.el
 Created dicom-20250827.1159.tar containing:
   dicom-20250827.1159/
   dicom-20250827.1159/dicom-pkg.el
   dicom-20250827.1159/dicom.el
  ✓ Success:
-  2025-08-31T23:36:28+0000  dicom-20250827.1159.entry
-  2025-08-31T23:36:27+0000  dicom-20250827.1159.tar
-Built dicom in 3.132s, finished at 2025-08-31T23:36:28+0000
+  2025-09-08T01:23:06+0000  dicom-20250827.1159.entry
+  2025-09-08T01:23:06+0000  dicom-20250827.1159.tar
+Built dicom in 3.040s, finished at 2025-09-08T01:23:07+0000

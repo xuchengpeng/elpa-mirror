@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/yoficator/
 Checking out fa914f9648515bca54b5e558ca57d2b65fa57491
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/yoficator/
-  to /tmp/yoficatordOmZXE/yoficator-20190509.1620
+  to /tmp/yoficatorFJmYIA/yoficator-20190509.1620
     yoficator.el -> yoficator.el
     yo.txt -> yo.txt
 Created yoficator-20190509.1620.tar containing:
@@ -15,6 +15,6 @@ Created yoficator-20190509.1620.tar containing:
   yoficator-20190509.1620/yoficator-pkg.el
   yoficator-20190509.1620/yoficator.el
  ✓ Success:
-  2025-09-01T00:38:38+0000  yoficator-20190509.1620.entry
-  2025-09-01T00:38:38+0000  yoficator-20190509.1620.tar
-Built yoficator in 3.916s, finished at 2025-09-01T00:38:39+0000
+  2025-09-08T00:04:56+0000  yoficator-20190509.1620.entry
+  2025-09-08T00:04:56+0000  yoficator-20190509.1620.tar
+Built yoficator in 3.722s, finished at 2025-09-08T00:04:56+0000

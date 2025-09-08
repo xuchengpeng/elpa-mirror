@@ -3,10 +3,10 @@ Fetcher: github
 Source:  https://github.com/editorconfig/editorconfig-emacs
 
 Updating /mnt/store/melpa/working/editorconfig/
-Checking out 0c2d853aff146fa3dad4fa6a0a2c05a4b6bc47e6
+Checking out 4af10445fcdf1c9dfa7af4f9e5bec59e8a759d6f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/editorconfig/
-  to /tmp/editorconfigcHvOZ1/editorconfig-20250809.139
+  to /tmp/editorconfig1HZULU/editorconfig-20250905.724
     editorconfig-conf-mode.el -> editorconfig-conf-mode.el
     editorconfig-core-handle.el -> editorconfig-core-handle.el
     editorconfig-core.el -> editorconfig-core.el
@@ -15,18 +15,18 @@ Copying files (->) and directories (=>)
     editorconfig.el -> editorconfig.el
   ! doc/editorconfig.texi -> editorconfig.texi
 Generating editorconfig.info
-Created editorconfig-20250809.139.tar containing:
-  editorconfig-20250809.139/
-  editorconfig-20250809.139/dir
-  editorconfig-20250809.139/editorconfig-conf-mode.el
-  editorconfig-20250809.139/editorconfig-core-handle.el
-  editorconfig-20250809.139/editorconfig-core.el
-  editorconfig-20250809.139/editorconfig-fnmatch.el
-  editorconfig-20250809.139/editorconfig-pkg.el
-  editorconfig-20250809.139/editorconfig-tools.el
-  editorconfig-20250809.139/editorconfig.el
-  editorconfig-20250809.139/editorconfig.info
+Created editorconfig-20250905.724.tar containing:
+  editorconfig-20250905.724/
+  editorconfig-20250905.724/dir
+  editorconfig-20250905.724/editorconfig-conf-mode.el
+  editorconfig-20250905.724/editorconfig-core-handle.el
+  editorconfig-20250905.724/editorconfig-core.el
+  editorconfig-20250905.724/editorconfig-fnmatch.el
+  editorconfig-20250905.724/editorconfig-pkg.el
+  editorconfig-20250905.724/editorconfig-tools.el
+  editorconfig-20250905.724/editorconfig.el
+  editorconfig-20250905.724/editorconfig.info
  ✓ Success:
-  2025-08-31T23:39:37+0000  editorconfig-20250809.139.entry
-  2025-08-31T23:39:37+0000  editorconfig-20250809.139.tar
-Built editorconfig in 4.457s, finished at 2025-08-31T23:39:37+0000
+  2025-09-08T01:26:01+0000  editorconfig-20250905.724.entry
+  2025-09-08T01:26:01+0000  editorconfig-20250905.724.tar
+Built editorconfig in 7.082s, finished at 2025-09-08T01:26:03+0000

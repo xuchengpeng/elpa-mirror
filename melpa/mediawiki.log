@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/mediawiki/
 Checking out 2f116ce0931f7966fefe75a1fca5552d6552ddb1
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mediawiki/
-  to /tmp/mediawikiGW27Rc/mediawiki-20250805.316
+  to /tmp/mediawikiUmP7UJ/mediawiki-20250805.316
     mediawiki-api.el -> mediawiki-api.el
     mediawiki-auth.el -> mediawiki-auth.el
     mediawiki-core.el -> mediawiki-core.el
@@ -35,6 +35,6 @@ Created mediawiki-20250805.316.tar containing:
   mediawiki-20250805.316/mediawiki-utils.el
   mediawiki-20250805.316/mediawiki.el
  ✓ Success:
-  2025-09-01T00:06:20+0000  mediawiki-20250805.316.entry
-  2025-09-01T00:06:19+0000  mediawiki-20250805.316.tar
-Built mediawiki in 2.719s, finished at 2025-09-01T00:06:20+0000
+  2025-09-08T01:51:26+0000  mediawiki-20250805.316.entry
+  2025-09-08T01:51:26+0000  mediawiki-20250805.316.tar
+Built mediawiki in 2.641s, finished at 2025-09-08T01:51:26+0000

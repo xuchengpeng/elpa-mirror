@@ -99,7 +99,7 @@
 2 Installation
 ══════════════
 
-  The package is available [on MELPA]!
+  The package is available on [NonGNU ELPA] and [MELPA]!
 
   Furthermore, it ships with [Spacemacs] and [Doom Emacs].
 
@@ -110,7 +110,9 @@
   └────
 
 
-[on MELPA] <https://melpa.org/#/org-superstar>
+[NonGNU ELPA] <https://elpa.nongnu.org/nongnu/org-superstar.html>
+
+[MELPA] <https://melpa.org/#/org-superstar>
 
 [Spacemacs] <https://github.com/syl20bnr/spacemacs>
 

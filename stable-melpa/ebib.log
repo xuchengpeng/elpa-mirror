@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/ebib/
 Checking out 248e9274804a656a13abc50214963586113a2158
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ebib/
-  to /tmp/ebibfNWjTv/ebib-20250805.1747
+  to /tmp/ebibhiWXem/ebib-20250805.1747
     ebib-biblio.el -> ebib-biblio.el
     ebib-db.el -> ebib-db.el
     ebib-filters.el -> ebib-filters.el
@@ -34,6 +34,6 @@ Created ebib-20250805.1747.tar containing:
   ebib-20250805.1747/ebib.info
   ebib-20250805.1747/org-ebib.el
  ✓ Success:
-  2025-08-31T23:39:17+0000  ebib-20250805.1747.entry
-  2025-08-31T23:39:17+0000  ebib-20250805.1747.tar
-Built ebib in 3.835s, finished at 2025-08-31T23:39:18+0000
+  2025-09-08T01:25:35+0000  ebib-20250805.1747.entry
+  2025-09-08T01:25:35+0000  ebib-20250805.1747.tar
+Built ebib in 3.501s, finished at 2025-09-08T01:25:35+0000

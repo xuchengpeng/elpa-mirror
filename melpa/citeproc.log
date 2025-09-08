@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/citeproc/
 Checking out f5217b9fdbcb41a0381ecf92108390fc843090dd
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/citeproc/
-  to /tmp/citeprocy0pnx4/citeproc-20250819.1700
+  to /tmp/citeproc0VG1QO/citeproc-20250819.1700
     citeproc-biblatex.el -> citeproc-biblatex.el
     citeproc-bibtex.el -> citeproc-bibtex.el
     citeproc-choose.el -> citeproc-choose.el
@@ -63,6 +63,6 @@ Created citeproc-20250819.1700.tar containing:
   citeproc-20250819.1700/citeproc-test-human.el
   citeproc-20250819.1700/citeproc.el
  ✓ Success:
-  2025-09-01T02:03:07+0000  citeproc-20250819.1700.entry
-  2025-09-01T02:03:07+0000  citeproc-20250819.1700.tar
-Built citeproc in 3.918s, finished at 2025-09-01T02:03:08+0000
+  2025-09-08T01:17:38+0000  citeproc-20250819.1700.entry
+  2025-09-08T01:17:38+0000  citeproc-20250819.1700.tar
+Built citeproc in 3.680s, finished at 2025-09-08T01:17:39+0000

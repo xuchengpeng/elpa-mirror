@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/org-mem/
 Checking out a99cd068737caf5d9d6c1ea7444f8a6b3c2e57a7
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/org-mem/
-  to /tmp/org-memIx96MV/org-mem-20250715.1048
+  to /tmp/org-memSoGYti/org-mem-20250715.1048
     org-mem-db1.el -> org-mem-db1.el
     org-mem-list.el -> org-mem-list.el
     org-mem-parser.el -> org-mem-parser.el
@@ -37,6 +37,6 @@ Created org-mem-20250715.1048.tar containing:
   org-mem-20250715.1048/org-mem-x.el
   org-mem-20250715.1048/org-mem.el
  ✓ Success:
-  2025-09-01T00:13:44+0000  org-mem-20250715.1048.entry
-  2025-09-01T00:13:44+0000  org-mem-20250715.1048.tar
-Built org-mem in 2.294s, finished at 2025-09-01T00:13:45+0000
+  2025-09-08T01:58:29+0000  org-mem-20250715.1048.entry
+  2025-09-08T01:58:29+0000  org-mem-20250715.1048.tar
+Built org-mem in 1.532s, finished at 2025-09-08T01:58:30+0000

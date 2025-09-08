@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/leanote/
 Checking out d499e7b59bb1f1a2fabc0e4c26fb101ed62ebc7b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/leanote/
-  to /tmp/leanoteSAWkhC/leanote-20161223.139
+  to /tmp/leanote2EfHBv/leanote-20161223.139
     leanote.el -> leanote.el
 Created leanote-20161223.139.tar containing:
   leanote-20161223.139/
   leanote-20161223.139/leanote-pkg.el
   leanote-20161223.139/leanote.el
  ✓ Success:
-  2025-09-01T00:02:39+0000  leanote-20161223.139.entry
-  2025-09-01T00:02:39+0000  leanote-20161223.139.tar
-Built leanote in 3.054s, finished at 2025-09-01T00:02:40+0000
+  2025-09-08T01:47:58+0000  leanote-20161223.139.entry
+  2025-09-08T01:47:58+0000  leanote-20161223.139.tar
+Built leanote in 2.937s, finished at 2025-09-08T01:47:59+0000

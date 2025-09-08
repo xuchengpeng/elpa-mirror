@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/vhdl-ext/
 Checking out 99a4a17940872e3e122375eff20caf1ee8ef8655
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/vhdl-ext/
-  to /tmp/vhdl-extRoQLlM/vhdl-ext-20250821.1757
+  to /tmp/vhdl-extN2wPY3/vhdl-ext-20250821.1757
     vhdl-ext-beautify.el -> vhdl-ext-beautify.el
     vhdl-ext-capf.el -> vhdl-ext-capf.el
     vhdl-ext-compile.el -> vhdl-ext-compile.el
@@ -62,6 +62,6 @@ Created vhdl-ext-20250821.1757.tar containing:
   vhdl-ext-20250821.1757/vhdl-ext-xref.el
   vhdl-ext-20250821.1757/vhdl-ext.el
  ✓ Success:
-  2025-09-01T00:35:34+0000  vhdl-ext-20250821.1757.entry
-  2025-09-01T00:35:34+0000  vhdl-ext-20250821.1757.tar
-Built vhdl-ext in 3.327s, finished at 2025-09-01T00:35:35+0000
+  2025-09-08T00:01:47+0000  vhdl-ext-20250821.1757.entry
+  2025-09-08T00:01:46+0000  vhdl-ext-20250821.1757.tar
+Built vhdl-ext in 3.342s, finished at 2025-09-08T00:01:48+0000

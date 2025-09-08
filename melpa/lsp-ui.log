@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/lsp-ui/
 Checking out dcce464bc5d171daebf19009fdfbbc959bf2e7cf
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/lsp-ui/
-  to /tmp/lsp-uishWHeM/lsp-ui-20250804.2109
+  to /tmp/lsp-uiAgkBLQ/lsp-ui-20250804.2109
     lsp-ui-doc.el -> lsp-ui-doc.el
     lsp-ui-flycheck.el -> lsp-ui-flycheck.el
     lsp-ui-imenu.el -> lsp-ui-imenu.el
@@ -30,6 +30,6 @@ Created lsp-ui-20250804.2109.tar containing:
   lsp-ui-20250804.2109/resources/
   lsp-ui-20250804.2109/resources/lightbulb.png
  ✓ Success:
-  2025-09-01T00:04:28+0000  lsp-ui-20250804.2109.entry
-  2025-09-01T00:04:28+0000  lsp-ui-20250804.2109.tar
-Built lsp-ui in 3.934s, finished at 2025-09-01T00:04:29+0000
+  2025-09-08T01:49:57+0000  lsp-ui-20250804.2109.entry
+  2025-09-08T01:49:57+0000  lsp-ui-20250804.2109.tar
+Built lsp-ui in 4.026s, finished at 2025-09-08T01:49:58+0000

@@ -3,18 +3,18 @@ Fetcher: github
 Source:  https://github.com/tarsius/llama
 
 Updating /mnt/store/melpa/working/llama/
-Checking out bf586c02ddf5cf2eb0bab468b99436018887bbec
+Checking out ec1d4ef02f5572fc5aff3f62d3e7ef791f444456
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/llama/
-  to /tmp/llamageeGBI/llama-20250808.1023
+  to /tmp/llamat4lu6V/llama-20250901.1544
     llama.el -> llama.el
     .dir-locals.el -> .dir-locals.el
-Created llama-20250808.1023.tar containing:
-  llama-20250808.1023/
-  llama-20250808.1023/.dir-locals.el
-  llama-20250808.1023/llama-pkg.el
-  llama-20250808.1023/llama.el
+Created llama-20250901.1544.tar containing:
+  llama-20250901.1544/
+  llama-20250901.1544/.dir-locals.el
+  llama-20250901.1544/llama-pkg.el
+  llama-20250901.1544/llama.el
  ✓ Success:
-  2025-09-01T00:03:38+0000  llama-20250808.1023.entry
-  2025-09-01T00:03:38+0000  llama-20250808.1023.tar
-Built llama in 2.823s, finished at 2025-09-01T00:03:39+0000
+  2025-09-08T01:49:09+0000  llama-20250901.1544.entry
+  2025-09-08T01:49:09+0000  llama-20250901.1544.tar
+Built llama in 2.729s, finished at 2025-09-08T01:49:10+0000

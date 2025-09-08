@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/emacsorphanage/restclient
 
 Updating /mnt/store/melpa/working/restclient/
-Checking out ad97f666b607b1947aae4bcfb5b91fb3b0d97b87
+Checking out bc51d303bbb1c90cfa3e8a80f431aadd845ec604
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/restclient/
-  to /tmp/restclientTKHyQW/restclient-20250817.0
+  to /tmp/restclientMFmU2E/restclient-20250905.2140
     restclient.el -> restclient.el
-Created restclient-20250817.0.tar containing:
-  restclient-20250817.0/
-  restclient-20250817.0/restclient-pkg.el
-  restclient-20250817.0/restclient.el
+Created restclient-20250905.2140.tar containing:
+  restclient-20250905.2140/
+  restclient-20250905.2140/restclient-pkg.el
+  restclient-20250905.2140/restclient.el
  ✓ Success:
-  2025-09-01T00:23:52+0000  restclient-20250817.0.entry
-  2025-09-01T00:23:52+0000  restclient-20250817.0.tar
-Built restclient in 2.665s, finished at 2025-09-01T00:23:52+0000
+  2025-09-07T23:50:37+0000  restclient-20250905.2140.entry
+  2025-09-07T23:50:37+0000  restclient-20250905.2140.tar
+Built restclient in 2.421s, finished at 2025-09-07T23:50:38+0000

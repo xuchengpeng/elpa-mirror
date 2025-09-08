@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/unison-mode/
 Checking out 0bd6a65c0d12f87fcf7bdff15fe54444959b93bf
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/unison-mode/
-  to /tmp/unison-modebxHbnv/unison-mode-20160513.1501
+  to /tmp/unison-mode3VECb8/unison-mode-20160513.1501
     unison-mode.el -> unison-mode.el
 Created unison-mode-20160513.1501.tar containing:
   unison-mode-20160513.1501/
   unison-mode-20160513.1501/unison-mode-pkg.el
   unison-mode-20160513.1501/unison-mode.el
  ✓ Success:
-  2025-09-01T00:34:40+0000  unison-mode-20160513.1501.entry
-  2025-09-01T00:34:40+0000  unison-mode-20160513.1501.tar
-Built unison-mode in 2.876s, finished at 2025-09-01T00:34:41+0000
+  2025-09-08T00:00:48+0000  unison-mode-20160513.1501.entry
+  2025-09-08T00:00:48+0000  unison-mode-20160513.1501.tar
+Built unison-mode in 4.135s, finished at 2025-09-08T00:00:49+0000

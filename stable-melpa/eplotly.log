@@ -1,0 +1,18 @@
+Package: eplotly
+Fetcher: codeberg
+Source:  https://codeberg.org/GioBo/eplotly
+
+Updating /mnt/store/melpa/working/eplotly/
+Checking out a348505df49a1fc115df7605dbe5bde0d5386299
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/eplotly/
+  to /tmp/eplotly7eBz0F/eplotly-20250829.701
+    eplotly.el -> eplotly.el
+Created eplotly-20250829.701.tar containing:
+  eplotly-20250829.701/
+  eplotly-20250829.701/eplotly-pkg.el
+  eplotly-20250829.701/eplotly.el
+ ✓ Success:
+  2025-09-08T01:28:30+0000  eplotly-20250829.701.entry
+  2025-09-08T01:28:30+0000  eplotly-20250829.701.tar
+Built eplotly in 4.909s, finished at 2025-09-08T01:28:30+0000

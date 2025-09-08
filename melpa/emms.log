@@ -3,10 +3,10 @@ Fetcher: git
 Source:  https://git.savannah.gnu.org/git/emms.git
 
 Updating /mnt/store/melpa/working/emms/
-Checking out e3824b81b11ac71b9bb0993a3a3d3647b923a377
+Checking out 43b3204d22b0a80aeb278c70b36aea81cb77a880
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/emms/
-  to /tmp/emmsjUnRTr/emms-20250731.1547
+  to /tmp/emmstirla1/emms-20250904.2119
     emms-bookmarks.el -> emms-bookmarks.el
     emms-browser.el -> emms-browser.el
     emms-cache.el -> emms-cache.el
@@ -79,82 +79,82 @@ Copying files (->) and directories (=>)
     emms.el -> emms.el
   ! doc/emms.texinfo -> emms.texinfo
 Generating emms.info
-Created emms-20250731.1547.tar containing:
-  emms-20250731.1547/
-  emms-20250731.1547/dir
-  emms-20250731.1547/emms-bookmarks.el
-  emms-20250731.1547/emms-browser.el
-  emms-20250731.1547/emms-cache.el
-  emms-20250731.1547/emms-compat.el
-  emms-20250731.1547/emms-cue.el
-  emms-20250731.1547/emms-filters.el
-  emms-20250731.1547/emms-history.el
-  emms-20250731.1547/emms-i18n.el
-  emms-20250731.1547/emms-idapi-browser.el
-  emms-20250731.1547/emms-idapi-musicbrainz.el
-  emms-20250731.1547/emms-idapi.el
-  emms-20250731.1547/emms-info-exiftool.el
-  emms-20250731.1547/emms-info-libtag.el
-  emms-20250731.1547/emms-info-metaflac.el
-  emms-20250731.1547/emms-info-mp3info.el
-  emms-20250731.1547/emms-info-native-flac.el
-  emms-20250731.1547/emms-info-native-mp3.el
-  emms-20250731.1547/emms-info-native-ogg.el
-  emms-20250731.1547/emms-info-native-opus.el
-  emms-20250731.1547/emms-info-native-spc.el
-  emms-20250731.1547/emms-info-native-vorbis.el
-  emms-20250731.1547/emms-info-native.el
-  emms-20250731.1547/emms-info-ogginfo.el
-  emms-20250731.1547/emms-info-opusinfo.el
-  emms-20250731.1547/emms-info-tinytag.el
-  emms-20250731.1547/emms-info.el
-  emms-20250731.1547/emms-jack.el
-  emms-20250731.1547/emms-last-played.el
-  emms-20250731.1547/emms-later-do.el
-  emms-20250731.1547/emms-librefm-scrobbler.el
-  emms-20250731.1547/emms-librefm-stream.el
-  emms-20250731.1547/emms-listenbrainz-scrobbler.el
-  emms-20250731.1547/emms-lyrics-lrclib.el
-  emms-20250731.1547/emms-lyrics.el
-  emms-20250731.1547/emms-maint.el
-  emms-20250731.1547/emms-mark.el
-  emms-20250731.1547/emms-metaplaylist-mode.el
-  emms-20250731.1547/emms-mode-line-icon.el
-  emms-20250731.1547/emms-mode-line.el
-  emms-20250731.1547/emms-mpris.el
-  emms-20250731.1547/emms-pkg.el
-  emms-20250731.1547/emms-player-mpd.el
-  emms-20250731.1547/emms-player-mpg321-remote.el
-  emms-20250731.1547/emms-player-mplayer.el
-  emms-20250731.1547/emms-player-mpv.el
-  emms-20250731.1547/emms-player-simple.el
-  emms-20250731.1547/emms-player-vlc.el
-  emms-20250731.1547/emms-player-xine.el
-  emms-20250731.1547/emms-playing-time.el
-  emms-20250731.1547/emms-playlist-limit.el
-  emms-20250731.1547/emms-playlist-mode.el
-  emms-20250731.1547/emms-playlist-sort.el
-  emms-20250731.1547/emms-radio-browser.el
-  emms-20250731.1547/emms-score.el
-  emms-20250731.1547/emms-setup.el
-  emms-20250731.1547/emms-show-all.el
-  emms-20250731.1547/emms-source-beets.el
-  emms-20250731.1547/emms-source-file.el
-  emms-20250731.1547/emms-source-playlist.el
-  emms-20250731.1547/emms-stream-info.el
-  emms-20250731.1547/emms-streams.el
-  emms-20250731.1547/emms-tag-editor.el
-  emms-20250731.1547/emms-tag-tracktag.el
-  emms-20250731.1547/emms-url.el
-  emms-20250731.1547/emms-volume-amixer.el
-  emms-20250731.1547/emms-volume-mixerctl.el
-  emms-20250731.1547/emms-volume-mpv.el
-  emms-20250731.1547/emms-volume-pulse.el
-  emms-20250731.1547/emms-volume-sndioctl.el
-  emms-20250731.1547/emms-volume.el
-  emms-20250731.1547/emms.el
-  emms-20250731.1547/emms.info
+Created emms-20250904.2119.tar containing:
+  emms-20250904.2119/
+  emms-20250904.2119/dir
+  emms-20250904.2119/emms-bookmarks.el
+  emms-20250904.2119/emms-browser.el
+  emms-20250904.2119/emms-cache.el
+  emms-20250904.2119/emms-compat.el
+  emms-20250904.2119/emms-cue.el
+  emms-20250904.2119/emms-filters.el
+  emms-20250904.2119/emms-history.el
+  emms-20250904.2119/emms-i18n.el
+  emms-20250904.2119/emms-idapi-browser.el
+  emms-20250904.2119/emms-idapi-musicbrainz.el
+  emms-20250904.2119/emms-idapi.el
+  emms-20250904.2119/emms-info-exiftool.el
+  emms-20250904.2119/emms-info-libtag.el
+  emms-20250904.2119/emms-info-metaflac.el
+  emms-20250904.2119/emms-info-mp3info.el
+  emms-20250904.2119/emms-info-native-flac.el
+  emms-20250904.2119/emms-info-native-mp3.el
+  emms-20250904.2119/emms-info-native-ogg.el
+  emms-20250904.2119/emms-info-native-opus.el
+  emms-20250904.2119/emms-info-native-spc.el
+  emms-20250904.2119/emms-info-native-vorbis.el
+  emms-20250904.2119/emms-info-native.el
+  emms-20250904.2119/emms-info-ogginfo.el
+  emms-20250904.2119/emms-info-opusinfo.el
+  emms-20250904.2119/emms-info-tinytag.el
+  emms-20250904.2119/emms-info.el
+  emms-20250904.2119/emms-jack.el
+  emms-20250904.2119/emms-last-played.el
+  emms-20250904.2119/emms-later-do.el
+  emms-20250904.2119/emms-librefm-scrobbler.el
+  emms-20250904.2119/emms-librefm-stream.el
+  emms-20250904.2119/emms-listenbrainz-scrobbler.el
+  emms-20250904.2119/emms-lyrics-lrclib.el
+  emms-20250904.2119/emms-lyrics.el
+  emms-20250904.2119/emms-maint.el
+  emms-20250904.2119/emms-mark.el
+  emms-20250904.2119/emms-metaplaylist-mode.el
+  emms-20250904.2119/emms-mode-line-icon.el
+  emms-20250904.2119/emms-mode-line.el
+  emms-20250904.2119/emms-mpris.el
+  emms-20250904.2119/emms-pkg.el
+  emms-20250904.2119/emms-player-mpd.el
+  emms-20250904.2119/emms-player-mpg321-remote.el
+  emms-20250904.2119/emms-player-mplayer.el
+  emms-20250904.2119/emms-player-mpv.el
+  emms-20250904.2119/emms-player-simple.el
+  emms-20250904.2119/emms-player-vlc.el
+  emms-20250904.2119/emms-player-xine.el
+  emms-20250904.2119/emms-playing-time.el
+  emms-20250904.2119/emms-playlist-limit.el
+  emms-20250904.2119/emms-playlist-mode.el
+  emms-20250904.2119/emms-playlist-sort.el
+  emms-20250904.2119/emms-radio-browser.el
+  emms-20250904.2119/emms-score.el
+  emms-20250904.2119/emms-setup.el
+  emms-20250904.2119/emms-show-all.el
+  emms-20250904.2119/emms-source-beets.el
+  emms-20250904.2119/emms-source-file.el
+  emms-20250904.2119/emms-source-playlist.el
+  emms-20250904.2119/emms-stream-info.el
+  emms-20250904.2119/emms-streams.el
+  emms-20250904.2119/emms-tag-editor.el
+  emms-20250904.2119/emms-tag-tracktag.el
+  emms-20250904.2119/emms-url.el
+  emms-20250904.2119/emms-volume-amixer.el
+  emms-20250904.2119/emms-volume-mixerctl.el
+  emms-20250904.2119/emms-volume-mpv.el
+  emms-20250904.2119/emms-volume-pulse.el
+  emms-20250904.2119/emms-volume-sndioctl.el
+  emms-20250904.2119/emms-volume.el
+  emms-20250904.2119/emms.el
+  emms-20250904.2119/emms.info
  ✓ Success:
-  2025-08-31T23:41:35+0000  emms-20250731.1547.entry
-  2025-08-31T23:41:35+0000  emms-20250731.1547.tar
-Built emms in 6.513s, finished at 2025-08-31T23:41:36+0000
+  2025-09-08T01:28:23+0000  emms-20250904.2119.entry
+  2025-09-08T01:28:22+0000  emms-20250904.2119.tar
+Built emms in 28.055s, finished at 2025-09-08T01:28:23+0000

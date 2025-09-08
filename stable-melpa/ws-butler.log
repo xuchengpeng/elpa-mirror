@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/ws-butler/
 Checking out 9ee5a7657a22e836618813c2e2b64a548d27d2ff
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ws-butler/
-  to /tmp/ws-butlerWznAPG/ws-butler-20250310.205
+  to /tmp/ws-butler9Z8EVt/ws-butler-20250310.205
     ws-butler.el -> ws-butler.el
 Created ws-butler-20250310.205.tar containing:
   ws-butler-20250310.205/
   ws-butler-20250310.205/ws-butler-pkg.el
   ws-butler-20250310.205/ws-butler.el
  ✓ Success:
-  2025-09-01T00:37:43+0000  ws-butler-20250310.205.entry
-  2025-09-01T00:37:43+0000  ws-butler-20250310.205.tar
-Built ws-butler in 4.826s, finished at 2025-09-01T00:37:44+0000
+  2025-09-08T00:04:28+0000  ws-butler-20250310.205.entry
+  2025-09-08T00:04:28+0000  ws-butler-20250310.205.tar
+Built ws-butler in 42.964s, finished at 2025-09-08T00:04:28+0000

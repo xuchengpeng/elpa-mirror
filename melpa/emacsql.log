@@ -3,10 +3,10 @@ Fetcher: github
 Source:  https://github.com/magit/emacsql
 
 Updating /mnt/store/melpa/working/emacsql/
-Checking out 9c37ae13c881b18de1ae6d8a5828c62b96c472c6
+Checking out 3e015ab99e061f3967a154683f068ce6553f168a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/emacsql/
-  to /tmp/emacsqlYvtQOn/emacsql-20250829.1449
+  to /tmp/emacsqlJVmPNq/emacsql-20250901.1544
     emacsql-compiler.el -> emacsql-compiler.el
     emacsql-mysql.el -> emacsql-mysql.el
     emacsql-pg.el -> emacsql-pg.el
@@ -16,19 +16,19 @@ Copying files (->) and directories (=>)
     emacsql-sqlite.el -> emacsql-sqlite.el
     emacsql.el -> emacsql.el
     README.md -> README.md
-Created emacsql-20250829.1449.tar containing:
-  emacsql-20250829.1449/
-  emacsql-20250829.1449/README.md
-  emacsql-20250829.1449/emacsql-compiler.el
-  emacsql-20250829.1449/emacsql-mysql.el
-  emacsql-20250829.1449/emacsql-pg.el
-  emacsql-20250829.1449/emacsql-pkg.el
-  emacsql-20250829.1449/emacsql-psql.el
-  emacsql-20250829.1449/emacsql-sqlite-builtin.el
-  emacsql-20250829.1449/emacsql-sqlite-module.el
-  emacsql-20250829.1449/emacsql-sqlite.el
-  emacsql-20250829.1449/emacsql.el
+Created emacsql-20250901.1544.tar containing:
+  emacsql-20250901.1544/
+  emacsql-20250901.1544/README.md
+  emacsql-20250901.1544/emacsql-compiler.el
+  emacsql-20250901.1544/emacsql-mysql.el
+  emacsql-20250901.1544/emacsql-pg.el
+  emacsql-20250901.1544/emacsql-pkg.el
+  emacsql-20250901.1544/emacsql-psql.el
+  emacsql-20250901.1544/emacsql-sqlite-builtin.el
+  emacsql-20250901.1544/emacsql-sqlite-module.el
+  emacsql-20250901.1544/emacsql-sqlite.el
+  emacsql-20250901.1544/emacsql.el
  ✓ Success:
-  2025-08-31T23:41:21+0000  emacsql-20250829.1449.entry
-  2025-08-31T23:41:21+0000  emacsql-20250829.1449.tar
-Built emacsql in 2.455s, finished at 2025-08-31T23:41:21+0000
+  2025-09-08T01:27:46+0000  emacsql-20250901.1544.entry
+  2025-09-08T01:27:46+0000  emacsql-20250901.1544.tar
+Built emacsql in 2.517s, finished at 2025-09-08T01:27:47+0000

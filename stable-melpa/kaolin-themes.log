@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/kaolin-themes/
 Checking out 30f3d82cf8bb74c5b347a56626b01a8c49395ac4
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/kaolin-themes/
-  to /tmp/kaolin-themesjJDn5w/kaolin-themes-20250831.2227
+  to /tmp/kaolin-themesaP25ur/kaolin-themes-20250831.2227
     kaolin-themes-lib.el -> kaolin-themes-lib.el
     kaolin-themes-treemacs.el -> kaolin-themes-treemacs.el
     kaolin-themes.el -> kaolin-themes.el
@@ -47,8 +47,6 @@ Created kaolin-themes-20250831.2227.tar containing:
   kaolin-themes-20250831.2227/kaolin-valley-dark-theme.el
   kaolin-themes-20250831.2227/kaolin-valley-light-theme.el
  ✓ Success:
-  2025-08-31T21:38:47+0000  kaolin-themes-20250820.1822.entry
-  2025-08-31T21:38:47+0000  kaolin-themes-20250820.1822.tar
-  2025-09-01T00:01:08+0000  kaolin-themes-20250831.2227.entry
-  2025-09-01T00:01:08+0000  kaolin-themes-20250831.2227.tar
-Built kaolin-themes in 4.098s, finished at 2025-09-01T00:01:09+0000
+  2025-09-08T01:46:30+0000  kaolin-themes-20250831.2227.entry
+  2025-09-08T01:46:30+0000  kaolin-themes-20250831.2227.tar
+Built kaolin-themes in 3.579s, finished at 2025-09-08T01:46:31+0000

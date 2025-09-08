@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/flycheck-drstring/
 Checking out d8d5a560e792a6657ef5ac69934c74f1ed51372d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/flycheck-drstring/
-  to /tmp/flycheck-drstringCW5ckj/flycheck-drstring-20200210.1903
+  to /tmp/flycheck-drstring87jDMf/flycheck-drstring-20200210.1903
     flycheck-drstring.el -> flycheck-drstring.el
 Created flycheck-drstring-20200210.1903.tar containing:
   flycheck-drstring-20200210.1903/
   flycheck-drstring-20200210.1903/flycheck-drstring-pkg.el
   flycheck-drstring-20200210.1903/flycheck-drstring.el
  ✓ Success:
-  2025-08-31T23:46:33+0000  flycheck-drstring-20200210.1903.entry
-  2025-08-31T23:46:33+0000  flycheck-drstring-20200210.1903.tar
-Built flycheck-drstring in 2.504s, finished at 2025-08-31T23:46:34+0000
+  2025-09-08T01:32:53+0000  flycheck-drstring-20200210.1903.entry
+  2025-09-08T01:32:53+0000  flycheck-drstring-20200210.1903.tar
+Built flycheck-drstring in 2.572s, finished at 2025-09-08T01:32:54+0000

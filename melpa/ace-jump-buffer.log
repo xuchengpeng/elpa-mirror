@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/ace-jump-buffer/
 Checking out ae5be0415c823f7bb66833aa4af2180d4cf99cef
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ace-jump-buffer/
-  to /tmp/ace-jump-bufferQNtvr3/ace-jump-buffer-20171031.1550
+  to /tmp/ace-jump-bufferea728s/ace-jump-buffer-20171031.1550
     ace-jump-buffer.el -> ace-jump-buffer.el
 Created ace-jump-buffer-20171031.1550.tar containing:
   ace-jump-buffer-20171031.1550/
   ace-jump-buffer-20171031.1550/ace-jump-buffer-pkg.el
   ace-jump-buffer-20171031.1550/ace-jump-buffer.el
  ✓ Success:
-  2025-09-01T01:56:19+0000  ace-jump-buffer-20171031.1550.entry
-  2025-09-01T01:56:19+0000  ace-jump-buffer-20171031.1550.tar
-Built ace-jump-buffer in 2.675s, finished at 2025-09-01T01:56:20+0000
+  2025-09-08T01:11:01+0000  ace-jump-buffer-20171031.1550.entry
+  2025-09-08T01:11:01+0000  ace-jump-buffer-20171031.1550.tar
+Built ace-jump-buffer in 2.587s, finished at 2025-09-08T01:11:02+0000

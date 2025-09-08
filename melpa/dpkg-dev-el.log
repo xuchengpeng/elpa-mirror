@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/dpkg-dev-el/
 Checking out 2cddfd7ac5068ace95ced3eb7da32d810b1563e0
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/dpkg-dev-el/
-  to /tmp/dpkg-dev-elghwOOi/dpkg-dev-el-20250831.536
+  to /tmp/dpkg-dev-el6NTLzV/dpkg-dev-el-20250831.536
     debian-autopkgtest-control-mode.el -> debian-autopkgtest-control-mode.el
     debian-bts-control.el -> debian-bts-control.el
     debian-changelog-mode.el -> debian-changelog-mode.el
@@ -31,6 +31,6 @@ Created dpkg-dev-el-20250831.536.tar containing:
   dpkg-dev-el-20250831.536/dpkg-dev-el.el
   dpkg-dev-el-20250831.536/readme-debian.el
  ✓ Success:
-  2025-08-31T23:38:29+0000  dpkg-dev-el-20250831.536.entry
-  2025-08-31T23:38:29+0000  dpkg-dev-el-20250831.536.tar
-Built dpkg-dev-el in 3.642s, finished at 2025-08-31T23:38:30+0000
+  2025-09-08T01:24:48+0000  dpkg-dev-el-20250831.536.entry
+  2025-09-08T01:24:48+0000  dpkg-dev-el-20250831.536.tar
+Built dpkg-dev-el in 3.709s, finished at 2025-09-08T01:24:49+0000

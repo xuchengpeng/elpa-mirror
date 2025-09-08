@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/magik-company/
 Checking out db00024a7212dc6af674a9ce27c1a15a29d484e8
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/magik-company/
-  to /tmp/magik-companyqLtkBo/magik-company-20250822.1442
+  to /tmp/magik-companyT4JWml/magik-company-20250822.1442
     magik-company-annotation.el -> magik-company-annotation.el
     magik-company-buffer-cache.el -> magik-company-buffer-cache.el
     magik-company-cb-cache.el -> magik-company-cb-cache.el
@@ -31,6 +31,6 @@ Created magik-company-20250822.1442.tar containing:
   magik-company-20250822.1442/magik-company-yasnippet-handling.el
   magik-company-20250822.1442/magik-company.el
  ✓ Success:
-  2025-09-01T00:04:46+0000  magik-company-20250822.1442.entry
-  2025-09-01T00:04:46+0000  magik-company-20250822.1442.tar
-Built magik-company in 3.018s, finished at 2025-09-01T00:04:47+0000
+  2025-09-08T01:50:14+0000  magik-company-20250822.1442.entry
+  2025-09-08T01:50:14+0000  magik-company-20250822.1442.tar
+Built magik-company in 2.786s, finished at 2025-09-08T01:50:15+0000

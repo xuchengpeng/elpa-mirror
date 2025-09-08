@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/kixtart-mode/
 Checking out 168c1fd1427a53f7d463d698748e321b4eb0ea50
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/kixtart-mode/
-  to /tmp/kixtart-mode84zOc6/kixtart-mode-20250830.1722
+  to /tmp/kixtart-modeTVCDes/kixtart-mode-20250830.1722
   ! doc/kixtart-mode.texi -> kixtart-mode.texi
     kixtart-docstrings.el -> kixtart-docstrings.el
     kixtart-mode.el -> kixtart-mode.el
@@ -19,6 +19,6 @@ Created kixtart-mode-20250830.1722.tar containing:
   kixtart-mode-20250830.1722/kixtart-mode.el
   kixtart-mode-20250830.1722/kixtart-mode.info
  ✓ Success:
-  2025-09-01T00:01:46+0000  kixtart-mode-20250830.1722.entry
-  2025-09-01T00:01:46+0000  kixtart-mode-20250830.1722.tar
-Built kixtart-mode in 4.666s, finished at 2025-09-01T00:01:46+0000
+  2025-09-08T01:47:09+0000  kixtart-mode-20250830.1722.entry
+  2025-09-08T01:47:09+0000  kixtart-mode-20250830.1722.tar
+Built kixtart-mode in 5.079s, finished at 2025-09-08T01:47:10+0000

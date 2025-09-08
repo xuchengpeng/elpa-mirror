@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/elisp-autofmt/
 Checking out c4cd57b2599ec82a4363ae322aa734e34a719404
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/elisp-autofmt/
-  to /tmp/elisp-autofmtJ8teVz/elisp-autofmt-20250611.2328
+  to /tmp/elisp-autofmtvRTyzX/elisp-autofmt-20250611.2328
     elisp-autofmt.el -> elisp-autofmt.el
     elisp-autofmt.py -> elisp-autofmt.py
     elisp-autofmt.overrides.json -> elisp-autofmt.overrides.json
@@ -17,6 +17,6 @@ Created elisp-autofmt-20250611.2328.tar containing:
   elisp-autofmt-20250611.2328/elisp-autofmt.overrides.json
   elisp-autofmt-20250611.2328/elisp-autofmt.py
  ✓ Success:
-  2025-08-31T23:40:44+0000  elisp-autofmt-20250611.2328.entry
-  2025-08-31T23:40:44+0000  elisp-autofmt-20250611.2328.tar
-Built elisp-autofmt in 3.257s, finished at 2025-08-31T23:40:45+0000
+  2025-09-08T01:27:11+0000  elisp-autofmt-20250611.2328.entry
+  2025-09-08T01:27:11+0000  elisp-autofmt-20250611.2328.tar
+Built elisp-autofmt in 3.020s, finished at 2025-09-08T01:27:12+0000

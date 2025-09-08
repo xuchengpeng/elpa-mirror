@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/ts-comint/
 Checking out b280cfe9fe5ecec9d5970043b6b2866f644b39ad
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ts-comint/
-  to /tmp/ts-comintsIe0He/ts-comint-20181219.719
+  to /tmp/ts-comintOifXkA/ts-comint-20181219.719
     ts-comint.el -> ts-comint.el
 Created ts-comint-20181219.719.tar containing:
   ts-comint-20181219.719/
   ts-comint-20181219.719/ts-comint-pkg.el
   ts-comint-20181219.719/ts-comint.el
  ✓ Success:
-  2025-09-01T00:33:32+0000  ts-comint-20181219.719.entry
-  2025-09-01T00:33:32+0000  ts-comint-20181219.719.tar
-Built ts-comint in 3.809s, finished at 2025-09-01T00:33:33+0000
+  2025-09-07T23:59:40+0000  ts-comint-20181219.719.entry
+  2025-09-07T23:59:40+0000  ts-comint-20181219.719.tar
+Built ts-comint in 2.976s, finished at 2025-09-07T23:59:41+0000

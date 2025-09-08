@@ -3,20 +3,20 @@ Fetcher: github
 Source:  https://github.com/DamienCassou/ox-linuxmag-fr
 
 Updating /mnt/store/melpa/working/ox-linuxmag-fr/
-Checking out 1273146d58ca05f2e43278e9d15787f1b39c70a4
+Checking out 67381be882a384e0e0ed810b24556148c0eb6b9f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ox-linuxmag-fr/
-  to /tmp/ox-linuxmag-fre0zPsP/ox-linuxmag-fr-20250825.2001
+  to /tmp/ox-linuxmag-frDGEriA/ox-linuxmag-fr-20250907.1103
     ox-linuxmag-fr.el -> ox-linuxmag-fr.el
     resources => resources
-Created ox-linuxmag-fr-20250825.2001.tar containing:
-  ox-linuxmag-fr-20250825.2001/
-  ox-linuxmag-fr-20250825.2001/ox-linuxmag-fr-pkg.el
-  ox-linuxmag-fr-20250825.2001/ox-linuxmag-fr.el
-  ox-linuxmag-fr-20250825.2001/resources/
-  ox-linuxmag-fr-20250825.2001/resources/styles.xml
-  ox-linuxmag-fr-20250825.2001/resources/template.xml
+Created ox-linuxmag-fr-20250907.1103.tar containing:
+  ox-linuxmag-fr-20250907.1103/
+  ox-linuxmag-fr-20250907.1103/ox-linuxmag-fr-pkg.el
+  ox-linuxmag-fr-20250907.1103/ox-linuxmag-fr.el
+  ox-linuxmag-fr-20250907.1103/resources/
+  ox-linuxmag-fr-20250907.1103/resources/styles.xml
+  ox-linuxmag-fr-20250907.1103/resources/template.xml
  ✓ Success:
-  2025-09-01T00:16:07+0000  ox-linuxmag-fr-20250825.2001.entry
-  2025-09-01T00:16:07+0000  ox-linuxmag-fr-20250825.2001.tar
-Built ox-linuxmag-fr in 2.567s, finished at 2025-09-01T00:16:08+0000
+  2025-09-07T23:43:48+0000  ox-linuxmag-fr-20250907.1103.entry
+  2025-09-07T23:43:48+0000  ox-linuxmag-fr-20250907.1103.tar
+Built ox-linuxmag-fr in 3.958s, finished at 2025-09-07T23:43:49+0000

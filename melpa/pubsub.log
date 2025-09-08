@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/countvajhula/pubsub
 
 Updating /mnt/store/melpa/working/pubsub/
-Checking out 7691efbe3a28b4b546486474526c0b5c89a583d7
+Checking out 84b57d3a3d166b73dfe79acf254fab2938f473f4
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/pubsub/
-  to /tmp/pubsubLVkxd4/pubsub-20250616.2221
+  to /tmp/pubsub9SCCxH/pubsub-20250905.719
     pubsub.el -> pubsub.el
-Created pubsub-20250616.2221.tar containing:
-  pubsub-20250616.2221/
-  pubsub-20250616.2221/pubsub-pkg.el
-  pubsub-20250616.2221/pubsub.el
+Created pubsub-20250905.719.tar containing:
+  pubsub-20250905.719/
+  pubsub-20250905.719/pubsub-pkg.el
+  pubsub-20250905.719/pubsub.el
  ✓ Success:
-  2025-09-01T00:20:49+0000  pubsub-20250616.2221.entry
-  2025-09-01T00:20:49+0000  pubsub-20250616.2221.tar
-Built pubsub in 2.401s, finished at 2025-09-01T00:20:50+0000
+  2025-09-07T23:48:01+0000  pubsub-20250905.719.entry
+  2025-09-07T23:48:01+0000  pubsub-20250905.719.tar
+Built pubsub in 2.418s, finished at 2025-09-07T23:48:02+0000

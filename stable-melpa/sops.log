@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/sops/
 Checking out afeb1232b89335d77a3f4b6639ebe8a2b70fae3f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/sops/
-  to /tmp/sopsIzg5yU/sops-20250206.1651
+  to /tmp/sopsziWyuX/sops-20250206.1651
     sops.el -> sops.el
 Created sops-20250206.1651.tar containing:
   sops-20250206.1651/
   sops-20250206.1651/sops-pkg.el
   sops-20250206.1651/sops.el
  ✓ Success:
-  2025-09-01T00:28:31+0000  sops-20250206.1651.entry
-  2025-09-01T00:28:31+0000  sops-20250206.1651.tar
-Built sops in 4.468s, finished at 2025-09-01T00:28:32+0000
+  2025-09-07T23:55:09+0000  sops-20250206.1651.entry
+  2025-09-07T23:55:09+0000  sops-20250206.1651.tar
+Built sops in 3.224s, finished at 2025-09-07T23:55:10+0000

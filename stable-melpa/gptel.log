@@ -3,10 +3,10 @@ Fetcher: github
 Source:  https://github.com/karthink/gptel
 
 Updating /mnt/store/melpa/working/gptel/
-Checking out a2fe4ec752f3859db7d665d03a4c874cfad1e7e2
+Checking out 81618f24e2190568ea745dca82ba50267eed321a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/gptel/
-  to /tmp/gpteliFPEpv/gptel-20250831.846
+  to /tmp/gptelRV5XQd/gptel-20250903.525
     gptel-anthropic.el -> gptel-anthropic.el
     gptel-bedrock.el -> gptel-bedrock.el
     gptel-context.el -> gptel-context.el
@@ -22,25 +22,25 @@ Copying files (->) and directories (=>)
     gptel-rewrite.el -> gptel-rewrite.el
     gptel-transient.el -> gptel-transient.el
     gptel.el -> gptel.el
-Created gptel-20250831.846.tar containing:
-  gptel-20250831.846/
-  gptel-20250831.846/gptel-anthropic.el
-  gptel-20250831.846/gptel-bedrock.el
-  gptel-20250831.846/gptel-context.el
-  gptel-20250831.846/gptel-curl.el
-  gptel-20250831.846/gptel-gemini.el
-  gptel-20250831.846/gptel-gh.el
-  gptel-20250831.846/gptel-integrations.el
-  gptel-20250831.846/gptel-kagi.el
-  gptel-20250831.846/gptel-ollama.el
-  gptel-20250831.846/gptel-openai-extras.el
-  gptel-20250831.846/gptel-openai.el
-  gptel-20250831.846/gptel-org.el
-  gptel-20250831.846/gptel-pkg.el
-  gptel-20250831.846/gptel-rewrite.el
-  gptel-20250831.846/gptel-transient.el
-  gptel-20250831.846/gptel.el
+Created gptel-20250903.525.tar containing:
+  gptel-20250903.525/
+  gptel-20250903.525/gptel-anthropic.el
+  gptel-20250903.525/gptel-bedrock.el
+  gptel-20250903.525/gptel-context.el
+  gptel-20250903.525/gptel-curl.el
+  gptel-20250903.525/gptel-gemini.el
+  gptel-20250903.525/gptel-gh.el
+  gptel-20250903.525/gptel-integrations.el
+  gptel-20250903.525/gptel-kagi.el
+  gptel-20250903.525/gptel-ollama.el
+  gptel-20250903.525/gptel-openai-extras.el
+  gptel-20250903.525/gptel-openai.el
+  gptel-20250903.525/gptel-org.el
+  gptel-20250903.525/gptel-pkg.el
+  gptel-20250903.525/gptel-rewrite.el
+  gptel-20250903.525/gptel-transient.el
+  gptel-20250903.525/gptel.el
  ✓ Success:
-  2025-08-31T23:52:10+0000  gptel-20250831.846.entry
-  2025-08-31T23:52:10+0000  gptel-20250831.846.tar
-Built gptel in 4.503s, finished at 2025-08-31T23:52:10+0000
+  2025-09-08T01:38:18+0000  gptel-20250903.525.entry
+  2025-09-08T01:38:18+0000  gptel-20250903.525.tar
+Built gptel in 4.265s, finished at 2025-09-08T01:38:19+0000

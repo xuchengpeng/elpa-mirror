@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/diff-hl/
 Checking out f3408d5004627e685b5a4a3a454a9a92ef182432
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/diff-hl/
-  to /tmp/diff-hla7HAow/diff-hl-20250731.209
+  to /tmp/diff-hlEyLWUh/diff-hl-20250731.209
     diff-hl-amend.el -> diff-hl-amend.el
     diff-hl-dired.el -> diff-hl-dired.el
     diff-hl-flydiff.el -> diff-hl-flydiff.el
@@ -27,6 +27,6 @@ Created diff-hl-20250731.209.tar containing:
   diff-hl-20250731.209/diff-hl-show-hunk.el
   diff-hl-20250731.209/diff-hl.el
  ✓ Success:
-  2025-08-31T23:36:32+0000  diff-hl-20250731.209.entry
-  2025-08-31T23:36:32+0000  diff-hl-20250731.209.tar
-Built diff-hl in 3.245s, finished at 2025-08-31T23:36:33+0000
+  2025-09-08T01:23:11+0000  diff-hl-20250731.209.entry
+  2025-09-08T01:23:11+0000  diff-hl-20250731.209.tar
+Built diff-hl in 3.350s, finished at 2025-09-08T01:23:12+0000

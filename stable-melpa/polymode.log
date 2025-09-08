@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/polymode/
 Checking out 25ba9463a443f0e904147138f226284e437248d3
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/polymode/
-  to /tmp/polymodeTZuaxQ/polymode-20250617.1033
+  to /tmp/polymoderl7SL3/polymode-20250617.1033
     poly-lock.el -> poly-lock.el
     polymode-base.el -> polymode-base.el
     polymode-classes.el -> polymode-classes.el
@@ -35,6 +35,6 @@ Created polymode-20250617.1033.tar containing:
   polymode-20250617.1033/polymode-weave.el
   polymode-20250617.1033/polymode.el
  ✓ Success:
-  2025-09-01T00:19:23+0000  polymode-20250617.1033.entry
-  2025-09-01T00:19:23+0000  polymode-20250617.1033.tar
-Built polymode in 3.856s, finished at 2025-09-01T00:19:24+0000
+  2025-09-07T23:46:40+0000  polymode-20250617.1033.entry
+  2025-09-07T23:46:40+0000  polymode-20250617.1033.tar
+Built polymode in 3.306s, finished at 2025-09-07T23:46:41+0000
