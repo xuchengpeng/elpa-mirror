@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/assess/
 Checking out cadeb24a5d8261fad4bdfdc09e7d571cc395a6ca
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/assess/
-  to /tmp/assessJPHjo0/assess-20240303.1454
+  to /tmp/assessOzz2YN/assess-20240303.1454
     assess-call.el -> assess-call.el
     assess-discover.el -> assess-discover.el
     assess-robot.el -> assess-robot.el
@@ -19,6 +19,6 @@ Created assess-20240303.1454.tar containing:
   assess-20240303.1454/assess-robot.el
   assess-20240303.1454/assess.el
  ✓ Success:
-  2025-09-08T01:12:38+0000  assess-20240303.1454.entry
-  2025-09-08T01:12:38+0000  assess-20240303.1454.tar
-Built assess in 2.238s, finished at 2025-09-08T01:12:39+0000
+  2025-09-15T01:20:21+0000  assess-20240303.1454.entry
+  2025-09-15T01:20:20+0000  assess-20240303.1454.tar
+Built assess in 2.068s, finished at 2025-09-15T01:20:21+0000

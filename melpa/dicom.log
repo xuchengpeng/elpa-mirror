@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/minad/dicom
 
 Updating /mnt/store/melpa/working/dicom/
-Checking out b10bd042bdac60314866df6be0f96031ebe0a79d
+Checking out 3c5e750ff63cbd80d328738f93975eee4b537505
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/dicom/
-  to /tmp/dicomvwHUjz/dicom-20250827.1159
+  to /tmp/dicomPVR0zl/dicom-20250908.1649
     dicom.el -> dicom.el
-Created dicom-20250827.1159.tar containing:
-  dicom-20250827.1159/
-  dicom-20250827.1159/dicom-pkg.el
-  dicom-20250827.1159/dicom.el
+Created dicom-20250908.1649.tar containing:
+  dicom-20250908.1649/
+  dicom-20250908.1649/dicom-pkg.el
+  dicom-20250908.1649/dicom.el
  ✓ Success:
-  2025-09-08T01:23:06+0000  dicom-20250827.1159.entry
-  2025-09-08T01:23:06+0000  dicom-20250827.1159.tar
-Built dicom in 3.040s, finished at 2025-09-08T01:23:07+0000
+  2025-09-15T01:30:53+0000  dicom-20250908.1649.entry
+  2025-09-15T01:30:53+0000  dicom-20250908.1649.tar
+Built dicom in 3.354s, finished at 2025-09-15T01:30:54+0000

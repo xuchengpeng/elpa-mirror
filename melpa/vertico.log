@@ -3,10 +3,10 @@ Fetcher: github
 Source:  https://github.com/minad/vertico
 
 Updating /mnt/store/melpa/working/vertico/
-Checking out 79cec4071853d4d5d9384af30290058a63005c43
+Checking out 488685badfdf49bb750a213f228bdba8e113c7c8
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/vertico/
-  to /tmp/verticoTnIrZC/vertico-20250901.1440
+  to /tmp/verticojcZXYJ/vertico-20250908.1638
     vertico.el -> vertico.el
   ! extensions/vertico-buffer.el -> vertico-buffer.el
   ! extensions/vertico-directory.el -> vertico-directory.el
@@ -21,24 +21,24 @@ Copying files (->) and directories (=>)
   ! extensions/vertico-sort.el -> vertico-sort.el
   ! extensions/vertico-suspend.el -> vertico-suspend.el
   ! extensions/vertico-unobtrusive.el -> vertico-unobtrusive.el
-Created vertico-20250901.1440.tar containing:
-  vertico-20250901.1440/
-  vertico-20250901.1440/vertico-buffer.el
-  vertico-20250901.1440/vertico-directory.el
-  vertico-20250901.1440/vertico-flat.el
-  vertico-20250901.1440/vertico-grid.el
-  vertico-20250901.1440/vertico-indexed.el
-  vertico-20250901.1440/vertico-mouse.el
-  vertico-20250901.1440/vertico-multiform.el
-  vertico-20250901.1440/vertico-pkg.el
-  vertico-20250901.1440/vertico-quick.el
-  vertico-20250901.1440/vertico-repeat.el
-  vertico-20250901.1440/vertico-reverse.el
-  vertico-20250901.1440/vertico-sort.el
-  vertico-20250901.1440/vertico-suspend.el
-  vertico-20250901.1440/vertico-unobtrusive.el
-  vertico-20250901.1440/vertico.el
+Created vertico-20250908.1638.tar containing:
+  vertico-20250908.1638/
+  vertico-20250908.1638/vertico-buffer.el
+  vertico-20250908.1638/vertico-directory.el
+  vertico-20250908.1638/vertico-flat.el
+  vertico-20250908.1638/vertico-grid.el
+  vertico-20250908.1638/vertico-indexed.el
+  vertico-20250908.1638/vertico-mouse.el
+  vertico-20250908.1638/vertico-multiform.el
+  vertico-20250908.1638/vertico-pkg.el
+  vertico-20250908.1638/vertico-quick.el
+  vertico-20250908.1638/vertico-repeat.el
+  vertico-20250908.1638/vertico-reverse.el
+  vertico-20250908.1638/vertico-sort.el
+  vertico-20250908.1638/vertico-suspend.el
+  vertico-20250908.1638/vertico-unobtrusive.el
+  vertico-20250908.1638/vertico.el
  ✓ Success:
-  2025-09-08T00:01:43+0000  vertico-20250901.1440.entry
-  2025-09-08T00:01:43+0000  vertico-20250901.1440.tar
-Built vertico in 4.224s, finished at 2025-09-08T00:01:44+0000
+  2025-09-15T00:08:43+0000  vertico-20250908.1638.entry
+  2025-09-15T00:08:43+0000  vertico-20250908.1638.tar
+Built vertico in 3.951s, finished at 2025-09-15T00:08:44+0000

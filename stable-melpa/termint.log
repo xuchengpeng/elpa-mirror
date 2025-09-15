@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/termint/
 Checking out 0e5ae2c685bf8b45f89fd91dc235ddaf5d4ffbd5
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/termint/
-  to /tmp/termintfbKhh9/termint-20250824.1809
+  to /tmp/termintrmF3TG/termint-20250824.1809
     termint.el -> termint.el
 Created termint-20250824.1809.tar containing:
   termint-20250824.1809/
   termint-20250824.1809/termint-pkg.el
   termint-20250824.1809/termint.el
  ✓ Success:
-  2025-09-07T23:57:51+0000  termint-20250824.1809.entry
-  2025-09-07T23:57:51+0000  termint-20250824.1809.tar
-Built termint in 2.939s, finished at 2025-09-07T23:57:52+0000
+  2025-09-15T00:05:14+0000  termint-20250824.1809.entry
+  2025-09-15T00:05:14+0000  termint-20250824.1809.tar
+Built termint in 3.077s, finished at 2025-09-15T00:05:15+0000

@@ -20,5 +20,12 @@ You can bind this via fset or defalias:
 (defalias 'throttled-func (timeout-throttled-func 'func 2.0))
 (fset     'throttled-func (timeout-throttled-func 'func 2.0))
 
+Dynamic duration is supported by passing a symbol or function instead of
+a number:
+
+(defvar my-timeout 1.5)
+(timeout-throttle 'func 'my-timeout)  ; uses value of my-timeout
+(timeout-throttle 'func (lambda () (if busy-p 0.1 2.0)))  ; conditional
+
 The interactive spec and documentation of FUNC is carried over to the new
 function.

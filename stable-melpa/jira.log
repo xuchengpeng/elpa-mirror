@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/jira/
 Checking out 66e40f9e1ac9faf5e4190a53a13cffde7dc63867
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/jira/
-  to /tmp/jiraRFlLbL/jira-20250906.1544
+  to /tmp/jiravIwSvf/jira-20250906.1544
     jira-actions.el -> jira-actions.el
     jira-api.el -> jira-api.el
     jira-complete.el -> jira-complete.el
@@ -35,6 +35,6 @@ Created jira-20250906.1544.tar containing:
   jira-20250906.1544/jira-utils.el
   jira-20250906.1544/jira.el
  ✓ Success:
-  2025-09-08T01:45:30+0000  jira-20250906.1544.entry
-  2025-09-08T01:45:30+0000  jira-20250906.1544.tar
-Built jira in 3.385s, finished at 2025-09-08T01:45:31+0000
+  2025-09-15T01:53:39+0000  jira-20250906.1544.entry
+  2025-09-15T01:53:39+0000  jira-20250906.1544.tar
+Built jira in 3.458s, finished at 2025-09-15T01:53:40+0000

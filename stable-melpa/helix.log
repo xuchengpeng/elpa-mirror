@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/helix/
 Checking out 32e01acddc582ae9eb27eabda974ce12996a9bb8
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/helix/
-  to /tmp/helix4KAVas/helix-20250731.1425
+  to /tmp/helix41jyw4/helix-20250731.1425
     helix-core.el -> helix-core.el
     helix-jj.el -> helix-jj.el
     helix-multiple-cursors.el -> helix-multiple-cursors.el
@@ -19,6 +19,6 @@ Created helix-20250731.1425.tar containing:
   helix-20250731.1425/helix-pkg.el
   helix-20250731.1425/helix.el
  ✓ Success:
-  2025-09-08T01:39:28+0000  helix-20250731.1425.entry
-  2025-09-08T01:39:28+0000  helix-20250731.1425.tar
-Built helix in 2.804s, finished at 2025-09-08T01:39:29+0000
+  2025-09-15T01:47:31+0000  helix-20250731.1425.entry
+  2025-09-15T01:47:31+0000  helix-20250731.1425.tar
+Built helix in 2.911s, finished at 2025-09-15T01:47:32+0000

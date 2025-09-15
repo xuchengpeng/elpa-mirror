@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/abougouffa/one-tab-per-project
 
 Updating /mnt/store/melpa/working/otpp/
-Checking out e6a77c18f62eff4323653d5bb889200399bc53aa
+Checking out fb8e72b924013443ba810ad5347d6ca39f005158
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/otpp/
-  to /tmp/otppx7Qqtn/otpp-20250904.911
+  to /tmp/otppgo1DNU/otpp-20250909.2023
     otpp.el -> otpp.el
-Created otpp-20250904.911.tar containing:
-  otpp-20250904.911/
-  otpp-20250904.911/otpp-pkg.el
-  otpp-20250904.911/otpp.el
+Created otpp-20250909.2023.tar containing:
+  otpp-20250909.2023/
+  otpp-20250909.2023/otpp-pkg.el
+  otpp-20250909.2023/otpp.el
  ✓ Success:
-  2025-09-07T23:43:08+0000  otpp-20250904.911.entry
-  2025-09-07T23:43:08+0000  otpp-20250904.911.tar
-Built otpp in 1.779s, finished at 2025-09-07T23:43:09+0000
+  2025-09-14T23:50:03+0000  otpp-20250909.2023.entry
+  2025-09-14T23:50:03+0000  otpp-20250909.2023.tar
+Built otpp in 2.036s, finished at 2025-09-14T23:50:03+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/ghub+/
 Checking out b1adef2402d7599911d4dd447a987a0cea04e6fe
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ghub+/
-  to /tmp/ghub+ZP6u0s/ghub+-20191229.1748
+  to /tmp/ghub+6HMpeG/ghub+-20191229.1748
     ghub+.el -> ghub+.el
 Created ghub+-20191229.1748.tar containing:
   ghub+-20191229.1748/
   ghub+-20191229.1748/ghub+-pkg.el
   ghub+-20191229.1748/ghub+.el
  ✓ Success:
-  2025-09-07T23:18:56+0000  ghub-20250823.2101.entry
-  2025-09-07T23:18:56+0000  ghub-20250823.2101.tar
-Built ghub+ in 4.310s, finished at 2025-09-08T01:36:11+0000
+  2025-09-14T23:25:46+0000  ghub-20250909.1013.entry
+  2025-09-14T23:25:46+0000  ghub-20250909.1013.tar
+Built ghub+ in 2.810s, finished at 2025-09-15T01:44:17+0000

@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/mpvi/
 Checking out 9e61c137be6526cb4b00ddbc204f3ddc1144a47e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mpvi/
-  to /tmp/mpviZDMRSb/mpvi-20250902.142
+  to /tmp/mpviILxtNC/mpvi-20250902.142
     mpvi-bilibili.el -> mpvi-bilibili.el
     mpvi-emms.el -> mpvi-emms.el
     mpvi-living.el -> mpvi-living.el
@@ -23,6 +23,6 @@ Created mpvi-20250902.142.tar containing:
   mpvi-20250902.142/mpvi-websocket.el
   mpvi-20250902.142/mpvi.el
  ✓ Success:
-  2025-09-08T01:53:11+0000  mpvi-20250902.142.entry
-  2025-09-08T01:53:10+0000  mpvi-20250902.142.tar
-Built mpvi in 3.521s, finished at 2025-09-08T01:53:11+0000
+  2025-09-14T23:43:02+0000  mpvi-20250902.142.entry
+  2025-09-14T23:43:01+0000  mpvi-20250902.142.tar
+Built mpvi in 3.801s, finished at 2025-09-14T23:43:03+0000

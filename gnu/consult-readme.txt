@@ -265,6 +265,8 @@ Table of Contents
 1.6 Grep and Find
 ─────────────────
 
+  • `consult-grep-match': Jump to a Grep match in related Grep
+    buffers. Supports live preview narrowing and recursive editing.
   • `consult-grep', `consult-ripgrep', `consult-git-grep': Search for
     regular expression in files. Consult invokes Grep asynchronously,
     while you enter the search term. After at least
@@ -303,8 +305,9 @@ Table of Contents
 1.7 Compilation
 ───────────────
 
-  • `consult-compile-error': Jump to a compilation error or grep search
-    result.  Supports live preview narrowing and recursive editing.
+  • `consult-compile-error': Jump to a compilation error in related
+    compilation buffers. Supports live preview narrowing and recursive
+    editing.
   • `consult-flymake': Jump to Flymake diagnostic. Supports live preview
     and recursive editing. The command supports narrowing. Press `e
     SPC', `w SPC', `n SPC' to only show errors, warnings and notes
@@ -854,6 +857,7 @@ Table of Contents
   │ 	 ("M-y" . consult-yank-pop)                ;; orig. yank-pop
   │ 	 ;; M-g bindings in `goto-map'
   │ 	 ("M-g e" . consult-compile-error)
+  │ 	 ("M-g r" . consult-grep-match)
   │ 	 ("M-g f" . consult-flymake)               ;; Alternative: consult-flycheck
   │ 	 ("M-g g" . consult-goto-line)             ;; orig. goto-line
   │ 	 ("M-g M-g" . consult-goto-line)           ;; orig. goto-line

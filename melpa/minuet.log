@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/milanglacier/minuet-ai.el
 
 Updating /mnt/store/melpa/working/minuet/
-Checking out 3d0a2aca430313bd6c311c6530ec8d43f9a68937
+Checking out 49dfd86e32518cabe576801961ea2f7e33e1fae4
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/minuet/
-  to /tmp/minueth8RMa7/minuet-20250819.2310
+  to /tmp/minuetKge27p/minuet-20250911.1737
     minuet.el -> minuet.el
-Created minuet-20250819.2310.tar containing:
-  minuet-20250819.2310/
-  minuet-20250819.2310/minuet-pkg.el
-  minuet-20250819.2310/minuet.el
+Created minuet-20250911.1737.tar containing:
+  minuet-20250911.1737/
+  minuet-20250911.1737/minuet-pkg.el
+  minuet-20250911.1737/minuet.el
  ✓ Success:
-  2025-09-08T01:52:15+0000  minuet-20250819.2310.entry
-  2025-09-08T01:52:15+0000  minuet-20250819.2310.tar
-Built minuet in 2.490s, finished at 2025-09-08T01:52:15+0000
+  2025-09-14T23:42:05+0000  minuet-20250911.1737.entry
+  2025-09-14T23:42:05+0000  minuet-20250911.1737.tar
+Built minuet in 4.132s, finished at 2025-09-14T23:42:06+0000

@@ -3,22 +3,22 @@ Fetcher: github
 Source:  https://github.com/bennfocus/codex-cli.el
 
 Updating /mnt/store/melpa/working/codex-cli/
-Checking out ab6c5e5e2651a5d261fd7ce7ddb524858e50d7be
+Checking out 172d62381851d82860186a56da6f936f40180b3f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/codex-cli/
-  to /tmp/codex-cli0og38Q/codex-cli-20250905.856
+  to /tmp/codex-clis8b0Co/codex-cli-20250913.1900
     codex-cli-project.el -> codex-cli-project.el
     codex-cli-term.el -> codex-cli-term.el
     codex-cli-utils.el -> codex-cli-utils.el
     codex-cli.el -> codex-cli.el
-Created codex-cli-20250905.856.tar containing:
-  codex-cli-20250905.856/
-  codex-cli-20250905.856/codex-cli-pkg.el
-  codex-cli-20250905.856/codex-cli-project.el
-  codex-cli-20250905.856/codex-cli-term.el
-  codex-cli-20250905.856/codex-cli-utils.el
-  codex-cli-20250905.856/codex-cli.el
+Created codex-cli-20250913.1900.tar containing:
+  codex-cli-20250913.1900/
+  codex-cli-20250913.1900/codex-cli-pkg.el
+  codex-cli-20250913.1900/codex-cli-project.el
+  codex-cli-20250913.1900/codex-cli-term.el
+  codex-cli-20250913.1900/codex-cli-utils.el
+  codex-cli-20250913.1900/codex-cli.el
  ✓ Success:
-  2025-09-08T01:18:28+0000  codex-cli-20250905.856.entry
-  2025-09-08T01:18:28+0000  codex-cli-20250905.856.tar
-Built codex-cli in 2.687s, finished at 2025-09-08T01:18:29+0000
+  2025-09-15T01:26:15+0000  codex-cli-20250913.1900.entry
+  2025-09-15T01:26:15+0000  codex-cli-20250913.1900.tar
+Built codex-cli in 3.266s, finished at 2025-09-15T01:26:15+0000

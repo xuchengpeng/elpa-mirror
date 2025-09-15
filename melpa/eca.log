@@ -3,28 +3,30 @@ Fetcher: github
 Source:  https://github.com/editor-code-assistant/eca-emacs
 
 Updating /mnt/store/melpa/working/eca/
-Checking out fa788d85d4fef2e57d600f1f5fef7409285534a8
+Checking out 8ef19fa0bcf9c5c082195f247d0a61a58acd18eb
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/eca/
-  to /tmp/ecakFphLX/eca-20250907.2250
+  to /tmp/eca8EluHa/eca-20250913.2043
     eca-api.el -> eca-api.el
     eca-chat.el -> eca-chat.el
+    eca-diff.el -> eca-diff.el
     eca-editor.el -> eca-editor.el
     eca-mcp.el -> eca-mcp.el
     eca-process.el -> eca-process.el
     eca-util.el -> eca-util.el
     eca.el -> eca.el
-Created eca-20250907.2250.tar containing:
-  eca-20250907.2250/
-  eca-20250907.2250/eca-api.el
-  eca-20250907.2250/eca-chat.el
-  eca-20250907.2250/eca-editor.el
-  eca-20250907.2250/eca-mcp.el
-  eca-20250907.2250/eca-pkg.el
-  eca-20250907.2250/eca-process.el
-  eca-20250907.2250/eca-util.el
-  eca-20250907.2250/eca.el
+Created eca-20250913.2043.tar containing:
+  eca-20250913.2043/
+  eca-20250913.2043/eca-api.el
+  eca-20250913.2043/eca-chat.el
+  eca-20250913.2043/eca-diff.el
+  eca-20250913.2043/eca-editor.el
+  eca-20250913.2043/eca-mcp.el
+  eca-20250913.2043/eca-pkg.el
+  eca-20250913.2043/eca-process.el
+  eca-20250913.2043/eca-util.el
+  eca-20250913.2043/eca.el
  ✓ Success:
-  2025-09-08T01:25:37+0000  eca-20250907.2250.entry
-  2025-09-08T01:25:37+0000  eca-20250907.2250.tar
-Built eca in 4.004s, finished at 2025-09-08T01:25:38+0000
+  2025-09-15T01:33:34+0000  eca-20250913.2043.entry
+  2025-09-15T01:33:34+0000  eca-20250913.2043.tar
+Built eca in 3.871s, finished at 2025-09-15T01:33:35+0000

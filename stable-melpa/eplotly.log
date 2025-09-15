@@ -3,16 +3,16 @@ Fetcher: codeberg
 Source:  https://codeberg.org/GioBo/eplotly
 
 Updating /mnt/store/melpa/working/eplotly/
-Checking out a348505df49a1fc115df7605dbe5bde0d5386299
+Checking out 2b509457bd8bfeea1e906f8db222f9e1fe8e4c4e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/eplotly/
-  to /tmp/eplotly7eBz0F/eplotly-20250829.701
+  to /tmp/eplotly7Q3LUd/eplotly-20250910.2140
     eplotly.el -> eplotly.el
-Created eplotly-20250829.701.tar containing:
-  eplotly-20250829.701/
-  eplotly-20250829.701/eplotly-pkg.el
-  eplotly-20250829.701/eplotly.el
+Created eplotly-20250910.2140.tar containing:
+  eplotly-20250910.2140/
+  eplotly-20250910.2140/eplotly-pkg.el
+  eplotly-20250910.2140/eplotly.el
  ✓ Success:
-  2025-09-08T01:28:30+0000  eplotly-20250829.701.entry
-  2025-09-08T01:28:30+0000  eplotly-20250829.701.tar
-Built eplotly in 4.909s, finished at 2025-09-08T01:28:30+0000
+  2025-09-15T01:36:24+0000  eplotly-20250910.2140.entry
+  2025-09-15T01:36:24+0000  eplotly-20250910.2140.tar
+Built eplotly in 3.303s, finished at 2025-09-15T01:36:25+0000

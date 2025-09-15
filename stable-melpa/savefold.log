@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/savefold/
 Checking out 68ec792ced589f64e747bee4fddaba89339f11ca
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/savefold/
-  to /tmp/savefoldaNcnMQ/savefold-20250817.1933
+  to /tmp/savefoldbZY9mo/savefold-20250817.1933
     savefold-hide-ifdef.el -> savefold-hide-ifdef.el
     savefold-hideshow.el -> savefold-hideshow.el
     savefold-markdown.el -> savefold-markdown.el
@@ -33,6 +33,6 @@ Created savefold-20250817.1933.tar containing:
   savefold-20250817.1933/savefold-yafolding.el
   savefold-20250817.1933/savefold.el
  ✓ Success:
-  2025-09-07T23:51:52+0000  savefold-20250817.1933.entry
-  2025-09-07T23:51:52+0000  savefold-20250817.1933.tar
-Built savefold in 3.369s, finished at 2025-09-07T23:51:53+0000
+  2025-09-14T23:58:45+0000  savefold-20250817.1933.entry
+  2025-09-14T23:58:45+0000  savefold-20250817.1933.tar
+Built savefold in 5.398s, finished at 2025-09-14T23:58:47+0000

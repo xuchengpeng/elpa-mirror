@@ -1,0 +1,18 @@
+Package: blue
+Fetcher: codeberg
+Source:  https://codeberg.org/lapislazuli/blue.el
+
+Updating /mnt/store/melpa/working/blue/
+Checking out c3530732bf6bdd0f45284829214272a3fefcc119
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/blue/
+  to /tmp/blueLmAv1P/blue-20250914.1659
+    blue.el -> blue.el
+Created blue-20250914.1659.tar containing:
+  blue-20250914.1659/
+  blue-20250914.1659/blue-pkg.el
+  blue-20250914.1659/blue.el
+ ✓ Success:
+  2025-09-15T01:22:38+0000  blue-20250914.1659.entry
+  2025-09-15T01:22:38+0000  blue-20250914.1659.tar
+Built blue in 3.910s, finished at 2025-09-15T01:22:39+0000

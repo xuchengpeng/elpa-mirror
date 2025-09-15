@@ -3,23 +3,23 @@ Fetcher: github
 Source:  https://github.com/sp1ff/elmpd
 
 Updating /mnt/store/melpa/working/elmpd/
-Checking out db808e58993310a01419649985b2f732b1067e9e
+Checking out a68563fa3e3b09fcdaf4b9f070542f8cfa257067
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/elmpd/
-  to /tmp/elmpdtEvP5d/elmpd-20240902.1520
+  to /tmp/elmpdbhYhtO/elmpd-20250910.327
     elmpd.el -> elmpd.el
   ! doc/elmpd.texi -> elmpd.texi
   ! doc/version.texi -> version.texi
 Generating elmpd.info
 Generating version.info
-Created elmpd-20240902.1520.tar containing:
-  elmpd-20240902.1520/
-  elmpd-20240902.1520/dir
-  elmpd-20240902.1520/elmpd-pkg.el
-  elmpd-20240902.1520/elmpd.el
-  elmpd-20240902.1520/elmpd.info
-  elmpd-20240902.1520/version.info
+Created elmpd-20250910.327.tar containing:
+  elmpd-20250910.327/
+  elmpd-20250910.327/dir
+  elmpd-20250910.327/elmpd-pkg.el
+  elmpd-20250910.327/elmpd.el
+  elmpd-20250910.327/elmpd.info
+  elmpd-20250910.327/version.info
  ✓ Success:
-  2025-09-08T01:27:28+0000  elmpd-20240902.1520.entry
-  2025-09-08T01:27:28+0000  elmpd-20240902.1520.tar
-Built elmpd in 3.996s, finished at 2025-09-08T01:27:29+0000
+  2025-09-15T01:35:19+0000  elmpd-20250910.327.entry
+  2025-09-15T01:35:19+0000  elmpd-20250910.327.tar
+Built elmpd in 7.006s, finished at 2025-09-15T01:35:20+0000

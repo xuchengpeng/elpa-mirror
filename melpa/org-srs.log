@@ -3,15 +3,16 @@ Fetcher: github
 Source:  https://github.com/bohonghuang/org-srs
 
 Updating /mnt/store/melpa/working/org-srs/
-Checking out d61a51b9ac25a2c4f40b05131b68b00c354a0a9e
+Checking out 0a74d5c2ade87eab89ae525b50c6fcb72c9baeb0
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/org-srs/
-  to /tmp/org-srsZ6tlnW/org-srs-20250907.856
+  to /tmp/org-srsJxYaPn/org-srs-20250913.814
     org-srs-algorithm-fsrs-optimizer.el -> org-srs-algorithm-fsrs-optimizer.el
     org-srs-algorithm-fsrs.el -> org-srs-algorithm-fsrs.el
     org-srs-algorithm.el -> org-srs-algorithm.el
     org-srs-child-frame.el -> org-srs-child-frame.el
     org-srs-embed.el -> org-srs-embed.el
+    org-srs-entry.el -> org-srs-entry.el
     org-srs-item-card.el -> org-srs-item-card.el
     org-srs-item-cloze.el -> org-srs-item-cloze.el
     org-srs-item.el -> org-srs-item.el
@@ -34,37 +35,38 @@ Copying files (->) and directories (=>)
     org-srs-table.el -> org-srs-table.el
     org-srs-time.el -> org-srs-time.el
     org-srs.el -> org-srs.el
-Created org-srs-20250907.856.tar containing:
-  org-srs-20250907.856/
-  org-srs-20250907.856/org-srs-algorithm-fsrs-optimizer.el
-  org-srs-20250907.856/org-srs-algorithm-fsrs.el
-  org-srs-20250907.856/org-srs-algorithm.el
-  org-srs-20250907.856/org-srs-child-frame.el
-  org-srs-20250907.856/org-srs-embed.el
-  org-srs-20250907.856/org-srs-item-card.el
-  org-srs-20250907.856/org-srs-item-cloze.el
-  org-srs-20250907.856/org-srs-item.el
-  org-srs-20250907.856/org-srs-log.el
-  org-srs-20250907.856/org-srs-mouse.el
-  org-srs-20250907.856/org-srs-pkg.el
-  org-srs-20250907.856/org-srs-property.el
-  org-srs-20250907.856/org-srs-query.el
-  org-srs-20250907.856/org-srs-review-cache.el
-  org-srs-20250907.856/org-srs-review-rate.el
-  org-srs-20250907.856/org-srs-review-strategy.el
-  org-srs-20250907.856/org-srs-review.el
-  org-srs-20250907.856/org-srs-schedule-bury.el
-  org-srs-20250907.856/org-srs-schedule-fuzz.el
-  org-srs-20250907.856/org-srs-schedule-offset.el
-  org-srs-20250907.856/org-srs-schedule-step.el
-  org-srs-20250907.856/org-srs-schedule.el
-  org-srs-20250907.856/org-srs-stats-history.el
-  org-srs-20250907.856/org-srs-stats-interval.el
-  org-srs-20250907.856/org-srs-stats.el
-  org-srs-20250907.856/org-srs-table.el
-  org-srs-20250907.856/org-srs-time.el
-  org-srs-20250907.856/org-srs.el
+Created org-srs-20250913.814.tar containing:
+  org-srs-20250913.814/
+  org-srs-20250913.814/org-srs-algorithm-fsrs-optimizer.el
+  org-srs-20250913.814/org-srs-algorithm-fsrs.el
+  org-srs-20250913.814/org-srs-algorithm.el
+  org-srs-20250913.814/org-srs-child-frame.el
+  org-srs-20250913.814/org-srs-embed.el
+  org-srs-20250913.814/org-srs-entry.el
+  org-srs-20250913.814/org-srs-item-card.el
+  org-srs-20250913.814/org-srs-item-cloze.el
+  org-srs-20250913.814/org-srs-item.el
+  org-srs-20250913.814/org-srs-log.el
+  org-srs-20250913.814/org-srs-mouse.el
+  org-srs-20250913.814/org-srs-pkg.el
+  org-srs-20250913.814/org-srs-property.el
+  org-srs-20250913.814/org-srs-query.el
+  org-srs-20250913.814/org-srs-review-cache.el
+  org-srs-20250913.814/org-srs-review-rate.el
+  org-srs-20250913.814/org-srs-review-strategy.el
+  org-srs-20250913.814/org-srs-review.el
+  org-srs-20250913.814/org-srs-schedule-bury.el
+  org-srs-20250913.814/org-srs-schedule-fuzz.el
+  org-srs-20250913.814/org-srs-schedule-offset.el
+  org-srs-20250913.814/org-srs-schedule-step.el
+  org-srs-20250913.814/org-srs-schedule.el
+  org-srs-20250913.814/org-srs-stats-history.el
+  org-srs-20250913.814/org-srs-stats-interval.el
+  org-srs-20250913.814/org-srs-stats.el
+  org-srs-20250913.814/org-srs-table.el
+  org-srs-20250913.814/org-srs-time.el
+  org-srs-20250913.814/org-srs.el
  ✓ Success:
-  2025-09-08T01:59:21+0000  org-srs-20250907.856.entry
-  2025-09-08T01:59:21+0000  org-srs-20250907.856.tar
-Built org-srs in 1.636s, finished at 2025-09-08T01:59:22+0000
+  2025-09-14T23:49:05+0000  org-srs-20250913.814.entry
+  2025-09-14T23:49:05+0000  org-srs-20250913.814.tar
+Built org-srs in 1.593s, finished at 2025-09-14T23:49:06+0000

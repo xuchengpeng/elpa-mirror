@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/org-doing/
 Checking out 4819e75c827c2115bd28f3b3148d846aa64ccd9b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/org-doing/
-  to /tmp/org-doinggEvV9S/org-doing-20161017.1620
+  to /tmp/org-doinge3MGXV/org-doing-20161017.1620
     org-doing.el -> org-doing.el
     bin => bin
 Created org-doing-20161017.1620.tar containing:
@@ -16,6 +16,6 @@ Created org-doing-20161017.1620.tar containing:
   org-doing-20161017.1620/org-doing-pkg.el
   org-doing-20161017.1620/org-doing.el
  ✓ Success:
-  2025-09-08T01:57:43+0000  org-doing-20161017.1620.entry
-  2025-09-08T01:57:43+0000  org-doing-20161017.1620.tar
-Built org-doing in 0.986s, finished at 2025-09-08T01:57:43+0000
+  2025-09-14T23:47:28+0000  org-doing-20161017.1620.entry
+  2025-09-14T23:47:28+0000  org-doing-20161017.1620.tar
+Built org-doing in 1.619s, finished at 2025-09-14T23:47:29+0000

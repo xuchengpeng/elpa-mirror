@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/howm/
 Checking out 15ef80bc6ed46447027b59769be16108a0fc4a9e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/howm/
-  to /tmp/howmqHbUFj/howm-20250805.1210
+  to /tmp/howmQwTfv5/howm-20250805.1210
     action-lock.el -> action-lock.el
     bcomp.el -> bcomp.el
     cheat-font-lock.el -> cheat-font-lock.el
@@ -65,6 +65,6 @@ Created howm-20250805.1210.tar containing:
   howm-20250805.1210/illusion.el
   howm-20250805.1210/riffle.el
  ✓ Success:
-  2025-09-08T01:42:09+0000  howm-20250805.1210.entry
-  2025-09-08T01:42:09+0000  howm-20250805.1210.tar
-Built howm in 3.950s, finished at 2025-09-08T01:42:10+0000
+  2025-09-15T01:50:16+0000  howm-20250805.1210.entry
+  2025-09-15T01:50:16+0000  howm-20250805.1210.tar
+Built howm in 3.971s, finished at 2025-09-15T01:50:17+0000

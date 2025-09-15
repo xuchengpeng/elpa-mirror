@@ -3,7 +3,7 @@ from https://www.emacswiki.org/emacs/wikipedia-mode.el for its font-lock code, m
 convenience functions to produce mediawiki.el 2.0.
 
 The package has been reorganized into a modular structure for better maintainability and code organization,
-while maintaining full backward compatibility. The main mediawiki.el file now serves as an entry point that
+while maintaining full backward compatibility.  The main mediawiki.el file now serves as an entry point that
 loads all the modular components.
 
 Package Structure:

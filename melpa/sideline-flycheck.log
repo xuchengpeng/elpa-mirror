@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/sideline-flycheck/
 Checking out 886b0d923aeaac5e6e4cd4ab42ee6a6a18553907
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/sideline-flycheck/
-  to /tmp/sideline-flycheck7uImOD/sideline-flycheck-20250201.1746
+  to /tmp/sideline-flycheckdHYy7E/sideline-flycheck-20250201.1746
     sideline-flycheck.el -> sideline-flycheck.el
 Created sideline-flycheck-20250201.1746.tar containing:
   sideline-flycheck-20250201.1746/
   sideline-flycheck-20250201.1746/sideline-flycheck-pkg.el
   sideline-flycheck-20250201.1746/sideline-flycheck.el
  ✓ Success:
-  2025-09-07T23:53:23+0000  sideline-flycheck-20250201.1746.entry
-  2025-09-07T23:53:23+0000  sideline-flycheck-20250201.1746.tar
-Built sideline-flycheck in 2.423s, finished at 2025-09-07T23:53:24+0000
+  2025-09-15T00:00:31+0000  sideline-flycheck-20250201.1746.entry
+  2025-09-15T00:00:31+0000  sideline-flycheck-20250201.1746.tar
+Built sideline-flycheck in 2.852s, finished at 2025-09-15T00:00:32+0000

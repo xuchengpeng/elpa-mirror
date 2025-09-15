@@ -3,16 +3,16 @@ Fetcher: codeberg
 Source:  https://codeberg.org/ideasman42/emacs-revert-buffer-all
 
 Updating /mnt/store/melpa/working/revert-buffer-all/
-Checking out d49462047ebb442d7872f12007380797ee49473c
+Checking out 8bcd18498cae5a61e832bc0f2be997198456d6f1
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/revert-buffer-all/
-  to /tmp/revert-buffer-allYGEp2T/revert-buffer-all-20240421.836
+  to /tmp/revert-buffer-alleOUMPE/revert-buffer-all-20250913.2251
     revert-buffer-all.el -> revert-buffer-all.el
-Created revert-buffer-all-20240421.836.tar containing:
-  revert-buffer-all-20240421.836/
-  revert-buffer-all-20240421.836/revert-buffer-all-pkg.el
-  revert-buffer-all-20240421.836/revert-buffer-all.el
+Created revert-buffer-all-20250913.2251.tar containing:
+  revert-buffer-all-20250913.2251/
+  revert-buffer-all-20250913.2251/revert-buffer-all-pkg.el
+  revert-buffer-all-20250913.2251/revert-buffer-all.el
  ✓ Success:
-  2025-09-07T23:50:46+0000  revert-buffer-all-20240421.836.entry
-  2025-09-07T23:50:46+0000  revert-buffer-all-20240421.836.tar
-Built revert-buffer-all in 3.169s, finished at 2025-09-07T23:50:47+0000
+  2025-09-14T23:57:30+0000  revert-buffer-all-20250913.2251.entry
+  2025-09-14T23:57:30+0000  revert-buffer-all-20250913.2251.tar
+Built revert-buffer-all in 3.149s, finished at 2025-09-14T23:57:31+0000

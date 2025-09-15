@@ -1,0 +1,18 @@
+Package: quick-fasd
+Fetcher: github
+Source:  https://github.com/jamescherti/quick-fasd.el
+
+Updating /mnt/store/melpa/working/quick-fasd/
+Checking out 667227cd006c7984cbf372082872f8a423f5475b
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/quick-fasd/
+  to /tmp/quick-fasdFiPTpl/quick-fasd-20250909.2352
+    quick-fasd.el -> quick-fasd.el
+Created quick-fasd-20250909.2352.tar containing:
+  quick-fasd-20250909.2352/
+  quick-fasd-20250909.2352/quick-fasd-pkg.el
+  quick-fasd-20250909.2352/quick-fasd.el
+ ✓ Success:
+  2025-09-14T23:55:52+0000  quick-fasd-20250909.2352.entry
+  2025-09-14T23:55:52+0000  quick-fasd-20250909.2352.tar
+Built quick-fasd in 2.290s, finished at 2025-09-14T23:55:53+0000

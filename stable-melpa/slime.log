@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/slime/
 Checking out d92e18dada9f297b00a64b1376f29cbfed7db178
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/slime/
-  to /tmp/slimeRLgtry/slime-20250904.1610
+  to /tmp/slimew2Fb3a/slime-20250904.1610
     slime-autoloads.el -> slime-autoloads.el
     slime-tests.el -> slime-tests.el
     slime.el -> slime.el
@@ -210,6 +210,6 @@ Created slime-20250904.1610.tar containing:
   slime-20250904.1610/swank/source-path-parser.lisp
   slime-20250904.1610/xref.lisp
  ✓ Success:
-  2025-09-07T23:53:54+0000  slime-20250904.1610.entry
-  2025-09-07T23:53:54+0000  slime-20250904.1610.tar
-Built slime in 5.654s, finished at 2025-09-07T23:53:54+0000
+  2025-09-15T00:01:05+0000  slime-20250904.1610.entry
+  2025-09-15T00:01:04+0000  slime-20250904.1610.tar
+Built slime in 6.307s, finished at 2025-09-15T00:01:05+0000

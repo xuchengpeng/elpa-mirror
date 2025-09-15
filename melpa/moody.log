@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/tarsius/moody
 
 Updating /mnt/store/melpa/working/moody/
-Checking out 698376065e78201577b371ccd9a340b24cd59331
+Checking out 293036f57cc97aa7c085c8044d76fca481f0b54b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/moody/
-  to /tmp/moodyD2O30O/moody-20250901.1612
+  to /tmp/moodyzO3JDv/moody-20250913.1927
     moody.el -> moody.el
-Created moody-20250901.1612.tar containing:
-  moody-20250901.1612/
-  moody-20250901.1612/moody-pkg.el
-  moody-20250901.1612/moody.el
+Created moody-20250913.1927.tar containing:
+  moody-20250913.1927/
+  moody-20250913.1927/moody-pkg.el
+  moody-20250913.1927/moody.el
  ✓ Success:
-  2025-09-08T01:52:48+0000  moody-20250901.1612.entry
-  2025-09-08T01:52:48+0000  moody-20250901.1612.tar
-Built moody in 2.595s, finished at 2025-09-08T01:52:49+0000
+  2025-09-14T23:42:40+0000  moody-20250913.1927.entry
+  2025-09-14T23:42:40+0000  moody-20250913.1927.tar
+Built moody in 2.573s, finished at 2025-09-14T23:42:41+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/pnpm-mode/
 Checking out ec66ba36ba6e07883b029569c33fd461d28eed75
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/pnpm-mode/
-  to /tmp/pnpm-modexHiELI/pnpm-mode-20200527.557
+  to /tmp/pnpm-modewd9I1W/pnpm-mode-20200527.557
     pnpm-mode.el -> pnpm-mode.el
 Created pnpm-mode-20200527.557.tar containing:
   pnpm-mode-20200527.557/
   pnpm-mode-20200527.557/pnpm-mode-pkg.el
   pnpm-mode-20200527.557/pnpm-mode.el
  ✓ Success:
-  2025-09-07T23:46:20+0000  pnpm-mode-20200527.557.entry
-  2025-09-07T23:46:20+0000  pnpm-mode-20200527.557.tar
-Built pnpm-mode in 2.436s, finished at 2025-09-07T23:46:21+0000
+  2025-09-14T23:53:10+0000  pnpm-mode-20200527.557.entry
+  2025-09-14T23:53:10+0000  pnpm-mode-20200527.557.tar
+Built pnpm-mode in 4.119s, finished at 2025-09-14T23:53:12+0000

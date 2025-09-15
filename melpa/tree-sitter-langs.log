@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/tree-sitter-langs/
 Checking out d28b710e6ce96fa0b6bbe0e3927c8f522ff2d8dd
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/tree-sitter-langs/
-  to /tmp/tree-sitter-langsMQ3SSZ/tree-sitter-langs-20250831.1337
+  to /tmp/tree-sitter-langsHgvBQY/tree-sitter-langs-20250831.1337
     tree-sitter-langs-build.el -> tree-sitter-langs-build.el
     tree-sitter-langs.el -> tree-sitter-langs.el
     queries => queries
@@ -171,6 +171,6 @@ Created tree-sitter-langs-20250831.1337.tar containing:
   tree-sitter-langs-20250831.1337/tree-sitter-langs-pkg.el
   tree-sitter-langs-20250831.1337/tree-sitter-langs.el
  ✓ Success:
-  2025-09-07T23:59:24+0000  tree-sitter-langs-20250831.1337.entry
-  2025-09-07T23:59:24+0000  tree-sitter-langs-20250831.1337.tar
-Built tree-sitter-langs in 5.391s, finished at 2025-09-07T23:59:25+0000
+  2025-09-15T00:06:49+0000  tree-sitter-langs-20250831.1337.entry
+  2025-09-15T00:06:49+0000  tree-sitter-langs-20250831.1337.tar
+Built tree-sitter-langs in 5.391s, finished at 2025-09-15T00:06:50+0000

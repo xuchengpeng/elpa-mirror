@@ -3,10 +3,10 @@ Fetcher: github
 Source:  https://github.com/ogdenwebb/emacs-kaolin-themes
 
 Updating /mnt/store/melpa/working/kaolin-themes/
-Checking out 30f3d82cf8bb74c5b347a56626b01a8c49395ac4
+Checking out e0db9f421670ee26e1442b89062669e44fcf9454
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/kaolin-themes/
-  to /tmp/kaolin-themesaP25ur/kaolin-themes-20250831.2227
+  to /tmp/kaolin-themesZ3AiR1/kaolin-themes-20250909.2335
     kaolin-themes-lib.el -> kaolin-themes-lib.el
     kaolin-themes-treemacs.el -> kaolin-themes-treemacs.el
     kaolin-themes.el -> kaolin-themes.el
@@ -25,28 +25,28 @@ Copying files (->) and directories (=>)
   ! themes/kaolin-temple-theme.el -> kaolin-temple-theme.el
   ! themes/kaolin-valley-dark-theme.el -> kaolin-valley-dark-theme.el
   ! themes/kaolin-valley-light-theme.el -> kaolin-valley-light-theme.el
-Created kaolin-themes-20250831.2227.tar containing:
-  kaolin-themes-20250831.2227/
-  kaolin-themes-20250831.2227/kaolin-aurora-theme.el
-  kaolin-themes-20250831.2227/kaolin-blossom-theme.el
-  kaolin-themes-20250831.2227/kaolin-breeze-theme.el
-  kaolin-themes-20250831.2227/kaolin-bubblegum-theme.el
-  kaolin-themes-20250831.2227/kaolin-dark-theme.el
-  kaolin-themes-20250831.2227/kaolin-eclipse-theme.el
-  kaolin-themes-20250831.2227/kaolin-galaxy-theme.el
-  kaolin-themes-20250831.2227/kaolin-light-theme.el
-  kaolin-themes-20250831.2227/kaolin-mono-dark-theme.el
-  kaolin-themes-20250831.2227/kaolin-mono-light-theme.el
-  kaolin-themes-20250831.2227/kaolin-ocean-theme.el
-  kaolin-themes-20250831.2227/kaolin-shiva-theme.el
-  kaolin-themes-20250831.2227/kaolin-temple-theme.el
-  kaolin-themes-20250831.2227/kaolin-themes-lib.el
-  kaolin-themes-20250831.2227/kaolin-themes-pkg.el
-  kaolin-themes-20250831.2227/kaolin-themes-treemacs.el
-  kaolin-themes-20250831.2227/kaolin-themes.el
-  kaolin-themes-20250831.2227/kaolin-valley-dark-theme.el
-  kaolin-themes-20250831.2227/kaolin-valley-light-theme.el
+Created kaolin-themes-20250909.2335.tar containing:
+  kaolin-themes-20250909.2335/
+  kaolin-themes-20250909.2335/kaolin-aurora-theme.el
+  kaolin-themes-20250909.2335/kaolin-blossom-theme.el
+  kaolin-themes-20250909.2335/kaolin-breeze-theme.el
+  kaolin-themes-20250909.2335/kaolin-bubblegum-theme.el
+  kaolin-themes-20250909.2335/kaolin-dark-theme.el
+  kaolin-themes-20250909.2335/kaolin-eclipse-theme.el
+  kaolin-themes-20250909.2335/kaolin-galaxy-theme.el
+  kaolin-themes-20250909.2335/kaolin-light-theme.el
+  kaolin-themes-20250909.2335/kaolin-mono-dark-theme.el
+  kaolin-themes-20250909.2335/kaolin-mono-light-theme.el
+  kaolin-themes-20250909.2335/kaolin-ocean-theme.el
+  kaolin-themes-20250909.2335/kaolin-shiva-theme.el
+  kaolin-themes-20250909.2335/kaolin-temple-theme.el
+  kaolin-themes-20250909.2335/kaolin-themes-lib.el
+  kaolin-themes-20250909.2335/kaolin-themes-pkg.el
+  kaolin-themes-20250909.2335/kaolin-themes-treemacs.el
+  kaolin-themes-20250909.2335/kaolin-themes.el
+  kaolin-themes-20250909.2335/kaolin-valley-dark-theme.el
+  kaolin-themes-20250909.2335/kaolin-valley-light-theme.el
  ✓ Success:
-  2025-09-08T01:46:30+0000  kaolin-themes-20250831.2227.entry
-  2025-09-08T01:46:30+0000  kaolin-themes-20250831.2227.tar
-Built kaolin-themes in 3.579s, finished at 2025-09-08T01:46:31+0000
+  2025-09-15T01:54:39+0000  kaolin-themes-20250909.2335.entry
+  2025-09-15T01:54:39+0000  kaolin-themes-20250909.2335.tar
+Built kaolin-themes in 3.597s, finished at 2025-09-15T01:54:40+0000

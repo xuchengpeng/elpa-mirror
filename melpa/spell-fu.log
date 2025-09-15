@@ -3,16 +3,16 @@ Fetcher: codeberg
 Source:  https://codeberg.org/ideasman42/emacs-spell-fu
 
 Updating /mnt/store/melpa/working/spell-fu/
-Checking out a0294842419f2abaf26e75e8390229245cbeddb1
+Checking out b141e2e24e3def0c3c656090cf11705bb34254d1
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/spell-fu/
-  to /tmp/spell-fuHbLfGs/spell-fu-20250902.416
+  to /tmp/spell-fuI9jnwx/spell-fu-20250913.2251
     spell-fu.el -> spell-fu.el
-Created spell-fu-20250902.416.tar containing:
-  spell-fu-20250902.416/
-  spell-fu-20250902.416/spell-fu-pkg.el
-  spell-fu-20250902.416/spell-fu.el
+Created spell-fu-20250913.2251.tar containing:
+  spell-fu-20250913.2251/
+  spell-fu-20250913.2251/spell-fu-pkg.el
+  spell-fu-20250913.2251/spell-fu.el
  ✓ Success:
-  2025-09-07T23:55:31+0000  spell-fu-20250902.416.entry
-  2025-09-07T23:55:31+0000  spell-fu-20250902.416.tar
-Built spell-fu in 2.988s, finished at 2025-09-07T23:55:32+0000
+  2025-09-15T00:02:31+0000  spell-fu-20250913.2251.entry
+  2025-09-15T00:02:31+0000  spell-fu-20250913.2251.tar
+Built spell-fu in 3.144s, finished at 2025-09-15T00:02:31+0000

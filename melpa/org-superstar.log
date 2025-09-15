@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/integral-dw/org-superstar-mode
 
 Updating /mnt/store/melpa/working/org-superstar/
-Checking out f61dd1894fc8d79ab60d1f5d67a99f2a6c939a80
+Checking out ce6f7f421f995893f72d75ffdfa92964b9bea2e3
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/org-superstar/
-  to /tmp/org-superstar8yWiI9/org-superstar-20250902.2352
+  to /tmp/org-superstar69dII1/org-superstar-20250914.1308
     org-superstar.el -> org-superstar.el
-Created org-superstar-20250902.2352.tar containing:
-  org-superstar-20250902.2352/
-  org-superstar-20250902.2352/org-superstar-pkg.el
-  org-superstar-20250902.2352/org-superstar.el
+Created org-superstar-20250914.1308.tar containing:
+  org-superstar-20250914.1308/
+  org-superstar-20250914.1308/org-superstar-pkg.el
+  org-superstar-20250914.1308/org-superstar.el
  ✓ Success:
-  2025-09-08T01:59:26+0000  org-superstar-20250902.2352.entry
-  2025-09-08T01:59:26+0000  org-superstar-20250902.2352.tar
-Built org-superstar in 1.524s, finished at 2025-09-08T01:59:26+0000
+  2025-09-14T23:49:09+0000  org-superstar-20250914.1308.entry
+  2025-09-14T23:49:09+0000  org-superstar-20250914.1308.tar
+Built org-superstar in 1.504s, finished at 2025-09-14T23:49:10+0000

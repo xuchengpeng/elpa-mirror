@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/svelte-mode/
 Checking out edfef1e0abbf92e18027f6f34f7b5a6f03c1a28a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/svelte-mode/
-  to /tmp/svelte-modekS3L8O/svelte-mode-20240920.609
+  to /tmp/svelte-modeAykvOZ/svelte-mode-20240920.609
     svelte-mode.el -> svelte-mode.el
 Created svelte-mode-20240920.609.tar containing:
   svelte-mode-20240920.609/
   svelte-mode-20240920.609/svelte-mode-pkg.el
   svelte-mode-20240920.609/svelte-mode.el
  ✓ Success:
-  2025-09-07T23:56:36+0000  svelte-mode-20240920.609.entry
-  2025-09-07T23:56:36+0000  svelte-mode-20240920.609.tar
-Built svelte-mode in 2.282s, finished at 2025-09-07T23:56:37+0000
+  2025-09-15T00:03:39+0000  svelte-mode-20240920.609.entry
+  2025-09-15T00:03:39+0000  svelte-mode-20240920.609.tar
+Built svelte-mode in 2.421s, finished at 2025-09-15T00:03:40+0000

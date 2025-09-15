@@ -1,0 +1,20 @@
+Package: meep
+Fetcher: codeberg
+Source:  https://codeberg.org/ideasman42/emacs-meep
+
+Updating /mnt/store/melpa/working/meep/
+Checking out d3e466916c1267473e27e750f44fb8cfe0896f9d
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/meep/
+  to /tmp/meep03xNb8/meep-20250914.2320
+    meep.el -> meep.el
+Created meep-20250914.2320.tar containing:
+  meep-20250914.2320/
+  meep-20250914.2320/meep-pkg.el
+  meep-20250914.2320/meep.el
+ ✓ Success:
+  2025-09-14T21:22:19+0000  meep-20250914.1321.entry
+  2025-09-14T21:22:19+0000  meep-20250914.1321.tar
+  2025-09-14T23:41:02+0000  meep-20250914.2320.entry
+  2025-09-14T23:41:02+0000  meep-20250914.2320.tar
+Built meep in 4.071s, finished at 2025-09-14T23:41:03+0000
