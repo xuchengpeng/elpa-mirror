@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/bitlbee/
 Checking out f3342da46b0864ae8db4e82b553d9e617b090534
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/bitlbee/
-  to /tmp/bitlbeetHr3GW/bitlbee-20151203.0
+  to /tmp/bitlbee4D9eH0/bitlbee-20151203.0
   ! lisp/bitlbee.el -> bitlbee.el
 Created bitlbee-20151203.0.tar containing:
   bitlbee-20151203.0/
   bitlbee-20151203.0/bitlbee-pkg.el
   bitlbee-20151203.0/bitlbee.el
  ✓ Success:
-  2025-09-15T01:22:25+0000  bitlbee-20151203.0.entry
-  2025-09-15T01:22:25+0000  bitlbee-20151203.0.tar
-Built bitlbee in 2.545s, finished at 2025-09-15T01:22:26+0000
+  2025-09-22T00:24:28+0000  bitlbee-20151203.0.entry
+  2025-09-22T00:24:28+0000  bitlbee-20151203.0.tar
+Built bitlbee in 2.718s, finished at 2025-09-22T00:24:29+0000

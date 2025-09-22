@@ -3,18 +3,18 @@ Fetcher: github
 Source:  https://github.com/k-talo/volatile-highlights.el
 
 Updating /mnt/store/melpa/working/volatile-highlights/
-Checking out ee3c7b884e43baab9dcb406be0589ae4d374d3ac
+Checking out 16a026c80a764d63203edeb48e2bd326297606cf
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/volatile-highlights/
-  to /tmp/volatile-highlightsHG8oEE/volatile-highlights-20250914.1439
+  to /tmp/volatile-highlightsUJhBus/volatile-highlights-20250921.1242
     test-volatile-highlights.el -> test-volatile-highlights.el
     volatile-highlights.el -> volatile-highlights.el
-Created volatile-highlights-20250914.1439.tar containing:
-  volatile-highlights-20250914.1439/
-  volatile-highlights-20250914.1439/test-volatile-highlights.el
-  volatile-highlights-20250914.1439/volatile-highlights-pkg.el
-  volatile-highlights-20250914.1439/volatile-highlights.el
+Created volatile-highlights-20250921.1242.tar containing:
+  volatile-highlights-20250921.1242/
+  volatile-highlights-20250921.1242/test-volatile-highlights.el
+  volatile-highlights-20250921.1242/volatile-highlights-pkg.el
+  volatile-highlights-20250921.1242/volatile-highlights.el
  ✓ Success:
-  2025-09-15T00:09:04+0000  volatile-highlights-20250914.1439.entry
-  2025-09-15T00:09:04+0000  volatile-highlights-20250914.1439.tar
-Built volatile-highlights in 3.328s, finished at 2025-09-15T00:09:05+0000
+  2025-09-22T01:29:01+0000  volatile-highlights-20250921.1242.entry
+  2025-09-22T01:29:01+0000  volatile-highlights-20250921.1242.tar
+Built volatile-highlights in 3.131s, finished at 2025-09-22T01:29:02+0000

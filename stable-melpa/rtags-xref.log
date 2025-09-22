@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/rtags-xref/
 Checking out 62d881dab01ecb9ee6d54b705124ca8dadba726f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/rtags-xref/
-  to /tmp/rtags-xrefIefvvJ/rtags-xref-20250801.1701
+  to /tmp/rtags-xref1992MQ/rtags-xref-20250801.1701
   ! src/rtags-xref.el -> rtags-xref.el
 Created rtags-xref-20250801.1701.tar containing:
   rtags-xref-20250801.1701/
   rtags-xref-20250801.1701/rtags-xref-pkg.el
   rtags-xref-20250801.1701/rtags-xref.el
  ✓ Success:
-  2025-09-14T23:58:01+0000  rtags-xref-20250801.1701.entry
-  2025-09-14T23:58:01+0000  rtags-xref-20250801.1701.tar
-Built rtags-xref in 3.113s, finished at 2025-09-14T23:58:02+0000
+  2025-09-22T01:18:13+0000  rtags-xref-20250801.1701.entry
+  2025-09-22T01:18:13+0000  rtags-xref-20250801.1701.tar
+Built rtags-xref in 2.972s, finished at 2025-09-22T01:18:14+0000

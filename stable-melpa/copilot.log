@@ -3,18 +3,18 @@ Fetcher: github
 Source:  https://github.com/copilot-emacs/copilot.el
 
 Updating /mnt/store/melpa/working/copilot/
-Checking out 4f51b3c21c42756d09ee17011201ea7d6e18ff69
+Checking out c42c18e346e1ff8399eb30d40527e593f614e4d3
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/copilot/
-  to /tmp/copilotiqea5y/copilot-20250630.1059
+  to /tmp/copilotVxcr4D/copilot-20250916.500
     copilot-balancer.el -> copilot-balancer.el
     copilot.el -> copilot.el
-Created copilot-20250630.1059.tar containing:
-  copilot-20250630.1059/
-  copilot-20250630.1059/copilot-balancer.el
-  copilot-20250630.1059/copilot-pkg.el
-  copilot-20250630.1059/copilot.el
+Created copilot-20250916.500.tar containing:
+  copilot-20250916.500/
+  copilot-20250916.500/copilot-balancer.el
+  copilot-20250916.500/copilot-pkg.el
+  copilot-20250916.500/copilot.el
  ✓ Success:
-  2025-09-15T01:28:10+0000  copilot-20250630.1059.entry
-  2025-09-15T01:28:10+0000  copilot-20250630.1059.tar
-Built copilot in 2.882s, finished at 2025-09-15T01:28:11+0000
+  2025-09-22T00:30:10+0000  copilot-20250916.500.entry
+  2025-09-22T00:30:10+0000  copilot-20250916.500.tar
+Built copilot in 2.887s, finished at 2025-09-22T00:30:11+0000

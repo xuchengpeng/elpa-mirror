@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/tabbar/
 Checking out 82bbda31cbe8ef367dd6501c3aa14b7f2c835910
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/tabbar/
-  to /tmp/tabbar2iDOiu/tabbar-20180726.1735
+  to /tmp/tabbarxChkHt/tabbar-20180726.1735
     tabbar.el -> tabbar.el
     down.png -> down.png
     up.png -> up.png
@@ -17,6 +17,6 @@ Created tabbar-20180726.1735.tar containing:
   tabbar-20180726.1735/tabbar.el
   tabbar-20180726.1735/up.png
  ✓ Success:
-  2025-09-15T00:04:31+0000  tabbar-20180726.1735.entry
-  2025-09-15T00:04:31+0000  tabbar-20180726.1735.tar
-Built tabbar in 3.845s, finished at 2025-09-15T00:04:33+0000
+  2025-09-22T01:24:35+0000  tabbar-20180726.1735.entry
+  2025-09-22T01:24:35+0000  tabbar-20180726.1735.tar
+Built tabbar in 3.964s, finished at 2025-09-22T01:24:37+0000

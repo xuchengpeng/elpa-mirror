@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/dropbox/
 Checking out c048faad0be24e8fa31974f08b710a87cf5b668c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/dropbox/
-  to /tmp/dropboxiL5mgh/dropbox-20220314.1638
+  to /tmp/dropboxwLt2eu/dropbox-20220314.1638
     dropbox.el -> dropbox.el
 Created dropbox-20220314.1638.tar containing:
   dropbox-20220314.1638/
   dropbox-20220314.1638/dropbox-pkg.el
   dropbox-20220314.1638/dropbox.el
  ✓ Success:
-  2025-09-15T01:32:49+0000  dropbox-20220314.1638.entry
-  2025-09-15T01:32:49+0000  dropbox-20220314.1638.tar
-Built dropbox in 2.870s, finished at 2025-09-15T01:32:50+0000
+  2025-09-22T00:34:41+0000  dropbox-20220314.1638.entry
+  2025-09-22T00:34:41+0000  dropbox-20220314.1638.tar
+Built dropbox in 2.724s, finished at 2025-09-22T00:34:42+0000

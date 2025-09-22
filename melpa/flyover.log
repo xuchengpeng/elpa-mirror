@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/konrad1977/flyover
 
 Updating /mnt/store/melpa/working/flyover/
-Checking out a5704078db23770873b8abd5ac22bdc3560292e3
+Checking out f94a1f4956f8410ff42715315091c79dd340138e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/flyover/
-  to /tmp/flyoveree4NQd/flyover-20250914.1456
+  to /tmp/flyover5Xx35a/flyover-20250917.528
     flyover.el -> flyover.el
-Created flyover-20250914.1456.tar containing:
-  flyover-20250914.1456/
-  flyover-20250914.1456/flyover-pkg.el
-  flyover-20250914.1456/flyover.el
+Created flyover-20250917.528.tar containing:
+  flyover-20250917.528/
+  flyover-20250917.528/flyover-pkg.el
+  flyover-20250917.528/flyover.el
  ✓ Success:
-  2025-09-15T01:42:34+0000  flyover-20250914.1456.entry
-  2025-09-15T01:42:34+0000  flyover-20250914.1456.tar
-Built flyover in 4.821s, finished at 2025-09-15T01:42:36+0000
+  2025-09-22T00:44:06+0000  flyover-20250917.528.entry
+  2025-09-22T00:44:06+0000  flyover-20250917.528.tar
+Built flyover in 4.990s, finished at 2025-09-22T00:44:07+0000

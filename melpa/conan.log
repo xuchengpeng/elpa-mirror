@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/Carl2/conan-elisp
 
 Updating /mnt/store/melpa/working/conan/
-Checking out 80d17373cb6c3dc7952c538efd9f94a7f564ffec
+Checking out 0c3cca9e832e837a037f8c88438cca979891b131
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/conan/
-  to /tmp/conan4LqMzW/conan-20231016.830
+  to /tmp/conanFO1wy4/conan-20250919.1412
     conan.el -> conan.el
-Created conan-20231016.830.tar containing:
-  conan-20231016.830/
-  conan-20231016.830/conan-pkg.el
-  conan-20231016.830/conan.el
+Created conan-20250919.1412.tar containing:
+  conan-20250919.1412/
+  conan-20250919.1412/conan-pkg.el
+  conan-20250919.1412/conan.el
  ✓ Success:
-  2025-09-15T01:27:33+0000  conan-20231016.830.entry
-  2025-09-15T01:27:32+0000  conan-20231016.830.tar
-Built conan in 2.331s, finished at 2025-09-15T01:27:33+0000
+  2025-09-22T00:29:33+0000  conan-20250919.1412.entry
+  2025-09-22T00:29:33+0000  conan-20250919.1412.tar
+Built conan in 2.277s, finished at 2025-09-22T00:29:34+0000

@@ -3,16 +3,16 @@ Fetcher: codeberg
 Source:  https://codeberg.org/ideasman42/emacs-bookmark-in-project
 
 Updating /mnt/store/melpa/working/bookmark-in-project/
-Checking out 9990bf622abe0c020e2b2c82eb6032d54cdaa7da
+Checking out a15821d3acb5c010a0a309ddd5d957ea6a56a4e4
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/bookmark-in-project/
-  to /tmp/bookmark-in-projectfmM4mJ/bookmark-in-project-20250913.2251
+  to /tmp/bookmark-in-project6J1kJa/bookmark-in-project-20250921.813
     bookmark-in-project.el -> bookmark-in-project.el
-Created bookmark-in-project-20250913.2251.tar containing:
-  bookmark-in-project-20250913.2251/
-  bookmark-in-project-20250913.2251/bookmark-in-project-pkg.el
-  bookmark-in-project-20250913.2251/bookmark-in-project.el
+Created bookmark-in-project-20250921.813.tar containing:
+  bookmark-in-project-20250921.813/
+  bookmark-in-project-20250921.813/bookmark-in-project-pkg.el
+  bookmark-in-project-20250921.813/bookmark-in-project.el
  ✓ Success:
-  2025-09-15T01:22:47+0000  bookmark-in-project-20250913.2251.entry
-  2025-09-15T01:22:47+0000  bookmark-in-project-20250913.2251.tar
-Built bookmark-in-project in 3.504s, finished at 2025-09-15T01:22:48+0000
+  2025-09-22T00:24:50+0000  bookmark-in-project-20250921.813.entry
+  2025-09-22T00:24:50+0000  bookmark-in-project-20250921.813.tar
+Built bookmark-in-project in 3.568s, finished at 2025-09-22T00:24:51+0000

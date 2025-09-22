@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/rg/
 Checking out 76429112cc351bb8c4f400dc039ec8ec4cf5eecb
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/rg/
-  to /tmp/rg0lVBi7/rg-20250914.716
+  to /tmp/rgiFUhxp/rg-20250914.716
     rg-header.el -> rg-header.el
     rg-history.el -> rg-history.el
     rg-ibuffer.el -> rg-ibuffer.el
@@ -32,6 +32,6 @@ Created rg-20250914.716.tar containing:
   rg-20250914.716/rgel.info
   rg-20250914.716/wgrep-rg.el
  ✓ Success:
-  2025-09-14T23:57:31+0000  rg-20250914.716.entry
-  2025-09-14T23:57:31+0000  rg-20250914.716.tar
-Built rg in 2.999s, finished at 2025-09-14T23:57:32+0000
+  2025-09-22T01:17:45+0000  rg-20250914.716.entry
+  2025-09-22T01:17:45+0000  rg-20250914.716.tar
+Built rg in 2.927s, finished at 2025-09-22T01:17:46+0000

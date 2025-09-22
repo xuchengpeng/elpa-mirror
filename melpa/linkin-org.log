@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/Judafa/linkin-org
 
 Updating /mnt/store/melpa/working/linkin-org/
-Checking out c6e896fc0955f224ee93dfbc527280d523255a7a
+Checking out 036b3af4193e6f16d69853513c5ad8a8b3af8204
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/linkin-org/
-  to /tmp/linkin-org9Hcm9V/linkin-org-20250913.945
+  to /tmp/linkin-orgabc3n9/linkin-org-20250916.900
     linkin-org.el -> linkin-org.el
-Created linkin-org-20250913.945.tar containing:
-  linkin-org-20250913.945/
-  linkin-org-20250913.945/linkin-org-pkg.el
-  linkin-org-20250913.945/linkin-org.el
+Created linkin-org-20250916.900.tar containing:
+  linkin-org-20250916.900/
+  linkin-org-20250916.900/linkin-org-pkg.el
+  linkin-org-20250916.900/linkin-org.el
  ✓ Success:
-  2025-09-15T01:56:39+0000  linkin-org-20250913.945.entry
-  2025-09-15T01:56:39+0000  linkin-org-20250913.945.tar
-Built linkin-org in 2.331s, finished at 2025-09-15T01:56:39+0000
+  2025-09-22T00:58:25+0000  linkin-org-20250916.900.entry
+  2025-09-22T00:58:25+0000  linkin-org-20250916.900.tar
+Built linkin-org in 2.159s, finished at 2025-09-22T00:58:25+0000

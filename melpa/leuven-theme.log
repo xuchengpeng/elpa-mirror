@@ -3,18 +3,18 @@ Fetcher: github
 Source:  https://github.com/fniessen/emacs-leuven-theme
 
 Updating /mnt/store/melpa/working/leuven-theme/
-Checking out d84b1d8b435a517b7daf70d341784245fde1e8c0
+Checking out 802f5593b83c680bd5152d3b3f98ca184eb481a7
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/leuven-theme/
-  to /tmp/leuven-themeei5JRZ/leuven-theme-20250422.932
+  to /tmp/leuven-themeP9UURz/leuven-theme-20250917.1957
   ! lisp/leuven-dark-theme.el -> leuven-dark-theme.el
   ! lisp/leuven-theme.el -> leuven-theme.el
-Created leuven-theme-20250422.932.tar containing:
-  leuven-theme-20250422.932/
-  leuven-theme-20250422.932/leuven-dark-theme.el
-  leuven-theme-20250422.932/leuven-theme-pkg.el
-  leuven-theme-20250422.932/leuven-theme.el
+Created leuven-theme-20250917.1957.tar containing:
+  leuven-theme-20250917.1957/
+  leuven-theme-20250917.1957/leuven-dark-theme.el
+  leuven-theme-20250917.1957/leuven-theme-pkg.el
+  leuven-theme-20250917.1957/leuven-theme.el
  ✓ Success:
-  2025-09-15T01:56:20+0000  leuven-theme-20250422.932.entry
-  2025-09-15T01:56:20+0000  leuven-theme-20250422.932.tar
-Built leuven-theme in 2.679s, finished at 2025-09-15T01:56:20+0000
+  2025-09-22T00:58:06+0000  leuven-theme-20250917.1957.entry
+  2025-09-22T00:58:06+0000  leuven-theme-20250917.1957.tar
+Built leuven-theme in 2.392s, finished at 2025-09-22T00:58:06+0000

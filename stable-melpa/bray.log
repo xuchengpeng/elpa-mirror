@@ -3,16 +3,16 @@ Fetcher: codeberg
 Source:  https://codeberg.org/ideasman42/emacs-bray
 
 Updating /mnt/store/melpa/working/bray/
-Checking out 94067be7d07b23a546d7669c374bec95e9482a18
+Checking out 75e671b07a501889b7d68da3c81d6bd86b817614
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/bray/
-  to /tmp/braye169CK/bray-20250607.702
+  to /tmp/brayEpci2g/bray-20250920.932
     bray.el -> bray.el
-Created bray-20250607.702.tar containing:
-  bray-20250607.702/
-  bray-20250607.702/bray-pkg.el
-  bray-20250607.702/bray.el
+Created bray-20250920.932.tar containing:
+  bray-20250920.932/
+  bray-20250920.932/bray-pkg.el
+  bray-20250920.932/bray.el
  ✓ Success:
-  2025-09-15T01:22:58+0000  bray-20250607.702.entry
-  2025-09-15T01:22:58+0000  bray-20250607.702.tar
-Built bray in 3.674s, finished at 2025-09-15T01:22:59+0000
+  2025-09-22T00:25:01+0000  bray-20250920.932.entry
+  2025-09-22T00:25:01+0000  bray-20250920.932.tar
+Built bray in 3.543s, finished at 2025-09-22T00:25:02+0000
