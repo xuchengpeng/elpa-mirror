@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/elmpd/
 Checking out a68563fa3e3b09fcdaf4b9f070542f8cfa257067
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/elmpd/
-  to /tmp/elmpdeMO33G/elmpd-20250910.327
+  to /tmp/elmpdjy04e9/elmpd-20250910.327
     elmpd.el -> elmpd.el
   ! doc/elmpd.texi -> elmpd.texi
   ! doc/version.texi -> version.texi
@@ -20,6 +20,6 @@ Created elmpd-20250910.327.tar containing:
   elmpd-20250910.327/elmpd.info
   elmpd-20250910.327/version.info
  ✓ Success:
-  2025-09-22T00:37:02+0000  elmpd-20250910.327.entry
-  2025-09-22T00:37:02+0000  elmpd-20250910.327.tar
-Built elmpd in 4.496s, finished at 2025-09-22T00:37:03+0000
+  2025-09-24T22:46:20+0000  elmpd-20250910.327.entry
+  2025-09-24T22:46:20+0000  elmpd-20250910.327.tar
+Built elmpd in 3.973s, finished at 2025-09-24T22:46:21+0000

@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/macrostep/
 Checking out d0928626b4711dcf9f8f90439d23701118724199
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/macrostep/
-  to /tmp/macrostepJU4dH7/macrostep-20250202.2205
+  to /tmp/macrostepSGqZbo/macrostep-20250202.2205
     macrostep-c.el -> macrostep-c.el
     macrostep.el -> macrostep.el
 Created macrostep-20250202.2205.tar containing:
@@ -15,6 +15,6 @@ Created macrostep-20250202.2205.tar containing:
   macrostep-20250202.2205/macrostep-pkg.el
   macrostep-20250202.2205/macrostep.el
  ✓ Success:
-  2025-09-22T00:59:52+0000  macrostep-20250202.2205.entry
-  2025-09-22T00:59:52+0000  macrostep-20250202.2205.tar
-Built macrostep in 3.284s, finished at 2025-09-22T00:59:52+0000
+  2025-09-24T23:09:21+0000  macrostep-20250202.2205.entry
+  2025-09-24T23:09:21+0000  macrostep-20250202.2205.tar
+Built macrostep in 3.286s, finished at 2025-09-24T23:09:22+0000

@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/consult-gh/
 Checking out 699af6c2b179c6a7888352e78413b7e3f76ae6ba
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/consult-gh/
-  to /tmp/consult-ghEZM7ct/consult-gh-20250915.2043
+  to /tmp/consult-gh0c3NNc/consult-gh-20250915.2043
     consult-gh.el -> consult-gh.el
     consult-gh-transient.el -> consult-gh-transient.el
 Created consult-gh-20250915.2043.tar containing:
@@ -15,6 +15,6 @@ Created consult-gh-20250915.2043.tar containing:
   consult-gh-20250915.2043/consult-gh-transient.el
   consult-gh-20250915.2043/consult-gh.el
  ✓ Success:
-  2025-09-22T00:29:49+0000  consult-gh-20250915.2043.entry
-  2025-09-22T00:29:49+0000  consult-gh-20250915.2043.tar
-Built consult-gh in 3.818s, finished at 2025-09-22T00:29:49+0000
+  2025-09-24T22:39:07+0000  consult-gh-20250915.2043.entry
+  2025-09-24T22:39:07+0000  consult-gh-20250915.2043.tar
+Built consult-gh in 3.856s, finished at 2025-09-24T22:39:08+0000

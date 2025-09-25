@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/ascii-table/
 Checking out dc3c91feff6282303b66816bdcee9e031558ff77
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ascii-table/
-  to /tmp/ascii-tablefjVyXP/ascii-table-20231215.1527
+  to /tmp/ascii-tableyx3iHA/ascii-table-20231215.1527
     ascii-table.el -> ascii-table.el
 Created ascii-table-20231215.1527.tar containing:
   ascii-table-20231215.1527/
   ascii-table-20231215.1527/ascii-table-pkg.el
   ascii-table-20231215.1527/ascii-table.el
  ✓ Success:
-  2025-09-22T00:22:21+0000  ascii-table-20231215.1527.entry
-  2025-09-22T00:22:21+0000  ascii-table-20231215.1527.tar
-Built ascii-table in 2.126s, finished at 2025-09-22T00:22:22+0000
+  2025-09-24T22:31:35+0000  ascii-table-20231215.1527.entry
+  2025-09-24T22:31:35+0000  ascii-table-20231215.1527.tar
+Built ascii-table in 3.627s, finished at 2025-09-24T22:31:36+0000

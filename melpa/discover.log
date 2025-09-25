@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/discover/
 Checking out bbfda2b4e429985a8fa7971d264c942767cfa816
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/discover/
-  to /tmp/discoverCBVsJ1/discover-20140103.2139
+  to /tmp/discoverjBuu2W/discover-20140103.2139
     discover.el -> discover.el
 Created discover-20140103.2139.tar containing:
   discover-20140103.2139/
   discover-20140103.2139/discover-pkg.el
   discover-20140103.2139/discover.el
  ✓ Success:
-  2025-09-22T00:33:47+0000  discover-20140103.2139.entry
-  2025-09-22T00:33:47+0000  discover-20140103.2139.tar
-Built discover in 2.753s, finished at 2025-09-22T00:33:48+0000
+  2025-09-24T22:43:05+0000  discover-20140103.2139.entry
+  2025-09-24T22:43:05+0000  discover-20140103.2139.tar
+Built discover in 2.709s, finished at 2025-09-24T22:43:06+0000

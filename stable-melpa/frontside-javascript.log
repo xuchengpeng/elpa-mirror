@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/frontside-javascript/
 Checking out 18816534a977fbd28848389b58c22b6538cfdeec
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/frontside-javascript/
-  to /tmp/frontside-javascriptsTo7Z0/frontside-javascript-20220315.1057
+  to /tmp/frontside-javascriptKdlIP9/frontside-javascript-20220315.1057
   ! packages/javascript/frontside-javascript.el -> frontside-javascript.el
 Created frontside-javascript-20220315.1057.tar containing:
   frontside-javascript-20220315.1057/
   frontside-javascript-20220315.1057/frontside-javascript-pkg.el
   frontside-javascript-20220315.1057/frontside-javascript.el
  ✓ Success:
-  2025-09-22T00:45:06+0000  frontside-javascript-20220315.1057.entry
-  2025-09-22T00:45:06+0000  frontside-javascript-20220315.1057.tar
-Built frontside-javascript in 3.197s, finished at 2025-09-22T00:45:07+0000
+  2025-09-24T22:54:45+0000  frontside-javascript-20220315.1057.entry
+  2025-09-24T22:54:45+0000  frontside-javascript-20220315.1057.tar
+Built frontside-javascript in 3.190s, finished at 2025-09-24T22:54:46+0000

@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/purcell/exec-path-from-shell
 
 Updating /mnt/store/melpa/working/exec-path-from-shell/
-Checking out 72ede29a0e0467b3b433e8edbee3c79bab005884
+Checking out 59631fc475678ca299cc9503c1e48e87404b0b80
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/exec-path-from-shell/
-  to /tmp/exec-path-from-shell95q9B4/exec-path-from-shell-20240411.859
+  to /tmp/exec-path-from-shell8PsFTa/exec-path-from-shell-20250922.1413
     exec-path-from-shell.el -> exec-path-from-shell.el
-Created exec-path-from-shell-20240411.859.tar containing:
-  exec-path-from-shell-20240411.859/
-  exec-path-from-shell-20240411.859/exec-path-from-shell-pkg.el
-  exec-path-from-shell-20240411.859/exec-path-from-shell.el
+Created exec-path-from-shell-20250922.1413.tar containing:
+  exec-path-from-shell-20250922.1413/
+  exec-path-from-shell-20250922.1413/exec-path-from-shell-pkg.el
+  exec-path-from-shell-20250922.1413/exec-path-from-shell.el
  ✓ Success:
-  2025-09-22T00:40:37+0000  exec-path-from-shell-20240411.859.entry
-  2025-09-22T00:40:37+0000  exec-path-from-shell-20240411.859.tar
-Built exec-path-from-shell in 2.496s, finished at 2025-09-22T00:40:38+0000
+  2025-09-24T22:49:54+0000  exec-path-from-shell-20250922.1413.entry
+  2025-09-24T22:49:54+0000  exec-path-from-shell-20250922.1413.tar
+Built exec-path-from-shell in 2.657s, finished at 2025-09-24T22:49:55+0000

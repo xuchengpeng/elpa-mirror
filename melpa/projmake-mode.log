@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/projmake-mode/
 Checking out 93e2a23f929d69ac3d735a05d6bdcd93fca32471
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/projmake-mode/
-  to /tmp/projmake-mode6pGAIV/projmake-mode-20241228.1643
+  to /tmp/projmake-modes1zoFM/projmake-mode-20241228.1643
   ! src/projmake-banner.el -> projmake-banner.el
   ! src/projmake-build-state.el -> projmake-build-state.el
   ! src/projmake-default-parse-engine.el -> projmake-default-parse-engine.el
@@ -37,6 +37,6 @@ Created projmake-mode-20241228.1643.tar containing:
   projmake-mode-20241228.1643/projmake-project.el
   projmake-mode-20241228.1643/projmake-util.el
  ✓ Success:
-  2025-09-22T01:14:53+0000  projmake-mode-20241228.1643.entry
-  2025-09-22T01:14:53+0000  projmake-mode-20241228.1643.tar
-Built projmake-mode in 2.870s, finished at 2025-09-22T01:14:53+0000
+  2025-09-24T23:24:45+0000  projmake-mode-20241228.1643.entry
+  2025-09-24T23:24:45+0000  projmake-mode-20241228.1643.tar
+Built projmake-mode in 2.807s, finished at 2025-09-24T23:24:46+0000
