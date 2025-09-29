@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/smeargle/
 Checking out 1c5c1e1d66aa96b818fbfcdf9fbec84e509b87be
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/smeargle/
-  to /tmp/smeargle5KV83p/smeargle-20200323.533
+  to /tmp/smeargleiYivEd/smeargle-20200323.533
     smeargle.el -> smeargle.el
 Created smeargle-20200323.533.tar containing:
   smeargle-20200323.533/
   smeargle-20200323.533/smeargle-pkg.el
   smeargle-20200323.533/smeargle.el
  ✓ Success:
-  2025-09-24T23:31:31+0000  smeargle-20200323.533.entry
-  2025-09-24T23:31:31+0000  smeargle-20200323.533.tar
-Built smeargle in 2.839s, finished at 2025-09-24T23:31:32+0000
+  2025-09-29T00:26:46+0000  smeargle-20200323.533.entry
+  2025-09-29T00:26:46+0000  smeargle-20200323.533.tar
+Built smeargle in 4.448s, finished at 2025-09-29T00:26:47+0000

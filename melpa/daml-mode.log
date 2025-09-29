@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/daml-mode/
 Checking out 3ba1166edd4c22402996625b1f8a05a2d5b1cbc6
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/daml-mode/
-  to /tmp/daml-modeRQg04b/daml-mode-20231106.916
+  to /tmp/daml-modeEg5xHo/daml-mode-20231106.916
     daml-mode.el -> daml-mode.el
 Created daml-mode-20231106.916.tar containing:
   daml-mode-20231106.916/
   daml-mode-20231106.916/daml-mode-pkg.el
   daml-mode-20231106.916/daml-mode.el
  ✓ Success:
-  2025-09-24T22:40:53+0000  daml-mode-20231106.916.entry
-  2025-09-24T22:40:53+0000  daml-mode-20231106.916.tar
-Built daml-mode in 2.860s, finished at 2025-09-24T22:40:53+0000
+  2025-09-28T23:36:06+0000  daml-mode-20231106.916.entry
+  2025-09-28T23:36:06+0000  daml-mode-20231106.916.tar
+Built daml-mode in 3.087s, finished at 2025-09-28T23:36:07+0000

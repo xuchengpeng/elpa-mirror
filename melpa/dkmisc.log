@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/dkmisc/
 Checking out fe3d49c6f8322b6f89466361acd97585bdfe0608
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/dkmisc/
-  to /tmp/dkmiscwBypWs/dkmisc-20131110.1115
+  to /tmp/dkmiscoWByAY/dkmisc-20131110.1115
     dkmisc-pkg.el -> dkmisc-pkg.el
     dkmisc.el -> dkmisc.el
 Created dkmisc-20131110.1115.tar containing:
@@ -14,6 +14,6 @@ Created dkmisc-20131110.1115.tar containing:
   dkmisc-20131110.1115/dkmisc-pkg.el
   dkmisc-20131110.1115/dkmisc.el
  ✓ Success:
-  2025-09-24T22:43:26+0000  dkmisc-20131110.1115.entry
-  2025-09-24T22:43:26+0000  dkmisc-20131110.1115.tar
-Built dkmisc in 2.700s, finished at 2025-09-24T22:43:27+0000
+  2025-09-28T23:38:24+0000  dkmisc-20131110.1115.entry
+  2025-09-28T23:38:24+0000  dkmisc-20131110.1115.tar
+Built dkmisc in 2.768s, finished at 2025-09-28T23:38:25+0000

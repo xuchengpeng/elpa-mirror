@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/thrift/
 Checking out b18cf90a22ade94e8e7dbf40f54e22f30aa2d06e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/thrift/
-  to /tmp/thrifttAMlTE/thrift-20250922.1402
+  to /tmp/thriftumcFzo/thrift-20250922.1402
   ! thrift/contrib/thrift.el -> thrift.el
 Created thrift-20250922.1402.tar containing:
   thrift-20250922.1402/
   thrift-20250922.1402/thrift-pkg.el
   thrift-20250922.1402/thrift.el
  ✓ Success:
-  2025-09-24T23:35:29+0000  thrift-20250922.1402.entry
-  2025-09-24T23:35:29+0000  thrift-20250922.1402.tar
-Built thrift in 9.658s, finished at 2025-09-24T23:35:31+0000
+  2025-09-29T00:30:27+0000  thrift-20250922.1402.entry
+  2025-09-29T00:30:27+0000  thrift-20250922.1402.tar
+Built thrift in 6.845s, finished at 2025-09-29T00:30:28+0000

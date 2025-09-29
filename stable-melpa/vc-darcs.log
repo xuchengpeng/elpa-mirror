@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/vc-darcs/
 Checking out 097e03f119b4fedb0186fd45d730a1c5acac10dc
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/vc-darcs/
-  to /tmp/vc-darcsqE0F3s/vc-darcs-20230319.1149
+  to /tmp/vc-darcsmpdyhO/vc-darcs-20230319.1149
     vc-darcs.el -> vc-darcs.el
 Created vc-darcs-20230319.1149.tar containing:
   vc-darcs-20230319.1149/
   vc-darcs-20230319.1149/vc-darcs-pkg.el
   vc-darcs-20230319.1149/vc-darcs.el
  ✓ Success:
-  2025-09-24T23:38:11+0000  vc-darcs-20230319.1149.entry
-  2025-09-24T23:38:11+0000  vc-darcs-20230319.1149.tar
-Built vc-darcs in 3.253s, finished at 2025-09-24T23:38:12+0000
+  2025-09-29T00:33:32+0000  vc-darcs-20230319.1149.entry
+  2025-09-29T00:33:32+0000  vc-darcs-20230319.1149.tar
+Built vc-darcs in 3.147s, finished at 2025-09-29T00:33:33+0000

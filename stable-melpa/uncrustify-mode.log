@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/uncrustify-mode/
 Checking out 2c00d5cf2d1868a5955347438746f4dd82b3b9fc
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/uncrustify-mode/
-  to /tmp/uncrustify-modezQ49Nw/uncrustify-mode-20130707.1359
+  to /tmp/uncrustify-mode27V6qc/uncrustify-mode-20130707.1359
     uncrustify-mode.el -> uncrustify-mode.el
 Created uncrustify-mode-20130707.1359.tar containing:
   uncrustify-mode-20130707.1359/
   uncrustify-mode-20130707.1359/uncrustify-mode-pkg.el
   uncrustify-mode-20130707.1359/uncrustify-mode.el
  ✓ Success:
-  2025-09-24T23:37:20+0000  uncrustify-mode-20130707.1359.entry
-  2025-09-24T23:37:20+0000  uncrustify-mode-20130707.1359.tar
-Built uncrustify-mode in 2.528s, finished at 2025-09-24T23:37:21+0000
+  2025-09-29T00:32:43+0000  uncrustify-mode-20130707.1359.entry
+  2025-09-29T00:32:43+0000  uncrustify-mode-20130707.1359.tar
+Built uncrustify-mode in 2.770s, finished at 2025-09-29T00:32:44+0000

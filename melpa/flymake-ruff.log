@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/erickgnavar/flymake-ruff
 
 Updating /mnt/store/melpa/working/flymake-ruff/
-Checking out 1074f358736ace68d0eefa9cd7727ebed0de7c00
+Checking out fed03d99366bb4666dd0ed101572b093f1a55b09
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/flymake-ruff/
-  to /tmp/flymake-ruff4lVO4i/flymake-ruff-20250707.1557
+  to /tmp/flymake-ruff30z5nz/flymake-ruff-20250928.1825
     flymake-ruff.el -> flymake-ruff.el
-Created flymake-ruff-20250707.1557.tar containing:
-  flymake-ruff-20250707.1557/
-  flymake-ruff-20250707.1557/flymake-ruff-pkg.el
-  flymake-ruff-20250707.1557/flymake-ruff.el
+Created flymake-ruff-20250928.1825.tar containing:
+  flymake-ruff-20250928.1825/
+  flymake-ruff-20250928.1825/flymake-ruff-pkg.el
+  flymake-ruff-20250928.1825/flymake-ruff.el
  ✓ Success:
-  2025-09-24T22:53:36+0000  flymake-ruff-20250707.1557.entry
-  2025-09-24T22:53:36+0000  flymake-ruff-20250707.1557.tar
-Built flymake-ruff in 3.069s, finished at 2025-09-24T22:53:37+0000
+  2025-09-28T23:48:21+0000  flymake-ruff-20250928.1825.entry
+  2025-09-28T23:48:21+0000  flymake-ruff-20250928.1825.tar
+Built flymake-ruff in 3.076s, finished at 2025-09-28T23:48:22+0000

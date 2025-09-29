@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/helm-img/
 Checking out aa3f8a5dce8d0413bf07584f07153a39015c2bfc
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/helm-img/
-  to /tmp/helm-imgzhDVvO/helm-img-20151224.2321
+  to /tmp/helm-imgPQOL5k/helm-img-20151224.2321
     helm-img-bing.el -> helm-img-bing.el
     helm-img-dir.el -> helm-img-dir.el
     helm-img.el -> helm-img.el
@@ -17,6 +17,6 @@ Created helm-img-20151224.2321.tar containing:
   helm-img-20151224.2321/helm-img-pkg.el
   helm-img-20151224.2321/helm-img.el
  ✓ Success:
-  2025-09-24T22:59:20+0000  helm-img-20151224.2321.entry
-  2025-09-24T22:59:20+0000  helm-img-20151224.2321.tar
-Built helm-img in 2.874s, finished at 2025-09-24T22:59:21+0000
+  2025-09-28T23:54:03+0000  helm-img-20151224.2321.entry
+  2025-09-28T23:54:02+0000  helm-img-20151224.2321.tar
+Built helm-img in 3.005s, finished at 2025-09-28T23:54:03+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/txl/
 Checking out ad0ff6b9b66465457709c9f79d881b7e0ddbd352
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/txl/
-  to /tmp/txlUOrQrz/txl-20250709.1113
+  to /tmp/txlOfi3Ar/txl-20250709.1113
     txl.el -> txl.el
 Created txl-20250709.1113.tar containing:
   txl-20250709.1113/
   txl-20250709.1113/txl-pkg.el
   txl-20250709.1113/txl.el
  ✓ Success:
-  2025-09-24T23:37:05+0000  txl-20250709.1113.entry
-  2025-09-24T23:37:05+0000  txl-20250709.1113.tar
-Built txl in 2.812s, finished at 2025-09-24T23:37:06+0000
+  2025-09-29T00:32:26+0000  txl-20250709.1113.entry
+  2025-09-29T00:32:26+0000  txl-20250709.1113.tar
+Built txl in 5.227s, finished at 2025-09-29T00:32:27+0000
