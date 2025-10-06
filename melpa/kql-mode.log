@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/kql-mode/
 Checking out 6ea203a6f21332eeab33875908da01607740947d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/kql-mode/
-  to /tmp/kql-modeonw1h3/kql-mode-20250925.1437
+  to /tmp/kql-modeSLqO3G/kql-mode-20250925.1437
     kql-mode.el -> kql-mode.el
 Created kql-mode-20250925.1437.tar containing:
   kql-mode-20250925.1437/
   kql-mode-20250925.1437/kql-mode-pkg.el
   kql-mode-20250925.1437/kql-mode.el
  ✓ Success:
-  2025-09-29T00:01:31+0000  kql-mode-20250925.1437.entry
-  2025-09-29T00:01:31+0000  kql-mode-20250925.1437.tar
-Built kql-mode in 4.572s, finished at 2025-09-29T00:01:32+0000
+  2025-10-05T23:47:29+0000  kql-mode-20250925.1437.entry
+  2025-10-05T23:47:29+0000  kql-mode-20250925.1437.tar
+Built kql-mode in 3.972s, finished at 2025-10-05T23:47:30+0000

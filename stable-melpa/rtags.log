@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/rtags/
 Checking out a09caa2d56aa9523222243764e99477458447913
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/rtags/
-  to /tmp/rtagsqxfpxf/rtags-20250801.1701
+  to /tmp/rtagsqg1wwu/rtags-20250801.1701
   ! src/rtags.el -> rtags.el
 Created rtags-20250801.1701.tar containing:
   rtags-20250801.1701/
   rtags-20250801.1701/rtags-pkg.el
   rtags-20250801.1701/rtags.el
  ✓ Success:
-  2025-09-29T00:23:07+0000  rtags-20250801.1701.entry
-  2025-09-29T00:23:07+0000  rtags-20250801.1701.tar
-Built rtags in 2.755s, finished at 2025-09-29T00:23:08+0000
+  2025-10-06T00:09:38+0000  rtags-20250801.1701.entry
+  2025-10-06T00:09:38+0000  rtags-20250801.1701.tar
+Built rtags in 3.016s, finished at 2025-10-06T00:09:39+0000

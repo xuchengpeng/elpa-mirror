@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/editorconfig-custom-majormode/
 Checking out 13ad1c83f847bedd4b3a19f9df7fd925853b19de
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/editorconfig-custom-majormode/
-  to /tmp/editorconfig-custom-majormodeZevRMt/editorconfig-custom-majormode-20180816.244
+  to /tmp/editorconfig-custom-majormodewdS08t/editorconfig-custom-majormode-20180816.244
     editorconfig-custom-majormode.el -> editorconfig-custom-majormode.el
 Created editorconfig-custom-majormode-20180816.244.tar containing:
   editorconfig-custom-majormode-20180816.244/
   editorconfig-custom-majormode-20180816.244/editorconfig-custom-majormode-pkg.el
   editorconfig-custom-majormode-20180816.244/editorconfig-custom-majormode.el
  ✓ Success:
-  2025-09-28T23:39:57+0000  editorconfig-custom-majormode-20180816.244.entry
-  2025-09-28T23:39:57+0000  editorconfig-custom-majormode-20180816.244.tar
-Built editorconfig-custom-majormode in 2.562s, finished at 2025-09-28T23:39:57+0000
+  2025-10-06T01:45:36+0000  editorconfig-custom-majormode-20180816.244.entry
+  2025-10-06T01:45:36+0000  editorconfig-custom-majormode-20180816.244.tar
+Built editorconfig-custom-majormode in 2.985s, finished at 2025-10-06T01:45:37+0000

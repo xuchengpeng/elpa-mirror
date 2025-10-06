@@ -3,18 +3,18 @@ Fetcher: codeberg
 Source:  https://codeberg.org/lapislazuli/blue.el
 
 Updating /mnt/store/melpa/working/blue/
-Checking out b177f6b6f4136f7bea67fcec7996d86a66ad9948
+Checking out 6e00c0382e80587ba9158aab2cb5bac7d45b4ac5
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/blue/
-  to /tmp/bluep9H9yS/blue-20250928.1317
+  to /tmp/blueZVvEvg/blue-20251005.1040
     blue-replay.el -> blue-replay.el
     blue.el -> blue.el
-Created blue-20250928.1317.tar containing:
-  blue-20250928.1317/
-  blue-20250928.1317/blue-pkg.el
-  blue-20250928.1317/blue-replay.el
-  blue-20250928.1317/blue.el
+Created blue-20251005.1040.tar containing:
+  blue-20251005.1040/
+  blue-20251005.1040/blue-pkg.el
+  blue-20251005.1040/blue-replay.el
+  blue-20251005.1040/blue.el
  ✓ Success:
-  2025-09-29T01:47:08+0000  blue-20250928.1317.entry
-  2025-09-29T01:47:08+0000  blue-20250928.1317.tar
-Built blue in 4.079s, finished at 2025-09-29T01:47:09+0000
+  2025-10-06T01:34:28+0000  blue-20251005.1040.entry
+  2025-10-06T01:34:28+0000  blue-20251005.1040.tar
+Built blue in 4.152s, finished at 2025-10-06T01:34:29+0000

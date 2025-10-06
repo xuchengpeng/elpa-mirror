@@ -1,0 +1,20 @@
+Package: consult-hn
+Fetcher: github
+Source:  https://github.com/agzam/consult-hn
+
+Updating /mnt/store/melpa/working/consult-hn/
+Checking out 7e02d69296b880dd0cfbdaed45c0365d6daca647
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/consult-hn/
+  to /tmp/consult-hnXo4AKn/consult-hn-20250716.104
+    consult-hn-transient.el -> consult-hn-transient.el
+    consult-hn.el -> consult-hn.el
+Created consult-hn-20250716.104.tar containing:
+  consult-hn-20250716.104/
+  consult-hn-20250716.104/consult-hn-pkg.el
+  consult-hn-20250716.104/consult-hn-transient.el
+  consult-hn-20250716.104/consult-hn.el
+ ✓ Success:
+  2025-10-06T01:39:47+0000  consult-hn-20250716.104.entry
+  2025-10-06T01:39:47+0000  consult-hn-20250716.104.tar
+Built consult-hn in 3.099s, finished at 2025-10-06T01:39:48+0000

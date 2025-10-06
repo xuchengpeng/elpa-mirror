@@ -3,22 +3,22 @@ Fetcher: github
 Source:  https://github.com/zellio/j-mode
 
 Updating /mnt/store/melpa/working/j-mode/
-Checking out 62d373b9d0926f191f42c747a2364cf8dacf0fa1
+Checking out 1365e5a3fe772609685b3787bbd2960331c1a02f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/j-mode/
-  to /tmp/j-mode44kd1Y/j-mode-20240920.1706
+  to /tmp/j-modeiBWpBP/j-mode-20251003.805
     j-console.el -> j-console.el
     j-font-lock.el -> j-font-lock.el
     j-help.el -> j-help.el
     j-mode.el -> j-mode.el
-Created j-mode-20240920.1706.tar containing:
-  j-mode-20240920.1706/
-  j-mode-20240920.1706/j-console.el
-  j-mode-20240920.1706/j-font-lock.el
-  j-mode-20240920.1706/j-help.el
-  j-mode-20240920.1706/j-mode-pkg.el
-  j-mode-20240920.1706/j-mode.el
+Created j-mode-20251003.805.tar containing:
+  j-mode-20251003.805/
+  j-mode-20251003.805/j-console.el
+  j-mode-20251003.805/j-font-lock.el
+  j-mode-20251003.805/j-help.el
+  j-mode-20251003.805/j-mode-pkg.el
+  j-mode-20251003.805/j-mode.el
  ✓ Success:
-  2025-09-28T23:59:03+0000  j-mode-20240920.1706.entry
-  2025-09-28T23:59:03+0000  j-mode-20240920.1706.tar
-Built j-mode in 2.527s, finished at 2025-09-28T23:59:04+0000
+  2025-10-05T23:45:13+0000  j-mode-20251003.805.entry
+  2025-10-05T23:45:13+0000  j-mode-20251003.805.tar
+Built j-mode in 2.787s, finished at 2025-10-05T23:45:14+0000

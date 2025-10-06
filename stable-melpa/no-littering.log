@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/emacscollective/no-littering
 
 Updating /mnt/store/melpa/working/no-littering/
-Checking out 6e641890cd334434d0a0b576401a0f905a5b2f25
+Checking out d476ffe49674f5885b7d7889ed9fbcdf04685773
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/no-littering/
-  to /tmp/no-litteringfSGYIt/no-littering-20250901.1613
+  to /tmp/no-litteringL2MHbj/no-littering-20251005.1557
     no-littering.el -> no-littering.el
-Created no-littering-20250901.1613.tar containing:
-  no-littering-20250901.1613/
-  no-littering-20250901.1613/no-littering-pkg.el
-  no-littering-20250901.1613/no-littering.el
+Created no-littering-20251005.1557.tar containing:
+  no-littering-20251005.1557/
+  no-littering-20251005.1557/no-littering-pkg.el
+  no-littering-20251005.1557/no-littering.el
  ✓ Success:
-  2025-09-29T00:09:07+0000  no-littering-20250901.1613.entry
-  2025-09-29T00:09:07+0000  no-littering-20250901.1613.tar
-Built no-littering in 3.784s, finished at 2025-09-29T00:09:09+0000
+  2025-10-05T23:55:27+0000  no-littering-20251005.1557.entry
+  2025-10-05T23:55:27+0000  no-littering-20251005.1557.tar
+Built no-littering in 2.611s, finished at 2025-10-05T23:55:28+0000

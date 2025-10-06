@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/conllu-mode/
 Checking out 0db3063572b0de08874822e20570bb153747e6ed
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/conllu-mode/
-  to /tmp/conllu-modemVt7yu/conllu-mode-20200501.2328
+  to /tmp/conllu-modejP1eGz/conllu-mode-20200501.2328
     conllu-align.el -> conllu-align.el
     conllu-edit.el -> conllu-edit.el
     conllu-flycheck.el -> conllu-flycheck.el
@@ -14,3 +14,17 @@ Copying files (->) and directories (=>)
     conllu-move.el -> conllu-move.el
     conllu-parse.el -> conllu-parse.el
     conllu-thing.el -> conllu-thing.el
+Created conllu-mode-20200501.2328.tar containing:
+  conllu-mode-20200501.2328/
+  conllu-mode-20200501.2328/conllu-align.el
+  conllu-mode-20200501.2328/conllu-edit.el
+  conllu-mode-20200501.2328/conllu-flycheck.el
+  conllu-mode-20200501.2328/conllu-mode-pkg.el
+  conllu-mode-20200501.2328/conllu-mode.el
+  conllu-mode-20200501.2328/conllu-move.el
+  conllu-mode-20200501.2328/conllu-parse.el
+  conllu-mode-20200501.2328/conllu-thing.el
+ ✓ Success:
+  2025-10-06T01:39:30+0000  conllu-mode-20200501.2328.entry
+  2025-10-06T01:39:30+0000  conllu-mode-20200501.2328.tar
+Built conllu-mode in 3.195s, finished at 2025-10-06T01:39:31+0000

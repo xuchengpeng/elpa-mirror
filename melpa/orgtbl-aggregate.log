@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/orgtbl-aggregate/
 Checking out a856e512e969a0d208b887dfbb3e3cbad28b62c7
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/orgtbl-aggregate/
-  to /tmp/orgtbl-aggregateXSM9eZ/orgtbl-aggregate-20250928.1432
+  to /tmp/orgtbl-aggregatevZVMR8/orgtbl-aggregate-20250928.1432
     orgtbl-aggregate.el -> orgtbl-aggregate.el
     orgtbl-aggregate.info -> orgtbl-aggregate.info
 Created orgtbl-aggregate-20250928.1432.tar containing:
@@ -16,6 +16,6 @@ Created orgtbl-aggregate-20250928.1432.tar containing:
   orgtbl-aggregate-20250928.1432/orgtbl-aggregate.el
   orgtbl-aggregate-20250928.1432/orgtbl-aggregate.info
  ✓ Success:
-  2025-09-29T00:14:34+0000  orgtbl-aggregate-20250928.1432.entry
-  2025-09-29T00:14:34+0000  orgtbl-aggregate-20250928.1432.tar
-Built orgtbl-aggregate in 1.784s, finished at 2025-09-29T00:14:34+0000
+  2025-10-06T00:01:10+0000  orgtbl-aggregate-20250928.1432.entry
+  2025-10-06T00:01:10+0000  orgtbl-aggregate-20250928.1432.tar
+Built orgtbl-aggregate in 5.915s, finished at 2025-10-06T00:01:12+0000

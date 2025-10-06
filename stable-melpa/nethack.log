@@ -3,10 +3,10 @@ Fetcher: github
 Source:  https://github.com/Feyorsh/nethack-el
 
 Updating /mnt/store/melpa/working/nethack/
-Checking out 78d8ed48ab0afeba25a83158d716d7e0176956d4
+Checking out 8c60ea5891b52273309eb7a77c1230a361912ec5
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/nethack/
-  to /tmp/nethackmh1yF2/nethack-20250921.1813
+  to /tmp/nethack6CERSh/nethack-20250929.1522
     nethack-api.el -> nethack-api.el
     nethack-cmd.el -> nethack-cmd.el
     nethack-compat.el -> nethack-compat.el
@@ -15,18 +15,18 @@ Copying files (->) and directories (=>)
     nethack.el -> nethack.el
     enh-367.patch -> enh-367.patch
     enh-370.patch -> enh-370.patch
-Created nethack-20250921.1813.tar containing:
-  nethack-20250921.1813/
-  nethack-20250921.1813/enh-367.patch
-  nethack-20250921.1813/enh-370.patch
-  nethack-20250921.1813/nethack-api.el
-  nethack-20250921.1813/nethack-cmd.el
-  nethack-20250921.1813/nethack-compat.el
-  nethack-20250921.1813/nethack-keys.el
-  nethack-20250921.1813/nethack-options.el
-  nethack-20250921.1813/nethack-pkg.el
-  nethack-20250921.1813/nethack.el
+Created nethack-20250929.1522.tar containing:
+  nethack-20250929.1522/
+  nethack-20250929.1522/enh-367.patch
+  nethack-20250929.1522/enh-370.patch
+  nethack-20250929.1522/nethack-api.el
+  nethack-20250929.1522/nethack-cmd.el
+  nethack-20250929.1522/nethack-compat.el
+  nethack-20250929.1522/nethack-keys.el
+  nethack-20250929.1522/nethack-options.el
+  nethack-20250929.1522/nethack-pkg.el
+  nethack-20250929.1522/nethack.el
  ✓ Success:
-  2025-09-29T00:08:38+0000  nethack-20250921.1813.entry
-  2025-09-29T00:08:38+0000  nethack-20250921.1813.tar
-Built nethack in 2.498s, finished at 2025-09-29T00:08:38+0000
+  2025-10-05T23:54:41+0000  nethack-20250929.1522.entry
+  2025-10-05T23:54:41+0000  nethack-20250929.1522.tar
+Built nethack in 2.832s, finished at 2025-10-05T23:54:42+0000

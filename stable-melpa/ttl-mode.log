@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/ttl-mode/
 Checking out b4084667f92afbfe5916d1307916acbd68c52e5e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ttl-mode/
-  to /tmp/ttl-modeFcZLa3/ttl-mode-20170920.1329
+  to /tmp/ttl-mode3FI7Bl/ttl-mode-20170920.1329
   ! ttl-mode.el.in -> ttl-mode.el
 Created ttl-mode-20170920.1329.tar containing:
   ttl-mode-20170920.1329/
   ttl-mode-20170920.1329/ttl-mode-pkg.el
   ttl-mode-20170920.1329/ttl-mode.el
  ✓ Success:
-  2025-09-29T00:32:05+0000  ttl-mode-20170920.1329.entry
-  2025-09-29T00:32:05+0000  ttl-mode-20170920.1329.tar
-Built ttl-mode in 5.498s, finished at 2025-09-29T00:32:07+0000
+  2025-10-06T00:18:42+0000  ttl-mode-20170920.1329.entry
+  2025-10-06T00:18:42+0000  ttl-mode-20170920.1329.tar
+Built ttl-mode in 2.833s, finished at 2025-10-06T00:18:43+0000

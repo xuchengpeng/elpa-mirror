@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/lesharris/tintin-mode
 
 Updating /mnt/store/melpa/working/tintin-mode/
-Checking out 88ea9a22951a748b99f5dae24e688ac74c8290e6
+Checking out 7820fd9f15bfd0a492b03973621abd81c370babf
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/tintin-mode/
-  to /tmp/tintin-mode3nTh7v/tintin-mode-20250919.2159
+  to /tmp/tintin-modezFpTeJ/tintin-mode-20251001.2003
     tintin-mode.el -> tintin-mode.el
-Created tintin-mode-20250919.2159.tar containing:
-  tintin-mode-20250919.2159/
-  tintin-mode-20250919.2159/tintin-mode-pkg.el
-  tintin-mode-20250919.2159/tintin-mode.el
+Created tintin-mode-20251001.2003.tar containing:
+  tintin-mode-20251001.2003/
+  tintin-mode-20251001.2003/tintin-mode-pkg.el
+  tintin-mode-20251001.2003/tintin-mode.el
  ✓ Success:
-  2025-09-29T00:30:40+0000  tintin-mode-20250919.2159.entry
-  2025-09-29T00:30:40+0000  tintin-mode-20250919.2159.tar
-Built tintin-mode in 2.752s, finished at 2025-09-29T00:30:41+0000
+  2025-10-06T00:17:07+0000  tintin-mode-20251001.2003.entry
+  2025-10-06T00:17:07+0000  tintin-mode-20251001.2003.tar
+Built tintin-mode in 2.502s, finished at 2025-10-06T00:17:07+0000

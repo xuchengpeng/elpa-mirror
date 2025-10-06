@@ -3,20 +3,20 @@ Fetcher: github
 Source:  https://github.com/emacs-php/phpactor.el
 
 Updating /mnt/store/melpa/working/phpactor/
-Checking out 2ce9d1b6a3bd733427f8e820e9faf556d03ffe15
+Checking out 8526ce3b4f49136d2a48e295ee4c72ceefa98f16
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/phpactor/
-  to /tmp/phpactorxoHjas/phpactor-20250918.1242
+  to /tmp/phpactorm9d54t/phpactor-20250930.1244
     phpactor.el -> phpactor.el
     composer.json -> composer.json
     composer.lock -> composer.lock
-Created phpactor-20250918.1242.tar containing:
-  phpactor-20250918.1242/
-  phpactor-20250918.1242/composer.json
-  phpactor-20250918.1242/composer.lock
-  phpactor-20250918.1242/phpactor-pkg.el
-  phpactor-20250918.1242/phpactor.el
+Created phpactor-20250930.1244.tar containing:
+  phpactor-20250930.1244/
+  phpactor-20250930.1244/composer.json
+  phpactor-20250930.1244/composer.lock
+  phpactor-20250930.1244/phpactor-pkg.el
+  phpactor-20250930.1244/phpactor.el
  ✓ Success:
-  2025-09-29T00:17:28+0000  phpactor-20250918.1242.entry
-  2025-09-29T00:17:28+0000  phpactor-20250918.1242.tar
-Built phpactor in 2.900s, finished at 2025-09-29T00:17:29+0000
+  2025-10-06T00:03:53+0000  phpactor-20250930.1244.entry
+  2025-10-06T00:03:53+0000  phpactor-20250930.1244.tar
+Built phpactor in 2.978s, finished at 2025-10-06T00:03:54+0000
