@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/gnuplot/
 Checking out 43e9674b869475b1c2a32f045c167673eb2faae0
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/gnuplot/
-  to /tmp/gnuplotQ5sWvi/gnuplot-20250724.1531
+  to /tmp/gnuplotHc4Egg/gnuplot-20250724.1531
     gnuplot.el -> gnuplot.el
     gnuplot-gui.el -> gnuplot-gui.el
     gnuplot-context.el -> gnuplot-context.el
@@ -23,6 +23,6 @@ Created gnuplot-20250724.1531.tar containing:
   gnuplot-20250724.1531/gnuplot.el
   gnuplot-20250724.1531/gnuplot.info
  ✓ Success:
-  2025-10-05T23:37:21+0000  gnuplot-20250724.1531.entry
-  2025-10-05T23:37:21+0000  gnuplot-20250724.1531.tar
-Built gnuplot in 15.136s, finished at 2025-10-05T23:37:22+0000
+  2025-10-13T00:58:54+0000  gnuplot-20250724.1531.entry
+  2025-10-13T00:58:54+0000  gnuplot-20250724.1531.tar
+Built gnuplot in 14.892s, finished at 2025-10-13T00:58:55+0000

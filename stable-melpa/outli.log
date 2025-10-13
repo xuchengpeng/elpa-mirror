@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/jdtsmith/outli
 
 Updating /mnt/store/melpa/working/outli/
-Checking out 1c2cf24aca7a6c9bc920974bd5cf70badab018de
+Checking out 009e74c1757143040a0427f477ae882107b14592
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/outli/
-  to /tmp/outliArbYLy/outli-20250403.12
+  to /tmp/outliOKxZYj/outli-20251012.1930
     outli.el -> outli.el
-Created outli-20250403.12.tar containing:
-  outli-20250403.12/
-  outli-20250403.12/outli-pkg.el
-  outli-20250403.12/outli.el
+Created outli-20251012.1930.tar containing:
+  outli-20251012.1930/
+  outli-20251012.1930/outli-pkg.el
+  outli-20251012.1930/outli.el
  ✓ Success:
-  2025-10-06T00:01:29+0000  outli-20250403.12.entry
-  2025-10-06T00:01:29+0000  outli-20250403.12.tar
-Built outli in 3.062s, finished at 2025-10-06T00:01:30+0000
+  2025-10-13T01:22:34+0000  outli-20251012.1930.entry
+  2025-10-13T01:22:34+0000  outli-20251012.1930.tar
+Built outli in 2.984s, finished at 2025-10-13T01:22:34+0000

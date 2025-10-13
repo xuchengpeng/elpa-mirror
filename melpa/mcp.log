@@ -3,18 +3,18 @@ Fetcher: github
 Source:  https://github.com/lizqwerscott/mcp.el
 
 Updating /mnt/store/melpa/working/mcp/
-Checking out b9782bb80027c13a84ae3ffff1e363a674ed6cf1
+Checking out 6132ffc05e8ba5ac188b7f6b54a0fd3192f110d1
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mcp/
-  to /tmp/mcpkmNTCm/mcp-20250928.1200
+  to /tmp/mcp7ukX8Y/mcp-20251010.548
     mcp-hub.el -> mcp-hub.el
     mcp.el -> mcp.el
-Created mcp-20250928.1200.tar containing:
-  mcp-20250928.1200/
-  mcp-20250928.1200/mcp-hub.el
-  mcp-20250928.1200/mcp-pkg.el
-  mcp-20250928.1200/mcp.el
+Created mcp-20251010.548.tar containing:
+  mcp-20251010.548/
+  mcp-20251010.548/mcp-hub.el
+  mcp-20251010.548/mcp-pkg.el
+  mcp-20251010.548/mcp.el
  ✓ Success:
-  2025-10-05T23:51:41+0000  mcp-20250928.1200.entry
-  2025-10-05T23:51:41+0000  mcp-20250928.1200.tar
-Built mcp in 2.784s, finished at 2025-10-05T23:51:42+0000
+  2025-10-13T01:13:12+0000  mcp-20251010.548.entry
+  2025-10-13T01:13:12+0000  mcp-20251010.548.tar
+Built mcp in 2.681s, finished at 2025-10-13T01:13:12+0000

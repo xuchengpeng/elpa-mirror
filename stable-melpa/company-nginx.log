@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/company-nginx/
 Checking out 8a9f1a5653fe2d9a5042bfb9377d54f37fcc64c8
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/company-nginx/
-  to /tmp/company-nginxjL8HVK/company-nginx-20220210.1411
+  to /tmp/company-nginxwXvjwx/company-nginx-20220210.1411
     company-nginx.el -> company-nginx.el
 Created company-nginx-20220210.1411.tar containing:
   company-nginx-20220210.1411/
   company-nginx-20220210.1411/company-nginx-pkg.el
   company-nginx-20220210.1411/company-nginx.el
  ✓ Success:
-  2025-10-06T01:38:56+0000  company-nginx-20220210.1411.entry
-  2025-10-06T01:38:56+0000  company-nginx-20220210.1411.tar
-Built company-nginx in 3.005s, finished at 2025-10-06T01:38:57+0000
+  2025-10-13T00:40:37+0000  company-nginx-20220210.1411.entry
+  2025-10-13T00:40:37+0000  company-nginx-20220210.1411.tar
+Built company-nginx in 4.765s, finished at 2025-10-13T00:40:38+0000

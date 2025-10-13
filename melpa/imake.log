@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/tarsius/imake
 
 Updating /mnt/store/melpa/working/imake/
-Checking out 151c0f14dee48f43582a21df3812e2f9a33ff05d
+Checking out c18732820785a987d1968d763244ac1c386a0021
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/imake/
-  to /tmp/imakeVOe6u0/imake-20250531.2218
+  to /tmp/imakevP2Se9/imake-20251012.1157
     imake.el -> imake.el
-Created imake-20250531.2218.tar containing:
-  imake-20250531.2218/
-  imake-20250531.2218/imake-pkg.el
-  imake-20250531.2218/imake.el
+Created imake-20251012.1157.tar containing:
+  imake-20251012.1157/
+  imake-20251012.1157/imake-pkg.el
+  imake-20251012.1157/imake.el
  ✓ Success:
-  2025-10-05T23:43:20+0000  imake-20250531.2218.entry
-  2025-10-05T23:43:20+0000  imake-20250531.2218.tar
-Built imake in 2.875s, finished at 2025-10-05T23:43:21+0000
+  2025-10-13T01:05:06+0000  imake-20251012.1157.entry
+  2025-10-13T01:05:06+0000  imake-20251012.1157.tar
+Built imake in 4.507s, finished at 2025-10-13T01:05:08+0000

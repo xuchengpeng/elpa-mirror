@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/rewriting-pcase/
 Checking out 3a2efb79bfc68629bd20a8bc1770c8f6d24575fa
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/rewriting-pcase/
-  to /tmp/rewriting-pcaseBQL1SZ/rewriting-pcase-20230419.23
+  to /tmp/rewriting-pcaseKIgHtc/rewriting-pcase-20230419.23
     rewriting-pcase.el -> rewriting-pcase.el
 Created rewriting-pcase-20230419.23.tar containing:
   rewriting-pcase-20230419.23/
   rewriting-pcase-20230419.23/rewriting-pcase-pkg.el
   rewriting-pcase-20230419.23/rewriting-pcase.el
  ✓ Success:
-  2025-10-06T00:09:08+0000  rewriting-pcase-20230419.23.entry
-  2025-10-06T00:09:08+0000  rewriting-pcase-20230419.23.tar
-Built rewriting-pcase in 2.671s, finished at 2025-10-06T00:09:09+0000
+  2025-10-13T01:30:07+0000  rewriting-pcase-20230419.23.entry
+  2025-10-13T01:30:07+0000  rewriting-pcase-20230419.23.tar
+Built rewriting-pcase in 2.593s, finished at 2025-10-13T01:30:08+0000

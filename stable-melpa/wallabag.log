@@ -3,10 +3,10 @@ Fetcher: github
 Source:  https://github.com/chenyanming/wallabag.el
 
 Updating /mnt/store/melpa/working/wallabag/
-Checking out 822ecbad68816af264e4be1656fed779d0b0c12f
+Checking out 798379d3a7210cb03abe6e470b59c212bb467632
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/wallabag/
-  to /tmp/wallabagV4abEY/wallabag-20250913.1231
+  to /tmp/wallabagt36Zf6/wallabag-20251007.1036
     wallabag-db.el -> wallabag-db.el
     wallabag-faces.el -> wallabag-faces.el
     wallabag-org.el -> wallabag-org.el
@@ -14,17 +14,17 @@ Copying files (->) and directories (=>)
     wallabag.el -> wallabag.el
     default.css -> default.css
     emojis.alist -> emojis.alist
-Created wallabag-20250913.1231.tar containing:
-  wallabag-20250913.1231/
-  wallabag-20250913.1231/default.css
-  wallabag-20250913.1231/emojis.alist
-  wallabag-20250913.1231/wallabag-db.el
-  wallabag-20250913.1231/wallabag-faces.el
-  wallabag-20250913.1231/wallabag-org.el
-  wallabag-20250913.1231/wallabag-pkg.el
-  wallabag-20250913.1231/wallabag-util.el
-  wallabag-20250913.1231/wallabag.el
+Created wallabag-20251007.1036.tar containing:
+  wallabag-20251007.1036/
+  wallabag-20251007.1036/default.css
+  wallabag-20251007.1036/emojis.alist
+  wallabag-20251007.1036/wallabag-db.el
+  wallabag-20251007.1036/wallabag-faces.el
+  wallabag-20251007.1036/wallabag-org.el
+  wallabag-20251007.1036/wallabag-pkg.el
+  wallabag-20251007.1036/wallabag-util.el
+  wallabag-20251007.1036/wallabag.el
  ✓ Success:
-  2025-10-06T00:21:00+0000  wallabag-20250913.1231.entry
-  2025-10-06T00:21:00+0000  wallabag-20250913.1231.tar
-Built wallabag in 3.507s, finished at 2025-10-06T00:21:01+0000
+  2025-10-13T01:42:08+0000  wallabag-20251007.1036.entry
+  2025-10-13T01:42:07+0000  wallabag-20251007.1036.tar
+Built wallabag in 3.615s, finished at 2025-10-13T01:42:08+0000

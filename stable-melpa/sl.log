@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/sl/
 Checking out 0882117728be91276b815e18c2a66106bf9d69d3
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/sl/
-  to /tmp/sl0uEvOT/sl-20161217.1404
+  to /tmp/slNU39nX/sl-20161217.1404
     sl.el -> sl.el
     D51-trains.txt -> D51-trains.txt
     little-trains.txt -> little-trains.txt
@@ -19,6 +19,6 @@ Created sl-20161217.1404.tar containing:
   sl-20161217.1404/sl.el
   sl-20161217.1404/smokes.txt
  ✓ Success:
-  2025-10-06T00:12:28+0000  sl-20161217.1404.entry
-  2025-10-06T00:12:28+0000  sl-20161217.1404.tar
-Built sl in 4.383s, finished at 2025-10-06T00:12:30+0000
+  2025-10-13T01:33:28+0000  sl-20161217.1404.entry
+  2025-10-13T01:33:28+0000  sl-20161217.1404.tar
+Built sl in 2.913s, finished at 2025-10-13T01:33:29+0000

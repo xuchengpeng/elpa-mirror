@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/define-scratch/
 Checking out 26cf11f801c2b5df0fbd56d2c4f7ac41b3ccd1c6
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/define-scratch/
-  to /tmp/define-scratch2F7Urp/define-scratch-20221220.946
+  to /tmp/define-scratchlsvFgu/define-scratch-20221220.946
     define-scratch.el -> define-scratch.el
 Created define-scratch-20221220.946.tar containing:
   define-scratch-20221220.946/
   define-scratch-20221220.946/define-scratch-pkg.el
   define-scratch-20221220.946/define-scratch.el
  ✓ Success:
-  2025-10-06T01:42:05+0000  define-scratch-20221220.946.entry
-  2025-10-06T01:42:05+0000  define-scratch-20221220.946.tar
-Built define-scratch in 2.664s, finished at 2025-10-06T01:42:06+0000
+  2025-10-13T00:43:56+0000  define-scratch-20221220.946.entry
+  2025-10-13T00:43:56+0000  define-scratch-20221220.946.tar
+Built define-scratch in 2.810s, finished at 2025-10-13T00:43:57+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/arduino-cli-mode/
 Checking out aa93d49dc90c54e61b70f40fe88967fc0ae04927
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/arduino-cli-mode/
-  to /tmp/arduino-cli-modeiunBTM/arduino-cli-mode-20250524.901
+  to /tmp/arduino-cli-modesoFzlV/arduino-cli-mode-20250524.901
     arduino-cli-mode.el -> arduino-cli-mode.el
 Created arduino-cli-mode-20250524.901.tar containing:
   arduino-cli-mode-20250524.901/
   arduino-cli-mode-20250524.901/arduino-cli-mode-pkg.el
   arduino-cli-mode-20250524.901/arduino-cli-mode.el
  ✓ Success:
-  2025-10-06T01:31:52+0000  arduino-cli-mode-20250524.901.entry
-  2025-10-06T01:31:52+0000  arduino-cli-mode-20250524.901.tar
-Built arduino-cli-mode in 5.397s, finished at 2025-10-06T01:31:54+0000
+  2025-10-13T00:33:18+0000  arduino-cli-mode-20250524.901.entry
+  2025-10-13T00:33:18+0000  arduino-cli-mode-20250524.901.tar
+Built arduino-cli-mode in 2.848s, finished at 2025-10-13T00:33:19+0000

@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/arxiv-mode/
 Checking out f629ec64f8bbac0cadb472c6741f8f33d49e9160
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/arxiv-mode/
-  to /tmp/arxiv-modesZ0bJb/arxiv-mode-20240111.2203
+  to /tmp/arxiv-modet2eZGz/arxiv-mode-20240111.2203
     arxiv-mode.el -> arxiv-mode.el
     arxiv-query.el -> arxiv-query.el
     arxiv-vars.el -> arxiv-vars.el
@@ -17,6 +17,6 @@ Created arxiv-mode-20240111.2203.tar containing:
   arxiv-mode-20240111.2203/arxiv-query.el
   arxiv-mode-20240111.2203/arxiv-vars.el
  ✓ Success:
-  2025-10-06T01:32:02+0000  arxiv-mode-20240111.2203.entry
-  2025-10-06T01:32:02+0000  arxiv-mode-20240111.2203.tar
-Built arxiv-mode in 5.339s, finished at 2025-10-06T01:32:04+0000
+  2025-10-13T00:33:25+0000  arxiv-mode-20240111.2203.entry
+  2025-10-13T00:33:24+0000  arxiv-mode-20240111.2203.tar
+Built arxiv-mode in 3.266s, finished at 2025-10-13T00:33:26+0000

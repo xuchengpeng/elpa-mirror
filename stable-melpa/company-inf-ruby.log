@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/company-inf-ruby/
 Checking out 9c2eab3bb82e8838c54013026e6ffb51cccbd37e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/company-inf-ruby/
-  to /tmp/company-inf-rubyNYi6gu/company-inf-ruby-20140805.2054
+  to /tmp/company-inf-ruby5OhhLb/company-inf-ruby-20140805.2054
     company-inf-ruby.el -> company-inf-ruby.el
 Created company-inf-ruby-20140805.2054.tar containing:
   company-inf-ruby-20140805.2054/
   company-inf-ruby-20140805.2054/company-inf-ruby-pkg.el
   company-inf-ruby-20140805.2054/company-inf-ruby.el
  ✓ Success:
-  2025-10-06T01:38:48+0000  company-inf-ruby-20140805.2054.entry
-  2025-10-06T01:38:48+0000  company-inf-ruby-20140805.2054.tar
-Built company-inf-ruby in 2.728s, finished at 2025-10-06T01:38:49+0000
+  2025-10-13T00:40:24+0000  company-inf-ruby-20140805.2054.entry
+  2025-10-13T00:40:23+0000  company-inf-ruby-20140805.2054.tar
+Built company-inf-ruby in 4.101s, finished at 2025-10-13T00:40:25+0000

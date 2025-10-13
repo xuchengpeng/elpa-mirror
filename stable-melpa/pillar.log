@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/pillar/
 Checking out 13a7f676544cc66005ccd8e6fc1c25e4ccd6f909
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/pillar/
-  to /tmp/pillarNv8jZr/pillar-20141112.1811
+  to /tmp/pillard0nXQN/pillar-20141112.1811
     pillar-latex2pillar.el -> pillar-latex2pillar.el
     pillar.el -> pillar.el
 Created pillar-20141112.1811.tar containing:
@@ -15,6 +15,6 @@ Created pillar-20141112.1811.tar containing:
   pillar-20141112.1811/pillar-pkg.el
   pillar-20141112.1811/pillar.el
  ✓ Success:
-  2025-10-06T00:04:00+0000  pillar-20141112.1811.entry
-  2025-10-06T00:04:00+0000  pillar-20141112.1811.tar
-Built pillar in 3.264s, finished at 2025-10-06T00:04:01+0000
+  2025-10-13T01:25:02+0000  pillar-20141112.1811.entry
+  2025-10-13T01:25:02+0000  pillar-20141112.1811.tar
+Built pillar in 3.538s, finished at 2025-10-13T01:25:03+0000

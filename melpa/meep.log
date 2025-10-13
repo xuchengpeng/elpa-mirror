@@ -3,16 +3,16 @@ Fetcher: codeberg
 Source:  https://codeberg.org/ideasman42/emacs-meep
 
 Updating /mnt/store/melpa/working/meep/
-Checking out e08193aacaba738010cbdeeae75d57e0362ed105
+Checking out 69beb22b2c84961ea7a9f96ed12cba6cee4e0c6c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/meep/
-  to /tmp/meepNLBnpP/meep-20250927.923
+  to /tmp/meepaWrUuW/meep-20251011.2352
     meep.el -> meep.el
-Created meep-20250927.923.tar containing:
-  meep-20250927.923/
-  meep-20250927.923/meep-pkg.el
-  meep-20250927.923/meep.el
+Created meep-20251011.2352.tar containing:
+  meep-20251011.2352/
+  meep-20251011.2352/meep-pkg.el
+  meep-20251011.2352/meep.el
  ✓ Success:
-  2025-10-05T23:51:50+0000  meep-20250927.923.entry
-  2025-10-05T23:51:50+0000  meep-20250927.923.tar
-Built meep in 3.822s, finished at 2025-10-05T23:51:50+0000
+  2025-10-13T01:13:19+0000  meep-20251011.2352.entry
+  2025-10-13T01:13:19+0000  meep-20251011.2352.tar
+Built meep in 3.732s, finished at 2025-10-13T01:13:20+0000
