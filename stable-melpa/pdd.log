@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/pdd/
 Checking out 533e8fde36cb9fae1fae3bf44eb6dbf39ec10f53
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/pdd/
-  to /tmp/pddkhRLg5/pdd-20250809.509
+  to /tmp/pddEx8u8S/pdd-20250809.509
     pdd.el -> pdd.el
 Created pdd-20250809.509.tar containing:
   pdd-20250809.509/
   pdd-20250809.509/pdd-pkg.el
   pdd-20250809.509/pdd.el
  ✓ Success:
-  2025-10-13T01:24:13+0000  pdd-20250809.509.entry
-  2025-10-13T01:24:13+0000  pdd-20250809.509.tar
-Built pdd in 3.289s, finished at 2025-10-13T01:24:14+0000
+  2025-10-20T00:26:00+0000  pdd-20250809.509.entry
+  2025-10-20T00:26:00+0000  pdd-20250809.509.tar
+Built pdd in 3.377s, finished at 2025-10-20T00:26:01+0000

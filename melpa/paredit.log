@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/paredit/
 Checking out 89e75b4cb21f525a6f4cabcd12f1bd4204e682ab
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/paredit/
-  to /tmp/pareditiJ2hYf/paredit-20241103.2046
+  to /tmp/pareditTbbFMY/paredit-20241103.2046
     paredit.el -> paredit.el
 Created paredit-20241103.2046.tar containing:
   paredit-20241103.2046/
   paredit-20241103.2046/paredit-pkg.el
   paredit-20241103.2046/paredit.el
  ✓ Success:
-  2025-10-13T01:23:41+0000  paredit-20241103.2046.entry
-  2025-10-13T01:23:41+0000  paredit-20241103.2046.tar
-Built paredit in 2.994s, finished at 2025-10-13T01:23:42+0000
+  2025-10-20T00:25:28+0000  paredit-20241103.2046.entry
+  2025-10-20T00:25:28+0000  paredit-20241103.2046.tar
+Built paredit in 3.019s, finished at 2025-10-20T00:25:28+0000

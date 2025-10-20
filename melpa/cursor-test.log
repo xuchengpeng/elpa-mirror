@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/cursor-test/
 Checking out e09956e048b88fd2ee8dd90b5678baed8b04d31b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/cursor-test/
-  to /tmp/cursor-testxzooaE/cursor-test-20131207.1732
+  to /tmp/cursor-test9L1KXK/cursor-test-20131207.1732
     cursor-test.el -> cursor-test.el
 Created cursor-test-20131207.1732.tar containing:
   cursor-test-20131207.1732/
   cursor-test-20131207.1732/cursor-test-pkg.el
   cursor-test-20131207.1732/cursor-test.el
  ✓ Success:
-  2025-10-13T00:42:59+0000  cursor-test-20131207.1732.entry
-  2025-10-13T00:42:59+0000  cursor-test-20131207.1732.tar
-Built cursor-test in 2.831s, finished at 2025-10-13T00:43:00+0000
+  2025-10-19T23:42:51+0000  cursor-test-20131207.1732.entry
+  2025-10-19T23:42:51+0000  cursor-test-20131207.1732.tar
+Built cursor-test in 2.794s, finished at 2025-10-19T23:42:51+0000

@@ -3,20 +3,20 @@ Fetcher: github
 Source:  https://github.com/victorhge/iedit
 
 Updating /mnt/store/melpa/working/iedit/
-Checking out dd5d75b38ee0c52ad81245a8e5c932d3f5c4772d
+Checking out 7e513d573c6a5dd2a01aeeb1d8587d74630a2f80
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/iedit/
-  to /tmp/ieditxyURWi/iedit-20220216.717
+  to /tmp/ieditg3ST39/iedit-20251017.410
     iedit-lib.el -> iedit-lib.el
     iedit-rect.el -> iedit-rect.el
     iedit.el -> iedit.el
-Created iedit-20220216.717.tar containing:
-  iedit-20220216.717/
-  iedit-20220216.717/iedit-lib.el
-  iedit-20220216.717/iedit-pkg.el
-  iedit-20220216.717/iedit-rect.el
-  iedit-20220216.717/iedit.el
+Created iedit-20251017.410.tar containing:
+  iedit-20251017.410/
+  iedit-20251017.410/iedit-lib.el
+  iedit-20251017.410/iedit-pkg.el
+  iedit-20251017.410/iedit-rect.el
+  iedit-20251017.410/iedit.el
  ✓ Success:
-  2025-10-13T01:04:56+0000  iedit-20220216.717.entry
-  2025-10-13T01:04:56+0000  iedit-20220216.717.tar
-Built iedit in 4.537s, finished at 2025-10-13T01:04:57+0000
+  2025-10-20T00:05:40+0000  iedit-20251017.410.entry
+  2025-10-20T00:05:40+0000  iedit-20251017.410.tar
+Built iedit in 3.403s, finished at 2025-10-20T00:05:41+0000

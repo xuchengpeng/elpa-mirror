@@ -3,10 +3,10 @@ Fetcher: github
 Source:  https://github.com/ahyatt/ekg
 
 Updating /mnt/store/melpa/working/ekg/
-Checking out 19fb53f3463e9c395097a0fce861ae2b3ca04749
+Checking out 088284818903eaec3815627041f7ec2140be65f7
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ekg/
-  to /tmp/ekgm3Pmqw/ekg-20251013.39
+  to /tmp/ekgRU1SNs/ekg-20251018.2337
     ekg-auto-save.el -> ekg-auto-save.el
     ekg-denote.el -> ekg-denote.el
     ekg-embedding.el -> ekg-embedding.el
@@ -19,23 +19,21 @@ Copying files (->) and directories (=>)
   ! doc/ekg.texi -> ekg.texi
 Generating doclicense.info
 Generating ekg.info
-Created ekg-20251013.39.tar containing:
-  ekg-20251013.39/
-  ekg-20251013.39/dir
-  ekg-20251013.39/doclicense.info
-  ekg-20251013.39/ekg-auto-save.el
-  ekg-20251013.39/ekg-denote.el
-  ekg-20251013.39/ekg-embedding.el
-  ekg-20251013.39/ekg-llm.el
-  ekg-20251013.39/ekg-logseq.el
-  ekg-20251013.39/ekg-org-roam.el
-  ekg-20251013.39/ekg-pkg.el
-  ekg-20251013.39/ekg-test-utils.el
-  ekg-20251013.39/ekg.el
-  ekg-20251013.39/ekg.info
+Created ekg-20251018.2337.tar containing:
+  ekg-20251018.2337/
+  ekg-20251018.2337/dir
+  ekg-20251018.2337/doclicense.info
+  ekg-20251018.2337/ekg-auto-save.el
+  ekg-20251018.2337/ekg-denote.el
+  ekg-20251018.2337/ekg-embedding.el
+  ekg-20251018.2337/ekg-llm.el
+  ekg-20251018.2337/ekg-logseq.el
+  ekg-20251018.2337/ekg-org-roam.el
+  ekg-20251018.2337/ekg-pkg.el
+  ekg-20251018.2337/ekg-test-utils.el
+  ekg-20251018.2337/ekg.el
+  ekg-20251018.2337/ekg.info
  ✓ Success:
-  2025-10-12T22:28:38+0000  ekg-20251006.437.entry
-  2025-10-12T22:28:38+0000  ekg-20251006.437.tar
-  2025-10-13T00:47:51+0000  ekg-20251013.39.entry
-  2025-10-13T00:47:51+0000  ekg-20251013.39.tar
-Built ekg in 6.239s, finished at 2025-10-13T00:47:52+0000
+  2025-10-19T23:47:52+0000  ekg-20251018.2337.entry
+  2025-10-19T23:47:52+0000  ekg-20251018.2337.tar
+Built ekg in 6.237s, finished at 2025-10-19T23:47:53+0000

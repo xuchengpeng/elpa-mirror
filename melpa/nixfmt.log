@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/nixfmt/
 Checking out 9c8a1c12320247a3fe643191b7574a3674fba317
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/nixfmt/
-  to /tmp/nixfmtqdSk3G/nixfmt-20240724.1531
+  to /tmp/nixfmt7W2Hir/nixfmt-20240724.1531
     nixfmt.el -> nixfmt.el
 Created nixfmt-20240724.1531.tar containing:
   nixfmt-20240724.1531/
   nixfmt-20240724.1531/nixfmt-pkg.el
   nixfmt-20240724.1531/nixfmt.el
  ✓ Success:
-  2025-10-13T01:16:48+0000  nixfmt-20240724.1531.entry
-  2025-10-13T01:16:48+0000  nixfmt-20240724.1531.tar
-Built nixfmt in 2.834s, finished at 2025-10-13T01:16:49+0000
+  2025-10-20T00:18:08+0000  nixfmt-20240724.1531.entry
+  2025-10-20T00:18:08+0000  nixfmt-20240724.1531.tar
+Built nixfmt in 4.502s, finished at 2025-10-20T00:18:09+0000
