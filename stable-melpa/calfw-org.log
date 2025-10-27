@@ -3,16 +3,18 @@ Fetcher: github
 Source:  https://github.com/kiwanami/emacs-calfw
 
 Updating /mnt/store/melpa/working/calfw-org/
-Checking out 98279aa29c159159da75c0a990778d848278c482
+Checking out f6cd4f253655607e6291ba4403978e27704aaf18
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/calfw-org/
-  to /tmp/calfw-orgxCMXG9/calfw-org-20251018.1103
+  to /tmp/calfw-orgLnJnLX/calfw-org-20251026.2119
     calfw-org.el -> calfw-org.el
-Created calfw-org-20251018.1103.tar containing:
-  calfw-org-20251018.1103/
-  calfw-org-20251018.1103/calfw-org-pkg.el
-  calfw-org-20251018.1103/calfw-org.el
+    calfw-compat.el -> calfw-compat.el
+Created calfw-org-20251026.2119.tar containing:
+  calfw-org-20251026.2119/
+  calfw-org-20251026.2119/calfw-compat.el
+  calfw-org-20251026.2119/calfw-org-pkg.el
+  calfw-org-20251026.2119/calfw-org.el
  ✓ Success:
-  2025-10-20T01:59:44+0000  calfw-org-20251018.1103.entry
-  2025-10-20T01:59:44+0000  calfw-org-20251018.1103.tar
-Built calfw-org in 2.992s, finished at 2025-10-20T01:59:45+0000
+  2025-10-26T23:55:33+0000  calfw-org-20251026.2119.entry
+  2025-10-26T23:55:33+0000  calfw-org-20251026.2119.tar
+Built calfw-org in 2.924s, finished at 2025-10-26T23:55:34+0000

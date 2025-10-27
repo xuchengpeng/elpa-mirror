@@ -3,19 +3,19 @@ Fetcher: github
 Source:  https://github.com/tbanel/orgaggregate
 
 Updating /mnt/store/melpa/working/orgtbl-aggregate/
-Checking out 0174d4bc65fc8cb8895a65fa5640aada3dda442c
+Checking out 0aa5ae02aab83dda1d0370af570c10377bd4ea54
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/orgtbl-aggregate/
-  to /tmp/orgtbl-aggregate6APBbq/orgtbl-aggregate-20251018.917
+  to /tmp/orgtbl-aggregatefJffJE/orgtbl-aggregate-20251026.1338
     orgtbl-aggregate.el -> orgtbl-aggregate.el
     orgtbl-aggregate.info -> orgtbl-aggregate.info
-Created orgtbl-aggregate-20251018.917.tar containing:
-  orgtbl-aggregate-20251018.917/
-  orgtbl-aggregate-20251018.917/dir
-  orgtbl-aggregate-20251018.917/orgtbl-aggregate-pkg.el
-  orgtbl-aggregate-20251018.917/orgtbl-aggregate.el
-  orgtbl-aggregate-20251018.917/orgtbl-aggregate.info
+Created orgtbl-aggregate-20251026.1338.tar containing:
+  orgtbl-aggregate-20251026.1338/
+  orgtbl-aggregate-20251026.1338/dir
+  orgtbl-aggregate-20251026.1338/orgtbl-aggregate-pkg.el
+  orgtbl-aggregate-20251026.1338/orgtbl-aggregate.el
+  orgtbl-aggregate-20251026.1338/orgtbl-aggregate.info
  ✓ Success:
-  2025-10-20T00:24:03+0000  orgtbl-aggregate-20251018.917.entry
-  2025-10-20T00:24:03+0000  orgtbl-aggregate-20251018.917.tar
-Built orgtbl-aggregate in 5.621s, finished at 2025-10-20T00:24:04+0000
+  2025-10-27T00:41:35+0000  orgtbl-aggregate-20251026.1338.entry
+  2025-10-27T00:41:35+0000  orgtbl-aggregate-20251026.1338.tar
+Built orgtbl-aggregate in 3.477s, finished at 2025-10-27T00:41:36+0000

@@ -3,18 +3,18 @@ Fetcher: sourcehut
 Source:  https://git.sr.ht/~swflint/emacs-universal-sidecar
 
 Updating /mnt/store/melpa/working/universal-sidecar/
-Checking out c7dcbfe357b7b32f15f3a34db29adb49044d4942
+Checking out 535cd1cd1c42bd8d375506e46c50fd976cc7ea0e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/universal-sidecar/
-  to /tmp/universal-sidecary5jw7g/universal-sidecar-20250731.200
+  to /tmp/universal-sidecarZfM0VY/universal-sidecar-20251021.212
     universal-sidecar.el -> universal-sidecar.el
     universal-sidecar-sections.el -> universal-sidecar-sections.el
-Created universal-sidecar-20250731.200.tar containing:
-  universal-sidecar-20250731.200/
-  universal-sidecar-20250731.200/universal-sidecar-pkg.el
-  universal-sidecar-20250731.200/universal-sidecar-sections.el
-  universal-sidecar-20250731.200/universal-sidecar.el
+Created universal-sidecar-20251021.212.tar containing:
+  universal-sidecar-20251021.212/
+  universal-sidecar-20251021.212/universal-sidecar-pkg.el
+  universal-sidecar-20251021.212/universal-sidecar-sections.el
+  universal-sidecar-20251021.212/universal-sidecar.el
  ✓ Success:
-  2025-10-20T00:42:31+0000  universal-sidecar-20250731.200.entry
-  2025-10-20T00:42:31+0000  universal-sidecar-20250731.200.tar
-Built universal-sidecar in 3.933s, finished at 2025-10-20T00:42:32+0000
+  2025-10-27T01:00:22+0000  universal-sidecar-20251021.212.entry
+  2025-10-27T01:00:21+0000  universal-sidecar-20251021.212.tar
+Built universal-sidecar in 4.139s, finished at 2025-10-27T01:00:23+0000

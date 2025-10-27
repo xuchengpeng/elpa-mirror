@@ -3,22 +3,22 @@ Fetcher: github
 Source:  https://github.com/deirn/mason.el
 
 Updating /mnt/store/melpa/working/mason/
-Checking out bfd145b924a10921200e75ca7b24a8251b694dc1
+Checking out f13e555c8074aeebf1500896c98b00007f1a16d0
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mason/
-  to /tmp/masonMOxRRF/mason-20251019.852
+  to /tmp/masonwXNRPF/mason-20251024.1621
     mason-basic.el -> mason-basic.el
     mason-info.el -> mason-info.el
     mason-manager.el -> mason-manager.el
     mason.el -> mason.el
-Created mason-20251019.852.tar containing:
-  mason-20251019.852/
-  mason-20251019.852/mason-basic.el
-  mason-20251019.852/mason-info.el
-  mason-20251019.852/mason-manager.el
-  mason-20251019.852/mason-pkg.el
-  mason-20251019.852/mason.el
+Created mason-20251024.1621.tar containing:
+  mason-20251024.1621/
+  mason-20251024.1621/mason-basic.el
+  mason-20251024.1621/mason-info.el
+  mason-20251024.1621/mason-manager.el
+  mason-20251024.1621/mason-pkg.el
+  mason-20251024.1621/mason.el
  ✓ Success:
-  2025-10-20T00:14:15+0000  mason-20251019.852.entry
-  2025-10-20T00:14:15+0000  mason-20251019.852.tar
-Built mason in 2.977s, finished at 2025-10-20T00:14:15+0000
+  2025-10-27T00:32:07+0000  mason-20251024.1621.entry
+  2025-10-27T00:32:06+0000  mason-20251024.1621.tar
+Built mason in 3.000s, finished at 2025-10-27T00:32:07+0000
