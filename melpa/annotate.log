@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/bastibe/annotate.el
 
 Updating /mnt/store/melpa/working/annotate/
-Checking out dc6e884265c9de5b0e486b9f6bd9509a14b85c94
+Checking out 5dbf119fd6154625d1545717e1686a4dac433312
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/annotate/
-  to /tmp/annotate7YAvOG/annotate-20250515.1428
+  to /tmp/annotateX8oKwN/annotate-20251102.1125
     annotate.el -> annotate.el
-Created annotate-20250515.1428.tar containing:
-  annotate-20250515.1428/
-  annotate-20250515.1428/annotate-pkg.el
-  annotate-20250515.1428/annotate.el
+Created annotate-20251102.1125.tar containing:
+  annotate-20251102.1125/
+  annotate-20251102.1125/annotate-pkg.el
+  annotate-20251102.1125/annotate.el
  ✓ Success:
-  2025-10-26T23:51:33+0000  annotate-20250515.1428.entry
-  2025-10-26T23:51:32+0000  annotate-20250515.1428.tar
-Built annotate in 4.802s, finished at 2025-10-26T23:51:33+0000
+  2025-11-03T00:36:01+0000  annotate-20251102.1125.entry
+  2025-11-03T00:36:01+0000  annotate-20251102.1125.tar
+Built annotate in 3.762s, finished at 2025-11-03T00:36:02+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/tmux-pane/
 Checking out 0ab0d40b497e984a589189358e04e322b8165985
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/tmux-pane/
-  to /tmp/tmux-pane2FCi72/tmux-pane-20240106.131
+  to /tmp/tmux-paneEwa7Qn/tmux-pane-20240106.131
     tmux-pane.el -> tmux-pane.el
 Created tmux-pane-20240106.131.tar containing:
   tmux-pane-20240106.131/
   tmux-pane-20240106.131/tmux-pane-pkg.el
   tmux-pane-20240106.131/tmux-pane.el
  ✓ Success:
-  2025-10-27T00:58:09+0000  tmux-pane-20240106.131.entry
-  2025-10-27T00:58:09+0000  tmux-pane-20240106.131.tar
-Built tmux-pane in 2.683s, finished at 2025-10-27T00:58:10+0000
+  2025-11-03T01:42:56+0000  tmux-pane-20240106.131.entry
+  2025-11-03T01:42:55+0000  tmux-pane-20240106.131.tar
+Built tmux-pane in 4.108s, finished at 2025-11-03T01:42:57+0000

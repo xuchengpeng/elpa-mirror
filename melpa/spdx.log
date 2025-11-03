@@ -3,18 +3,18 @@ Fetcher: github
 Source:  https://github.com/condy0919/spdx.el
 
 Updating /mnt/store/melpa/working/spdx/
-Checking out 9a9b9f78e23d82f638a54f84dd702f7f9b351262
+Checking out 53d20620d7f7f4241b8935f36072ebb410a7698a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/spdx/
-  to /tmp/spdxxfM7t4/spdx-20251026.1107
+  to /tmp/spdxBqhpXE/spdx-20251029.101
     spdx-data.el -> spdx-data.el
     spdx.el -> spdx.el
-Created spdx-20251026.1107.tar containing:
-  spdx-20251026.1107/
-  spdx-20251026.1107/spdx-data.el
-  spdx-20251026.1107/spdx-pkg.el
-  spdx-20251026.1107/spdx.el
+Created spdx-20251029.101.tar containing:
+  spdx-20251029.101/
+  spdx-20251029.101/spdx-data.el
+  spdx-20251029.101/spdx-pkg.el
+  spdx-20251029.101/spdx.el
  ✓ Success:
-  2025-10-27T00:54:46+0000  spdx-20251026.1107.entry
-  2025-10-27T00:54:46+0000  spdx-20251026.1107.tar
-Built spdx in 2.375s, finished at 2025-10-27T00:54:46+0000
+  2025-11-03T01:39:22+0000  spdx-20251029.101.entry
+  2025-11-03T01:39:22+0000  spdx-20251029.101.tar
+Built spdx in 2.863s, finished at 2025-11-03T01:39:23+0000

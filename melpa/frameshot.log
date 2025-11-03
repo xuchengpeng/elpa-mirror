@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/tarsius/frameshot
 
 Updating /mnt/store/melpa/working/frameshot/
-Checking out f65d85397d6a87c4d5ef42a4c6c78cbfafe9d12d
+Checking out 89ca25879b4c55da049f771870926a27bbfb1066
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/frameshot/
-  to /tmp/frameshotSucsK0/frameshot-20250901.1607
+  to /tmp/frameshotrKUEzh/frameshot-20251101.2212
     frameshot.el -> frameshot.el
-Created frameshot-20250901.1607.tar containing:
-  frameshot-20250901.1607/
-  frameshot-20250901.1607/frameshot-pkg.el
-  frameshot-20250901.1607/frameshot.el
+Created frameshot-20251101.2212.tar containing:
+  frameshot-20251101.2212/
+  frameshot-20251101.2212/frameshot-pkg.el
+  frameshot-20251101.2212/frameshot.el
  ✓ Success:
-  2025-10-27T00:15:45+0000  frameshot-20250901.1607.entry
-  2025-10-27T00:15:45+0000  frameshot-20250901.1607.tar
-Built frameshot in 2.757s, finished at 2025-10-27T00:15:46+0000
+  2025-11-03T00:59:55+0000  frameshot-20251101.2212.entry
+  2025-11-03T00:59:55+0000  frameshot-20251101.2212.tar
+Built frameshot in 2.705s, finished at 2025-11-03T00:59:56+0000

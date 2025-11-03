@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/eri/
 Checking out ad8ea74ccefd3507006a7ea9a7d9ff5b7a973603
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/eri/
-  to /tmp/erixQa0BA/eri-20250328.1043
+  to /tmp/eriTe00kF/eri-20250328.1043
   ! src/data/emacs-mode/eri.el -> eri.el
 Created eri-20250328.1043.tar containing:
   eri-20250328.1043/
   eri-20250328.1043/eri-pkg.el
   eri-20250328.1043/eri.el
  ✓ Success:
-  2025-10-27T00:09:20+0000  eri-20250328.1043.entry
-  2025-10-27T00:09:20+0000  eri-20250328.1043.tar
-Built eri in 6.367s, finished at 2025-10-27T00:09:21+0000
+  2025-11-03T00:53:35+0000  eri-20250328.1043.entry
+  2025-11-03T00:53:35+0000  eri-20250328.1043.tar
+Built eri in 5.631s, finished at 2025-11-03T00:53:36+0000

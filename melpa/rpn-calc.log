@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/rpn-calc/
 Checking out 320123ede874a8fc6cde542baa0d106950318071
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/rpn-calc/
-  to /tmp/rpn-calcI6iZ4e/rpn-calc-20210306.426
+  to /tmp/rpn-calcTeZN2Q/rpn-calc-20210306.426
     rpn-calc.el -> rpn-calc.el
 Created rpn-calc-20210306.426.tar containing:
   rpn-calc-20210306.426/
   rpn-calc-20210306.426/rpn-calc-pkg.el
   rpn-calc-20210306.426/rpn-calc.el
  ✓ Success:
-  2025-10-27T00:50:25+0000  rpn-calc-20210306.426.entry
-  2025-10-27T00:50:25+0000  rpn-calc-20210306.426.tar
-Built rpn-calc in 2.889s, finished at 2025-10-27T00:50:26+0000
+  2025-11-03T01:34:52+0000  rpn-calc-20210306.426.entry
+  2025-11-03T01:34:52+0000  rpn-calc-20210306.426.tar
+Built rpn-calc in 2.821s, finished at 2025-11-03T01:34:53+0000

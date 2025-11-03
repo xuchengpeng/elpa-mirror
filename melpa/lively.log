@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/lively/
 Checking out 348675828c6a81bfa1ac311ca465aad813542c1b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/lively/
-  to /tmp/livelywViYqs/lively-20171005.754
+  to /tmp/livelypb5Z2V/lively-20171005.754
     lively.el -> lively.el
 Created lively-20171005.754.tar containing:
   lively-20171005.754/
   lively-20171005.754/lively-pkg.el
   lively-20171005.754/lively.el
  ✓ Success:
-  2025-10-27T00:29:43+0000  lively-20171005.754.entry
-  2025-10-27T00:29:43+0000  lively-20171005.754.tar
-Built lively in 2.899s, finished at 2025-10-27T00:29:44+0000
+  2025-11-03T01:14:23+0000  lively-20171005.754.entry
+  2025-11-03T01:14:23+0000  lively-20171005.754.tar
+Built lively in 4.549s, finished at 2025-11-03T01:14:25+0000

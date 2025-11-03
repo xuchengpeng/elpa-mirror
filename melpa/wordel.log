@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/wordel/
 Checking out e1686812cc72467df2845407b1ffd6cf55e49743
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/wordel/
-  to /tmp/wordelXDhGeJ/wordel-20250803.2033
+  to /tmp/wordel8EfA8z/wordel-20250803.2033
     wordel.el -> wordel.el
     words => words
 Created wordel-20250803.2033.tar containing:
@@ -17,6 +17,6 @@ Created wordel-20250803.2033.tar containing:
   wordel-20250803.2033/words/scrabble
   wordel-20250803.2033/words/wordle
  ✓ Success:
-  2025-10-27T01:03:10+0000  wordel-20250803.2033.entry
-  2025-10-27T01:03:10+0000  wordel-20250803.2033.tar
-Built wordel in 3.240s, finished at 2025-10-27T01:03:11+0000
+  2025-11-03T01:47:35+0000  wordel-20250803.2033.entry
+  2025-11-03T01:47:35+0000  wordel-20250803.2033.tar
+Built wordel in 3.005s, finished at 2025-11-03T01:47:36+0000

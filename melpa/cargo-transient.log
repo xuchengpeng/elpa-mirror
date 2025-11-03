@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/cargo-transient/
 Checking out b75511f911189b6b6c47976dd970eeb80ccfb3ee
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/cargo-transient/
-  to /tmp/cargo-transientOT6nJL/cargo-transient-20241204.1217
+  to /tmp/cargo-transienteA4eLY/cargo-transient-20241204.1217
     cargo-transient.el -> cargo-transient.el
 Created cargo-transient-20241204.1217.tar containing:
   cargo-transient-20241204.1217/
   cargo-transient-20241204.1217/cargo-transient-pkg.el
   cargo-transient-20241204.1217/cargo-transient.el
  ✓ Success:
-  2025-10-26T23:55:44+0000  cargo-transient-20241204.1217.entry
-  2025-10-26T23:55:44+0000  cargo-transient-20241204.1217.tar
-Built cargo-transient in 2.831s, finished at 2025-10-26T23:55:44+0000
+  2025-11-03T00:40:31+0000  cargo-transient-20241204.1217.entry
+  2025-11-03T00:40:31+0000  cargo-transient-20241204.1217.tar
+Built cargo-transient in 2.979s, finished at 2025-11-03T00:40:32+0000

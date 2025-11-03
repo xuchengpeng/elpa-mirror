@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/sway/
 Checking out 84eae5e16a643eb00b0a422ded751cceb17cc8f0
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/sway/
-  to /tmp/swayWS5Tbx/sway-20231219.1842
+  to /tmp/swayJPX8LS/sway-20231219.1842
     sway.el -> sway.el
 Created sway-20231219.1842.tar containing:
   sway-20231219.1842/
   sway-20231219.1842/sway-pkg.el
   sway-20231219.1842/sway.el
  ✓ Success:
-  2025-10-27T00:56:09+0000  sway-20231219.1842.entry
-  2025-10-27T00:56:09+0000  sway-20231219.1842.tar
-Built sway in 3.390s, finished at 2025-10-27T00:56:10+0000
+  2025-11-03T01:40:43+0000  sway-20231219.1842.entry
+  2025-11-03T01:40:43+0000  sway-20231219.1842.tar
+Built sway in 3.189s, finished at 2025-11-03T01:40:44+0000

@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/TomoeMami/org-repeat-by-cron.el
 
 Updating /mnt/store/melpa/working/org-repeat-by-cron/
-Checking out 1bd31d7aa0b372703db0b32c7e4c9fd99b54dc34
+Checking out 36a5ea61ac6bc97aa83d766440fb87540899864c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/org-repeat-by-cron/
-  to /tmp/org-repeat-by-cronztRUw9/org-repeat-by-cron-20250922.610
+  to /tmp/org-repeat-by-crongMlL1J/org-repeat-by-cron-20251028.807
     org-repeat-by-cron.el -> org-repeat-by-cron.el
-Created org-repeat-by-cron-20250922.610.tar containing:
-  org-repeat-by-cron-20250922.610/
-  org-repeat-by-cron-20250922.610/org-repeat-by-cron-pkg.el
-  org-repeat-by-cron-20250922.610/org-repeat-by-cron.el
+Created org-repeat-by-cron-20251028.807.tar containing:
+  org-repeat-by-cron-20251028.807/
+  org-repeat-by-cron-20251028.807/org-repeat-by-cron-pkg.el
+  org-repeat-by-cron-20251028.807/org-repeat-by-cron.el
  ✓ Success:
-  2025-10-27T00:40:31+0000  org-repeat-by-cron-20250922.610.entry
-  2025-10-27T00:40:31+0000  org-repeat-by-cron-20250922.610.tar
-Built org-repeat-by-cron in 3.199s, finished at 2025-10-27T00:40:32+0000
+  2025-11-03T01:24:59+0000  org-repeat-by-cron-20251028.807.entry
+  2025-11-03T01:24:59+0000  org-repeat-by-cron-20251028.807.tar
+Built org-repeat-by-cron in 2.906s, finished at 2025-11-03T01:25:00+0000

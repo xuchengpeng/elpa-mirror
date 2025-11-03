@@ -3,23 +3,23 @@ Fetcher: git
 Source:  https://git.thanosapollo.org/gnosis
 
 Updating /mnt/store/melpa/working/gnosis/
-Checking out bb0edd089351b646ad5746199678cc2626a8b539
+Checking out 8d51c16ced713d146d279500c57fc220000cbf3e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/gnosis/
-  to /tmp/gnosis7sCAd0/gnosis-20251025.1954
+  to /tmp/gnosisfX4rGG/gnosis-20251102.1430
     gnosis-algorithm.el -> gnosis-algorithm.el
     gnosis.el -> gnosis.el
   ! doc/gnosis.info -> gnosis.info
   ! doc/gnosis.texi -> gnosis.texi
 Generating gnosis.info
-Created gnosis-20251025.1954.tar containing:
-  gnosis-20251025.1954/
-  gnosis-20251025.1954/dir
-  gnosis-20251025.1954/gnosis-algorithm.el
-  gnosis-20251025.1954/gnosis-pkg.el
-  gnosis-20251025.1954/gnosis.el
-  gnosis-20251025.1954/gnosis.info
+Created gnosis-20251102.1430.tar containing:
+  gnosis-20251102.1430/
+  gnosis-20251102.1430/dir
+  gnosis-20251102.1430/gnosis-algorithm.el
+  gnosis-20251102.1430/gnosis-pkg.el
+  gnosis-20251102.1430/gnosis.el
+  gnosis-20251102.1430/gnosis.info
  ✓ Success:
-  2025-10-27T00:17:44+0000  gnosis-20251025.1954.entry
-  2025-10-27T00:17:44+0000  gnosis-20251025.1954.tar
-Built gnosis in 4.888s, finished at 2025-10-27T00:17:44+0000
+  2025-11-03T01:01:55+0000  gnosis-20251102.1430.entry
+  2025-11-03T01:01:55+0000  gnosis-20251102.1430.tar
+Built gnosis in 5.972s, finished at 2025-11-03T01:01:56+0000

@@ -3,10 +3,10 @@ Fetcher: github
 Source:  https://github.com/dgutov/diff-hl
 
 Updating /mnt/store/melpa/working/diff-hl/
-Checking out b2a57ac4fe7ab43d277d852a4f02122c81995eed
+Checking out 6585e93849ede64e1a7b7b9766369040138979f2
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/diff-hl/
-  to /tmp/diff-hl6TUyNh/diff-hl-20251024.2243
+  to /tmp/diff-hlUj9iJh/diff-hl-20251101.2236
     diff-hl-amend.el -> diff-hl-amend.el
     diff-hl-dired.el -> diff-hl-dired.el
     diff-hl-flydiff.el -> diff-hl-flydiff.el
@@ -15,18 +15,18 @@ Copying files (->) and directories (=>)
     diff-hl-show-hunk-posframe.el -> diff-hl-show-hunk-posframe.el
     diff-hl-show-hunk.el -> diff-hl-show-hunk.el
     diff-hl.el -> diff-hl.el
-Created diff-hl-20251024.2243.tar containing:
-  diff-hl-20251024.2243/
-  diff-hl-20251024.2243/diff-hl-amend.el
-  diff-hl-20251024.2243/diff-hl-dired.el
-  diff-hl-20251024.2243/diff-hl-flydiff.el
-  diff-hl-20251024.2243/diff-hl-inline-popup.el
-  diff-hl-20251024.2243/diff-hl-margin.el
-  diff-hl-20251024.2243/diff-hl-pkg.el
-  diff-hl-20251024.2243/diff-hl-show-hunk-posframe.el
-  diff-hl-20251024.2243/diff-hl-show-hunk.el
-  diff-hl-20251024.2243/diff-hl.el
+Created diff-hl-20251101.2236.tar containing:
+  diff-hl-20251101.2236/
+  diff-hl-20251101.2236/diff-hl-amend.el
+  diff-hl-20251101.2236/diff-hl-dired.el
+  diff-hl-20251101.2236/diff-hl-flydiff.el
+  diff-hl-20251101.2236/diff-hl-inline-popup.el
+  diff-hl-20251101.2236/diff-hl-margin.el
+  diff-hl-20251101.2236/diff-hl-pkg.el
+  diff-hl-20251101.2236/diff-hl-show-hunk-posframe.el
+  diff-hl-20251101.2236/diff-hl-show-hunk.el
+  diff-hl-20251101.2236/diff-hl.el
  ✓ Success:
-  2025-10-27T00:03:11+0000  diff-hl-20251024.2243.entry
-  2025-10-27T00:03:11+0000  diff-hl-20251024.2243.tar
-Built diff-hl in 3.526s, finished at 2025-10-27T00:03:12+0000
+  2025-11-03T00:47:28+0000  diff-hl-20251101.2236.entry
+  2025-11-03T00:47:28+0000  diff-hl-20251101.2236.tar
+Built diff-hl in 3.501s, finished at 2025-11-03T00:47:29+0000

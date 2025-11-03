@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/scala-repl/
 Checking out 679bdf663e0b32a5a285d6f98daa2e3d5de60289
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/scala-repl/
-  to /tmp/scala-replg47suq/scala-repl-20240427.1456
+  to /tmp/scala-replPqdx8e/scala-repl-20240427.1456
     scala-repl.el -> scala-repl.el
 Created scala-repl-20240427.1456.tar containing:
   scala-repl-20240427.1456/
   scala-repl-20240427.1456/scala-repl-pkg.el
   scala-repl-20240427.1456/scala-repl.el
  ✓ Success:
-  2025-10-27T00:51:11+0000  scala-repl-20240427.1456.entry
-  2025-10-27T00:51:10+0000  scala-repl-20240427.1456.tar
-Built scala-repl in 2.941s, finished at 2025-10-27T00:51:11+0000
+  2025-11-03T01:35:38+0000  scala-repl-20240427.1456.entry
+  2025-11-03T01:35:38+0000  scala-repl-20240427.1456.tar
+Built scala-repl in 2.985s, finished at 2025-11-03T01:35:39+0000

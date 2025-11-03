@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/lognav-mode/
 Checking out 139da9eb356b4432f416d1db49fdbfa46fb1bf8d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/lognav-mode/
-  to /tmp/lognav-mode5by7aM/lognav-mode-20240115.1637
+  to /tmp/lognav-modeUlo9ec/lognav-mode-20240115.1637
     lognav-mode.el -> lognav-mode.el
 Created lognav-mode-20240115.1637.tar containing:
   lognav-mode-20240115.1637/
   lognav-mode-20240115.1637/lognav-mode-pkg.el
   lognav-mode-20240115.1637/lognav-mode.el
  ✓ Success:
-  2025-10-27T00:30:02+0000  lognav-mode-20240115.1637.entry
-  2025-10-27T00:30:02+0000  lognav-mode-20240115.1637.tar
-Built lognav-mode in 3.265s, finished at 2025-10-27T00:30:03+0000
+  2025-11-03T01:14:44+0000  lognav-mode-20240115.1637.entry
+  2025-11-03T01:14:44+0000  lognav-mode-20240115.1637.tar
+Built lognav-mode in 2.865s, finished at 2025-11-03T01:14:45+0000

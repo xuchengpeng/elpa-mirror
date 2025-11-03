@@ -3,16 +3,16 @@ Fetcher: sourcehut
 Source:  https://git.sr.ht/~swflint/emacs-universal-sidecar
 
 Updating /mnt/store/melpa/working/universal-sidecar-elfeed-score/
-Checking out c7f17d5377c8d97a72f6548a82d6b259dfc8fc07
+Checking out 01b12aecca0ce66f5427e7fe65012d37e7e128b2
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/universal-sidecar-elfeed-score/
-  to /tmp/universal-sidecar-elfeed-scoret1Sdq3/universal-sidecar-elfeed-score-20250704.342
+  to /tmp/universal-sidecar-elfeed-scoreHk9EUd/universal-sidecar-elfeed-score-20251029.1934
     universal-sidecar-elfeed-score.el -> universal-sidecar-elfeed-score.el
-Created universal-sidecar-elfeed-score-20250704.342.tar containing:
-  universal-sidecar-elfeed-score-20250704.342/
-  universal-sidecar-elfeed-score-20250704.342/universal-sidecar-elfeed-score-pkg.el
-  universal-sidecar-elfeed-score-20250704.342/universal-sidecar-elfeed-score.el
+Created universal-sidecar-elfeed-score-20251029.1934.tar containing:
+  universal-sidecar-elfeed-score-20251029.1934/
+  universal-sidecar-elfeed-score-20251029.1934/universal-sidecar-elfeed-score-pkg.el
+  universal-sidecar-elfeed-score-20251029.1934/universal-sidecar-elfeed-score.el
  ✓ Success:
-  2025-10-27T01:00:22+0000  universal-sidecar-elfeed-score-20250704.342.entry
-  2025-10-27T01:00:22+0000  universal-sidecar-elfeed-score-20250704.342.tar
-Built universal-sidecar-elfeed-score in 3.999s, finished at 2025-10-27T01:00:23+0000
+  2025-11-03T01:44:54+0000  universal-sidecar-elfeed-score-20251029.1934.entry
+  2025-11-03T01:44:54+0000  universal-sidecar-elfeed-score-20251029.1934.tar
+Built universal-sidecar-elfeed-score in 3.668s, finished at 2025-11-03T01:44:55+0000

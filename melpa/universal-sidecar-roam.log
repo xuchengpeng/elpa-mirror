@@ -3,16 +3,16 @@ Fetcher: sourcehut
 Source:  https://git.sr.ht/~swflint/emacs-universal-sidecar
 
 Updating /mnt/store/melpa/working/universal-sidecar-roam/
-Checking out c7f17d5377c8d97a72f6548a82d6b259dfc8fc07
+Checking out 01b12aecca0ce66f5427e7fe65012d37e7e128b2
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/universal-sidecar-roam/
-  to /tmp/universal-sidecar-roam4N1OhA/universal-sidecar-roam-20250704.342
+  to /tmp/universal-sidecar-roampqm9tx/universal-sidecar-roam-20251029.1934
     universal-sidecar-roam.el -> universal-sidecar-roam.el
-Created universal-sidecar-roam-20250704.342.tar containing:
-  universal-sidecar-roam-20250704.342/
-  universal-sidecar-roam-20250704.342/universal-sidecar-roam-pkg.el
-  universal-sidecar-roam-20250704.342/universal-sidecar-roam.el
+Created universal-sidecar-roam-20251029.1934.tar containing:
+  universal-sidecar-roam-20251029.1934/
+  universal-sidecar-roam-20251029.1934/universal-sidecar-roam-pkg.el
+  universal-sidecar-roam-20251029.1934/universal-sidecar-roam.el
  ✓ Success:
-  2025-10-27T01:00:24+0000  universal-sidecar-roam-20250704.342.entry
-  2025-10-27T01:00:24+0000  universal-sidecar-roam-20250704.342.tar
-Built universal-sidecar-roam in 3.908s, finished at 2025-10-27T01:00:25+0000
+  2025-11-03T01:44:55+0000  universal-sidecar-roam-20251029.1934.entry
+  2025-11-03T01:44:55+0000  universal-sidecar-roam-20251029.1934.tar
+Built universal-sidecar-roam in 3.647s, finished at 2025-11-03T01:44:56+0000

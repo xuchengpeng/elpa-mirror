@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/golint/
 Checking out 0562613f16a6ec439a4a68e817e69e0f7c405c87
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/golint/
-  to /tmp/golintBCCeii/golint-20180221.2015
+  to /tmp/golintKThypA/golint-20180221.2015
   ! misc/emacs/golint.el -> golint.el
 Created golint-20180221.2015.tar containing:
   golint-20180221.2015/
   golint-20180221.2015/golint-pkg.el
   golint-20180221.2015/golint.el
  ✓ Success:
-  2025-10-27T00:18:19+0000  golint-20180221.2015.entry
-  2025-10-27T00:18:19+0000  golint-20180221.2015.tar
-Built golint in 2.395s, finished at 2025-10-27T00:18:19+0000
+  2025-11-03T01:02:31+0000  golint-20180221.2015.entry
+  2025-11-03T01:02:30+0000  golint-20180221.2015.tar
+Built golint in 4.655s, finished at 2025-11-03T01:02:32+0000

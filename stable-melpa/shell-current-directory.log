@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/shell-current-directory/
 Checking out bf843771bf9a4aa05e054ade799eb8862f3be89a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/shell-current-directory/
-  to /tmp/shell-current-directoryyd1YII/shell-current-directory-20140101.2354
+  to /tmp/shell-current-directory0UuPZf/shell-current-directory-20140101.2354
     shell-current-directory.el -> shell-current-directory.el
 Created shell-current-directory-20140101.2354.tar containing:
   shell-current-directory-20140101.2354/
   shell-current-directory-20140101.2354/shell-current-directory-pkg.el
   shell-current-directory-20140101.2354/shell-current-directory.el
  ✓ Success:
-  2025-10-27T00:52:10+0000  shell-current-directory-20140101.2354.entry
-  2025-10-27T00:52:10+0000  shell-current-directory-20140101.2354.tar
-Built shell-current-directory in 2.544s, finished at 2025-10-27T00:52:11+0000
+  2025-11-03T01:36:44+0000  shell-current-directory-20140101.2354.entry
+  2025-11-03T01:36:44+0000  shell-current-directory-20140101.2354.tar
+Built shell-current-directory in 3.662s, finished at 2025-11-03T01:36:45+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/heroku/
 Checking out b76db3801d759baece7865b238e99e494506dbeb
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/heroku/
-  to /tmp/herokuOhbCkH/heroku-20230811.1244
+  to /tmp/herokujXdLzl/heroku-20230811.1244
     heroku.el -> heroku.el
 Created heroku-20230811.1244.tar containing:
   heroku-20230811.1244/
   heroku-20230811.1244/heroku-pkg.el
   heroku-20230811.1244/heroku.el
  ✓ Success:
-  2025-10-27T00:22:05+0000  heroku-20230811.1244.entry
-  2025-10-27T00:22:05+0000  heroku-20230811.1244.tar
-Built heroku in 3.044s, finished at 2025-10-27T00:22:06+0000
+  2025-11-03T01:06:15+0000  heroku-20230811.1244.entry
+  2025-11-03T01:06:15+0000  heroku-20230811.1244.tar
+Built heroku in 3.338s, finished at 2025-11-03T01:06:16+0000

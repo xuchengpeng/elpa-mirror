@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/goto-line-preview/
 Checking out fa34955bcd1166421757216013945bc9ed520dc5
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/goto-line-preview/
-  to /tmp/goto-line-previewZgyOlj/goto-line-preview-20250101.908
+  to /tmp/goto-line-previewmHoTVP/goto-line-preview-20250101.908
     goto-line-preview.el -> goto-line-preview.el
 Created goto-line-preview-20250101.908.tar containing:
   goto-line-preview-20250101.908/
   goto-line-preview-20250101.908/goto-line-preview-pkg.el
   goto-line-preview-20250101.908/goto-line-preview.el
  ✓ Success:
-  2025-10-27T00:18:35+0000  goto-line-preview-20250101.908.entry
-  2025-10-27T00:18:35+0000  goto-line-preview-20250101.908.tar
-Built goto-line-preview in 2.311s, finished at 2025-10-27T00:18:35+0000
+  2025-11-03T01:02:54+0000  goto-line-preview-20250101.908.entry
+  2025-11-03T01:02:54+0000  goto-line-preview-20250101.908.tar
+Built goto-line-preview in 4.832s, finished at 2025-11-03T01:02:56+0000
