@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/github-pullrequest/
 Checking out 471816e09d1e140a0975911fe020c6c659f71209
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/github-pullrequest/
-  to /tmp/github-pullrequestJX6qX8/github-pullrequest-20170116.616
+  to /tmp/github-pullrequestmwECEw/github-pullrequest-20170116.616
     github-pullrequest.el -> github-pullrequest.el
 Created github-pullrequest-20170116.616.tar containing:
   github-pullrequest-20170116.616/
   github-pullrequest-20170116.616/github-pullrequest-pkg.el
   github-pullrequest-20170116.616/github-pullrequest.el
  ✓ Success:
-  2025-11-03T01:01:28+0000  github-pullrequest-20170116.616.entry
-  2025-11-03T01:01:28+0000  github-pullrequest-20170116.616.tar
-Built github-pullrequest in 2.713s, finished at 2025-11-03T01:01:29+0000
+  2025-11-10T00:32:30+0000  github-pullrequest-20170116.616.entry
+  2025-11-10T00:32:30+0000  github-pullrequest-20170116.616.tar
+Built github-pullrequest in 2.675s, finished at 2025-11-10T00:32:31+0000

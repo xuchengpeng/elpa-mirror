@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/mu4e-query-fragments/
 Checking out 14b38e4a7b7aae47f3c1bdccb6680f8c38c645bf
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mu4e-query-fragments/
-  to /tmp/mu4e-query-fragmentshvbMUf/mu4e-query-fragments-20240415.1421
+  to /tmp/mu4e-query-fragments6PDu8P/mu4e-query-fragments-20240415.1421
     mu4e-query-fragments.el -> mu4e-query-fragments.el
 Created mu4e-query-fragments-20240415.1421.tar containing:
   mu4e-query-fragments-20240415.1421/
   mu4e-query-fragments-20240415.1421/mu4e-query-fragments-pkg.el
   mu4e-query-fragments-20240415.1421/mu4e-query-fragments.el
  ✓ Success:
-  2025-11-03T01:18:50+0000  mu4e-query-fragments-20240415.1421.entry
-  2025-11-03T01:18:50+0000  mu4e-query-fragments-20240415.1421.tar
-Built mu4e-query-fragments in 3.367s, finished at 2025-11-03T01:18:51+0000
+  2025-11-10T00:49:57+0000  mu4e-query-fragments-20240415.1421.entry
+  2025-11-10T00:49:57+0000  mu4e-query-fragments-20240415.1421.tar
+Built mu4e-query-fragments in 3.459s, finished at 2025-11-10T00:49:58+0000

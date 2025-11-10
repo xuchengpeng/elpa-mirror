@@ -3,10 +3,10 @@ Fetcher: github
 Source:  https://github.com/xenodium/agent-shell
 
 Updating /mnt/store/melpa/working/agent-shell/
-Checking out aceb48e9baf045a722d1afb6cf1a3eff679e14ca
+Checking out 787ade65e1176af7d03ae1fdc3103330edeb8f86
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/agent-shell/
-  to /tmp/agent-shellbn9SOb/agent-shell-20251102.2114
+  to /tmp/agent-shellSzlJP0/agent-shell-20251109.1834
     agent-shell-anthropic.el -> agent-shell-anthropic.el
     agent-shell-cursor.el -> agent-shell-cursor.el
     agent-shell-diff.el -> agent-shell-diff.el
@@ -18,21 +18,21 @@ Copying files (->) and directories (=>)
     agent-shell-qwen.el -> agent-shell-qwen.el
     agent-shell-ui.el -> agent-shell-ui.el
     agent-shell.el -> agent-shell.el
-Created agent-shell-20251102.2114.tar containing:
-  agent-shell-20251102.2114/
-  agent-shell-20251102.2114/agent-shell-anthropic.el
-  agent-shell-20251102.2114/agent-shell-cursor.el
-  agent-shell-20251102.2114/agent-shell-diff.el
-  agent-shell-20251102.2114/agent-shell-google.el
-  agent-shell-20251102.2114/agent-shell-goose.el
-  agent-shell-20251102.2114/agent-shell-heartbeat.el
-  agent-shell-20251102.2114/agent-shell-openai.el
-  agent-shell-20251102.2114/agent-shell-opencode.el
-  agent-shell-20251102.2114/agent-shell-pkg.el
-  agent-shell-20251102.2114/agent-shell-qwen.el
-  agent-shell-20251102.2114/agent-shell-ui.el
-  agent-shell-20251102.2114/agent-shell.el
+Created agent-shell-20251109.1834.tar containing:
+  agent-shell-20251109.1834/
+  agent-shell-20251109.1834/agent-shell-anthropic.el
+  agent-shell-20251109.1834/agent-shell-cursor.el
+  agent-shell-20251109.1834/agent-shell-diff.el
+  agent-shell-20251109.1834/agent-shell-google.el
+  agent-shell-20251109.1834/agent-shell-goose.el
+  agent-shell-20251109.1834/agent-shell-heartbeat.el
+  agent-shell-20251109.1834/agent-shell-openai.el
+  agent-shell-20251109.1834/agent-shell-opencode.el
+  agent-shell-20251109.1834/agent-shell-pkg.el
+  agent-shell-20251109.1834/agent-shell-qwen.el
+  agent-shell-20251109.1834/agent-shell-ui.el
+  agent-shell-20251109.1834/agent-shell.el
  ✓ Success:
-  2025-11-03T00:35:17+0000  agent-shell-20251102.2114.entry
-  2025-11-03T00:35:17+0000  agent-shell-20251102.2114.tar
-Built agent-shell in 3.599s, finished at 2025-11-03T00:35:18+0000
+  2025-11-10T00:05:55+0000  agent-shell-20251109.1834.entry
+  2025-11-10T00:05:55+0000  agent-shell-20251109.1834.tar
+Built agent-shell in 3.463s, finished at 2025-11-10T00:05:56+0000

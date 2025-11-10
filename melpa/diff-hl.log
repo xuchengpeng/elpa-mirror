@@ -3,10 +3,10 @@ Fetcher: github
 Source:  https://github.com/dgutov/diff-hl
 
 Updating /mnt/store/melpa/working/diff-hl/
-Checking out 6585e93849ede64e1a7b7b9766369040138979f2
+Checking out 9ae258d0ef73a70704a1072acbbcfd4a69e0f102
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/diff-hl/
-  to /tmp/diff-hlUj9iJh/diff-hl-20251101.2236
+  to /tmp/diff-hl4qWinW/diff-hl-20251109.2350
     diff-hl-amend.el -> diff-hl-amend.el
     diff-hl-dired.el -> diff-hl-dired.el
     diff-hl-flydiff.el -> diff-hl-flydiff.el
@@ -15,18 +15,20 @@ Copying files (->) and directories (=>)
     diff-hl-show-hunk-posframe.el -> diff-hl-show-hunk-posframe.el
     diff-hl-show-hunk.el -> diff-hl-show-hunk.el
     diff-hl.el -> diff-hl.el
-Created diff-hl-20251101.2236.tar containing:
-  diff-hl-20251101.2236/
-  diff-hl-20251101.2236/diff-hl-amend.el
-  diff-hl-20251101.2236/diff-hl-dired.el
-  diff-hl-20251101.2236/diff-hl-flydiff.el
-  diff-hl-20251101.2236/diff-hl-inline-popup.el
-  diff-hl-20251101.2236/diff-hl-margin.el
-  diff-hl-20251101.2236/diff-hl-pkg.el
-  diff-hl-20251101.2236/diff-hl-show-hunk-posframe.el
-  diff-hl-20251101.2236/diff-hl-show-hunk.el
-  diff-hl-20251101.2236/diff-hl.el
+Created diff-hl-20251109.2350.tar containing:
+  diff-hl-20251109.2350/
+  diff-hl-20251109.2350/diff-hl-amend.el
+  diff-hl-20251109.2350/diff-hl-dired.el
+  diff-hl-20251109.2350/diff-hl-flydiff.el
+  diff-hl-20251109.2350/diff-hl-inline-popup.el
+  diff-hl-20251109.2350/diff-hl-margin.el
+  diff-hl-20251109.2350/diff-hl-pkg.el
+  diff-hl-20251109.2350/diff-hl-show-hunk-posframe.el
+  diff-hl-20251109.2350/diff-hl-show-hunk.el
+  diff-hl-20251109.2350/diff-hl.el
  ✓ Success:
-  2025-11-03T00:47:28+0000  diff-hl-20251101.2236.entry
-  2025-11-03T00:47:28+0000  diff-hl-20251101.2236.tar
-Built diff-hl in 3.501s, finished at 2025-11-03T00:47:29+0000
+  2025-11-10T00:18:42+0000  diff-hl-20251109.2350.entry
+  2025-11-10T00:18:42+0000  diff-hl-20251109.2350.tar
+  2025-11-09T21:56:59+0000  diff-hl-20251109.414.entry
+  2025-11-09T21:56:59+0000  diff-hl-20251109.414.tar
+Built diff-hl in 3.567s, finished at 2025-11-10T00:18:43+0000

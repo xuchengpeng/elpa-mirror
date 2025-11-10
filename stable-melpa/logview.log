@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/doublep/logview
 
 Updating /mnt/store/melpa/working/logview/
-Checking out faac12ff45ef796d4ebc9587be6abcd7c32db0aa
+Checking out 9c97221dd04d7398df098e9f942efff016b60bbf
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/logview/
-  to /tmp/logviewImXcVL/logview-20251102.1423
+  to /tmp/logviewEWGH4U/logview-20251104.1725
     logview.el -> logview.el
-Created logview-20251102.1423.tar containing:
-  logview-20251102.1423/
-  logview-20251102.1423/logview-pkg.el
-  logview-20251102.1423/logview.el
+Created logview-20251104.1725.tar containing:
+  logview-20251104.1725/
+  logview-20251104.1725/logview-pkg.el
+  logview-20251104.1725/logview.el
  ✓ Success:
-  2025-11-03T01:14:48+0000  logview-20251102.1423.entry
-  2025-11-03T01:14:48+0000  logview-20251102.1423.tar
-Built logview in 3.407s, finished at 2025-11-03T01:14:48+0000
+  2025-11-10T00:45:33+0000  logview-20251104.1725.entry
+  2025-11-10T00:45:33+0000  logview-20251104.1725.tar
+Built logview in 3.395s, finished at 2025-11-10T00:45:34+0000

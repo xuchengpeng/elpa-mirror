@@ -1,0 +1,24 @@
+Package: maccalfw
+Fetcher: github
+Source:  https://github.com/haji-ali/maccalfw
+
+Updating /mnt/store/melpa/working/maccalfw/
+Checking out 0a72897c02537948aecc6a65b30c91466c8adaa8
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/maccalfw/
+  to /tmp/maccalfwJZ380o/maccalfw-20251104.512
+    maccalfw.el -> maccalfw.el
+    src => src
+Created maccalfw-20251104.512.tar containing:
+  maccalfw-20251104.512/
+  maccalfw-20251104.512/maccalfw-pkg.el
+  maccalfw-20251104.512/maccalfw.el
+  maccalfw-20251104.512/src/
+  maccalfw-20251104.512/src/Cemacs-module-Bridging-Header.h
+  maccalfw-20251104.512/src/EmacsUtil.swift
+  maccalfw-20251104.512/src/MacCalfw.swift
+  maccalfw-20251104.512/src/module.modulemap
+ ✓ Success:
+  2025-11-10T00:46:20+0000  maccalfw-20251104.512.entry
+  2025-11-10T00:46:20+0000  maccalfw-20251104.512.tar
+Built maccalfw in 4.284s, finished at 2025-11-10T00:46:22+0000

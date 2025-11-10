@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/Artawower/file-info.el
 
 Updating /mnt/store/melpa/working/file-info/
-Checking out 1d1820e46ba681ef7c18aa8c81a61891675f9fec
+Checking out 5d8c5158a57e0077410bcdb802c344f5e8da4aca
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/file-info/
-  to /tmp/file-infoFPZuW1/file-info-20251102.1935
+  to /tmp/file-infobTkI1W/file-info-20251107.1738
     file-info.el -> file-info.el
-Created file-info-20251102.1935.tar containing:
-  file-info-20251102.1935/
-  file-info-20251102.1935/file-info-pkg.el
-  file-info-20251102.1935/file-info.el
+Created file-info-20251107.1738.tar containing:
+  file-info-20251107.1738/
+  file-info-20251107.1738/file-info-pkg.el
+  file-info-20251107.1738/file-info.el
  ✓ Success:
-  2025-11-03T00:56:19+0000  file-info-20251102.1935.entry
-  2025-11-03T00:56:19+0000  file-info-20251102.1935.tar
-Built file-info in 3.221s, finished at 2025-11-03T00:56:20+0000
+  2025-11-10T00:27:17+0000  file-info-20251107.1738.entry
+  2025-11-10T00:27:17+0000  file-info-20251107.1738.tar
+Built file-info in 3.313s, finished at 2025-11-10T00:27:18+0000

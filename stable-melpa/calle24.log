@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/calle24/
 Checking out 5c088b4c997b3e60cc25dcbb9027ce39fbf85dc4
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/calle24/
-  to /tmp/calle24q7Pyum/calle24-20251102.2221
+  to /tmp/calle247rAXUj/calle24-20251102.2221
   ! lisp/calle24-edebug.el -> calle24-edebug.el
   ! lisp/calle24.el -> calle24.el
     images => images
@@ -188,8 +188,6 @@ Created calle24-20251102.2221.tar containing:
   calle24-20251102.2221/images/zoom-out.xpm
   calle24-20251102.2221/images/zoom-out_dark.xpm
  ✓ Success:
-  2025-11-02T22:17:17+0000  calle24-20251102.1952.entry
-  2025-11-02T22:17:17+0000  calle24-20251102.1952.tar
-  2025-11-03T00:40:24+0000  calle24-20251102.2221.entry
-  2025-11-03T00:40:23+0000  calle24-20251102.2221.tar
-Built calle24 in 5.736s, finished at 2025-11-03T00:40:25+0000
+  2025-11-10T00:11:22+0000  calle24-20251102.2221.entry
+  2025-11-10T00:11:21+0000  calle24-20251102.2221.tar
+Built calle24 in 3.719s, finished at 2025-11-10T00:11:23+0000

@@ -3,16 +3,16 @@ Fetcher: codeberg
 Source:  https://codeberg.org/pastor/gdb-x
 
 Updating /mnt/store/melpa/working/gdb-x/
-Checking out c3a03ad0988f4024ff1cd6a02deb49c93e1a553a
+Checking out 7e03680f7b5a001341d1892daa69bc32fcf75113
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/gdb-x/
-  to /tmp/gdb-x72BzpJ/gdb-x-20251020.1339
+  to /tmp/gdb-x0I745Z/gdb-x-20251107.1256
     gdb-x.el -> gdb-x.el
-Created gdb-x-20251020.1339.tar containing:
-  gdb-x-20251020.1339/
-  gdb-x-20251020.1339/gdb-x-pkg.el
-  gdb-x-20251020.1339/gdb-x.el
+Created gdb-x-20251107.1256.tar containing:
+  gdb-x-20251107.1256/
+  gdb-x-20251107.1256/gdb-x-pkg.el
+  gdb-x-20251107.1256/gdb-x.el
  ✓ Success:
-  2025-11-03T01:00:28+0000  gdb-x-20251020.1339.entry
-  2025-11-03T01:00:28+0000  gdb-x-20251020.1339.tar
-Built gdb-x in 3.896s, finished at 2025-11-03T01:00:29+0000
+  2025-11-10T00:31:31+0000  gdb-x-20251107.1256.entry
+  2025-11-10T00:31:31+0000  gdb-x-20251107.1256.tar
+Built gdb-x in 4.040s, finished at 2025-11-10T00:31:32+0000

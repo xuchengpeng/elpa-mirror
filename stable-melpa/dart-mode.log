@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/emacsorphanage/dart-mode
 
 Updating /mnt/store/melpa/working/dart-mode/
-Checking out 61e01142352f6813aca6512bedadb5007de3a0b9
+Checking out 22288d0bb374f6880ffc211ce87c302acb3421e7
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/dart-mode/
-  to /tmp/dart-mode1iRH1Q/dart-mode-20231002.1138
+  to /tmp/dart-modeJqpQZ1/dart-mode-20251105.543
     dart-mode.el -> dart-mode.el
-Created dart-mode-20231002.1138.tar containing:
-  dart-mode-20231002.1138/
-  dart-mode-20231002.1138/dart-mode-pkg.el
-  dart-mode-20231002.1138/dart-mode.el
+Created dart-mode-20251105.543.tar containing:
+  dart-mode-20251105.543/
+  dart-mode-20251105.543/dart-mode-pkg.el
+  dart-mode-20251105.543/dart-mode.el
  ✓ Success:
-  2025-11-03T00:46:27+0000  dart-mode-20231002.1138.entry
-  2025-11-03T00:46:27+0000  dart-mode-20231002.1138.tar
-Built dart-mode in 2.669s, finished at 2025-11-03T00:46:28+0000
+  2025-11-10T00:17:25+0000  dart-mode-20251105.543.entry
+  2025-11-10T00:17:25+0000  dart-mode-20251105.543.tar
+Built dart-mode in 2.789s, finished at 2025-11-10T00:17:26+0000

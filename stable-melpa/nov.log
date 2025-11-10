@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/nov/
 Checking out 933816c190633fa1f2f0667ba105d1311572b3c6
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/nov/
-  to /tmp/novYr6Lv3/nov-20250615.1051
+  to /tmp/nov3p1lfy/nov-20250615.1051
     nov.el -> nov.el
 Created nov-20250615.1051.tar containing:
   nov-20250615.1051/
   nov-20250615.1051/nov-pkg.el
   nov-20250615.1051/nov.el
  ✓ Success:
-  2025-11-03T01:20:56+0000  nov-20250615.1051.entry
-  2025-11-03T01:20:55+0000  nov-20250615.1051.tar
-Built nov in 4.686s, finished at 2025-11-03T01:20:57+0000
+  2025-11-10T00:51:44+0000  nov-20250615.1051.entry
+  2025-11-10T00:51:44+0000  nov-20250615.1051.tar
+Built nov in 3.788s, finished at 2025-11-10T00:51:45+0000

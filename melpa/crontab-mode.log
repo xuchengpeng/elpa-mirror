@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/crontab-mode/
 Checking out 7412f3df0958812bfcacd5875a409fa795fa8ecc
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/crontab-mode/
-  to /tmp/crontab-modeGsM2H2/crontab-mode-20210715.133
+  to /tmp/crontab-modeqTdSK6/crontab-mode-20210715.133
     crontab-mode.el -> crontab-mode.el
 Created crontab-mode-20210715.133.tar containing:
   crontab-mode-20210715.133/
   crontab-mode-20210715.133/crontab-mode-pkg.el
   crontab-mode-20210715.133/crontab-mode.el
  ✓ Success:
-  2025-11-03T00:45:20+0000  crontab-mode-20210715.133.entry
-  2025-11-03T00:45:20+0000  crontab-mode-20210715.133.tar
-Built crontab-mode in 3.075s, finished at 2025-11-03T00:45:21+0000
+  2025-11-10T00:16:33+0000  crontab-mode-20210715.133.entry
+  2025-11-10T00:16:33+0000  crontab-mode-20210715.133.tar
+Built crontab-mode in 3.099s, finished at 2025-11-10T00:16:34+0000

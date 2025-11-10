@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/emacsql/
 Checking out 138fae5c3f55c81a4eded42eabe4e33483de567e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/emacsql/
-  to /tmp/emacsqlwcZFYc/emacsql-20251101.2007
+  to /tmp/emacsqlwMjPkV/emacsql-20251101.2007
     emacsql-compiler.el -> emacsql-compiler.el
     emacsql-mysql.el -> emacsql-mysql.el
     emacsql-pg.el -> emacsql-pg.el
@@ -29,6 +29,6 @@ Created emacsql-20251101.2007.tar containing:
   emacsql-20251101.2007/emacsql-sqlite.el
   emacsql-20251101.2007/emacsql.el
  ✓ Success:
-  2025-11-03T00:52:30+0000  emacsql-20251101.2007.entry
-  2025-11-03T00:52:29+0000  emacsql-20251101.2007.tar
-Built emacsql in 2.922s, finished at 2025-11-03T00:52:30+0000
+  2025-11-10T00:23:14+0000  emacsql-20251101.2007.entry
+  2025-11-10T00:23:13+0000  emacsql-20251101.2007.tar
+Built emacsql in 2.785s, finished at 2025-11-10T00:23:14+0000

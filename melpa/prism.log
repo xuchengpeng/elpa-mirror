@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/prism/
 Checking out 2fa8eb5a9ca62a548d33befef4517e5d0266eb28
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/prism/
-  to /tmp/prismfsm0y5/prism-20241024.40
+  to /tmp/prismDBftNR/prism-20241024.40
     prism.el -> prism.el
 Created prism-20241024.40.tar containing:
   prism-20241024.40/
   prism-20241024.40/prism-pkg.el
   prism-20241024.40/prism.el
  ✓ Success:
-  2025-11-03T01:30:37+0000  prism-20241024.40.entry
-  2025-11-03T01:30:37+0000  prism-20241024.40.tar
-Built prism in 3.020s, finished at 2025-11-03T01:30:38+0000
+  2025-11-10T01:01:26+0000  prism-20241024.40.entry
+  2025-11-10T01:01:26+0000  prism-20241024.40.tar
+Built prism in 3.155s, finished at 2025-11-10T01:01:27+0000

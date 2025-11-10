@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/ROCKTAKEY/lsp-latex
 
 Updating /mnt/store/melpa/working/lsp-latex/
-Checking out 07741fe9a959bfd1f831eec15e1c5e1c6fe04794
+Checking out a9ac457141f0aa15505b61ded3f12d0ad477b771
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/lsp-latex/
-  to /tmp/lsp-latexcpVGTO/lsp-latex-20250126.1416
+  to /tmp/lsp-latexsjfgQs/lsp-latex-20251104.1507
     lsp-latex.el -> lsp-latex.el
-Created lsp-latex-20250126.1416.tar containing:
-  lsp-latex-20250126.1416/
-  lsp-latex-20250126.1416/lsp-latex-pkg.el
-  lsp-latex-20250126.1416/lsp-latex.el
+Created lsp-latex-20251104.1507.tar containing:
+  lsp-latex-20251104.1507/
+  lsp-latex-20251104.1507/lsp-latex-pkg.el
+  lsp-latex-20251104.1507/lsp-latex.el
  ✓ Success:
-  2025-11-03T01:15:07+0000  lsp-latex-20250126.1416.entry
-  2025-11-03T01:15:07+0000  lsp-latex-20250126.1416.tar
-Built lsp-latex in 3.567s, finished at 2025-11-03T01:15:08+0000
+  2025-11-10T00:45:52+0000  lsp-latex-20251104.1507.entry
+  2025-11-10T00:45:52+0000  lsp-latex-20251104.1507.tar
+Built lsp-latex in 3.449s, finished at 2025-11-10T00:45:53+0000

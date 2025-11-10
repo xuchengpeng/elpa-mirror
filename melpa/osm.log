@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/osm/
 Checking out 7641bf620bf20b71908702e91c0a5e82a103b196
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/osm/
-  to /tmp/osmkfpOCf/osm-20251017.1515
+  to /tmp/osmQm891H/osm-20251017.1515
     osm.el -> osm.el
 Created osm-20251017.1515.tar containing:
   osm-20251017.1515/
   osm-20251017.1515/osm-pkg.el
   osm-20251017.1515/osm.el
  ✓ Success:
-  2025-11-03T01:26:26+0000  osm-20251017.1515.entry
-  2025-11-03T01:26:26+0000  osm-20251017.1515.tar
-Built osm in 3.469s, finished at 2025-11-03T01:26:27+0000
+  2025-11-10T00:57:00+0000  osm-20251017.1515.entry
+  2025-11-10T00:57:00+0000  osm-20251017.1515.tar
+Built osm in 3.609s, finished at 2025-11-10T00:57:01+0000

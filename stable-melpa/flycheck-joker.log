@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/flycheck-joker/
 Checking out 93576295fef7a749bf779eeece5edd85e21868e2
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/flycheck-joker/
-  to /tmp/flycheck-jokerrLzcVD/flycheck-joker-20200412.2346
+  to /tmp/flycheck-jokerFCbcz3/flycheck-joker-20200412.2346
     flycheck-joker.el -> flycheck-joker.el
 Created flycheck-joker-20200412.2346.tar containing:
   flycheck-joker-20200412.2346/
   flycheck-joker-20200412.2346/flycheck-joker-pkg.el
   flycheck-joker-20200412.2346/flycheck-joker.el
  ✓ Success:
-  2025-11-03T00:58:00+0000  flycheck-joker-20200412.2346.entry
-  2025-11-03T00:58:00+0000  flycheck-joker-20200412.2346.tar
-Built flycheck-joker in 2.882s, finished at 2025-11-03T00:58:01+0000
+  2025-11-10T00:28:42+0000  flycheck-joker-20200412.2346.entry
+  2025-11-10T00:28:42+0000  flycheck-joker-20200412.2346.tar
+Built flycheck-joker in 2.592s, finished at 2025-11-10T00:28:43+0000

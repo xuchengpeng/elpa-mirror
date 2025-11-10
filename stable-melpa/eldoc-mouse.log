@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/huangfeiyu/eldoc-mouse
 
 Updating /mnt/store/melpa/working/eldoc-mouse/
-Checking out 60ded7eadb03dcfc916aa2f886d1e87c003585ba
+Checking out 614a57d1b19a66e5e71510a9aaf7d6a17fce6bae
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/eldoc-mouse/
-  to /tmp/eldoc-mouseRkEJG8/eldoc-mouse-20251102.736
+  to /tmp/eldoc-mouseZ8IkG0/eldoc-mouse-20251103.516
     eldoc-mouse.el -> eldoc-mouse.el
-Created eldoc-mouse-20251102.736.tar containing:
-  eldoc-mouse-20251102.736/
-  eldoc-mouse-20251102.736/eldoc-mouse-pkg.el
-  eldoc-mouse-20251102.736/eldoc-mouse.el
+Created eldoc-mouse-20251103.516.tar containing:
+  eldoc-mouse-20251103.516/
+  eldoc-mouse-20251103.516/eldoc-mouse-pkg.el
+  eldoc-mouse-20251103.516/eldoc-mouse.el
  ✓ Success:
-  2025-11-03T00:51:20+0000  eldoc-mouse-20251102.736.entry
-  2025-11-03T00:51:19+0000  eldoc-mouse-20251102.736.tar
-Built eldoc-mouse in 4.205s, finished at 2025-11-03T00:51:21+0000
+  2025-11-10T00:22:16+0000  eldoc-mouse-20251103.516.entry
+  2025-11-10T00:22:16+0000  eldoc-mouse-20251103.516.tar
+Built eldoc-mouse in 2.855s, finished at 2025-11-10T00:22:17+0000

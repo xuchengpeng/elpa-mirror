@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/jdtsmith/ultra-scroll
 
 Updating /mnt/store/melpa/working/ultra-scroll/
-Checking out 077d1e32a604fc4244edbf4ff6ec0f37c738b585
+Checking out 19fd73e0ee71558c7770d8daecdbe1793d54c9ae
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ultra-scroll/
-  to /tmp/ultra-scrolllp4sQ0/ultra-scroll-20250714.2049
+  to /tmp/ultra-scrollLoenlB/ultra-scroll-20251109.1439
     ultra-scroll.el -> ultra-scroll.el
-Created ultra-scroll-20250714.2049.tar containing:
-  ultra-scroll-20250714.2049/
-  ultra-scroll-20250714.2049/ultra-scroll-pkg.el
-  ultra-scroll-20250714.2049/ultra-scroll.el
+Created ultra-scroll-20251109.1439.tar containing:
+  ultra-scroll-20251109.1439/
+  ultra-scroll-20251109.1439/ultra-scroll-pkg.el
+  ultra-scroll-20251109.1439/ultra-scroll.el
  ✓ Success:
-  2025-11-03T01:44:30+0000  ultra-scroll-20250714.2049.entry
-  2025-11-03T01:44:30+0000  ultra-scroll-20250714.2049.tar
-Built ultra-scroll in 2.718s, finished at 2025-11-03T01:44:31+0000
+  2025-11-10T01:15:25+0000  ultra-scroll-20251109.1439.entry
+  2025-11-10T01:15:25+0000  ultra-scroll-20251109.1439.tar
+Built ultra-scroll in 2.745s, finished at 2025-11-10T01:15:26+0000

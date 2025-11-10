@@ -3,33 +3,33 @@ Fetcher: github
 Source:  https://github.com/rainstormstudio/nerd-icons.el
 
 Updating /mnt/store/melpa/working/nerd-icons/
-Checking out f262828f5f0e15d1d0189081bb30a67ddfaaf341
+Checking out 940b28d3dbd134696ef448e906e42a87a9d61e20
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/nerd-icons/
-  to /tmp/nerd-iconswrI735/nerd-icons-20251028.2250
+  to /tmp/nerd-icons6tjdhG/nerd-icons-20251108.1545
     nerd-icons-data.el -> nerd-icons-data.el
     nerd-icons-faces.el -> nerd-icons-faces.el
     nerd-icons.el -> nerd-icons.el
     data => data
-Created nerd-icons-20251028.2250.tar containing:
-  nerd-icons-20251028.2250/
-  nerd-icons-20251028.2250/data/
-  nerd-icons-20251028.2250/data/nerd-icons-data-codicon.el
-  nerd-icons-20251028.2250/data/nerd-icons-data-devicon.el
-  nerd-icons-20251028.2250/data/nerd-icons-data-faicon.el
-  nerd-icons-20251028.2250/data/nerd-icons-data-flicon.el
-  nerd-icons-20251028.2250/data/nerd-icons-data-ipsicon.el
-  nerd-icons-20251028.2250/data/nerd-icons-data-mdicon.el
-  nerd-icons-20251028.2250/data/nerd-icons-data-octicon.el
-  nerd-icons-20251028.2250/data/nerd-icons-data-pomicon.el
-  nerd-icons-20251028.2250/data/nerd-icons-data-powerline.el
-  nerd-icons-20251028.2250/data/nerd-icons-data-sucicon.el
-  nerd-icons-20251028.2250/data/nerd-icons-data-wicon.el
-  nerd-icons-20251028.2250/nerd-icons-data.el
-  nerd-icons-20251028.2250/nerd-icons-faces.el
-  nerd-icons-20251028.2250/nerd-icons-pkg.el
-  nerd-icons-20251028.2250/nerd-icons.el
+Created nerd-icons-20251108.1545.tar containing:
+  nerd-icons-20251108.1545/
+  nerd-icons-20251108.1545/data/
+  nerd-icons-20251108.1545/data/nerd-icons-data-codicon.el
+  nerd-icons-20251108.1545/data/nerd-icons-data-devicon.el
+  nerd-icons-20251108.1545/data/nerd-icons-data-faicon.el
+  nerd-icons-20251108.1545/data/nerd-icons-data-flicon.el
+  nerd-icons-20251108.1545/data/nerd-icons-data-ipsicon.el
+  nerd-icons-20251108.1545/data/nerd-icons-data-mdicon.el
+  nerd-icons-20251108.1545/data/nerd-icons-data-octicon.el
+  nerd-icons-20251108.1545/data/nerd-icons-data-pomicon.el
+  nerd-icons-20251108.1545/data/nerd-icons-data-powerline.el
+  nerd-icons-20251108.1545/data/nerd-icons-data-sucicon.el
+  nerd-icons-20251108.1545/data/nerd-icons-data-wicon.el
+  nerd-icons-20251108.1545/nerd-icons-data.el
+  nerd-icons-20251108.1545/nerd-icons-faces.el
+  nerd-icons-20251108.1545/nerd-icons-pkg.el
+  nerd-icons-20251108.1545/nerd-icons.el
  ✓ Success:
-  2025-11-03T01:19:48+0000  nerd-icons-20251028.2250.entry
-  2025-11-03T01:19:48+0000  nerd-icons-20251028.2250.tar
-Built nerd-icons in 5.653s, finished at 2025-11-03T01:19:50+0000
+  2025-11-10T00:50:47+0000  nerd-icons-20251108.1545.entry
+  2025-11-10T00:50:47+0000  nerd-icons-20251108.1545.tar
+Built nerd-icons in 3.614s, finished at 2025-11-10T00:50:48+0000
