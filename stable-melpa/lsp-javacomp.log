@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/lsp-javacomp/
 Checking out 82aa4ad6ca03a74565c35e855b318b1887bcd89b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/lsp-javacomp/
-  to /tmp/lsp-javacomphQ9D89/lsp-javacomp-20190124.1755
+  to /tmp/lsp-javacomp15hYQb/lsp-javacomp-20190124.1755
     lsp-javacomp.el -> lsp-javacomp.el
 Created lsp-javacomp-20190124.1755.tar containing:
   lsp-javacomp-20190124.1755/
   lsp-javacomp-20190124.1755/lsp-javacomp-pkg.el
   lsp-javacomp-20190124.1755/lsp-javacomp.el
  ✓ Success:
-  2025-11-10T00:45:50+0000  lsp-javacomp-20190124.1755.entry
-  2025-11-10T00:45:50+0000  lsp-javacomp-20190124.1755.tar
-Built lsp-javacomp in 2.712s, finished at 2025-11-10T00:45:51+0000
+  2025-11-17T00:35:19+0000  lsp-javacomp-20190124.1755.entry
+  2025-11-17T00:35:19+0000  lsp-javacomp-20190124.1755.tar
+Built lsp-javacomp in 2.872s, finished at 2025-11-17T00:35:20+0000

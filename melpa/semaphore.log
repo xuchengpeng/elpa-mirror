@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/semaphore/
 Checking out ec4c485c8e4cff63805ecc25523a031a6c2ad7cd
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/semaphore/
-  to /tmp/semaphorexDyu89/semaphore-20190607.1949
+  to /tmp/semaphorePdSwnQ/semaphore-20190607.1949
     semaphore.el -> semaphore.el
 Created semaphore-20190607.1949.tar containing:
   semaphore-20190607.1949/
   semaphore-20190607.1949/semaphore-pkg.el
   semaphore-20190607.1949/semaphore.el
  ✓ Success:
-  2025-11-10T01:06:59+0000  semaphore-20190607.1949.entry
-  2025-11-10T01:06:59+0000  semaphore-20190607.1949.tar
-Built semaphore in 2.910s, finished at 2025-11-10T01:07:00+0000
+  2025-11-17T00:56:58+0000  semaphore-20190607.1949.entry
+  2025-11-17T00:56:58+0000  semaphore-20190607.1949.tar
+Built semaphore in 2.979s, finished at 2025-11-17T00:56:59+0000

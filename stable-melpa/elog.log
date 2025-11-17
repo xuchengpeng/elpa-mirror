@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/elog/
 Checking out c65288fd32eb187d3e63d4a7799a69e57da0eab4
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/elog/
-  to /tmp/elogvKFKGk/elog-20250413.100
+  to /tmp/elogbfoYfN/elog-20250413.100
     elog.el -> elog.el
 Created elog-20250413.100.tar containing:
   elog-20250413.100/
   elog-20250413.100/elog-pkg.el
   elog-20250413.100/elog.el
  ✓ Success:
-  2025-11-10T00:22:54+0000  elog-20250413.100.entry
-  2025-11-10T00:22:54+0000  elog-20250413.100.tar
-Built elog in 2.752s, finished at 2025-11-10T00:22:55+0000
+  2025-11-17T00:11:59+0000  elog-20250413.100.entry
+  2025-11-17T00:11:59+0000  elog-20250413.100.tar
+Built elog in 2.735s, finished at 2025-11-17T00:12:00+0000

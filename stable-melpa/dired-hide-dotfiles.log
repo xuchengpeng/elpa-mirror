@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/dired-hide-dotfiles/
 Checking out 0d035ba8c5decc5957d50f3c64ef860b5c2093a1
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/dired-hide-dotfiles/
-  to /tmp/dired-hide-dotfilesK9MBEV/dired-hide-dotfiles-20240727.1720
+  to /tmp/dired-hide-dotfilesUpbg8Z/dired-hide-dotfiles-20240727.1720
     dired-hide-dotfiles.el -> dired-hide-dotfiles.el
 Created dired-hide-dotfiles-20240727.1720.tar containing:
   dired-hide-dotfiles-20240727.1720/
   dired-hide-dotfiles-20240727.1720/dired-hide-dotfiles-pkg.el
   dired-hide-dotfiles-20240727.1720/dired-hide-dotfiles.el
  ✓ Success:
-  2025-11-10T00:19:08+0000  dired-hide-dotfiles-20240727.1720.entry
-  2025-11-10T00:19:08+0000  dired-hide-dotfiles-20240727.1720.tar
-Built dired-hide-dotfiles in 2.926s, finished at 2025-11-10T00:19:09+0000
+  2025-11-17T00:07:55+0000  dired-hide-dotfiles-20240727.1720.entry
+  2025-11-17T00:07:55+0000  dired-hide-dotfiles-20240727.1720.tar
+Built dired-hide-dotfiles in 2.700s, finished at 2025-11-17T00:07:56+0000

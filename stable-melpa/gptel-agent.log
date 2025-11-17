@@ -1,0 +1,22 @@
+Package: gptel-agent
+Fetcher: github
+Source:  https://github.com/karthink/gptel-agent
+
+Updating /mnt/store/melpa/working/gptel-agent/
+Checking out 3c2d872ff283f1b30531419070016865627de260
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/gptel-agent/
+  to /tmp/gptel-agentqO6y6r/gptel-agent-20251116.1808
+    gptel-agent-tools-introspection.el -> gptel-agent-tools-introspection.el
+    gptel-agent-tools.el -> gptel-agent-tools.el
+    gptel-agent.el -> gptel-agent.el
+Created gptel-agent-20251116.1808.tar containing:
+  gptel-agent-20251116.1808/
+  gptel-agent-20251116.1808/gptel-agent-pkg.el
+  gptel-agent-20251116.1808/gptel-agent-tools-introspection.el
+  gptel-agent-20251116.1808/gptel-agent-tools.el
+  gptel-agent-20251116.1808/gptel-agent.el
+ ✓ Success:
+  2025-11-17T00:23:06+0000  gptel-agent-20251116.1808.entry
+  2025-11-17T00:23:06+0000  gptel-agent-20251116.1808.tar
+Built gptel-agent in 3.206s, finished at 2025-11-17T00:23:07+0000

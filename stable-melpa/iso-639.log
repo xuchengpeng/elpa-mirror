@@ -3,16 +3,16 @@ Fetcher: codeberg
 Source:  https://codeberg.org/tomenzgg/emacs-iso-639
 
 Updating /mnt/store/melpa/working/iso-639/
-Checking out 63e0788175da46c55562919c7fe7c4e43546752d
+Checking out d55dbbea5291dd41de4ccd9662f6dfd610feacb5
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/iso-639/
-  to /tmp/iso-639oSId4R/iso-639-20250303.214
+  to /tmp/iso-639qHXd61/iso-639-20251114.1512
     iso-639.el -> iso-639.el
-Created iso-639-20250303.214.tar containing:
-  iso-639-20250303.214/
-  iso-639-20250303.214/iso-639-pkg.el
-  iso-639-20250303.214/iso-639.el
+Created iso-639-20251114.1512.tar containing:
+  iso-639-20251114.1512/
+  iso-639-20251114.1512/iso-639-pkg.el
+  iso-639-20251114.1512/iso-639.el
  ✓ Success:
-  2025-11-10T00:40:34+0000  iso-639-20250303.214.entry
-  2025-11-10T00:40:34+0000  iso-639-20250303.214.tar
-Built iso-639 in 6.301s, finished at 2025-11-10T00:40:36+0000
+  2025-11-17T00:29:49+0000  iso-639-20251114.1512.entry
+  2025-11-17T00:29:49+0000  iso-639-20251114.1512.tar
+Built iso-639 in 4.125s, finished at 2025-11-17T00:29:50+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/i3bar/
 Checking out 75a81e8100884f679378db52a660b3963f2dbede
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/i3bar/
-  to /tmp/i3barIJwQoy/i3bar-20250913.1829
+  to /tmp/i3barcgQ82h/i3bar-20250913.1829
     i3bar.el -> i3bar.el
 Created i3bar-20250913.1829.tar containing:
   i3bar-20250913.1829/
   i3bar-20250913.1829/i3bar-pkg.el
   i3bar-20250913.1829/i3bar.el
  ✓ Success:
-  2025-11-10T00:38:28+0000  i3bar-20250913.1829.entry
-  2025-11-10T00:38:28+0000  i3bar-20250913.1829.tar
-Built i3bar in 2.819s, finished at 2025-11-10T00:38:29+0000
+  2025-11-17T00:28:02+0000  i3bar-20250913.1829.entry
+  2025-11-17T00:28:02+0000  i3bar-20250913.1829.tar
+Built i3bar in 2.978s, finished at 2025-11-17T00:28:03+0000

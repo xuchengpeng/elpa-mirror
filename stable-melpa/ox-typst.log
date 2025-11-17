@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/jmpunkt/ox-typst
 
 Updating /mnt/store/melpa/working/ox-typst/
-Checking out a6f6759d269a102c2c18bf82d516568dcba895f9
+Checking out d75218627ca8441254b1c562c35673cbd96509ff
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ox-typst/
-  to /tmp/ox-typstJxlYPh/ox-typst-20251103.1825
+  to /tmp/ox-typstIW0A42/ox-typst-20251112.1800
     ox-typst.el -> ox-typst.el
-Created ox-typst-20251103.1825.tar containing:
-  ox-typst-20251103.1825/
-  ox-typst-20251103.1825/ox-typst-pkg.el
-  ox-typst-20251103.1825/ox-typst.el
+Created ox-typst-20251112.1800.tar containing:
+  ox-typst-20251112.1800/
+  ox-typst-20251112.1800/ox-typst-pkg.el
+  ox-typst-20251112.1800/ox-typst.el
  ✓ Success:
-  2025-11-10T00:58:03+0000  ox-typst-20251103.1825.entry
-  2025-11-10T00:58:03+0000  ox-typst-20251103.1825.tar
-Built ox-typst in 5.694s, finished at 2025-11-10T00:58:05+0000
+  2025-11-17T00:47:35+0000  ox-typst-20251112.1800.entry
+  2025-11-17T00:47:35+0000  ox-typst-20251112.1800.tar
+Built ox-typst in 3.395s, finished at 2025-11-17T00:47:36+0000

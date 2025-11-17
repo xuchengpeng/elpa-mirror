@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/flymake-phpstan/
 Checking out 07ef7531f2ec73b90a965ac865cca8c96086f9de
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/flymake-phpstan/
-  to /tmp/flymake-phpstanVgQIY6/flymake-phpstan-20250930.1139
+  to /tmp/flymake-phpstanjiMua0/flymake-phpstan-20250930.1139
     flymake-phpstan.el -> flymake-phpstan.el
 Created flymake-phpstan-20250930.1139.tar containing:
   flymake-phpstan-20250930.1139/
   flymake-phpstan-20250930.1139/flymake-phpstan-pkg.el
   flymake-phpstan-20250930.1139/flymake-phpstan.el
  ✓ Success:
-  2025-11-10T00:30:07+0000  flymake-phpstan-20250930.1139.entry
-  2025-11-10T00:30:07+0000  flymake-phpstan-20250930.1139.tar
-Built flymake-phpstan in 3.017s, finished at 2025-11-10T00:30:08+0000
+  2025-11-17T00:19:05+0000  flymake-phpstan-20250930.1139.entry
+  2025-11-17T00:19:05+0000  flymake-phpstan-20250930.1139.tar
+Built flymake-phpstan in 2.915s, finished at 2025-11-17T00:19:06+0000

@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/isamert/swagg.el
 
 Updating /mnt/store/melpa/working/swagg/
-Checking out 1fe1acf42cd7fe7ffbb56b82a030a53e544b8ff6
+Checking out 87bd1f698bc4c77a1c0d6b252e15f4ee345d2afa
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/swagg/
-  to /tmp/swaggiIIYMS/swagg-20250913.1822
+  to /tmp/swaggCxWa9s/swagg-20251110.2034
     swagg.el -> swagg.el
-Created swagg-20250913.1822.tar containing:
-  swagg-20250913.1822/
-  swagg-20250913.1822/swagg-pkg.el
-  swagg-20250913.1822/swagg.el
+Created swagg-20251110.2034.tar containing:
+  swagg-20251110.2034/
+  swagg-20251110.2034/swagg-pkg.el
+  swagg-20251110.2034/swagg.el
  ✓ Success:
-  2025-11-10T01:11:36+0000  swagg-20250913.1822.entry
-  2025-11-10T01:11:36+0000  swagg-20250913.1822.tar
-Built swagg in 3.295s, finished at 2025-11-10T01:11:37+0000
+  2025-11-17T01:01:11+0000  swagg-20251110.2034.entry
+  2025-11-17T01:01:11+0000  swagg-20251110.2034.tar
+Built swagg in 5.057s, finished at 2025-11-17T01:01:13+0000

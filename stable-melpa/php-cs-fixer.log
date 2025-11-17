@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/php-cs-fixer/
 Checking out 4bf549c1dedad2a2a52257b866bcb180a31f129d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/php-cs-fixer/
-  to /tmp/php-cs-fixerQ2n6Bj/php-cs-fixer-20250211.214
+  to /tmp/php-cs-fixeru4iXxW/php-cs-fixer-20250211.214
     php-cs-fixer.el -> php-cs-fixer.el
 Created php-cs-fixer-20250211.214.tar containing:
   php-cs-fixer-20250211.214/
   php-cs-fixer-20250211.214/php-cs-fixer-pkg.el
   php-cs-fixer-20250211.214/php-cs-fixer.el
  ✓ Success:
-  2025-11-10T00:59:41+0000  php-cs-fixer-20250211.214.entry
-  2025-11-10T00:59:41+0000  php-cs-fixer-20250211.214.tar
-Built php-cs-fixer in 2.830s, finished at 2025-11-10T00:59:42+0000
+  2025-11-17T00:49:14+0000  php-cs-fixer-20250211.214.entry
+  2025-11-17T00:49:14+0000  php-cs-fixer-20250211.214.tar
+Built php-cs-fixer in 3.483s, finished at 2025-11-17T00:49:15+0000

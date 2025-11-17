@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/cd-compile/
 Checking out 10284ccae86afda4a37b09ba90acd1e2efedec9f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/cd-compile/
-  to /tmp/cd-compile3M9H86/cd-compile-20141108.1957
+  to /tmp/cd-compileuB83FY/cd-compile-20141108.1957
     cd-compile.el -> cd-compile.el
 Created cd-compile-20141108.1957.tar containing:
   cd-compile-20141108.1957/
   cd-compile-20141108.1957/cd-compile-pkg.el
   cd-compile-20141108.1957/cd-compile.el
  ✓ Success:
-  2025-11-10T00:11:45+0000  cd-compile-20141108.1957.entry
-  2025-11-10T00:11:45+0000  cd-compile-20141108.1957.tar
-Built cd-compile in 2.699s, finished at 2025-11-10T00:11:46+0000
+  2025-11-17T00:00:21+0000  cd-compile-20141108.1957.entry
+  2025-11-17T00:00:21+0000  cd-compile-20141108.1957.tar
+Built cd-compile in 3.952s, finished at 2025-11-17T00:00:22+0000

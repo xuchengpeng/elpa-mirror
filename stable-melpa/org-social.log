@@ -3,17 +3,17 @@ Fetcher: github
 Source:  https://github.com/tanrax/org-social.el
 
 Updating /mnt/store/melpa/working/org-social/
-Checking out 7c1bd74bfe997686a1597987ed473f9583c5f529
+Checking out dd05b2002e4f0af9ce50fc11f25de28dedb8248d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/org-social/
-  to /tmp/org-socialO0sEad/org-social-20251108.1803
+  to /tmp/org-socialRLQPVF/org-social-20251114.732
+    org-social-accounts.el -> org-social-accounts.el
     org-social-feed.el -> org-social-feed.el
     org-social-file.el -> org-social-file.el
     org-social-notifications.el -> org-social-notifications.el
     org-social-parser.el -> org-social-parser.el
     org-social-partial-fetch.el -> org-social-partial-fetch.el
     org-social-polls.el -> org-social-polls.el
-    org-social-raw.el -> org-social-raw.el
     org-social-relay.el -> org-social-relay.el
     org-social-ui.el -> org-social-ui.el
     org-social-user-queue.el -> org-social-user-queue.el
@@ -30,33 +30,33 @@ Copying files (->) and directories (=>)
   ! ui/buffers/org-social-ui-search.el -> org-social-ui-search.el
   ! ui/buffers/org-social-ui-thread.el -> org-social-ui-thread.el
   ! ui/buffers/org-social-ui-timeline.el -> org-social-ui-timeline.el
-Created org-social-20251108.1803.tar containing:
-  org-social-20251108.1803/
-  org-social-20251108.1803/org-social-feed.el
-  org-social-20251108.1803/org-social-file.el
-  org-social-20251108.1803/org-social-notifications.el
-  org-social-20251108.1803/org-social-parser.el
-  org-social-20251108.1803/org-social-partial-fetch.el
-  org-social-20251108.1803/org-social-pkg.el
-  org-social-20251108.1803/org-social-polls.el
-  org-social-20251108.1803/org-social-raw.el
-  org-social-20251108.1803/org-social-relay.el
-  org-social-20251108.1803/org-social-ui-components.el
-  org-social-20251108.1803/org-social-ui-core.el
-  org-social-20251108.1803/org-social-ui-discover.el
-  org-social-20251108.1803/org-social-ui-groups.el
-  org-social-20251108.1803/org-social-ui-notifications.el
-  org-social-20251108.1803/org-social-ui-profile.el
-  org-social-20251108.1803/org-social-ui-search.el
-  org-social-20251108.1803/org-social-ui-thread.el
-  org-social-20251108.1803/org-social-ui-timeline.el
-  org-social-20251108.1803/org-social-ui-utils.el
-  org-social-20251108.1803/org-social-ui.el
-  org-social-20251108.1803/org-social-user-queue.el
-  org-social-20251108.1803/org-social-validator.el
-  org-social-20251108.1803/org-social-variables.el
-  org-social-20251108.1803/org-social.el
+Created org-social-20251114.732.tar containing:
+  org-social-20251114.732/
+  org-social-20251114.732/org-social-accounts.el
+  org-social-20251114.732/org-social-feed.el
+  org-social-20251114.732/org-social-file.el
+  org-social-20251114.732/org-social-notifications.el
+  org-social-20251114.732/org-social-parser.el
+  org-social-20251114.732/org-social-partial-fetch.el
+  org-social-20251114.732/org-social-pkg.el
+  org-social-20251114.732/org-social-polls.el
+  org-social-20251114.732/org-social-relay.el
+  org-social-20251114.732/org-social-ui-components.el
+  org-social-20251114.732/org-social-ui-core.el
+  org-social-20251114.732/org-social-ui-discover.el
+  org-social-20251114.732/org-social-ui-groups.el
+  org-social-20251114.732/org-social-ui-notifications.el
+  org-social-20251114.732/org-social-ui-profile.el
+  org-social-20251114.732/org-social-ui-search.el
+  org-social-20251114.732/org-social-ui-thread.el
+  org-social-20251114.732/org-social-ui-timeline.el
+  org-social-20251114.732/org-social-ui-utils.el
+  org-social-20251114.732/org-social-ui.el
+  org-social-20251114.732/org-social-user-queue.el
+  org-social-20251114.732/org-social-validator.el
+  org-social-20251114.732/org-social-variables.el
+  org-social-20251114.732/org-social.el
  ✓ Success:
-  2025-11-10T00:56:08+0000  org-social-20251108.1803.entry
-  2025-11-10T00:56:07+0000  org-social-20251108.1803.tar
-Built org-social in 3.774s, finished at 2025-11-10T00:56:08+0000
+  2025-11-17T00:45:50+0000  org-social-20251114.732.entry
+  2025-11-17T00:45:50+0000  org-social-20251114.732.tar
+Built org-social in 3.474s, finished at 2025-11-17T00:45:51+0000

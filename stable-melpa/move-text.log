@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/move-text/
 Checking out 90ef0b078dbcb2dee47a15b0c6c6f417101e0c43
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/move-text/
-  to /tmp/move-textnQK9TY/move-text-20231204.1514
+  to /tmp/move-texth5Qhz1/move-text-20231204.1514
     move-text.el -> move-text.el
 Created move-text-20231204.1514.tar containing:
   move-text-20231204.1514/
   move-text-20231204.1514/move-text-pkg.el
   move-text-20231204.1514/move-text.el
  ✓ Success:
-  2025-11-10T00:49:35+0000  move-text-20231204.1514.entry
-  2025-11-10T00:49:35+0000  move-text-20231204.1514.tar
-Built move-text in 2.694s, finished at 2025-11-10T00:49:36+0000
+  2025-11-17T00:39:07+0000  move-text-20231204.1514.entry
+  2025-11-17T00:39:07+0000  move-text-20231204.1514.tar
+Built move-text in 2.801s, finished at 2025-11-17T00:39:07+0000

@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/ox-ssh/
 Checking out be3b39160da6ae37b1f1cd175ed854ac41d1cb63
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ox-ssh/
-  to /tmp/ox-sshRDgQjV/ox-ssh-20210917.1517
+  to /tmp/ox-sshVp67qV/ox-ssh-20210917.1517
     ox-ssh.el -> ox-ssh.el
 Created ox-ssh-20210917.1517.tar containing:
   ox-ssh-20210917.1517/
   ox-ssh-20210917.1517/ox-ssh-pkg.el
   ox-ssh-20210917.1517/ox-ssh.el
  ✓ Success:
-  2025-11-10T00:57:53+0000  ox-ssh-20210917.1517.entry
-  2025-11-10T00:57:53+0000  ox-ssh-20210917.1517.tar
-Built ox-ssh in 4.530s, finished at 2025-11-10T00:57:55+0000
+  2025-11-17T00:47:29+0000  ox-ssh-20210917.1517.entry
+  2025-11-17T00:47:29+0000  ox-ssh-20210917.1517.tar
+Built ox-ssh in 2.705s, finished at 2025-11-17T00:47:30+0000

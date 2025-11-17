@@ -3,16 +3,16 @@ Fetcher: github
 Source:  https://github.com/psaris/q-mode
 
 Updating /mnt/store/melpa/working/q-mode/
-Checking out e6bf9fb684fd857d61757260e023c2fc4a33772b
+Checking out b42778533328a01d84572ccbdf96a4049ae15935
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/q-mode/
-  to /tmp/q-modeHe9ZcO/q-mode-20250823.1746
+  to /tmp/q-modelXjf83/q-mode-20251115.2320
     q-mode.el -> q-mode.el
-Created q-mode-20250823.1746.tar containing:
-  q-mode-20250823.1746/
-  q-mode-20250823.1746/q-mode-pkg.el
-  q-mode-20250823.1746/q-mode.el
+Created q-mode-20251115.2320.tar containing:
+  q-mode-20251115.2320/
+  q-mode-20251115.2320/q-mode-pkg.el
+  q-mode-20251115.2320/q-mode.el
  ✓ Success:
-  2025-11-10T01:03:07+0000  q-mode-20250823.1746.entry
-  2025-11-10T01:03:07+0000  q-mode-20250823.1746.tar
-Built q-mode in 2.866s, finished at 2025-11-10T01:03:08+0000
+  2025-11-17T00:52:51+0000  q-mode-20251115.2320.entry
+  2025-11-17T00:52:51+0000  q-mode-20251115.2320.tar
+Built q-mode in 2.786s, finished at 2025-11-17T00:52:52+0000

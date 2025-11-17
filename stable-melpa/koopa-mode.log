@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/koopa-mode/
 Checking out 82c81a641e106f270d45427f6d0139aabbd8523c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/koopa-mode/
-  to /tmp/koopa-modeHinZkY/koopa-mode-20230905.2243
+  to /tmp/koopa-mode1eKUX9/koopa-mode-20230905.2243
     koopa-mode.el -> koopa-mode.el
 Created koopa-mode-20230905.2243.tar containing:
   koopa-mode-20230905.2243/
   koopa-mode-20230905.2243/koopa-mode-pkg.el
   koopa-mode-20230905.2243/koopa-mode.el
  ✓ Success:
-  2025-11-10T00:43:29+0000  koopa-mode-20230905.2243.entry
-  2025-11-10T00:43:29+0000  koopa-mode-20230905.2243.tar
-Built koopa-mode in 2.814s, finished at 2025-11-10T00:43:30+0000
+  2025-11-17T00:32:45+0000  koopa-mode-20230905.2243.entry
+  2025-11-17T00:32:45+0000  koopa-mode-20230905.2243.tar
+Built koopa-mode in 4.341s, finished at 2025-11-17T00:32:46+0000

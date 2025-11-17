@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/pebble-mode/
 Checking out bcbc76aa89196338f12a8ddfe4486edf83c19c5e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/pebble-mode/
-  to /tmp/pebble-modedVj3Ft/pebble-mode-20230123.1801
+  to /tmp/pebble-modeWnsysO/pebble-mode-20230123.1801
     pebble-mode.el -> pebble-mode.el
 Created pebble-mode-20230123.1801.tar containing:
   pebble-mode-20230123.1801/
   pebble-mode-20230123.1801/pebble-mode-pkg.el
   pebble-mode-20230123.1801/pebble-mode.el
  ✓ Success:
-  2025-11-10T00:59:09+0000  pebble-mode-20230123.1801.entry
-  2025-11-10T00:59:09+0000  pebble-mode-20230123.1801.tar
-Built pebble-mode in 2.729s, finished at 2025-11-10T00:59:10+0000
+  2025-11-17T00:48:40+0000  pebble-mode-20230123.1801.entry
+  2025-11-17T00:48:40+0000  pebble-mode-20230123.1801.tar
+Built pebble-mode in 3.020s, finished at 2025-11-17T00:48:41+0000

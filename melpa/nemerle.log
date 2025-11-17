@@ -6,13 +6,13 @@ Updating /mnt/store/melpa/working/nemerle/
 Checking out 8818c5af5598e16ea59189e1e3245f0a3d7c78f0
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/nemerle/
-  to /tmp/nemerlefGRyYA/nemerle-20161029.2023
+  to /tmp/nemerleTTXWyq/nemerle-20161029.2023
   ! misc/nemerle.el -> nemerle.el
 Created nemerle-20161029.2023.tar containing:
   nemerle-20161029.2023/
   nemerle-20161029.2023/nemerle-pkg.el
   nemerle-20161029.2023/nemerle.el
  ✓ Success:
-  2025-11-10T00:50:46+0000  nemerle-20161029.2023.entry
-  2025-11-10T00:50:46+0000  nemerle-20161029.2023.tar
-Built nemerle in 5.492s, finished at 2025-11-10T00:50:47+0000
+  2025-11-17T00:40:22+0000  nemerle-20161029.2023.entry
+  2025-11-17T00:40:22+0000  nemerle-20161029.2023.tar
+Built nemerle in 5.910s, finished at 2025-11-17T00:40:23+0000

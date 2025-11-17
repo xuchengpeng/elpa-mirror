@@ -3,18 +3,18 @@ Fetcher: github
 Source:  https://github.com/jgru/consult-org-roam
 
 Updating /mnt/store/melpa/working/consult-org-roam/
-Checking out a6dec09dcd06a3014409044399c4f8860ca45ef1
+Checking out 7d825fffd6f990b800485376f62dd9b277991709
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/consult-org-roam/
-  to /tmp/consult-org-roamxcNuSq/consult-org-roam-20240217.1442
+  to /tmp/consult-org-roamM5w2Co/consult-org-roam-20251116.1230
     consult-org-roam-buffer.el -> consult-org-roam-buffer.el
     consult-org-roam.el -> consult-org-roam.el
-Created consult-org-roam-20240217.1442.tar containing:
-  consult-org-roam-20240217.1442/
-  consult-org-roam-20240217.1442/consult-org-roam-buffer.el
-  consult-org-roam-20240217.1442/consult-org-roam-pkg.el
-  consult-org-roam-20240217.1442/consult-org-roam.el
+Created consult-org-roam-20251116.1230.tar containing:
+  consult-org-roam-20251116.1230/
+  consult-org-roam-20251116.1230/consult-org-roam-buffer.el
+  consult-org-roam-20251116.1230/consult-org-roam-pkg.el
+  consult-org-roam-20251116.1230/consult-org-roam.el
  ✓ Success:
-  2025-11-10T00:15:34+0000  consult-org-roam-20240217.1442.entry
-  2025-11-10T00:15:34+0000  consult-org-roam-20240217.1442.tar
-Built consult-org-roam in 2.918s, finished at 2025-11-10T00:15:35+0000
+  2025-11-17T00:04:31+0000  consult-org-roam-20251116.1230.entry
+  2025-11-17T00:04:31+0000  consult-org-roam-20251116.1230.tar
+Built consult-org-roam in 4.959s, finished at 2025-11-17T00:04:32+0000

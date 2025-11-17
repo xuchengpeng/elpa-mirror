@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/ue/
 Checking out 7819d5b78e5b52a09b36c634ce404dc8bc3711ef
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ue/
-  to /tmp/ueYCpU6k/ue-20210929.1301
+  to /tmp/ueCy80iU/ue-20210929.1301
     ue.el -> ue.el
     snippets => snippets
 Created ue-20210929.1301.tar containing:
@@ -38,6 +38,6 @@ Created ue-20210929.1301.tar containing:
   ue-20210929.1301/ue-pkg.el
   ue-20210929.1301/ue.el
  ✓ Success:
-  2025-11-10T01:15:22+0000  ue-20210929.1301.entry
-  2025-11-10T01:15:22+0000  ue-20210929.1301.tar
-Built ue in 4.096s, finished at 2025-11-10T01:15:22+0000
+  2025-11-17T01:05:04+0000  ue-20210929.1301.entry
+  2025-11-17T01:05:04+0000  ue-20210929.1301.tar
+Built ue in 4.713s, finished at 2025-11-17T01:05:05+0000

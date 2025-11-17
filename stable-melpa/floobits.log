@@ -6,7 +6,7 @@ Updating /mnt/store/melpa/working/floobits/
 Checking out 93b3317fb6c842efe165e54c8a32bf51d436837d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/floobits/
-  to /tmp/floobitsP7BcEB/floobits-20211018.550
+  to /tmp/floobitsr3Ijkl/floobits-20211018.550
     floo => floo
     floobits.el -> floobits.el
     floobits.py -> floobits.py
@@ -62,6 +62,6 @@ Created floobits-20211018.550.tar containing:
   floobits-20211018.550/floobits.el
   floobits-20211018.550/floobits.py
  ✓ Success:
-  2025-11-10T00:27:53+0000  floobits-20211018.550.entry
-  2025-11-10T00:27:53+0000  floobits-20211018.550.tar
-Built floobits in 2.972s, finished at 2025-11-10T00:27:54+0000
+  2025-11-17T00:17:04+0000  floobits-20211018.550.entry
+  2025-11-17T00:17:04+0000  floobits-20211018.550.tar
+Built floobits in 3.125s, finished at 2025-11-17T00:17:05+0000
