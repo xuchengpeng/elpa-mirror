@@ -1,18 +1,15 @@
-Package: transient-extras
-Fetcher: github
-Source:  https://github.com/haji-ali/transient-extras
-
+ • Building package transient-extras (from github:haji-ali/transient-extras)...
 Updating /mnt/store/melpa/working/transient-extras/
 Checking out ca0d5c597382615f0ee8300ff8718f54f8214359
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/transient-extras/
-  to /tmp/transient-extras9UisV4/transient-extras-20230721.839
+  to /tmp/transient-extras3NcJGT/transient-extras-20230721.839
     transient-extras.el -> transient-extras.el
 Created transient-extras-20230721.839.tar containing:
   transient-extras-20230721.839/
   transient-extras-20230721.839/transient-extras-pkg.el
   transient-extras-20230721.839/transient-extras.el
  ✓ Success:
-  2025-11-17T01:04:05+0000  transient-extras-20230721.839.entry
-  2025-11-17T01:04:05+0000  transient-extras-20230721.839.tar
-Built transient-extras in 3.097s, finished at 2025-11-17T01:04:06+0000
+  2025-12-01T01:51:39+0000  transient-extras-20230721.839.entry
+  2025-12-01T01:51:38+0000  transient-extras-20230721.839.tar
+Built transient-extras in 3.063s, finished at 2025-12-01T01:51:39+0000

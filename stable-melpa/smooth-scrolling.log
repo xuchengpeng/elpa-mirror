@@ -1,18 +1,15 @@
-Package: smooth-scrolling
-Fetcher: github
-Source:  https://github.com/aspiers/smooth-scrolling
-
+ • Building package smooth-scrolling (from github:aspiers/smooth-scrolling)...
 Updating /mnt/store/melpa/working/smooth-scrolling/
 Checking out 2462c13640aa4c75ab3ddad443fedc29acf68f84
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/smooth-scrolling/
-  to /tmp/smooth-scrollingkPu0aU/smooth-scrolling-20161002.1949
+  to /tmp/smooth-scrollingS4G5Ts/smooth-scrolling-20161002.1949
     smooth-scrolling.el -> smooth-scrolling.el
 Created smooth-scrolling-20161002.1949.tar containing:
   smooth-scrolling-20161002.1949/
   smooth-scrolling-20161002.1949/smooth-scrolling-pkg.el
   smooth-scrolling-20161002.1949/smooth-scrolling.el
  ✓ Success:
-  2025-11-17T00:59:06+0000  smooth-scrolling-20161002.1949.entry
-  2025-11-17T00:59:06+0000  smooth-scrolling-20161002.1949.tar
-Built smooth-scrolling in 2.794s, finished at 2025-11-17T00:59:07+0000
+  2025-12-01T01:46:36+0000  smooth-scrolling-20161002.1949.entry
+  2025-12-01T01:46:36+0000  smooth-scrolling-20161002.1949.tar
+Built smooth-scrolling in 2.871s, finished at 2025-12-01T01:46:36+0000

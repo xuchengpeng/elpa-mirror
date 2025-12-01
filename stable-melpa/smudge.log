@@ -1,12 +1,9 @@
-Package: smudge
-Fetcher: github
-Source:  https://github.com/danielfm/smudge
-
+ • Building package smudge (from github:danielfm/smudge)...
 Updating /mnt/store/melpa/working/smudge/
 Checking out 422e2b78e7d56ab77815c38d01d2f22ea2472965
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/smudge/
-  to /tmp/smudgeY5vPE8/smudge-20250806.1826
+  to /tmp/smudges5M6Sw/smudge-20250806.1826
     smudge-api.el -> smudge-api.el
     smudge-apple.el -> smudge-apple.el
     smudge-connect.el -> smudge-connect.el
@@ -31,6 +28,6 @@ Created smudge-20250806.1826.tar containing:
   smudge-20250806.1826/smudge-track.el
   smudge-20250806.1826/smudge.el
  ✓ Success:
-  2025-11-17T00:59:08+0000  smudge-20250806.1826.entry
-  2025-11-17T00:59:08+0000  smudge-20250806.1826.tar
-Built smudge in 3.165s, finished at 2025-11-17T00:59:09+0000
+  2025-12-01T01:46:38+0000  smudge-20250806.1826.entry
+  2025-12-01T01:46:38+0000  smudge-20250806.1826.tar
+Built smudge in 3.515s, finished at 2025-12-01T01:46:39+0000

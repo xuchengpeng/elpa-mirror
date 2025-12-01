@@ -1,12 +1,9 @@
-Package: bank-buddy
-Fetcher: github
-Source:  https://github.com/captainflasmr/bank-buddy
-
+ • Building package bank-buddy (from github:captainflasmr/bank-buddy)...
 Updating /mnt/store/melpa/working/bank-buddy/
 Checking out 762ad9e24fa2fe38991513b6b5166c0df8fdd689
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/bank-buddy/
-  to /tmp/bank-buddyTo2t4B/bank-buddy-20250526.1515
+  to /tmp/bank-buddyN16pwa/bank-buddy-20250526.1515
     bank-buddy-cat-mode.el -> bank-buddy-cat-mode.el
     bank-buddy-core.el -> bank-buddy-core.el
     bank-buddy.el -> bank-buddy.el
@@ -22,6 +19,6 @@ Created bank-buddy-20250526.1515.tar containing:
   bank-buddy-20250526.1515/bank-buddy.info
   bank-buddy-20250526.1515/dir
  ✓ Success:
-  2025-11-16T23:57:15+0000  bank-buddy-20250526.1515.entry
-  2025-11-16T23:57:15+0000  bank-buddy-20250526.1515.tar
-Built bank-buddy in 5.155s, finished at 2025-11-16T23:57:16+0000
+  2025-12-01T00:44:24+0000  bank-buddy-20250526.1515.entry
+  2025-12-01T00:44:24+0000  bank-buddy-20250526.1515.tar
+Built bank-buddy in 5.113s, finished at 2025-12-01T00:44:25+0000

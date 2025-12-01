@@ -1,16 +1,13 @@
-Package: term+mux
-Fetcher: github
-Source:  https://github.com/tarao/term-plus-mux-el
-
+ • Building package term+mux (from github:tarao/term-plus-mux-el)...
 Updating /mnt/store/melpa/working/term+mux/
 Checking out 81b60e80cf008472bfd7fad9233af2ef722c208a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/term+mux/
-  to /tmp/term+mux9QCh2o/term+mux-20140211.749
+  to /tmp/term+muxRbdmi4/term+mux-20140211.749
     term+mux.el -> term+mux.el
 Created term+mux-20140211.749.tar containing:
   term+mux-20140211.749/
   term+mux-20140211.749/term+mux-pkg.el
   term+mux-20140211.749/term+mux.el
  ✓ Success:
-Built term+mux in 2.792s, finished at 2025-11-17T01:02:33+0000
+Built term+mux in 2.949s, finished at 2025-12-01T01:50:07+0000

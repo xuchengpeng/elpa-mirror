@@ -1,18 +1,15 @@
-Package: helm-notmuch
-Fetcher: github
-Source:  https://github.com/emacs-helm/helm-notmuch
-
+ • Building package helm-notmuch (from github:emacs-helm/helm-notmuch)...
 Updating /mnt/store/melpa/working/helm-notmuch/
 Checking out 97a01497e079a7b6505987e9feba6b603bbec288
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/helm-notmuch/
-  to /tmp/helm-notmuchcCBP2b/helm-notmuch-20190320.1048
+  to /tmp/helm-notmuchan5N24/helm-notmuch-20190320.1048
     helm-notmuch.el -> helm-notmuch.el
 Created helm-notmuch-20190320.1048.tar containing:
   helm-notmuch-20190320.1048/
   helm-notmuch-20190320.1048/helm-notmuch-pkg.el
   helm-notmuch-20190320.1048/helm-notmuch.el
  ✓ Success:
-  2025-11-17T00:25:26+0000  helm-notmuch-20190320.1048.entry
-  2025-11-17T00:25:26+0000  helm-notmuch-20190320.1048.tar
-Built helm-notmuch in 2.417s, finished at 2025-11-17T00:25:27+0000
+  2025-12-01T01:12:47+0000  helm-notmuch-20190320.1048.entry
+  2025-12-01T01:12:47+0000  helm-notmuch-20190320.1048.tar
+Built helm-notmuch in 2.550s, finished at 2025-12-01T01:12:47+0000

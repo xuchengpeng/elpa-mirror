@@ -1,18 +1,15 @@
-Package: ivy-gitlab
-Fetcher: github
-Source:  https://github.com/nlamirault/emacs-gitlab
-
+ • Building package ivy-gitlab (from github:nlamirault/emacs-gitlab)...
 Updating /mnt/store/melpa/working/ivy-gitlab/
 Checking out 8c2324c02119500f094c2f92dfaba4c9977ce1ba
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ivy-gitlab/
-  to /tmp/ivy-gitlabBns1cM/ivy-gitlab-20181228.826
+  to /tmp/ivy-gitlabjqeaBf/ivy-gitlab-20181228.826
     ivy-gitlab.el -> ivy-gitlab.el
 Created ivy-gitlab-20181228.826.tar containing:
   ivy-gitlab-20181228.826/
   ivy-gitlab-20181228.826/ivy-gitlab-pkg.el
   ivy-gitlab-20181228.826/ivy-gitlab.el
  ✓ Success:
-  2025-11-17T00:30:04+0000  ivy-gitlab-20181228.826.entry
-  2025-11-17T00:30:04+0000  ivy-gitlab-20181228.826.tar
-Built ivy-gitlab in 3.339s, finished at 2025-11-17T00:30:05+0000
+  2025-12-01T01:17:13+0000  ivy-gitlab-20181228.826.entry
+  2025-12-01T01:17:13+0000  ivy-gitlab-20181228.826.tar
+Built ivy-gitlab in 3.016s, finished at 2025-12-01T01:17:14+0000

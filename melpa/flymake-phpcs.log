@@ -1,18 +1,15 @@
-Package: flymake-phpcs
-Fetcher: github
-Source:  https://github.com/flymake/flymake-phpcs
-
+ • Building package flymake-phpcs (from github:flymake/flymake-phpcs)...
 Updating /mnt/store/melpa/working/flymake-phpcs/
 Checking out f947ba3066c1fa903d2ec69d67bf84413f51eb3f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/flymake-phpcs/
-  to /tmp/flymake-phpcsL9K1Oe/flymake-phpcs-20210213.732
+  to /tmp/flymake-phpcsyhgNku/flymake-phpcs-20210213.732
     flymake-phpcs.el -> flymake-phpcs.el
 Created flymake-phpcs-20210213.732.tar containing:
   flymake-phpcs-20210213.732/
   flymake-phpcs-20210213.732/flymake-phpcs-pkg.el
   flymake-phpcs-20210213.732/flymake-phpcs.el
  ✓ Success:
-  2025-11-17T00:19:04+0000  flymake-phpcs-20210213.732.entry
-  2025-11-17T00:19:04+0000  flymake-phpcs-20210213.732.tar
-Built flymake-phpcs in 2.843s, finished at 2025-11-17T00:19:05+0000
+  2025-12-01T01:06:24+0000  flymake-phpcs-20210213.732.entry
+  2025-12-01T01:06:24+0000  flymake-phpcs-20210213.732.tar
+Built flymake-phpcs in 2.908s, finished at 2025-12-01T01:06:25+0000

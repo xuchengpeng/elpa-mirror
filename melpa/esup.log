@@ -1,12 +1,9 @@
-Package: esup
-Fetcher: github
-Source:  https://github.com/jschaf/esup
-
+ • Building package esup (from github:jschaf/esup)...
 Updating /mnt/store/melpa/working/esup/
 Checking out 4b49c8d599d4cc0fbf994e9e54a9c78e5ab62a5f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/esup/
-  to /tmp/esupbNeP5B/esup-20220202.2335
+  to /tmp/esupSdcj1C/esup-20220202.2335
     esup-child.el -> esup-child.el
     esup.el -> esup.el
 Created esup-20220202.2335.tar containing:
@@ -15,6 +12,6 @@ Created esup-20220202.2335.tar containing:
   esup-20220202.2335/esup-pkg.el
   esup-20220202.2335/esup.el
  ✓ Success:
-  2025-11-17T00:14:05+0000  esup-20220202.2335.entry
-  2025-11-17T00:14:05+0000  esup-20220202.2335.tar
-Built esup in 2.825s, finished at 2025-11-17T00:14:06+0000
+  2025-12-01T01:01:18+0000  esup-20220202.2335.entry
+  2025-12-01T01:01:18+0000  esup-20220202.2335.tar
+Built esup in 2.963s, finished at 2025-12-01T01:01:18+0000

@@ -1,18 +1,15 @@
-Package: powershell
-Fetcher: github
-Source:  https://github.com/jschaf/powershell.el
-
+ • Building package powershell (from github:jschaf/powershell.el)...
 Updating /mnt/store/melpa/working/powershell/
-Checking out 587d847f3cb98cc3cf85fc8602dfa85b21f36d95
+Checking out ae60e11c96cc1767f05ce0cab6a917240ce2e37a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/powershell/
-  to /tmp/powershellLvbs1h/powershell-20251112.628
+  to /tmp/powershellvqeSfH/powershell-20251122.1430
     powershell.el -> powershell.el
-Created powershell-20251112.628.tar containing:
-  powershell-20251112.628/
-  powershell-20251112.628/powershell-pkg.el
-  powershell-20251112.628/powershell.el
+Created powershell-20251122.1430.tar containing:
+  powershell-20251122.1430/
+  powershell-20251122.1430/powershell-pkg.el
+  powershell-20251122.1430/powershell.el
  ✓ Success:
-  2025-11-17T00:50:56+0000  powershell-20251112.628.entry
-  2025-11-17T00:50:56+0000  powershell-20251112.628.tar
-Built powershell in 3.406s, finished at 2025-11-17T00:50:57+0000
+  2025-12-01T01:38:24+0000  powershell-20251122.1430.entry
+  2025-12-01T01:38:24+0000  powershell-20251122.1430.tar
+Built powershell in 5.279s, finished at 2025-12-01T01:38:26+0000

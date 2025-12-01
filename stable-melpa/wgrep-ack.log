@@ -1,18 +1,15 @@
-Package: wgrep-ack
-Fetcher: github
-Source:  https://github.com/mhayashi1120/Emacs-wgrep
-
+ • Building package wgrep-ack (from github:mhayashi1120/Emacs-wgrep)...
 Updating /mnt/store/melpa/working/wgrep-ack/
 Checking out edf768732a56840db6879706b64c5773c316d619
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/wgrep-ack/
-  to /tmp/wgrep-ackQLflXY/wgrep-ack-20230207.1125
+  to /tmp/wgrep-ackYtG5nd/wgrep-ack-20230207.1125
     wgrep-ack.el -> wgrep-ack.el
 Created wgrep-ack-20230207.1125.tar containing:
   wgrep-ack-20230207.1125/
   wgrep-ack-20230207.1125/wgrep-ack-pkg.el
   wgrep-ack-20230207.1125/wgrep-ack.el
  ✓ Success:
-  2025-11-17T01:07:51+0000  wgrep-ack-20230207.1125.entry
-  2025-11-17T01:07:51+0000  wgrep-ack-20230207.1125.tar
-Built wgrep-ack in 3.040s, finished at 2025-11-17T01:07:52+0000
+  2025-12-01T01:55:36+0000  wgrep-ack-20230207.1125.entry
+  2025-12-01T01:55:36+0000  wgrep-ack-20230207.1125.tar
+Built wgrep-ack in 4.681s, finished at 2025-12-01T01:55:37+0000

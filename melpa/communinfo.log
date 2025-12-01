@@ -1,18 +1,15 @@
-Package: communinfo
-Fetcher: codeberg
-Source:  https://codeberg.org/mekeor/communinfo
-
+ • Building package communinfo (from codeberg:mekeor/communinfo)...
 Updating /mnt/store/melpa/working/communinfo/
 Checking out a562535f385f1ff7a154b01047e4e2c9efc2dd65
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/communinfo/
-  to /tmp/communinfoav9y27/communinfo-20250927.28
+  to /tmp/communinfo64f8ah/communinfo-20250927.28
     communinfo.el -> communinfo.el
 Created communinfo-20250927.28.tar containing:
   communinfo-20250927.28/
   communinfo-20250927.28/communinfo-pkg.el
   communinfo-20250927.28/communinfo.el
  ✓ Success:
-  2025-11-17T00:02:51+0000  communinfo-20250927.28.entry
-  2025-11-17T00:02:51+0000  communinfo-20250927.28.tar
-Built communinfo in 3.917s, finished at 2025-11-17T00:02:52+0000
+  2025-12-01T00:49:43+0000  communinfo-20250927.28.entry
+  2025-12-01T00:49:43+0000  communinfo-20250927.28.tar
+Built communinfo in 3.910s, finished at 2025-12-01T00:49:44+0000

@@ -1,18 +1,15 @@
-Package: meep
-Fetcher: codeberg
-Source:  https://codeberg.org/ideasman42/emacs-meep
-
+ • Building package meep (from codeberg:ideasman42/emacs-meep)...
 Updating /mnt/store/melpa/working/meep/
-Checking out de7f3c51bcfcb54417f3c59ae9db2ce24d9ec7bd
+Checking out f03cb16f39174ee9b03c245193aee964d17eb53b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/meep/
-  to /tmp/meep5yLroG/meep-20251110.2151
+  to /tmp/meep7EjQYw/meep-20251126.308
     meep.el -> meep.el
-Created meep-20251110.2151.tar containing:
-  meep-20251110.2151/
-  meep-20251110.2151/meep-pkg.el
-  meep-20251110.2151/meep.el
+Created meep-20251126.308.tar containing:
+  meep-20251126.308/
+  meep-20251126.308/meep-pkg.el
+  meep-20251126.308/meep.el
  ✓ Success:
-  2025-11-17T00:37:09+0000  meep-20251110.2151.entry
-  2025-11-17T00:37:09+0000  meep-20251110.2151.tar
-Built meep in 4.024s, finished at 2025-11-17T00:37:10+0000
+  2025-12-01T01:24:30+0000  meep-20251126.308.entry
+  2025-12-01T01:24:30+0000  meep-20251126.308.tar
+Built meep in 4.431s, finished at 2025-12-01T01:24:31+0000

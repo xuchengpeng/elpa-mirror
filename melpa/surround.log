@@ -1,18 +1,15 @@
-Package: surround
-Fetcher: github
-Source:  https://github.com/mkleehammer/surround
-
+ • Building package surround (from github:mkleehammer/surround)...
 Updating /mnt/store/melpa/working/surround/
 Checking out 6807bf69be1591a419a009adf8a5071b1cdcc76e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/surround/
-  to /tmp/surroundT0myEs/surround-20250725.511
+  to /tmp/surroundGC0WGZ/surround-20250725.511
     surround.el -> surround.el
 Created surround-20250725.511.tar containing:
   surround-20250725.511/
   surround-20250725.511/surround-pkg.el
   surround-20250725.511/surround.el
  ✓ Success:
-  2025-11-17T01:01:02+0000  surround-20250725.511.entry
-  2025-11-17T01:01:02+0000  surround-20250725.511.tar
-Built surround in 4.889s, finished at 2025-11-17T01:01:04+0000
+  2025-12-01T01:48:33+0000  surround-20250725.511.entry
+  2025-12-01T01:48:33+0000  surround-20250725.511.tar
+Built surround in 2.843s, finished at 2025-12-01T01:48:34+0000

@@ -1,18 +1,15 @@
-Package: go-stacktracer
-Fetcher: github
-Source:  https://github.com/samertm/go-stacktracer.el
-
+ • Building package go-stacktracer (from github:samertm/go-stacktracer.el)...
 Updating /mnt/store/melpa/working/go-stacktracer/
 Checking out a2ac6d801b389f80ca4e2fcc1ab44513a9e55976
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/go-stacktracer/
-  to /tmp/go-stacktracerkdF1Oz/go-stacktracer-20150430.2142
+  to /tmp/go-stacktracer9ETKt5/go-stacktracer-20150430.2142
     go-stacktracer.el -> go-stacktracer.el
 Created go-stacktracer-20150430.2142.tar containing:
   go-stacktracer-20150430.2142/
   go-stacktracer-20150430.2142/go-stacktracer-pkg.el
   go-stacktracer-20150430.2142/go-stacktracer.el
  ✓ Success:
-  2025-11-17T00:22:37+0000  go-stacktracer-20150430.2142.entry
-  2025-11-17T00:22:37+0000  go-stacktracer-20150430.2142.tar
-Built go-stacktracer in 2.797s, finished at 2025-11-17T00:22:38+0000
+  2025-12-01T01:09:55+0000  go-stacktracer-20150430.2142.entry
+  2025-12-01T01:09:55+0000  go-stacktracer-20150430.2142.tar
+Built go-stacktracer in 2.678s, finished at 2025-12-01T01:09:56+0000

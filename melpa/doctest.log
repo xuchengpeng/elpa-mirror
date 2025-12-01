@@ -1,18 +1,15 @@
-Package: doctest
-Fetcher: github
-Source:  https://github.com/ag91/doctest
-
+ • Building package doctest (from github:ag91/doctest)...
 Updating /mnt/store/melpa/working/doctest/
 Checking out 0620ab6283a4e4302761ac415354b0b2b889dcda
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/doctest/
-  to /tmp/doctestlpI3NQ/doctest-20240421.1517
+  to /tmp/doctestrcFVY0/doctest-20240421.1517
     doctest.el -> doctest.el
 Created doctest-20240421.1517.tar containing:
   doctest-20240421.1517/
   doctest-20240421.1517/doctest-pkg.el
   doctest-20240421.1517/doctest.el
  ✓ Success:
-  2025-11-17T00:08:53+0000  doctest-20240421.1517.entry
-  2025-11-17T00:08:53+0000  doctest-20240421.1517.tar
-Built doctest in 2.776s, finished at 2025-11-17T00:08:54+0000
+  2025-12-01T00:56:02+0000  doctest-20240421.1517.entry
+  2025-12-01T00:56:02+0000  doctest-20240421.1517.tar
+Built doctest in 2.916s, finished at 2025-12-01T00:56:03+0000

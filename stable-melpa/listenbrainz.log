@@ -1,18 +1,15 @@
-Package: listenbrainz
-Fetcher: github
-Source:  https://github.com/zzkt/metabrainz
-
+ • Building package listenbrainz (from github:zzkt/metabrainz)...
 Updating /mnt/store/melpa/working/listenbrainz/
 Checking out 2386189ec8a19a74d7b8a46e08a9fa6d974a6305
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/listenbrainz/
-  to /tmp/listenbrainzh2OnHs/listenbrainz-20230530.741
+  to /tmp/listenbrainzO6nRqw/listenbrainz-20230530.741
     listenbrainz.el -> listenbrainz.el
 Created listenbrainz-20230530.741.tar containing:
   listenbrainz-20230530.741/
   listenbrainz-20230530.741/listenbrainz-pkg.el
   listenbrainz-20230530.741/listenbrainz.el
  ✓ Success:
-  2025-11-17T00:34:29+0000  listenbrainz-20230530.741.entry
-  2025-11-17T00:34:29+0000  listenbrainz-20230530.741.tar
-Built listenbrainz in 3.064s, finished at 2025-11-17T00:34:30+0000
+  2025-12-01T01:21:36+0000  listenbrainz-20230530.741.entry
+  2025-12-01T01:21:36+0000  listenbrainz-20230530.741.tar
+Built listenbrainz in 2.996s, finished at 2025-12-01T01:21:37+0000

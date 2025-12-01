@@ -1,18 +1,15 @@
-Package: company-shell
-Fetcher: github
-Source:  https://github.com/Alexander-Miller/company-shell
-
+ • Building package company-shell (from github:Alexander-Miller/company-shell)...
 Updating /mnt/store/melpa/working/company-shell/
 Checking out 5f959a63a6e66eb0cbdac3168cad523a62cc2ccd
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/company-shell/
-  to /tmp/company-shellh0YLn8/company-shell-20230106.1532
+  to /tmp/company-shell1snQmR/company-shell-20230106.1532
     company-shell.el -> company-shell.el
 Created company-shell-20230106.1532.tar containing:
   company-shell-20230106.1532/
   company-shell-20230106.1532/company-shell-pkg.el
   company-shell-20230106.1532/company-shell.el
  ✓ Success:
-  2025-11-17T00:03:33+0000  company-shell-20230106.1532.entry
-  2025-11-17T00:03:33+0000  company-shell-20230106.1532.tar
-Built company-shell in 2.796s, finished at 2025-11-17T00:03:34+0000
+  2025-12-01T00:50:23+0000  company-shell-20230106.1532.entry
+  2025-12-01T00:50:23+0000  company-shell-20230106.1532.tar
+Built company-shell in 2.875s, finished at 2025-12-01T00:50:23+0000

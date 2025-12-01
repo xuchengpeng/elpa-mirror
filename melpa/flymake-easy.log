@@ -1,18 +1,15 @@
-Package: flymake-easy
-Fetcher: github
-Source:  https://github.com/purcell/flymake-easy
-
+ • Building package flymake-easy (from github:purcell/flymake-easy)...
 Updating /mnt/store/melpa/working/flymake-easy/
 Checking out 1986500f75ea06f006ab1734abcce441117d385d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/flymake-easy/
-  to /tmp/flymake-easyb8e9MM/flymake-easy-20240624.1702
+  to /tmp/flymake-easyoJcYx6/flymake-easy-20240624.1702
     flymake-easy.el -> flymake-easy.el
 Created flymake-easy-20240624.1702.tar containing:
   flymake-easy-20240624.1702/
   flymake-easy-20240624.1702/flymake-easy-pkg.el
   flymake-easy-20240624.1702/flymake-easy.el
  ✓ Success:
-  2025-11-17T00:18:41+0000  flymake-easy-20240624.1702.entry
-  2025-11-17T00:18:41+0000  flymake-easy-20240624.1702.tar
-Built flymake-easy in 2.738s, finished at 2025-11-17T00:18:42+0000
+  2025-12-01T01:06:01+0000  flymake-easy-20240624.1702.entry
+  2025-12-01T01:06:01+0000  flymake-easy-20240624.1702.tar
+Built flymake-easy in 3.053s, finished at 2025-12-01T01:06:02+0000

@@ -1,12 +1,9 @@
-Package: hass
-Fetcher: github
-Source:  https://github.com/purplg/hass
-
+ • Building package hass (from github:purplg/hass)...
 Updating /mnt/store/melpa/working/hass/
 Checking out 4c9da37c5217177d43dbd2cb9cd458c01b834c54
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/hass/
-  to /tmp/hassMtbCwU/hass-20230529.1312
+  to /tmp/hassC7R1yB/hass-20230529.1312
     hass-dash.el -> hass-dash.el
     hass-websocket.el -> hass-websocket.el
     hass.el -> hass.el
@@ -17,6 +14,6 @@ Created hass-20230529.1312.tar containing:
   hass-20230529.1312/hass-websocket.el
   hass-20230529.1312/hass.el
  ✓ Success:
-  2025-11-17T00:24:10+0000  hass-20230529.1312.entry
-  2025-11-17T00:24:10+0000  hass-20230529.1312.tar
-Built hass in 2.988s, finished at 2025-11-17T00:24:11+0000
+  2025-12-01T01:11:29+0000  hass-20230529.1312.entry
+  2025-12-01T01:11:29+0000  hass-20230529.1312.tar
+Built hass in 2.956s, finished at 2025-12-01T01:11:30+0000

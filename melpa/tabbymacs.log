@@ -1,18 +1,15 @@
-Package: tabbymacs
-Fetcher: github
-Source:  https://github.com/Bastillan/tabbymacs
-
+ • Building package tabbymacs (from github:Bastillan/tabbymacs)...
 Updating /mnt/store/melpa/working/tabbymacs/
 Checking out b88bac22c923bebbbc7e52f10a25669a7680698c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/tabbymacs/
-  to /tmp/tabbymacsaHhrNC/tabbymacs-20251007.1441
+  to /tmp/tabbymacsCkEijx/tabbymacs-20251007.1441
     tabbymacs.el -> tabbymacs.el
 Created tabbymacs-20251007.1441.tar containing:
   tabbymacs-20251007.1441/
   tabbymacs-20251007.1441/tabbymacs-pkg.el
   tabbymacs-20251007.1441/tabbymacs.el
  ✓ Success:
-  2025-11-17T01:02:03+0000  tabbymacs-20251007.1441.entry
-  2025-11-17T01:02:02+0000  tabbymacs-20251007.1441.tar
-Built tabbymacs in 3.747s, finished at 2025-11-17T01:02:04+0000
+  2025-12-01T01:49:23+0000  tabbymacs-20251007.1441.entry
+  2025-12-01T01:49:23+0000  tabbymacs-20251007.1441.tar
+Built tabbymacs in 5.011s, finished at 2025-12-01T01:49:25+0000

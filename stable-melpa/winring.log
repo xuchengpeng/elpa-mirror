@@ -1,18 +1,15 @@
-Package: winring
-Fetcher: gitlab
-Source:  https://gitlab.com/warsaw/winring
-
+ • Building package winring (from gitlab:warsaw/winring)...
 Updating /mnt/store/melpa/working/winring/
-Checking out 83f0d5662ad48c0813b824501a36a599bdd7acf6
+Checking out 286bd61536396e262295a442b7a5ed49cbcc81d9
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/winring/
-  to /tmp/winringFTqpw1/winring-20240905.1634
+  to /tmp/winring4iS2DU/winring-20251122.112
     winring.el -> winring.el
-Created winring-20240905.1634.tar containing:
-  winring-20240905.1634/
-  winring-20240905.1634/winring-pkg.el
-  winring-20240905.1634/winring.el
+Created winring-20251122.112.tar containing:
+  winring-20251122.112/
+  winring-20251122.112/winring-pkg.el
+  winring-20251122.112/winring.el
  ✓ Success:
-  2025-11-17T01:08:23+0000  winring-20240905.1634.entry
-  2025-11-17T01:08:23+0000  winring-20240905.1634.tar
-Built winring in 3.524s, finished at 2025-11-17T01:08:24+0000
+  2025-12-01T01:56:08+0000  winring-20251122.112.entry
+  2025-12-01T01:56:08+0000  winring-20251122.112.tar
+Built winring in 4.036s, finished at 2025-12-01T01:56:09+0000

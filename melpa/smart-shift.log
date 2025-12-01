@@ -1,18 +1,15 @@
-Package: smart-shift
-Fetcher: github
-Source:  https://github.com/hbin/smart-shift
-
+ • Building package smart-shift (from github:hbin/smart-shift)...
 Updating /mnt/store/melpa/working/smart-shift/
-Checking out a26ab2b240137e62ec4bce1698ed9c5f7b6d13ae
+Checking out b9958f042f974e09a7e9442431a1f9cbd8404f8a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/smart-shift/
-  to /tmp/smart-shiftsxXHnr/smart-shift-20150203.725
+  to /tmp/smart-shiftACN3nI/smart-shift-20251125.1349
     smart-shift.el -> smart-shift.el
-Created smart-shift-20150203.725.tar containing:
-  smart-shift-20150203.725/
-  smart-shift-20150203.725/smart-shift-pkg.el
-  smart-shift-20150203.725/smart-shift.el
+Created smart-shift-20251125.1349.tar containing:
+  smart-shift-20251125.1349/
+  smart-shift-20251125.1349/smart-shift-pkg.el
+  smart-shift-20251125.1349/smart-shift.el
  ✓ Success:
-  2025-11-17T00:58:51+0000  smart-shift-20150203.725.entry
-  2025-11-17T00:58:51+0000  smart-shift-20150203.725.tar
-Built smart-shift in 3.224s, finished at 2025-11-17T00:58:52+0000
+  2025-12-01T01:46:20+0000  smart-shift-20251125.1349.entry
+  2025-12-01T01:46:20+0000  smart-shift-20251125.1349.tar
+Built smart-shift in 3.241s, finished at 2025-12-01T01:46:21+0000

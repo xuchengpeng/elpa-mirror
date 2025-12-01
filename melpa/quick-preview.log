@@ -1,18 +1,15 @@
-Package: quick-preview
-Fetcher: github
-Source:  https://github.com/emacsattic/quick-preview
-
+ • Building package quick-preview (from github:emacsattic/quick-preview)...
 Updating /mnt/store/melpa/working/quick-preview/
 Checking out a312ab5539b9a362da9d305e4da814e17c5721c9
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/quick-preview/
-  to /tmp/quick-previewZW5iDr/quick-preview-20191017.1920
+  to /tmp/quick-previewHL6OJt/quick-preview-20191017.1920
     quick-preview.el -> quick-preview.el
 Created quick-preview-20191017.1920.tar containing:
   quick-preview-20191017.1920/
   quick-preview-20191017.1920/quick-preview-pkg.el
   quick-preview-20191017.1920/quick-preview.el
  ✓ Success:
-  2025-11-17T00:53:02+0000  quick-preview-20191017.1920.entry
-  2025-11-17T00:53:01+0000  quick-preview-20191017.1920.tar
-Built quick-preview in 2.801s, finished at 2025-11-17T00:53:02+0000
+  2025-12-01T01:40:36+0000  quick-preview-20191017.1920.entry
+  2025-12-01T01:40:35+0000  quick-preview-20191017.1920.tar
+Built quick-preview in 3.053s, finished at 2025-12-01T01:40:37+0000

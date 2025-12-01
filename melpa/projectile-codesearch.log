@@ -1,18 +1,15 @@
-Package: projectile-codesearch
-Fetcher: github
-Source:  https://github.com/abingham/emacs-codesearch
-
+ • Building package projectile-codesearch (from github:abingham/emacs-codesearch)...
 Updating /mnt/store/melpa/working/projectile-codesearch/
 Checking out e40efc62e9333db0593bd81b5c78d08b19bfb193
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/projectile-codesearch/
-  to /tmp/projectile-codesearchWYgPt0/projectile-codesearch-20180508.1522
+  to /tmp/projectile-codesearchE2hHyY/projectile-codesearch-20180508.1522
     projectile-codesearch.el -> projectile-codesearch.el
 Created projectile-codesearch-20180508.1522.tar containing:
   projectile-codesearch-20180508.1522/
   projectile-codesearch-20180508.1522/projectile-codesearch-pkg.el
   projectile-codesearch-20180508.1522/projectile-codesearch.el
  ✓ Success:
-  2025-11-17T00:51:33+0000  projectile-codesearch-20180508.1522.entry
-  2025-11-17T00:51:33+0000  projectile-codesearch-20180508.1522.tar
-Built projectile-codesearch in 2.635s, finished at 2025-11-17T00:51:34+0000
+  2025-12-01T01:39:02+0000  projectile-codesearch-20180508.1522.entry
+  2025-12-01T01:39:02+0000  projectile-codesearch-20180508.1522.tar
+Built projectile-codesearch in 3.177s, finished at 2025-12-01T01:39:03+0000

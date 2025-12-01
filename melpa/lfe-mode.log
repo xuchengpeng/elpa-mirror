@@ -1,12 +1,9 @@
-Package: lfe-mode
-Fetcher: github
-Source:  https://github.com/rvirding/lfe
-
+ • Building package lfe-mode (from github:rvirding/lfe)...
 Updating /mnt/store/melpa/working/lfe-mode/
 Checking out ebd7d221c52b6bf8c47c9e4f7daf15b3dee4d3fa
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/lfe-mode/
-  to /tmp/lfe-modez8DGAL/lfe-mode-20250702.1243
+  to /tmp/lfe-modekF3Xh8/lfe-mode-20250702.1243
   ! emacs/inferior-lfe.el -> inferior-lfe.el
   ! emacs/lfe-mode.el -> lfe-mode.el
   ! emacs/lfe-indent.el -> lfe-indent.el
@@ -17,6 +14,6 @@ Created lfe-mode-20250702.1243.tar containing:
   lfe-mode-20250702.1243/lfe-mode-pkg.el
   lfe-mode-20250702.1243/lfe-mode.el
  ✓ Success:
-  2025-11-17T00:34:01+0000  lfe-mode-20250702.1243.entry
-  2025-11-17T00:34:01+0000  lfe-mode-20250702.1243.tar
-Built lfe-mode in 3.435s, finished at 2025-11-17T00:34:02+0000
+  2025-12-01T01:21:07+0000  lfe-mode-20250702.1243.entry
+  2025-12-01T01:21:07+0000  lfe-mode-20250702.1243.tar
+Built lfe-mode in 6.178s, finished at 2025-12-01T01:21:08+0000

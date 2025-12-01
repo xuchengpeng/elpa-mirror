@@ -1,18 +1,15 @@
-Package: kolon-mode
-Fetcher: github
-Source:  https://github.com/samvtran/kolon-mode
-
+ • Building package kolon-mode (from github:samvtran/kolon-mode)...
 Updating /mnt/store/melpa/working/kolon-mode/
 Checking out 5af0955e280ae991862189ebecd3937c5fc8fb9f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/kolon-mode/
-  to /tmp/kolon-modeL4cQLL/kolon-mode-20140122.1134
+  to /tmp/kolon-modeaJ6OV7/kolon-mode-20140122.1134
     kolon-mode.el -> kolon-mode.el
 Created kolon-mode-20140122.1134.tar containing:
   kolon-mode-20140122.1134/
   kolon-mode-20140122.1134/kolon-mode-pkg.el
   kolon-mode-20140122.1134/kolon-mode.el
  ✓ Success:
-  2025-11-17T00:32:42+0000  kolon-mode-20140122.1134.entry
-  2025-11-17T00:32:42+0000  kolon-mode-20140122.1134.tar
-Built kolon-mode in 4.361s, finished at 2025-11-17T00:32:44+0000
+  2025-12-01T01:19:46+0000  kolon-mode-20140122.1134.entry
+  2025-12-01T01:19:46+0000  kolon-mode-20140122.1134.tar
+Built kolon-mode in 2.805s, finished at 2025-12-01T01:19:47+0000

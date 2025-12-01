@@ -1,18 +1,15 @@
-Package: klere-theme
-Fetcher: codeberg
-Source:  https://codeberg.org/tomenzgg/emacs-klere-theme
-
+ • Building package klere-theme (from codeberg:tomenzgg/emacs-klere-theme)...
 Updating /mnt/store/melpa/working/klere-theme/
 Checking out 377cc33617184e23acde6707beaf8938915fe093
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/klere-theme/
-  to /tmp/klere-themevMIWbc/klere-theme-20250517.452
+  to /tmp/klere-themeJwQol7/klere-theme-20250517.452
     klere-theme.el -> klere-theme.el
 Created klere-theme-20250517.452.tar containing:
   klere-theme-20250517.452/
   klere-theme-20250517.452/klere-theme-pkg.el
   klere-theme-20250517.452/klere-theme.el
  ✓ Success:
-  2025-11-17T00:32:37+0000  klere-theme-20250517.452.entry
-  2025-11-17T00:32:37+0000  klere-theme-20250517.452.tar
-Built klere-theme in 6.104s, finished at 2025-11-17T00:32:38+0000
+  2025-12-01T01:19:44+0000  klere-theme-20250517.452.entry
+  2025-12-01T01:19:44+0000  klere-theme-20250517.452.tar
+Built klere-theme in 4.002s, finished at 2025-12-01T01:19:45+0000

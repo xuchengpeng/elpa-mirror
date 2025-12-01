@@ -1,18 +1,15 @@
-Package: trailing-newline-indicator
-Fetcher: github
-Source:  https://github.com/saulotoledo/trailing-newline-indicator
-
+ • Building package trailing-newline-indicator (from github:saulotoledo/trailing-newline-indicator)...
 Updating /mnt/store/melpa/working/trailing-newline-indicator/
 Checking out 9d4d8cba8ae20301458b9f9a4399c72951c70471
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/trailing-newline-indicator/
-  to /tmp/trailing-newline-indicatorVl61Ea/trailing-newline-indicator-20251115.2242
+  to /tmp/trailing-newline-indicator3Yhd8i/trailing-newline-indicator-20251115.2242
     trailing-newline-indicator.el -> trailing-newline-indicator.el
 Created trailing-newline-indicator-20251115.2242.tar containing:
   trailing-newline-indicator-20251115.2242/
   trailing-newline-indicator-20251115.2242/trailing-newline-indicator-pkg.el
   trailing-newline-indicator-20251115.2242/trailing-newline-indicator.el
  ✓ Success:
-  2025-11-17T01:03:59+0000  trailing-newline-indicator-20251115.2242.entry
-  2025-11-17T01:03:59+0000  trailing-newline-indicator-20251115.2242.tar
-Built trailing-newline-indicator in 3.411s, finished at 2025-11-17T01:04:00+0000
+  2025-12-01T01:51:31+0000  trailing-newline-indicator-20251115.2242.entry
+  2025-12-01T01:51:31+0000  trailing-newline-indicator-20251115.2242.tar
+Built trailing-newline-indicator in 3.359s, finished at 2025-12-01T01:51:32+0000

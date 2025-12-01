@@ -1,18 +1,15 @@
-Package: esqlite-helm
-Fetcher: github
-Source:  https://github.com/mhayashi1120/Emacs-esqlite
-
+ • Building package esqlite-helm (from github:mhayashi1120/Emacs-esqlite)...
 Updating /mnt/store/melpa/working/esqlite-helm/
 Checking out 84d5b16198f30949c544affba751ee0d58a000d9
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/esqlite-helm/
-  to /tmp/esqlite-helmNA06If/esqlite-helm-20151116.850
+  to /tmp/esqlite-helmPWoioX/esqlite-helm-20151116.850
     esqlite-helm.el -> esqlite-helm.el
 Created esqlite-helm-20151116.850.tar containing:
   esqlite-helm-20151116.850/
   esqlite-helm-20151116.850/esqlite-helm-pkg.el
   esqlite-helm-20151116.850/esqlite-helm.el
  ✓ Success:
-  2025-11-17T00:13:57+0000  esqlite-helm-20151116.850.entry
-  2025-11-17T00:13:57+0000  esqlite-helm-20151116.850.tar
-Built esqlite-helm in 2.895s, finished at 2025-11-17T00:13:58+0000
+  2025-12-01T01:01:10+0000  esqlite-helm-20151116.850.entry
+  2025-12-01T01:01:10+0000  esqlite-helm-20151116.850.tar
+Built esqlite-helm in 2.905s, finished at 2025-12-01T01:01:11+0000

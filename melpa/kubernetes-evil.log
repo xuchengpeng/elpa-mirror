@@ -1,18 +1,15 @@
-Package: kubernetes-evil
-Fetcher: github
-Source:  https://github.com/kubernetes-el/kubernetes-el
-
+ • Building package kubernetes-evil (from github:kubernetes-el/kubernetes-el)...
 Updating /mnt/store/melpa/working/kubernetes-evil/
 Checking out b155d64aa72bd1175770db3518a67a347caa36dd
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/kubernetes-evil/
-  to /tmp/kubernetes-evilHSCoMa/kubernetes-evil-20220625.534
+  to /tmp/kubernetes-evilOhabBL/kubernetes-evil-20220625.534
     kubernetes-evil.el -> kubernetes-evil.el
 Created kubernetes-evil-20220625.534.tar containing:
   kubernetes-evil-20220625.534/
   kubernetes-evil-20220625.534/kubernetes-evil-pkg.el
   kubernetes-evil-20220625.534/kubernetes-evil.el
  ✓ Success:
-  2025-11-17T00:33:03+0000  kubernetes-evil-20220625.534.entry
-  2025-11-17T00:33:03+0000  kubernetes-evil-20220625.534.tar
-Built kubernetes-evil in 5.092s, finished at 2025-11-17T00:33:05+0000
+  2025-12-01T01:19:58+0000  kubernetes-evil-20220625.534.entry
+  2025-12-01T01:19:58+0000  kubernetes-evil-20220625.534.tar
+Built kubernetes-evil in 3.237s, finished at 2025-12-01T01:19:59+0000

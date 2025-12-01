@@ -1,18 +1,15 @@
-Package: flymake-sass
-Fetcher: github
-Source:  https://github.com/purcell/flymake-sass
-
+ • Building package flymake-sass (from github:purcell/flymake-sass)...
 Updating /mnt/store/melpa/working/flymake-sass/
 Checking out 2de28148e92deb93bff3d55fe14e7c67ac476056
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/flymake-sass/
-  to /tmp/flymake-sassGmRq7C/flymake-sass-20170723.146
+  to /tmp/flymake-sassXD9rUw/flymake-sass-20170723.146
     flymake-sass.el -> flymake-sass.el
 Created flymake-sass-20170723.146.tar containing:
   flymake-sass-20170723.146/
   flymake-sass-20170723.146/flymake-sass-pkg.el
   flymake-sass-20170723.146/flymake-sass.el
  ✓ Success:
-  2025-11-17T00:19:10+0000  flymake-sass-20170723.146.entry
-  2025-11-17T00:19:10+0000  flymake-sass-20170723.146.tar
-Built flymake-sass in 2.860s, finished at 2025-11-17T00:19:11+0000
+  2025-12-01T01:06:31+0000  flymake-sass-20170723.146.entry
+  2025-12-01T01:06:31+0000  flymake-sass-20170723.146.tar
+Built flymake-sass in 3.042s, finished at 2025-12-01T01:06:32+0000

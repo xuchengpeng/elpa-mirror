@@ -1,12 +1,9 @@
-Package: dklrt
-Fetcher: github
-Source:  https://github.com/davidkeegan/dklrt
-
+ • Building package dklrt (from github:davidkeegan/dklrt)...
 Updating /mnt/store/melpa/working/dklrt/
 Checking out 4eceed270015b41d24a62a8b71bd239224a63063
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/dklrt/
-  to /tmp/dklrt4Uiqej/dklrt-20131110.1341
+  to /tmp/dklrtgeI3Ec/dklrt-20131110.1341
     dklrt-pkg.el -> dklrt-pkg.el
     dklrt.el -> dklrt.el
     dklrt.texi -> dklrt.texi
@@ -24,6 +21,6 @@ Created dklrt-20131110.1341.tar containing:
   dklrt-20131110.1341/dklrt.el
   dklrt-20131110.1341/dklrt.info
  ✓ Success:
-  2025-11-17T00:08:42+0000  dklrt-20131110.1341.entry
-  2025-11-17T00:08:42+0000  dklrt-20131110.1341.tar
-Built dklrt in 4.245s, finished at 2025-11-17T00:08:43+0000
+  2025-12-01T00:55:51+0000  dklrt-20131110.1341.entry
+  2025-12-01T00:55:51+0000  dklrt-20131110.1341.tar
+Built dklrt in 4.081s, finished at 2025-12-01T00:55:51+0000

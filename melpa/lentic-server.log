@@ -1,18 +1,15 @@
-Package: lentic-server
-Fetcher: github
-Source:  https://github.com/phillord/lentic-server
-
+ • Building package lentic-server (from github:phillord/lentic-server)...
 Updating /mnt/store/melpa/working/lentic-server/
 Checking out 732b88e7a183707ba65c38e8b3517cac42572644
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/lentic-server/
-  to /tmp/lentic-servery7WxSK/lentic-server-20240315.144
+  to /tmp/lentic-servercn02WO/lentic-server-20240315.144
     lentic-server.el -> lentic-server.el
 Created lentic-server-20240315.144.tar containing:
   lentic-server-20240315.144/
   lentic-server-20240315.144/lentic-server-pkg.el
   lentic-server-20240315.144/lentic-server.el
  ✓ Success:
-  2025-11-17T00:33:52+0000  lentic-server-20240315.144.entry
-  2025-11-17T00:33:52+0000  lentic-server-20240315.144.tar
-Built lentic-server in 2.886s, finished at 2025-11-17T00:33:53+0000
+  2025-12-01T01:20:49+0000  lentic-server-20240315.144.entry
+  2025-12-01T01:20:48+0000  lentic-server-20240315.144.tar
+Built lentic-server in 4.374s, finished at 2025-12-01T01:20:50+0000

@@ -1,18 +1,15 @@
-Package: ob-php
-Fetcher: git
-Source:  https://repo.or.cz/ob-php.git
-
+ • Building package ob-php (from https://repo.or.cz/ob-php.git)...
 Updating /mnt/store/melpa/working/ob-php/
 Checking out 6ebf7799e9ded1d5114094f46785960a50000614
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ob-php/
-  to /tmp/ob-phpwHbUO6/ob-php-20220221.1254
+  to /tmp/ob-phpEiM3f8/ob-php-20220221.1254
     ob-php.el -> ob-php.el
 Created ob-php-20220221.1254.tar containing:
   ob-php-20220221.1254/
   ob-php-20220221.1254/ob-php-pkg.el
   ob-php-20220221.1254/ob-php.el
  ✓ Success:
-  2025-11-17T00:42:21+0000  ob-php-20220221.1254.entry
-  2025-11-17T00:42:21+0000  ob-php-20220221.1254.tar
-Built ob-php in 2.978s, finished at 2025-11-17T00:42:22+0000
+  2025-12-01T01:29:38+0000  ob-php-20220221.1254.entry
+  2025-12-01T01:29:38+0000  ob-php-20220221.1254.tar
+Built ob-php in 3.186s, finished at 2025-12-01T01:29:39+0000

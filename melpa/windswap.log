@@ -1,18 +1,15 @@
-Package: windswap
-Fetcher: github
-Source:  https://github.com/purcell/windswap
-
+ • Building package windswap (from github:purcell/windswap)...
 Updating /mnt/store/melpa/working/windswap/
 Checking out 1a334f6543e0a30c55ea1e6071e9732d948f9e4b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/windswap/
-  to /tmp/windswapfyx68G/windswap-20200722.411
+  to /tmp/windswapvdywzd/windswap-20200722.411
     windswap.el -> windswap.el
 Created windswap-20200722.411.tar containing:
   windswap-20200722.411/
   windswap-20200722.411/windswap-pkg.el
   windswap-20200722.411/windswap.el
  ✓ Success:
-  2025-11-17T01:08:19+0000  windswap-20200722.411.entry
-  2025-11-17T01:08:19+0000  windswap-20200722.411.tar
-Built windswap in 2.901s, finished at 2025-11-17T01:08:20+0000
+  2025-12-01T01:56:04+0000  windswap-20200722.411.entry
+  2025-12-01T01:56:04+0000  windswap-20200722.411.tar
+Built windswap in 3.182s, finished at 2025-12-01T01:56:05+0000

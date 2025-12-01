@@ -1,18 +1,15 @@
-Package: mlscroll
-Fetcher: github
-Source:  https://github.com/jdtsmith/mlscroll
-
+ • Building package mlscroll (from github:jdtsmith/mlscroll)...
 Updating /mnt/store/melpa/working/mlscroll/
 Checking out d22f5d8e6ca5054d01f06ac57419267098b709a5
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mlscroll/
-  to /tmp/mlscrollxot5tF/mlscroll-20250112.1440
+  to /tmp/mlscrollvqGDyf/mlscroll-20250112.1440
     mlscroll.el -> mlscroll.el
 Created mlscroll-20250112.1440.tar containing:
   mlscroll-20250112.1440/
   mlscroll-20250112.1440/mlscroll-pkg.el
   mlscroll-20250112.1440/mlscroll.el
  ✓ Success:
-  2025-11-17T00:38:06+0000  mlscroll-20250112.1440.entry
-  2025-11-17T00:38:06+0000  mlscroll-20250112.1440.tar
-Built mlscroll in 3.416s, finished at 2025-11-17T00:38:07+0000
+  2025-12-01T01:25:27+0000  mlscroll-20250112.1440.entry
+  2025-12-01T01:25:27+0000  mlscroll-20250112.1440.tar
+Built mlscroll in 3.313s, finished at 2025-12-01T01:25:28+0000

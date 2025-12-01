@@ -1,12 +1,9 @@
-Package: j-mode
-Fetcher: github
-Source:  https://github.com/zellio/j-mode
-
+ • Building package j-mode (from github:zellio/j-mode)...
 Updating /mnt/store/melpa/working/j-mode/
 Checking out 1365e5a3fe772609685b3787bbd2960331c1a02f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/j-mode/
-  to /tmp/j-mode7gmjaN/j-mode-20251003.805
+  to /tmp/j-modekW8TkE/j-mode-20251003.805
     j-console.el -> j-console.el
     j-font-lock.el -> j-font-lock.el
     j-help.el -> j-help.el
@@ -19,6 +16,6 @@ Created j-mode-20251003.805.tar containing:
   j-mode-20251003.805/j-mode-pkg.el
   j-mode-20251003.805/j-mode.el
  ✓ Success:
-  2025-11-17T00:30:21+0000  j-mode-20251003.805.entry
-  2025-11-17T00:30:21+0000  j-mode-20251003.805.tar
-Built j-mode in 2.697s, finished at 2025-11-17T00:30:22+0000
+  2025-12-01T01:17:29+0000  j-mode-20251003.805.entry
+  2025-12-01T01:17:29+0000  j-mode-20251003.805.tar
+Built j-mode in 2.935s, finished at 2025-12-01T01:17:30+0000

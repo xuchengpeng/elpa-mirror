@@ -1,18 +1,15 @@
-Package: gdb-x
-Fetcher: codeberg
-Source:  https://codeberg.org/pastor/gdb-x
-
+ • Building package gdb-x (from codeberg:pastor/gdb-x)...
 Updating /mnt/store/melpa/working/gdb-x/
 Checking out 7e03680f7b5a001341d1892daa69bc32fcf75113
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/gdb-x/
-  to /tmp/gdb-xFlnS66/gdb-x-20251107.1256
+  to /tmp/gdb-xj7ztpL/gdb-x-20251107.1256
     gdb-x.el -> gdb-x.el
 Created gdb-x-20251107.1256.tar containing:
   gdb-x-20251107.1256/
   gdb-x-20251107.1256/gdb-x-pkg.el
   gdb-x-20251107.1256/gdb-x.el
  ✓ Success:
-  2025-11-17T00:20:27+0000  gdb-x-20251107.1256.entry
-  2025-11-17T00:20:27+0000  gdb-x-20251107.1256.tar
-Built gdb-x in 3.837s, finished at 2025-11-17T00:20:28+0000
+  2025-12-01T01:07:50+0000  gdb-x-20251107.1256.entry
+  2025-12-01T01:07:50+0000  gdb-x-20251107.1256.tar
+Built gdb-x in 5.226s, finished at 2025-12-01T01:07:51+0000

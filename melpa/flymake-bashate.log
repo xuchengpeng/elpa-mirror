@@ -1,18 +1,15 @@
-Package: flymake-bashate
-Fetcher: github
-Source:  https://github.com/jamescherti/flymake-bashate.el
-
+ • Building package flymake-bashate (from github:jamescherti/flymake-bashate.el)...
 Updating /mnt/store/melpa/working/flymake-bashate/
 Checking out c599d3c15c6f174a54c1f3d0081311758e682089
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/flymake-bashate/
-  to /tmp/flymake-bashateWjs36q/flymake-bashate-20250416.1624
+  to /tmp/flymake-bashateJHzkZx/flymake-bashate-20250416.1624
     flymake-bashate.el -> flymake-bashate.el
 Created flymake-bashate-20250416.1624.tar containing:
   flymake-bashate-20250416.1624/
   flymake-bashate-20250416.1624/flymake-bashate-pkg.el
   flymake-bashate-20250416.1624/flymake-bashate.el
  ✓ Success:
-  2025-11-17T00:18:36+0000  flymake-bashate-20250416.1624.entry
-  2025-11-17T00:18:36+0000  flymake-bashate-20250416.1624.tar
-Built flymake-bashate in 2.935s, finished at 2025-11-17T00:18:37+0000
+  2025-12-01T01:05:55+0000  flymake-bashate-20250416.1624.entry
+  2025-12-01T01:05:55+0000  flymake-bashate-20250416.1624.tar
+Built flymake-bashate in 2.978s, finished at 2025-12-01T01:05:56+0000

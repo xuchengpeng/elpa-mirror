@@ -1,18 +1,15 @@
-Package: honcho
-Fetcher: github
-Source:  https://github.com/emacs-pe/honcho.el
-
+ • Building package honcho (from github:emacs-pe/honcho.el)...
 Updating /mnt/store/melpa/working/honcho/
 Checking out 95846309c6a4ce45f29f215d43847beb510b6aca
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/honcho/
-  to /tmp/honchofkoJHx/honcho-20230224.420
+  to /tmp/honcho24j6x9/honcho-20230224.420
     honcho.el -> honcho.el
 Created honcho-20230224.420.tar containing:
   honcho-20230224.420/
   honcho-20230224.420/honcho-pkg.el
   honcho-20230224.420/honcho.el
  ✓ Success:
-  2025-11-17T00:27:28+0000  honcho-20230224.420.entry
-  2025-11-17T00:27:28+0000  honcho-20230224.420.tar
-Built honcho in 4.392s, finished at 2025-11-17T00:27:29+0000
+  2025-12-01T01:14:19+0000  honcho-20230224.420.entry
+  2025-12-01T01:14:19+0000  honcho-20230224.420.tar
+Built honcho in 2.608s, finished at 2025-12-01T01:14:20+0000

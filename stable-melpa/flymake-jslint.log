@@ -1,18 +1,15 @@
-Package: flymake-jslint
-Fetcher: github
-Source:  https://github.com/purcell/flymake-jslint
-
+ • Building package flymake-jslint (from github:purcell/flymake-jslint)...
 Updating /mnt/store/melpa/working/flymake-jslint/
 Checking out 8edb82be605542b0ef62d38d818adcdde335eecb
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/flymake-jslint/
-  to /tmp/flymake-jslintm2dh6a/flymake-jslint-20170723.146
+  to /tmp/flymake-jslintXym2mE/flymake-jslint-20170723.146
     flymake-jslint.el -> flymake-jslint.el
 Created flymake-jslint-20170723.146.tar containing:
   flymake-jslint-20170723.146/
   flymake-jslint-20170723.146/flymake-jslint-pkg.el
   flymake-jslint-20170723.146/flymake-jslint.el
  ✓ Success:
-  2025-11-17T00:18:57+0000  flymake-jslint-20170723.146.entry
-  2025-11-17T00:18:57+0000  flymake-jslint-20170723.146.tar
-Built flymake-jslint in 2.608s, finished at 2025-11-17T00:18:58+0000
+  2025-12-01T01:06:17+0000  flymake-jslint-20170723.146.entry
+  2025-12-01T01:06:17+0000  flymake-jslint-20170723.146.tar
+Built flymake-jslint in 2.855s, finished at 2025-12-01T01:06:18+0000

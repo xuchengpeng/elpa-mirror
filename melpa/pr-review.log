@@ -1,12 +1,9 @@
-Package: pr-review
-Fetcher: github
-Source:  https://github.com/blahgeek/emacs-pr-review
-
+ • Building package pr-review (from github:blahgeek/emacs-pr-review)...
 Updating /mnt/store/melpa/working/pr-review/
 Checking out d893429168b87003a99bf567932dce57fdac93fa
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/pr-review/
-  to /tmp/pr-reviewCSFhMd/pr-review-20251016.1540
+  to /tmp/pr-reviewzpTPVQ/pr-review-20251016.1540
     pr-review-action.el -> pr-review-action.el
     pr-review-api.el -> pr-review-api.el
     pr-review-common.el -> pr-review-common.el
@@ -53,6 +50,6 @@ Created pr-review-20251016.1540.tar containing:
   pr-review-20251016.1540/pr-review-search.el
   pr-review-20251016.1540/pr-review.el
  ✓ Success:
-  2025-11-17T00:51:00+0000  pr-review-20251016.1540.entry
-  2025-11-17T00:51:00+0000  pr-review-20251016.1540.tar
-Built pr-review in 3.545s, finished at 2025-11-17T00:51:01+0000
+  2025-12-01T01:38:29+0000  pr-review-20251016.1540.entry
+  2025-12-01T01:38:29+0000  pr-review-20251016.1540.tar
+Built pr-review in 3.491s, finished at 2025-12-01T01:38:30+0000

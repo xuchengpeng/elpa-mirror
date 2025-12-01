@@ -1,12 +1,9 @@
-Package: epc
-Fetcher: github
-Source:  https://github.com/kiwanami/emacs-epc
-
+ • Building package epc (from github:kiwanami/emacs-epc)...
 Updating /mnt/store/melpa/working/epc/
 Checking out 94cd36a3bec752263ac9b1b3a9dd2def329d2af7
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/epc/
-  to /tmp/epcbp2W09/epc-20140610.534
+  to /tmp/epcb6uxGo/epc-20140610.534
     epc.el -> epc.el
     epcs.el -> epcs.el
 Created epc-20140610.534.tar containing:
@@ -15,6 +12,6 @@ Created epc-20140610.534.tar containing:
   epc-20140610.534/epc.el
   epc-20140610.534/epcs.el
  ✓ Success:
-  2025-11-17T00:12:55+0000  epc-20140610.534.entry
-  2025-11-17T00:12:55+0000  epc-20140610.534.tar
-Built epc in 2.817s, finished at 2025-11-17T00:12:56+0000
+  2025-12-01T01:00:06+0000  epc-20140610.534.entry
+  2025-12-01T01:00:06+0000  epc-20140610.534.tar
+Built epc in 3.419s, finished at 2025-12-01T01:00:07+0000

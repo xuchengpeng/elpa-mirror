@@ -1,18 +1,15 @@
-Package: ibuffer-project
-Fetcher: github
-Source:  https://github.com/muffinmad/emacs-ibuffer-project
-
+ • Building package ibuffer-project (from github:muffinmad/emacs-ibuffer-project)...
 Updating /mnt/store/melpa/working/ibuffer-project/
 Checking out bfc0ec1f27b02b8ab816dcfd9073e5d78dae1aed
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ibuffer-project/
-  to /tmp/ibuffer-projectN8rncC/ibuffer-project-20220321.1312
+  to /tmp/ibuffer-projectq2uUht/ibuffer-project-20220321.1312
     ibuffer-project.el -> ibuffer-project.el
 Created ibuffer-project-20220321.1312.tar containing:
   ibuffer-project-20220321.1312/
   ibuffer-project-20220321.1312/ibuffer-project-pkg.el
   ibuffer-project-20220321.1312/ibuffer-project.el
  ✓ Success:
-  2025-11-17T00:28:08+0000  ibuffer-project-20220321.1312.entry
-  2025-11-17T00:28:08+0000  ibuffer-project-20220321.1312.tar
-Built ibuffer-project in 2.726s, finished at 2025-11-17T00:28:09+0000
+  2025-12-01T01:15:03+0000  ibuffer-project-20220321.1312.entry
+  2025-12-01T01:15:03+0000  ibuffer-project-20220321.1312.tar
+Built ibuffer-project in 4.874s, finished at 2025-12-01T01:15:05+0000

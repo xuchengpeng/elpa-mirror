@@ -1,12 +1,9 @@
-Package: org-re-reveal
-Fetcher: gitlab
-Source:  https://gitlab.com/oer/org-re-reveal
-
+ • Building package org-re-reveal (from gitlab:oer/org-re-reveal)...
 Updating /mnt/store/melpa/working/org-re-reveal/
 Checking out ca0d49878760d7d6a044857f7be2f2ee91e166e5
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/org-re-reveal/
-  to /tmp/org-re-revealr5mYF3/org-re-reveal-20250821.1332
+  to /tmp/org-re-revealmk2qzr/org-re-reveal-20250821.1332
     org-re-reveal.el -> org-re-reveal.el
     ox-re-reveal.el -> ox-re-reveal.el
 Created org-re-reveal-20250821.1332.tar containing:
@@ -15,6 +12,6 @@ Created org-re-reveal-20250821.1332.tar containing:
   org-re-reveal-20250821.1332/org-re-reveal.el
   org-re-reveal-20250821.1332/ox-re-reveal.el
  ✓ Success:
-  2025-11-17T00:45:29+0000  org-re-reveal-20250821.1332.entry
-  2025-11-17T00:45:29+0000  org-re-reveal-20250821.1332.tar
-Built org-re-reveal in 3.754s, finished at 2025-11-17T00:45:30+0000
+  2025-12-01T01:32:53+0000  org-re-reveal-20250821.1332.entry
+  2025-12-01T01:32:53+0000  org-re-reveal-20250821.1332.tar
+Built org-re-reveal in 3.863s, finished at 2025-12-01T01:32:54+0000

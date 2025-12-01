@@ -1,12 +1,9 @@
-Package: org-node
-Fetcher: github
-Source:  https://github.com/meedstrom/org-node
-
+ • Building package org-node (from github:meedstrom/org-node)...
 Updating /mnt/store/melpa/working/org-node/
-Checking out 12e0664eddb2c0df7f9bf3ba6ad7229327cb065a
+Checking out 56c5adb3b421894aec8ccc6d7fa9b4b3385a4ac9
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/org-node/
-  to /tmp/org-nodeW0iGem/org-node-20251108.2149
+  to /tmp/org-nodeVSmAP7/org-node-20251128.1323
     org-node-backlink.el -> org-node-backlink.el
     org-node-changes.el -> org-node-changes.el
     org-node-context.el -> org-node-context.el
@@ -14,17 +11,17 @@ Copying files (->) and directories (=>)
     org-node.el -> org-node.el
     org-node.texi -> org-node.texi
 Generating org-node.info
-Created org-node-20251108.2149.tar containing:
-  org-node-20251108.2149/
-  org-node-20251108.2149/dir
-  org-node-20251108.2149/org-node-backlink.el
-  org-node-20251108.2149/org-node-changes.el
-  org-node-20251108.2149/org-node-context.el
-  org-node-20251108.2149/org-node-pkg.el
-  org-node-20251108.2149/org-node-seq.el
-  org-node-20251108.2149/org-node.el
-  org-node-20251108.2149/org-node.info
+Created org-node-20251128.1323.tar containing:
+  org-node-20251128.1323/
+  org-node-20251128.1323/dir
+  org-node-20251128.1323/org-node-backlink.el
+  org-node-20251128.1323/org-node-changes.el
+  org-node-20251128.1323/org-node-context.el
+  org-node-20251128.1323/org-node-pkg.el
+  org-node-20251128.1323/org-node-seq.el
+  org-node-20251128.1323/org-node.el
+  org-node-20251128.1323/org-node.info
  ✓ Success:
-  2025-11-17T00:45:09+0000  org-node-20251108.2149.entry
-  2025-11-17T00:45:09+0000  org-node-20251108.2149.tar
-Built org-node in 5.880s, finished at 2025-11-17T00:45:10+0000
+  2025-12-01T01:32:27+0000  org-node-20251128.1323.entry
+  2025-12-01T01:32:27+0000  org-node-20251128.1323.tar
+Built org-node in 11.024s, finished at 2025-12-01T01:32:29+0000

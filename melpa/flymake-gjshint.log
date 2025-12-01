@@ -1,18 +1,15 @@
-Package: flymake-gjshint
-Fetcher: github
-Source:  https://github.com/yasuyk/flymake-gjshint-el
-
+ • Building package flymake-gjshint (from github:yasuyk/flymake-gjshint-el)...
 Updating /mnt/store/melpa/working/flymake-gjshint/
 Checking out 71495ee5303de18293decd57ab9f9abdbaabfa05
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/flymake-gjshint/
-  to /tmp/flymake-gjshintjlkGlP/flymake-gjshint-20130327.1232
+  to /tmp/flymake-gjshintPosOTF/flymake-gjshint-20130327.1232
     flymake-gjshint.el -> flymake-gjshint.el
 Created flymake-gjshint-20130327.1232.tar containing:
   flymake-gjshint-20130327.1232/
   flymake-gjshint-20130327.1232/flymake-gjshint-pkg.el
   flymake-gjshint-20130327.1232/flymake-gjshint.el
  ✓ Success:
-  2025-11-17T00:18:47+0000  flymake-gjshint-20130327.1232.entry
-  2025-11-17T00:18:47+0000  flymake-gjshint-20130327.1232.tar
-Built flymake-gjshint in 3.174s, finished at 2025-11-17T00:18:48+0000
+  2025-12-01T01:06:07+0000  flymake-gjshint-20130327.1232.entry
+  2025-12-01T01:06:07+0000  flymake-gjshint-20130327.1232.tar
+Built flymake-gjshint in 3.195s, finished at 2025-12-01T01:06:08+0000

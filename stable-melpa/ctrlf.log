@@ -1,18 +1,15 @@
-Package: ctrlf
-Fetcher: github
-Source:  https://github.com/radian-software/ctrlf
-
+ • Building package ctrlf (from github:radian-software/ctrlf)...
 Updating /mnt/store/melpa/working/ctrlf/
 Checking out 9b4cf6c79a961f2bfbb949805aa300fcf1eb40a6
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ctrlf/
-  to /tmp/ctrlfCGGMVM/ctrlf-20221112.340
+  to /tmp/ctrlftqZD8t/ctrlf-20221112.340
     ctrlf.el -> ctrlf.el
 Created ctrlf-20221112.340.tar containing:
   ctrlf-20221112.340/
   ctrlf-20221112.340/ctrlf-pkg.el
   ctrlf-20221112.340/ctrlf.el
  ✓ Success:
-  2025-11-17T00:05:46+0000  ctrlf-20221112.340.entry
-  2025-11-17T00:05:46+0000  ctrlf-20221112.340.tar
-Built ctrlf in 3.242s, finished at 2025-11-17T00:05:47+0000
+  2025-12-01T00:52:47+0000  ctrlf-20221112.340.entry
+  2025-12-01T00:52:47+0000  ctrlf-20221112.340.tar
+Built ctrlf in 4.584s, finished at 2025-12-01T00:52:49+0000

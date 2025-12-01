@@ -1,18 +1,15 @@
-Package: full-ack
-Fetcher: github
-Source:  https://github.com/nschum/full-ack
-
+ • Building package full-ack (from github:nschum/full-ack)...
 Updating /mnt/store/melpa/working/full-ack/
 Checking out 8345753e9569dabf6426a837f29387557e32f2af
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/full-ack/
-  to /tmp/full-ackmcmlaW/full-ack-20140223.1732
+  to /tmp/full-ackHoufFW/full-ack-20140223.1732
     full-ack.el -> full-ack.el
 Created full-ack-20140223.1732.tar containing:
   full-ack-20140223.1732/
   full-ack-20140223.1732/full-ack-pkg.el
   full-ack-20140223.1732/full-ack.el
  ✓ Success:
-  2025-11-17T00:20:10+0000  full-ack-20140223.1732.entry
-  2025-11-17T00:20:10+0000  full-ack-20140223.1732.tar
-Built full-ack in 2.543s, finished at 2025-11-17T00:20:11+0000
+  2025-12-01T01:07:31+0000  full-ack-20140223.1732.entry
+  2025-12-01T01:07:30+0000  full-ack-20140223.1732.tar
+Built full-ack in 2.941s, finished at 2025-12-01T01:07:31+0000

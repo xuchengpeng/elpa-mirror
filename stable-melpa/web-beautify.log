@@ -1,18 +1,15 @@
-Package: web-beautify
-Fetcher: github
-Source:  https://github.com/yasuyk/web-beautify
-
+ • Building package web-beautify (from github:yasuyk/web-beautify)...
 Updating /mnt/store/melpa/working/web-beautify/
 Checking out e1b45321d8c11b404b12c8e55afe55eaa7c84ee9
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/web-beautify/
-  to /tmp/web-beautifyt1eDUD/web-beautify-20161115.2247
+  to /tmp/web-beautify3fTtLB/web-beautify-20161115.2247
     web-beautify.el -> web-beautify.el
 Created web-beautify-20161115.2247.tar containing:
   web-beautify-20161115.2247/
   web-beautify-20161115.2247/web-beautify-pkg.el
   web-beautify-20161115.2247/web-beautify.el
  ✓ Success:
-  2025-11-17T01:07:35+0000  web-beautify-20161115.2247.entry
-  2025-11-17T01:07:35+0000  web-beautify-20161115.2247.tar
-Built web-beautify in 2.976s, finished at 2025-11-17T01:07:36+0000
+  2025-12-01T01:55:08+0000  web-beautify-20161115.2247.entry
+  2025-12-01T01:55:08+0000  web-beautify-20161115.2247.tar
+Built web-beautify in 4.576s, finished at 2025-12-01T01:55:10+0000

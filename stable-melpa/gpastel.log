@@ -1,18 +1,15 @@
-Package: gpastel
-Fetcher: github
-Source:  https://github.com/DamienCassou/gpastel
-
+ • Building package gpastel (from github:DamienCassou/gpastel)...
 Updating /mnt/store/melpa/working/gpastel/
 Checking out d35505abb1e38ddda61440b033ebd4decac7a25c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/gpastel/
-  to /tmp/gpastelmKe6sS/gpastel-20231030.713
+  to /tmp/gpastelWqKdf4/gpastel-20231030.713
     gpastel.el -> gpastel.el
 Created gpastel-20231030.713.tar containing:
   gpastel-20231030.713/
   gpastel-20231030.713/gpastel-pkg.el
   gpastel-20231030.713/gpastel.el
  ✓ Success:
-  2025-11-17T00:23:00+0000  gpastel-20231030.713.entry
-  2025-11-17T00:23:00+0000  gpastel-20231030.713.tar
-Built gpastel in 3.070s, finished at 2025-11-17T00:23:01+0000
+  2025-12-01T01:10:20+0000  gpastel-20231030.713.entry
+  2025-12-01T01:10:20+0000  gpastel-20231030.713.tar
+Built gpastel in 3.464s, finished at 2025-12-01T01:10:21+0000

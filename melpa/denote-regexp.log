@@ -1,18 +1,15 @@
-Package: denote-regexp
-Fetcher: sourcehut
-Source:  https://git.sr.ht/~swflint/denote-regexp
-
+ • Building package denote-regexp (from sourcehut:swflint/denote-regexp)...
 Updating /mnt/store/melpa/working/denote-regexp/
 Checking out 08d62cb5bb2d271eb4e0915b56a9601179f88627
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/denote-regexp/
-  to /tmp/denote-regexp3vLR3c/denote-regexp-20250415.2202
+  to /tmp/denote-regexpRLuSqX/denote-regexp-20250415.2202
     denote-regexp.el -> denote-regexp.el
 Created denote-regexp-20250415.2202.tar containing:
   denote-regexp-20250415.2202/
   denote-regexp-20250415.2202/denote-regexp-pkg.el
   denote-regexp-20250415.2202/denote-regexp.el
  ✓ Success:
-  2025-11-17T00:07:11+0000  denote-regexp-20250415.2202.entry
-  2025-11-17T00:07:11+0000  denote-regexp-20250415.2202.tar
-Built denote-regexp in 3.581s, finished at 2025-11-17T00:07:12+0000
+  2025-12-01T00:54:19+0000  denote-regexp-20250415.2202.entry
+  2025-12-01T00:54:19+0000  denote-regexp-20250415.2202.tar
+Built denote-regexp in 3.373s, finished at 2025-12-01T00:54:20+0000

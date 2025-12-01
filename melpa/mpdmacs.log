@@ -1,12 +1,9 @@
-Package: mpdmacs
-Fetcher: github
-Source:  https://github.com/sp1ff/mpdmacs
-
+ • Building package mpdmacs (from github:sp1ff/mpdmacs)...
 Updating /mnt/store/melpa/working/mpdmacs/
 Checking out e11d46925ce711de37352fb0a243a2cb55f873a3
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mpdmacs/
-  to /tmp/mpdmacszp3th7/mpdmacs-20250917.32
+  to /tmp/mpdmacsQiXH7A/mpdmacs-20250917.32
     mpdmacs.el -> mpdmacs.el
   ! doc/mpdmacs.texi -> mpdmacs.texi
   ! doc/version.texi -> version.texi
@@ -20,6 +17,6 @@ Created mpdmacs-20250917.32.tar containing:
   mpdmacs-20250917.32/mpdmacs.info
   mpdmacs-20250917.32/version.info
  ✓ Success:
-  2025-11-17T00:39:19+0000  mpdmacs-20250917.32.entry
-  2025-11-17T00:39:18+0000  mpdmacs-20250917.32.tar
-Built mpdmacs in 6.176s, finished at 2025-11-17T00:39:20+0000
+  2025-12-01T01:26:28+0000  mpdmacs-20250917.32.entry
+  2025-12-01T01:26:28+0000  mpdmacs-20250917.32.tar
+Built mpdmacs in 9.366s, finished at 2025-12-01T01:26:29+0000

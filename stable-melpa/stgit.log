@@ -1,18 +1,15 @@
-Package: stgit
-Fetcher: github
-Source:  https://github.com/stacked-git/stgit
-
+ • Building package stgit (from github:stacked-git/stgit)...
 Updating /mnt/store/melpa/working/stgit/
 Checking out 020140581698f62d846c995ee6e3bebe0c20ff14
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/stgit/
-  to /tmp/stgit9pPDJ7/stgit-20251110.503
+  to /tmp/stgittYFjgt/stgit-20251110.503
   ! contrib/stgit.el -> stgit.el
 Created stgit-20251110.503.tar containing:
   stgit-20251110.503/
   stgit-20251110.503/stgit-pkg.el
   stgit-20251110.503/stgit.el
  ✓ Success:
-  2025-11-17T01:00:30+0000  stgit-20251110.503.entry
-  2025-11-17T01:00:30+0000  stgit-20251110.503.tar
-Built stgit in 4.270s, finished at 2025-11-17T01:00:31+0000
+  2025-12-01T01:48:02+0000  stgit-20251110.503.entry
+  2025-12-01T01:48:02+0000  stgit-20251110.503.tar
+Built stgit in 4.182s, finished at 2025-12-01T01:48:03+0000

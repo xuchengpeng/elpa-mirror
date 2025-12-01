@@ -1,18 +1,15 @@
-Package: ts-comint
-Fetcher: github
-Source:  https://github.com/emacs-typescript/ts-comint
-
+ • Building package ts-comint (from github:emacs-typescript/ts-comint)...
 Updating /mnt/store/melpa/working/ts-comint/
 Checking out b280cfe9fe5ecec9d5970043b6b2866f644b39ad
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ts-comint/
-  to /tmp/ts-comintdWwrtp/ts-comint-20181219.719
+  to /tmp/ts-cominttGWs2Y/ts-comint-20181219.719
     ts-comint.el -> ts-comint.el
 Created ts-comint-20181219.719.tar containing:
   ts-comint-20181219.719/
   ts-comint-20181219.719/ts-comint-pkg.el
   ts-comint-20181219.719/ts-comint.el
  ✓ Success:
-  2025-11-17T01:04:39+0000  ts-comint-20181219.719.entry
-  2025-11-17T01:04:38+0000  ts-comint-20181219.719.tar
-Built ts-comint in 3.458s, finished at 2025-11-17T01:04:39+0000
+  2025-12-01T01:52:12+0000  ts-comint-20181219.719.entry
+  2025-12-01T01:52:12+0000  ts-comint-20181219.719.tar
+Built ts-comint in 3.269s, finished at 2025-12-01T01:52:13+0000

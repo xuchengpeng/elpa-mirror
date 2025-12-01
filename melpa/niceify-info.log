@@ -1,18 +1,15 @@
-Package: niceify-info
-Fetcher: github
-Source:  https://github.com/aaron-em/niceify-info.el
-
+ • Building package niceify-info (from github:aaron-em/niceify-info.el)...
 Updating /mnt/store/melpa/working/niceify-info/
 Checking out 66b45916f1994e16ee023d29fa7cf8fec48078f1
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/niceify-info/
-  to /tmp/niceify-infoEqJypc/niceify-info-20160416.1244
+  to /tmp/niceify-infoxCifRg/niceify-info-20160416.1244
     niceify-info.el -> niceify-info.el
 Created niceify-info-20160416.1244.tar containing:
   niceify-info-20160416.1244/
   niceify-info-20160416.1244/niceify-info-pkg.el
   niceify-info-20160416.1244/niceify-info.el
  ✓ Success:
-  2025-11-17T00:40:41+0000  niceify-info-20160416.1244.entry
-  2025-11-17T00:40:41+0000  niceify-info-20160416.1244.tar
-Built niceify-info in 2.876s, finished at 2025-11-17T00:40:42+0000
+  2025-12-01T01:27:58+0000  niceify-info-20160416.1244.entry
+  2025-12-01T01:27:58+0000  niceify-info-20160416.1244.tar
+Built niceify-info in 2.704s, finished at 2025-12-01T01:27:58+0000

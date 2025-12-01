@@ -1,18 +1,15 @@
-Package: tox
-Fetcher: github
-Source:  https://github.com/chmouel/tox.el
-
+ • Building package tox (from github:chmouel/tox.el)...
 Updating /mnt/store/melpa/working/tox/
 Checking out 831521fdfdd0b903c50616c6d675e63279c8b4aa
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/tox/
-  to /tmp/toxIPPYi8/tox-20250216.1042
+  to /tmp/toxlevheg/tox-20250216.1042
     tox.el -> tox.el
 Created tox-20250216.1042.tar containing:
   tox-20250216.1042/
   tox-20250216.1042/tox-pkg.el
   tox-20250216.1042/tox.el
  ✓ Success:
-  2025-11-17T01:03:53+0000  tox-20250216.1042.entry
-  2025-11-17T01:03:53+0000  tox-20250216.1042.tar
-Built tox in 2.915s, finished at 2025-11-17T01:03:54+0000
+  2025-12-01T01:51:26+0000  tox-20250216.1042.entry
+  2025-12-01T01:51:26+0000  tox-20250216.1042.tar
+Built tox in 2.827s, finished at 2025-12-01T01:51:27+0000

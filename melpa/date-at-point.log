@@ -1,18 +1,15 @@
-Package: date-at-point
-Fetcher: github
-Source:  https://github.com/alezost/date-at-point.el
-
+ • Building package date-at-point (from github:alezost/date-at-point.el)...
 Updating /mnt/store/melpa/working/date-at-point/
 Checking out 258c0268cc4357640c2af78774ba9667beff28ee
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/date-at-point/
-  to /tmp/date-at-point70gPdn/date-at-point-20150308.1243
+  to /tmp/date-at-point4rGxSa/date-at-point-20150308.1243
     date-at-point.el -> date-at-point.el
 Created date-at-point-20150308.1243.tar containing:
   date-at-point-20150308.1243/
   date-at-point-20150308.1243/date-at-point-pkg.el
   date-at-point-20150308.1243/date-at-point.el
  ✓ Success:
-  2025-11-17T00:06:36+0000  date-at-point-20150308.1243.entry
-  2025-11-17T00:06:36+0000  date-at-point-20150308.1243.tar
-Built date-at-point in 3.396s, finished at 2025-11-17T00:06:37+0000
+  2025-12-01T00:53:44+0000  date-at-point-20150308.1243.entry
+  2025-12-01T00:53:44+0000  date-at-point-20150308.1243.tar
+Built date-at-point in 3.319s, finished at 2025-12-01T00:53:45+0000

@@ -1,12 +1,9 @@
-Package: python-environment
-Fetcher: github
-Source:  https://github.com/tkf/emacs-python-environment
-
+ • Building package python-environment (from github:tkf/emacs-python-environment)...
 Updating /mnt/store/melpa/working/python-environment/
 Checking out 401006584e32864a10c69d29f14414828909362e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/python-environment/
-  to /tmp/python-environmentB7JGft/python-environment-20150310.853
+  to /tmp/python-environmentwXqJK7/python-environment-20150310.853
     python-environment.el -> python-environment.el
     test-python-environment.el -> test-python-environment.el
 Created python-environment-20150310.853.tar containing:
@@ -15,6 +12,6 @@ Created python-environment-20150310.853.tar containing:
   python-environment-20150310.853/python-environment.el
   python-environment-20150310.853/test-python-environment.el
  ✓ Success:
-  2025-11-17T00:52:40+0000  python-environment-20150310.853.entry
-  2025-11-17T00:52:40+0000  python-environment-20150310.853.tar
-Built python-environment in 2.944s, finished at 2025-11-17T00:52:41+0000
+  2025-12-01T01:40:13+0000  python-environment-20150310.853.entry
+  2025-12-01T01:40:13+0000  python-environment-20150310.853.tar
+Built python-environment in 2.948s, finished at 2025-12-01T01:40:14+0000

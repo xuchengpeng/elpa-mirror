@@ -1,18 +1,15 @@
-Package: lsp-haskell
-Fetcher: github
-Source:  https://github.com/emacs-lsp/lsp-haskell
-
+ • Building package lsp-haskell (from github:emacs-lsp/lsp-haskell)...
 Updating /mnt/store/melpa/working/lsp-haskell/
-Checking out cd0f5d251c14e90f2896d26d18de8ace462e011b
+Checking out 871a0ef2e98b3a749d0b69d958698000ca5640d3
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/lsp-haskell/
-  to /tmp/lsp-haskellMsZIz2/lsp-haskell-20250301.213
+  to /tmp/lsp-haskellIy4tE3/lsp-haskell-20251121.1710
     lsp-haskell.el -> lsp-haskell.el
-Created lsp-haskell-20250301.213.tar containing:
-  lsp-haskell-20250301.213/
-  lsp-haskell-20250301.213/lsp-haskell-pkg.el
-  lsp-haskell-20250301.213/lsp-haskell.el
+Created lsp-haskell-20251121.1710.tar containing:
+  lsp-haskell-20251121.1710/
+  lsp-haskell-20251121.1710/lsp-haskell-pkg.el
+  lsp-haskell-20251121.1710/lsp-haskell.el
  ✓ Success:
-  2025-11-17T00:35:16+0000  lsp-haskell-20250301.213.entry
-  2025-11-17T00:35:16+0000  lsp-haskell-20250301.213.tar
-Built lsp-haskell in 3.321s, finished at 2025-11-17T00:35:17+0000
+  2025-12-01T01:22:22+0000  lsp-haskell-20251121.1710.entry
+  2025-12-01T01:22:22+0000  lsp-haskell-20251121.1710.tar
+Built lsp-haskell in 3.406s, finished at 2025-12-01T01:22:23+0000

@@ -1,18 +1,15 @@
-Package: idle-org-agenda
-Fetcher: github
-Source:  https://github.com/enisozgen/idle-org-agenda
-
+ • Building package idle-org-agenda (from github:enisozgen/idle-org-agenda)...
 Updating /mnt/store/melpa/working/idle-org-agenda/
 Checking out bfdf1b4f4096acdd081b3549d6b838f4ca4f7d0d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/idle-org-agenda/
-  to /tmp/idle-org-agendawEte1q/idle-org-agenda-20190106.1844
+  to /tmp/idle-org-agendab7wF7t/idle-org-agenda-20190106.1844
     idle-org-agenda.el -> idle-org-agenda.el
 Created idle-org-agenda-20190106.1844.tar containing:
   idle-org-agenda-20190106.1844/
   idle-org-agenda-20190106.1844/idle-org-agenda-pkg.el
   idle-org-agenda-20190106.1844/idle-org-agenda.el
  ✓ Success:
-  2025-11-17T00:28:20+0000  idle-org-agenda-20190106.1844.entry
-  2025-11-17T00:28:19+0000  idle-org-agenda-20190106.1844.tar
-Built idle-org-agenda in 3.080s, finished at 2025-11-17T00:28:20+0000
+  2025-12-01T01:15:23+0000  idle-org-agenda-20190106.1844.entry
+  2025-12-01T01:15:22+0000  idle-org-agenda-20190106.1844.tar
+Built idle-org-agenda in 5.093s, finished at 2025-12-01T01:15:24+0000

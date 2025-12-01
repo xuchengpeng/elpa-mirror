@@ -1,18 +1,15 @@
-Package: baidu-translate
-Fetcher: github
-Source:  https://github.com/suxiaogang223/baidu-translate
-
+ • Building package baidu-translate (from github:suxiaogang223/baidu-translate)...
 Updating /mnt/store/melpa/working/baidu-translate/
 Checking out 16101d5e6ce19bbcc8badf4422a95db457160999
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/baidu-translate/
-  to /tmp/baidu-translateilx4lN/baidu-translate-20211130.1235
+  to /tmp/baidu-translate9GPHWB/baidu-translate-20211130.1235
     baidu-translate.el -> baidu-translate.el
 Created baidu-translate-20211130.1235.tar containing:
   baidu-translate-20211130.1235/
   baidu-translate-20211130.1235/baidu-translate-pkg.el
   baidu-translate-20211130.1235/baidu-translate.el
  ✓ Success:
-  2025-11-16T23:57:12+0000  baidu-translate-20211130.1235.entry
-  2025-11-16T23:57:12+0000  baidu-translate-20211130.1235.tar
-Built baidu-translate in 3.024s, finished at 2025-11-16T23:57:13+0000
+  2025-12-01T00:44:20+0000  baidu-translate-20211130.1235.entry
+  2025-12-01T00:44:20+0000  baidu-translate-20211130.1235.tar
+Built baidu-translate in 3.121s, finished at 2025-12-01T00:44:21+0000

@@ -1,12 +1,9 @@
-Package: org-social
-Fetcher: github
-Source:  https://github.com/tanrax/org-social.el
-
+ • Building package org-social (from github:tanrax/org-social.el)...
 Updating /mnt/store/melpa/working/org-social/
-Checking out dd05b2002e4f0af9ce50fc11f25de28dedb8248d
+Checking out bdc0e7918abd9f9977e522d8a97acde2a1dd33f3
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/org-social/
-  to /tmp/org-socialRLQPVF/org-social-20251114.732
+  to /tmp/org-socialHIUrBy/org-social-20251124.950
     org-social-accounts.el -> org-social-accounts.el
     org-social-feed.el -> org-social-feed.el
     org-social-file.el -> org-social-file.el
@@ -30,33 +27,33 @@ Copying files (->) and directories (=>)
   ! ui/buffers/org-social-ui-search.el -> org-social-ui-search.el
   ! ui/buffers/org-social-ui-thread.el -> org-social-ui-thread.el
   ! ui/buffers/org-social-ui-timeline.el -> org-social-ui-timeline.el
-Created org-social-20251114.732.tar containing:
-  org-social-20251114.732/
-  org-social-20251114.732/org-social-accounts.el
-  org-social-20251114.732/org-social-feed.el
-  org-social-20251114.732/org-social-file.el
-  org-social-20251114.732/org-social-notifications.el
-  org-social-20251114.732/org-social-parser.el
-  org-social-20251114.732/org-social-partial-fetch.el
-  org-social-20251114.732/org-social-pkg.el
-  org-social-20251114.732/org-social-polls.el
-  org-social-20251114.732/org-social-relay.el
-  org-social-20251114.732/org-social-ui-components.el
-  org-social-20251114.732/org-social-ui-core.el
-  org-social-20251114.732/org-social-ui-discover.el
-  org-social-20251114.732/org-social-ui-groups.el
-  org-social-20251114.732/org-social-ui-notifications.el
-  org-social-20251114.732/org-social-ui-profile.el
-  org-social-20251114.732/org-social-ui-search.el
-  org-social-20251114.732/org-social-ui-thread.el
-  org-social-20251114.732/org-social-ui-timeline.el
-  org-social-20251114.732/org-social-ui-utils.el
-  org-social-20251114.732/org-social-ui.el
-  org-social-20251114.732/org-social-user-queue.el
-  org-social-20251114.732/org-social-validator.el
-  org-social-20251114.732/org-social-variables.el
-  org-social-20251114.732/org-social.el
+Created org-social-20251124.950.tar containing:
+  org-social-20251124.950/
+  org-social-20251124.950/org-social-accounts.el
+  org-social-20251124.950/org-social-feed.el
+  org-social-20251124.950/org-social-file.el
+  org-social-20251124.950/org-social-notifications.el
+  org-social-20251124.950/org-social-parser.el
+  org-social-20251124.950/org-social-partial-fetch.el
+  org-social-20251124.950/org-social-pkg.el
+  org-social-20251124.950/org-social-polls.el
+  org-social-20251124.950/org-social-relay.el
+  org-social-20251124.950/org-social-ui-components.el
+  org-social-20251124.950/org-social-ui-core.el
+  org-social-20251124.950/org-social-ui-discover.el
+  org-social-20251124.950/org-social-ui-groups.el
+  org-social-20251124.950/org-social-ui-notifications.el
+  org-social-20251124.950/org-social-ui-profile.el
+  org-social-20251124.950/org-social-ui-search.el
+  org-social-20251124.950/org-social-ui-thread.el
+  org-social-20251124.950/org-social-ui-timeline.el
+  org-social-20251124.950/org-social-ui-utils.el
+  org-social-20251124.950/org-social-ui.el
+  org-social-20251124.950/org-social-user-queue.el
+  org-social-20251124.950/org-social-validator.el
+  org-social-20251124.950/org-social-variables.el
+  org-social-20251124.950/org-social.el
  ✓ Success:
-  2025-11-17T00:45:50+0000  org-social-20251114.732.entry
-  2025-11-17T00:45:50+0000  org-social-20251114.732.tar
-Built org-social in 3.474s, finished at 2025-11-17T00:45:51+0000
+  2025-12-01T01:33:16+0000  org-social-20251124.950.entry
+  2025-12-01T01:33:16+0000  org-social-20251124.950.tar
+Built org-social in 3.753s, finished at 2025-12-01T01:33:17+0000

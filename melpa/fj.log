@@ -1,12 +1,9 @@
-Package: fj
-Fetcher: codeberg
-Source:  https://codeberg.org/martianh/fj.el
-
+ • Building package fj (from codeberg:martianh/fj.el)...
 Updating /mnt/store/melpa/working/fj/
 Checking out 79a1ef1006f6f8da6bbdcaf05ae8888a79f6887e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/fj/
-  to /tmp/fjgbJJN7/fj-20251030.1345
+  to /tmp/fjG6yUrM/fj-20251030.1345
     fj-transient.el -> fj-transient.el
     fj.el -> fj.el
 Created fj-20251030.1345.tar containing:
@@ -15,6 +12,6 @@ Created fj-20251030.1345.tar containing:
   fj-20251030.1345/fj-transient.el
   fj-20251030.1345/fj.el
  ✓ Success:
-  2025-11-17T00:16:53+0000  fj-20251030.1345.entry
-  2025-11-17T00:16:53+0000  fj-20251030.1345.tar
-Built fj in 4.162s, finished at 2025-11-17T00:16:54+0000
+  2025-12-01T01:04:12+0000  fj-20251030.1345.entry
+  2025-12-01T01:04:12+0000  fj-20251030.1345.tar
+Built fj in 4.233s, finished at 2025-12-01T01:04:13+0000

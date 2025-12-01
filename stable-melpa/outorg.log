@@ -1,18 +1,15 @@
-Package: outorg
-Fetcher: github
-Source:  https://github.com/alphapapa/outorg
-
+ • Building package outorg (from github:alphapapa/outorg)...
 Updating /mnt/store/melpa/working/outorg/
 Checking out ef0f86f4b893b30be8bcf8b43a5ec357a6c70f07
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/outorg/
-  to /tmp/outorgTv57aI/outorg-20190720.2002
+  to /tmp/outorglFxtXa/outorg-20190720.2002
     outorg.el -> outorg.el
 Created outorg-20190720.2002.tar containing:
   outorg-20190720.2002/
   outorg-20190720.2002/outorg-pkg.el
   outorg-20190720.2002/outorg.el
  ✓ Success:
-  2025-11-17T00:46:59+0000  outorg-20190720.2002.entry
-  2025-11-17T00:46:59+0000  outorg-20190720.2002.tar
-Built outorg in 2.358s, finished at 2025-11-17T00:47:00+0000
+  2025-12-01T01:34:23+0000  outorg-20190720.2002.entry
+  2025-12-01T01:34:23+0000  outorg-20190720.2002.tar
+Built outorg in 2.760s, finished at 2025-12-01T01:34:24+0000

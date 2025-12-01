@@ -1,18 +1,15 @@
-Package: beef-mode
-Fetcher: github
-Source:  https://github.com/thechampagne/beef-mode
-
+ • Building package beef-mode (from github:thechampagne/beef-mode)...
 Updating /mnt/store/melpa/working/beef-mode/
 Checking out 20906b41630d74eba56504fbb9fabb79562e0d6e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/beef-mode/
-  to /tmp/beef-modeailpjT/beef-mode-20221227.203
+  to /tmp/beef-modei6R8wL/beef-mode-20221227.203
     beef-mode.el -> beef-mode.el
 Created beef-mode-20221227.203.tar containing:
   beef-mode-20221227.203/
   beef-mode-20221227.203/beef-mode-pkg.el
   beef-mode-20221227.203/beef-mode.el
  ✓ Success:
-  2025-11-16T23:57:35+0000  beef-mode-20221227.203.entry
-  2025-11-16T23:57:35+0000  beef-mode-20221227.203.tar
-Built beef-mode in 3.120s, finished at 2025-11-16T23:57:36+0000
+  2025-12-01T00:44:43+0000  beef-mode-20221227.203.entry
+  2025-12-01T00:44:43+0000  beef-mode-20221227.203.tar
+Built beef-mode in 3.144s, finished at 2025-12-01T00:44:44+0000

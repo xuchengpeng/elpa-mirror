@@ -1,12 +1,9 @@
-Package: tree-sitter
-Fetcher: github
-Source:  https://github.com/emacs-tree-sitter/elisp-tree-sitter
-
+ • Building package tree-sitter (from github:emacs-tree-sitter/elisp-tree-sitter)...
 Updating /mnt/store/melpa/working/tree-sitter/
 Checking out 909717c685ff5a2327fa2ca8fb8a25216129361c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/tree-sitter/
-  to /tmp/tree-sitterMibDkN/tree-sitter-20220212.1632
+  to /tmp/tree-sitterOhVOdm/tree-sitter-20220212.1632
   ! lisp/tree-sitter-cli.el -> tree-sitter-cli.el
   ! lisp/tree-sitter-debug.el -> tree-sitter-debug.el
   ! lisp/tree-sitter-extras.el -> tree-sitter-extras.el
@@ -25,6 +22,6 @@ Created tree-sitter-20220212.1632.tar containing:
   tree-sitter-20220212.1632/tree-sitter-query.el
   tree-sitter-20220212.1632/tree-sitter.el
  ✓ Success:
-  2025-11-17T01:04:16+0000  tree-sitter-20220212.1632.entry
-  2025-11-17T01:04:16+0000  tree-sitter-20220212.1632.tar
-Built tree-sitter in 3.483s, finished at 2025-11-17T01:04:17+0000
+  2025-12-01T01:51:48+0000  tree-sitter-20220212.1632.entry
+  2025-12-01T01:51:48+0000  tree-sitter-20220212.1632.tar
+Built tree-sitter in 3.765s, finished at 2025-12-01T01:51:49+0000

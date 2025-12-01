@@ -1,12 +1,9 @@
-Package: llama
-Fetcher: github
-Source:  https://github.com/tarsius/llama
-
+ • Building package llama (from github:tarsius/llama)...
 Updating /mnt/store/melpa/working/llama/
 Checking out e4803de8ab85991b6a944430bb4f543ea338636d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/llama/
-  to /tmp/llamaAlO6Xh/llama-20251101.2002
+  to /tmp/llama0NFcK2/llama-20251101.2002
     llama.el -> llama.el
     .dir-locals.el -> .dir-locals.el
 Created llama-20251101.2002.tar containing:
@@ -15,6 +12,6 @@ Created llama-20251101.2002.tar containing:
   llama-20251101.2002/llama-pkg.el
   llama-20251101.2002/llama.el
  ✓ Success:
-  2025-11-17T00:34:44+0000  llama-20251101.2002.entry
-  2025-11-17T00:34:44+0000  llama-20251101.2002.tar
-Built llama in 3.094s, finished at 2025-11-17T00:34:45+0000
+  2025-12-01T01:21:50+0000  llama-20251101.2002.entry
+  2025-12-01T01:21:50+0000  llama-20251101.2002.tar
+Built llama in 2.983s, finished at 2025-12-01T01:21:51+0000

@@ -1,18 +1,15 @@
-Package: swift-ts-mode
-Fetcher: github
-Source:  https://github.com/rechsteiner/swift-ts-mode
-
+ • Building package swift-ts-mode (from github:rechsteiner/swift-ts-mode)...
 Updating /mnt/store/melpa/working/swift-ts-mode/
 Checking out 17806f6f56f09c86c5e70af239bea4313aaaf0b8
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/swift-ts-mode/
-  to /tmp/swift-ts-modePgE5aZ/swift-ts-mode-20250915.759
+  to /tmp/swift-ts-modemDmV5x/swift-ts-mode-20250915.759
     swift-ts-mode.el -> swift-ts-mode.el
 Created swift-ts-mode-20250915.759.tar containing:
   swift-ts-mode-20250915.759/
   swift-ts-mode-20250915.759/swift-ts-mode-pkg.el
   swift-ts-mode-20250915.759/swift-ts-mode.el
  ✓ Success:
-  2025-11-17T01:01:24+0000  swift-ts-mode-20250915.759.entry
-  2025-11-17T01:01:24+0000  swift-ts-mode-20250915.759.tar
-Built swift-ts-mode in 4.653s, finished at 2025-11-17T01:01:25+0000
+  2025-12-01T01:48:46+0000  swift-ts-mode-20250915.759.entry
+  2025-12-01T01:48:46+0000  swift-ts-mode-20250915.759.tar
+Built swift-ts-mode in 2.921s, finished at 2025-12-01T01:48:47+0000

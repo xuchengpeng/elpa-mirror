@@ -1,22 +1,19 @@
-Package: aio
-Fetcher: github
-Source:  https://github.com/skeeto/emacs-aio
-
+ • Building package aio (from github:skeeto/emacs-aio)...
 Updating /mnt/store/melpa/working/aio/
-Checking out e0105f8ec8c47c12c0958442d0eaef72c94e8747
+Checking out 58157e51e7eb7a4b954894ee4182564c507a2f01
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/aio/
-  to /tmp/aioi0o5zG/aio-20251103.920
+  to /tmp/aioUFeSJ7/aio-20251117.644
     aio.el -> aio.el
     README.md -> README.md
     UNLICENSE -> UNLICENSE
-Created aio-20251103.920.tar containing:
-  aio-20251103.920/
-  aio-20251103.920/README.md
-  aio-20251103.920/UNLICENSE
-  aio-20251103.920/aio-pkg.el
-  aio-20251103.920/aio.el
+Created aio-20251117.644.tar containing:
+  aio-20251117.644/
+  aio-20251117.644/README.md
+  aio-20251117.644/UNLICENSE
+  aio-20251117.644/aio-pkg.el
+  aio-20251117.644/aio.el
  ✓ Success:
-  2025-11-16T23:54:34+0000  aio-20251103.920.entry
-  2025-11-16T23:54:34+0000  aio-20251103.920.tar
-Built aio in 3.411s, finished at 2025-11-16T23:54:35+0000
+  2025-12-01T00:41:49+0000  aio-20251117.644.entry
+  2025-12-01T00:41:49+0000  aio-20251117.644.tar
+Built aio in 3.386s, finished at 2025-12-01T00:41:50+0000

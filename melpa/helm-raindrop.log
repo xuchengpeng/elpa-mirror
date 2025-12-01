@@ -1,18 +1,15 @@
-Package: helm-raindrop
-Fetcher: github
-Source:  https://github.com/masutaka/emacs-helm-raindrop
-
+ • Building package helm-raindrop (from github:masutaka/emacs-helm-raindrop)...
 Updating /mnt/store/melpa/working/helm-raindrop/
 Checking out 6c080b1acf51ada473a7252cca7e0a5d812be4b0
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/helm-raindrop/
-  to /tmp/helm-raindrophfAPE0/helm-raindrop-20250806.1220
+  to /tmp/helm-raindrop4uhvwU/helm-raindrop-20250806.1220
     helm-raindrop.el -> helm-raindrop.el
 Created helm-raindrop-20250806.1220.tar containing:
   helm-raindrop-20250806.1220/
   helm-raindrop-20250806.1220/helm-raindrop-pkg.el
   helm-raindrop-20250806.1220/helm-raindrop.el
  ✓ Success:
-  2025-11-17T00:25:51+0000  helm-raindrop-20250806.1220.entry
-  2025-11-17T00:25:51+0000  helm-raindrop-20250806.1220.tar
-Built helm-raindrop in 4.078s, finished at 2025-11-17T00:25:52+0000
+  2025-12-01T01:13:04+0000  helm-raindrop-20250806.1220.entry
+  2025-12-01T01:13:04+0000  helm-raindrop-20250806.1220.tar
+Built helm-raindrop in 2.747s, finished at 2025-12-01T01:13:04+0000

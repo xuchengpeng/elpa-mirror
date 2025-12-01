@@ -1,18 +1,15 @@
-Package: repeat-ring
-Fetcher: github
-Source:  https://github.com/countvajhula/repeat-ring
-
+ • Building package repeat-ring (from github:countvajhula/repeat-ring)...
 Updating /mnt/store/melpa/working/repeat-ring/
 Checking out 04c128149e50827134ecd8e5a5176cd889469175
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/repeat-ring/
-  to /tmp/repeat-ringezYf4U/repeat-ring-20250915.2234
+  to /tmp/repeat-ring9VGBRt/repeat-ring-20250915.2234
     repeat-ring.el -> repeat-ring.el
 Created repeat-ring-20250915.2234.tar containing:
   repeat-ring-20250915.2234/
   repeat-ring-20250915.2234/repeat-ring-pkg.el
   repeat-ring-20250915.2234/repeat-ring.el
  ✓ Success:
-  2025-11-17T00:54:17+0000  repeat-ring-20250915.2234.entry
-  2025-11-17T00:54:17+0000  repeat-ring-20250915.2234.tar
-Built repeat-ring in 3.080s, finished at 2025-11-17T00:54:18+0000
+  2025-12-01T01:41:55+0000  repeat-ring-20250915.2234.entry
+  2025-12-01T01:41:55+0000  repeat-ring-20250915.2234.tar
+Built repeat-ring in 3.243s, finished at 2025-12-01T01:41:56+0000

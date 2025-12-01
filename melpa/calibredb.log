@@ -1,12 +1,9 @@
-Package: calibredb
-Fetcher: github
-Source:  https://github.com/chenyanming/calibredb.el
-
+ • Building package calibredb (from github:chenyanming/calibredb.el)...
 Updating /mnt/store/melpa/working/calibredb/
 Checking out 99a234167a092bc0017d11c814f0b8c0da53a107
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/calibredb/
-  to /tmp/calibredbgX0zsf/calibredb-20250913.1233
+  to /tmp/calibredb12pwmJ/calibredb-20250913.1233
     calibredb-annotation.el -> calibredb-annotation.el
     calibredb-consult.el -> calibredb-consult.el
     calibredb-core.el -> calibredb-core.el
@@ -43,6 +40,6 @@ Created calibredb-20250913.1233.tar containing:
   calibredb-20250913.1233/calibredb-utils.el
   calibredb-20250913.1233/calibredb.el
  ✓ Success:
-  2025-11-16T23:59:49+0000  calibredb-20250913.1233.entry
-  2025-11-16T23:59:49+0000  calibredb-20250913.1233.tar
-Built calibredb in 3.732s, finished at 2025-11-16T23:59:49+0000
+  2025-12-01T00:47:01+0000  calibredb-20250913.1233.entry
+  2025-12-01T00:47:01+0000  calibredb-20250913.1233.tar
+Built calibredb in 4.032s, finished at 2025-12-01T00:47:02+0000

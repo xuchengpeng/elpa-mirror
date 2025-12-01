@@ -1,18 +1,15 @@
-Package: kql-mode
-Fetcher: gitlab
-Source:  https://gitlab.com/aimebertrand/kql-mode
-
+ • Building package kql-mode (from gitlab:aimebertrand/kql-mode)...
 Updating /mnt/store/melpa/working/kql-mode/
 Checking out 6ea203a6f21332eeab33875908da01607740947d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/kql-mode/
-  to /tmp/kql-modeADqhBk/kql-mode-20250925.1437
+  to /tmp/kql-mode5YxOnE/kql-mode-20250925.1437
     kql-mode.el -> kql-mode.el
 Created kql-mode-20250925.1437.tar containing:
   kql-mode-20250925.1437/
   kql-mode-20250925.1437/kql-mode-pkg.el
   kql-mode-20250925.1437/kql-mode.el
  ✓ Success:
-  2025-11-17T00:32:53+0000  kql-mode-20250925.1437.entry
-  2025-11-17T00:32:53+0000  kql-mode-20250925.1437.tar
-Built kql-mode in 6.546s, finished at 2025-11-17T00:32:55+0000
+  2025-12-01T01:19:53+0000  kql-mode-20250925.1437.entry
+  2025-12-01T01:19:52+0000  kql-mode-20250925.1437.tar
+Built kql-mode in 4.192s, finished at 2025-12-01T01:19:53+0000

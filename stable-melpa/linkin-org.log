@@ -1,18 +1,15 @@
-Package: linkin-org
-Fetcher: github
-Source:  https://github.com/Judafa/linkin-org
-
+ • Building package linkin-org (from github:Judafa/linkin-org)...
 Updating /mnt/store/melpa/working/linkin-org/
 Checking out 1ce63411cc48a89a5b430516f7670f8af208047d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/linkin-org/
-  to /tmp/linkin-orgksjtMT/linkin-org-20251116.1638
+  to /tmp/linkin-org4xwu24/linkin-org-20251116.1638
     linkin-org.el -> linkin-org.el
 Created linkin-org-20251116.1638.tar containing:
   linkin-org-20251116.1638/
   linkin-org-20251116.1638/linkin-org-pkg.el
   linkin-org-20251116.1638/linkin-org.el
  ✓ Success:
-  2025-11-17T00:34:17+0000  linkin-org-20251116.1638.entry
-  2025-11-17T00:34:17+0000  linkin-org-20251116.1638.tar
-Built linkin-org in 2.630s, finished at 2025-11-17T00:34:18+0000
+  2025-12-01T01:21:24+0000  linkin-org-20251116.1638.entry
+  2025-12-01T01:21:24+0000  linkin-org-20251116.1638.tar
+Built linkin-org in 2.793s, finished at 2025-12-01T01:21:25+0000

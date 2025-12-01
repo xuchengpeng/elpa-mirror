@@ -1,18 +1,15 @@
-Package: tex-smart-umlauts
-Fetcher: github
-Source:  https://github.com/emacsmirror/tex-smart-umlauts
-
+ • Building package tex-smart-umlauts (from github:emacsmirror/tex-smart-umlauts)...
 Updating /mnt/store/melpa/working/tex-smart-umlauts/
 Checking out b28bac71990e0442616157fdb64494179df5575e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/tex-smart-umlauts/
-  to /tmp/tex-smart-umlautsMgIn53/tex-smart-umlauts-20230416.2051
+  to /tmp/tex-smart-umlauts8KL4xM/tex-smart-umlauts-20230416.2051
     tex-smart-umlauts.el -> tex-smart-umlauts.el
 Created tex-smart-umlauts-20230416.2051.tar containing:
   tex-smart-umlauts-20230416.2051/
   tex-smart-umlauts-20230416.2051/tex-smart-umlauts-pkg.el
   tex-smart-umlauts-20230416.2051/tex-smart-umlauts.el
  ✓ Success:
-  2025-11-17T01:02:47+0000  tex-smart-umlauts-20230416.2051.entry
-  2025-11-17T01:02:47+0000  tex-smart-umlauts-20230416.2051.tar
-Built tex-smart-umlauts in 3.325s, finished at 2025-11-17T01:02:48+0000
+  2025-12-01T01:50:21+0000  tex-smart-umlauts-20230416.2051.entry
+  2025-12-01T01:50:21+0000  tex-smart-umlauts-20230416.2051.tar
+Built tex-smart-umlauts in 2.976s, finished at 2025-12-01T01:50:22+0000

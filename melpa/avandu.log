@@ -1,12 +1,9 @@
-Package: avandu
-Fetcher: github
-Source:  https://github.com/ryuslash/avandu
-
+ • Building package avandu (from github:ryuslash/avandu)...
 Updating /mnt/store/melpa/working/avandu/
 Checking out f064cd62f878d945cc2f202cda9a1a82b39d9e22
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/avandu/
-  to /tmp/avanduTxxCIV/avandu-20221106.834
+  to /tmp/avandu3IQnr1/avandu-20221106.834
     avandu.el -> avandu.el
   ! doc/avandu.texinfo -> avandu.texinfo
 Generating avandu.info
@@ -17,6 +14,6 @@ Created avandu-20221106.834.tar containing:
   avandu-20221106.834/avandu.info
   avandu-20221106.834/dir
  ✓ Success:
-  2025-11-16T23:56:53+0000  avandu-20221106.834.entry
-  2025-11-16T23:56:52+0000  avandu-20221106.834.tar
-Built avandu in 4.254s, finished at 2025-11-16T23:56:53+0000
+  2025-12-01T00:43:59+0000  avandu-20221106.834.entry
+  2025-12-01T00:43:59+0000  avandu-20221106.834.tar
+Built avandu in 4.317s, finished at 2025-12-01T00:44:00+0000

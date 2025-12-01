@@ -1,18 +1,15 @@
-Package: py-isort
-Fetcher: github
-Source:  https://github.com/paetzke/py-isort.el
-
+ • Building package py-isort (from github:paetzke/py-isort.el)...
 Updating /mnt/store/melpa/working/py-isort/
 Checking out e67306f459c47c53a65604e4eea88a3914596560
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/py-isort/
-  to /tmp/py-isortCxO7qB/py-isort-20160925.1018
+  to /tmp/py-isortqigQvF/py-isort-20160925.1018
     py-isort.el -> py-isort.el
 Created py-isort-20160925.1018.tar containing:
   py-isort-20160925.1018/
   py-isort-20160925.1018/py-isort-pkg.el
   py-isort-20160925.1018/py-isort.el
  ✓ Success:
-  2025-11-17T00:52:19+0000  py-isort-20160925.1018.entry
-  2025-11-17T00:52:19+0000  py-isort-20160925.1018.tar
-Built py-isort in 2.832s, finished at 2025-11-17T00:52:20+0000
+  2025-12-01T01:39:51+0000  py-isort-20160925.1018.entry
+  2025-12-01T01:39:51+0000  py-isort-20160925.1018.tar
+Built py-isort in 2.893s, finished at 2025-12-01T01:39:51+0000

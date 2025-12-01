@@ -1,18 +1,15 @@
-Package: framesize
-Fetcher: github
-Source:  https://github.com/nicferrier/emacs-framesize
-
+ • Building package framesize (from github:nicferrier/emacs-framesize)...
 Updating /mnt/store/melpa/working/framesize/
 Checking out f2dbf5d2513b2bc45f2085370a55c1754b6025da
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/framesize/
-  to /tmp/framesizea13NXd/framesize-20131017.2132
+  to /tmp/framesize8XW8oH/framesize-20131017.2132
     framesize.el -> framesize.el
 Created framesize-20131017.2132.tar containing:
   framesize-20131017.2132/
   framesize-20131017.2132/framesize-pkg.el
   framesize-20131017.2132/framesize.el
  ✓ Success:
-  2025-11-17T00:19:54+0000  framesize-20131017.2132.entry
-  2025-11-17T00:19:54+0000  framesize-20131017.2132.tar
-Built framesize in 2.491s, finished at 2025-11-17T00:19:55+0000
+  2025-12-01T01:07:16+0000  framesize-20131017.2132.entry
+  2025-12-01T01:07:16+0000  framesize-20131017.2132.tar
+Built framesize in 2.621s, finished at 2025-12-01T01:07:17+0000

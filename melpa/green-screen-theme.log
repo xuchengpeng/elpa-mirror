@@ -1,18 +1,15 @@
-Package: green-screen-theme
-Fetcher: github
-Source:  https://github.com/rbanffy/green-screen-emacs
-
+ • Building package green-screen-theme (from github:rbanffy/green-screen-emacs)...
 Updating /mnt/store/melpa/working/green-screen-theme/
 Checking out 774e8f6c033786406267f71ec07319d906a30b75
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/green-screen-theme/
-  to /tmp/green-screen-themeye9Eyx/green-screen-theme-20180816.1502
+  to /tmp/green-screen-themejwryNO/green-screen-theme-20180816.1502
     green-screen-theme.el -> green-screen-theme.el
 Created green-screen-theme-20180816.1502.tar containing:
   green-screen-theme-20180816.1502/
   green-screen-theme-20180816.1502/green-screen-theme-pkg.el
   green-screen-theme-20180816.1502/green-screen-theme.el
  ✓ Success:
-  2025-11-17T00:23:24+0000  green-screen-theme-20180816.1502.entry
-  2025-11-17T00:23:24+0000  green-screen-theme-20180816.1502.tar
-Built green-screen-theme in 3.140s, finished at 2025-11-17T00:23:25+0000
+  2025-12-01T01:10:44+0000  green-screen-theme-20180816.1502.entry
+  2025-12-01T01:10:44+0000  green-screen-theme-20180816.1502.tar
+Built green-screen-theme in 3.167s, finished at 2025-12-01T01:10:45+0000

@@ -1,18 +1,15 @@
-Package: project-tasks
-Fetcher: github
-Source:  https://github.com/TxGVNN/project-tasks
-
+ • Building package project-tasks (from github:TxGVNN/project-tasks)...
 Updating /mnt/store/melpa/working/project-tasks/
 Checking out 1faaa975c99e358165cfc3df160c21c2c611e1c3
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/project-tasks/
-  to /tmp/project-tasksxp0NPq/project-tasks-20241220.1028
+  to /tmp/project-tasksAoDUJP/project-tasks-20241220.1028
     project-tasks.el -> project-tasks.el
 Created project-tasks-20241220.1028.tar containing:
   project-tasks-20241220.1028/
   project-tasks-20241220.1028/project-tasks-pkg.el
   project-tasks-20241220.1028/project-tasks.el
  ✓ Success:
-  2025-11-17T00:51:31+0000  project-tasks-20241220.1028.entry
-  2025-11-17T00:51:31+0000  project-tasks-20241220.1028.tar
-Built project-tasks in 2.981s, finished at 2025-11-17T00:51:32+0000
+  2025-12-01T01:39:01+0000  project-tasks-20241220.1028.entry
+  2025-12-01T01:39:01+0000  project-tasks-20241220.1028.tar
+Built project-tasks in 3.123s, finished at 2025-12-01T01:39:02+0000

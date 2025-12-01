@@ -1,12 +1,9 @@
-Package: rom-party
-Fetcher: github
-Source:  https://github.com/LaurenceWarne/rom-party.el
-
+ • Building package rom-party (from github:LaurenceWarne/rom-party.el)...
 Updating /mnt/store/melpa/working/rom-party/
 Checking out 3664be5a15431c54f1bf04d2597ca546956edb6f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/rom-party/
-  to /tmp/rom-party03bvRh/rom-party-20250627.838
+  to /tmp/rom-partyZvYl1p/rom-party-20250627.838
     rom-party.el -> rom-party.el
     index.extmap.gz -> index.extmap.gz
 Created rom-party-20250627.838.tar containing:
@@ -15,6 +12,6 @@ Created rom-party-20250627.838.tar containing:
   rom-party-20250627.838/rom-party-pkg.el
   rom-party-20250627.838/rom-party.el
  ✓ Success:
-  2025-11-17T00:55:02+0000  rom-party-20250627.838.entry
-  2025-11-17T00:55:02+0000  rom-party-20250627.838.tar
-Built rom-party in 4.240s, finished at 2025-11-17T00:55:03+0000
+  2025-12-01T01:42:40+0000  rom-party-20250627.838.entry
+  2025-12-01T01:42:40+0000  rom-party-20250627.838.tar
+Built rom-party in 4.257s, finished at 2025-12-01T01:42:41+0000

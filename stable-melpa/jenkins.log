@@ -1,18 +1,15 @@
-Package: jenkins
-Fetcher: github
-Source:  https://github.com/rmuslimov/jenkins.el
-
+ • Building package jenkins (from github:rmuslimov/jenkins.el)...
 Updating /mnt/store/melpa/working/jenkins/
 Checking out 10197d13b491811d4e066003dfc83fedeb21dd90
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/jenkins/
-  to /tmp/jenkinsm6C5hE/jenkins-20251022.2050
+  to /tmp/jenkinsL828U9/jenkins-20251022.2050
     jenkins.el -> jenkins.el
 Created jenkins-20251022.2050.tar containing:
   jenkins-20251022.2050/
   jenkins-20251022.2050/jenkins-pkg.el
   jenkins-20251022.2050/jenkins.el
  ✓ Success:
-  2025-11-17T00:30:43+0000  jenkins-20251022.2050.entry
-  2025-11-17T00:30:43+0000  jenkins-20251022.2050.tar
-Built jenkins in 3.153s, finished at 2025-11-17T00:30:44+0000
+  2025-12-01T01:17:52+0000  jenkins-20251022.2050.entry
+  2025-12-01T01:17:52+0000  jenkins-20251022.2050.tar
+Built jenkins in 3.137s, finished at 2025-12-01T01:17:53+0000

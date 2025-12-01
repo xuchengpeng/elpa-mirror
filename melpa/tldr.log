@@ -1,18 +1,15 @@
-Package: tldr
-Fetcher: github
-Source:  https://github.com/kuanyui/tldr.el
-
+ • Building package tldr (from github:kuanyui/tldr.el)...
 Updating /mnt/store/melpa/working/tldr/
 Checking out 1b09d2032491d3904bd7ee9bf5ba7c7503db6593
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/tldr/
-  to /tmp/tldrfAj4OI/tldr-20230301.136
+  to /tmp/tldrVuQcjR/tldr-20230301.136
     tldr.el -> tldr.el
 Created tldr-20230301.136.tar containing:
   tldr-20230301.136/
   tldr-20230301.136/tldr-pkg.el
   tldr-20230301.136/tldr.el
  ✓ Success:
-  2025-11-17T01:03:27+0000  tldr-20230301.136.entry
-  2025-11-17T01:03:27+0000  tldr-20230301.136.tar
-Built tldr in 2.952s, finished at 2025-11-17T01:03:28+0000
+  2025-12-01T01:51:01+0000  tldr-20230301.136.entry
+  2025-12-01T01:51:01+0000  tldr-20230301.136.tar
+Built tldr in 3.233s, finished at 2025-12-01T01:51:02+0000

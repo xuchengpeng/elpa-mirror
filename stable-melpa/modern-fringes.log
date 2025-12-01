@@ -1,18 +1,15 @@
-Package: modern-fringes
-Fetcher: github
-Source:  https://github.com/SpecialBomb/emacs-modern-fringes
-
+ • Building package modern-fringes (from github:SpecialBomb/emacs-modern-fringes)...
 Updating /mnt/store/melpa/working/modern-fringes/
 Checking out 98473694a33922cfdddb18b4791028e4854b53b5
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/modern-fringes/
-  to /tmp/modern-fringesKXz13v/modern-fringes-20220401.202
+  to /tmp/modern-fringese5B6SX/modern-fringes-20220401.202
     modern-fringes.el -> modern-fringes.el
 Created modern-fringes-20220401.202.tar containing:
   modern-fringes-20220401.202/
   modern-fringes-20220401.202/modern-fringes-pkg.el
   modern-fringes-20220401.202/modern-fringes.el
  ✓ Success:
-  2025-11-17T00:38:27+0000  modern-fringes-20220401.202.entry
-  2025-11-17T00:38:27+0000  modern-fringes-20220401.202.tar
-Built modern-fringes in 4.661s, finished at 2025-11-17T00:38:29+0000
+  2025-12-01T01:25:43+0000  modern-fringes-20220401.202.entry
+  2025-12-01T01:25:43+0000  modern-fringes-20220401.202.tar
+Built modern-fringes in 3.090s, finished at 2025-12-01T01:25:44+0000

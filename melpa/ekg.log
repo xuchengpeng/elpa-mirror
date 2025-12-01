@@ -1,12 +1,9 @@
-Package: ekg
-Fetcher: github
-Source:  https://github.com/ahyatt/ekg
-
+ • Building package ekg (from github:ahyatt/ekg)...
 Updating /mnt/store/melpa/working/ekg/
 Checking out 70036806b488d3c933e95334c99866532e21944f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ekg/
-  to /tmp/ekgKSYZG3/ekg-20251110.242
+  to /tmp/ekghqzzXb/ekg-20251110.242
     ekg-auto-save.el -> ekg-auto-save.el
     ekg-denote.el -> ekg-denote.el
     ekg-embedding.el -> ekg-embedding.el
@@ -34,6 +31,6 @@ Created ekg-20251110.242.tar containing:
   ekg-20251110.242/ekg.el
   ekg-20251110.242/ekg.info
  ✓ Success:
-  2025-11-17T00:10:58+0000  ekg-20251110.242.entry
-  2025-11-17T00:10:58+0000  ekg-20251110.242.tar
-Built ekg in 6.042s, finished at 2025-11-17T00:10:59+0000
+  2025-12-01T00:57:59+0000  ekg-20251110.242.entry
+  2025-12-01T00:57:59+0000  ekg-20251110.242.tar
+Built ekg in 10.442s, finished at 2025-12-01T00:58:01+0000

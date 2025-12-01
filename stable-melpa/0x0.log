@@ -1,18 +1,15 @@
-Package: 0x0
-Fetcher: sourcehut
-Source:  https://git.sr.ht/~willvaughn/emacs-0x0
-
+ • Building package 0x0 (from sourcehut:willvaughn/emacs-0x0)...
 Updating /mnt/store/melpa/working/0x0/
 Checking out 04f95142b25d8bb701f239539176df6617dcd982
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/0x0/
-  to /tmp/0x088Diah/0x0-20230823.2214
+  to /tmp/0x0sW0D9b/0x0-20230823.2214
     0x0.el -> 0x0.el
 Created 0x0-20230823.2214.tar containing:
   0x0-20230823.2214/
   0x0-20230823.2214/0x0-pkg.el
   0x0-20230823.2214/0x0.el
  ✓ Success:
-  2025-11-16T23:53:29+0000  0x0-20230823.2214.entry
-  2025-11-16T23:53:29+0000  0x0-20230823.2214.tar
-Built 0x0 in 3.361s, finished at 2025-11-16T23:53:29+0000
+  2025-12-01T00:40:34+0000  0x0-20230823.2214.entry
+  2025-12-01T00:40:34+0000  0x0-20230823.2214.tar
+Built 0x0 in 5.157s, finished at 2025-12-01T00:40:35+0000

@@ -1,18 +1,15 @@
-Package: nerd-icons-corfu
-Fetcher: github
-Source:  https://github.com/LuigiPiucco/nerd-icons-corfu
-
+ • Building package nerd-icons-corfu (from github:LuigiPiucco/nerd-icons-corfu)...
 Updating /mnt/store/melpa/working/nerd-icons-corfu/
 Checking out f821e953b1a3dc9b381bc53486aabf366bf11cb1
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/nerd-icons-corfu/
-  to /tmp/nerd-icons-corfudyHAWo/nerd-icons-corfu-20250729.1544
+  to /tmp/nerd-icons-corfuInrSdw/nerd-icons-corfu-20250729.1544
     nerd-icons-corfu.el -> nerd-icons-corfu.el
 Created nerd-icons-corfu-20250729.1544.tar containing:
   nerd-icons-corfu-20250729.1544/
   nerd-icons-corfu-20250729.1544/nerd-icons-corfu-pkg.el
   nerd-icons-corfu-20250729.1544/nerd-icons-corfu.el
  ✓ Success:
-  2025-11-17T00:40:25+0000  nerd-icons-corfu-20250729.1544.entry
-  2025-11-17T00:40:25+0000  nerd-icons-corfu-20250729.1544.tar
-Built nerd-icons-corfu in 3.141s, finished at 2025-11-17T00:40:26+0000
+  2025-12-01T01:27:43+0000  nerd-icons-corfu-20250729.1544.entry
+  2025-12-01T01:27:43+0000  nerd-icons-corfu-20250729.1544.tar
+Built nerd-icons-corfu in 3.042s, finished at 2025-12-01T01:27:44+0000

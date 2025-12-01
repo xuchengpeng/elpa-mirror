@@ -1,18 +1,15 @@
-Package: embrace
-Fetcher: github
-Source:  https://github.com/cute-jumper/embrace.el
-
+ • Building package embrace (from github:cute-jumper/embrace.el)...
 Updating /mnt/store/melpa/working/embrace/
 Checking out c7e748603151d7d91c237fd2d9cdf56e9f3b1ea8
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/embrace/
-  to /tmp/embrace5bzXGM/embrace-20231027.419
+  to /tmp/embraceFIu9vl/embrace-20231027.419
     embrace.el -> embrace.el
 Created embrace-20231027.419.tar containing:
   embrace-20231027.419/
   embrace-20231027.419/embrace-pkg.el
   embrace-20231027.419/embrace.el
  ✓ Success:
-  2025-11-17T00:12:28+0000  embrace-20231027.419.entry
-  2025-11-17T00:12:28+0000  embrace-20231027.419.tar
-Built embrace in 3.242s, finished at 2025-11-17T00:12:29+0000
+  2025-12-01T00:59:37+0000  embrace-20231027.419.entry
+  2025-12-01T00:59:37+0000  embrace-20231027.419.tar
+Built embrace in 3.362s, finished at 2025-12-01T00:59:38+0000

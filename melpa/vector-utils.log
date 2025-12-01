@@ -1,18 +1,15 @@
-Package: vector-utils
-Fetcher: github
-Source:  https://github.com/rolandwalker/vector-utils
-
+ • Building package vector-utils (from github:rolandwalker/vector-utils)...
 Updating /mnt/store/melpa/working/vector-utils/
 Checking out 5f9ced3960a318d611c3d20ffdc9ca74054fa8b7
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/vector-utils/
-  to /tmp/vector-utilsfY66Pu/vector-utils-20140508.2041
+  to /tmp/vector-utilsekHy3l/vector-utils-20140508.2041
     vector-utils.el -> vector-utils.el
 Created vector-utils-20140508.2041.tar containing:
   vector-utils-20140508.2041/
   vector-utils-20140508.2041/vector-utils-pkg.el
   vector-utils-20140508.2041/vector-utils.el
  ✓ Success:
-  2025-11-17T01:06:11+0000  vector-utils-20140508.2041.entry
-  2025-11-17T01:06:11+0000  vector-utils-20140508.2041.tar
-Built vector-utils in 2.748s, finished at 2025-11-17T01:06:12+0000
+  2025-12-01T01:53:41+0000  vector-utils-20140508.2041.entry
+  2025-12-01T01:53:41+0000  vector-utils-20140508.2041.tar
+Built vector-utils in 2.558s, finished at 2025-12-01T01:53:42+0000

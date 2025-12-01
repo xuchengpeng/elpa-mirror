@@ -1,18 +1,15 @@
-Package: non-edit-mode
-Fetcher: gitlab
-Source:  https://gitlab.com/aragaer/non-edit-mode
-
+ • Building package non-edit-mode (from gitlab:aragaer/non-edit-mode)...
 Updating /mnt/store/melpa/working/non-edit-mode/
 Checking out bc9d29e437d70675c725f3ef8a66abe574b9a142
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/non-edit-mode/
-  to /tmp/non-edit-modeUj3Qc7/non-edit-mode-20230926.1404
+  to /tmp/non-edit-modeeZYhdG/non-edit-mode-20230926.1404
     non-edit-mode.el -> non-edit-mode.el
 Created non-edit-mode-20230926.1404.tar containing:
   non-edit-mode-20230926.1404/
   non-edit-mode-20230926.1404/non-edit-mode-pkg.el
   non-edit-mode-20230926.1404/non-edit-mode.el
  ✓ Success:
-  2025-11-17T00:41:14+0000  non-edit-mode-20230926.1404.entry
-  2025-11-17T00:41:14+0000  non-edit-mode-20230926.1404.tar
-Built non-edit-mode in 3.551s, finished at 2025-11-17T00:41:15+0000
+  2025-12-01T01:28:30+0000  non-edit-mode-20230926.1404.entry
+  2025-12-01T01:28:30+0000  non-edit-mode-20230926.1404.tar
+Built non-edit-mode in 3.548s, finished at 2025-12-01T01:28:31+0000

@@ -1,18 +1,15 @@
-Package: fleetish-theme
-Fetcher: github
-Source:  https://github.com/nylar/fleetish-emacs-theme
-
+ • Building package fleetish-theme (from github:nylar/fleetish-emacs-theme)...
 Updating /mnt/store/melpa/working/fleetish-theme/
 Checking out 482513562b6691c7f3440b62a31033d22378ed96
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/fleetish-theme/
-  to /tmp/fleetish-themeGnRdU4/fleetish-theme-20230407.1438
+  to /tmp/fleetish-themeN9kUxv/fleetish-theme-20230407.1438
     fleetish-theme.el -> fleetish-theme.el
 Created fleetish-theme-20230407.1438.tar containing:
   fleetish-theme-20230407.1438/
   fleetish-theme-20230407.1438/fleetish-theme-pkg.el
   fleetish-theme-20230407.1438/fleetish-theme.el
  ✓ Success:
-  2025-11-17T00:16:58+0000  fleetish-theme-20230407.1438.entry
-  2025-11-17T00:16:58+0000  fleetish-theme-20230407.1438.tar
-Built fleetish-theme in 2.816s, finished at 2025-11-17T00:16:59+0000
+  2025-12-01T01:04:17+0000  fleetish-theme-20230407.1438.entry
+  2025-12-01T01:04:17+0000  fleetish-theme-20230407.1438.tar
+Built fleetish-theme in 2.607s, finished at 2025-12-01T01:04:18+0000

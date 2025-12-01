@@ -1,18 +1,15 @@
-Package: docsim
-Fetcher: github
-Source:  https://github.com/hrs/docsim.el
-
+ • Building package docsim (from github:hrs/docsim.el)...
 Updating /mnt/store/melpa/working/docsim/
 Checking out 1441436621835eb9c6fe80bb07299043133f2942
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/docsim/
-  to /tmp/docsimGvF0AK/docsim-20240906.421
+  to /tmp/docsim9tfruW/docsim-20240906.421
     docsim.el -> docsim.el
 Created docsim-20240906.421.tar containing:
   docsim-20240906.421/
   docsim-20240906.421/docsim-pkg.el
   docsim-20240906.421/docsim.el
  ✓ Success:
-  2025-11-17T00:08:52+0000  docsim-20240906.421.entry
-  2025-11-17T00:08:51+0000  docsim-20240906.421.tar
-Built docsim in 2.656s, finished at 2025-11-17T00:08:52+0000
+  2025-12-01T00:56:01+0000  docsim-20240906.421.entry
+  2025-12-01T00:56:01+0000  docsim-20240906.421.tar
+Built docsim in 3.227s, finished at 2025-12-01T00:56:02+0000

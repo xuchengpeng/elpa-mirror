@@ -1,18 +1,15 @@
-Package: ialign
-Fetcher: github
-Source:  https://github.com/mkcms/ialign
-
+ • Building package ialign (from github:mkcms/ialign)...
 Updating /mnt/store/melpa/working/ialign/
 Checking out 2a7472bdb782f5af021bfbdc4c32424d54c005dd
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ialign/
-  to /tmp/ialignt1n1C8/ialign-20251102.1056
+  to /tmp/ialign7TC6hx/ialign-20251102.1056
     ialign.el -> ialign.el
 Created ialign-20251102.1056.tar containing:
   ialign-20251102.1056/
   ialign-20251102.1056/ialign-pkg.el
   ialign-20251102.1056/ialign.el
  ✓ Success:
-  2025-11-17T00:28:05+0000  ialign-20251102.1056.entry
-  2025-11-17T00:28:05+0000  ialign-20251102.1056.tar
-Built ialign in 3.248s, finished at 2025-11-17T00:28:06+0000
+  2025-12-01T01:15:02+0000  ialign-20251102.1056.entry
+  2025-12-01T01:15:02+0000  ialign-20251102.1056.tar
+Built ialign in 5.397s, finished at 2025-12-01T01:15:03+0000

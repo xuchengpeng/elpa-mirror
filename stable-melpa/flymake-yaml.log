@@ -1,18 +1,15 @@
-Package: flymake-yaml
-Fetcher: github
-Source:  https://github.com/yasuyk/flymake-yaml
-
+ • Building package flymake-yaml (from github:yasuyk/flymake-yaml)...
 Updating /mnt/store/melpa/working/flymake-yaml/
 Checking out 0dd11eed29fe4054ff5b4e06e2c39b4d925d6aae
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/flymake-yaml/
-  to /tmp/flymake-yamlvYDPo3/flymake-yaml-20130423.1548
+  to /tmp/flymake-yamlTQbAwu/flymake-yaml-20130423.1548
     flymake-yaml.el -> flymake-yaml.el
 Created flymake-yaml-20130423.1548.tar containing:
   flymake-yaml-20130423.1548/
   flymake-yaml-20130423.1548/flymake-yaml-pkg.el
   flymake-yaml-20130423.1548/flymake-yaml.el
  ✓ Success:
-  2025-11-17T00:19:19+0000  flymake-yaml-20130423.1548.entry
-  2025-11-17T00:19:19+0000  flymake-yaml-20130423.1548.tar
-Built flymake-yaml in 2.638s, finished at 2025-11-17T00:19:20+0000
+  2025-12-01T01:06:39+0000  flymake-yaml-20130423.1548.entry
+  2025-12-01T01:06:39+0000  flymake-yaml-20130423.1548.tar
+Built flymake-yaml in 2.689s, finished at 2025-12-01T01:06:40+0000

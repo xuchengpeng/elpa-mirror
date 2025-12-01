@@ -1,18 +1,15 @@
-Package: paste-of-code
-Fetcher: github
-Source:  https://github.com/spebern/paste-of-code.el
-
+ • Building package paste-of-code (from github:spebern/paste-of-code.el)...
 Updating /mnt/store/melpa/working/paste-of-code/
 Checking out 92d258e8ec98598d847ecab82903f9224c7c2050
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/paste-of-code/
-  to /tmp/paste-of-codeTuP2uQ/paste-of-code-20170709.2355
+  to /tmp/paste-of-code8wonsb/paste-of-code-20170709.2355
     paste-of-code.el -> paste-of-code.el
 Created paste-of-code-20170709.2355.tar containing:
   paste-of-code-20170709.2355/
   paste-of-code-20170709.2355/paste-of-code-pkg.el
   paste-of-code-20170709.2355/paste-of-code.el
  ✓ Success:
-  2025-11-17T00:48:20+0000  paste-of-code-20170709.2355.entry
-  2025-11-17T00:48:20+0000  paste-of-code-20170709.2355.tar
-Built paste-of-code in 2.599s, finished at 2025-11-17T00:48:21+0000
+  2025-12-01T01:35:45+0000  paste-of-code-20170709.2355.entry
+  2025-12-01T01:35:45+0000  paste-of-code-20170709.2355.tar
+Built paste-of-code in 2.801s, finished at 2025-12-01T01:35:46+0000

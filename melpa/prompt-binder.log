@@ -1,18 +1,15 @@
-Package: prompt-binder
-Fetcher: github
-Source:  https://github.com/tracym/prompt-binder
-
+ • Building package prompt-binder (from github:tracym/prompt-binder)...
 Updating /mnt/store/melpa/working/prompt-binder/
 Checking out e0e81fba2f1eaf7fa82827fbf32c0cdbf1328d2f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/prompt-binder/
-  to /tmp/prompt-bindergRYjmi/prompt-binder-20250621.853
+  to /tmp/prompt-binderDUm7mP/prompt-binder-20250621.853
     prompt-binder.el -> prompt-binder.el
 Created prompt-binder-20250621.853.tar containing:
   prompt-binder-20250621.853/
   prompt-binder-20250621.853/prompt-binder-pkg.el
   prompt-binder-20250621.853/prompt-binder.el
  ✓ Success:
-  2025-11-17T00:51:45+0000  prompt-binder-20250621.853.entry
-  2025-11-17T00:51:45+0000  prompt-binder-20250621.853.tar
-Built prompt-binder in 2.965s, finished at 2025-11-17T00:51:46+0000
+  2025-12-01T01:39:15+0000  prompt-binder-20250621.853.entry
+  2025-12-01T01:39:15+0000  prompt-binder-20250621.853.tar
+Built prompt-binder in 3.340s, finished at 2025-12-01T01:39:16+0000

@@ -1,18 +1,15 @@
-Package: bats-mode
-Fetcher: github
-Source:  https://github.com/dougm/bats-mode
-
+ • Building package bats-mode (from github:dougm/bats-mode)...
 Updating /mnt/store/melpa/working/bats-mode/
 Checking out fa88930b1baba101ae6474f289a239a236a7d19f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/bats-mode/
-  to /tmp/bats-modeuPqlUy/bats-mode-20230325.7
+  to /tmp/bats-modekgLsiO/bats-mode-20230325.7
     bats-mode.el -> bats-mode.el
 Created bats-mode-20230325.7.tar containing:
   bats-mode-20230325.7/
   bats-mode-20230325.7/bats-mode-pkg.el
   bats-mode-20230325.7/bats-mode.el
  ✓ Success:
-  2025-11-16T23:57:20+0000  bats-mode-20230325.7.entry
-  2025-11-16T23:57:20+0000  bats-mode-20230325.7.tar
-Built bats-mode in 2.579s, finished at 2025-11-16T23:57:21+0000
+  2025-12-01T00:44:29+0000  bats-mode-20230325.7.entry
+  2025-12-01T00:44:29+0000  bats-mode-20230325.7.tar
+Built bats-mode in 2.687s, finished at 2025-12-01T00:44:30+0000

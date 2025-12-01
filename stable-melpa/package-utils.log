@@ -1,18 +1,15 @@
-Package: package-utils
-Fetcher: github
-Source:  https://github.com/Silex/package-utils
-
+ • Building package package-utils (from github:Silex/package-utils)...
 Updating /mnt/store/melpa/working/package-utils/
 Checking out 41c7bf2c0174a9a8bd6efc2260fa9805fbb44c5e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/package-utils/
-  to /tmp/package-utilsitPxFC/package-utils-20250106.1354
+  to /tmp/package-utilsfKpnyN/package-utils-20250106.1354
     package-utils.el -> package-utils.el
 Created package-utils-20250106.1354.tar containing:
   package-utils-20250106.1354/
   package-utils-20250106.1354/package-utils-pkg.el
   package-utils-20250106.1354/package-utils.el
  ✓ Success:
-  2025-11-17T00:47:48+0000  package-utils-20250106.1354.entry
-  2025-11-17T00:47:48+0000  package-utils-20250106.1354.tar
-Built package-utils in 3.121s, finished at 2025-11-17T00:47:49+0000
+  2025-12-01T01:35:13+0000  package-utils-20250106.1354.entry
+  2025-12-01T01:35:13+0000  package-utils-20250106.1354.tar
+Built package-utils in 2.900s, finished at 2025-12-01T01:35:14+0000

@@ -1,18 +1,15 @@
-Package: palimpsest
-Fetcher: github
-Source:  https://github.com/danielsz/Palimpsest
-
+ • Building package palimpsest (from github:danielsz/Palimpsest)...
 Updating /mnt/store/melpa/working/palimpsest/
 Checking out f474b3ad706373d9953abdc401d683a2a023d28e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/palimpsest/
-  to /tmp/palimpsestPoKCEc/palimpsest-20200805.1048
+  to /tmp/palimpsestQ8ezMC/palimpsest-20200805.1048
     palimpsest.el -> palimpsest.el
 Created palimpsest-20200805.1048.tar containing:
   palimpsest-20200805.1048/
   palimpsest-20200805.1048/palimpsest-pkg.el
   palimpsest-20200805.1048/palimpsest.el
  ✓ Success:
-  2025-11-17T00:47:54+0000  palimpsest-20200805.1048.entry
-  2025-11-17T00:47:54+0000  palimpsest-20200805.1048.tar
-Built palimpsest in 2.866s, finished at 2025-11-17T00:47:55+0000
+  2025-12-01T01:35:18+0000  palimpsest-20200805.1048.entry
+  2025-12-01T01:35:18+0000  palimpsest-20200805.1048.tar
+Built palimpsest in 3.134s, finished at 2025-12-01T01:35:19+0000

@@ -1,18 +1,15 @@
-Package: whois
-Fetcher: github
-Source:  https://github.com/lassik/emacs-whois
-
+ • Building package whois (from github:lassik/emacs-whois)...
 Updating /mnt/store/melpa/working/whois/
 Checking out d4466b296721fa94b2ceab1c51bc9bfd8bbf4e0a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/whois/
-  to /tmp/whoisb9TZuU/whois-20240315.1929
+  to /tmp/whoisMQFoV9/whois-20240315.1929
     whois.el -> whois.el
 Created whois-20240315.1929.tar containing:
   whois-20240315.1929/
   whois-20240315.1929/whois-pkg.el
   whois-20240315.1929/whois.el
  ✓ Success:
-  2025-11-17T01:08:03+0000  whois-20240315.1929.entry
-  2025-11-17T01:08:03+0000  whois-20240315.1929.tar
-Built whois in 3.100s, finished at 2025-11-17T01:08:04+0000
+  2025-12-01T01:55:48+0000  whois-20240315.1929.entry
+  2025-12-01T01:55:48+0000  whois-20240315.1929.tar
+Built whois in 2.710s, finished at 2025-12-01T01:55:49+0000

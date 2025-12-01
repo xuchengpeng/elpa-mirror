@@ -1,12 +1,9 @@
-Package: gnuplot
-Fetcher: github
-Source:  https://github.com/emacs-gnuplot/gnuplot
-
+ • Building package gnuplot (from github:emacs-gnuplot/gnuplot)...
 Updating /mnt/store/melpa/working/gnuplot/
 Checking out 43e9674b869475b1c2a32f045c167673eb2faae0
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/gnuplot/
-  to /tmp/gnuplot723PFf/gnuplot-20250724.1531
+  to /tmp/gnuplotX80jSv/gnuplot-20250724.1531
     gnuplot.el -> gnuplot.el
     gnuplot-gui.el -> gnuplot-gui.el
     gnuplot-context.el -> gnuplot-context.el
@@ -23,6 +20,6 @@ Created gnuplot-20250724.1531.tar containing:
   gnuplot-20250724.1531/gnuplot.el
   gnuplot-20250724.1531/gnuplot.info
  ✓ Success:
-  2025-11-17T00:22:23+0000  gnuplot-20250724.1531.entry
-  2025-11-17T00:22:23+0000  gnuplot-20250724.1531.tar
-Built gnuplot in 15.079s, finished at 2025-11-17T00:22:24+0000
+  2025-12-01T01:09:37+0000  gnuplot-20250724.1531.entry
+  2025-12-01T01:09:36+0000  gnuplot-20250724.1531.tar
+Built gnuplot in 25.717s, finished at 2025-12-01T01:09:38+0000

@@ -1,12 +1,9 @@
-Package: vdm-snippets
-Fetcher: github
-Source:  https://github.com/peterwvj/vdm-mode
-
+ • Building package vdm-snippets (from github:peterwvj/vdm-mode)...
 Updating /mnt/store/melpa/working/vdm-snippets/
 Checking out dc1756dd151752b3f538d68326059f8861e4ac66
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/vdm-snippets/
-  to /tmp/vdm-snippetsrfs5Sr/vdm-snippets-20190313.1122
+  to /tmp/vdm-snippetsVgasq9/vdm-snippets-20190313.1122
     vdm-snippets.el -> vdm-snippets.el
     snippets => snippets
 Created vdm-snippets-20190313.1122.tar containing:
@@ -57,6 +54,6 @@ Created vdm-snippets-20190313.1122.tar containing:
   vdm-snippets-20190313.1122/vdm-snippets-pkg.el
   vdm-snippets-20190313.1122/vdm-snippets.el
  ✓ Success:
-  2025-11-17T01:06:10+0000  vdm-snippets-20190313.1122.entry
-  2025-11-17T01:06:10+0000  vdm-snippets-20190313.1122.tar
-Built vdm-snippets in 3.434s, finished at 2025-11-17T01:06:11+0000
+  2025-12-01T01:53:41+0000  vdm-snippets-20190313.1122.entry
+  2025-12-01T01:53:41+0000  vdm-snippets-20190313.1122.tar
+Built vdm-snippets in 3.071s, finished at 2025-12-01T01:53:42+0000

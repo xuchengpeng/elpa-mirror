@@ -1,12 +1,9 @@
-Package: octicons
-Fetcher: github
-Source:  https://github.com/emacsorphanage/octicons
-
+ • Building package octicons (from github:emacsorphanage/octicons)...
 Updating /mnt/store/melpa/working/octicons/
 Checking out 229286a6166dba8ddabc8c4d338798c6cd3cf67d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/octicons/
-  to /tmp/octiconsriuw0u/octicons-20151101.340
+  to /tmp/octiconsZa1jHU/octicons-20151101.340
     octicons-data.el -> octicons-data.el
     octicons.el -> octicons.el
 Created octicons-20151101.340.tar containing:
@@ -15,6 +12,6 @@ Created octicons-20151101.340.tar containing:
   octicons-20151101.340/octicons-pkg.el
   octicons-20151101.340/octicons.el
  ✓ Success:
-  2025-11-17T00:42:50+0000  octicons-20151101.340.entry
-  2025-11-17T00:42:49+0000  octicons-20151101.340.tar
-Built octicons in 2.564s, finished at 2025-11-17T00:42:50+0000
+  2025-12-01T01:30:06+0000  octicons-20151101.340.entry
+  2025-12-01T01:30:06+0000  octicons-20151101.340.tar
+Built octicons in 2.930s, finished at 2025-12-01T01:30:07+0000

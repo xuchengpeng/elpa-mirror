@@ -1,18 +1,15 @@
-Package: haproxy-mode
-Fetcher: github
-Source:  https://github.com/port19x/haproxy-mode
-
+ • Building package haproxy-mode (from github:port19x/haproxy-mode)...
 Updating /mnt/store/melpa/working/haproxy-mode/
 Checking out eafb1144751493c33dc005a317236ec3e84aeb07
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/haproxy-mode/
-  to /tmp/haproxy-modek6NADZ/haproxy-mode-20240207.2010
+  to /tmp/haproxy-modecXOjfx/haproxy-mode-20240207.2010
     haproxy-mode.el -> haproxy-mode.el
 Created haproxy-mode-20240207.2010.tar containing:
   haproxy-mode-20240207.2010/
   haproxy-mode-20240207.2010/haproxy-mode-pkg.el
   haproxy-mode-20240207.2010/haproxy-mode.el
  ✓ Success:
-  2025-11-17T00:24:03+0000  haproxy-mode-20240207.2010.entry
-  2025-11-17T00:24:03+0000  haproxy-mode-20240207.2010.tar
-Built haproxy-mode in 2.803s, finished at 2025-11-17T00:24:03+0000
+  2025-12-01T01:11:22+0000  haproxy-mode-20240207.2010.entry
+  2025-12-01T01:11:22+0000  haproxy-mode-20240207.2010.tar
+Built haproxy-mode in 2.499s, finished at 2025-12-01T01:11:23+0000

@@ -1,12 +1,9 @@
-Package: origami
-Fetcher: github
-Source:  https://github.com/gregsexton/origami.el
-
+ • Building package origami (from github:gregsexton/origami.el)...
 Updating /mnt/store/melpa/working/origami/
 Checking out e558710a975e8511b9386edc81cd6bdd0a5bda74
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/origami/
-  to /tmp/origami0Cjd3R/origami-20200331.1019
+  to /tmp/origamiWZFcC8/origami-20200331.1019
     origami-parsers.el -> origami-parsers.el
     origami.el -> origami.el
 Created origami-20200331.1019.tar containing:
@@ -15,6 +12,6 @@ Created origami-20200331.1019.tar containing:
   origami-20200331.1019/origami-pkg.el
   origami-20200331.1019/origami.el
  ✓ Success:
-  2025-11-17T00:46:40+0000  origami-20200331.1019.entry
-  2025-11-17T00:46:40+0000  origami-20200331.1019.tar
-Built origami in 2.717s, finished at 2025-11-17T00:46:41+0000
+  2025-12-01T01:34:05+0000  origami-20200331.1019.entry
+  2025-12-01T01:34:05+0000  origami-20200331.1019.tar
+Built origami in 2.993s, finished at 2025-12-01T01:34:06+0000

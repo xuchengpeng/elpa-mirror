@@ -1,18 +1,15 @@
-Package: pythontest
-Fetcher: github
-Source:  https://github.com/erickgnavar/pythontest.el
-
+ • Building package pythontest (from github:erickgnavar/pythontest.el)...
 Updating /mnt/store/melpa/working/pythontest/
 Checking out 4bb4f330c13ef82bb6e4a4b15c47cb3fede83523
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/pythontest/
-  to /tmp/pythontestpVIp6v/pythontest-20240813.1322
+  to /tmp/pythontestlVzEwj/pythontest-20240813.1322
     pythontest.el -> pythontest.el
 Created pythontest-20240813.1322.tar containing:
   pythontest-20240813.1322/
   pythontest-20240813.1322/pythontest-pkg.el
   pythontest-20240813.1322/pythontest.el
  ✓ Success:
-  2025-11-17T00:52:50+0000  pythontest-20240813.1322.entry
-  2025-11-17T00:52:49+0000  pythontest-20240813.1322.tar
-Built pythontest in 3.070s, finished at 2025-11-17T00:52:50+0000
+  2025-12-01T01:40:22+0000  pythontest-20240813.1322.entry
+  2025-12-01T01:40:22+0000  pythontest-20240813.1322.tar
+Built pythontest in 3.247s, finished at 2025-12-01T01:40:23+0000

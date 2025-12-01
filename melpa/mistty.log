@@ -1,12 +1,9 @@
-Package: mistty
-Fetcher: github
-Source:  https://github.com/szermatt/mistty
-
+ • Building package mistty (from github:szermatt/mistty)...
 Updating /mnt/store/melpa/working/mistty/
 Checking out bfb17611cff6c845270050a0756a38489cdf4ed6
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mistty/
-  to /tmp/misttyZ6f9y2/mistty-20250716.1914
+  to /tmp/misttyRfNti9/mistty-20250716.1914
     mistty-accum-macros.el -> mistty-accum-macros.el
     mistty-accum.el -> mistty-accum.el
     mistty-changeset.el -> mistty-changeset.el
@@ -41,6 +38,6 @@ Created mistty-20250716.1914.tar containing:
   mistty-20250716.1914/mistty.el
   mistty-20250716.1914/mistty.info
  ✓ Success:
-  2025-11-17T00:38:07+0000  mistty-20250716.1914.entry
-  2025-11-17T00:38:07+0000  mistty-20250716.1914.tar
-Built mistty in 6.609s, finished at 2025-11-17T00:38:08+0000
+  2025-12-01T01:25:28+0000  mistty-20250716.1914.entry
+  2025-12-01T01:25:28+0000  mistty-20250716.1914.tar
+Built mistty in 6.590s, finished at 2025-12-01T01:25:29+0000

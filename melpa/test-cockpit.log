@@ -1,12 +1,9 @@
-Package: test-cockpit
-Fetcher: github
-Source:  https://github.com/johannes-mueller/test-cockpit.el
-
+ • Building package test-cockpit (from github:johannes-mueller/test-cockpit.el)...
 Updating /mnt/store/melpa/working/test-cockpit/
 Checking out 6a8527a495fb4611d569c85d06eb06154f8cfe5e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/test-cockpit/
-  to /tmp/test-cockpitVgqhSP/test-cockpit-20250615.1258
+  to /tmp/test-cockpitlCXnhV/test-cockpit-20250615.1258
     test-cockpit-cargo.el -> test-cockpit-cargo.el
     test-cockpit-cask.el -> test-cockpit-cask.el
     test-cockpit-mix.el -> test-cockpit-mix.el
@@ -23,6 +20,6 @@ Created test-cockpit-20250615.1258.tar containing:
   test-cockpit-20250615.1258/test-cockpit-python.el
   test-cockpit-20250615.1258/test-cockpit.el
  ✓ Success:
-  2025-11-17T01:02:46+0000  test-cockpit-20250615.1258.entry
-  2025-11-17T01:02:46+0000  test-cockpit-20250615.1258.tar
-Built test-cockpit in 3.053s, finished at 2025-11-17T01:02:47+0000
+  2025-12-01T01:50:20+0000  test-cockpit-20250615.1258.entry
+  2025-12-01T01:50:20+0000  test-cockpit-20250615.1258.tar
+Built test-cockpit in 2.886s, finished at 2025-12-01T01:50:21+0000

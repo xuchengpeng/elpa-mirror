@@ -1,18 +1,15 @@
-Package: evil-ledger
-Fetcher: github
-Source:  https://github.com/atheriel/evil-ledger
-
+ • Building package evil-ledger (from github:atheriel/evil-ledger)...
 Updating /mnt/store/melpa/working/evil-ledger/
 Checking out 7a9f9f5d39c42fffdba8004f8982642351f2b233
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/evil-ledger/
-  to /tmp/evil-ledgermxlJGd/evil-ledger-20180802.1612
+  to /tmp/evil-ledgerVscd7t/evil-ledger-20180802.1612
     evil-ledger.el -> evil-ledger.el
 Created evil-ledger-20180802.1612.tar containing:
   evil-ledger-20180802.1612/
   evil-ledger-20180802.1612/evil-ledger-pkg.el
   evil-ledger-20180802.1612/evil-ledger.el
  ✓ Success:
-  2025-11-17T00:14:39+0000  evil-ledger-20180802.1612.entry
-  2025-11-17T00:14:39+0000  evil-ledger-20180802.1612.tar
-Built evil-ledger in 2.816s, finished at 2025-11-17T00:14:40+0000
+  2025-12-01T01:01:54+0000  evil-ledger-20180802.1612.entry
+  2025-12-01T01:01:54+0000  evil-ledger-20180802.1612.tar
+Built evil-ledger in 3.178s, finished at 2025-12-01T01:01:55+0000

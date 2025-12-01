@@ -1,18 +1,15 @@
-Package: ert-results
-Fetcher: github
-Source:  https://github.com/rswgnu/ert-results
-
+ • Building package ert-results (from github:rswgnu/ert-results)...
 Updating /mnt/store/melpa/working/ert-results/
 Checking out 32200a195f68c25a013497329d85ae0703ab475d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ert-results/
-  to /tmp/ert-resultsplZ4Yg/ert-results-20240108.1358
+  to /tmp/ert-resultsT1lo2U/ert-results-20240108.1358
     ert-results.el -> ert-results.el
 Created ert-results-20240108.1358.tar containing:
   ert-results-20240108.1358/
   ert-results-20240108.1358/ert-results-pkg.el
   ert-results-20240108.1358/ert-results.el
  ✓ Success:
-  2025-11-17T00:13:32+0000  ert-results-20240108.1358.entry
-  2025-11-17T00:13:32+0000  ert-results-20240108.1358.tar
-Built ert-results in 2.788s, finished at 2025-11-17T00:13:33+0000
+  2025-12-01T01:00:43+0000  ert-results-20240108.1358.entry
+  2025-12-01T01:00:43+0000  ert-results-20240108.1358.tar
+Built ert-results in 2.739s, finished at 2025-12-01T01:00:44+0000

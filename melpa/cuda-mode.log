@@ -1,18 +1,15 @@
-Package: cuda-mode
-Fetcher: github
-Source:  https://github.com/chachi/cuda-mode
-
+ • Building package cuda-mode (from github:chachi/cuda-mode)...
 Updating /mnt/store/melpa/working/cuda-mode/
 Checking out c3dae31b3d1abedf4d0b98840127e2cac73d6ad8
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/cuda-mode/
-  to /tmp/cuda-modeClRroq/cuda-mode-20240819.11
+  to /tmp/cuda-mode3KUv1T/cuda-mode-20240819.11
     cuda-mode.el -> cuda-mode.el
 Created cuda-mode-20240819.11.tar containing:
   cuda-mode-20240819.11/
   cuda-mode-20240819.11/cuda-mode-pkg.el
   cuda-mode-20240819.11/cuda-mode.el
  ✓ Success:
-  2025-11-17T00:05:52+0000  cuda-mode-20240819.11.entry
-  2025-11-17T00:05:52+0000  cuda-mode-20240819.11.tar
-Built cuda-mode in 2.994s, finished at 2025-11-17T00:05:53+0000
+  2025-12-01T00:52:55+0000  cuda-mode-20240819.11.entry
+  2025-12-01T00:52:55+0000  cuda-mode-20240819.11.tar
+Built cuda-mode in 4.460s, finished at 2025-12-01T00:52:57+0000

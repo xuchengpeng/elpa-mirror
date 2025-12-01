@@ -1,18 +1,15 @@
-Package: cmake-project
-Fetcher: github
-Source:  https://github.com/alamaison/emacs-cmake-project
-
+ • Building package cmake-project (from github:alamaison/emacs-cmake-project)...
 Updating /mnt/store/melpa/working/cmake-project/
 Checking out d3f408f226eff3f77f7e00dd519f4efc78fd292d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/cmake-project/
-  to /tmp/cmake-projectzS89i7/cmake-project-20171121.1115
+  to /tmp/cmake-project6IYLZO/cmake-project-20171121.1115
     cmake-project.el -> cmake-project.el
 Created cmake-project-20171121.1115.tar containing:
   cmake-project-20171121.1115/
   cmake-project-20171121.1115/cmake-project-pkg.el
   cmake-project-20171121.1115/cmake-project.el
  ✓ Success:
-  2025-11-17T00:02:09+0000  cmake-project-20171121.1115.entry
-  2025-11-17T00:02:09+0000  cmake-project-20171121.1115.tar
-Built cmake-project in 2.939s, finished at 2025-11-17T00:02:10+0000
+  2025-12-01T00:49:03+0000  cmake-project-20171121.1115.entry
+  2025-12-01T00:49:03+0000  cmake-project-20171121.1115.tar
+Built cmake-project in 3.167s, finished at 2025-12-01T00:49:04+0000

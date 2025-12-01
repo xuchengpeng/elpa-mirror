@@ -1,18 +1,15 @@
-Package: enlive
-Fetcher: github
-Source:  https://github.com/zweifisch/enlive
-
+ • Building package enlive (from github:zweifisch/enlive)...
 Updating /mnt/store/melpa/working/enlive/
 Checking out 604a8ca272b6889f114e2b5a13adb5b1dc4bae86
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/enlive/
-  to /tmp/enliveiGf7U3/enlive-20170725.1417
+  to /tmp/enlive72lroV/enlive-20170725.1417
     enlive.el -> enlive.el
 Created enlive-20170725.1417.tar containing:
   enlive-20170725.1417/
   enlive-20170725.1417/enlive-pkg.el
   enlive-20170725.1417/enlive.el
  ✓ Success:
-  2025-11-17T00:12:51+0000  enlive-20170725.1417.entry
-  2025-11-17T00:12:51+0000  enlive-20170725.1417.tar
-Built enlive in 2.808s, finished at 2025-11-17T00:12:52+0000
+  2025-12-01T01:00:00+0000  enlive-20170725.1417.entry
+  2025-12-01T01:00:00+0000  enlive-20170725.1417.tar
+Built enlive in 2.744s, finished at 2025-12-01T01:00:00+0000

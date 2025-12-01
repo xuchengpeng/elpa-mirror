@@ -1,18 +1,15 @@
-Package: sourcekit
-Fetcher: github
-Source:  https://github.com/nathankot/company-sourcekit
-
+ • Building package sourcekit (from github:nathankot/company-sourcekit)...
 Updating /mnt/store/melpa/working/sourcekit/
 Checking out a1860ad4dd3a542acd2fa0dfac2a388cbdf4af0c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/sourcekit/
-  to /tmp/sourcekituefwDb/sourcekit-20210430.2155
+  to /tmp/sourcekitj7quNt/sourcekit-20210430.2155
     sourcekit.el -> sourcekit.el
 Created sourcekit-20210430.2155.tar containing:
   sourcekit-20210430.2155/
   sourcekit-20210430.2155/sourcekit-pkg.el
   sourcekit-20210430.2155/sourcekit.el
  ✓ Success:
-  2025-11-17T00:59:33+0000  sourcekit-20210430.2155.entry
-  2025-11-17T00:59:33+0000  sourcekit-20210430.2155.tar
-Built sourcekit in 2.809s, finished at 2025-11-17T00:59:34+0000
+  2025-12-01T01:47:05+0000  sourcekit-20210430.2155.entry
+  2025-12-01T01:47:05+0000  sourcekit-20210430.2155.tar
+Built sourcekit in 2.974s, finished at 2025-12-01T01:47:06+0000

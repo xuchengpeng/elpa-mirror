@@ -1,18 +1,15 @@
-Package: org-fancy-priorities
-Fetcher: github
-Source:  https://github.com/harrybournis/org-fancy-priorities
-
+ • Building package org-fancy-priorities (from github:harrybournis/org-fancy-priorities)...
 Updating /mnt/store/melpa/working/org-fancy-priorities/
 Checking out 7f677c6c14ecf05eab8e0efbfe7f1b00ae68eb1d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/org-fancy-priorities/
-  to /tmp/org-fancy-priorities4xt9wv/org-fancy-priorities-20210830.1657
+  to /tmp/org-fancy-prioritiesV4u6s6/org-fancy-priorities-20210830.1657
     org-fancy-priorities.el -> org-fancy-priorities.el
 Created org-fancy-priorities-20210830.1657.tar containing:
   org-fancy-priorities-20210830.1657/
   org-fancy-priorities-20210830.1657/org-fancy-priorities-pkg.el
   org-fancy-priorities-20210830.1657/org-fancy-priorities.el
  ✓ Success:
-  2025-11-17T00:44:21+0000  org-fancy-priorities-20210830.1657.entry
-  2025-11-17T00:44:21+0000  org-fancy-priorities-20210830.1657.tar
-Built org-fancy-priorities in 4.624s, finished at 2025-11-17T00:44:23+0000
+  2025-12-01T01:31:31+0000  org-fancy-priorities-20210830.1657.entry
+  2025-12-01T01:31:31+0000  org-fancy-priorities-20210830.1657.tar
+Built org-fancy-priorities in 3.085s, finished at 2025-12-01T01:31:32+0000

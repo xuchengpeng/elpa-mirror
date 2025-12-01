@@ -1,12 +1,9 @@
-Package: cheerilee
-Fetcher: github
-Source:  https://github.com/Vannil/cheerilee.el
-
+ • Building package cheerilee (from github:Vannil/cheerilee.el)...
 Updating /mnt/store/melpa/working/cheerilee/
 Checking out 41bd81b5b0bb657241ceda5be6af5e07254d7376
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/cheerilee/
-  to /tmp/cheerilee2nUiOa/cheerilee-20160313.1835
+  to /tmp/cheerileeZRkCEn/cheerilee-20160313.1835
     cheerilee-actions.el -> cheerilee-actions.el
     cheerilee-classes.el -> cheerilee-classes.el
     cheerilee-clear.el -> cheerilee-clear.el
@@ -36,6 +33,6 @@ Created cheerilee-20160313.1835.tar containing:
   cheerilee-20160313.1835/cheerilee.info
   cheerilee-20160313.1835/dir
  ✓ Success:
-  2025-11-17T00:00:52+0000  cheerilee-20160313.1835.entry
-  2025-11-17T00:00:52+0000  cheerilee-20160313.1835.tar
-Built cheerilee in 3.235s, finished at 2025-11-17T00:00:53+0000
+  2025-12-01T00:47:52+0000  cheerilee-20160313.1835.entry
+  2025-12-01T00:47:52+0000  cheerilee-20160313.1835.tar
+Built cheerilee in 2.813s, finished at 2025-12-01T00:47:53+0000

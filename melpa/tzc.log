@@ -1,18 +1,15 @@
-Package: tzc
-Fetcher: github
-Source:  https://github.com/md-arif-shaikh/tzc
-
+ • Building package tzc (from github:md-arif-shaikh/tzc)...
 Updating /mnt/store/melpa/working/tzc/
 Checking out 8f425cd6f020b5082445be9547e9308be73c6adf
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/tzc/
-  to /tmp/tzcckl1bE/tzc-20240403.332
+  to /tmp/tzceDE7SD/tzc-20240403.332
     tzc.el -> tzc.el
 Created tzc-20240403.332.tar containing:
   tzc-20240403.332/
   tzc-20240403.332/tzc-pkg.el
   tzc-20240403.332/tzc.el
  ✓ Success:
-  2025-11-17T01:05:01+0000  tzc-20240403.332.entry
-  2025-11-17T01:05:01+0000  tzc-20240403.332.tar
-Built tzc in 2.953s, finished at 2025-11-17T01:05:02+0000
+  2025-12-01T01:52:34+0000  tzc-20240403.332.entry
+  2025-12-01T01:52:34+0000  tzc-20240403.332.tar
+Built tzc in 3.039s, finished at 2025-12-01T01:52:35+0000

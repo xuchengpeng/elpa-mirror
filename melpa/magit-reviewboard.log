@@ -1,18 +1,15 @@
-Package: magit-reviewboard
-Fetcher: github
-Source:  https://github.com/jtamagnan/magit-reviewboard
-
+ • Building package magit-reviewboard (from github:jtamagnan/magit-reviewboard)...
 Updating /mnt/store/melpa/working/magit-reviewboard/
 Checking out aceedff88921f1dfef8a6b2fb18fe316fb7223a8
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/magit-reviewboard/
-  to /tmp/magit-reviewboardYuzVV5/magit-reviewboard-20200727.1748
+  to /tmp/magit-reviewboardSdBTuS/magit-reviewboard-20200727.1748
     magit-reviewboard.el -> magit-reviewboard.el
 Created magit-reviewboard-20200727.1748.tar containing:
   magit-reviewboard-20200727.1748/
   magit-reviewboard-20200727.1748/magit-reviewboard-pkg.el
   magit-reviewboard-20200727.1748/magit-reviewboard.el
  ✓ Success:
-  2025-11-17T00:36:09+0000  magit-reviewboard-20200727.1748.entry
-  2025-11-17T00:36:09+0000  magit-reviewboard-20200727.1748.tar
-Built magit-reviewboard in 3.089s, finished at 2025-11-17T00:36:10+0000
+  2025-12-01T01:23:21+0000  magit-reviewboard-20200727.1748.entry
+  2025-12-01T01:23:20+0000  magit-reviewboard-20200727.1748.tar
+Built magit-reviewboard in 5.119s, finished at 2025-12-01T01:23:22+0000

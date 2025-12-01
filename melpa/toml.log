@@ -1,18 +1,15 @@
-Package: toml
-Fetcher: github
-Source:  https://github.com/gongo/emacs-toml
-
+ • Building package toml (from github:gongo/emacs-toml)...
 Updating /mnt/store/melpa/working/toml/
 Checking out 8d8cefa2a0590ed4b68064a7a55a552c0a16a68a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/toml/
-  to /tmp/tomlGDMwZJ/toml-20250729.635
+  to /tmp/tomlZD572d/toml-20250729.635
     toml.el -> toml.el
 Created toml-20250729.635.tar containing:
   toml-20250729.635/
   toml-20250729.635/toml-pkg.el
   toml-20250729.635/toml.el
  ✓ Success:
-  2025-11-17T01:03:40+0000  toml-20250729.635.entry
-  2025-11-17T01:03:40+0000  toml-20250729.635.tar
-Built toml in 3.180s, finished at 2025-11-17T01:03:41+0000
+  2025-12-01T01:51:13+0000  toml-20250729.635.entry
+  2025-12-01T01:51:13+0000  toml-20250729.635.tar
+Built toml in 2.980s, finished at 2025-12-01T01:51:14+0000

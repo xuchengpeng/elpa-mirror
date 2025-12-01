@@ -1,18 +1,15 @@
-Package: gildas-mode
-Fetcher: github
-Source:  https://github.com/smaret/gildas-mode
-
+ • Building package gildas-mode (from github:smaret/gildas-mode)...
 Updating /mnt/store/melpa/working/gildas-mode/
 Checking out d0c9e997e2aa0bcd9b8b7db082d69100448cb1b2
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/gildas-mode/
-  to /tmp/gildas-modeRpBHL6/gildas-mode-20181022.649
+  to /tmp/gildas-mode3Q9EhF/gildas-mode-20181022.649
     gildas-mode.el -> gildas-mode.el
 Created gildas-mode-20181022.649.tar containing:
   gildas-mode-20181022.649/
   gildas-mode-20181022.649/gildas-mode-pkg.el
   gildas-mode-20181022.649/gildas-mode.el
  ✓ Success:
-  2025-11-17T00:20:57+0000  gildas-mode-20181022.649.entry
-  2025-11-17T00:20:57+0000  gildas-mode-20181022.649.tar
-Built gildas-mode in 2.830s, finished at 2025-11-17T00:20:58+0000
+  2025-12-01T01:08:20+0000  gildas-mode-20181022.649.entry
+  2025-12-01T01:08:19+0000  gildas-mode-20181022.649.tar
+Built gildas-mode in 3.227s, finished at 2025-12-01T01:08:21+0000

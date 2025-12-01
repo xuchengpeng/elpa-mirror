@@ -1,12 +1,9 @@
-Package: laas
-Fetcher: github
-Source:  https://github.com/tecosaur/LaTeX-auto-activating-snippets
-
+ • Building package laas (from github:tecosaur/LaTeX-auto-activating-snippets)...
 Updating /mnt/store/melpa/working/laas/
 Checking out f5fb180ab23b7eb0695ade84c9077aa701f47bbf
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/laas/
-  to /tmp/laasY3JJzJ/laas-20241212.1314
+  to /tmp/laaswN3CjD/laas-20241212.1314
     laas-unicode.el -> laas-unicode.el
     laas.el -> laas.el
 Created laas-20241212.1314.tar containing:
@@ -15,6 +12,6 @@ Created laas-20241212.1314.tar containing:
   laas-20241212.1314/laas-unicode.el
   laas-20241212.1314/laas.el
  ✓ Success:
-  2025-11-17T00:33:13+0000  laas-20241212.1314.entry
-  2025-11-17T00:33:13+0000  laas-20241212.1314.tar
-Built laas in 4.714s, finished at 2025-11-17T00:33:14+0000
+  2025-12-01T01:20:04+0000  laas-20241212.1314.entry
+  2025-12-01T01:20:04+0000  laas-20241212.1314.tar
+Built laas in 3.718s, finished at 2025-12-01T01:20:05+0000

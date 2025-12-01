@@ -1,18 +1,15 @@
-Package: transducers
-Fetcher: github
-Source:  https://github.com/fosskers/transducers.el
-
+ • Building package transducers (from github:fosskers/transducers.el)...
 Updating /mnt/store/melpa/working/transducers/
-Checking out 08509ab201973e412dfd5292f721a367514db32a
+Checking out 7d36c9cdbd2179479314e4c277ecaa8020481078
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/transducers/
-  to /tmp/transducersj1mmr4/transducers-20250215.1046
+  to /tmp/transducersTWp1fa/transducers-20251118.2154
     transducers.el -> transducers.el
-Created transducers-20250215.1046.tar containing:
-  transducers-20250215.1046/
-  transducers-20250215.1046/transducers-pkg.el
-  transducers-20250215.1046/transducers.el
+Created transducers-20251118.2154.tar containing:
+  transducers-20251118.2154/
+  transducers-20251118.2154/transducers-pkg.el
+  transducers-20251118.2154/transducers.el
  ✓ Success:
-  2025-11-17T01:04:02+0000  transducers-20250215.1046.entry
-  2025-11-17T01:04:02+0000  transducers-20250215.1046.tar
-Built transducers in 3.077s, finished at 2025-11-17T01:04:03+0000
+  2025-12-01T01:51:35+0000  transducers-20251118.2154.entry
+  2025-12-01T01:51:35+0000  transducers-20251118.2154.tar
+Built transducers in 2.973s, finished at 2025-12-01T01:51:36+0000

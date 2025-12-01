@@ -1,18 +1,15 @@
-Package: cmake-font-lock
-Fetcher: github
-Source:  https://github.com/Lindydancer/cmake-font-lock
-
+ • Building package cmake-font-lock (from github:Lindydancer/cmake-font-lock)...
 Updating /mnt/store/melpa/working/cmake-font-lock/
 Checking out a6038e916bcca807ae695f7d7e5c300c3f38f415
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/cmake-font-lock/
-  to /tmp/cmake-font-lockDzTc8G/cmake-font-lock-20230304.2223
+  to /tmp/cmake-font-lock8CRXhT/cmake-font-lock-20230304.2223
     cmake-font-lock.el -> cmake-font-lock.el
 Created cmake-font-lock-20230304.2223.tar containing:
   cmake-font-lock-20230304.2223/
   cmake-font-lock-20230304.2223/cmake-font-lock-pkg.el
   cmake-font-lock-20230304.2223/cmake-font-lock.el
  ✓ Success:
-  2025-11-17T00:02:06+0000  cmake-font-lock-20230304.2223.entry
-  2025-11-17T00:02:06+0000  cmake-font-lock-20230304.2223.tar
-Built cmake-font-lock in 3.164s, finished at 2025-11-17T00:02:07+0000
+  2025-12-01T00:49:02+0000  cmake-font-lock-20230304.2223.entry
+  2025-12-01T00:49:01+0000  cmake-font-lock-20230304.2223.tar
+Built cmake-font-lock in 3.066s, finished at 2025-12-01T00:49:03+0000

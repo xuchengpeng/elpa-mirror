@@ -1,18 +1,15 @@
-Package: magit-todos
-Fetcher: github
-Source:  https://github.com/alphapapa/magit-todos
-
+ • Building package magit-todos (from github:alphapapa/magit-todos)...
 Updating /mnt/store/melpa/working/magit-todos/
 Checking out 7294a95580bddf7232f2d205efae312dc24c5f61
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/magit-todos/
-  to /tmp/magit-todosRSYPfr/magit-todos-20250928.1611
+  to /tmp/magit-todosDUcEuA/magit-todos-20250928.1611
     magit-todos.el -> magit-todos.el
 Created magit-todos-20250928.1611.tar containing:
   magit-todos-20250928.1611/
   magit-todos-20250928.1611/magit-todos-pkg.el
   magit-todos-20250928.1611/magit-todos.el
  ✓ Success:
-  2025-11-17T00:36:14+0000  magit-todos-20250928.1611.entry
-  2025-11-17T00:36:14+0000  magit-todos-20250928.1611.tar
-Built magit-todos in 3.104s, finished at 2025-11-17T00:36:15+0000
+  2025-12-01T01:23:28+0000  magit-todos-20250928.1611.entry
+  2025-12-01T01:23:28+0000  magit-todos-20250928.1611.tar
+Built magit-todos in 4.788s, finished at 2025-12-01T01:23:29+0000

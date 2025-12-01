@@ -1,18 +1,15 @@
-Package: haxe-mode
-Fetcher: github
-Source:  https://github.com/emacsorphanage/haxe-mode
-
+ • Building package haxe-mode (from github:emacsorphanage/haxe-mode)...
 Updating /mnt/store/melpa/working/haxe-mode/
 Checking out 7a396e9f01f7c110dd120c6ffaea668f44991f51
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/haxe-mode/
-  to /tmp/haxe-modeWoEqYl/haxe-mode-20240925.754
+  to /tmp/haxe-modee7NpCL/haxe-mode-20240925.754
     haxe-mode.el -> haxe-mode.el
 Created haxe-mode-20240925.754.tar containing:
   haxe-mode-20240925.754/
   haxe-mode-20240925.754/haxe-mode-pkg.el
   haxe-mode-20240925.754/haxe-mode.el
  ✓ Success:
-  2025-11-17T00:24:13+0000  haxe-mode-20240925.754.entry
-  2025-11-17T00:24:13+0000  haxe-mode-20240925.754.tar
-Built haxe-mode in 2.501s, finished at 2025-11-17T00:24:14+0000
+  2025-12-01T01:11:32+0000  haxe-mode-20240925.754.entry
+  2025-12-01T01:11:32+0000  haxe-mode-20240925.754.tar
+Built haxe-mode in 2.597s, finished at 2025-12-01T01:11:33+0000

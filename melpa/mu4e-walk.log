@@ -1,18 +1,15 @@
-Package: mu4e-walk
-Fetcher: codeberg
-Source:  https://codeberg.org/timmli/mu4e-walk
-
+ • Building package mu4e-walk (from codeberg:timmli/mu4e-walk)...
 Updating /mnt/store/melpa/working/mu4e-walk/
-Checking out 8f5360aca1df9fa87bc9b99a32bd81422dff78b9
+Checking out 9fb9efd3b99a06ac75535a1cd6630515f1a632ca
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mu4e-walk/
-  to /tmp/mu4e-walk3LVCDA/mu4e-walk-20251103.712
+  to /tmp/mu4e-walkm33oT7/mu4e-walk-20251128.1525
     mu4e-walk.el -> mu4e-walk.el
-Created mu4e-walk-20251103.712.tar containing:
-  mu4e-walk-20251103.712/
-  mu4e-walk-20251103.712/mu4e-walk-pkg.el
-  mu4e-walk-20251103.712/mu4e-walk.el
+Created mu4e-walk-20251128.1525.tar containing:
+  mu4e-walk-20251128.1525/
+  mu4e-walk-20251128.1525/mu4e-walk-pkg.el
+  mu4e-walk-20251128.1525/mu4e-walk.el
  ✓ Success:
-  2025-11-17T00:39:30+0000  mu4e-walk-20251103.712.entry
-  2025-11-17T00:39:30+0000  mu4e-walk-20251103.712.tar
-Built mu4e-walk in 3.574s, finished at 2025-11-17T00:39:31+0000
+  2025-12-01T01:26:46+0000  mu4e-walk-20251128.1525.entry
+  2025-12-01T01:26:46+0000  mu4e-walk-20251128.1525.tar
+Built mu4e-walk in 5.374s, finished at 2025-12-01T01:26:48+0000

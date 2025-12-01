@@ -1,18 +1,15 @@
-Package: govet
-Fetcher: github
-Source:  https://github.com/meshelton/govet
-
+ • Building package govet (from github:meshelton/govet)...
 Updating /mnt/store/melpa/working/govet/
 Checking out 1b8c044aa856f4b62a682bc57494af19d22a6053
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/govet/
-  to /tmp/govet1C5a4S/govet-20170808.1724
+  to /tmp/govetl0XZi8/govet-20170808.1724
     govet.el -> govet.el
 Created govet-20170808.1724.tar containing:
   govet-20170808.1724/
   govet-20170808.1724/govet-pkg.el
   govet-20170808.1724/govet.el
  ✓ Success:
-  2025-11-17T00:22:58+0000  govet-20170808.1724.entry
-  2025-11-17T00:22:58+0000  govet-20170808.1724.tar
-Built govet in 2.528s, finished at 2025-11-17T00:22:59+0000
+  2025-12-01T01:10:18+0000  govet-20170808.1724.entry
+  2025-12-01T01:10:18+0000  govet-20170808.1724.tar
+Built govet in 2.744s, finished at 2025-12-01T01:10:19+0000

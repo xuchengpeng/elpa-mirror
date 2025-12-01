@@ -1,12 +1,9 @@
-Package: phpactor
-Fetcher: github
-Source:  https://github.com/emacs-php/phpactor.el
-
+ • Building package phpactor (from github:emacs-php/phpactor.el)...
 Updating /mnt/store/melpa/working/phpactor/
 Checking out d0dd8d739812d60f0765276d22add93dc7c61bb9
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/phpactor/
-  to /tmp/phpactorEPcoXJ/phpactor-20251112.706
+  to /tmp/phpactorLTeGJT/phpactor-20251112.706
     phpactor.el -> phpactor.el
     composer.json -> composer.json
     composer.lock -> composer.lock
@@ -17,6 +14,6 @@ Created phpactor-20251112.706.tar containing:
   phpactor-20251112.706/phpactor-pkg.el
   phpactor-20251112.706/phpactor.el
  ✓ Success:
-  2025-11-17T00:49:19+0000  phpactor-20251112.706.entry
-  2025-11-17T00:49:19+0000  phpactor-20251112.706.tar
-Built phpactor in 2.945s, finished at 2025-11-17T00:49:20+0000
+  2025-12-01T01:36:47+0000  phpactor-20251112.706.entry
+  2025-12-01T01:36:46+0000  phpactor-20251112.706.tar
+Built phpactor in 3.252s, finished at 2025-12-01T01:36:48+0000

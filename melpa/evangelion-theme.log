@@ -1,18 +1,15 @@
-Package: evangelion-theme
-Fetcher: github
-Source:  https://github.com/crmsnbleyd/evangelion-theme
-
+ • Building package evangelion-theme (from github:crmsnbleyd/evangelion-theme)...
 Updating /mnt/store/melpa/working/evangelion-theme/
 Checking out 89577330e93f1c11b3e75d1c8bbae6accc18fc48
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/evangelion-theme/
-  to /tmp/evangelion-themehsIjpH/evangelion-theme-20241116.1036
+  to /tmp/evangelion-theme21b8Wm/evangelion-theme-20241116.1036
     evangelion-theme.el -> evangelion-theme.el
 Created evangelion-theme-20241116.1036.tar containing:
   evangelion-theme-20241116.1036/
   evangelion-theme-20241116.1036/evangelion-theme-pkg.el
   evangelion-theme-20241116.1036/evangelion-theme.el
  ✓ Success:
-  2025-11-17T00:14:15+0000  evangelion-theme-20241116.1036.entry
-  2025-11-17T00:14:15+0000  evangelion-theme-20241116.1036.tar
-Built evangelion-theme in 2.782s, finished at 2025-11-17T00:14:16+0000
+  2025-12-01T01:01:29+0000  evangelion-theme-20241116.1036.entry
+  2025-12-01T01:01:28+0000  evangelion-theme-20241116.1036.tar
+Built evangelion-theme in 2.724s, finished at 2025-12-01T01:01:29+0000

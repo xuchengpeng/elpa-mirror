@@ -1,18 +1,15 @@
-Package: flx-ido
-Fetcher: github
-Source:  https://github.com/lewang/flx
-
+ • Building package flx-ido (from github:lewang/flx)...
 Updating /mnt/store/melpa/working/flx-ido/
 Checking out 4b1346eb9a8a76ee9c9dede69738c63ad97ac5b6
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/flx-ido/
-  to /tmp/flx-ido4nvzmD/flx-ido-20240205.356
+  to /tmp/flx-idoW7R5eW/flx-ido-20240205.356
     flx-ido.el -> flx-ido.el
 Created flx-ido-20240205.356.tar containing:
   flx-ido-20240205.356/
   flx-ido-20240205.356/flx-ido-pkg.el
   flx-ido-20240205.356/flx-ido.el
  ✓ Success:
-  2025-11-17T00:17:13+0000  flx-ido-20240205.356.entry
-  2025-11-17T00:17:13+0000  flx-ido-20240205.356.tar
-Built flx-ido in 3.317s, finished at 2025-11-17T00:17:14+0000
+  2025-12-01T01:04:33+0000  flx-ido-20240205.356.entry
+  2025-12-01T01:04:33+0000  flx-ido-20240205.356.tar
+Built flx-ido in 3.024s, finished at 2025-12-01T01:04:34+0000

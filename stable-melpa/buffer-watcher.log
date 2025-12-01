@@ -1,18 +1,15 @@
-Package: buffer-watcher
-Fetcher: github
-Source:  https://github.com/NicolasPetton/buffer-watcher
-
+ • Building package buffer-watcher (from github:NicolasPetton/buffer-watcher)...
 Updating /mnt/store/melpa/working/buffer-watcher/
 Checking out b32c67c8a5d724257d759f4c903d0dedc32246ef
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/buffer-watcher/
-  to /tmp/buffer-watcherNBntCz/buffer-watcher-20170913.839
+  to /tmp/buffer-watcherxwkBvt/buffer-watcher-20170913.839
     buffer-watcher.el -> buffer-watcher.el
 Created buffer-watcher-20170913.839.tar containing:
   buffer-watcher-20170913.839/
   buffer-watcher-20170913.839/buffer-watcher-pkg.el
   buffer-watcher-20170913.839/buffer-watcher.el
  ✓ Success:
-  2025-11-16T23:59:17+0000  buffer-watcher-20170913.839.entry
-  2025-11-16T23:59:16+0000  buffer-watcher-20170913.839.tar
-Built buffer-watcher in 2.954s, finished at 2025-11-16T23:59:18+0000
+  2025-12-01T00:46:19+0000  buffer-watcher-20170913.839.entry
+  2025-12-01T00:46:19+0000  buffer-watcher-20170913.839.tar
+Built buffer-watcher in 4.919s, finished at 2025-12-01T00:46:20+0000

@@ -1,18 +1,15 @@
-Package: russian-holidays
-Fetcher: github
-Source:  https://github.com/grafov/russian-holidays
-
+ • Building package russian-holidays (from github:grafov/russian-holidays)...
 Updating /mnt/store/melpa/working/russian-holidays/
 Checking out b285a30f29d85c48e3ea4eb93972d34a090c167b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/russian-holidays/
-  to /tmp/russian-holidaysr3nTxi/russian-holidays-20170109.2140
+  to /tmp/russian-holidays9Lbx4Z/russian-holidays-20170109.2140
     russian-holidays.el -> russian-holidays.el
 Created russian-holidays-20170109.2140.tar containing:
   russian-holidays-20170109.2140/
   russian-holidays-20170109.2140/russian-holidays-pkg.el
   russian-holidays-20170109.2140/russian-holidays.el
  ✓ Success:
-  2025-11-17T00:55:38+0000  russian-holidays-20170109.2140.entry
-  2025-11-17T00:55:37+0000  russian-holidays-20170109.2140.tar
-Built russian-holidays in 5.068s, finished at 2025-11-17T00:55:39+0000
+  2025-12-01T01:43:09+0000  russian-holidays-20170109.2140.entry
+  2025-12-01T01:43:09+0000  russian-holidays-20170109.2140.tar
+Built russian-holidays in 3.234s, finished at 2025-12-01T01:43:10+0000

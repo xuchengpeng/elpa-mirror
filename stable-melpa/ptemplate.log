@@ -1,18 +1,15 @@
-Package: ptemplate
-Fetcher: github
-Source:  https://github.com/nbfalcon/ptemplate
-
+ • Building package ptemplate (from github:nbfalcon/ptemplate)...
 Updating /mnt/store/melpa/working/ptemplate/
 Checking out b81cc7be8865745c3a60177a244d2a69729ab21b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ptemplate/
-  to /tmp/ptemplateOVlX50/ptemplate-20210324.1446
+  to /tmp/ptemplateQ6dfed/ptemplate-20210324.1446
     ptemplate.el -> ptemplate.el
 Created ptemplate-20210324.1446.tar containing:
   ptemplate-20210324.1446/
   ptemplate-20210324.1446/ptemplate-pkg.el
   ptemplate-20210324.1446/ptemplate.el
  ✓ Success:
-  2025-11-17T00:52:02+0000  ptemplate-20210324.1446.entry
-  2025-11-17T00:52:02+0000  ptemplate-20210324.1446.tar
-Built ptemplate in 2.792s, finished at 2025-11-17T00:52:03+0000
+  2025-12-01T01:39:33+0000  ptemplate-20210324.1446.entry
+  2025-12-01T01:39:33+0000  ptemplate-20210324.1446.tar
+Built ptemplate in 2.828s, finished at 2025-12-01T01:39:34+0000

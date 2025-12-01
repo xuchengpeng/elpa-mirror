@@ -1,18 +1,15 @@
-Package: ivy-clojuredocs
-Fetcher: github
-Source:  https://github.com/wandersoncferreira/ivy-clojuredocs
-
+ • Building package ivy-clojuredocs (from github:wandersoncferreira/ivy-clojuredocs)...
 Updating /mnt/store/melpa/working/ivy-clojuredocs/
 Checking out 8b6de19b3578c72d2b88f898e2290d94c04350f9
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ivy-clojuredocs/
-  to /tmp/ivy-clojuredocs8Iuf0h/ivy-clojuredocs-20201129.2355
+  to /tmp/ivy-clojuredocsH9A4HO/ivy-clojuredocs-20201129.2355
     ivy-clojuredocs.el -> ivy-clojuredocs.el
 Created ivy-clojuredocs-20201129.2355.tar containing:
   ivy-clojuredocs-20201129.2355/
   ivy-clojuredocs-20201129.2355/ivy-clojuredocs-pkg.el
   ivy-clojuredocs-20201129.2355/ivy-clojuredocs.el
  ✓ Success:
-  2025-11-17T00:29:58+0000  ivy-clojuredocs-20201129.2355.entry
-  2025-11-17T00:29:58+0000  ivy-clojuredocs-20201129.2355.tar
-Built ivy-clojuredocs in 2.727s, finished at 2025-11-17T00:29:59+0000
+  2025-12-01T01:17:08+0000  ivy-clojuredocs-20201129.2355.entry
+  2025-12-01T01:17:08+0000  ivy-clojuredocs-20201129.2355.tar
+Built ivy-clojuredocs in 2.855s, finished at 2025-12-01T01:17:09+0000

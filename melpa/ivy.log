@@ -1,12 +1,9 @@
-Package: ivy
-Fetcher: github
-Source:  https://github.com/abo-abo/swiper
-
+ • Building package ivy (from github:abo-abo/swiper)...
 Updating /mnt/store/melpa/working/ivy/
-Checking out 2529a23f9f510a94efa6c088bd14217aa764dafb
+Checking out ec9421340c88ebe08f05680e22308ed57ed68a3d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ivy/
-  to /tmp/ivyXh4E7d/ivy-20250417.1209
+  to /tmp/ivyL7yDyP/ivy-20251123.1023
     colir.el -> colir.el
     ivy-faces.el -> ivy-faces.el
     ivy-overlay.el -> ivy-overlay.el
@@ -14,17 +11,17 @@ Copying files (->) and directories (=>)
   ! doc/ivy.texi -> ivy.texi
   ! doc/ivy-help.org -> ivy-help.org
 Generating ivy.info
-Created ivy-20250417.1209.tar containing:
-  ivy-20250417.1209/
-  ivy-20250417.1209/colir.el
-  ivy-20250417.1209/dir
-  ivy-20250417.1209/ivy-faces.el
-  ivy-20250417.1209/ivy-help.org
-  ivy-20250417.1209/ivy-overlay.el
-  ivy-20250417.1209/ivy-pkg.el
-  ivy-20250417.1209/ivy.el
-  ivy-20250417.1209/ivy.info
+Created ivy-20251123.1023.tar containing:
+  ivy-20251123.1023/
+  ivy-20251123.1023/colir.el
+  ivy-20251123.1023/dir
+  ivy-20251123.1023/ivy-faces.el
+  ivy-20251123.1023/ivy-help.org
+  ivy-20251123.1023/ivy-overlay.el
+  ivy-20251123.1023/ivy-pkg.el
+  ivy-20251123.1023/ivy.el
+  ivy-20251123.1023/ivy.info
  ✓ Success:
-  2025-11-17T00:29:58+0000  ivy-20250417.1209.entry
-  2025-11-17T00:29:58+0000  ivy-20250417.1209.tar
-Built ivy in 5.714s, finished at 2025-11-17T00:29:59+0000
+  2025-12-01T01:17:08+0000  ivy-20251123.1023.entry
+  2025-12-01T01:17:08+0000  ivy-20251123.1023.tar
+Built ivy in 5.907s, finished at 2025-12-01T01:17:08+0000

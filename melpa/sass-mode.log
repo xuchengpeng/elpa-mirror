@@ -1,18 +1,15 @@
-Package: sass-mode
-Fetcher: github
-Source:  https://github.com/nex3/sass-mode
-
+ • Building package sass-mode (from github:nex3/sass-mode)...
 Updating /mnt/store/melpa/working/sass-mode/
 Checking out 247a0d4b509f10b28e4687cd8763492bca03599b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/sass-mode/
-  to /tmp/sass-modegtgUQ2/sass-mode-20190502.53
+  to /tmp/sass-modezo2Ige/sass-mode-20190502.53
     sass-mode.el -> sass-mode.el
 Created sass-mode-20190502.53.tar containing:
   sass-mode-20190502.53/
   sass-mode-20190502.53/sass-mode-pkg.el
   sass-mode-20190502.53/sass-mode.el
  ✓ Success:
-  2025-11-17T00:56:00+0000  sass-mode-20190502.53.entry
-  2025-11-17T00:56:00+0000  sass-mode-20190502.53.tar
-Built sass-mode in 3.287s, finished at 2025-11-17T00:56:01+0000
+  2025-12-01T01:43:22+0000  sass-mode-20190502.53.entry
+  2025-12-01T01:43:22+0000  sass-mode-20190502.53.tar
+Built sass-mode in 3.039s, finished at 2025-12-01T01:43:23+0000

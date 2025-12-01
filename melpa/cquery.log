@@ -1,12 +1,9 @@
-Package: cquery
-Fetcher: github
-Source:  https://github.com/cquery-project/emacs-cquery
-
+ • Building package cquery (from github:cquery-project/emacs-cquery)...
 Updating /mnt/store/melpa/working/cquery/
 Checking out 555e50984ebda177421fdcdc8c76cb29235d9694
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/cquery/
-  to /tmp/cqueryEkqlpp/cquery-20190118.542
+  to /tmp/cqueryZBwiIG/cquery-20190118.542
     cquery-call-hierarchy.el -> cquery-call-hierarchy.el
     cquery-code-lens.el -> cquery-code-lens.el
     cquery-common.el -> cquery-common.el
@@ -25,6 +22,6 @@ Created cquery-20190118.542.tar containing:
   cquery-20190118.542/cquery-tree.el
   cquery-20190118.542/cquery.el
  ✓ Success:
-  2025-11-17T00:05:25+0000  cquery-20190118.542.entry
-  2025-11-17T00:05:25+0000  cquery-20190118.542.tar
-Built cquery in 3.133s, finished at 2025-11-17T00:05:26+0000
+  2025-12-01T00:52:04+0000  cquery-20190118.542.entry
+  2025-12-01T00:52:04+0000  cquery-20190118.542.tar
+Built cquery in 5.568s, finished at 2025-12-01T00:52:06+0000

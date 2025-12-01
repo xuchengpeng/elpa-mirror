@@ -1,12 +1,9 @@
-Package: calfw-howm
-Fetcher: github
-Source:  https://github.com/kiwanami/emacs-calfw
-
+ • Building package calfw-howm (from github:kiwanami/emacs-calfw)...
 Updating /mnt/store/melpa/working/calfw-howm/
 Checking out c34b6afaee33392e0bcd18441588e9a502f368eb
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/calfw-howm/
-  to /tmp/calfw-howmXZuaME/calfw-howm-20251030.1600
+  to /tmp/calfw-howm6JogQr/calfw-howm-20251030.1600
     calfw-howm.el -> calfw-howm.el
     calfw-compat.el -> calfw-compat.el
 Created calfw-howm-20251030.1600.tar containing:
@@ -15,6 +12,6 @@ Created calfw-howm-20251030.1600.tar containing:
   calfw-howm-20251030.1600/calfw-howm-pkg.el
   calfw-howm-20251030.1600/calfw-howm.el
  ✓ Success:
-  2025-11-16T23:59:47+0000  calfw-howm-20251030.1600.entry
-  2025-11-16T23:59:47+0000  calfw-howm-20251030.1600.tar
-Built calfw-howm in 3.371s, finished at 2025-11-16T23:59:48+0000
+  2025-12-01T00:46:59+0000  calfw-howm-20251030.1600.entry
+  2025-12-01T00:46:59+0000  calfw-howm-20251030.1600.tar
+Built calfw-howm in 3.369s, finished at 2025-12-01T00:47:00+0000

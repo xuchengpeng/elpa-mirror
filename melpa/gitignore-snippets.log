@@ -1,12 +1,9 @@
-Package: gitignore-snippets
-Fetcher: github
-Source:  https://github.com/sei40kr/gitignore-snippets
-
+ • Building package gitignore-snippets (from github:sei40kr/gitignore-snippets)...
 Updating /mnt/store/melpa/working/gitignore-snippets/
 Checking out f91b3397526fe09d2e4a1f507a73b06bc7542cf7
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/gitignore-snippets/
-  to /tmp/gitignore-snippetsPjtu5n/gitignore-snippets-20201118.1551
+  to /tmp/gitignore-snippetsImyP5H/gitignore-snippets-20201118.1551
     gitignore-snippets.el -> gitignore-snippets.el
     snippets => snippets
 Created gitignore-snippets-20201118.1551.tar containing:
@@ -492,6 +489,6 @@ Created gitignore-snippets-20201118.1551.tar containing:
   gitignore-snippets-20201118.1551/snippets/gitignore-mode/zsh
   gitignore-snippets-20201118.1551/snippets/gitignore-mode/zukencr8000
  ✓ Success:
-  2025-11-17T00:21:51+0000  gitignore-snippets-20201118.1551.entry
-  2025-11-17T00:21:50+0000  gitignore-snippets-20201118.1551.tar
-Built gitignore-snippets in 6.244s, finished at 2025-11-17T00:21:53+0000
+  2025-12-01T01:08:54+0000  gitignore-snippets-20201118.1551.entry
+  2025-12-01T01:08:53+0000  gitignore-snippets-20201118.1551.tar
+Built gitignore-snippets in 3.465s, finished at 2025-12-01T01:08:54+0000

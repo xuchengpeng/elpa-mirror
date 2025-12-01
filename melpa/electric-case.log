@@ -1,18 +1,15 @@
-Package: electric-case
-Fetcher: github
-Source:  https://github.com/zk-phi/electric-case
-
+ • Building package electric-case (from github:zk-phi/electric-case)...
 Updating /mnt/store/melpa/working/electric-case/
 Checking out 984b6a4c6c4cdcefeecb59e941f5f184cc1dedff
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/electric-case/
-  to /tmp/electric-case5KF6UI/electric-case-20150417.1112
+  to /tmp/electric-case91Mn5g/electric-case-20150417.1112
     electric-case.el -> electric-case.el
 Created electric-case-20150417.1112.tar containing:
   electric-case-20150417.1112/
   electric-case-20150417.1112/electric-case-pkg.el
   electric-case-20150417.1112/electric-case.el
  ✓ Success:
-  2025-11-17T00:11:23+0000  electric-case-20150417.1112.entry
-  2025-11-17T00:11:23+0000  electric-case-20150417.1112.tar
-Built electric-case in 2.485s, finished at 2025-11-17T00:11:23+0000
+  2025-12-01T00:58:32+0000  electric-case-20150417.1112.entry
+  2025-12-01T00:58:32+0000  electric-case-20150417.1112.tar
+Built electric-case in 2.565s, finished at 2025-12-01T00:58:33+0000

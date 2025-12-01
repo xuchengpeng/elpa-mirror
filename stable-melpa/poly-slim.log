@@ -1,18 +1,15 @@
-Package: poly-slim
-Fetcher: github
-Source:  https://github.com/polymode/poly-slim
-
+ • Building package poly-slim (from github:polymode/poly-slim)...
 Updating /mnt/store/melpa/working/poly-slim/
 Checking out 9e9b5164c68955974fd5f5d220aec5af9b5ba3ae
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/poly-slim/
-  to /tmp/poly-slimB38NQz/poly-slim-20200316.1316
+  to /tmp/poly-slimVvIPax/poly-slim-20200316.1316
     poly-slim.el -> poly-slim.el
 Created poly-slim-20200316.1316.tar containing:
   poly-slim-20200316.1316/
   poly-slim-20200316.1316/poly-slim-pkg.el
   poly-slim-20200316.1316/poly-slim.el
  ✓ Success:
-  2025-11-17T00:50:33+0000  poly-slim-20200316.1316.entry
-  2025-11-17T00:50:33+0000  poly-slim-20200316.1316.tar
-Built poly-slim in 2.822s, finished at 2025-11-17T00:50:34+0000
+  2025-12-01T01:37:47+0000  poly-slim-20200316.1316.entry
+  2025-12-01T01:37:47+0000  poly-slim-20200316.1316.tar
+Built poly-slim in 4.396s, finished at 2025-12-01T01:37:48+0000

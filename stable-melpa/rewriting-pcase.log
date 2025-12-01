@@ -1,18 +1,15 @@
-Package: rewriting-pcase
-Fetcher: github
-Source:  https://github.com/owinebar/emacs-rewriting-pcase
-
+ • Building package rewriting-pcase (from github:owinebar/emacs-rewriting-pcase)...
 Updating /mnt/store/melpa/working/rewriting-pcase/
 Checking out 3a2efb79bfc68629bd20a8bc1770c8f6d24575fa
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/rewriting-pcase/
-  to /tmp/rewriting-pcasejVs1bf/rewriting-pcase-20230419.23
+  to /tmp/rewriting-pcase0oP52B/rewriting-pcase-20230419.23
     rewriting-pcase.el -> rewriting-pcase.el
 Created rewriting-pcase-20230419.23.tar containing:
   rewriting-pcase-20230419.23/
   rewriting-pcase-20230419.23/rewriting-pcase-pkg.el
   rewriting-pcase-20230419.23/rewriting-pcase.el
  ✓ Success:
-  2025-11-17T00:54:39+0000  rewriting-pcase-20230419.23.entry
-  2025-11-17T00:54:39+0000  rewriting-pcase-20230419.23.tar
-Built rewriting-pcase in 2.632s, finished at 2025-11-17T00:54:40+0000
+  2025-12-01T01:42:17+0000  rewriting-pcase-20230419.23.entry
+  2025-12-01T01:42:17+0000  rewriting-pcase-20230419.23.tar
+Built rewriting-pcase in 2.623s, finished at 2025-12-01T01:42:18+0000

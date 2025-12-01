@@ -1,18 +1,15 @@
-Package: which-key
-Fetcher: github
-Source:  https://github.com/justbur/emacs-which-key
-
+ • Building package which-key (from github:justbur/emacs-which-key)...
 Updating /mnt/store/melpa/working/which-key/
 Checking out ed389312170df955aaf10c2e120cc533ed5c509e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/which-key/
-  to /tmp/which-keyU74F4v/which-key-20240620.2145
+  to /tmp/which-keyw9oS7b/which-key-20240620.2145
     which-key.el -> which-key.el
 Created which-key-20240620.2145.tar containing:
   which-key-20240620.2145/
   which-key-20240620.2145/which-key-pkg.el
   which-key-20240620.2145/which-key.el
  ✓ Success:
-  2025-11-17T01:07:57+0000  which-key-20240620.2145.entry
-  2025-11-17T01:07:57+0000  which-key-20240620.2145.tar
-Built which-key in 3.517s, finished at 2025-11-17T01:07:58+0000
+  2025-12-01T01:55:43+0000  which-key-20240620.2145.entry
+  2025-12-01T01:55:43+0000  which-key-20240620.2145.tar
+Built which-key in 3.132s, finished at 2025-12-01T01:55:44+0000

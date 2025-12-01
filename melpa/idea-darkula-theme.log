@@ -1,18 +1,15 @@
-Package: idea-darkula-theme
-Fetcher: codeberg
-Source:  https://codeberg.org/fourier/idea-darkula-theme
-
+ • Building package idea-darkula-theme (from codeberg:fourier/idea-darkula-theme)...
 Updating /mnt/store/melpa/working/idea-darkula-theme/
 Checking out 2ba08b6b7c0f75d460d81e1f02114a6449bb1868
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/idea-darkula-theme/
-  to /tmp/idea-darkula-themeE2e3a8/idea-darkula-theme-20230617.2005
+  to /tmp/idea-darkula-themeimJNcQ/idea-darkula-theme-20230617.2005
     idea-darkula-theme.el -> idea-darkula-theme.el
 Created idea-darkula-theme-20230617.2005.tar containing:
   idea-darkula-theme-20230617.2005/
   idea-darkula-theme-20230617.2005/idea-darkula-theme-pkg.el
   idea-darkula-theme-20230617.2005/idea-darkula-theme.el
  ✓ Success:
-  2025-11-17T00:28:17+0000  idea-darkula-theme-20230617.2005.entry
-  2025-11-17T00:28:17+0000  idea-darkula-theme-20230617.2005.tar
-Built idea-darkula-theme in 3.532s, finished at 2025-11-17T00:28:17+0000
+  2025-12-01T01:15:21+0000  idea-darkula-theme-20230617.2005.entry
+  2025-12-01T01:15:21+0000  idea-darkula-theme-20230617.2005.tar
+Built idea-darkula-theme in 5.284s, finished at 2025-12-01T01:15:23+0000

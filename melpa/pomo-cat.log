@@ -1,18 +1,15 @@
-Package: pomo-cat
-Fetcher: github
-Source:  https://github.com/kn66/pomo-cat.el
-
+ • Building package pomo-cat (from github:kn66/pomo-cat.el)...
 Updating /mnt/store/melpa/working/pomo-cat/
-Checking out f006de9c1fae681299ba63bbc64176348b62e645
+Checking out 441b5f8476e99e740eba72cf52c4edf1bbe51673
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/pomo-cat/
-  to /tmp/pomo-catLDxU77/pomo-cat-20250914.1145
+  to /tmp/pomo-catdjfE4T/pomo-cat-20251127.1631
     pomo-cat.el -> pomo-cat.el
-Created pomo-cat-20250914.1145.tar containing:
-  pomo-cat-20250914.1145/
-  pomo-cat-20250914.1145/pomo-cat-pkg.el
-  pomo-cat-20250914.1145/pomo-cat.el
+Created pomo-cat-20251127.1631.tar containing:
+  pomo-cat-20251127.1631/
+  pomo-cat-20251127.1631/pomo-cat-pkg.el
+  pomo-cat-20251127.1631/pomo-cat.el
  ✓ Success:
-  2025-11-17T00:50:38+0000  pomo-cat-20250914.1145.entry
-  2025-11-17T00:50:38+0000  pomo-cat-20250914.1145.tar
-Built pomo-cat in 3.426s, finished at 2025-11-17T00:50:39+0000
+  2025-12-01T01:37:54+0000  pomo-cat-20251127.1631.entry
+  2025-12-01T01:37:53+0000  pomo-cat-20251127.1631.tar
+Built pomo-cat in 4.920s, finished at 2025-12-01T01:37:55+0000

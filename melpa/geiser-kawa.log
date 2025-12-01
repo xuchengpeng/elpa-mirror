@@ -1,12 +1,9 @@
-Package: geiser-kawa
-Fetcher: gitlab
-Source:  https://gitlab.com/emacs-geiser/kawa
-
+ • Building package geiser-kawa (from gitlab:emacs-geiser/kawa)...
 Updating /mnt/store/melpa/working/geiser-kawa/
 Checking out 5896b19642923f74f718eb68d447560b2d26d797
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/geiser-kawa/
-  to /tmp/geiser-kawaV8DAmv/geiser-kawa-20210920.1607
+  to /tmp/geiser-kawauuNYfO/geiser-kawa-20210920.1607
   ! elisp/geiser-kawa-arglist.el -> geiser-kawa-arglist.el
   ! elisp/geiser-kawa-deps.el -> geiser-kawa-deps.el
   ! elisp/geiser-kawa-devutil-complete.el -> geiser-kawa-devutil-complete.el
@@ -62,6 +59,6 @@ Created geiser-kawa-20210920.1607.tar containing:
   geiser-kawa-20210920.1607/src/test/java/kawageiser/GeiserAutodocTest.java
   geiser-kawa-20210920.1607/src/test/java/kawageiser/GeiserTest.java
  ✓ Success:
-  2025-11-17T00:20:34+0000  geiser-kawa-20210920.1607.entry
-  2025-11-17T00:20:34+0000  geiser-kawa-20210920.1607.tar
-Built geiser-kawa in 3.586s, finished at 2025-11-17T00:20:35+0000
+  2025-12-01T01:07:57+0000  geiser-kawa-20210920.1607.entry
+  2025-12-01T01:07:57+0000  geiser-kawa-20210920.1607.tar
+Built geiser-kawa in 3.510s, finished at 2025-12-01T01:07:58+0000

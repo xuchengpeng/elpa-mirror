@@ -1,12 +1,9 @@
-Package: haskell-emacs
-Fetcher: github
-Source:  https://github.com/knupfer/haskell-emacs
-
+ • Building package haskell-emacs (from github:knupfer/haskell-emacs)...
 Updating /mnt/store/melpa/working/haskell-emacs/
 Checking out 777d5209f70229b53e4a60a09d1b714d233b0a7c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/haskell-emacs/
-  to /tmp/haskell-emacsBgn4sQ/haskell-emacs-20240205.2225
+  to /tmp/haskell-emacsYjpOGD/haskell-emacs-20240205.2225
     haskell-emacs.el -> haskell-emacs.el
     HaskellEmacs.hs -> HaskellEmacs.hs
     README.org -> README.org
@@ -22,6 +19,6 @@ Created haskell-emacs-20240205.2225.tar containing:
   haskell-emacs-20240205.2225/haskell-emacs-pkg.el
   haskell-emacs-20240205.2225/haskell-emacs.el
  ✓ Success:
-  2025-11-17T00:24:05+0000  haskell-emacs-20240205.2225.entry
-  2025-11-17T00:24:05+0000  haskell-emacs-20240205.2225.tar
-Built haskell-emacs in 2.738s, finished at 2025-11-17T00:24:06+0000
+  2025-12-01T01:11:24+0000  haskell-emacs-20240205.2225.entry
+  2025-12-01T01:11:24+0000  haskell-emacs-20240205.2225.tar
+Built haskell-emacs in 2.492s, finished at 2025-12-01T01:11:24+0000

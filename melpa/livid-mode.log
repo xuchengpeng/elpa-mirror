@@ -1,18 +1,15 @@
-Package: livid-mode
-Fetcher: github
-Source:  https://github.com/pandeiro/livid-mode
-
+ • Building package livid-mode (from github:pandeiro/livid-mode)...
 Updating /mnt/store/melpa/working/livid-mode/
 Checking out dfe5212fa64738bc4138bfebf349fbc8bc237c26
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/livid-mode/
-  to /tmp/livid-modeKgI9b5/livid-mode-20131116.1344
+  to /tmp/livid-modectO3wM/livid-mode-20131116.1344
     livid-mode.el -> livid-mode.el
 Created livid-mode-20131116.1344.tar containing:
   livid-mode-20131116.1344/
   livid-mode-20131116.1344/livid-mode-pkg.el
   livid-mode-20131116.1344/livid-mode.el
  ✓ Success:
-  2025-11-17T00:34:42+0000  livid-mode-20131116.1344.entry
-  2025-11-17T00:34:42+0000  livid-mode-20131116.1344.tar
-Built livid-mode in 2.965s, finished at 2025-11-17T00:34:43+0000
+  2025-12-01T01:21:48+0000  livid-mode-20131116.1344.entry
+  2025-12-01T01:21:48+0000  livid-mode-20131116.1344.tar
+Built livid-mode in 2.772s, finished at 2025-12-01T01:21:49+0000

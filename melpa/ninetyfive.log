@@ -1,18 +1,15 @@
-Package: ninetyfive
-Fetcher: github
-Source:  https://github.com/ninetyfive-gg/ninetyfive.el
-
+ • Building package ninetyfive (from github:ninetyfive-gg/ninetyfive.el)...
 Updating /mnt/store/melpa/working/ninetyfive/
-Checking out ca72a8f2e0715aeacdaff2d96e3da72d90add7f8
+Checking out 0d673ac905c68a91dadf7e9c2ff6fa9c6402034e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ninetyfive/
-  to /tmp/ninetyfive3gA29N/ninetyfive-20251106.1628
+  to /tmp/ninetyfiveTAzU7V/ninetyfive-20251125.2223
     ninetyfive.el -> ninetyfive.el
-Created ninetyfive-20251106.1628.tar containing:
-  ninetyfive-20251106.1628/
-  ninetyfive-20251106.1628/ninetyfive-pkg.el
-  ninetyfive-20251106.1628/ninetyfive.el
+Created ninetyfive-20251125.2223.tar containing:
+  ninetyfive-20251125.2223/
+  ninetyfive-20251125.2223/ninetyfive-pkg.el
+  ninetyfive-20251125.2223/ninetyfive.el
  ✓ Success:
-  2025-11-17T00:40:47+0000  ninetyfive-20251106.1628.entry
-  2025-11-17T00:40:47+0000  ninetyfive-20251106.1628.tar
-Built ninetyfive in 3.157s, finished at 2025-11-17T00:40:48+0000
+  2025-12-01T01:28:04+0000  ninetyfive-20251125.2223.entry
+  2025-12-01T01:28:04+0000  ninetyfive-20251125.2223.tar
+Built ninetyfive in 3.306s, finished at 2025-12-01T01:28:05+0000

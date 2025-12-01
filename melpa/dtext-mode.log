@@ -1,18 +1,15 @@
-Package: dtext-mode
-Fetcher: github
-Source:  https://github.com/JohnDevlopment/dtext-mode.el
-
+ • Building package dtext-mode (from github:JohnDevlopment/dtext-mode.el)...
 Updating /mnt/store/melpa/working/dtext-mode/
 Checking out 5c68d1c05c4606f68384569d9baaef4f6e72fc73
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/dtext-mode/
-  to /tmp/dtext-modeWX7IXU/dtext-mode-20231120.1606
+  to /tmp/dtext-modedREMyF/dtext-mode-20231120.1606
     dtext-mode.el -> dtext-mode.el
 Created dtext-mode-20231120.1606.tar containing:
   dtext-mode-20231120.1606/
   dtext-mode-20231120.1606/dtext-mode-pkg.el
   dtext-mode-20231120.1606/dtext-mode.el
  ✓ Success:
-  2025-11-17T00:09:19+0000  dtext-mode-20231120.1606.entry
-  2025-11-17T00:09:19+0000  dtext-mode-20231120.1606.tar
-Built dtext-mode in 2.721s, finished at 2025-11-17T00:09:20+0000
+  2025-12-01T00:56:27+0000  dtext-mode-20231120.1606.entry
+  2025-12-01T00:56:27+0000  dtext-mode-20231120.1606.tar
+Built dtext-mode in 2.853s, finished at 2025-12-01T00:56:28+0000

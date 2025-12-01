@@ -1,18 +1,15 @@
-Package: freeradius-mode
-Fetcher: github
-Source:  https://github.com/VersBinarii/freeradius-mode
-
+ • Building package freeradius-mode (from github:VersBinarii/freeradius-mode)...
 Updating /mnt/store/melpa/working/freeradius-mode/
 Checking out cf8bf0359cf6c77848facbd24b764b3e111b4c2d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/freeradius-mode/
-  to /tmp/freeradius-modeLYFWYs/freeradius-mode-20190401.1743
+  to /tmp/freeradius-modeUtneLT/freeradius-mode-20190401.1743
     freeradius-mode.el -> freeradius-mode.el
 Created freeradius-mode-20190401.1743.tar containing:
   freeradius-mode-20190401.1743/
   freeradius-mode-20190401.1743/freeradius-mode-pkg.el
   freeradius-mode-20190401.1743/freeradius-mode.el
  ✓ Success:
-  2025-11-17T00:19:57+0000  freeradius-mode-20190401.1743.entry
-  2025-11-17T00:19:57+0000  freeradius-mode-20190401.1743.tar
-Built freeradius-mode in 2.937s, finished at 2025-11-17T00:19:58+0000
+  2025-12-01T01:07:18+0000  freeradius-mode-20190401.1743.entry
+  2025-12-01T01:07:18+0000  freeradius-mode-20190401.1743.tar
+Built freeradius-mode in 3.088s, finished at 2025-12-01T01:07:19+0000

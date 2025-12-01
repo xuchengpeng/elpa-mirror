@@ -1,18 +1,15 @@
-Package: click-mode
-Fetcher: github
-Source:  https://github.com/bmalehorn/click-mode
-
+ • Building package click-mode (from github:bmalehorn/click-mode)...
 Updating /mnt/store/melpa/working/click-mode/
 Checking out b94ea8cce89cf0e753b2ab915202d49ffc470fb6
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/click-mode/
-  to /tmp/click-modeh4FVKv/click-mode-20180611.44
+  to /tmp/click-modenZHz2U/click-mode-20180611.44
     click-mode.el -> click-mode.el
 Created click-mode-20180611.44.tar containing:
   click-mode-20180611.44/
   click-mode-20180611.44/click-mode-pkg.el
   click-mode-20180611.44/click-mode.el
  ✓ Success:
-  2025-11-17T00:01:41+0000  click-mode-20180611.44.entry
-  2025-11-17T00:01:41+0000  click-mode-20180611.44.tar
-Built click-mode in 2.915s, finished at 2025-11-17T00:01:42+0000
+  2025-12-01T00:48:38+0000  click-mode-20180611.44.entry
+  2025-12-01T00:48:38+0000  click-mode-20180611.44.tar
+Built click-mode in 2.893s, finished at 2025-12-01T00:48:39+0000

@@ -1,18 +1,15 @@
-Package: clean-aindent-mode
-Fetcher: github
-Source:  https://github.com/pmarinov/clean-aindent-mode
-
+ • Building package clean-aindent-mode (from github:pmarinov/clean-aindent-mode)...
 Updating /mnt/store/melpa/working/clean-aindent-mode/
 Checking out a97bcae8f43a9ff64e95473e4ef0d8bafe829211
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/clean-aindent-mode/
-  to /tmp/clean-aindent-modeffo84V/clean-aindent-mode-20171017.2043
+  to /tmp/clean-aindent-modeslXwvr/clean-aindent-mode-20171017.2043
     clean-aindent-mode.el -> clean-aindent-mode.el
 Created clean-aindent-mode-20171017.2043.tar containing:
   clean-aindent-mode-20171017.2043/
   clean-aindent-mode-20171017.2043/clean-aindent-mode-pkg.el
   clean-aindent-mode-20171017.2043/clean-aindent-mode.el
  ✓ Success:
-  2025-11-17T00:01:37+0000  clean-aindent-mode-20171017.2043.entry
-  2025-11-17T00:01:37+0000  clean-aindent-mode-20171017.2043.tar
-Built clean-aindent-mode in 2.916s, finished at 2025-11-17T00:01:38+0000
+  2025-12-01T00:48:34+0000  clean-aindent-mode-20171017.2043.entry
+  2025-12-01T00:48:34+0000  clean-aindent-mode-20171017.2043.tar
+Built clean-aindent-mode in 2.871s, finished at 2025-12-01T00:48:34+0000

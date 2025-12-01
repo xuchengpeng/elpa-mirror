@@ -1,18 +1,15 @@
-Package: elisp-docstring-mode
-Fetcher: github
-Source:  https://github.com/Fuco1/elisp-docstring-mode
-
+ • Building package elisp-docstring-mode (from github:Fuco1/elisp-docstring-mode)...
 Updating /mnt/store/melpa/working/elisp-docstring-mode/
 Checking out b135d95b158048927f12184e5cfb8fe01fc44713
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/elisp-docstring-mode/
-  to /tmp/elisp-docstring-modeKJhZlh/elisp-docstring-mode-20170304.1615
+  to /tmp/elisp-docstring-modeZphF3F/elisp-docstring-mode-20170304.1615
     elisp-docstring-mode.el -> elisp-docstring-mode.el
 Created elisp-docstring-mode-20170304.1615.tar containing:
   elisp-docstring-mode-20170304.1615/
   elisp-docstring-mode-20170304.1615/elisp-docstring-mode-pkg.el
   elisp-docstring-mode-20170304.1615/elisp-docstring-mode.el
  ✓ Success:
-  2025-11-17T00:11:46+0000  elisp-docstring-mode-20170304.1615.entry
-  2025-11-17T00:11:45+0000  elisp-docstring-mode-20170304.1615.tar
-Built elisp-docstring-mode in 3.327s, finished at 2025-11-17T00:11:46+0000
+  2025-12-01T00:58:54+0000  elisp-docstring-mode-20170304.1615.entry
+  2025-12-01T00:58:54+0000  elisp-docstring-mode-20170304.1615.tar
+Built elisp-docstring-mode in 3.031s, finished at 2025-12-01T00:58:55+0000

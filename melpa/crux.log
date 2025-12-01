@@ -1,18 +1,15 @@
-Package: crux
-Fetcher: github
-Source:  https://github.com/bbatsov/crux
-
+ • Building package crux (from github:bbatsov/crux)...
 Updating /mnt/store/melpa/working/crux/
 Checking out e42f5558199576628e827a6e3db29eae56f4126a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/crux/
-  to /tmp/cruxiPBTjC/crux-20250421.936
+  to /tmp/cruxLdW5OZ/crux-20250421.936
     crux.el -> crux.el
 Created crux-20250421.936.tar containing:
   crux-20250421.936/
   crux-20250421.936/crux-pkg.el
   crux-20250421.936/crux.el
  ✓ Success:
-  2025-11-17T00:05:34+0000  crux-20250421.936.entry
-  2025-11-17T00:05:34+0000  crux-20250421.936.tar
-Built crux in 3.281s, finished at 2025-11-17T00:05:35+0000
+  2025-12-01T00:52:20+0000  crux-20250421.936.entry
+  2025-12-01T00:52:20+0000  crux-20250421.936.tar
+Built crux in 7.284s, finished at 2025-12-01T00:52:23+0000

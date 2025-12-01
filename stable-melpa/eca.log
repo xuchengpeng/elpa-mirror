@@ -1,12 +1,9 @@
-Package: eca
-Fetcher: github
-Source:  https://github.com/editor-code-assistant/eca-emacs
-
+ • Building package eca (from github:editor-code-assistant/eca-emacs)...
 Updating /mnt/store/melpa/working/eca/
-Checking out 5f140711ad510bee6520485a12fa459377a9bf2e
+Checking out cf1d2682dbfe1b820cc384a1e9c9a7c0700abc33
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/eca/
-  to /tmp/eca4dCgbk/eca-20251116.1631
+  to /tmp/eca90ozAf/eca-20251130.1258
     eca-api.el -> eca-api.el
     eca-chat.el -> eca-chat.el
     eca-completion.el -> eca-completion.el
@@ -17,20 +14,20 @@ Copying files (->) and directories (=>)
     eca-rewrite.el -> eca-rewrite.el
     eca-util.el -> eca-util.el
     eca.el -> eca.el
-Created eca-20251116.1631.tar containing:
-  eca-20251116.1631/
-  eca-20251116.1631/eca-api.el
-  eca-20251116.1631/eca-chat.el
-  eca-20251116.1631/eca-completion.el
-  eca-20251116.1631/eca-diff.el
-  eca-20251116.1631/eca-editor.el
-  eca-20251116.1631/eca-mcp.el
-  eca-20251116.1631/eca-pkg.el
-  eca-20251116.1631/eca-process.el
-  eca-20251116.1631/eca-rewrite.el
-  eca-20251116.1631/eca-util.el
-  eca-20251116.1631/eca.el
+Created eca-20251130.1258.tar containing:
+  eca-20251130.1258/
+  eca-20251130.1258/eca-api.el
+  eca-20251130.1258/eca-chat.el
+  eca-20251130.1258/eca-completion.el
+  eca-20251130.1258/eca-diff.el
+  eca-20251130.1258/eca-editor.el
+  eca-20251130.1258/eca-mcp.el
+  eca-20251130.1258/eca-pkg.el
+  eca-20251130.1258/eca-process.el
+  eca-20251130.1258/eca-rewrite.el
+  eca-20251130.1258/eca-util.el
+  eca-20251130.1258/eca.el
  ✓ Success:
-  2025-11-17T00:10:15+0000  eca-20251116.1631.entry
-  2025-11-17T00:10:15+0000  eca-20251116.1631.tar
-Built eca in 7.163s, finished at 2025-11-17T00:10:17+0000
+  2025-12-01T00:57:13+0000  eca-20251130.1258.entry
+  2025-12-01T00:57:12+0000  eca-20251130.1258.tar
+Built eca in 4.628s, finished at 2025-12-01T00:57:13+0000

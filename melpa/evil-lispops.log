@@ -1,18 +1,15 @@
-Package: evil-lispops
-Fetcher: github
-Source:  https://github.com/precompute/evil-lispops
-
+ • Building package evil-lispops (from github:precompute/evil-lispops)...
 Updating /mnt/store/melpa/working/evil-lispops/
 Checking out 372b52df1a45fcea6c9461e7909cfdbb1db822a9
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/evil-lispops/
-  to /tmp/evil-lispopsp0gBsL/evil-lispops-20240428.1356
+  to /tmp/evil-lispopsZVsrCV/evil-lispops-20240428.1356
     evil-lispops.el -> evil-lispops.el
 Created evil-lispops-20240428.1356.tar containing:
   evil-lispops-20240428.1356/
   evil-lispops-20240428.1356/evil-lispops-pkg.el
   evil-lispops-20240428.1356/evil-lispops.el
  ✓ Success:
-  2025-11-17T00:14:41+0000  evil-lispops-20240428.1356.entry
-  2025-11-17T00:14:41+0000  evil-lispops-20240428.1356.tar
-Built evil-lispops in 3.064s, finished at 2025-11-17T00:14:42+0000
+  2025-12-01T01:01:58+0000  evil-lispops-20240428.1356.entry
+  2025-12-01T01:01:58+0000  evil-lispops-20240428.1356.tar
+Built evil-lispops in 3.290s, finished at 2025-12-01T01:01:59+0000

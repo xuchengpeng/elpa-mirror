@@ -1,12 +1,9 @@
-Package: zenscript-mode
-Fetcher: github
-Source:  https://github.com/eutro/zenscript-mode
-
+ • Building package zenscript-mode (from github:eutro/zenscript-mode)...
 Updating /mnt/store/melpa/working/zenscript-mode/
 Checking out c33b4525502459fe60dd76b383e19919d450aeb8
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/zenscript-mode/
-  to /tmp/zenscript-modeBlnttC/zenscript-mode-20210102.1350
+  to /tmp/zenscript-modee1j1ds/zenscript-mode-20210102.1350
     zenscript-common.el -> zenscript-common.el
     zenscript-completion.el -> zenscript-completion.el
     zenscript-highlighting.el -> zenscript-highlighting.el
@@ -25,6 +22,6 @@ Created zenscript-mode-20210102.1350.tar containing:
   zenscript-mode-20210102.1350/zenscript-mode.el
   zenscript-mode-20210102.1350/zenscript-parser.el
  ✓ Success:
-  2025-11-17T01:09:55+0000  zenscript-mode-20210102.1350.entry
-  2025-11-17T01:09:55+0000  zenscript-mode-20210102.1350.tar
-Built zenscript-mode in 2.701s, finished at 2025-11-17T01:09:56+0000
+  2025-12-01T01:57:43+0000  zenscript-mode-20210102.1350.entry
+  2025-12-01T01:57:43+0000  zenscript-mode-20210102.1350.tar
+Built zenscript-mode in 2.731s, finished at 2025-12-01T01:57:44+0000

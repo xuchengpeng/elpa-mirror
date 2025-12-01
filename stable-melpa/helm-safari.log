@@ -1,18 +1,15 @@
-Package: helm-safari
-Fetcher: github
-Source:  https://github.com/xuchunyang/helm-safari
-
+ • Building package helm-safari (from github:xuchunyang/helm-safari)...
 Updating /mnt/store/melpa/working/helm-safari/
 Checking out 664c7f4488829228eed7e90cd53002e14bec555b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/helm-safari/
-  to /tmp/helm-safarisajFB2/helm-safari-20160404.324
+  to /tmp/helm-safariBSQ5Wj/helm-safari-20160404.324
     helm-safari.el -> helm-safari.el
 Created helm-safari-20160404.324.tar containing:
   helm-safari-20160404.324/
   helm-safari-20160404.324/helm-safari-pkg.el
   helm-safari-20160404.324/helm-safari.el
  ✓ Success:
-  2025-11-17T00:26:00+0000  helm-safari-20160404.324.entry
-  2025-11-17T00:26:00+0000  helm-safari-20160404.324.tar
-Built helm-safari in 4.296s, finished at 2025-11-17T00:26:02+0000
+  2025-12-01T01:13:11+0000  helm-safari-20160404.324.entry
+  2025-12-01T01:13:11+0000  helm-safari-20160404.324.tar
+Built helm-safari in 2.996s, finished at 2025-12-01T01:13:12+0000

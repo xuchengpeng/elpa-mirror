@@ -1,18 +1,15 @@
-Package: org-redmine
-Fetcher: github
-Source:  https://github.com/emacsorphanage/org-redmine
-
+ • Building package org-redmine (from github:emacsorphanage/org-redmine)...
 Updating /mnt/store/melpa/working/org-redmine/
 Checking out a526c3ac802634486bf10de9c2283ccb1a30ec8d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/org-redmine/
-  to /tmp/org-redminewow6aX/org-redmine-20160711.1114
+  to /tmp/org-redmineQaWg2f/org-redmine-20160711.1114
     org-redmine.el -> org-redmine.el
 Created org-redmine-20160711.1114.tar containing:
   org-redmine-20160711.1114/
   org-redmine-20160711.1114/org-redmine-pkg.el
   org-redmine-20160711.1114/org-redmine.el
  ✓ Success:
-  2025-11-17T00:45:30+0000  org-redmine-20160711.1114.entry
-  2025-11-17T00:45:30+0000  org-redmine-20160711.1114.tar
-Built org-redmine in 2.387s, finished at 2025-11-17T00:45:31+0000
+  2025-12-01T01:32:55+0000  org-redmine-20160711.1114.entry
+  2025-12-01T01:32:55+0000  org-redmine-20160711.1114.tar
+Built org-redmine in 2.601s, finished at 2025-12-01T01:32:56+0000

@@ -1,18 +1,15 @@
-Package: sort-words
-Fetcher: github
-Source:  https://github.com/dotemacs/sort-words.el
-
+ • Building package sort-words (from github:dotemacs/sort-words.el)...
 Updating /mnt/store/melpa/working/sort-words/
 Checking out 7b6e108f80237363faf7ec28b2c58dec270b8601
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/sort-words/
-  to /tmp/sort-wordsMkb9jV/sort-words-20160929.1335
+  to /tmp/sort-wordsyCh6xM/sort-words-20160929.1335
     sort-words.el -> sort-words.el
 Created sort-words-20160929.1335.tar containing:
   sort-words-20160929.1335/
   sort-words-20160929.1335/sort-words-pkg.el
   sort-words-20160929.1335/sort-words.el
  ✓ Success:
-  2025-11-17T00:59:29+0000  sort-words-20160929.1335.entry
-  2025-11-17T00:59:29+0000  sort-words-20160929.1335.tar
-Built sort-words in 2.750s, finished at 2025-11-17T00:59:30+0000
+  2025-12-01T01:47:00+0000  sort-words-20160929.1335.entry
+  2025-12-01T01:47:00+0000  sort-words-20160929.1335.tar
+Built sort-words in 2.845s, finished at 2025-12-01T01:47:01+0000

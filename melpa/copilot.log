@@ -1,20 +1,17 @@
-Package: copilot
-Fetcher: github
-Source:  https://github.com/copilot-emacs/copilot.el
-
+ • Building package copilot (from github:copilot-emacs/copilot.el)...
 Updating /mnt/store/melpa/working/copilot/
-Checking out 914dc5f4ac8ba317669b2bf84e36ad50bc1a268f
+Checking out 8e43edf1f3efe094ea42a21863b3b742a339742c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/copilot/
-  to /tmp/copilotWtaK48/copilot-20251116.1205
+  to /tmp/copilotzL1OuN/copilot-20251117.510
     copilot-balancer.el -> copilot-balancer.el
     copilot.el -> copilot.el
-Created copilot-20251116.1205.tar containing:
-  copilot-20251116.1205/
-  copilot-20251116.1205/copilot-balancer.el
-  copilot-20251116.1205/copilot-pkg.el
-  copilot-20251116.1205/copilot.el
+Created copilot-20251117.510.tar containing:
+  copilot-20251117.510/
+  copilot-20251117.510/copilot-balancer.el
+  copilot-20251117.510/copilot-pkg.el
+  copilot-20251117.510/copilot.el
  ✓ Success:
-  2025-11-17T00:04:48+0000  copilot-20251116.1205.entry
-  2025-11-17T00:04:48+0000  copilot-20251116.1205.tar
-Built copilot in 3.398s, finished at 2025-11-17T00:04:49+0000
+  2025-12-01T00:51:17+0000  copilot-20251117.510.entry
+  2025-12-01T00:51:17+0000  copilot-20251117.510.tar
+Built copilot in 3.476s, finished at 2025-12-01T00:51:18+0000

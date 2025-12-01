@@ -1,18 +1,15 @@
-Package: instapaper
-Fetcher: git
-Source:  https://git.carcosa.net/jmcbray/emacs-instapaper.git
-
+ • Building package instapaper (from https://git.carcosa.net/jmcbray/emacs-instapaper.git)...
 Updating /mnt/store/melpa/working/instapaper/
 Checking out 4714ed1b014615f8213e6f93637e4ec1d9d5a37a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/instapaper/
-  to /tmp/instapaper04z5hP/instapaper-20110419.1355
+  to /tmp/instapaperzApyYT/instapaper-20110419.1355
     instapaper.el -> instapaper.el
 Created instapaper-20110419.1355.tar containing:
   instapaper-20110419.1355/
   instapaper-20110419.1355/instapaper-pkg.el
   instapaper-20110419.1355/instapaper.el
  ✓ Success:
-  2025-11-17T00:29:27+0000  instapaper-20110419.1355.entry
-  2025-11-17T00:29:27+0000  instapaper-20110419.1355.tar
-Built instapaper in 3.302s, finished at 2025-11-17T00:29:28+0000
+  2025-12-01T01:16:36+0000  instapaper-20110419.1355.entry
+  2025-12-01T01:16:36+0000  instapaper-20110419.1355.tar
+Built instapaper in 3.387s, finished at 2025-12-01T01:16:37+0000

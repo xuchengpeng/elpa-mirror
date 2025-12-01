@@ -1,18 +1,15 @@
-Package: quick-shell-keybind
-Fetcher: github
-Source:  https://github.com/eyeinsky/quick-shell-keybind
-
+ • Building package quick-shell-keybind (from github:eyeinsky/quick-shell-keybind)...
 Updating /mnt/store/melpa/working/quick-shell-keybind/
 Checking out be830a69cf7eec92d4ea269fd389ac39b0c162f1
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/quick-shell-keybind/
-  to /tmp/quick-shell-keybind7mx66X/quick-shell-keybind-20230927.1036
+  to /tmp/quick-shell-keybindBmhQuq/quick-shell-keybind-20230927.1036
     quick-shell-keybind.el -> quick-shell-keybind.el
 Created quick-shell-keybind-20230927.1036.tar containing:
   quick-shell-keybind-20230927.1036/
   quick-shell-keybind-20230927.1036/quick-shell-keybind-pkg.el
   quick-shell-keybind-20230927.1036/quick-shell-keybind.el
  ✓ Success:
-  2025-11-17T00:53:04+0000  quick-shell-keybind-20230927.1036.entry
-  2025-11-17T00:53:04+0000  quick-shell-keybind-20230927.1036.tar
-Built quick-shell-keybind in 2.987s, finished at 2025-11-17T00:53:05+0000
+  2025-12-01T01:40:37+0000  quick-shell-keybind-20230927.1036.entry
+  2025-12-01T01:40:37+0000  quick-shell-keybind-20230927.1036.tar
+Built quick-shell-keybind in 2.935s, finished at 2025-12-01T01:40:38+0000

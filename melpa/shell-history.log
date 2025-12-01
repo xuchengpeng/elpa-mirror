@@ -1,18 +1,15 @@
-Package: shell-history
-Fetcher: github
-Source:  https://github.com/emacsorphanage/shell-history
-
+ • Building package shell-history (from github:emacsorphanage/shell-history)...
 Updating /mnt/store/melpa/working/shell-history/
 Checking out ee371a81f2d2bf5a308344078329ca1e9b5ed38c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/shell-history/
-  to /tmp/shell-historyy1z6wm/shell-history-20100505.839
+  to /tmp/shell-historyvKT0Wq/shell-history-20100505.839
     shell-history.el -> shell-history.el
 Created shell-history-20100505.839.tar containing:
   shell-history-20100505.839/
   shell-history-20100505.839/shell-history-pkg.el
   shell-history-20100505.839/shell-history.el
  ✓ Success:
-  2025-11-17T00:57:26+0000  shell-history-20100505.839.entry
-  2025-11-17T00:57:26+0000  shell-history-20100505.839.tar
-Built shell-history in 2.668s, finished at 2025-11-17T00:57:27+0000
+  2025-12-01T01:44:54+0000  shell-history-20100505.839.entry
+  2025-12-01T01:44:54+0000  shell-history-20100505.839.tar
+Built shell-history in 2.676s, finished at 2025-12-01T01:44:55+0000

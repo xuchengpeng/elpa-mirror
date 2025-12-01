@@ -1,18 +1,15 @@
-Package: better-defaults
-Fetcher: sourcehut
-Source:  https://git.sr.ht/~technomancy/better-defaults
-
+ • Building package better-defaults (from sourcehut:technomancy/better-defaults)...
 Updating /mnt/store/melpa/working/better-defaults/
 Checking out b4e566ddd368609c7df711c4f0d9cc345455aa0f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/better-defaults/
-  to /tmp/better-defaultsJgl6u5/better-defaults-20251012.2227
+  to /tmp/better-defaultsJjeYJW/better-defaults-20251012.2227
     better-defaults.el -> better-defaults.el
 Created better-defaults-20251012.2227.tar containing:
   better-defaults-20251012.2227/
   better-defaults-20251012.2227/better-defaults-pkg.el
   better-defaults-20251012.2227/better-defaults.el
  ✓ Success:
-  2025-11-16T23:57:44+0000  better-defaults-20251012.2227.entry
-  2025-11-16T23:57:44+0000  better-defaults-20251012.2227.tar
-Built better-defaults in 3.956s, finished at 2025-11-16T23:57:45+0000
+  2025-12-01T00:44:54+0000  better-defaults-20251012.2227.entry
+  2025-12-01T00:44:54+0000  better-defaults-20251012.2227.tar
+Built better-defaults in 4.329s, finished at 2025-12-01T00:44:55+0000

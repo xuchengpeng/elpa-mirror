@@ -1,18 +1,15 @@
-Package: magit-gptcommit
-Fetcher: github
-Source:  https://github.com/douo/magit-gptcommit
-
+ • Building package magit-gptcommit (from github:douo/magit-gptcommit)...
 Updating /mnt/store/melpa/working/magit-gptcommit/
 Checking out 97dfcf33777731ba8d8ad0522c2deb0554a143fe
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/magit-gptcommit/
-  to /tmp/magit-gptcommitxWnIll/magit-gptcommit-20250421.1917
+  to /tmp/magit-gptcommittUEt3c/magit-gptcommit-20250421.1917
     magit-gptcommit.el -> magit-gptcommit.el
 Created magit-gptcommit-20250421.1917.tar containing:
   magit-gptcommit-20250421.1917/
   magit-gptcommit-20250421.1917/magit-gptcommit-pkg.el
   magit-gptcommit-20250421.1917/magit-gptcommit.el
  ✓ Success:
-  2025-11-17T00:36:01+0000  magit-gptcommit-20250421.1917.entry
-  2025-11-17T00:36:01+0000  magit-gptcommit-20250421.1917.tar
-Built magit-gptcommit in 3.288s, finished at 2025-11-17T00:36:02+0000
+  2025-12-01T01:23:07+0000  magit-gptcommit-20250421.1917.entry
+  2025-12-01T01:23:06+0000  magit-gptcommit-20250421.1917.tar
+Built magit-gptcommit in 3.333s, finished at 2025-12-01T01:23:08+0000

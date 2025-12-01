@@ -1,18 +1,15 @@
-Package: dpaste
-Fetcher: github
-Source:  https://github.com/gregnewman/dpaste.el
-
+ • Building package dpaste (from github:gregnewman/dpaste.el)...
 Updating /mnt/store/melpa/working/dpaste/
 Checking out e7a1a18de77f752eb0dbb4b878925f2265538d0b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/dpaste/
-  to /tmp/dpaste3OivhN/dpaste-20160303.2112
+  to /tmp/dpaste9rwkEN/dpaste-20160303.2112
     dpaste.el -> dpaste.el
 Created dpaste-20160303.2112.tar containing:
   dpaste-20160303.2112/
   dpaste-20160303.2112/dpaste-pkg.el
   dpaste-20160303.2112/dpaste.el
  ✓ Success:
-  2025-11-17T00:09:08+0000  dpaste-20160303.2112.entry
-  2025-11-17T00:09:08+0000  dpaste-20160303.2112.tar
-Built dpaste in 2.831s, finished at 2025-11-17T00:09:09+0000
+  2025-12-01T00:56:16+0000  dpaste-20160303.2112.entry
+  2025-12-01T00:56:16+0000  dpaste-20160303.2112.tar
+Built dpaste in 2.664s, finished at 2025-12-01T00:56:16+0000

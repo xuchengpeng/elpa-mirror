@@ -1,18 +1,15 @@
-Package: desktop-mail-user-agent
-Fetcher: github
-Source:  https://github.com/lassik/emacs-desktop-mail-user-agent
-
+ • Building package desktop-mail-user-agent (from github:lassik/emacs-desktop-mail-user-agent)...
 Updating /mnt/store/melpa/working/desktop-mail-user-agent/
 Checking out caac672ef7e4ddced960fa31cef3a6ba5d7ab451
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/desktop-mail-user-agent/
-  to /tmp/desktop-mail-user-agent5spD5u/desktop-mail-user-agent-20210519.1008
+  to /tmp/desktop-mail-user-agentyYrCHX/desktop-mail-user-agent-20210519.1008
     desktop-mail-user-agent.el -> desktop-mail-user-agent.el
 Created desktop-mail-user-agent-20210519.1008.tar containing:
   desktop-mail-user-agent-20210519.1008/
   desktop-mail-user-agent-20210519.1008/desktop-mail-user-agent-pkg.el
   desktop-mail-user-agent-20210519.1008/desktop-mail-user-agent.el
  ✓ Success:
-  2025-11-17T00:07:16+0000  desktop-mail-user-agent-20210519.1008.entry
-  2025-11-17T00:07:16+0000  desktop-mail-user-agent-20210519.1008.tar
-Built desktop-mail-user-agent in 2.598s, finished at 2025-11-17T00:07:17+0000
+  2025-12-01T00:54:24+0000  desktop-mail-user-agent-20210519.1008.entry
+  2025-12-01T00:54:23+0000  desktop-mail-user-agent-20210519.1008.tar
+Built desktop-mail-user-agent in 2.639s, finished at 2025-12-01T00:54:24+0000

@@ -1,18 +1,15 @@
-Package: emaps
-Fetcher: github
-Source:  https://github.com/GuiltyDolphin/emaps
-
+ • Building package emaps (from github:GuiltyDolphin/emaps)...
 Updating /mnt/store/melpa/working/emaps/
 Checking out 7c561f3ded2015ed3774e5784059d6601082743e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/emaps/
-  to /tmp/emapsYyjm7x/emaps-20200508.1759
+  to /tmp/emapsVt7Qoj/emaps-20200508.1759
     emaps.el -> emaps.el
 Created emaps-20200508.1759.tar containing:
   emaps-20200508.1759/
   emaps-20200508.1759/emaps-pkg.el
   emaps-20200508.1759/emaps.el
  ✓ Success:
-  2025-11-17T00:12:22+0000  emaps-20200508.1759.entry
-  2025-11-17T00:12:22+0000  emaps-20200508.1759.tar
-Built emaps in 2.732s, finished at 2025-11-17T00:12:23+0000
+  2025-12-01T00:59:31+0000  emaps-20200508.1759.entry
+  2025-12-01T00:59:31+0000  emaps-20200508.1759.tar
+Built emaps in 2.890s, finished at 2025-12-01T00:59:32+0000

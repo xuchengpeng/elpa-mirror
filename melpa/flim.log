@@ -1,12 +1,9 @@
-Package: flim
-Fetcher: github
-Source:  https://github.com/emacsmirror/flim
-
+ • Building package flim (from github:emacsmirror/flim)...
 Updating /mnt/store/melpa/working/flim/
 Checking out b7265bae4b11a1434f5c0acf78ba13580bf00cfc
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/flim/
-  to /tmp/flimZsKTWM/flim-20251102.2052
+  to /tmp/flimXDaAH1/flim-20251102.2052
     mime-en.texi -> mime-en.texi
     mime-ja.texi -> mime-ja.texi
     sasl.texi -> sasl.texi
@@ -71,6 +68,6 @@ Created flim-20251102.2052.tar containing:
   flim-20251102.2052/smtp.el
   flim-20251102.2052/std11.el
  ✓ Success:
-  2025-11-17T00:17:10+0000  flim-20251102.2052.entry
-  2025-11-17T00:17:10+0000  flim-20251102.2052.tar
-Built flim in 9.890s, finished at 2025-11-17T00:17:11+0000
+  2025-12-01T01:04:29+0000  flim-20251102.2052.entry
+  2025-12-01T01:04:29+0000  flim-20251102.2052.tar
+Built flim in 9.916s, finished at 2025-12-01T01:04:30+0000

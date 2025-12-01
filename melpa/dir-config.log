@@ -1,18 +1,15 @@
-Package: dir-config
-Fetcher: github
-Source:  https://github.com/jamescherti/dir-config.el
-
+ • Building package dir-config (from github:jamescherti/dir-config.el)...
 Updating /mnt/store/melpa/working/dir-config/
 Checking out 727e34c77b2b43c6b0d0bc10556ece8c21bd1f9e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/dir-config/
-  to /tmp/dir-configQ88w9u/dir-config-20251103.1431
+  to /tmp/dir-configomTXh4/dir-config-20251103.1431
     dir-config.el -> dir-config.el
 Created dir-config-20251103.1431.tar containing:
   dir-config-20251103.1431/
   dir-config-20251103.1431/dir-config-pkg.el
   dir-config-20251103.1431/dir-config.el
  ✓ Success:
-  2025-11-17T00:07:40+0000  dir-config-20251103.1431.entry
-  2025-11-17T00:07:40+0000  dir-config-20251103.1431.tar
-Built dir-config in 2.838s, finished at 2025-11-17T00:07:41+0000
+  2025-12-01T00:54:48+0000  dir-config-20251103.1431.entry
+  2025-12-01T00:54:48+0000  dir-config-20251103.1431.tar
+Built dir-config in 2.923s, finished at 2025-12-01T00:54:49+0000

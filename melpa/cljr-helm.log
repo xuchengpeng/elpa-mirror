@@ -1,18 +1,15 @@
-Package: cljr-helm
-Fetcher: github
-Source:  https://github.com/philjackson/cljr-helm
-
+ • Building package cljr-helm (from github:philjackson/cljr-helm)...
 Updating /mnt/store/melpa/working/cljr-helm/
 Checking out 2c1f9cbd892ec03335f671ea3f974ee2ff6078dc
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/cljr-helm/
-  to /tmp/cljr-helmOKc9Qw/cljr-helm-20220721.824
+  to /tmp/cljr-helmGFttiZ/cljr-helm-20220721.824
     cljr-helm.el -> cljr-helm.el
 Created cljr-helm-20220721.824.tar containing:
   cljr-helm-20220721.824/
   cljr-helm-20220721.824/cljr-helm-pkg.el
   cljr-helm-20220721.824/cljr-helm.el
  ✓ Success:
-  2025-11-17T00:01:49+0000  cljr-helm-20220721.824.entry
-  2025-11-17T00:01:49+0000  cljr-helm-20220721.824.tar
-Built cljr-helm in 3.053s, finished at 2025-11-17T00:01:50+0000
+  2025-12-01T00:48:45+0000  cljr-helm-20220721.824.entry
+  2025-12-01T00:48:45+0000  cljr-helm-20220721.824.tar
+Built cljr-helm in 2.947s, finished at 2025-12-01T00:48:46+0000

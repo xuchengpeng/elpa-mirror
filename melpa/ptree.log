@@ -1,18 +1,15 @@
-Package: ptree
-Fetcher: github
-Source:  https://github.com/alpha-catharsis/ptree
-
+ • Building package ptree (from github:alpha-catharsis/ptree)...
 Updating /mnt/store/melpa/working/ptree/
 Checking out 23cb9093f99b9869606f8d54fa5c45ea35fcc789
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ptree/
-  to /tmp/ptreeKVwid4/ptree-20221106.1649
+  to /tmp/ptreetzgPYe/ptree-20221106.1649
     ptree.el -> ptree.el
 Created ptree-20221106.1649.tar containing:
   ptree-20221106.1649/
   ptree-20221106.1649/ptree-pkg.el
   ptree-20221106.1649/ptree.el
  ✓ Success:
-  2025-11-17T00:52:02+0000  ptree-20221106.1649.entry
-  2025-11-17T00:52:02+0000  ptree-20221106.1649.tar
-Built ptree in 2.859s, finished at 2025-11-17T00:52:03+0000
+  2025-12-01T01:39:33+0000  ptree-20221106.1649.entry
+  2025-12-01T01:39:33+0000  ptree-20221106.1649.tar
+Built ptree in 2.819s, finished at 2025-12-01T01:39:34+0000

@@ -1,18 +1,15 @@
-Package: eldoc-mouse
-Fetcher: github
-Source:  https://github.com/huangfeiyu/eldoc-mouse
-
+ • Building package eldoc-mouse (from github:huangfeiyu/eldoc-mouse)...
 Updating /mnt/store/melpa/working/eldoc-mouse/
-Checking out 02ec71dcf05e14d4787116cda5091b742ebf52ff
+Checking out 2c76900a95cbc90eacd914b4231282c9370dab23
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/eldoc-mouse/
-  to /tmp/eldoc-mouseYwnoju/eldoc-mouse-20251115.1049
+  to /tmp/eldoc-mouse1lOa5y/eldoc-mouse-20251126.1410
     eldoc-mouse.el -> eldoc-mouse.el
-Created eldoc-mouse-20251115.1049.tar containing:
-  eldoc-mouse-20251115.1049/
-  eldoc-mouse-20251115.1049/eldoc-mouse-pkg.el
-  eldoc-mouse-20251115.1049/eldoc-mouse.el
+Created eldoc-mouse-20251126.1410.tar containing:
+  eldoc-mouse-20251126.1410/
+  eldoc-mouse-20251126.1410/eldoc-mouse-pkg.el
+  eldoc-mouse-20251126.1410/eldoc-mouse.el
  ✓ Success:
-  2025-11-17T00:11:20+0000  eldoc-mouse-20251115.1049.entry
-  2025-11-17T00:11:20+0000  eldoc-mouse-20251115.1049.tar
-Built eldoc-mouse in 3.275s, finished at 2025-11-17T00:11:21+0000
+  2025-12-01T00:58:31+0000  eldoc-mouse-20251126.1410.entry
+  2025-12-01T00:58:31+0000  eldoc-mouse-20251126.1410.tar
+Built eldoc-mouse in 2.976s, finished at 2025-12-01T00:58:31+0000

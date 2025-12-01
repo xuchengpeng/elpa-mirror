@@ -1,12 +1,9 @@
-Package: conda
-Fetcher: github
-Source:  https://github.com/necaris/conda.el
-
+ • Building package conda (from github:necaris/conda.el)...
 Updating /mnt/store/melpa/working/conda/
 Checking out 8a1a934a2de576d4158b1b12329be4f5be931a4a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/conda/
-  to /tmp/condajxBFkM/conda-20250719.140
+  to /tmp/condahjeOQf/conda-20250719.140
     conda-projectile.el -> conda-projectile.el
     conda.el -> conda.el
 Created conda-20250719.140.tar containing:
@@ -15,6 +12,6 @@ Created conda-20250719.140.tar containing:
   conda-20250719.140/conda-projectile.el
   conda-20250719.140/conda.el
  ✓ Success:
-  2025-11-17T00:03:54+0000  conda-20250719.140.entry
-  2025-11-17T00:03:54+0000  conda-20250719.140.tar
-Built conda in 3.103s, finished at 2025-11-17T00:03:55+0000
+  2025-12-01T00:50:43+0000  conda-20250719.140.entry
+  2025-12-01T00:50:43+0000  conda-20250719.140.tar
+Built conda in 3.001s, finished at 2025-12-01T00:50:44+0000

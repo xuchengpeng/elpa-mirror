@@ -1,18 +1,15 @@
-Package: config-parser
-Fetcher: github
-Source:  https://github.com/lujun9972/el-config-parser
-
+ • Building package config-parser (from github:lujun9972/el-config-parser)...
 Updating /mnt/store/melpa/working/config-parser/
 Checking out 85d559e7889d8f5b98b8794b79426ae25ec3caa5
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/config-parser/
-  to /tmp/config-parserGbZ7H2/config-parser-20160426.1219
+  to /tmp/config-parser7NFQn2/config-parser-20160426.1219
     config-parser.el -> config-parser.el
 Created config-parser-20160426.1219.tar containing:
   config-parser-20160426.1219/
   config-parser-20160426.1219/config-parser-pkg.el
   config-parser-20160426.1219/config-parser.el
  ✓ Success:
-  2025-11-17T00:03:55+0000  config-parser-20160426.1219.entry
-  2025-11-17T00:03:55+0000  config-parser-20160426.1219.tar
-Built config-parser in 2.798s, finished at 2025-11-17T00:03:56+0000
+  2025-12-01T00:50:44+0000  config-parser-20160426.1219.entry
+  2025-12-01T00:50:44+0000  config-parser-20160426.1219.tar
+Built config-parser in 2.787s, finished at 2025-12-01T00:50:45+0000

@@ -1,18 +1,15 @@
-Package: nixpkgs-fmt
-Fetcher: github
-Source:  https://github.com/purcell/emacs-nixpkgs-fmt
-
+ • Building package nixpkgs-fmt (from github:purcell/emacs-nixpkgs-fmt)...
 Updating /mnt/store/melpa/working/nixpkgs-fmt/
 Checking out 83e03d6f20bdf79c1c448c15734367b1a7cc6b02
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/nixpkgs-fmt/
-  to /tmp/nixpkgs-fmtYTZCQb/nixpkgs-fmt-20200327.2302
+  to /tmp/nixpkgs-fmtbY7klO/nixpkgs-fmt-20200327.2302
     nixpkgs-fmt.el -> nixpkgs-fmt.el
 Created nixpkgs-fmt-20200327.2302.tar containing:
   nixpkgs-fmt-20200327.2302/
   nixpkgs-fmt-20200327.2302/nixpkgs-fmt-pkg.el
   nixpkgs-fmt-20200327.2302/nixpkgs-fmt.el
  ✓ Success:
-  2025-11-17T00:40:57+0000  nixpkgs-fmt-20200327.2302.entry
-  2025-11-17T00:40:57+0000  nixpkgs-fmt-20200327.2302.tar
-Built nixpkgs-fmt in 3.043s, finished at 2025-11-17T00:40:58+0000
+  2025-12-01T01:28:14+0000  nixpkgs-fmt-20200327.2302.entry
+  2025-12-01T01:28:14+0000  nixpkgs-fmt-20200327.2302.tar
+Built nixpkgs-fmt in 2.828s, finished at 2025-12-01T01:28:15+0000

@@ -1,18 +1,15 @@
-Package: cider-decompile
-Fetcher: github
-Source:  https://github.com/clojure-emacs/cider-decompile
-
+ • Building package cider-decompile (from github:clojure-emacs/cider-decompile)...
 Updating /mnt/store/melpa/working/cider-decompile/
 Checking out 5d87035f3c3c14025e8f01c0c53d0ce2c8f56651
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/cider-decompile/
-  to /tmp/cider-decompilegquR0Y/cider-decompile-20151122.537
+  to /tmp/cider-decompilemftpRO/cider-decompile-20151122.537
     cider-decompile.el -> cider-decompile.el
 Created cider-decompile-20151122.537.tar containing:
   cider-decompile-20151122.537/
   cider-decompile-20151122.537/cider-decompile-pkg.el
   cider-decompile-20151122.537/cider-decompile.el
  ✓ Success:
-  2025-11-17T00:01:14+0000  cider-decompile-20151122.537.entry
-  2025-11-17T00:01:14+0000  cider-decompile-20151122.537.tar
-Built cider-decompile in 3.468s, finished at 2025-11-17T00:01:15+0000
+  2025-12-01T00:48:12+0000  cider-decompile-20151122.537.entry
+  2025-12-01T00:48:12+0000  cider-decompile-20151122.537.tar
+Built cider-decompile in 3.166s, finished at 2025-12-01T00:48:13+0000

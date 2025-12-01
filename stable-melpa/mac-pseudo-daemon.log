@@ -1,18 +1,15 @@
-Package: mac-pseudo-daemon
-Fetcher: github
-Source:  https://github.com/DarwinAwardWinner/mac-pseudo-daemon
-
+ • Building package mac-pseudo-daemon (from github:DarwinAwardWinner/mac-pseudo-daemon)...
 Updating /mnt/store/melpa/working/mac-pseudo-daemon/
 Checking out 462031a53255185ae25eb10ae1f4272e49ad70f7
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mac-pseudo-daemon/
-  to /tmp/mac-pseudo-daemonDYjfhz/mac-pseudo-daemon-20211208.138
+  to /tmp/mac-pseudo-daemonZgw4k3/mac-pseudo-daemon-20211208.138
     mac-pseudo-daemon.el -> mac-pseudo-daemon.el
 Created mac-pseudo-daemon-20211208.138.tar containing:
   mac-pseudo-daemon-20211208.138/
   mac-pseudo-daemon-20211208.138/mac-pseudo-daemon-pkg.el
   mac-pseudo-daemon-20211208.138/mac-pseudo-daemon.el
  ✓ Success:
-  2025-11-17T00:35:44+0000  mac-pseudo-daemon-20211208.138.entry
-  2025-11-17T00:35:44+0000  mac-pseudo-daemon-20211208.138.tar
-Built mac-pseudo-daemon in 3.237s, finished at 2025-11-17T00:35:45+0000
+  2025-12-01T01:22:50+0000  mac-pseudo-daemon-20211208.138.entry
+  2025-12-01T01:22:50+0000  mac-pseudo-daemon-20211208.138.tar
+Built mac-pseudo-daemon in 2.898s, finished at 2025-12-01T01:22:51+0000

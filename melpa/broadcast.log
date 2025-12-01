@@ -1,18 +1,15 @@
-Package: broadcast
-Fetcher: github
-Source:  https://github.com/killdash9/broadcast.el
-
+ • Building package broadcast (from github:killdash9/broadcast.el)...
 Updating /mnt/store/melpa/working/broadcast/
 Checking out c6fff897c14f0aac9c44a7d8ca3f70782e4c38d0
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/broadcast/
-  to /tmp/broadcastNfLDyD/broadcast-20250804.1815
+  to /tmp/broadcastXhzLWc/broadcast-20250804.1815
     broadcast.el -> broadcast.el
 Created broadcast-20250804.1815.tar containing:
   broadcast-20250804.1815/
   broadcast-20250804.1815/broadcast-pkg.el
   broadcast-20250804.1815/broadcast.el
  ✓ Success:
-  2025-11-16T23:59:01+0000  broadcast-20250804.1815.entry
-  2025-11-16T23:59:01+0000  broadcast-20250804.1815.tar
-Built broadcast in 2.898s, finished at 2025-11-16T23:59:02+0000
+  2025-12-01T00:45:54+0000  broadcast-20250804.1815.entry
+  2025-12-01T00:45:54+0000  broadcast-20250804.1815.tar
+Built broadcast in 3.787s, finished at 2025-12-01T00:45:56+0000

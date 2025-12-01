@@ -1,18 +1,15 @@
-Package: reverse-theme
-Fetcher: github
-Source:  https://github.com/emacsorphanage/reverse-theme
-
+ • Building package reverse-theme (from github:emacsorphanage/reverse-theme)...
 Updating /mnt/store/melpa/working/reverse-theme/
 Checking out 3105c950bcb51c662c79b59ca102ef662c2b0be0
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/reverse-theme/
-  to /tmp/reverse-theme89aBYR/reverse-theme-20141205.145
+  to /tmp/reverse-themegP6Bk5/reverse-theme-20141205.145
     reverse-theme.el -> reverse-theme.el
 Created reverse-theme-20141205.145.tar containing:
   reverse-theme-20141205.145/
   reverse-theme-20141205.145/reverse-theme-pkg.el
   reverse-theme-20141205.145/reverse-theme.el
  ✓ Success:
-  2025-11-17T00:54:38+0000  reverse-theme-20141205.145.entry
-  2025-11-17T00:54:38+0000  reverse-theme-20141205.145.tar
-Built reverse-theme in 2.706s, finished at 2025-11-17T00:54:39+0000
+  2025-12-01T01:42:14+0000  reverse-theme-20141205.145.entry
+  2025-12-01T01:42:14+0000  reverse-theme-20141205.145.tar
+Built reverse-theme in 2.908s, finished at 2025-12-01T01:42:15+0000

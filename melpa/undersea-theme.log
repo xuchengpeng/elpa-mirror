@@ -1,18 +1,15 @@
-Package: undersea-theme
-Fetcher: github
-Source:  https://github.com/jcs-legacy/undersea-theme
-
+ • Building package undersea-theme (from github:jcs-legacy/undersea-theme)...
 Updating /mnt/store/melpa/working/undersea-theme/
 Checking out 0730e21187367003c533e67cdb676a423a8dccd0
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/undersea-theme/
-  to /tmp/undersea-themedGE4Rm/undersea-theme-20240101.1006
+  to /tmp/undersea-themed1xE86/undersea-theme-20240101.1006
     undersea-theme.el -> undersea-theme.el
 Created undersea-theme-20240101.1006.tar containing:
   undersea-theme-20240101.1006/
   undersea-theme-20240101.1006/undersea-theme-pkg.el
   undersea-theme-20240101.1006/undersea-theme.el
  ✓ Success:
-  2025-11-17T01:05:12+0000  undersea-theme-20240101.1006.entry
-  2025-11-17T01:05:12+0000  undersea-theme-20240101.1006.tar
-Built undersea-theme in 2.592s, finished at 2025-11-17T01:05:13+0000
+  2025-12-01T01:52:45+0000  undersea-theme-20240101.1006.entry
+  2025-12-01T01:52:45+0000  undersea-theme-20240101.1006.tar
+Built undersea-theme in 2.688s, finished at 2025-12-01T01:52:46+0000

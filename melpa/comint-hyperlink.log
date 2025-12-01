@@ -1,18 +1,15 @@
-Package: comint-hyperlink
-Fetcher: github
-Source:  https://github.com/matthewbauer/comint-hyperlink
-
+ • Building package comint-hyperlink (from github:matthewbauer/comint-hyperlink)...
 Updating /mnt/store/melpa/working/comint-hyperlink/
 Checking out 905f2db1f95950899301b9f71faed9e9362cf5dc
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/comint-hyperlink/
-  to /tmp/comint-hyperlinkkCVJRP/comint-hyperlink-20211026.100
+  to /tmp/comint-hyperlink59Giqd/comint-hyperlink-20211026.100
     comint-hyperlink.el -> comint-hyperlink.el
 Created comint-hyperlink-20211026.100.tar containing:
   comint-hyperlink-20211026.100/
   comint-hyperlink-20211026.100/comint-hyperlink-pkg.el
   comint-hyperlink-20211026.100/comint-hyperlink.el
  ✓ Success:
-  2025-11-17T00:02:43+0000  comint-hyperlink-20211026.100.entry
-  2025-11-17T00:02:43+0000  comint-hyperlink-20211026.100.tar
-Built comint-hyperlink in 3.512s, finished at 2025-11-17T00:02:44+0000
+  2025-12-01T00:49:35+0000  comint-hyperlink-20211026.100.entry
+  2025-12-01T00:49:35+0000  comint-hyperlink-20211026.100.tar
+Built comint-hyperlink in 3.230s, finished at 2025-12-01T00:49:36+0000

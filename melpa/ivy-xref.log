@@ -1,18 +1,15 @@
-Package: ivy-xref
-Fetcher: github
-Source:  https://github.com/alexmurray/ivy-xref
-
+ • Building package ivy-xref (from github:alexmurray/ivy-xref)...
 Updating /mnt/store/melpa/working/ivy-xref/
 Checking out a82e8e117d2dd62c28b6a3e3d6e4cfb11c0bda38
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ivy-xref/
-  to /tmp/ivy-xrefsEmwQo/ivy-xref-20211008.1103
+  to /tmp/ivy-xrefzfnyQy/ivy-xref-20211008.1103
     ivy-xref.el -> ivy-xref.el
 Created ivy-xref-20211008.1103.tar containing:
   ivy-xref-20211008.1103/
   ivy-xref-20211008.1103/ivy-xref-pkg.el
   ivy-xref-20211008.1103/ivy-xref.el
  ✓ Success:
-  2025-11-17T00:30:17+0000  ivy-xref-20211008.1103.entry
-  2025-11-17T00:30:17+0000  ivy-xref-20211008.1103.tar
-Built ivy-xref in 2.913s, finished at 2025-11-17T00:30:18+0000
+  2025-12-01T01:17:25+0000  ivy-xref-20211008.1103.entry
+  2025-12-01T01:17:25+0000  ivy-xref-20211008.1103.tar
+Built ivy-xref in 2.877s, finished at 2025-12-01T01:17:26+0000

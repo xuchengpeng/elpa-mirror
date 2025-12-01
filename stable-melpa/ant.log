@@ -1,18 +1,15 @@
-Package: ant
-Fetcher: github
-Source:  https://github.com/apg/ant-el
-
+ • Building package ant (from github:apg/ant-el)...
 Updating /mnt/store/melpa/working/ant/
 Checking out 510b5a3f57ee4b2855422d88d359a28922c1ab70
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ant/
-  to /tmp/antQ1Z6zU/ant-20160211.1543
+  to /tmp/antvnaRno/ant-20160211.1543
     ant.el -> ant.el
 Created ant-20160211.1543.tar containing:
   ant-20160211.1543/
   ant-20160211.1543/ant-pkg.el
   ant-20160211.1543/ant.el
  ✓ Success:
-  2025-11-16T23:55:31+0000  ant-20160211.1543.entry
-  2025-11-16T23:55:31+0000  ant-20160211.1543.tar
-Built ant in 3.197s, finished at 2025-11-16T23:55:32+0000
+  2025-12-01T00:42:31+0000  ant-20160211.1543.entry
+  2025-12-01T00:42:31+0000  ant-20160211.1543.tar
+Built ant in 2.628s, finished at 2025-12-01T00:42:32+0000

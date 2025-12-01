@@ -1,18 +1,15 @@
-Package: dired-posframe
-Fetcher: github
-Source:  https://github.com/conao3/dired-posframe.el
-
+ • Building package dired-posframe (from github:conao3/dired-posframe.el)...
 Updating /mnt/store/melpa/working/dired-posframe/
 Checking out 1a21eb9ad956a0371dd3c9e1bec53407d685f705
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/dired-posframe/
-  to /tmp/dired-posframe5Lmrwq/dired-posframe-20200817.420
+  to /tmp/dired-posframenveGPG/dired-posframe-20200817.420
     dired-posframe.el -> dired-posframe.el
 Created dired-posframe-20200817.420.tar containing:
   dired-posframe-20200817.420/
   dired-posframe-20200817.420/dired-posframe-pkg.el
   dired-posframe-20200817.420/dired-posframe.el
  ✓ Success:
-  2025-11-17T00:08:01+0000  dired-posframe-20200817.420.entry
-  2025-11-17T00:08:01+0000  dired-posframe-20200817.420.tar
-Built dired-posframe in 2.926s, finished at 2025-11-17T00:08:02+0000
+  2025-12-01T00:55:10+0000  dired-posframe-20200817.420.entry
+  2025-12-01T00:55:10+0000  dired-posframe-20200817.420.tar
+Built dired-posframe in 2.908s, finished at 2025-12-01T00:55:11+0000

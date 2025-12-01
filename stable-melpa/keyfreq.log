@@ -1,18 +1,15 @@
-Package: keyfreq
-Fetcher: github
-Source:  https://github.com/dacap/keyfreq
-
+ • Building package keyfreq (from github:dacap/keyfreq)...
 Updating /mnt/store/melpa/working/keyfreq/
 Checking out c6955162307f37c2ac631d9daf118781009f8dda
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/keyfreq/
-  to /tmp/keyfreq9I4nxU/keyfreq-20231107.106
+  to /tmp/keyfreqrdfTTi/keyfreq-20231107.106
     keyfreq.el -> keyfreq.el
 Created keyfreq-20231107.106.tar containing:
   keyfreq-20231107.106/
   keyfreq-20231107.106/keyfreq-pkg.el
   keyfreq-20231107.106/keyfreq.el
  ✓ Success:
-  2025-11-17T00:32:17+0000  keyfreq-20231107.106.entry
-  2025-11-17T00:32:17+0000  keyfreq-20231107.106.tar
-Built keyfreq in 2.825s, finished at 2025-11-17T00:32:18+0000
+  2025-12-01T01:19:24+0000  keyfreq-20231107.106.entry
+  2025-12-01T01:19:24+0000  keyfreq-20231107.106.tar
+Built keyfreq in 2.910s, finished at 2025-12-01T01:19:25+0000

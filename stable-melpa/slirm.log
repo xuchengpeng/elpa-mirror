@@ -1,18 +1,15 @@
-Package: slirm
-Fetcher: github
-Source:  https://github.com/fbie/slirm
-
+ • Building package slirm (from github:fbie/slirm)...
 Updating /mnt/store/melpa/working/slirm/
 Checking out 9adfbe1fc67580e7d0d90f7e927a25d63a797464
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/slirm/
-  to /tmp/slirm7E109N/slirm-20160201.1425
+  to /tmp/slirm9Slb0A/slirm-20160201.1425
     slirm.el -> slirm.el
 Created slirm-20160201.1425.tar containing:
   slirm-20160201.1425/
   slirm-20160201.1425/slirm-pkg.el
   slirm-20160201.1425/slirm.el
  ✓ Success:
-  2025-11-17T00:58:28+0000  slirm-20160201.1425.entry
-  2025-11-17T00:58:28+0000  slirm-20160201.1425.tar
-Built slirm in 2.885s, finished at 2025-11-17T00:58:29+0000
+  2025-12-01T01:45:56+0000  slirm-20160201.1425.entry
+  2025-12-01T01:45:56+0000  slirm-20160201.1425.tar
+Built slirm in 3.101s, finished at 2025-12-01T01:45:57+0000

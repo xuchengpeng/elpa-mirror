@@ -1,12 +1,9 @@
-Package: timu-rouge-theme
-Fetcher: gitlab
-Source:  https://gitlab.com/aimebertrand/timu-rouge-theme
-
+ • Building package timu-rouge-theme (from gitlab:aimebertrand/timu-rouge-theme)...
 Updating /mnt/store/melpa/working/timu-rouge-theme/
 Checking out a9f396ee77c18c1df79b52389e203850446fce56
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/timu-rouge-theme/
-  to /tmp/timu-rouge-themehEI2T2/timu-rouge-theme-20250411.36
+  to /tmp/timu-rouge-theme58aXAc/timu-rouge-theme-20250411.36
     timu-rouge-theme.el -> timu-rouge-theme.el
     timu-rouge-theme.info -> timu-rouge-theme.info
 Created timu-rouge-theme-20250411.36.tar containing:
@@ -16,6 +13,6 @@ Created timu-rouge-theme-20250411.36.tar containing:
   timu-rouge-theme-20250411.36/timu-rouge-theme.el
   timu-rouge-theme-20250411.36/timu-rouge-theme.info
  ✓ Success:
-  2025-11-17T01:03:21+0000  timu-rouge-theme-20250411.36.entry
-  2025-11-17T01:03:21+0000  timu-rouge-theme-20250411.36.tar
-Built timu-rouge-theme in 4.137s, finished at 2025-11-17T01:03:23+0000
+  2025-12-01T01:50:55+0000  timu-rouge-theme-20250411.36.entry
+  2025-12-01T01:50:55+0000  timu-rouge-theme-20250411.36.tar
+Built timu-rouge-theme in 4.149s, finished at 2025-12-01T01:50:56+0000

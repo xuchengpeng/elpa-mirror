@@ -1,18 +1,15 @@
-Package: ordered-set
-Fetcher: github
-Source:  https://github.com/kisaragi-hiu/ordered-set.el
-
+ • Building package ordered-set (from github:kisaragi-hiu/ordered-set.el)...
 Updating /mnt/store/melpa/working/ordered-set/
 Checking out 9688d9e39f365ac86f852c5381f294a757d3bdf4
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ordered-set/
-  to /tmp/ordered-setmAoFgd/ordered-set-20250616.1432
+  to /tmp/ordered-set9ktAsD/ordered-set-20250616.1432
     ordered-set.el -> ordered-set.el
 Created ordered-set-20250616.1432.tar containing:
   ordered-set-20250616.1432/
   ordered-set-20250616.1432/ordered-set-pkg.el
   ordered-set-20250616.1432/ordered-set.el
  ✓ Success:
-  2025-11-17T00:43:21+0000  ordered-set-20250616.1432.entry
-  2025-11-17T00:43:21+0000  ordered-set-20250616.1432.tar
-Built ordered-set in 3.392s, finished at 2025-11-17T00:43:22+0000
+  2025-12-01T01:30:38+0000  ordered-set-20250616.1432.entry
+  2025-12-01T01:30:38+0000  ordered-set-20250616.1432.tar
+Built ordered-set in 3.643s, finished at 2025-12-01T01:30:39+0000

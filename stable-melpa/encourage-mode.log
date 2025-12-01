@@ -1,18 +1,15 @@
-Package: encourage-mode
-Fetcher: github
-Source:  https://github.com/halbtuerke/encourage-mode.el
-
+ • Building package encourage-mode (from github:halbtuerke/encourage-mode.el)...
 Updating /mnt/store/melpa/working/encourage-mode/
 Checking out ca411e6bfd3d0edffe95852127bd995730b942e3
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/encourage-mode/
-  to /tmp/encourage-modeQ3uPqx/encourage-mode-20151128.905
+  to /tmp/encourage-modeBjADil/encourage-mode-20151128.905
     encourage-mode.el -> encourage-mode.el
 Created encourage-mode-20151128.905.tar containing:
   encourage-mode-20151128.905/
   encourage-mode-20151128.905/encourage-mode-pkg.el
   encourage-mode-20151128.905/encourage-mode.el
  ✓ Success:
-  2025-11-17T00:12:47+0000  encourage-mode-20151128.905.entry
-  2025-11-17T00:12:47+0000  encourage-mode-20151128.905.tar
-Built encourage-mode in 2.761s, finished at 2025-11-17T00:12:48+0000
+  2025-12-01T00:59:55+0000  encourage-mode-20151128.905.entry
+  2025-12-01T00:59:55+0000  encourage-mode-20151128.905.tar
+Built encourage-mode in 2.560s, finished at 2025-12-01T00:59:56+0000

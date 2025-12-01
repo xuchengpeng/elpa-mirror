@@ -1,18 +1,15 @@
-Package: ert-modeline
-Fetcher: github
-Source:  https://github.com/chrisbarrett/ert-modeline
-
+ • Building package ert-modeline (from github:chrisbarrett/ert-modeline)...
 Updating /mnt/store/melpa/working/ert-modeline/
 Checking out 7c6340834387f749519616f9601821cb73fd657b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ert-modeline/
-  to /tmp/ert-modelinexX2YAO/ert-modeline-20140115.1015
+  to /tmp/ert-modelineWgCwJo/ert-modeline-20140115.1015
     ert-modeline.el -> ert-modeline.el
 Created ert-modeline-20140115.1015.tar containing:
   ert-modeline-20140115.1015/
   ert-modeline-20140115.1015/ert-modeline-pkg.el
   ert-modeline-20140115.1015/ert-modeline.el
  ✓ Success:
-  2025-11-17T00:13:31+0000  ert-modeline-20140115.1015.entry
-  2025-11-17T00:13:31+0000  ert-modeline-20140115.1015.tar
-Built ert-modeline in 2.629s, finished at 2025-11-17T00:13:32+0000
+  2025-12-01T01:00:43+0000  ert-modeline-20140115.1015.entry
+  2025-12-01T01:00:42+0000  ert-modeline-20140115.1015.tar
+Built ert-modeline in 2.747s, finished at 2025-12-01T01:00:43+0000

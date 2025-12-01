@@ -1,18 +1,15 @@
-Package: skerrick
-Fetcher: github
-Source:  https://github.com/anonimitoraf/skerrick
-
+ • Building package skerrick (from github:anonimitoraf/skerrick)...
 Updating /mnt/store/melpa/working/skerrick/
 Checking out 015de8369b8b6be0d4d1e21c24239a037350e87e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/skerrick/
-  to /tmp/skerrickjv89NH/skerrick-20220306.2139
+  to /tmp/skerrickg6oLir/skerrick-20220306.2139
     skerrick.el -> skerrick.el
 Created skerrick-20220306.2139.tar containing:
   skerrick-20220306.2139/
   skerrick-20220306.2139/skerrick-pkg.el
   skerrick-20220306.2139/skerrick.el
  ✓ Success:
-  2025-11-17T00:58:16+0000  skerrick-20220306.2139.entry
-  2025-11-17T00:58:16+0000  skerrick-20220306.2139.tar
-Built skerrick in 2.760s, finished at 2025-11-17T00:58:17+0000
+  2025-12-01T01:45:44+0000  skerrick-20220306.2139.entry
+  2025-12-01T01:45:44+0000  skerrick-20220306.2139.tar
+Built skerrick in 2.788s, finished at 2025-12-01T01:45:44+0000

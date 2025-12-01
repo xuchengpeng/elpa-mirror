@@ -1,18 +1,15 @@
-Package: greymatters-theme
-Fetcher: github
-Source:  https://github.com/mswift42/greymatters-theme
-
+ • Building package greymatters-theme (from github:mswift42/greymatters-theme)...
 Updating /mnt/store/melpa/working/greymatters-theme/
 Checking out a7220a8c6cf18ccae2b76946b6f01188a7c9d5d1
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/greymatters-theme/
-  to /tmp/greymatters-themejZNQOG/greymatters-theme-20150621.1123
+  to /tmp/greymatters-themejAVmYM/greymatters-theme-20150621.1123
     greymatters-theme.el -> greymatters-theme.el
 Created greymatters-theme-20150621.1123.tar containing:
   greymatters-theme-20150621.1123/
   greymatters-theme-20150621.1123/greymatters-theme-pkg.el
   greymatters-theme-20150621.1123/greymatters-theme.el
  ✓ Success:
-  2025-11-17T00:23:28+0000  greymatters-theme-20150621.1123.entry
-  2025-11-17T00:23:28+0000  greymatters-theme-20150621.1123.tar
-Built greymatters-theme in 2.841s, finished at 2025-11-17T00:23:29+0000
+  2025-12-01T01:10:47+0000  greymatters-theme-20150621.1123.entry
+  2025-12-01T01:10:47+0000  greymatters-theme-20150621.1123.tar
+Built greymatters-theme in 2.788s, finished at 2025-12-01T01:10:48+0000

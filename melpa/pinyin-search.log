@@ -1,18 +1,15 @@
-Package: pinyin-search
-Fetcher: github
-Source:  https://github.com/xuchunyang/pinyin-search.el
-
+ • Building package pinyin-search (from github:xuchunyang/pinyin-search.el)...
 Updating /mnt/store/melpa/working/pinyin-search/
 Checking out 3632bb98a5b8c0a396cd0a9d107e323e1ed3b7e7
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/pinyin-search/
-  to /tmp/pinyin-search2RMcUY/pinyin-search-20230919.538
+  to /tmp/pinyin-searchp6LZG7/pinyin-search-20230919.538
     pinyin-search.el -> pinyin-search.el
 Created pinyin-search-20230919.538.tar containing:
   pinyin-search-20230919.538/
   pinyin-search-20230919.538/pinyin-search-pkg.el
   pinyin-search-20230919.538/pinyin-search.el
  ✓ Success:
-  2025-11-17T00:49:32+0000  pinyin-search-20230919.538.entry
-  2025-11-17T00:49:32+0000  pinyin-search-20230919.538.tar
-Built pinyin-search in 3.291s, finished at 2025-11-17T00:49:33+0000
+  2025-12-01T01:37:00+0000  pinyin-search-20230919.538.entry
+  2025-12-01T01:37:00+0000  pinyin-search-20230919.538.tar
+Built pinyin-search in 3.282s, finished at 2025-12-01T01:37:01+0000

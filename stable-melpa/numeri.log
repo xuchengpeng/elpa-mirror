@@ -1,18 +1,15 @@
-Package: numeri
-Fetcher: github
-Source:  https://github.com/kickingvegas/numeri
-
+ • Building package numeri (from github:kickingvegas/numeri)...
 Updating /mnt/store/melpa/working/numeri/
 Checking out 625694f596d8f54be8ba8f2a8002287f4cd4f6de
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/numeri/
-  to /tmp/numeriw1thld/numeri-20250907.2357
+  to /tmp/numerieUA5rq/numeri-20250907.2357
   ! lisp/numeri.el -> numeri.el
 Created numeri-20250907.2357.tar containing:
   numeri-20250907.2357/
   numeri-20250907.2357/numeri-pkg.el
   numeri-20250907.2357/numeri.el
  ✓ Success:
-  2025-11-17T00:41:34+0000  numeri-20250907.2357.entry
-  2025-11-17T00:41:34+0000  numeri-20250907.2357.tar
-Built numeri in 2.527s, finished at 2025-11-17T00:41:35+0000
+  2025-12-01T01:28:51+0000  numeri-20250907.2357.entry
+  2025-12-01T01:28:51+0000  numeri-20250907.2357.tar
+Built numeri in 2.833s, finished at 2025-12-01T01:28:52+0000

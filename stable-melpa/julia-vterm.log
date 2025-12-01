@@ -1,18 +1,15 @@
-Package: julia-vterm
-Fetcher: github
-Source:  https://github.com/shg/julia-vterm.el
-
+ • Building package julia-vterm (from github:shg/julia-vterm.el)...
 Updating /mnt/store/melpa/working/julia-vterm/
 Checking out 742255606a7a7712566dd15759cf316d584a4dc7
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/julia-vterm/
-  to /tmp/julia-vterm2XIvMl/julia-vterm-20250621.854
+  to /tmp/julia-vtermzNdIfW/julia-vterm-20250621.854
     julia-vterm.el -> julia-vterm.el
 Created julia-vterm-20250621.854.tar containing:
   julia-vterm-20250621.854/
   julia-vterm-20250621.854/julia-vterm-pkg.el
   julia-vterm-20250621.854/julia-vterm.el
  ✓ Success:
-  2025-11-17T00:31:32+0000  julia-vterm-20250621.854.entry
-  2025-11-17T00:31:32+0000  julia-vterm-20250621.854.tar
-Built julia-vterm in 3.273s, finished at 2025-11-17T00:31:33+0000
+  2025-12-01T01:18:40+0000  julia-vterm-20250621.854.entry
+  2025-12-01T01:18:40+0000  julia-vterm-20250621.854.tar
+Built julia-vterm in 3.456s, finished at 2025-12-01T01:18:41+0000

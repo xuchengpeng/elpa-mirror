@@ -1,18 +1,15 @@
-Package: dummyparens
-Fetcher: github
-Source:  https://github.com/snosov1/dummyparens
-
+ • Building package dummyparens (from github:snosov1/dummyparens)...
 Updating /mnt/store/melpa/working/dummyparens/
 Checking out 9798ef1d0eaa24e4fe66f8aa6022a8c62714cc89
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/dummyparens/
-  to /tmp/dummyparensjDbkac/dummyparens-20141009.1024
+  to /tmp/dummyparensTnAuoJ/dummyparens-20141009.1024
     dummyparens.el -> dummyparens.el
 Created dummyparens-20141009.1024.tar containing:
   dummyparens-20141009.1024/
   dummyparens-20141009.1024/dummyparens-pkg.el
   dummyparens-20141009.1024/dummyparens.el
  ✓ Success:
-  2025-11-17T00:09:26+0000  dummyparens-20141009.1024.entry
-  2025-11-17T00:09:26+0000  dummyparens-20141009.1024.tar
-Built dummyparens in 2.949s, finished at 2025-11-17T00:09:27+0000
+  2025-12-01T00:56:35+0000  dummyparens-20141009.1024.entry
+  2025-12-01T00:56:35+0000  dummyparens-20141009.1024.tar
+Built dummyparens in 2.843s, finished at 2025-12-01T00:56:36+0000

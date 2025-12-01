@@ -1,18 +1,15 @@
-Package: gradle-mode
-Fetcher: github
-Source:  https://github.com/scubacabra/emacs-gradle-mode
-
+ • Building package gradle-mode (from github:scubacabra/emacs-gradle-mode)...
 Updating /mnt/store/melpa/working/gradle-mode/
 Checking out 579de06674551919cddac9cfe42129f4fb0155c9
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/gradle-mode/
-  to /tmp/gradle-modexDiIf9/gradle-mode-20150313.1905
+  to /tmp/gradle-modeHiU4N8/gradle-mode-20150313.1905
     gradle-mode.el -> gradle-mode.el
 Created gradle-mode-20150313.1905.tar containing:
   gradle-mode-20150313.1905/
   gradle-mode-20150313.1905/gradle-mode-pkg.el
   gradle-mode-20150313.1905/gradle-mode.el
  ✓ Success:
-  2025-11-17T00:23:12+0000  gradle-mode-20150313.1905.entry
-  2025-11-17T00:23:12+0000  gradle-mode-20150313.1905.tar
-Built gradle-mode in 2.841s, finished at 2025-11-17T00:23:13+0000
+  2025-12-01T01:10:31+0000  gradle-mode-20150313.1905.entry
+  2025-12-01T01:10:31+0000  gradle-mode-20150313.1905.tar
+Built gradle-mode in 2.814s, finished at 2025-12-01T01:10:32+0000

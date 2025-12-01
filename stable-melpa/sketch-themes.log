@@ -1,12 +1,9 @@
-Package: sketch-themes
-Fetcher: github
-Source:  https://github.com/dawranliou/sketch-themes
-
+ • Building package sketch-themes (from github:dawranliou/sketch-themes)...
 Updating /mnt/store/melpa/working/sketch-themes/
 Checking out 5534254232f1a556ec20952c75b5506625573049
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/sketch-themes/
-  to /tmp/sketch-themesghhTMw/sketch-themes-20230210.1507
+  to /tmp/sketch-themeszdgzWN/sketch-themes-20230210.1507
     sketch-black-theme.el -> sketch-black-theme.el
     sketch-themes.el -> sketch-themes.el
     sketch-white-theme.el -> sketch-white-theme.el
@@ -17,6 +14,6 @@ Created sketch-themes-20230210.1507.tar containing:
   sketch-themes-20230210.1507/sketch-themes.el
   sketch-themes-20230210.1507/sketch-white-theme.el
  ✓ Success:
-  2025-11-17T00:58:16+0000  sketch-themes-20230210.1507.entry
-  2025-11-17T00:58:16+0000  sketch-themes-20230210.1507.tar
-Built sketch-themes in 2.713s, finished at 2025-11-17T00:58:17+0000
+  2025-12-01T01:45:45+0000  sketch-themes-20230210.1507.entry
+  2025-12-01T01:45:45+0000  sketch-themes-20230210.1507.tar
+Built sketch-themes in 3.032s, finished at 2025-12-01T01:45:46+0000

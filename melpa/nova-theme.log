@@ -1,18 +1,15 @@
-Package: nova-theme
-Fetcher: github
-Source:  https://github.com/muirdm/emacs-nova-theme
-
+ • Building package nova-theme (from github:muirdm/emacs-nova-theme)...
 Updating /mnt/store/melpa/working/nova-theme/
 Checking out 51b2899ac56c29638d11336d3b2a9894bb35b86e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/nova-theme/
-  to /tmp/nova-themeY2OWIJ/nova-theme-20240904.2127
+  to /tmp/nova-themeYnWqGQ/nova-theme-20240904.2127
     nova-theme.el -> nova-theme.el
 Created nova-theme-20240904.2127.tar containing:
   nova-theme-20240904.2127/
   nova-theme-20240904.2127/nova-theme-pkg.el
   nova-theme-20240904.2127/nova-theme.el
  ✓ Success:
-  2025-11-17T00:41:21+0000  nova-theme-20240904.2127.entry
-  2025-11-17T00:41:21+0000  nova-theme-20240904.2127.tar
-Built nova-theme in 2.420s, finished at 2025-11-17T00:41:22+0000
+  2025-12-01T01:28:39+0000  nova-theme-20240904.2127.entry
+  2025-12-01T01:28:39+0000  nova-theme-20240904.2127.tar
+Built nova-theme in 2.779s, finished at 2025-12-01T01:28:40+0000

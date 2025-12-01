@@ -1,18 +1,15 @@
-Package: ox-epub
-Fetcher: github
-Source:  https://github.com/ofosos/ox-epub
-
+ • Building package ox-epub (from github:ofosos/ox-epub)...
 Updating /mnt/store/melpa/working/ox-epub/
 Checking out a66eeb00daa01ad403ac1a1db953ddbf9054be07
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ox-epub/
-  to /tmp/ox-epubWbXKCO/ox-epub-20181101.1854
+  to /tmp/ox-epubLP2Kxk/ox-epub-20181101.1854
     ox-epub.el -> ox-epub.el
 Created ox-epub-20181101.1854.tar containing:
   ox-epub-20181101.1854/
   ox-epub-20181101.1854/ox-epub-pkg.el
   ox-epub-20181101.1854/ox-epub.el
  ✓ Success:
-  2025-11-17T00:47:10+0000  ox-epub-20181101.1854.entry
-  2025-11-17T00:47:09+0000  ox-epub-20181101.1854.tar
-Built ox-epub in 2.768s, finished at 2025-11-17T00:47:10+0000
+  2025-12-01T01:34:33+0000  ox-epub-20181101.1854.entry
+  2025-12-01T01:34:33+0000  ox-epub-20181101.1854.tar
+Built ox-epub in 2.700s, finished at 2025-12-01T01:34:34+0000

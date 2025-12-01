@@ -1,18 +1,15 @@
-Package: lyrics
-Fetcher: github
-Source:  https://github.com/emacs-pe/lyrics.el
-
+ • Building package lyrics (from github:emacs-pe/lyrics.el)...
 Updating /mnt/store/melpa/working/lyrics/
 Checking out c3d42f1e039941f32f49252e1b1610de337b4470
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/lyrics/
-  to /tmp/lyrics2SxUL3/lyrics-20220206.116
+  to /tmp/lyrics1Xkd2M/lyrics-20220206.116
     lyrics.el -> lyrics.el
 Created lyrics-20220206.116.tar containing:
   lyrics-20220206.116/
   lyrics-20220206.116/lyrics-pkg.el
   lyrics-20220206.116/lyrics.el
  ✓ Success:
-  2025-11-17T00:35:41+0000  lyrics-20220206.116.entry
-  2025-11-17T00:35:41+0000  lyrics-20220206.116.tar
-Built lyrics in 2.741s, finished at 2025-11-17T00:35:42+0000
+  2025-12-01T01:22:48+0000  lyrics-20220206.116.entry
+  2025-12-01T01:22:48+0000  lyrics-20220206.116.tar
+Built lyrics in 2.664s, finished at 2025-12-01T01:22:49+0000

@@ -1,12 +1,9 @@
-Package: gptai
-Fetcher: github
-Source:  https://github.com/antonhibl/gptai
-
+ • Building package gptai (from github:antonhibl/gptai)...
 Updating /mnt/store/melpa/working/gptai/
 Checking out 446b3a3f8a4f2412c969189a1f64aed099582094
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/gptai/
-  to /tmp/gptai4EwDLL/gptai-20250220.1735
+  to /tmp/gptaifnzLsm/gptai-20250220.1735
     gptai-turbo.el -> gptai-turbo.el
     gptai.el -> gptai.el
 Created gptai-20250220.1735.tar containing:
@@ -15,6 +12,6 @@ Created gptai-20250220.1735.tar containing:
   gptai-20250220.1735/gptai-turbo.el
   gptai-20250220.1735/gptai.el
  ✓ Success:
-  2025-11-17T00:23:04+0000  gptai-20250220.1735.entry
-  2025-11-17T00:23:04+0000  gptai-20250220.1735.tar
-Built gptai in 3.225s, finished at 2025-11-17T00:23:05+0000
+  2025-12-01T01:10:23+0000  gptai-20250220.1735.entry
+  2025-12-01T01:10:23+0000  gptai-20250220.1735.tar
+Built gptai in 2.867s, finished at 2025-12-01T01:10:24+0000

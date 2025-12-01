@@ -1,18 +1,15 @@
-Package: pynt
-Fetcher: github
-Source:  https://github.com/ebanner/pynt
-
+ • Building package pynt (from github:ebanner/pynt)...
 Updating /mnt/store/melpa/working/pynt/
 Checking out 963c43cfdb5deea7daedc269aafa79192d853154
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/pynt/
-  to /tmp/pynt8GUnGk/pynt-20180710.726
+  to /tmp/pynt4VxxjB/pynt-20180710.726
   ! pynt/pynt.el -> pynt.el
 Created pynt-20180710.726.tar containing:
   pynt-20180710.726/
   pynt-20180710.726/pynt-pkg.el
   pynt-20180710.726/pynt.el
  ✓ Success:
-  2025-11-17T00:52:35+0000  pynt-20180710.726.entry
-  2025-11-17T00:52:35+0000  pynt-20180710.726.tar
-Built pynt in 2.890s, finished at 2025-11-17T00:52:36+0000
+  2025-12-01T01:40:07+0000  pynt-20180710.726.entry
+  2025-12-01T01:40:07+0000  pynt-20180710.726.tar
+Built pynt in 2.997s, finished at 2025-12-01T01:40:08+0000

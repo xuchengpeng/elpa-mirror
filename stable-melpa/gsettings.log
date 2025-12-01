@@ -1,18 +1,15 @@
-Package: gsettings
-Fetcher: github
-Source:  https://github.com/wbolster/emacs-gsettings
-
+ • Building package gsettings (from github:wbolster/emacs-gsettings)...
 Updating /mnt/store/melpa/working/gsettings/
 Checking out 9f9fb1fe946bbba46307c26355f355225ea7262a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/gsettings/
-  to /tmp/gsettings9qaxCw/gsettings-20210407.2045
+  to /tmp/gsettingsTiYHsk/gsettings-20210407.2045
     gsettings.el -> gsettings.el
 Created gsettings-20210407.2045.tar containing:
   gsettings-20210407.2045/
   gsettings-20210407.2045/gsettings-pkg.el
   gsettings-20210407.2045/gsettings.el
  ✓ Success:
-  2025-11-17T00:23:36+0000  gsettings-20210407.2045.entry
-  2025-11-17T00:23:36+0000  gsettings-20210407.2045.tar
-Built gsettings in 2.884s, finished at 2025-11-17T00:23:37+0000
+  2025-12-01T01:10:55+0000  gsettings-20210407.2045.entry
+  2025-12-01T01:10:55+0000  gsettings-20210407.2045.tar
+Built gsettings in 2.847s, finished at 2025-12-01T01:10:56+0000

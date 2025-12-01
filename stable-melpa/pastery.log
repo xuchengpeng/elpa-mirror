@@ -1,12 +1,9 @@
-Package: pastery
-Fetcher: github
-Source:  https://github.com/diasbruno/pastery.el
-
+ • Building package pastery (from github:diasbruno/pastery.el)...
 Updating /mnt/store/melpa/working/pastery/
 Checking out 4493be98b743b4d062cb4e00760125e394a55022
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/pastery/
-  to /tmp/pasterykrvHkS/pastery-20171114.349
+  to /tmp/pasteryxztgcf/pastery-20171114.349
     pastery-buffer.el -> pastery-buffer.el
     pastery-data.el -> pastery-data.el
     pastery-list-mode.el -> pastery-list-mode.el
@@ -21,6 +18,6 @@ Created pastery-20171114.349.tar containing:
   pastery-20171114.349/pastery-pkg.el
   pastery-20171114.349/pastery.el
  ✓ Success:
-  2025-11-17T00:48:21+0000  pastery-20171114.349.entry
-  2025-11-17T00:48:21+0000  pastery-20171114.349.tar
-Built pastery in 2.690s, finished at 2025-11-17T00:48:22+0000
+  2025-12-01T01:35:47+0000  pastery-20171114.349.entry
+  2025-12-01T01:35:47+0000  pastery-20171114.349.tar
+Built pastery in 2.904s, finished at 2025-12-01T01:35:48+0000

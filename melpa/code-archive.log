@@ -1,18 +1,15 @@
-Package: code-archive
-Fetcher: github
-Source:  https://github.com/mschuldt/code-archive
-
+ • Building package code-archive (from github:mschuldt/code-archive)...
 Updating /mnt/store/melpa/working/code-archive/
 Checking out 1ad9af6679d0294c3056eab9cad673f29c562721
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/code-archive/
-  to /tmp/code-archive5uaur9/code-archive-20190612.308
+  to /tmp/code-archiveAfBIx0/code-archive-20190612.308
     code-archive.el -> code-archive.el
 Created code-archive-20190612.308.tar containing:
   code-archive-20190612.308/
   code-archive-20190612.308/code-archive-pkg.el
   code-archive-20190612.308/code-archive.el
  ✓ Success:
-  2025-11-17T00:02:17+0000  code-archive-20190612.308.entry
-  2025-11-17T00:02:17+0000  code-archive-20190612.308.tar
-Built code-archive in 3.502s, finished at 2025-11-17T00:02:18+0000
+  2025-12-01T00:49:11+0000  code-archive-20190612.308.entry
+  2025-12-01T00:49:11+0000  code-archive-20190612.308.tar
+Built code-archive in 3.369s, finished at 2025-12-01T00:49:12+0000

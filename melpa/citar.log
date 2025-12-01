@@ -1,12 +1,9 @@
-Package: citar
-Fetcher: github
-Source:  https://github.com/emacs-citar/citar
-
+ • Building package citar (from github:emacs-citar/citar)...
 Updating /mnt/store/melpa/working/citar/
 Checking out dc7018eb36fb3540cb5b7fc526d6747144437eef
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/citar/
-  to /tmp/citarwy4BEL/citar-20251109.1138
+  to /tmp/citarXxsO0Y/citar-20251109.1138
     citar-cache.el -> citar-cache.el
     citar-capf.el -> citar-capf.el
     citar-citeproc.el -> citar-citeproc.el
@@ -29,6 +26,6 @@ Created citar-20251109.1138.tar containing:
   citar-20251109.1138/citar-pkg.el
   citar-20251109.1138/citar.el
  ✓ Success:
-  2025-11-17T00:01:22+0000  citar-20251109.1138.entry
-  2025-11-17T00:01:22+0000  citar-20251109.1138.tar
-Built citar in 3.759s, finished at 2025-11-17T00:01:23+0000
+  2025-12-01T00:48:20+0000  citar-20251109.1138.entry
+  2025-12-01T00:48:19+0000  citar-20251109.1138.tar
+Built citar in 3.566s, finished at 2025-12-01T00:48:20+0000

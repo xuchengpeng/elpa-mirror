@@ -1,18 +1,15 @@
-Package: kubernetes-tramp
-Fetcher: github
-Source:  https://github.com/gruggiero/kubernetes-tramp
-
+ • Building package kubernetes-tramp (from github:gruggiero/kubernetes-tramp)...
 Updating /mnt/store/melpa/working/kubernetes-tramp/
 Checking out 8713571b66940f8f3f496b55baa23cdf1df7a869
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/kubernetes-tramp/
-  to /tmp/kubernetes-trampewUoa0/kubernetes-tramp-20181228.922
+  to /tmp/kubernetes-trampamY7Bm/kubernetes-tramp-20181228.922
     kubernetes-tramp.el -> kubernetes-tramp.el
 Created kubernetes-tramp-20181228.922.tar containing:
   kubernetes-tramp-20181228.922/
   kubernetes-tramp-20181228.922/kubernetes-tramp-pkg.el
   kubernetes-tramp-20181228.922/kubernetes-tramp.el
  ✓ Success:
-  2025-11-17T00:33:05+0000  kubernetes-tramp-20181228.922.entry
-  2025-11-17T00:33:04+0000  kubernetes-tramp-20181228.922.tar
-Built kubernetes-tramp in 4.491s, finished at 2025-11-17T00:33:06+0000
+  2025-12-01T01:20:00+0000  kubernetes-tramp-20181228.922.entry
+  2025-12-01T01:20:00+0000  kubernetes-tramp-20181228.922.tar
+Built kubernetes-tramp in 2.941s, finished at 2025-12-01T01:20:01+0000

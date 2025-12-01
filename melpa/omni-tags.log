@@ -1,12 +1,9 @@
-Package: omni-tags
-Fetcher: github
-Source:  https://github.com/AdrieanKhisbe/omni-tags.el
-
+ • Building package omni-tags (from github:AdrieanKhisbe/omni-tags.el)...
 Updating /mnt/store/melpa/working/omni-tags/
 Checking out 8f0f6c302fab900b7681e5c039f90850cbbabd33
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/omni-tags/
-  to /tmp/omni-tagsyFIVnV/omni-tags-20170426.2109
+  to /tmp/omni-tagsc9A3ON/omni-tags-20170426.2109
     omni-tags-face.el -> omni-tags-face.el
     omni-tags-navigation.el -> omni-tags-navigation.el
     omni-tags-utils.el -> omni-tags-utils.el
@@ -19,6 +16,6 @@ Created omni-tags-20170426.2109.tar containing:
   omni-tags-20170426.2109/omni-tags-utils.el
   omni-tags-20170426.2109/omni-tags.el
  ✓ Success:
-  2025-11-17T00:43:04+0000  omni-tags-20170426.2109.entry
-  2025-11-17T00:43:04+0000  omni-tags-20170426.2109.tar
-Built omni-tags in 3.448s, finished at 2025-11-17T00:43:05+0000
+  2025-12-01T01:30:19+0000  omni-tags-20170426.2109.entry
+  2025-12-01T01:30:19+0000  omni-tags-20170426.2109.tar
+Built omni-tags in 3.557s, finished at 2025-12-01T01:30:20+0000

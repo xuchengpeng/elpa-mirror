@@ -1,18 +1,15 @@
-Package: scratch-plus
-Fetcher: sourcehut
-Source:  https://git.sr.ht/~swflint/scratch-plus
-
+ • Building package scratch-plus (from sourcehut:swflint/scratch-plus)...
 Updating /mnt/store/melpa/working/scratch-plus/
 Checking out b794901f968000f6e338808307385b683b79ec8b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/scratch-plus/
-  to /tmp/scratch-plusX17CZ7/scratch-plus-20250728.109
+  to /tmp/scratch-plusnmzqtu/scratch-plus-20250728.109
     scratch-plus.el -> scratch-plus.el
 Created scratch-plus-20250728.109.tar containing:
   scratch-plus-20250728.109/
   scratch-plus-20250728.109/scratch-plus-pkg.el
   scratch-plus-20250728.109/scratch-plus.el
  ✓ Success:
-  2025-11-17T00:56:29+0000  scratch-plus-20250728.109.entry
-  2025-11-17T00:56:29+0000  scratch-plus-20250728.109.tar
-Built scratch-plus in 5.481s, finished at 2025-11-17T00:56:31+0000
+  2025-12-01T01:43:56+0000  scratch-plus-20250728.109.entry
+  2025-12-01T01:43:56+0000  scratch-plus-20250728.109.tar
+Built scratch-plus in 5.401s, finished at 2025-12-01T01:43:58+0000

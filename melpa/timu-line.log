@@ -1,18 +1,15 @@
-Package: timu-line
-Fetcher: gitlab
-Source:  https://gitlab.com/aimebertrand/timu-line
-
+ • Building package timu-line (from gitlab:aimebertrand/timu-line)...
 Updating /mnt/store/melpa/working/timu-line/
 Checking out b57cc4716ca9ced3ebd8df3e689f6b1a21816f7d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/timu-line/
-  to /tmp/timu-lineNeQP1k/timu-line-20250228.2053
+  to /tmp/timu-line90FzJg/timu-line-20250228.2053
     timu-line.el -> timu-line.el
 Created timu-line-20250228.2053.tar containing:
   timu-line-20250228.2053/
   timu-line-20250228.2053/timu-line-pkg.el
   timu-line-20250228.2053/timu-line.el
  ✓ Success:
-  2025-11-17T01:03:21+0000  timu-line-20250228.2053.entry
-  2025-11-17T01:03:21+0000  timu-line-20250228.2053.tar
-Built timu-line in 4.099s, finished at 2025-11-17T01:03:22+0000
+  2025-12-01T01:50:55+0000  timu-line-20250228.2053.entry
+  2025-12-01T01:50:54+0000  timu-line-20250228.2053.tar
+Built timu-line in 3.804s, finished at 2025-12-01T01:50:56+0000

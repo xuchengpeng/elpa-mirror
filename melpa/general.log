@@ -1,18 +1,15 @@
-Package: general
-Fetcher: github
-Source:  https://github.com/noctuid/general.el
-
+ • Building package general (from github:noctuid/general.el)...
 Updating /mnt/store/melpa/working/general/
 Checking out a48768f85a655fe77b5f45c2880b420da1b1b9c3
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/general/
-  to /tmp/generalFeSdD5/general-20250612.2309
+  to /tmp/generalVb7bzX/general-20250612.2309
     general.el -> general.el
 Created general-20250612.2309.tar containing:
   general-20250612.2309/
   general-20250612.2309/general-pkg.el
   general-20250612.2309/general.el
  ✓ Success:
-  2025-11-17T00:20:40+0000  general-20250612.2309.entry
-  2025-11-17T00:20:40+0000  general-20250612.2309.tar
-Built general in 3.026s, finished at 2025-11-17T00:20:41+0000
+  2025-12-01T01:08:02+0000  general-20250612.2309.entry
+  2025-12-01T01:08:02+0000  general-20250612.2309.tar
+Built general in 3.000s, finished at 2025-12-01T01:08:03+0000

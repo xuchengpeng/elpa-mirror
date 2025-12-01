@@ -1,12 +1,9 @@
-Package: org-roam-ui
-Fetcher: github
-Source:  https://github.com/org-roam/org-roam-ui
-
+ • Building package org-roam-ui (from github:org-roam/org-roam-ui)...
 Updating /mnt/store/melpa/working/org-roam-ui/
 Checking out 5ac74960231db0bf7783c2ba7a19a60f582e91ab
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/org-roam-ui/
-  to /tmp/org-roam-uiyYLDqI/org-roam-ui-20221105.1040
+  to /tmp/org-roam-uiL1F726/org-roam-ui-20221105.1040
     org-roam-ui.el -> org-roam-ui.el
     out => out
 Created org-roam-ui-20221105.1040.tar containing:
@@ -110,6 +107,6 @@ Created org-roam-ui-20221105.1040.tar containing:
   org-roam-ui-20221105.1040/out/vercel.svg
   org-roam-ui-20221105.1040/out/workbox-ea903bce.js
  ✓ Success:
-  2025-11-17T00:45:40+0000  org-roam-ui-20221105.1040.entry
-  2025-11-17T00:45:40+0000  org-roam-ui-20221105.1040.tar
-Built org-roam-ui in 3.302s, finished at 2025-11-17T00:45:41+0000
+  2025-12-01T01:33:06+0000  org-roam-ui-20221105.1040.entry
+  2025-12-01T01:33:06+0000  org-roam-ui-20221105.1040.tar
+Built org-roam-ui in 3.499s, finished at 2025-12-01T01:33:07+0000

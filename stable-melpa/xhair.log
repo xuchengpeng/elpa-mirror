@@ -1,18 +1,15 @@
-Package: xhair
-Fetcher: github
-Source:  https://github.com/Boruch-Baum/emacs-xhair
-
+ • Building package xhair (from github:Boruch-Baum/emacs-xhair)...
 Updating /mnt/store/melpa/working/xhair/
 Checking out c7bd7c501c3545aa99dadac386c882fe7c5edd9c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/xhair/
-  to /tmp/xhairt28z0n/xhair-20210801.222
+  to /tmp/xhairAlQCvD/xhair-20210801.222
     xhair.el -> xhair.el
 Created xhair-20210801.222.tar containing:
   xhair-20210801.222/
   xhair-20210801.222/xhair-pkg.el
   xhair-20210801.222/xhair.el
  ✓ Success:
-  2025-11-17T01:08:58+0000  xhair-20210801.222.entry
-  2025-11-17T01:08:58+0000  xhair-20210801.222.tar
-Built xhair in 3.205s, finished at 2025-11-17T01:08:59+0000
+  2025-12-01T01:56:44+0000  xhair-20210801.222.entry
+  2025-12-01T01:56:44+0000  xhair-20210801.222.tar
+Built xhair in 3.322s, finished at 2025-12-01T01:56:45+0000

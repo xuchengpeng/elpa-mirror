@@ -1,18 +1,15 @@
-Package: total-lines
-Fetcher: github
-Source:  https://github.com/hinrik/total-lines
-
+ • Building package total-lines (from github:hinrik/total-lines)...
 Updating /mnt/store/melpa/working/total-lines/
 Checking out c762f08d039c8103f71c747e00304f209c2254f4
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/total-lines/
-  to /tmp/total-linesGEN2hD/total-lines-20171227.1239
+  to /tmp/total-linesLcgIxI/total-lines-20171227.1239
     total-lines.el -> total-lines.el
 Created total-lines-20171227.1239.tar containing:
   total-lines-20171227.1239/
   total-lines-20171227.1239/total-lines-pkg.el
   total-lines-20171227.1239/total-lines.el
  ✓ Success:
-  2025-11-17T01:03:50+0000  total-lines-20171227.1239.entry
-  2025-11-17T01:03:50+0000  total-lines-20171227.1239.tar
-Built total-lines in 3.292s, finished at 2025-11-17T01:03:51+0000
+  2025-12-01T01:51:23+0000  total-lines-20171227.1239.entry
+  2025-12-01T01:51:23+0000  total-lines-20171227.1239.tar
+Built total-lines in 3.037s, finished at 2025-12-01T01:51:24+0000

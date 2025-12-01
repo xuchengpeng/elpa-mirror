@@ -1,12 +1,9 @@
-Package: requirejs
-Fetcher: github
-Source:  https://github.com/joeheyming/requirejs-emacs
-
+ • Building package requirejs (from github:joeheyming/requirejs-emacs)...
 Updating /mnt/store/melpa/working/requirejs/
 Checking out 4ea2a5fcbc76e4cbb6a7461e6f05f019b75865b1
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/requirejs/
-  to /tmp/requirejsX7g0zo/requirejs-20151204.719
+  to /tmp/requirejsHMUtJb/requirejs-20151204.719
     requirejs.el -> requirejs.el
     snippets => snippets
 Created requirejs-20151204.719.tar containing:
@@ -19,6 +16,6 @@ Created requirejs-20151204.719.tar containing:
   requirejs-20151204.719/snippets/js2-mode/
   requirejs-20151204.719/snippets/js2-mode/.yas-parents
  ✓ Success:
-  2025-11-17T00:54:27+0000  requirejs-20151204.719.entry
-  2025-11-17T00:54:27+0000  requirejs-20151204.719.tar
-Built requirejs in 2.871s, finished at 2025-11-17T00:54:28+0000
+  2025-12-01T01:42:03+0000  requirejs-20151204.719.entry
+  2025-12-01T01:42:03+0000  requirejs-20151204.719.tar
+Built requirejs in 3.192s, finished at 2025-12-01T01:42:04+0000

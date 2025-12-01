@@ -1,12 +1,9 @@
-Package: nofrils-acme-theme
-Fetcher: gitlab
-Source:  https://gitlab.com/esessoms/nofrils-theme
-
+ • Building package nofrils-acme-theme (from gitlab:esessoms/nofrils-theme)...
 Updating /mnt/store/melpa/working/nofrils-acme-theme/
 Checking out 98ad7bfaff1d85b33dc162645670285b067c6f92
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/nofrils-acme-theme/
-  to /tmp/nofrils-acme-theme1D33Wf/nofrils-acme-theme-20180620.1248
+  to /tmp/nofrils-acme-theme5gI9Wn/nofrils-acme-theme-20180620.1248
     nofrils-acme-theme.el -> nofrils-acme-theme.el
     nofrils-dark-theme.el -> nofrils-dark-theme.el
     nofrils-light-theme.el -> nofrils-light-theme.el
@@ -19,6 +16,6 @@ Created nofrils-acme-theme-20180620.1248.tar containing:
   nofrils-acme-theme-20180620.1248/nofrils-light-theme.el
   nofrils-acme-theme-20180620.1248/nofrils-sepia-theme.el
  ✓ Success:
-  2025-11-17T00:41:11+0000  nofrils-acme-theme-20180620.1248.entry
-  2025-11-17T00:41:11+0000  nofrils-acme-theme-20180620.1248.tar
-Built nofrils-acme-theme in 3.601s, finished at 2025-11-17T00:41:12+0000
+  2025-12-01T01:28:27+0000  nofrils-acme-theme-20180620.1248.entry
+  2025-12-01T01:28:27+0000  nofrils-acme-theme-20180620.1248.tar
+Built nofrils-acme-theme in 3.602s, finished at 2025-12-01T01:28:28+0000

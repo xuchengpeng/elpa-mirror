@@ -1,18 +1,15 @@
-Package: htmlize
-Fetcher: github
-Source:  https://github.com/emacsorphanage/htmlize
-
+ • Building package htmlize (from github:emacsorphanage/htmlize)...
 Updating /mnt/store/melpa/working/htmlize/
 Checking out c9a8196a59973fabb3763b28069af9a4822a5260
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/htmlize/
-  to /tmp/htmlizemglh9J/htmlize-20250724.1703
+  to /tmp/htmlizeOJrgfo/htmlize-20250724.1703
     htmlize.el -> htmlize.el
 Created htmlize-20250724.1703.tar containing:
   htmlize-20250724.1703/
   htmlize-20250724.1703/htmlize-pkg.el
   htmlize-20250724.1703/htmlize.el
  ✓ Success:
-  2025-11-17T00:27:42+0000  htmlize-20250724.1703.entry
-  2025-11-17T00:27:41+0000  htmlize-20250724.1703.tar
-Built htmlize in 2.932s, finished at 2025-11-17T00:27:42+0000
+  2025-12-01T01:14:34+0000  htmlize-20250724.1703.entry
+  2025-12-01T01:14:34+0000  htmlize-20250724.1703.tar
+Built htmlize in 2.937s, finished at 2025-12-01T01:14:35+0000

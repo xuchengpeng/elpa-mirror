@@ -1,18 +1,15 @@
-Package: chatwork
-Fetcher: github
-Source:  https://github.com/ataka/chatwork
-
+ • Building package chatwork (from github:ataka/chatwork)...
 Updating /mnt/store/melpa/working/chatwork/
 Checking out 5abbf07bd6063c922191cc645f5771a943e3043c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/chatwork/
-  to /tmp/chatworkrcw0TF/chatwork-20240910.1531
+  to /tmp/chatworkVCysuv/chatwork-20240910.1531
     chatwork.el -> chatwork.el
 Created chatwork-20240910.1531.tar containing:
   chatwork-20240910.1531/
   chatwork-20240910.1531/chatwork-pkg.el
   chatwork-20240910.1531/chatwork.el
  ✓ Success:
-  2025-11-17T00:00:49+0000  chatwork-20240910.1531.entry
-  2025-11-17T00:00:49+0000  chatwork-20240910.1531.tar
-Built chatwork in 3.029s, finished at 2025-11-17T00:00:50+0000
+  2025-12-01T00:47:49+0000  chatwork-20240910.1531.entry
+  2025-12-01T00:47:49+0000  chatwork-20240910.1531.tar
+Built chatwork in 2.908s, finished at 2025-12-01T00:47:50+0000

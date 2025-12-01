@@ -1,12 +1,9 @@
-Package: folding
-Fetcher: github
-Source:  https://github.com/jaalto/project-emacs--folding-mode
-
+ • Building package folding (from github:jaalto/project-emacs--folding-mode)...
 Updating /mnt/store/melpa/working/folding/
 Checking out 443b826c76a4938fc0961298ff0e6c924c723ed7
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/folding/
-  to /tmp/foldingFG7E3u/folding-20250120.1132
+  to /tmp/foldingFHyNxN/folding-20250120.1132
     folding.el -> folding.el
     folding.texi -> folding.texi
 Generating folding.info
@@ -17,6 +14,6 @@ Created folding-20250120.1132.tar containing:
   folding-20250120.1132/folding.el
   folding-20250120.1132/folding.info
  ✓ Success:
-  2025-11-17T00:19:33+0000  folding-20250120.1132.entry
-  2025-11-17T00:19:33+0000  folding-20250120.1132.tar
-Built folding in 4.369s, finished at 2025-11-17T00:19:34+0000
+  2025-12-01T01:06:53+0000  folding-20250120.1132.entry
+  2025-12-01T01:06:53+0000  folding-20250120.1132.tar
+Built folding in 4.416s, finished at 2025-12-01T01:06:54+0000

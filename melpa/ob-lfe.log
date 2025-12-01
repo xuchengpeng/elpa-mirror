@@ -1,18 +1,15 @@
-Package: ob-lfe
-Fetcher: github
-Source:  https://github.com/zweifisch/ob-lfe
-
+ • Building package ob-lfe (from github:zweifisch/ob-lfe)...
 Updating /mnt/store/melpa/working/ob-lfe/
 Checking out f7780f58e650b4d29dfd834c662b1d354b620a8e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ob-lfe/
-  to /tmp/ob-lfemV1uEa/ob-lfe-20170725.1420
+  to /tmp/ob-lfej7rjIH/ob-lfe-20170725.1420
     ob-lfe.el -> ob-lfe.el
 Created ob-lfe-20170725.1420.tar containing:
   ob-lfe-20170725.1420/
   ob-lfe-20170725.1420/ob-lfe-pkg.el
   ob-lfe-20170725.1420/ob-lfe.el
  ✓ Success:
-  2025-11-17T00:42:13+0000  ob-lfe-20170725.1420.entry
-  2025-11-17T00:42:13+0000  ob-lfe-20170725.1420.tar
-Built ob-lfe in 2.577s, finished at 2025-11-17T00:42:14+0000
+  2025-12-01T01:29:30+0000  ob-lfe-20170725.1420.entry
+  2025-12-01T01:29:30+0000  ob-lfe-20170725.1420.tar
+Built ob-lfe in 2.813s, finished at 2025-12-01T01:29:30+0000

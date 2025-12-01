@@ -1,18 +1,15 @@
-Package: ligature
-Fetcher: github
-Source:  https://github.com/mickeynp/ligature.el
-
+ • Building package ligature (from github:mickeynp/ligature.el)...
 Updating /mnt/store/melpa/working/ligature/
 Checking out 89cbd67a815f61e5001f19d64d6ec1771e867742
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ligature/
-  to /tmp/ligatureLHc5KZ/ligature-20220808.1225
+  to /tmp/ligaturexn5Im8/ligature-20220808.1225
     ligature.el -> ligature.el
 Created ligature-20220808.1225.tar containing:
   ligature-20220808.1225/
   ligature-20220808.1225/ligature-pkg.el
   ligature-20220808.1225/ligature.el
  ✓ Success:
-  2025-11-17T00:34:08+0000  ligature-20220808.1225.entry
-  2025-11-17T00:34:08+0000  ligature-20220808.1225.tar
-Built ligature in 2.748s, finished at 2025-11-17T00:34:09+0000
+  2025-12-01T01:21:14+0000  ligature-20220808.1225.entry
+  2025-12-01T01:21:14+0000  ligature-20220808.1225.tar
+Built ligature in 2.555s, finished at 2025-12-01T01:21:15+0000

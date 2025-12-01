@@ -1,18 +1,15 @@
-Package: kele
-Fetcher: github
-Source:  https://github.com/jinnovation/kele.el
-
+ • Building package kele (from github:jinnovation/kele.el)...
 Updating /mnt/store/melpa/working/kele/
-Checking out 047ae15e8c9e50d70dd009e1354beb9363c58243
+Checking out 923d884728349e21372d4f65804bd5676b1cb73c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/kele/
-  to /tmp/kele9fZErd/kele-20251111.416
+  to /tmp/kelejUgSD7/kele-20251129.456
     kele.el -> kele.el
-Created kele-20251111.416.tar containing:
-  kele-20251111.416/
-  kele-20251111.416/kele-pkg.el
-  kele-20251111.416/kele.el
+Created kele-20251129.456.tar containing:
+  kele-20251129.456/
+  kele-20251129.456/kele-pkg.el
+  kele-20251129.456/kele.el
  ✓ Success:
-  2025-11-17T00:32:09+0000  kele-20251111.416.entry
-  2025-11-17T00:32:09+0000  kele-20251111.416.tar
-Built kele in 3.467s, finished at 2025-11-17T00:32:10+0000
+  2025-12-01T01:19:16+0000  kele-20251129.456.entry
+  2025-12-01T01:19:15+0000  kele-20251129.456.tar
+Built kele in 3.706s, finished at 2025-12-01T01:19:16+0000

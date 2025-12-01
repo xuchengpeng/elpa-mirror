@@ -1,18 +1,15 @@
-Package: ob-bigquery
-Fetcher: github
-Source:  https://github.com/lhernanz/ob-bigquery
-
+ • Building package ob-bigquery (from github:lhernanz/ob-bigquery)...
 Updating /mnt/store/melpa/working/ob-bigquery/
-Checking out 64d1c6f7fb7f04a8d23a38e648d2558513e98cf6
+Checking out 9fdffd7a37b7055a8db3b922cb3ea82ce511a5ea
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ob-bigquery/
-  to /tmp/ob-bigqueryI0bEdC/ob-bigquery-20250425.651
+  to /tmp/ob-bigqueryfRNeaz/ob-bigquery-20251130.558
     ob-bigquery.el -> ob-bigquery.el
-Created ob-bigquery-20250425.651.tar containing:
-  ob-bigquery-20250425.651/
-  ob-bigquery-20250425.651/ob-bigquery-pkg.el
-  ob-bigquery-20250425.651/ob-bigquery.el
+Created ob-bigquery-20251130.558.tar containing:
+  ob-bigquery-20251130.558/
+  ob-bigquery-20251130.558/ob-bigquery-pkg.el
+  ob-bigquery-20251130.558/ob-bigquery.el
  ✓ Success:
-  2025-11-17T00:41:46+0000  ob-bigquery-20250425.651.entry
-  2025-11-17T00:41:46+0000  ob-bigquery-20250425.651.tar
-Built ob-bigquery in 2.456s, finished at 2025-11-17T00:41:46+0000
+  2025-12-01T01:29:05+0000  ob-bigquery-20251130.558.entry
+  2025-12-01T01:29:05+0000  ob-bigquery-20251130.558.tar
+Built ob-bigquery in 2.759s, finished at 2025-12-01T01:29:06+0000

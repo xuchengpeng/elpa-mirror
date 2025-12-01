@@ -1,18 +1,15 @@
-Package: synquid
-Fetcher: github
-Source:  https://github.com/cpitclaudel/synquid-emacs
-
+ • Building package synquid (from github:cpitclaudel/synquid-emacs)...
 Updating /mnt/store/melpa/working/synquid/
 Checking out 28701ce1a15437202f53ab93a14bcba1de83fd2c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/synquid/
-  to /tmp/synquid3SjX7f/synquid-20160930.1550
+  to /tmp/synquid8SGpDD/synquid-20160930.1550
     synquid.el -> synquid.el
 Created synquid-20160930.1550.tar containing:
   synquid-20160930.1550/
   synquid-20160930.1550/synquid-pkg.el
   synquid-20160930.1550/synquid.el
  ✓ Success:
-  2025-11-17T01:01:48+0000  synquid-20160930.1550.entry
-  2025-11-17T01:01:48+0000  synquid-20160930.1550.tar
-Built synquid in 3.114s, finished at 2025-11-17T01:01:49+0000
+  2025-12-01T01:49:03+0000  synquid-20160930.1550.entry
+  2025-12-01T01:49:03+0000  synquid-20160930.1550.tar
+Built synquid in 3.448s, finished at 2025-12-01T01:49:04+0000

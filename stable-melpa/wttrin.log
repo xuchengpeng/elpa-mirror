@@ -1,12 +1,9 @@
-Package: wttrin
-Fetcher: github
-Source:  https://github.com/cjennings/emacs-wttrin
-
+ • Building package wttrin (from github:cjennings/emacs-wttrin)...
 Updating /mnt/store/melpa/working/wttrin/
 Checking out bf989bb594680eb2e3b69f55752353aa33cb47bb
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/wttrin/
-  to /tmp/wttrincAdFVm/wttrin-20251113.2014
+  to /tmp/wttrinHlIvJl/wttrin-20251113.2014
     wttrin-debug.el -> wttrin-debug.el
     wttrin.el -> wttrin.el
 Created wttrin-20251113.2014.tar containing:
@@ -15,6 +12,6 @@ Created wttrin-20251113.2014.tar containing:
   wttrin-20251113.2014/wttrin-pkg.el
   wttrin-20251113.2014/wttrin.el
  ✓ Success:
-  2025-11-17T01:08:50+0000  wttrin-20251113.2014.entry
-  2025-11-17T01:08:50+0000  wttrin-20251113.2014.tar
-Built wttrin in 3.543s, finished at 2025-11-17T01:08:51+0000
+  2025-12-01T01:56:35+0000  wttrin-20251113.2014.entry
+  2025-12-01T01:56:35+0000  wttrin-20251113.2014.tar
+Built wttrin in 3.648s, finished at 2025-12-01T01:56:36+0000

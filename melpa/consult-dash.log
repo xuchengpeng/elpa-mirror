@@ -1,18 +1,15 @@
-Package: consult-dash
-Fetcher: codeberg
-Source:  https://codeberg.org/ravi/consult-dash
-
+ • Building package consult-dash (from codeberg:ravi/consult-dash)...
 Updating /mnt/store/melpa/working/consult-dash/
 Checking out edb57bf8cdbef422b88667fadc83e1bb046957a6
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/consult-dash/
-  to /tmp/consult-dashMP5z85/consult-dash-20250114.1511
+  to /tmp/consult-dashGj5uCK/consult-dash-20250114.1511
     consult-dash.el -> consult-dash.el
 Created consult-dash-20250114.1511.tar containing:
   consult-dash-20250114.1511/
   consult-dash-20250114.1511/consult-dash-pkg.el
   consult-dash-20250114.1511/consult-dash.el
  ✓ Success:
-  2025-11-17T00:04:09+0000  consult-dash-20250114.1511.entry
-  2025-11-17T00:04:09+0000  consult-dash-20250114.1511.tar
-Built consult-dash in 5.491s, finished at 2025-11-17T00:04:10+0000
+  2025-12-01T00:50:53+0000  consult-dash-20250114.1511.entry
+  2025-12-01T00:50:53+0000  consult-dash-20250114.1511.tar
+Built consult-dash in 4.241s, finished at 2025-12-01T00:50:54+0000

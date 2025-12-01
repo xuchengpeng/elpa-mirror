@@ -1,12 +1,9 @@
-Package: moc
-Fetcher: github
-Source:  https://github.com/positron-solutions/moc
-
+ • Building package moc (from github:positron-solutions/moc)...
 Updating /mnt/store/melpa/working/moc/
 Checking out 84acdd7d74cfd3b35637b84d49c53db203f657ce
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/moc/
-  to /tmp/mocYgNo8D/moc-20241229.1056
+  to /tmp/mocXMc3Mh/moc-20241229.1056
     moc.el -> moc.el
   ! doc/moc.texi -> moc.texi
 Generating moc.info
@@ -17,6 +14,6 @@ Created moc-20241229.1056.tar containing:
   moc-20241229.1056/moc.el
   moc-20241229.1056/moc.info
  ✓ Success:
-  2025-11-17T00:38:15+0000  moc-20241229.1056.entry
-  2025-11-17T00:38:14+0000  moc-20241229.1056.tar
-Built moc in 6.471s, finished at 2025-11-17T00:38:16+0000
+  2025-12-01T01:25:35+0000  moc-20241229.1056.entry
+  2025-12-01T01:25:35+0000  moc-20241229.1056.tar
+Built moc in 5.184s, finished at 2025-12-01T01:25:36+0000

@@ -1,18 +1,15 @@
-Package: mmm-jinja2
-Fetcher: github
-Source:  https://github.com/glynnforrest/mmm-jinja2
-
+ • Building package mmm-jinja2 (from github:glynnforrest/mmm-jinja2)...
 Updating /mnt/store/melpa/working/mmm-jinja2/
 Checking out c8cb763174fa2fb61b9a0e5e0ff8cb0210f8492f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mmm-jinja2/
-  to /tmp/mmm-jinja2lef0sC/mmm-jinja2-20170313.1420
+  to /tmp/mmm-jinja2uuHGTL/mmm-jinja2-20170313.1420
     mmm-jinja2.el -> mmm-jinja2.el
 Created mmm-jinja2-20170313.1420.tar containing:
   mmm-jinja2-20170313.1420/
   mmm-jinja2-20170313.1420/mmm-jinja2-pkg.el
   mmm-jinja2-20170313.1420/mmm-jinja2.el
  ✓ Success:
-  2025-11-17T00:38:08+0000  mmm-jinja2-20170313.1420.entry
-  2025-11-17T00:38:08+0000  mmm-jinja2-20170313.1420.tar
-Built mmm-jinja2 in 2.856s, finished at 2025-11-17T00:38:09+0000
+  2025-12-01T01:25:29+0000  mmm-jinja2-20170313.1420.entry
+  2025-12-01T01:25:29+0000  mmm-jinja2-20170313.1420.tar
+Built mmm-jinja2 in 3.112s, finished at 2025-12-01T01:25:30+0000

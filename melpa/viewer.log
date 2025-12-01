@@ -1,18 +1,15 @@
-Package: viewer
-Fetcher: github
-Source:  https://github.com/rubikitch/viewer
-
+ • Building package viewer (from github:rubikitch/viewer)...
 Updating /mnt/store/melpa/working/viewer/
 Checking out 6c8db025bf4021428f7f2c3ef9d74fb13f5d267a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/viewer/
-  to /tmp/vieweri5TStc/viewer-20170107.202
+  to /tmp/viewern15zsl/viewer-20170107.202
     viewer.el -> viewer.el
 Created viewer-20170107.202.tar containing:
   viewer-20170107.202/
   viewer-20170107.202/viewer-pkg.el
   viewer-20170107.202/viewer.el
  ✓ Success:
-  2025-11-17T01:06:24+0000  viewer-20170107.202.entry
-  2025-11-17T01:06:24+0000  viewer-20170107.202.tar
-Built viewer in 2.909s, finished at 2025-11-17T01:06:25+0000
+  2025-12-01T01:54:02+0000  viewer-20170107.202.entry
+  2025-12-01T01:54:02+0000  viewer-20170107.202.tar
+Built viewer in 4.439s, finished at 2025-12-01T01:54:04+0000

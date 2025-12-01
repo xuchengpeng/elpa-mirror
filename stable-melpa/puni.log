@@ -1,18 +1,15 @@
-Package: puni
-Fetcher: github
-Source:  https://github.com/AmaiKinono/puni
-
+ • Building package puni (from github:AmaiKinono/puni)...
 Updating /mnt/store/melpa/working/puni/
 Checking out f430f5b0a14c608176e3376058eb380ab0824621
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/puni/
-  to /tmp/puniDQoSoF/puni-20241007.1609
+  to /tmp/punihhD7LV/puni-20241007.1609
     puni.el -> puni.el
 Created puni-20241007.1609.tar containing:
   puni-20241007.1609/
   puni-20241007.1609/puni-pkg.el
   puni-20241007.1609/puni.el
  ✓ Success:
-  2025-11-17T00:52:09+0000  puni-20241007.1609.entry
-  2025-11-17T00:52:09+0000  puni-20241007.1609.tar
-Built puni in 2.889s, finished at 2025-11-17T00:52:10+0000
+  2025-12-01T01:39:40+0000  puni-20241007.1609.entry
+  2025-12-01T01:39:40+0000  puni-20241007.1609.tar
+Built puni in 3.112s, finished at 2025-12-01T01:39:41+0000

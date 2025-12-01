@@ -1,18 +1,15 @@
-Package: company-php
-Fetcher: github
-Source:  https://github.com/xcwen/ac-php
-
+ • Building package company-php (from github:xcwen/ac-php)...
 Updating /mnt/store/melpa/working/company-php/
 Checking out a69ae4a12e40900619b4e5a1613fd449aef649c3
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/company-php/
-  to /tmp/company-phpmVViim/company-php-20240328.1036
+  to /tmp/company-phpvuTlfe/company-php-20240328.1036
     company-php.el -> company-php.el
 Created company-php-20240328.1036.tar containing:
   company-php-20240328.1036/
   company-php-20240328.1036/company-php-pkg.el
   company-php-20240328.1036/company-php.el
  ✓ Success:
-  2025-11-17T00:03:24+0000  company-php-20240328.1036.entry
-  2025-11-17T00:03:23+0000  company-php-20240328.1036.tar
-Built company-php in 3.008s, finished at 2025-11-17T00:03:24+0000
+  2025-12-01T00:50:14+0000  company-php-20240328.1036.entry
+  2025-12-01T00:50:14+0000  company-php-20240328.1036.tar
+Built company-php in 2.975s, finished at 2025-12-01T00:50:15+0000

@@ -1,26 +1,23 @@
-Package: borg
-Fetcher: github
-Source:  https://github.com/emacscollective/borg
-
+ • Building package borg (from github:emacscollective/borg)...
 Updating /mnt/store/melpa/working/borg/
-Checking out 64f67e58b4f943732f045b075b734d28d5d9d5b4
+Checking out eea04635be203f500a9f94024416518b84649528
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/borg/
-  to /tmp/borggSqodX/borg-20251111.1716
+  to /tmp/borgAJPFHO/borg-20251130.1841
     borg-elpa.el -> borg-elpa.el
     borg.el -> borg.el
   ! docs/borg.texi -> borg.texi
     borg.mk -> borg.mk
 Generating borg.info
-Created borg-20251111.1716.tar containing:
-  borg-20251111.1716/
-  borg-20251111.1716/borg-elpa.el
-  borg-20251111.1716/borg-pkg.el
-  borg-20251111.1716/borg.el
-  borg-20251111.1716/borg.info
-  borg-20251111.1716/borg.mk
-  borg-20251111.1716/dir
+Created borg-20251130.1841.tar containing:
+  borg-20251130.1841/
+  borg-20251130.1841/borg-elpa.el
+  borg-20251130.1841/borg-pkg.el
+  borg-20251130.1841/borg.el
+  borg-20251130.1841/borg.info
+  borg-20251130.1841/borg.mk
+  borg-20251130.1841/dir
  ✓ Success:
-  2025-11-16T23:58:46+0000  borg-20251111.1716.entry
-  2025-11-16T23:58:46+0000  borg-20251111.1716.tar
-Built borg in 8.499s, finished at 2025-11-16T23:58:47+0000
+  2025-12-01T00:45:43+0000  borg-20251130.1841.entry
+  2025-12-01T00:45:43+0000  borg-20251130.1841.tar
+Built borg in 4.762s, finished at 2025-12-01T00:45:44+0000

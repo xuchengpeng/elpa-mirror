@@ -1,18 +1,15 @@
-Package: eacl
-Fetcher: github
-Source:  https://github.com/redguardtoo/eacl
-
+ • Building package eacl (from github:redguardtoo/eacl)...
 Updating /mnt/store/melpa/working/eacl/
 Checking out 4fe2cafbfeb73d806ebea8801c3522ff2886f30b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/eacl/
-  to /tmp/eacl7k25jY/eacl-20220526.1434
+  to /tmp/eaclCOd9MF/eacl-20220526.1434
     eacl.el -> eacl.el
 Created eacl-20220526.1434.tar containing:
   eacl-20220526.1434/
   eacl-20220526.1434/eacl-pkg.el
   eacl-20220526.1434/eacl.el
  ✓ Success:
-  2025-11-17T00:09:48+0000  eacl-20220526.1434.entry
-  2025-11-17T00:09:48+0000  eacl-20220526.1434.tar
-Built eacl in 4.632s, finished at 2025-11-17T00:09:49+0000
+  2025-12-01T00:56:55+0000  eacl-20220526.1434.entry
+  2025-12-01T00:56:55+0000  eacl-20220526.1434.tar
+Built eacl in 2.841s, finished at 2025-12-01T00:56:56+0000

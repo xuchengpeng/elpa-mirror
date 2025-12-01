@@ -1,18 +1,15 @@
-Package: comware-router-mode
-Fetcher: github
-Source:  https://github.com/daviderestivo/comware-router-mode
-
+ • Building package comware-router-mode (from github:daviderestivo/comware-router-mode)...
 Updating /mnt/store/melpa/working/comware-router-mode/
 Checking out e1671efe5e0ade2dcbea0c17697d460cd8f0ba67
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/comware-router-mode/
-  to /tmp/comware-router-modekn41l4/comware-router-mode-20240103.907
+  to /tmp/comware-router-modeuBO1Mq/comware-router-mode-20240103.907
     comware-router-mode.el -> comware-router-mode.el
 Created comware-router-mode-20240103.907.tar containing:
   comware-router-mode-20240103.907/
   comware-router-mode-20240103.907/comware-router-mode-pkg.el
   comware-router-mode-20240103.907/comware-router-mode.el
  ✓ Success:
-  2025-11-17T00:03:51+0000  comware-router-mode-20240103.907.entry
-  2025-11-17T00:03:51+0000  comware-router-mode-20240103.907.tar
-Built comware-router-mode in 2.801s, finished at 2025-11-17T00:03:52+0000
+  2025-12-01T00:50:39+0000  comware-router-mode-20240103.907.entry
+  2025-12-01T00:50:39+0000  comware-router-mode-20240103.907.tar
+Built comware-router-mode in 2.931s, finished at 2025-12-01T00:50:40+0000

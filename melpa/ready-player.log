@@ -1,12 +1,9 @@
-Package: ready-player
-Fetcher: github
-Source:  https://github.com/xenodium/ready-player
-
+ • Building package ready-player (from github:xenodium/ready-player)...
 Updating /mnt/store/melpa/working/ready-player/
 Checking out 94b181041b4e053fd5aee2c987b754e7a01aff2d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ready-player/
-  to /tmp/ready-playerHkfcIg/ready-player-20251106.732
+  to /tmp/ready-playerT9LZKM/ready-player-20251106.732
     ready-player-dired.el -> ready-player-dired.el
     ready-player.el -> ready-player.el
 Created ready-player-20251106.732.tar containing:
@@ -15,6 +12,6 @@ Created ready-player-20251106.732.tar containing:
   ready-player-20251106.732/ready-player-pkg.el
   ready-player-20251106.732/ready-player.el
  ✓ Success:
-  2025-11-17T00:53:38+0000  ready-player-20251106.732.entry
-  2025-11-17T00:53:38+0000  ready-player-20251106.732.tar
-Built ready-player in 3.862s, finished at 2025-11-17T00:53:39+0000
+  2025-12-01T01:41:13+0000  ready-player-20251106.732.entry
+  2025-12-01T01:41:13+0000  ready-player-20251106.732.tar
+Built ready-player in 3.944s, finished at 2025-12-01T01:41:14+0000

@@ -1,18 +1,15 @@
-Package: easy-jekyll
-Fetcher: github
-Source:  https://github.com/masasam/emacs-easy-jekyll
-
+ • Building package easy-jekyll (from github:masasam/emacs-easy-jekyll)...
 Updating /mnt/store/melpa/working/easy-jekyll/
 Checking out 4e85bb4568f87e08a93d7c5c82898a8e98109669
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/easy-jekyll/
-  to /tmp/easy-jekyllXr7Ttw/easy-jekyll-20250830.1006
+  to /tmp/easy-jekyllPjrhKi/easy-jekyll-20250830.1006
     easy-jekyll.el -> easy-jekyll.el
 Created easy-jekyll-20250830.1006.tar containing:
   easy-jekyll-20250830.1006/
   easy-jekyll-20250830.1006/easy-jekyll-pkg.el
   easy-jekyll-20250830.1006/easy-jekyll.el
  ✓ Success:
-  2025-11-17T00:09:57+0000  easy-jekyll-20250830.1006.entry
-  2025-11-17T00:09:57+0000  easy-jekyll-20250830.1006.tar
-Built easy-jekyll in 4.648s, finished at 2025-11-17T00:09:58+0000
+  2025-12-01T00:57:02+0000  easy-jekyll-20250830.1006.entry
+  2025-12-01T00:57:02+0000  easy-jekyll-20250830.1006.tar
+Built easy-jekyll in 3.195s, finished at 2025-12-01T00:57:03+0000

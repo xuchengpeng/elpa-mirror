@@ -1,18 +1,15 @@
-Package: hound
-Fetcher: github
-Source:  https://github.com/ryoung786/hound.el
-
+ • Building package hound (from github:ryoung786/hound.el)...
 Updating /mnt/store/melpa/working/hound/
 Checking out 35e2cdc81fcc904b450a7ef3ec00fd25df6a4431
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/hound/
-  to /tmp/houndhLKRBB/hound-20200122.1700
+  to /tmp/houndcgzPqz/hound-20200122.1700
     hound.el -> hound.el
 Created hound-20200122.1700.tar containing:
   hound-20200122.1700/
   hound-20200122.1700/hound-pkg.el
   hound-20200122.1700/hound.el
  ✓ Success:
-  2025-11-17T00:27:33+0000  hound-20200122.1700.entry
-  2025-11-17T00:27:33+0000  hound-20200122.1700.tar
-Built hound in 3.231s, finished at 2025-11-17T00:27:34+0000
+  2025-12-01T01:14:24+0000  hound-20200122.1700.entry
+  2025-12-01T01:14:24+0000  hound-20200122.1700.tar
+Built hound in 2.746s, finished at 2025-12-01T01:14:25+0000

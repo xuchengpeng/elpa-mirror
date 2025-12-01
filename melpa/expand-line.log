@@ -1,18 +1,15 @@
-Package: expand-line
-Fetcher: github
-Source:  https://github.com/victorteokw/expand-line
-
+ • Building package expand-line (from github:victorteokw/expand-line)...
 Updating /mnt/store/melpa/working/expand-line/
 Checking out 75a5d0241f35dd0748ab8ecb4ff16891535be372
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/expand-line/
-  to /tmp/expand-lineKCKevZ/expand-line-20151006.207
+  to /tmp/expand-lineLfb2ej/expand-line-20151006.207
     expand-line.el -> expand-line.el
 Created expand-line-20151006.207.tar containing:
   expand-line-20151006.207/
   expand-line-20151006.207/expand-line-pkg.el
   expand-line-20151006.207/expand-line.el
  ✓ Success:
-  2025-11-17T00:15:30+0000  expand-line-20151006.207.entry
-  2025-11-17T00:15:30+0000  expand-line-20151006.207.tar
-Built expand-line in 4.206s, finished at 2025-11-17T00:15:32+0000
+  2025-12-01T01:02:45+0000  expand-line-20151006.207.entry
+  2025-12-01T01:02:45+0000  expand-line-20151006.207.tar
+Built expand-line in 2.666s, finished at 2025-12-01T01:02:46+0000

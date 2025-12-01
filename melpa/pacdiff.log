@@ -1,18 +1,15 @@
-Package: pacdiff
-Fetcher: github
-Source:  https://github.com/fbrosda/pacdiff.el
-
+ • Building package pacdiff (from github:fbrosda/pacdiff.el)...
 Updating /mnt/store/melpa/working/pacdiff/
 Checking out f1c13777e5c8056a6d6e823ecb51b9bbadc8e0c3
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/pacdiff/
-  to /tmp/pacdiffXRl6VG/pacdiff-20251019.627
+  to /tmp/pacdiffezv2So/pacdiff-20251019.627
     pacdiff.el -> pacdiff.el
 Created pacdiff-20251019.627.tar containing:
   pacdiff-20251019.627/
   pacdiff-20251019.627/pacdiff-pkg.el
   pacdiff-20251019.627/pacdiff.el
  ✓ Success:
-  2025-11-17T00:47:40+0000  pacdiff-20251019.627.entry
-  2025-11-17T00:47:40+0000  pacdiff-20251019.627.tar
-Built pacdiff in 2.788s, finished at 2025-11-17T00:47:41+0000
+  2025-12-01T01:35:07+0000  pacdiff-20251019.627.entry
+  2025-12-01T01:35:07+0000  pacdiff-20251019.627.tar
+Built pacdiff in 2.832s, finished at 2025-12-01T01:35:08+0000

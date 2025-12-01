@@ -1,18 +1,15 @@
-Package: time-block
-Fetcher: sourcehut
-Source:  https://git.sr.ht/~swflint/time-block-command
-
+ • Building package time-block (from sourcehut:swflint/time-block-command)...
 Updating /mnt/store/melpa/working/time-block/
 Checking out 0fdb488c3fa3da2934ee486613f5bf46712b97d6
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/time-block/
-  to /tmp/time-blockLiwzRM/time-block-20230511.1434
+  to /tmp/time-blockyNHXXj/time-block-20230511.1434
     time-block.el -> time-block.el
 Created time-block-20230511.1434.tar containing:
   time-block-20230511.1434/
   time-block-20230511.1434/time-block-pkg.el
   time-block-20230511.1434/time-block.el
  ✓ Success:
-  2025-11-17T01:03:11+0000  time-block-20230511.1434.entry
-  2025-11-17T01:03:11+0000  time-block-20230511.1434.tar
-Built time-block in 3.627s, finished at 2025-11-17T01:03:12+0000
+  2025-12-01T01:50:45+0000  time-block-20230511.1434.entry
+  2025-12-01T01:50:44+0000  time-block-20230511.1434.tar
+Built time-block in 3.612s, finished at 2025-12-01T01:50:45+0000

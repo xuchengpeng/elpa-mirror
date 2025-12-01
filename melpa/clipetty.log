@@ -1,18 +1,15 @@
-Package: clipetty
-Fetcher: github
-Source:  https://github.com/spudlyo/clipetty
-
+ • Building package clipetty (from github:spudlyo/clipetty)...
 Updating /mnt/store/melpa/working/clipetty/
 Checking out 7ee3f9c52f70f80820a8c66fb6f796d6e01dd92d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/clipetty/
-  to /tmp/clipettywKHFOp/clipetty-20200327.2241
+  to /tmp/clipettyEedOpX/clipetty-20200327.2241
     clipetty.el -> clipetty.el
 Created clipetty-20200327.2241.tar containing:
   clipetty-20200327.2241/
   clipetty-20200327.2241/clipetty-pkg.el
   clipetty-20200327.2241/clipetty.el
  ✓ Success:
-  2025-11-17T00:01:43+0000  clipetty-20200327.2241.entry
-  2025-11-17T00:01:43+0000  clipetty-20200327.2241.tar
-Built clipetty in 2.974s, finished at 2025-11-17T00:01:44+0000
+  2025-12-01T00:48:39+0000  clipetty-20200327.2241.entry
+  2025-12-01T00:48:39+0000  clipetty-20200327.2241.tar
+Built clipetty in 2.945s, finished at 2025-12-01T00:48:40+0000

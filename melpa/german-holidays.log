@@ -1,18 +1,15 @@
-Package: german-holidays
-Fetcher: github
-Source:  https://github.com/rudolfochrist/german-holidays
-
+ • Building package german-holidays (from github:rudolfochrist/german-holidays)...
 Updating /mnt/store/melpa/working/german-holidays/
 Checking out a8462dffccaf2b665f2032e646b5370e993a386a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/german-holidays/
-  to /tmp/german-holidaysv5tLTf/german-holidays-20181213.644
+  to /tmp/german-holidays48E424/german-holidays-20181213.644
     german-holidays.el -> german-holidays.el
 Created german-holidays-20181213.644.tar containing:
   german-holidays-20181213.644/
   german-holidays-20181213.644/german-holidays-pkg.el
   german-holidays-20181213.644/german-holidays.el
  ✓ Success:
-  2025-11-17T00:20:45+0000  german-holidays-20181213.644.entry
-  2025-11-17T00:20:45+0000  german-holidays-20181213.644.tar
-Built german-holidays in 3.394s, finished at 2025-11-17T00:20:46+0000
+  2025-12-01T01:08:07+0000  german-holidays-20181213.644.entry
+  2025-12-01T01:08:07+0000  german-holidays-20181213.644.tar
+Built german-holidays in 3.338s, finished at 2025-12-01T01:08:08+0000

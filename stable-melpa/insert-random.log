@@ -1,18 +1,15 @@
-Package: insert-random
-Fetcher: github
-Source:  https://github.com/lassik/emacs-insert-random
-
+ • Building package insert-random (from github:lassik/emacs-insert-random)...
 Updating /mnt/store/melpa/working/insert-random/
 Checking out a13827fd68457f939e46f95a662752f6f344107c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/insert-random/
-  to /tmp/insert-randomGsPrZI/insert-random-20230212.1710
+  to /tmp/insert-randomMfLCN5/insert-random-20230212.1710
     insert-random.el -> insert-random.el
 Created insert-random-20230212.1710.tar containing:
   insert-random-20230212.1710/
   insert-random-20230212.1710/insert-random-pkg.el
   insert-random-20230212.1710/insert-random.el
  ✓ Success:
-  2025-11-17T00:29:24+0000  insert-random-20230212.1710.entry
-  2025-11-17T00:29:24+0000  insert-random-20230212.1710.tar
-Built insert-random in 2.691s, finished at 2025-11-17T00:29:25+0000
+  2025-12-01T01:16:33+0000  insert-random-20230212.1710.entry
+  2025-12-01T01:16:33+0000  insert-random-20230212.1710.tar
+Built insert-random in 2.643s, finished at 2025-12-01T01:16:34+0000

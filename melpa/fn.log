@@ -1,18 +1,15 @@
-Package: fn
-Fetcher: github
-Source:  https://github.com/troyp/fn.el
-
+ • Building package fn (from github:troyp/fn.el)...
 Updating /mnt/store/melpa/working/fn/
 Checking out 98e3fe1b4785e162d9aca978a2db106baa79260f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/fn/
-  to /tmp/fnMCDf0a/fn-20210304.1812
+  to /tmp/fnV3Au8T/fn-20210304.1812
     fn.el -> fn.el
 Created fn-20210304.1812.tar containing:
   fn-20210304.1812/
   fn-20210304.1812/fn-pkg.el
   fn-20210304.1812/fn.el
  ✓ Success:
-  2025-11-17T00:19:26+0000  fn-20210304.1812.entry
-  2025-11-17T00:19:26+0000  fn-20210304.1812.tar
-Built fn in 2.796s, finished at 2025-11-17T00:19:27+0000
+  2025-12-01T01:06:48+0000  fn-20210304.1812.entry
+  2025-12-01T01:06:47+0000  fn-20210304.1812.tar
+Built fn in 2.860s, finished at 2025-12-01T01:06:48+0000

@@ -1,18 +1,15 @@
-Package: flymake-puppet
-Fetcher: github
-Source:  https://github.com/benprew/flymake-puppet
-
+ • Building package flymake-puppet (from github:benprew/flymake-puppet)...
 Updating /mnt/store/melpa/working/flymake-puppet/
 Checking out 9579e5c736cb890195464fabf51df113313de88d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/flymake-puppet/
-  to /tmp/flymake-puppetgmjEja/flymake-puppet-20170801.554
+  to /tmp/flymake-puppetIy6cqG/flymake-puppet-20170801.554
     flymake-puppet.el -> flymake-puppet.el
 Created flymake-puppet-20170801.554.tar containing:
   flymake-puppet-20170801.554/
   flymake-puppet-20170801.554/flymake-puppet-pkg.el
   flymake-puppet-20170801.554/flymake-puppet.el
  ✓ Success:
-  2025-11-17T00:19:05+0000  flymake-puppet-20170801.554.entry
-  2025-11-17T00:19:04+0000  flymake-puppet-20170801.554.tar
-Built flymake-puppet in 2.732s, finished at 2025-11-17T00:19:06+0000
+  2025-12-01T01:06:26+0000  flymake-puppet-20170801.554.entry
+  2025-12-01T01:06:26+0000  flymake-puppet-20170801.554.tar
+Built flymake-puppet in 2.840s, finished at 2025-12-01T01:06:27+0000

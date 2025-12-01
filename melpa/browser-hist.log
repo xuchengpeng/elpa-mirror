@@ -1,18 +1,15 @@
-Package: browser-hist
-Fetcher: github
-Source:  https://github.com/agzam/browser-hist.el
-
+ • Building package browser-hist (from github:agzam/browser-hist.el)...
 Updating /mnt/store/melpa/working/browser-hist/
 Checking out 1cd80081feaab99fef9e8eadd55d68b3cef90144
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/browser-hist/
-  to /tmp/browser-histQYNgmU/browser-hist-20250501.1450
+  to /tmp/browser-histQ00z7F/browser-hist-20250501.1450
     browser-hist.el -> browser-hist.el
 Created browser-hist-20250501.1450.tar containing:
   browser-hist-20250501.1450/
   browser-hist-20250501.1450/browser-hist-pkg.el
   browser-hist-20250501.1450/browser-hist.el
  ✓ Success:
-  2025-11-16T23:59:03+0000  browser-hist-20250501.1450.entry
-  2025-11-16T23:59:03+0000  browser-hist-20250501.1450.tar
-Built browser-hist in 2.892s, finished at 2025-11-16T23:59:04+0000
+  2025-12-01T00:45:59+0000  browser-hist-20250501.1450.entry
+  2025-12-01T00:45:59+0000  browser-hist-20250501.1450.tar
+Built browser-hist in 4.121s, finished at 2025-12-01T00:46:00+0000

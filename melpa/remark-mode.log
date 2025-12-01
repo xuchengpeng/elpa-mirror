@@ -1,12 +1,9 @@
-Package: remark-mode
-Fetcher: github
-Source:  https://github.com/torgeir/remark-mode.el
-
+ • Building package remark-mode (from github:torgeir/remark-mode.el)...
 Updating /mnt/store/melpa/working/remark-mode/
 Checking out 5a2a702d2af8fd007ae02237d5824356d0c1acc6
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/remark-mode/
-  to /tmp/remark-modekZs6KP/remark-mode-20221123.2127
+  to /tmp/remark-modeHpXHbT/remark-mode-20221123.2127
     remark-mode.el -> remark-mode.el
     remark.html -> remark.html
     server.js -> server.js
@@ -17,6 +14,6 @@ Created remark-mode-20221123.2127.tar containing:
   remark-mode-20221123.2127/remark.html
   remark-mode-20221123.2127/server.js
  ✓ Success:
-  2025-11-17T00:54:13+0000  remark-mode-20221123.2127.entry
-  2025-11-17T00:54:13+0000  remark-mode-20221123.2127.tar
-Built remark-mode in 3.029s, finished at 2025-11-17T00:54:14+0000
+  2025-12-01T01:41:50+0000  remark-mode-20221123.2127.entry
+  2025-12-01T01:41:50+0000  remark-mode-20221123.2127.tar
+Built remark-mode in 2.817s, finished at 2025-12-01T01:41:51+0000

@@ -1,18 +1,15 @@
-Package: helm-lxc
-Fetcher: github
-Source:  https://github.com/montag451/helm-lxc
-
+ • Building package helm-lxc (from github:montag451/helm-lxc)...
 Updating /mnt/store/melpa/working/helm-lxc/
 Checking out 37fe2d7ed97967edf59a3b68b1434910516ae24f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/helm-lxc/
-  to /tmp/helm-lxcXtoT2v/helm-lxc-20200323.816
+  to /tmp/helm-lxczPXTX1/helm-lxc-20200323.816
     helm-lxc.el -> helm-lxc.el
 Created helm-lxc-20200323.816.tar containing:
   helm-lxc-20200323.816/
   helm-lxc-20200323.816/helm-lxc-pkg.el
   helm-lxc-20200323.816/helm-lxc.el
  ✓ Success:
-  2025-11-17T00:25:21+0000  helm-lxc-20200323.816.entry
-  2025-11-17T00:25:21+0000  helm-lxc-20200323.816.tar
-Built helm-lxc in 2.519s, finished at 2025-11-17T00:25:22+0000
+  2025-12-01T01:12:42+0000  helm-lxc-20200323.816.entry
+  2025-12-01T01:12:42+0000  helm-lxc-20200323.816.tar
+Built helm-lxc in 2.584s, finished at 2025-12-01T01:12:43+0000

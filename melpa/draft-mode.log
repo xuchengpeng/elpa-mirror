@@ -1,18 +1,15 @@
-Package: draft-mode
-Fetcher: gitlab
-Source:  https://gitlab.com/gaudecker/draft-mode
-
+ • Building package draft-mode (from gitlab:gaudecker/draft-mode)...
 Updating /mnt/store/melpa/working/draft-mode/
 Checking out 4779fb32daf53746459da2def7e08004492d4f18
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/draft-mode/
-  to /tmp/draft-modexrbXBB/draft-mode-20160106.859
+  to /tmp/draft-modeSJ8DJo/draft-mode-20160106.859
     draft-mode.el -> draft-mode.el
 Created draft-mode-20160106.859.tar containing:
   draft-mode-20160106.859/
   draft-mode-20160106.859/draft-mode-pkg.el
   draft-mode-20160106.859/draft-mode.el
  ✓ Success:
-  2025-11-17T00:09:11+0000  draft-mode-20160106.859.entry
-  2025-11-17T00:09:11+0000  draft-mode-20160106.859.tar
-Built draft-mode in 3.621s, finished at 2025-11-17T00:09:12+0000
+  2025-12-01T00:56:21+0000  draft-mode-20160106.859.entry
+  2025-12-01T00:56:21+0000  draft-mode-20160106.859.tar
+Built draft-mode in 3.433s, finished at 2025-12-01T00:56:22+0000

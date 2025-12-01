@@ -1,18 +1,15 @@
-Package: kuronami-theme
-Fetcher: github
-Source:  https://github.com/inj0h/kuronami
-
+ • Building package kuronami-theme (from github:inj0h/kuronami)...
 Updating /mnt/store/melpa/working/kuronami-theme/
 Checking out 4d0a9e5f789e5768a0c2ea7dec31f98ea95c7372
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/kuronami-theme/
-  to /tmp/kuronami-themegzS5DP/kuronami-theme-20240104.2022
+  to /tmp/kuronami-themeDBcPmf/kuronami-theme-20240104.2022
     kuronami-theme.el -> kuronami-theme.el
 Created kuronami-theme-20240104.2022.tar containing:
   kuronami-theme-20240104.2022/
   kuronami-theme-20240104.2022/kuronami-theme-pkg.el
   kuronami-theme-20240104.2022/kuronami-theme.el
  ✓ Success:
-  2025-11-17T00:33:07+0000  kuronami-theme-20240104.2022.entry
-  2025-11-17T00:33:07+0000  kuronami-theme-20240104.2022.tar
-Built kuronami-theme in 4.463s, finished at 2025-11-17T00:33:08+0000
+  2025-12-01T01:20:01+0000  kuronami-theme-20240104.2022.entry
+  2025-12-01T01:20:01+0000  kuronami-theme-20240104.2022.tar
+Built kuronami-theme in 3.136s, finished at 2025-12-01T01:20:02+0000

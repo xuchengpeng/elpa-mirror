@@ -1,18 +1,15 @@
-Package: drone
-Fetcher: github
-Source:  https://github.com/olymk2/emacs-drone
-
+ • Building package drone (from github:olymk2/emacs-drone)...
 Updating /mnt/store/melpa/working/drone/
 Checking out 1d4ee037ad3208847a4235426edf0c4a3e7b1899
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/drone/
-  to /tmp/droneTxdgsC/drone-20161106.918
+  to /tmp/droneWiysZl/drone-20161106.918
     drone.el -> drone.el
 Created drone-20161106.918.tar containing:
   drone-20161106.918/
   drone-20161106.918/drone-pkg.el
   drone-20161106.918/drone.el
  ✓ Success:
-  2025-11-17T00:09:14+0000  drone-20161106.918.entry
-  2025-11-17T00:09:14+0000  drone-20161106.918.tar
-Built drone in 2.801s, finished at 2025-11-17T00:09:15+0000
+  2025-12-01T00:56:24+0000  drone-20161106.918.entry
+  2025-12-01T00:56:24+0000  drone-20161106.918.tar
+Built drone in 2.881s, finished at 2025-12-01T00:56:25+0000

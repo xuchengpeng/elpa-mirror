@@ -1,18 +1,15 @@
-Package: nix-ts-mode
-Fetcher: github
-Source:  https://github.com/nix-community/nix-ts-mode
-
+ • Building package nix-ts-mode (from github:nix-community/nix-ts-mode)...
 Updating /mnt/store/melpa/working/nix-ts-mode/
 Checking out 03c77fdbbd22d9b87a654169c26339b28c97d8cd
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/nix-ts-mode/
-  to /tmp/nix-ts-modeF0ugSS/nix-ts-mode-20251114.1500
+  to /tmp/nix-ts-modeDbLVRD/nix-ts-mode-20251114.1500
     nix-ts-mode.el -> nix-ts-mode.el
 Created nix-ts-mode-20251114.1500.tar containing:
   nix-ts-mode-20251114.1500/
   nix-ts-mode-20251114.1500/nix-ts-mode-pkg.el
   nix-ts-mode-20251114.1500/nix-ts-mode.el
  ✓ Success:
-  2025-11-17T00:40:52+0000  nix-ts-mode-20251114.1500.entry
-  2025-11-17T00:40:52+0000  nix-ts-mode-20251114.1500.tar
-Built nix-ts-mode in 2.917s, finished at 2025-11-17T00:40:53+0000
+  2025-12-01T01:28:10+0000  nix-ts-mode-20251114.1500.entry
+  2025-12-01T01:28:10+0000  nix-ts-mode-20251114.1500.tar
+Built nix-ts-mode in 2.904s, finished at 2025-12-01T01:28:11+0000

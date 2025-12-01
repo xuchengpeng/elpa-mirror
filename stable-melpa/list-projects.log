@@ -1,18 +1,15 @@
-Package: list-projects
-Fetcher: github
-Source:  https://github.com/MatthewTromp/list-projects
-
+ • Building package list-projects (from github:MatthewTromp/list-projects)...
 Updating /mnt/store/melpa/working/list-projects/
 Checking out 8f07faf991f201593388fb85fc7c70320755b71a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/list-projects/
-  to /tmp/list-projectsgRlCEN/list-projects-20250428.1646
+  to /tmp/list-projectsnx3IhY/list-projects-20250428.1646
     list-projects.el -> list-projects.el
 Created list-projects-20250428.1646.tar containing:
   list-projects-20250428.1646/
   list-projects-20250428.1646/list-projects-pkg.el
   list-projects-20250428.1646/list-projects.el
  ✓ Success:
-  2025-11-17T00:34:28+0000  list-projects-20250428.1646.entry
-  2025-11-17T00:34:28+0000  list-projects-20250428.1646.tar
-Built list-projects in 2.821s, finished at 2025-11-17T00:34:29+0000
+  2025-12-01T01:21:35+0000  list-projects-20250428.1646.entry
+  2025-12-01T01:21:35+0000  list-projects-20250428.1646.tar
+Built list-projects in 2.596s, finished at 2025-12-01T01:21:36+0000

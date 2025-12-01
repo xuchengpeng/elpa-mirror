@@ -1,18 +1,15 @@
-Package: flycheck-php-noverify
-Fetcher: github
-Source:  https://github.com/Junker/flycheck-php-noverify
-
+ • Building package flycheck-php-noverify (from github:Junker/flycheck-php-noverify)...
 Updating /mnt/store/melpa/working/flycheck-php-noverify/
 Checking out 3aa3035c637eb0476f05bd0fbc66c058aa67ffb7
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/flycheck-php-noverify/
-  to /tmp/flycheck-php-noverifyHX1L1o/flycheck-php-noverify-20211005.401
+  to /tmp/flycheck-php-noverifypIv6w3/flycheck-php-noverify-20211005.401
     flycheck-php-noverify.el -> flycheck-php-noverify.el
 Created flycheck-php-noverify-20211005.401.tar containing:
   flycheck-php-noverify-20211005.401/
   flycheck-php-noverify-20211005.401/flycheck-php-noverify-pkg.el
   flycheck-php-noverify-20211005.401/flycheck-php-noverify.el
  ✓ Success:
-  2025-11-17T00:18:09+0000  flycheck-php-noverify-20211005.401.entry
-  2025-11-17T00:18:09+0000  flycheck-php-noverify-20211005.401.tar
-Built flycheck-php-noverify in 2.782s, finished at 2025-11-17T00:18:10+0000
+  2025-12-01T01:05:28+0000  flycheck-php-noverify-20211005.401.entry
+  2025-12-01T01:05:28+0000  flycheck-php-noverify-20211005.401.tar
+Built flycheck-php-noverify in 3.167s, finished at 2025-12-01T01:05:29+0000

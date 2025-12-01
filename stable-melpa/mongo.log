@@ -1,12 +1,9 @@
-Package: mongo
-Fetcher: github
-Source:  https://github.com/emacsorphanage/mongo
-
+ • Building package mongo (from github:emacsorphanage/mongo)...
 Updating /mnt/store/melpa/working/mongo/
 Checking out 595529ddd70ecb9fab8b11daad2c3929941099d6
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mongo/
-  to /tmp/mongoK2Wiv2/mongo-20150315.1219
+  to /tmp/mongoFtLwoK/mongo-20150315.1219
     bson.el -> bson.el
     mongo.el -> mongo.el
 Created mongo-20150315.1219.tar containing:
@@ -15,6 +12,6 @@ Created mongo-20150315.1219.tar containing:
   mongo-20150315.1219/mongo-pkg.el
   mongo-20150315.1219/mongo.el
  ✓ Success:
-  2025-11-17T00:38:36+0000  mongo-20150315.1219.entry
-  2025-11-17T00:38:36+0000  mongo-20150315.1219.tar
-Built mongo in 4.564s, finished at 2025-11-17T00:38:38+0000
+  2025-12-01T01:25:48+0000  mongo-20150315.1219.entry
+  2025-12-01T01:25:48+0000  mongo-20150315.1219.tar
+Built mongo in 2.707s, finished at 2025-12-01T01:25:49+0000

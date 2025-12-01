@@ -1,18 +1,15 @@
-Package: erc-matterircd
-Fetcher: github
-Source:  https://github.com/alexmurray/erc-matterircd
-
+ • Building package erc-matterircd (from github:alexmurray/erc-matterircd)...
 Updating /mnt/store/melpa/working/erc-matterircd/
 Checking out e3a59267c044474f9ca066d36517e9a3d872759c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/erc-matterircd/
-  to /tmp/erc-matterircdiDoeUf/erc-matterircd-20210804.504
+  to /tmp/erc-matterircdyBwvfE/erc-matterircd-20210804.504
     erc-matterircd.el -> erc-matterircd.el
 Created erc-matterircd-20210804.504.tar containing:
   erc-matterircd-20210804.504/
   erc-matterircd-20210804.504/erc-matterircd-pkg.el
   erc-matterircd-20210804.504/erc-matterircd.el
  ✓ Success:
-  2025-11-17T00:13:11+0000  erc-matterircd-20210804.504.entry
-  2025-11-17T00:13:11+0000  erc-matterircd-20210804.504.tar
-Built erc-matterircd in 3.006s, finished at 2025-11-17T00:13:12+0000
+  2025-12-01T01:00:22+0000  erc-matterircd-20210804.504.entry
+  2025-12-01T01:00:22+0000  erc-matterircd-20210804.504.tar
+Built erc-matterircd in 2.959s, finished at 2025-12-01T01:00:22+0000

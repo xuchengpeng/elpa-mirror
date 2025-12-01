@@ -1,18 +1,15 @@
-Package: vcomp
-Fetcher: github
-Source:  https://github.com/tarsius/vcomp
-
+ • Building package vcomp (from github:tarsius/vcomp)...
 Updating /mnt/store/melpa/working/vcomp/
 Checking out 99831d234481a61488aca4b96b842b63a79c732a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/vcomp/
-  to /tmp/vcomphNlQVo/vcomp-20240302.2255
+  to /tmp/vcompM8Avcy/vcomp-20240302.2255
     vcomp.el -> vcomp.el
 Created vcomp-20240302.2255.tar containing:
   vcomp-20240302.2255/
   vcomp-20240302.2255/vcomp-pkg.el
   vcomp-20240302.2255/vcomp.el
  ✓ Success:
-  2025-11-17T01:06:04+0000  vcomp-20240302.2255.entry
-  2025-11-17T01:06:04+0000  vcomp-20240302.2255.tar
-Built vcomp in 2.912s, finished at 2025-11-17T01:06:05+0000
+  2025-12-01T01:53:36+0000  vcomp-20240302.2255.entry
+  2025-12-01T01:53:36+0000  vcomp-20240302.2255.tar
+Built vcomp in 2.382s, finished at 2025-12-01T01:53:36+0000

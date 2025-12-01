@@ -1,18 +1,15 @@
-Package: kubectx-mode
-Fetcher: github
-Source:  https://github.com/terjesannum/emacs-kubectx-mode
-
+ • Building package kubectx-mode (from github:terjesannum/emacs-kubectx-mode)...
 Updating /mnt/store/melpa/working/kubectx-mode/
 Checking out b177c0fa9f8471d6199df4598afde1e39e83c504
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/kubectx-mode/
-  to /tmp/kubectx-modeAekBh6/kubectx-mode-20240312.2024
+  to /tmp/kubectx-modejSpsjL/kubectx-mode-20240312.2024
     kubectx-mode.el -> kubectx-mode.el
 Created kubectx-mode-20240312.2024.tar containing:
   kubectx-mode-20240312.2024/
   kubectx-mode-20240312.2024/kubectx-mode-pkg.el
   kubectx-mode-20240312.2024/kubectx-mode.el
  ✓ Success:
-  2025-11-17T00:32:55+0000  kubectx-mode-20240312.2024.entry
-  2025-11-17T00:32:55+0000  kubectx-mode-20240312.2024.tar
-Built kubectx-mode in 5.012s, finished at 2025-11-17T00:32:57+0000
+  2025-12-01T01:19:54+0000  kubectx-mode-20240312.2024.entry
+  2025-12-01T01:19:54+0000  kubectx-mode-20240312.2024.tar
+Built kubectx-mode in 2.845s, finished at 2025-12-01T01:19:55+0000

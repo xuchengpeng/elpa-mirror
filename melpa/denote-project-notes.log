@@ -1,18 +1,15 @@
-Package: denote-project-notes
-Fetcher: sourcehut
-Source:  https://git.sr.ht/~swflint/denote-project-notes
-
+ • Building package denote-project-notes (from sourcehut:swflint/denote-project-notes)...
 Updating /mnt/store/melpa/working/denote-project-notes/
 Checking out 697420c089d313bf65e7963248c1909a8fdb348d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/denote-project-notes/
-  to /tmp/denote-project-notesFqAzXT/denote-project-notes-20250610.1516
+  to /tmp/denote-project-notes7K4hI4/denote-project-notes-20250610.1516
     denote-project-notes.el -> denote-project-notes.el
 Created denote-project-notes-20250610.1516.tar containing:
   denote-project-notes-20250610.1516/
   denote-project-notes-20250610.1516/denote-project-notes-pkg.el
   denote-project-notes-20250610.1516/denote-project-notes.el
  ✓ Success:
-  2025-11-17T00:07:11+0000  denote-project-notes-20250610.1516.entry
-  2025-11-17T00:07:11+0000  denote-project-notes-20250610.1516.tar
-Built denote-project-notes in 3.495s, finished at 2025-11-17T00:07:12+0000
+  2025-12-01T00:54:18+0000  denote-project-notes-20250610.1516.entry
+  2025-12-01T00:54:18+0000  denote-project-notes-20250610.1516.tar
+Built denote-project-notes in 3.453s, finished at 2025-12-01T00:54:19+0000

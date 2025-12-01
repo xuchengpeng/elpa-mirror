@@ -1,18 +1,15 @@
-Package: templ-ts-mode
-Fetcher: github
-Source:  https://github.com/danderson/templ-ts-mode
-
+ • Building package templ-ts-mode (from github:danderson/templ-ts-mode)...
 Updating /mnt/store/melpa/working/templ-ts-mode/
 Checking out ddf13c1a08ed3d05d9701b1a2e8bb4b9febad57b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/templ-ts-mode/
-  to /tmp/templ-ts-modefSAhpt/templ-ts-mode-20250223.2347
+  to /tmp/templ-ts-modegWMNJ4/templ-ts-mode-20250223.2347
     templ-ts-mode.el -> templ-ts-mode.el
 Created templ-ts-mode-20250223.2347.tar containing:
   templ-ts-mode-20250223.2347/
   templ-ts-mode-20250223.2347/templ-ts-mode-pkg.el
   templ-ts-mode-20250223.2347/templ-ts-mode.el
  ✓ Success:
-  2025-11-17T01:02:27+0000  templ-ts-mode-20250223.2347.entry
-  2025-11-17T01:02:27+0000  templ-ts-mode-20250223.2347.tar
-Built templ-ts-mode in 3.042s, finished at 2025-11-17T01:02:28+0000
+  2025-12-01T01:50:01+0000  templ-ts-mode-20250223.2347.entry
+  2025-12-01T01:50:01+0000  templ-ts-mode-20250223.2347.tar
+Built templ-ts-mode in 3.033s, finished at 2025-12-01T01:50:02+0000

@@ -1,18 +1,15 @@
-Package: celestial-mode-line
-Fetcher: github
-Source:  https://github.com/ecraven/celestial-mode-line
-
+ • Building package celestial-mode-line (from github:ecraven/celestial-mode-line)...
 Updating /mnt/store/melpa/working/celestial-mode-line/
 Checking out 90056322d6664e2e2b593912e4d5e68f1468cafc
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/celestial-mode-line/
-  to /tmp/celestial-mode-line4zYNdJ/celestial-mode-line-20230323.737
+  to /tmp/celestial-mode-line4gSL5y/celestial-mode-line-20230323.737
     celestial-mode-line.el -> celestial-mode-line.el
 Created celestial-mode-line-20230323.737.tar containing:
   celestial-mode-line-20230323.737/
   celestial-mode-line-20230323.737/celestial-mode-line-pkg.el
   celestial-mode-line-20230323.737/celestial-mode-line.el
  ✓ Success:
-  2025-11-17T00:00:28+0000  celestial-mode-line-20230323.737.entry
-  2025-11-17T00:00:28+0000  celestial-mode-line-20230323.737.tar
-Built celestial-mode-line in 4.030s, finished at 2025-11-17T00:00:29+0000
+  2025-12-01T00:47:32+0000  celestial-mode-line-20230323.737.entry
+  2025-12-01T00:47:32+0000  celestial-mode-line-20230323.737.tar
+Built celestial-mode-line in 3.316s, finished at 2025-12-01T00:47:33+0000

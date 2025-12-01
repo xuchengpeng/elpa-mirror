@@ -1,18 +1,15 @@
-Package: erc-crypt
-Fetcher: github
-Source:  https://github.com/atomontage/erc-crypt
-
+ • Building package erc-crypt (from github:atomontage/erc-crypt)...
 Updating /mnt/store/melpa/working/erc-crypt/
-Checking out aea33aed864dca2866ae951161d15de0b2366e99
+Checking out fc7eb4896310cc274ab7d035a1daf6a2a608a1e1
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/erc-crypt/
-  to /tmp/erc-cryptFsKB2M/erc-crypt-20200516.2054
+  to /tmp/erc-crypti95NgT/erc-crypt-20251128.1224
     erc-crypt.el -> erc-crypt.el
-Created erc-crypt-20200516.2054.tar containing:
-  erc-crypt-20200516.2054/
-  erc-crypt-20200516.2054/erc-crypt-pkg.el
-  erc-crypt-20200516.2054/erc-crypt.el
+Created erc-crypt-20251128.1224.tar containing:
+  erc-crypt-20251128.1224/
+  erc-crypt-20251128.1224/erc-crypt-pkg.el
+  erc-crypt-20251128.1224/erc-crypt.el
  ✓ Success:
-  2025-11-17T00:13:10+0000  erc-crypt-20200516.2054.entry
-  2025-11-17T00:13:10+0000  erc-crypt-20200516.2054.tar
-Built erc-crypt in 3.013s, finished at 2025-11-17T00:13:11+0000
+  2025-12-01T01:00:20+0000  erc-crypt-20251128.1224.entry
+  2025-12-01T01:00:20+0000  erc-crypt-20251128.1224.tar
+Built erc-crypt in 3.262s, finished at 2025-12-01T01:00:21+0000

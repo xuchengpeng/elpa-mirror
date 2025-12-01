@@ -1,12 +1,9 @@
-Package: ddskk
-Fetcher: github
-Source:  https://github.com/skk-dev/ddskk
-
+ • Building package ddskk (from github:skk-dev/ddskk)...
 Updating /mnt/store/melpa/working/ddskk/
 Checking out f81ed803e617ccd8175d4bf57a3062bc5ffe1945
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ddskk/
-  to /tmp/ddskkVmhRqE/ddskk-20241227.2223
+  to /tmp/ddskkCh2nY3/ddskk-20241227.2223
     context-skk.el -> context-skk.el
     ddskk.el -> ddskk.el
     skk-abbrev.el -> skk-abbrev.el
@@ -99,6 +96,6 @@ Created ddskk-20241227.2223.tar containing:
   ddskk-20241227.2223/skk.xpm
   ddskk-20241227.2223/tar-util.el
  ✓ Success:
-  2025-11-17T00:06:54+0000  ddskk-20241227.2223.entry
-  2025-11-17T00:06:54+0000  ddskk-20241227.2223.tar
-Built ddskk in 13.007s, finished at 2025-11-17T00:06:55+0000
+  2025-12-01T00:54:02+0000  ddskk-20241227.2223.entry
+  2025-12-01T00:54:01+0000  ddskk-20241227.2223.tar
+Built ddskk in 13.151s, finished at 2025-12-01T00:54:02+0000

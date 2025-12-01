@@ -1,18 +1,15 @@
-Package: company-rtags
-Fetcher: github
-Source:  https://github.com/Andersbakken/rtags
-
+ • Building package company-rtags (from github:Andersbakken/rtags)...
 Updating /mnt/store/melpa/working/company-rtags/
 Checking out d46dfed0e0f175937658ee642b39db05e2ee1477
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/company-rtags/
-  to /tmp/company-rtagsBJPQYj/company-rtags-20250804.1613
+  to /tmp/company-rtagsKJcGPF/company-rtags-20250804.1613
   ! src/company-rtags.el -> company-rtags.el
 Created company-rtags-20250804.1613.tar containing:
   company-rtags-20250804.1613/
   company-rtags-20250804.1613/company-rtags-pkg.el
   company-rtags-20250804.1613/company-rtags.el
  ✓ Success:
-  2025-11-17T00:03:34+0000  company-rtags-20250804.1613.entry
-  2025-11-17T00:03:34+0000  company-rtags-20250804.1613.tar
-Built company-rtags in 4.106s, finished at 2025-11-17T00:03:35+0000
+  2025-12-01T00:50:22+0000  company-rtags-20250804.1613.entry
+  2025-12-01T00:50:22+0000  company-rtags-20250804.1613.tar
+Built company-rtags in 2.936s, finished at 2025-12-01T00:50:23+0000

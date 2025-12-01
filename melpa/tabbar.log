@@ -1,12 +1,9 @@
-Package: tabbar
-Fetcher: github
-Source:  https://github.com/dholm/tabbar
-
+ • Building package tabbar (from github:dholm/tabbar)...
 Updating /mnt/store/melpa/working/tabbar/
 Checking out 82bbda31cbe8ef367dd6501c3aa14b7f2c835910
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/tabbar/
-  to /tmp/tabbarl6nem1/tabbar-20180726.1735
+  to /tmp/tabbarAfujpo/tabbar-20180726.1735
     tabbar.el -> tabbar.el
     down.png -> down.png
     up.png -> up.png
@@ -17,6 +14,6 @@ Created tabbar-20180726.1735.tar containing:
   tabbar-20180726.1735/tabbar.el
   tabbar-20180726.1735/up.png
  ✓ Success:
-  2025-11-17T01:02:00+0000  tabbar-20180726.1735.entry
-  2025-11-17T01:02:00+0000  tabbar-20180726.1735.tar
-Built tabbar in 2.861s, finished at 2025-11-17T01:02:01+0000
+  2025-12-01T01:49:19+0000  tabbar-20180726.1735.entry
+  2025-12-01T01:49:19+0000  tabbar-20180726.1735.tar
+Built tabbar in 4.180s, finished at 2025-12-01T01:49:20+0000

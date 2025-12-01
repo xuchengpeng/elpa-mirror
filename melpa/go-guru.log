@@ -1,18 +1,15 @@
-Package: go-guru
-Fetcher: github
-Source:  https://github.com/dominikh/go-mode.el
-
+ • Building package go-guru (from github:dominikh/go-mode.el)...
 Updating /mnt/store/melpa/working/go-guru/
 Checking out 6f4ff9ef874d151ed8d297a80f1bf27db5d9dbf0
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/go-guru/
-  to /tmp/go-gurusLpOcB/go-guru-20240210.10
+  to /tmp/go-guruBmb0f9/go-guru-20240210.10
     go-guru.el -> go-guru.el
 Created go-guru-20240210.10.tar containing:
   go-guru-20240210.10/
   go-guru-20240210.10/go-guru-pkg.el
   go-guru-20240210.10/go-guru.el
  ✓ Success:
-  2025-11-17T00:22:29+0000  go-guru-20240210.10.entry
-  2025-11-17T00:22:29+0000  go-guru-20240210.10.tar
-Built go-guru in 3.344s, finished at 2025-11-17T00:22:30+0000
+  2025-12-01T01:09:46+0000  go-guru-20240210.10.entry
+  2025-12-01T01:09:46+0000  go-guru-20240210.10.tar
+Built go-guru in 5.052s, finished at 2025-12-01T01:09:47+0000

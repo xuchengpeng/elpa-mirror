@@ -1,18 +1,15 @@
-Package: form-feed
-Fetcher: git
-Source:  https://depp.brause.cc/form-feed.git
-
+ • Building package form-feed (from https://depp.brause.cc/form-feed.git)...
 Updating /mnt/store/melpa/working/form-feed/
 Checking out 6258fe6390a7bf264a6f02813502bf83a645d872
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/form-feed/
-  to /tmp/form-feedWAasVB/form-feed-20250426.2028
+  to /tmp/form-feedWO5obv/form-feed-20250426.2028
     form-feed.el -> form-feed.el
 Created form-feed-20250426.2028.tar containing:
   form-feed-20250426.2028/
   form-feed-20250426.2028/form-feed-pkg.el
   form-feed-20250426.2028/form-feed.el
  ✓ Success:
-  2025-11-17T00:19:43+0000  form-feed-20250426.2028.entry
-  2025-11-17T00:19:43+0000  form-feed-20250426.2028.tar
-Built form-feed in 3.675s, finished at 2025-11-17T00:19:44+0000
+  2025-12-01T01:07:03+0000  form-feed-20250426.2028.entry
+  2025-12-01T01:07:03+0000  form-feed-20250426.2028.tar
+Built form-feed in 3.749s, finished at 2025-12-01T01:07:04+0000

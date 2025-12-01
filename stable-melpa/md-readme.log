@@ -1,12 +1,9 @@
-Package: md-readme
-Fetcher: github
-Source:  https://github.com/thomas11/md-readme
-
+ • Building package md-readme (from github:thomas11/md-readme)...
 Updating /mnt/store/melpa/working/md-readme/
 Checking out ca99f44de11fab18d1f50d4b1722f2ceee3c814d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/md-readme/
-  to /tmp/md-readmehT8I2I/md-readme-20191112.1943
+  to /tmp/md-readmeBTWF9D/md-readme-20191112.1943
     md-readme.el -> md-readme.el
     bin => bin
 Created md-readme-20191112.1943.tar containing:
@@ -16,6 +13,6 @@ Created md-readme-20191112.1943.tar containing:
   md-readme-20191112.1943/md-readme-pkg.el
   md-readme-20191112.1943/md-readme.el
  ✓ Success:
-  2025-11-17T00:37:03+0000  md-readme-20191112.1943.entry
-  2025-11-17T00:37:03+0000  md-readme-20191112.1943.tar
-Built md-readme in 3.143s, finished at 2025-11-17T00:37:04+0000
+  2025-12-01T01:24:23+0000  md-readme-20191112.1943.entry
+  2025-12-01T01:24:23+0000  md-readme-20191112.1943.tar
+Built md-readme in 2.641s, finished at 2025-12-01T01:24:24+0000

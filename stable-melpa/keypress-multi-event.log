@@ -1,18 +1,15 @@
-Package: keypress-multi-event
-Fetcher: github
-Source:  https://github.com/Boruch-Baum/emacs-keypress-multi-event
-
+ • Building package keypress-multi-event (from github:Boruch-Baum/emacs-keypress-multi-event)...
 Updating /mnt/store/melpa/working/keypress-multi-event/
 Checking out 8c31b75f6ef4d81d5625e91a4130e204bfd02dd3
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/keypress-multi-event/
-  to /tmp/keypress-multi-eventdpKDqc/keypress-multi-event-20250313.1648
+  to /tmp/keypress-multi-eventATtqE8/keypress-multi-event-20250313.1648
     keypress-multi-event.el -> keypress-multi-event.el
 Created keypress-multi-event-20250313.1648.tar containing:
   keypress-multi-event-20250313.1648/
   keypress-multi-event-20250313.1648/keypress-multi-event-pkg.el
   keypress-multi-event-20250313.1648/keypress-multi-event.el
  ✓ Success:
-  2025-11-17T00:32:17+0000  keypress-multi-event-20250313.1648.entry
-  2025-11-17T00:32:17+0000  keypress-multi-event-20250313.1648.tar
-Built keypress-multi-event in 2.757s, finished at 2025-11-17T00:32:18+0000
+  2025-12-01T01:19:27+0000  keypress-multi-event-20250313.1648.entry
+  2025-12-01T01:19:26+0000  keypress-multi-event-20250313.1648.tar
+Built keypress-multi-event in 2.774s, finished at 2025-12-01T01:19:27+0000

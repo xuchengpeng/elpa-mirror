@@ -1,18 +1,15 @@
-Package: dired-collapse
-Fetcher: github
-Source:  https://github.com/Fuco1/dired-hacks
-
+ • Building package dired-collapse (from github:Fuco1/dired-hacks)...
 Updating /mnt/store/melpa/working/dired-collapse/
 Checking out d1a85901c892ba7ec273995070a43cbbbe5d0b37
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/dired-collapse/
-  to /tmp/dired-collapseP5juqj/dired-collapse-20240629.1857
+  to /tmp/dired-collapseDPpDpz/dired-collapse-20240629.1857
     dired-collapse.el -> dired-collapse.el
 Created dired-collapse-20240629.1857.tar containing:
   dired-collapse-20240629.1857/
   dired-collapse-20240629.1857/dired-collapse-pkg.el
   dired-collapse-20240629.1857/dired-collapse.el
  ✓ Success:
-  2025-11-17T00:07:46+0000  dired-collapse-20240629.1857.entry
-  2025-11-17T00:07:46+0000  dired-collapse-20240629.1857.tar
-Built dired-collapse in 2.875s, finished at 2025-11-17T00:07:47+0000
+  2025-12-01T00:54:54+0000  dired-collapse-20240629.1857.entry
+  2025-12-01T00:54:54+0000  dired-collapse-20240629.1857.tar
+Built dired-collapse in 3.206s, finished at 2025-12-01T00:54:55+0000

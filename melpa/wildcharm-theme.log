@@ -1,18 +1,15 @@
-Package: wildcharm-theme
-Fetcher: github
-Source:  https://github.com/habamax/wildcharm-theme
-
+ • Building package wildcharm-theme (from github:habamax/wildcharm-theme)...
 Updating /mnt/store/melpa/working/wildcharm-theme/
 Checking out 58662e13c179106ea7780e71bd3ef3c1cf74e929
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/wildcharm-theme/
-  to /tmp/wildcharm-themeVZEmCe/wildcharm-theme-20231127.537
+  to /tmp/wildcharm-themevglh0T/wildcharm-theme-20231127.537
     wildcharm-theme.el -> wildcharm-theme.el
 Created wildcharm-theme-20231127.537.tar containing:
   wildcharm-theme-20231127.537/
   wildcharm-theme-20231127.537/wildcharm-theme-pkg.el
   wildcharm-theme-20231127.537/wildcharm-theme.el
  ✓ Success:
-  2025-11-17T01:08:12+0000  wildcharm-theme-20231127.537.entry
-  2025-11-17T01:08:12+0000  wildcharm-theme-20231127.537.tar
-Built wildcharm-theme in 2.916s, finished at 2025-11-17T01:08:12+0000
+  2025-12-01T01:55:56+0000  wildcharm-theme-20231127.537.entry
+  2025-12-01T01:55:56+0000  wildcharm-theme-20231127.537.tar
+Built wildcharm-theme in 2.815s, finished at 2025-12-01T01:55:57+0000

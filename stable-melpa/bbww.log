@@ -1,18 +1,15 @@
-Package: bbww
-Fetcher: github
-Source:  https://github.com/natelastname/bbww
-
+ • Building package bbww (from github:natelastname/bbww)...
 Updating /mnt/store/melpa/working/bbww/
 Checking out 9b4430f757e9c7fc7178541009676af1262c486b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/bbww/
-  to /tmp/bbwwgfEfMr/bbww-20230502.2239
+  to /tmp/bbwwhMibDg/bbww-20230502.2239
     bbww.el -> bbww.el
 Created bbww-20230502.2239.tar containing:
   bbww-20230502.2239/
   bbww-20230502.2239/bbww-pkg.el
   bbww-20230502.2239/bbww.el
  ✓ Success:
-  2025-11-16T23:57:29+0000  bbww-20230502.2239.entry
-  2025-11-16T23:57:29+0000  bbww-20230502.2239.tar
-Built bbww in 2.701s, finished at 2025-11-16T23:57:30+0000
+  2025-12-01T00:44:38+0000  bbww-20230502.2239.entry
+  2025-12-01T00:44:38+0000  bbww-20230502.2239.tar
+Built bbww in 2.850s, finished at 2025-12-01T00:44:39+0000

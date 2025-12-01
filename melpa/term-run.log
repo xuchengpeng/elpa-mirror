@@ -1,18 +1,15 @@
-Package: term-run
-Fetcher: github
-Source:  https://github.com/10sr/term-run-el
-
+ • Building package term-run (from github:10sr/term-run-el)...
 Updating /mnt/store/melpa/working/term-run/
 Checking out 0fd135d55fcf864598b1fb8dd880833a1a322910
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/term-run/
-  to /tmp/term-runJAPs5C/term-run-20200128.702
+  to /tmp/term-runUmOnTF/term-run-20200128.702
     term-run.el -> term-run.el
 Created term-run-20200128.702.tar containing:
   term-run-20200128.702/
   term-run-20200128.702/term-run-pkg.el
   term-run-20200128.702/term-run.el
  ✓ Success:
-  2025-11-17T01:02:35+0000  term-run-20200128.702.entry
-  2025-11-17T01:02:35+0000  term-run-20200128.702.tar
-Built term-run in 2.809s, finished at 2025-11-17T01:02:36+0000
+  2025-12-01T01:50:10+0000  term-run-20200128.702.entry
+  2025-12-01T01:50:10+0000  term-run-20200128.702.tar
+Built term-run in 2.912s, finished at 2025-12-01T01:50:11+0000

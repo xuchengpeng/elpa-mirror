@@ -1,12 +1,9 @@
-Package: es-mode
-Fetcher: github
-Source:  https://github.com/dakrone/es-mode
-
+ • Building package es-mode (from github:dakrone/es-mode)...
 Updating /mnt/store/melpa/working/es-mode/
 Checking out e82465fd785688bb58918ea62ca4de06a2a23a1e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/es-mode/
-  to /tmp/es-modetZuVMu/es-mode-20221026.1103
+  to /tmp/es-mode51iCCz/es-mode-20221026.1103
     es-cc.el -> es-cc.el
     es-copyas.el -> es-copyas.el
     es-mode.el -> es-mode.el
@@ -35,6 +32,6 @@ Created es-mode-20221026.1103.tar containing:
   es-mode-20221026.1103/snippets/es-mode/search
   es-mode-20221026.1103/snippets/es-mode/search-match-all
  ✓ Success:
-  2025-11-17T00:13:33+0000  es-mode-20221026.1103.entry
-  2025-11-17T00:13:33+0000  es-mode-20221026.1103.tar
-Built es-mode in 2.854s, finished at 2025-11-17T00:13:34+0000
+  2025-12-01T01:00:46+0000  es-mode-20221026.1103.entry
+  2025-12-01T01:00:45+0000  es-mode-20221026.1103.tar
+Built es-mode in 2.885s, finished at 2025-12-01T01:00:46+0000

@@ -1,18 +1,15 @@
-Package: inherit-local
-Fetcher: github
-Source:  https://github.com/shlevy/inherit-local
-
+ • Building package inherit-local (from github:shlevy/inherit-local)...
 Updating /mnt/store/melpa/working/inherit-local/
 Checking out b1f4ff9c41f9d64e4adaf5adcc280b82f084cdc7
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/inherit-local/
-  to /tmp/inherit-localwo9uf1/inherit-local-20170409.1649
+  to /tmp/inherit-localZwQ8JT/inherit-local-20170409.1649
     inherit-local.el -> inherit-local.el
 Created inherit-local-20170409.1649.tar containing:
   inherit-local-20170409.1649/
   inherit-local-20170409.1649/inherit-local-pkg.el
   inherit-local-20170409.1649/inherit-local.el
  ✓ Success:
-  2025-11-17T00:29:10+0000  inherit-local-20170409.1649.entry
-  2025-11-17T00:29:10+0000  inherit-local-20170409.1649.tar
-Built inherit-local in 2.774s, finished at 2025-11-17T00:29:11+0000
+  2025-12-01T01:16:19+0000  inherit-local-20170409.1649.entry
+  2025-12-01T01:16:19+0000  inherit-local-20170409.1649.tar
+Built inherit-local in 3.070s, finished at 2025-12-01T01:16:20+0000

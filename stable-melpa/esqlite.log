@@ -1,18 +1,15 @@
-Package: esqlite
-Fetcher: github
-Source:  https://github.com/mhayashi1120/Emacs-esqlite
-
+ • Building package esqlite (from github:mhayashi1120/Emacs-esqlite)...
 Updating /mnt/store/melpa/working/esqlite/
 Checking out fae9826cbc255b0f0686a801288f1441bda5f631
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/esqlite/
-  to /tmp/esqliteTl92SA/esqlite-20151206.1206
+  to /tmp/esqliteMw9OEs/esqlite-20151206.1206
     esqlite.el -> esqlite.el
 Created esqlite-20151206.1206.tar containing:
   esqlite-20151206.1206/
   esqlite-20151206.1206/esqlite-pkg.el
   esqlite-20151206.1206/esqlite.el
  ✓ Success:
-  2025-11-17T00:13:56+0000  esqlite-20151206.1206.entry
-  2025-11-17T00:13:56+0000  esqlite-20151206.1206.tar
-Built esqlite in 2.649s, finished at 2025-11-17T00:13:57+0000
+  2025-12-01T01:01:09+0000  esqlite-20151206.1206.entry
+  2025-12-01T01:01:09+0000  esqlite-20151206.1206.tar
+Built esqlite in 2.970s, finished at 2025-12-01T01:01:10+0000

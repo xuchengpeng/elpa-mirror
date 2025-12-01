@@ -1,18 +1,15 @@
-Package: evil-iedit-state
-Fetcher: github
-Source:  https://github.com/syl20bnr/evil-iedit-state
-
+ • Building package evil-iedit-state (from github:syl20bnr/evil-iedit-state)...
 Updating /mnt/store/melpa/working/evil-iedit-state/
 Checking out 44c64c71692e5b2f608ad3e3c537ec0a0e0ea0f8
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/evil-iedit-state/
-  to /tmp/evil-iedit-state6uoJOT/evil-iedit-state-20220219.1432
+  to /tmp/evil-iedit-stateVr4Vay/evil-iedit-state-20220219.1432
     evil-iedit-state.el -> evil-iedit-state.el
 Created evil-iedit-state-20220219.1432.tar containing:
   evil-iedit-state-20220219.1432/
   evil-iedit-state-20220219.1432/evil-iedit-state-pkg.el
   evil-iedit-state-20220219.1432/evil-iedit-state.el
  ✓ Success:
-  2025-11-17T00:14:35+0000  evil-iedit-state-20220219.1432.entry
-  2025-11-17T00:14:35+0000  evil-iedit-state-20220219.1432.tar
-Built evil-iedit-state in 2.923s, finished at 2025-11-17T00:14:36+0000
+  2025-12-01T01:01:52+0000  evil-iedit-state-20220219.1432.entry
+  2025-12-01T01:01:52+0000  evil-iedit-state-20220219.1432.tar
+Built evil-iedit-state in 3.101s, finished at 2025-12-01T01:01:53+0000

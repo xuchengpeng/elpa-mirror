@@ -1,18 +1,15 @@
-Package: salesforce-utils
-Fetcher: github
-Source:  https://github.com/grimnebulin/emacs-salesforce
-
+ • Building package salesforce-utils (from github:grimnebulin/emacs-salesforce)...
 Updating /mnt/store/melpa/working/salesforce-utils/
 Checking out 73328baf0fb94ac0d0de645a8f6d42e5ae27f773
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/salesforce-utils/
-  to /tmp/salesforce-utilsNwrL0s/salesforce-utils-20160814.154
+  to /tmp/salesforce-utilsNl8UbS/salesforce-utils-20160814.154
     salesforce-utils.el -> salesforce-utils.el
 Created salesforce-utils-20160814.154.tar containing:
   salesforce-utils-20160814.154/
   salesforce-utils-20160814.154/salesforce-utils-pkg.el
   salesforce-utils-20160814.154/salesforce-utils.el
  ✓ Success:
-  2025-11-17T00:55:57+0000  salesforce-utils-20160814.154.entry
-  2025-11-17T00:55:57+0000  salesforce-utils-20160814.154.tar
-Built salesforce-utils in 4.089s, finished at 2025-11-17T00:55:58+0000
+  2025-12-01T01:43:20+0000  salesforce-utils-20160814.154.entry
+  2025-12-01T01:43:20+0000  salesforce-utils-20160814.154.tar
+Built salesforce-utils in 2.877s, finished at 2025-12-01T01:43:21+0000

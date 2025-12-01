@@ -1,24 +1,27 @@
-Package: gams-mode
-Fetcher: github
-Source:  https://github.com/ShiroTakeda/gams-mode
-
+ • Building package gams-mode (from github:ShiroTakeda/gams-mode)...
 Updating /mnt/store/melpa/working/gams-mode/
-Checking out 369c4364c8193bd6fe36750a736b5b81cf8886c8
+Checking out dfab98a2ef847bae4bc3ae3abdf638355efd73db
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/gams-mode/
-  to /tmp/gams-modeDAG6JT/gams-mode-20251101.1527
+  to /tmp/gams-modeXc6mO8/gams-mode-20251124.1517
     gams-mode.el -> gams-mode.el
+    gams-install.el -> gams-install.el
     gams-logo.xpm -> gams-logo.xpm
     gams-commands.txt -> gams-commands.txt
     gams-commands-dollar.txt -> gams-commands-dollar.txt
-Created gams-mode-20251101.1527.tar containing:
-  gams-mode-20251101.1527/
-  gams-mode-20251101.1527/gams-commands-dollar.txt
-  gams-mode-20251101.1527/gams-commands.txt
-  gams-mode-20251101.1527/gams-logo.xpm
-  gams-mode-20251101.1527/gams-mode-pkg.el
-  gams-mode-20251101.1527/gams-mode.el
+    gams_install.ps1 -> gams_install.ps1
+    gams_install.sh -> gams_install.sh
+Created gams-mode-20251124.1517.tar containing:
+  gams-mode-20251124.1517/
+  gams-mode-20251124.1517/gams-commands-dollar.txt
+  gams-mode-20251124.1517/gams-commands.txt
+  gams-mode-20251124.1517/gams-install.el
+  gams-mode-20251124.1517/gams-logo.xpm
+  gams-mode-20251124.1517/gams-mode-pkg.el
+  gams-mode-20251124.1517/gams-mode.el
+  gams-mode-20251124.1517/gams_install.ps1
+  gams-mode-20251124.1517/gams_install.sh
  ✓ Success:
-  2025-11-17T00:20:23+0000  gams-mode-20251101.1527.entry
-  2025-11-17T00:20:23+0000  gams-mode-20251101.1527.tar
-Built gams-mode in 3.673s, finished at 2025-11-17T00:20:24+0000
+  2025-12-01T01:07:45+0000  gams-mode-20251124.1517.entry
+  2025-12-01T01:07:45+0000  gams-mode-20251124.1517.tar
+Built gams-mode in 3.892s, finished at 2025-12-01T01:07:46+0000

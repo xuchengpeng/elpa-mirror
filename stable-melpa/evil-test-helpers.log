@@ -1,18 +1,15 @@
-Package: evil-test-helpers
-Fetcher: github
-Source:  https://github.com/emacs-evil/evil
-
+ • Building package evil-test-helpers (from github:emacs-evil/evil)...
 Updating /mnt/store/melpa/working/evil-test-helpers/
 Checking out 4beec94d14fc4180c41314edff997dbb9c422a23
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/evil-test-helpers/
-  to /tmp/evil-test-helpersIPf1Wp/evil-test-helpers-20230820.2246
+  to /tmp/evil-test-helpersn7pvwd/evil-test-helpers-20230820.2246
     evil-test-helpers.el -> evil-test-helpers.el
 Created evil-test-helpers-20230820.2246.tar containing:
   evil-test-helpers-20230820.2246/
   evil-test-helpers-20230820.2246/evil-test-helpers-pkg.el
   evil-test-helpers-20230820.2246/evil-test-helpers.el
  ✓ Success:
-  2025-11-17T00:15:07+0000  evil-test-helpers-20230820.2246.entry
-  2025-11-17T00:15:07+0000  evil-test-helpers-20230820.2246.tar
-Built evil-test-helpers in 3.802s, finished at 2025-11-17T00:15:07+0000
+  2025-12-01T01:02:23+0000  evil-test-helpers-20230820.2246.entry
+  2025-12-01T01:02:23+0000  evil-test-helpers-20230820.2246.tar
+Built evil-test-helpers in 3.778s, finished at 2025-12-01T01:02:24+0000

@@ -1,18 +1,15 @@
-Package: s
-Fetcher: github
-Source:  https://github.com/magnars/s.el
-
+ • Building package s (from github:magnars/s.el)...
 Updating /mnt/store/melpa/working/s/
 Checking out b4b8c03fcef316a27f75633fe4bb990aeff6e705
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/s/
-  to /tmp/swTJAOw/s-20220902.1511
+  to /tmp/sGTEuiH/s-20220902.1511
     s.el -> s.el
 Created s-20220902.1511.tar containing:
   s-20220902.1511/
   s-20220902.1511/s-pkg.el
   s-20220902.1511/s.el
  ✓ Success:
-  2025-11-17T00:55:49+0000  s-20220902.1511.entry
-  2025-11-17T00:55:49+0000  s-20220902.1511.tar
-Built s in 5.199s, finished at 2025-11-17T00:55:51+0000
+  2025-12-01T01:43:16+0000  s-20220902.1511.entry
+  2025-12-01T01:43:16+0000  s-20220902.1511.tar
+Built s in 3.416s, finished at 2025-12-01T01:43:17+0000

@@ -1,18 +1,15 @@
-Package: windsize
-Fetcher: github
-Source:  https://github.com/grammati/windsize
-
+ • Building package windsize (from github:grammati/windsize)...
 Updating /mnt/store/melpa/working/windsize/
 Checking out 62c2846bbe95b0a73e996c75e4a644d05f57aaaa
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/windsize/
-  to /tmp/windsizePCKtw3/windsize-20181029.2257
+  to /tmp/windsize4yIhEH/windsize-20181029.2257
     windsize.el -> windsize.el
 Created windsize-20181029.2257.tar containing:
   windsize-20181029.2257/
   windsize-20181029.2257/windsize-pkg.el
   windsize-20181029.2257/windsize.el
  ✓ Success:
-  2025-11-17T01:08:19+0000  windsize-20181029.2257.entry
-  2025-11-17T01:08:19+0000  windsize-20181029.2257.tar
-Built windsize in 2.870s, finished at 2025-11-17T01:08:19+0000
+  2025-12-01T01:56:04+0000  windsize-20181029.2257.entry
+  2025-12-01T01:56:04+0000  windsize-20181029.2257.tar
+Built windsize in 2.961s, finished at 2025-12-01T01:56:05+0000

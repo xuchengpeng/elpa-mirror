@@ -1,18 +1,15 @@
-Package: dropbox
-Fetcher: github
-Source:  https://github.com/pavpanchekha/dropbox.el
-
+ • Building package dropbox (from github:pavpanchekha/dropbox.el)...
 Updating /mnt/store/melpa/working/dropbox/
 Checking out c048faad0be24e8fa31974f08b710a87cf5b668c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/dropbox/
-  to /tmp/dropboxAccxco/dropbox-20220314.1638
+  to /tmp/dropboxpb8XIY/dropbox-20220314.1638
     dropbox.el -> dropbox.el
 Created dropbox-20220314.1638.tar containing:
   dropbox-20220314.1638/
   dropbox-20220314.1638/dropbox-pkg.el
   dropbox-20220314.1638/dropbox.el
  ✓ Success:
-  2025-11-17T00:09:16+0000  dropbox-20220314.1638.entry
-  2025-11-17T00:09:16+0000  dropbox-20220314.1638.tar
-Built dropbox in 2.766s, finished at 2025-11-17T00:09:16+0000
+  2025-12-01T00:56:24+0000  dropbox-20220314.1638.entry
+  2025-12-01T00:56:24+0000  dropbox-20220314.1638.tar
+Built dropbox in 2.796s, finished at 2025-12-01T00:56:25+0000

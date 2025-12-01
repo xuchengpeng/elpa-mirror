@@ -1,18 +1,15 @@
-Package: go-imenu
-Fetcher: github
-Source:  https://github.com/brantou/go-imenu.el
-
+ • Building package go-imenu (from github:brantou/go-imenu.el)...
 Updating /mnt/store/melpa/working/go-imenu/
 Checking out 00bb69c1c71453f43ab2d6622a74e3c8e6b454b9
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/go-imenu/
-  to /tmp/go-imenuwNUSmq/go-imenu-20181029.1029
+  to /tmp/go-imenuFFGZsA/go-imenu-20181029.1029
     go-imenu.el -> go-imenu.el
 Created go-imenu-20181029.1029.tar containing:
   go-imenu-20181029.1029/
   go-imenu-20181029.1029/go-imenu-pkg.el
   go-imenu-20181029.1029/go-imenu.el
  ✓ Success:
-  2025-11-17T00:22:28+0000  go-imenu-20181029.1029.entry
-  2025-11-17T00:22:28+0000  go-imenu-20181029.1029.tar
-Built go-imenu in 2.849s, finished at 2025-11-17T00:22:29+0000
+  2025-12-01T01:09:46+0000  go-imenu-20181029.1029.entry
+  2025-12-01T01:09:46+0000  go-imenu-20181029.1029.tar
+Built go-imenu in 4.331s, finished at 2025-12-01T01:09:47+0000

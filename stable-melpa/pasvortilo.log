@@ -1,18 +1,15 @@
-Package: pasvortilo
-Fetcher: codeberg
-Source:  https://codeberg.org/mester/pasvortilo
-
+ • Building package pasvortilo (from codeberg:mester/pasvortilo)...
 Updating /mnt/store/melpa/working/pasvortilo/
 Checking out 04167f479ab38d6de61544abd84d409747b6f802
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/pasvortilo/
-  to /tmp/pasvortilogcwDze/pasvortilo-20250803.1944
+  to /tmp/pasvortilondeGps/pasvortilo-20250803.1944
     pasvortilo.el -> pasvortilo.el
 Created pasvortilo-20250803.1944.tar containing:
   pasvortilo-20250803.1944/
   pasvortilo-20250803.1944/pasvortilo-pkg.el
   pasvortilo-20250803.1944/pasvortilo.el
  ✓ Success:
-  2025-11-17T00:48:23+0000  pasvortilo-20250803.1944.entry
-  2025-11-17T00:48:23+0000  pasvortilo-20250803.1944.tar
-Built pasvortilo in 4.151s, finished at 2025-11-17T00:48:24+0000
+  2025-12-01T01:35:49+0000  pasvortilo-20250803.1944.entry
+  2025-12-01T01:35:49+0000  pasvortilo-20250803.1944.tar
+Built pasvortilo in 4.246s, finished at 2025-12-01T01:35:50+0000

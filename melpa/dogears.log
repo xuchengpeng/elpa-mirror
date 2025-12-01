@@ -1,18 +1,15 @@
-Package: dogears
-Fetcher: github
-Source:  https://github.com/alphapapa/dogears.el
-
+ • Building package dogears (from github:alphapapa/dogears.el)...
 Updating /mnt/store/melpa/working/dogears/
 Checking out 162671e66cac601f1cfd5d22f7da2671af2e9866
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/dogears/
-  to /tmp/dogearsf73qpS/dogears-20240412.850
+  to /tmp/dogearslRuXjk/dogears-20240412.850
     dogears.el -> dogears.el
 Created dogears-20240412.850.tar containing:
   dogears-20240412.850/
   dogears-20240412.850/dogears-pkg.el
   dogears-20240412.850/dogears.el
  ✓ Success:
-  2025-11-17T00:08:55+0000  dogears-20240412.850.entry
-  2025-11-17T00:08:55+0000  dogears-20240412.850.tar
-Built dogears in 3.211s, finished at 2025-11-17T00:08:56+0000
+  2025-12-01T00:56:04+0000  dogears-20240412.850.entry
+  2025-12-01T00:56:04+0000  dogears-20240412.850.tar
+Built dogears in 3.431s, finished at 2025-12-01T00:56:05+0000

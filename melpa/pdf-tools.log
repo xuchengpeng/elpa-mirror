@@ -1,12 +1,9 @@
-Package: pdf-tools
-Fetcher: github
-Source:  https://github.com/vedang/pdf-tools
-
+ • Building package pdf-tools (from github:vedang/pdf-tools)...
 Updating /mnt/store/melpa/working/pdf-tools/
 Checking out 30b50544e55b8dbf683c2d932d5c33ac73323a16
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/pdf-tools/
-  to /tmp/pdf-toolsj8vEki/pdf-tools-20240429.407
+  to /tmp/pdf-toolssubFAV/pdf-tools-20240429.407
   ! lisp/pdf-annot.el -> pdf-annot.el
   ! lisp/pdf-cache.el -> pdf-cache.el
   ! lisp/pdf-dev.el -> pdf-dev.el
@@ -102,6 +99,6 @@ Created pdf-tools-20240429.407.tar containing:
   pdf-tools-20240429.407/pdf-view.el
   pdf-tools-20240429.407/pdf-virtual.el
  ✓ Success:
-  2025-11-17T00:48:38+0000  pdf-tools-20240429.407.entry
-  2025-11-17T00:48:38+0000  pdf-tools-20240429.407.tar
-Built pdf-tools in 3.910s, finished at 2025-11-17T00:48:39+0000
+  2025-12-01T01:36:04+0000  pdf-tools-20240429.407.entry
+  2025-12-01T01:36:04+0000  pdf-tools-20240429.407.tar
+Built pdf-tools in 4.302s, finished at 2025-12-01T01:36:05+0000

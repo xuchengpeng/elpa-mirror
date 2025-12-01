@@ -1,18 +1,15 @@
-Package: company-ipa
-Fetcher: gitlab
-Source:  https://gitlab.com/mguzmann89/company-ipa
-
+ • Building package company-ipa (from gitlab:mguzmann89/company-ipa)...
 Updating /mnt/store/melpa/working/company-ipa/
 Checking out 8634021cac885f53f3274ef6dcce7eab19321046
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/company-ipa/
-  to /tmp/company-iparKmqXa/company-ipa-20210307.1838
+  to /tmp/company-ipaESr2vx/company-ipa-20210307.1838
     company-ipa.el -> company-ipa.el
 Created company-ipa-20210307.1838.tar containing:
   company-ipa-20210307.1838/
   company-ipa-20210307.1838/company-ipa-pkg.el
   company-ipa-20210307.1838/company-ipa.el
  ✓ Success:
-  2025-11-17T00:03:14+0000  company-ipa-20210307.1838.entry
-  2025-11-17T00:03:14+0000  company-ipa-20210307.1838.tar
-Built company-ipa in 4.029s, finished at 2025-11-17T00:03:15+0000
+  2025-12-01T00:50:04+0000  company-ipa-20210307.1838.entry
+  2025-12-01T00:50:04+0000  company-ipa-20210307.1838.tar
+Built company-ipa in 4.392s, finished at 2025-12-01T00:50:05+0000

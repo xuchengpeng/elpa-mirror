@@ -1,12 +1,9 @@
-Package: shen-elisp
-Fetcher: github
-Source:  https://github.com/deech/shen-elisp
-
+ • Building package shen-elisp (from github:deech/shen-elisp)...
 Updating /mnt/store/melpa/working/shen-elisp/
 Checking out 957ab44654fc7a7cc1b78181d244fa25166f9b09
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/shen-elisp/
-  to /tmp/shen-elispwoYJRF/shen-elisp-20221211.1313
+  to /tmp/shen-elispsOa8F8/shen-elisp-20221211.1313
     shen-elisp-pkg.el -> shen-elisp-pkg.el
     shen-elisp.el -> shen-elisp.el
     shen-overlays.el -> shen-overlays.el
@@ -20,6 +17,6 @@ Created shen-elisp-20221211.1313.tar containing:
   shen-elisp-20221211.1313/shen-primitives.el
   shen-elisp-20221211.1313/shen-repl.el
  ✓ Success:
-  2025-11-17T00:57:34+0000  shen-elisp-20221211.1313.entry
-  2025-11-17T00:57:34+0000  shen-elisp-20221211.1313.tar
-Built shen-elisp in 3.324s, finished at 2025-11-17T00:57:35+0000
+  2025-12-01T01:45:01+0000  shen-elisp-20221211.1313.entry
+  2025-12-01T01:45:01+0000  shen-elisp-20221211.1313.tar
+Built shen-elisp in 3.398s, finished at 2025-12-01T01:45:02+0000

@@ -1,22 +1,19 @@
-Package: dune
-Fetcher: github
-Source:  https://github.com/ocaml/dune
-
+ • Building package dune (from github:ocaml/dune)...
 Updating /mnt/store/melpa/working/dune/
-Checking out 5554158af27ead066fbb3c009e780c930958613c
+Checking out 1e54fd3f450aae7fb41ffb6b7c8b7a5aed754777
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/dune/
-  to /tmp/dunemtJz4C/dune-20240427.1346
+  to /tmp/dunet2WHFw/dune-20250903.1130
   ! editor-integration/emacs/dune-flymake.el -> dune-flymake.el
   ! editor-integration/emacs/dune-watch.el -> dune-watch.el
   ! editor-integration/emacs/dune.el -> dune.el
-Created dune-20240427.1346.tar containing:
-  dune-20240427.1346/
-  dune-20240427.1346/dune-flymake.el
-  dune-20240427.1346/dune-pkg.el
-  dune-20240427.1346/dune-watch.el
-  dune-20240427.1346/dune.el
+Created dune-20250903.1130.tar containing:
+  dune-20250903.1130/
+  dune-20250903.1130/dune-flymake.el
+  dune-20250903.1130/dune-pkg.el
+  dune-20250903.1130/dune-watch.el
+  dune-20250903.1130/dune.el
  ✓ Success:
-  2025-11-17T00:09:31+0000  dune-20240427.1346.entry
-  2025-11-17T00:09:31+0000  dune-20240427.1346.tar
-Built dune in 7.756s, finished at 2025-11-17T00:09:32+0000
+  2025-12-01T00:56:40+0000  dune-20250903.1130.entry
+  2025-12-01T00:56:40+0000  dune-20250903.1130.tar
+Built dune in 6.793s, finished at 2025-12-01T00:56:41+0000

@@ -1,12 +1,9 @@
-Package: stan-snippets
-Fetcher: github
-Source:  https://github.com/stan-dev/stan-mode
-
+ • Building package stan-snippets (from github:stan-dev/stan-mode)...
 Updating /mnt/store/melpa/working/stan-snippets/
 Checking out 150bbbe5fd3ad2b5a3dbfba9d291e66eeea1a581
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/stan-snippets/
-  to /tmp/stan-snippetspnd9Rx/stan-snippets-20211129.2051
+  to /tmp/stan-snippetsGKnU3w/stan-snippets-20211129.2051
   ! stan-snippets/stan-snippets.el -> stan-snippets.el
   ! stan-snippets/snippets/stan-mode/.yas-make-groups -> snippets/stan-mode/.yas-make-groups
   ! stan-snippets/snippets/stan-mode/.yas-parents -> snippets/stan-mode/.yas-parents
@@ -568,6 +565,6 @@ Created stan-snippets-20211129.2051.tar containing:
   stan-snippets-20211129.2051/stan-snippets-pkg.el
   stan-snippets-20211129.2051/stan-snippets.el
  ✓ Success:
-  2025-11-17T01:00:19+0000  stan-snippets-20211129.2051.entry
-  2025-11-17T01:00:18+0000  stan-snippets-20211129.2051.tar
-Built stan-snippets in 4.551s, finished at 2025-11-17T01:00:20+0000
+  2025-12-01T01:47:51+0000  stan-snippets-20211129.2051.entry
+  2025-12-01T01:47:50+0000  stan-snippets-20211129.2051.tar
+Built stan-snippets in 4.453s, finished at 2025-12-01T01:47:52+0000

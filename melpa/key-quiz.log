@@ -1,18 +1,15 @@
-Package: key-quiz
-Fetcher: github
-Source:  https://github.com/federicotdn/key-quiz
-
+ • Building package key-quiz (from github:federicotdn/key-quiz)...
 Updating /mnt/store/melpa/working/key-quiz/
 Checking out 1ee67f3f8977d95785e021f7896685de1979137e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/key-quiz/
-  to /tmp/key-quizNktgWZ/key-quiz-20200226.2129
+  to /tmp/key-quiz7OiPOQ/key-quiz-20200226.2129
     key-quiz.el -> key-quiz.el
 Created key-quiz-20200226.2129.tar containing:
   key-quiz-20200226.2129/
   key-quiz-20200226.2129/key-quiz-pkg.el
   key-quiz-20200226.2129/key-quiz.el
  ✓ Success:
-  2025-11-17T00:32:13+0000  key-quiz-20200226.2129.entry
-  2025-11-17T00:32:13+0000  key-quiz-20200226.2129.tar
-Built key-quiz in 2.863s, finished at 2025-11-17T00:32:14+0000
+  2025-12-01T01:19:21+0000  key-quiz-20200226.2129.entry
+  2025-12-01T01:19:21+0000  key-quiz-20200226.2129.tar
+Built key-quiz in 2.845s, finished at 2025-12-01T01:19:22+0000

@@ -1,18 +1,15 @@
-Package: org-recur
-Fetcher: github
-Source:  https://github.com/mrcnski/org-recur
-
+ • Building package org-recur (from github:mrcnski/org-recur)...
 Updating /mnt/store/melpa/working/org-recur/
 Checking out 628099883a63d219f76cd9631cc914fe6ec8a3e3
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/org-recur/
-  to /tmp/org-recurcMYsfb/org-recur-20230124.1532
+  to /tmp/org-recurMGSSk7/org-recur-20230124.1532
     org-recur.el -> org-recur.el
 Created org-recur-20230124.1532.tar containing:
   org-recur-20230124.1532/
   org-recur-20230124.1532/org-recur-pkg.el
   org-recur-20230124.1532/org-recur.el
  ✓ Success:
-  2025-11-17T00:45:30+0000  org-recur-20230124.1532.entry
-  2025-11-17T00:45:30+0000  org-recur-20230124.1532.tar
-Built org-recur in 2.716s, finished at 2025-11-17T00:45:31+0000
+  2025-12-01T01:32:55+0000  org-recur-20230124.1532.entry
+  2025-12-01T01:32:55+0000  org-recur-20230124.1532.tar
+Built org-recur in 3.088s, finished at 2025-12-01T01:32:56+0000

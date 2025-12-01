@@ -1,18 +1,15 @@
-Package: portage-modes
-Fetcher: github
-Source:  https://github.com/OpenSauce04/portage-modes
-
+ • Building package portage-modes (from github:OpenSauce04/portage-modes)...
 Updating /mnt/store/melpa/working/portage-modes/
 Checking out 10ac263d717ec771e79fdfc1309ea822ec4ba501
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/portage-modes/
-  to /tmp/portage-modesrg376l/portage-modes-20250207.1057
+  to /tmp/portage-modesqwAVyK/portage-modes-20250207.1057
     portage-modes.el -> portage-modes.el
 Created portage-modes-20250207.1057.tar containing:
   portage-modes-20250207.1057/
   portage-modes-20250207.1057/portage-modes-pkg.el
   portage-modes-20250207.1057/portage-modes.el
  ✓ Success:
-  2025-11-17T00:50:48+0000  portage-modes-20250207.1057.entry
-  2025-11-17T00:50:48+0000  portage-modes-20250207.1057.tar
-Built portage-modes in 2.810s, finished at 2025-11-17T00:50:49+0000
+  2025-12-01T01:38:11+0000  portage-modes-20250207.1057.entry
+  2025-12-01T01:38:11+0000  portage-modes-20250207.1057.tar
+Built portage-modes in 4.558s, finished at 2025-12-01T01:38:13+0000

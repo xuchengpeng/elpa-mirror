@@ -1,18 +1,15 @@
-Package: key-combo
-Fetcher: github
-Source:  https://github.com/uk-ar/key-combo
-
+ • Building package key-combo (from github:uk-ar/key-combo)...
 Updating /mnt/store/melpa/working/key-combo/
 Checking out 16fb73522d53547ef38f3710aff7c0b01005d576
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/key-combo/
-  to /tmp/key-comboTbWf9W/key-combo-20230323.829
+  to /tmp/key-comboYekK4J/key-combo-20230323.829
     key-combo.el -> key-combo.el
 Created key-combo-20230323.829.tar containing:
   key-combo-20230323.829/
   key-combo-20230323.829/key-combo-pkg.el
   key-combo-20230323.829/key-combo.el
  ✓ Success:
-  2025-11-17T00:32:12+0000  key-combo-20230323.829.entry
-  2025-11-17T00:32:12+0000  key-combo-20230323.829.tar
-Built key-combo in 2.911s, finished at 2025-11-17T00:32:13+0000
+  2025-12-01T01:19:16+0000  key-combo-20230323.829.entry
+  2025-12-01T01:19:16+0000  key-combo-20230323.829.tar
+Built key-combo in 3.161s, finished at 2025-12-01T01:19:17+0000

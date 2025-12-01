@@ -1,18 +1,15 @@
-Package: peep-dired
-Fetcher: github
-Source:  https://github.com/asok/peep-dired
-
+ • Building package peep-dired (from github:asok/peep-dired)...
 Updating /mnt/store/melpa/working/peep-dired/
 Checking out 12d7e52cd5ae29fd828db0bf1fbf648020077145
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/peep-dired/
-  to /tmp/peep-diredM7R3Yd/peep-dired-20160321.2237
+  to /tmp/peep-diredbVWmhW/peep-dired-20160321.2237
     peep-dired.el -> peep-dired.el
 Created peep-dired-20160321.2237.tar containing:
   peep-dired-20160321.2237/
   peep-dired-20160321.2237/peep-dired-pkg.el
   peep-dired-20160321.2237/peep-dired.el
  ✓ Success:
-  2025-11-17T00:48:42+0000  peep-dired-20160321.2237.entry
-  2025-11-17T00:48:42+0000  peep-dired-20160321.2237.tar
-Built peep-dired in 2.719s, finished at 2025-11-17T00:48:43+0000
+  2025-12-01T01:36:08+0000  peep-dired-20160321.2237.entry
+  2025-12-01T01:36:08+0000  peep-dired-20160321.2237.tar
+Built peep-dired in 2.704s, finished at 2025-12-01T01:36:09+0000

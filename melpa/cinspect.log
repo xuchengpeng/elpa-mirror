@@ -1,18 +1,15 @@
-Package: cinspect
-Fetcher: github
-Source:  https://github.com/inlinestyle/cinspect-mode
-
+ • Building package cinspect (from github:inlinestyle/cinspect-mode)...
 Updating /mnt/store/melpa/working/cinspect/
 Checking out 4e199a90f89b335cccda1518aa0963e0a1d4fbab
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/cinspect/
-  to /tmp/cinspectB7xH6p/cinspect-20150716.233
+  to /tmp/cinspect1IH92w/cinspect-20150716.233
     cinspect.el -> cinspect.el
 Created cinspect-20150716.233.tar containing:
   cinspect-20150716.233/
   cinspect-20150716.233/cinspect-pkg.el
   cinspect-20150716.233/cinspect.el
  ✓ Success:
-  2025-11-17T00:01:17+0000  cinspect-20150716.233.entry
-  2025-11-17T00:01:17+0000  cinspect-20150716.233.tar
-Built cinspect in 3.036s, finished at 2025-11-17T00:01:18+0000
+  2025-12-01T00:48:15+0000  cinspect-20150716.233.entry
+  2025-12-01T00:48:15+0000  cinspect-20150716.233.tar
+Built cinspect in 2.850s, finished at 2025-12-01T00:48:16+0000

@@ -1,18 +1,15 @@
-Package: battle-haxe
-Fetcher: github
-Source:  https://github.com/AlonTzarafi/battle-haxe
-
+ • Building package battle-haxe (from github:AlonTzarafi/battle-haxe)...
 Updating /mnt/store/melpa/working/battle-haxe/
 Checking out 2f32c81dcecfc68fd410cb9d2aca303d6e3028c7
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/battle-haxe/
-  to /tmp/battle-haxeNvGFCc/battle-haxe-20210219.354
+  to /tmp/battle-haxeouFANa/battle-haxe-20210219.354
     battle-haxe.el -> battle-haxe.el
 Created battle-haxe-20210219.354.tar containing:
   battle-haxe-20210219.354/
   battle-haxe-20210219.354/battle-haxe-pkg.el
   battle-haxe-20210219.354/battle-haxe.el
  ✓ Success:
-  2025-11-16T23:57:24+0000  battle-haxe-20210219.354.entry
-  2025-11-16T23:57:24+0000  battle-haxe-20210219.354.tar
-Built battle-haxe in 3.317s, finished at 2025-11-16T23:57:25+0000
+  2025-12-01T00:44:32+0000  battle-haxe-20210219.354.entry
+  2025-12-01T00:44:32+0000  battle-haxe-20210219.354.tar
+Built battle-haxe in 3.360s, finished at 2025-12-01T00:44:33+0000

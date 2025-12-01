@@ -1,18 +1,15 @@
-Package: insta-pocket
-Fetcher: github
-Source:  https://github.com/thanhvg/emacs-insta-pocket
-
+ • Building package insta-pocket (from github:thanhvg/emacs-insta-pocket)...
 Updating /mnt/store/melpa/working/insta-pocket/
 Checking out 33a735c3c5060b5e322aa4eb4e24665c01c3ba4b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/insta-pocket/
-  to /tmp/insta-pocketMJG4jl/insta-pocket-20250921.2201
+  to /tmp/insta-pocketLb70PW/insta-pocket-20250921.2201
     insta-pocket.el -> insta-pocket.el
 Created insta-pocket-20250921.2201.tar containing:
   insta-pocket-20250921.2201/
   insta-pocket-20250921.2201/insta-pocket-pkg.el
   insta-pocket-20250921.2201/insta-pocket.el
  ✓ Success:
-  2025-11-17T00:29:25+0000  insta-pocket-20250921.2201.entry
-  2025-11-17T00:29:25+0000  insta-pocket-20250921.2201.tar
-Built insta-pocket in 2.640s, finished at 2025-11-17T00:29:26+0000
+  2025-12-01T01:16:34+0000  insta-pocket-20250921.2201.entry
+  2025-12-01T01:16:34+0000  insta-pocket-20250921.2201.tar
+Built insta-pocket in 2.788s, finished at 2025-12-01T01:16:35+0000

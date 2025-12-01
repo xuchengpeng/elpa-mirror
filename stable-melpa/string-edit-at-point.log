@@ -1,18 +1,15 @@
-Package: string-edit-at-point
-Fetcher: github
-Source:  https://github.com/magnars/string-edit.el
-
+ • Building package string-edit-at-point (from github:magnars/string-edit.el)...
 Updating /mnt/store/melpa/working/string-edit-at-point/
 Checking out 87936d816ae24184dd83688136531b6b6f1943fe
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/string-edit-at-point/
-  to /tmp/string-edit-at-pointWCaUek/string-edit-at-point-20230118.1933
+  to /tmp/string-edit-at-point9JbsfN/string-edit-at-point-20230118.1933
     string-edit-at-point.el -> string-edit-at-point.el
 Created string-edit-at-point-20230118.1933.tar containing:
   string-edit-at-point-20230118.1933/
   string-edit-at-point-20230118.1933/string-edit-at-point-pkg.el
   string-edit-at-point-20230118.1933/string-edit-at-point.el
  ✓ Success:
-  2025-11-17T01:00:39+0000  string-edit-at-point-20230118.1933.entry
-  2025-11-17T01:00:39+0000  string-edit-at-point-20230118.1933.tar
-Built string-edit-at-point in 2.959s, finished at 2025-11-17T01:00:40+0000
+  2025-12-01T01:48:11+0000  string-edit-at-point-20230118.1933.entry
+  2025-12-01T01:48:11+0000  string-edit-at-point-20230118.1933.tar
+Built string-edit-at-point in 2.940s, finished at 2025-12-01T01:48:12+0000

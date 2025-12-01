@@ -1,18 +1,15 @@
-Package: reykjavik-theme
-Fetcher: github
-Source:  https://github.com/mswift42/reykjavik-theme
-
+ • Building package reykjavik-theme (from github:mswift42/reykjavik-theme)...
 Updating /mnt/store/melpa/working/reykjavik-theme/
 Checking out f6d8e83946633603234cd1dac725e17447f40bce
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/reykjavik-theme/
-  to /tmp/reykjavik-themeWccNeO/reykjavik-theme-20201219.947
+  to /tmp/reykjavik-themeBkxmRd/reykjavik-theme-20201219.947
     reykjavik-theme.el -> reykjavik-theme.el
 Created reykjavik-theme-20201219.947.tar containing:
   reykjavik-theme-20201219.947/
   reykjavik-theme-20201219.947/reykjavik-theme-pkg.el
   reykjavik-theme-20201219.947/reykjavik-theme.el
  ✓ Success:
-  2025-11-17T00:54:41+0000  reykjavik-theme-20201219.947.entry
-  2025-11-17T00:54:41+0000  reykjavik-theme-20201219.947.tar
-Built reykjavik-theme in 2.839s, finished at 2025-11-17T00:54:42+0000
+  2025-12-01T01:42:18+0000  reykjavik-theme-20201219.947.entry
+  2025-12-01T01:42:18+0000  reykjavik-theme-20201219.947.tar
+Built reykjavik-theme in 2.791s, finished at 2025-12-01T01:42:19+0000

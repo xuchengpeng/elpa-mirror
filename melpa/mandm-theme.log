@@ -1,18 +1,15 @@
-Package: mandm-theme
-Fetcher: github
-Source:  https://github.com/choppsv1/emacs-mandm-theme
-
+ • Building package mandm-theme (from github:choppsv1/emacs-mandm-theme)...
 Updating /mnt/store/melpa/working/mandm-theme/
 Checking out 5b8ccb687b56ce143d3f60f59a681e6ca2e90956
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mandm-theme/
-  to /tmp/mandm-theme63NhAl/mandm-theme-20250726.1920
+  to /tmp/mandm-themeWAyaz2/mandm-theme-20250726.1920
     mandm-theme.el -> mandm-theme.el
 Created mandm-theme-20250726.1920.tar containing:
   mandm-theme-20250726.1920/
   mandm-theme-20250726.1920/mandm-theme-pkg.el
   mandm-theme-20250726.1920/mandm-theme.el
  ✓ Success:
-  2025-11-17T00:36:28+0000  mandm-theme-20250726.1920.entry
-  2025-11-17T00:36:28+0000  mandm-theme-20250726.1920.tar
-Built mandm-theme in 2.889s, finished at 2025-11-17T00:36:29+0000
+  2025-12-01T01:23:50+0000  mandm-theme-20250726.1920.entry
+  2025-12-01T01:23:50+0000  mandm-theme-20250726.1920.tar
+Built mandm-theme in 2.960s, finished at 2025-12-01T01:23:51+0000

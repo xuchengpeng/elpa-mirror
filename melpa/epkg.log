@@ -1,12 +1,9 @@
-Package: epkg
-Fetcher: github
-Source:  https://github.com/emacscollective/epkg
-
+ • Building package epkg (from github:emacscollective/epkg)...
 Updating /mnt/store/melpa/working/epkg/
 Checking out a4c8dc4e760ff9d0079e25fa9000b06791ed009b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/epkg/
-  to /tmp/epkgOCSavu/epkg-20251108.1325
+  to /tmp/epkgf9lXja/epkg-20251108.1325
   ! lisp/epkg-desc.el -> epkg-desc.el
   ! lisp/epkg-elpa.el -> epkg-elpa.el
   ! lisp/epkg-list.el -> epkg-list.el
@@ -31,6 +28,6 @@ Created epkg-20251108.1325.tar containing:
   epkg-20251108.1325/epkg.el
   epkg-20251108.1325/epkg.info
  ✓ Success:
-  2025-11-17T00:13:00+0000  epkg-20251108.1325.entry
-  2025-11-17T00:13:00+0000  epkg-20251108.1325.tar
-Built epkg in 4.602s, finished at 2025-11-17T00:13:01+0000
+  2025-12-01T01:00:10+0000  epkg-20251108.1325.entry
+  2025-12-01T01:00:10+0000  epkg-20251108.1325.tar
+Built epkg in 5.107s, finished at 2025-12-01T01:00:11+0000

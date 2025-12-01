@@ -1,18 +1,15 @@
-Package: vimish-fold
-Fetcher: github
-Source:  https://github.com/matsievskiysv/vimish-fold
-
+ • Building package vimish-fold (from github:matsievskiysv/vimish-fold)...
 Updating /mnt/store/melpa/working/vimish-fold/
 Checking out f71f374d28a83e5f15612fa64aac1b2e78be2dcd
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/vimish-fold/
-  to /tmp/vimish-foldsIF6ow/vimish-fold-20251023.1551
+  to /tmp/vimish-foldV9JcAO/vimish-fold-20251023.1551
     vimish-fold.el -> vimish-fold.el
 Created vimish-fold-20251023.1551.tar containing:
   vimish-fold-20251023.1551/
   vimish-fold-20251023.1551/vimish-fold-pkg.el
   vimish-fold-20251023.1551/vimish-fold.el
  ✓ Success:
-  2025-11-17T01:06:29+0000  vimish-fold-20251023.1551.entry
-  2025-11-17T01:06:28+0000  vimish-fold-20251023.1551.tar
-Built vimish-fold in 3.285s, finished at 2025-11-17T01:06:30+0000
+  2025-12-01T01:54:07+0000  vimish-fold-20251023.1551.entry
+  2025-12-01T01:54:07+0000  vimish-fold-20251023.1551.tar
+Built vimish-fold in 5.156s, finished at 2025-12-01T01:54:08+0000

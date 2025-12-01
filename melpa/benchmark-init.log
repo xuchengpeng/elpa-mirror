@@ -1,12 +1,9 @@
-Package: benchmark-init
-Fetcher: github
-Source:  https://github.com/dholm/benchmark-init-el
-
+ • Building package benchmark-init (from github:dholm/benchmark-init-el)...
 Updating /mnt/store/melpa/working/benchmark-init/
 Checking out 6507caa3c4cb2a6c9b85c771c5e9e5aeb7d745bc
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/benchmark-init/
-  to /tmp/benchmark-initZVWp5C/benchmark-init-20250313.1200
+  to /tmp/benchmark-initJvX2Hg/benchmark-init-20250313.1200
     benchmark-init-modes.el -> benchmark-init-modes.el
     benchmark-init.el -> benchmark-init.el
 Created benchmark-init-20250313.1200.tar containing:
@@ -15,6 +12,6 @@ Created benchmark-init-20250313.1200.tar containing:
   benchmark-init-20250313.1200/benchmark-init-pkg.el
   benchmark-init-20250313.1200/benchmark-init.el
  ✓ Success:
-  2025-11-16T23:57:38+0000  benchmark-init-20250313.1200.entry
-  2025-11-16T23:57:38+0000  benchmark-init-20250313.1200.tar
-Built benchmark-init in 3.292s, finished at 2025-11-16T23:57:39+0000
+  2025-12-01T00:44:47+0000  benchmark-init-20250313.1200.entry
+  2025-12-01T00:44:47+0000  benchmark-init-20250313.1200.tar
+Built benchmark-init in 3.427s, finished at 2025-12-01T00:44:48+0000

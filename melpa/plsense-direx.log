@@ -1,18 +1,15 @@
-Package: plsense-direx
-Fetcher: github
-Source:  https://github.com/aki2o/plsense-direx
-
+ • Building package plsense-direx (from github:aki2o/plsense-direx)...
 Updating /mnt/store/melpa/working/plsense-direx/
 Checking out 8a2f465264c74e04524cc789cdad0190ace43f6c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/plsense-direx/
-  to /tmp/plsense-direxdzwY6c/plsense-direx-20140520.2008
+  to /tmp/plsense-direxY9IgFR/plsense-direx-20140520.2008
     plsense-direx.el -> plsense-direx.el
 Created plsense-direx-20140520.2008.tar containing:
   plsense-direx-20140520.2008/
   plsense-direx-20140520.2008/plsense-direx-pkg.el
   plsense-direx-20140520.2008/plsense-direx.el
  ✓ Success:
-  2025-11-17T00:50:05+0000  plsense-direx-20140520.2008.entry
-  2025-11-17T00:50:05+0000  plsense-direx-20140520.2008.tar
-Built plsense-direx in 5.119s, finished at 2025-11-17T00:50:07+0000
+  2025-12-01T01:37:22+0000  plsense-direx-20140520.2008.entry
+  2025-12-01T01:37:22+0000  plsense-direx-20140520.2008.tar
+Built plsense-direx in 2.908s, finished at 2025-12-01T01:37:23+0000

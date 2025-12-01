@@ -1,18 +1,15 @@
-Package: auto-highlight-symbol
-Fetcher: github
-Source:  https://github.com/elp-revive/auto-highlight-symbol
-
+ • Building package auto-highlight-symbol (from github:elp-revive/auto-highlight-symbol)...
 Updating /mnt/store/melpa/working/auto-highlight-symbol/
 Checking out fe230750fdd3de07f71e776cb3270754e0865234
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/auto-highlight-symbol/
-  to /tmp/auto-highlight-symbolEEIusP/auto-highlight-symbol-20240627.650
+  to /tmp/auto-highlight-symbolpaKCVU/auto-highlight-symbol-20240627.650
     auto-highlight-symbol.el -> auto-highlight-symbol.el
 Created auto-highlight-symbol-20240627.650.tar containing:
   auto-highlight-symbol-20240627.650/
   auto-highlight-symbol-20240627.650/auto-highlight-symbol-pkg.el
   auto-highlight-symbol-20240627.650/auto-highlight-symbol.el
  ✓ Success:
-  2025-11-16T23:56:34+0000  auto-highlight-symbol-20240627.650.entry
-  2025-11-16T23:56:34+0000  auto-highlight-symbol-20240627.650.tar
-Built auto-highlight-symbol in 2.902s, finished at 2025-11-16T23:56:35+0000
+  2025-12-01T00:43:40+0000  auto-highlight-symbol-20240627.650.entry
+  2025-12-01T00:43:40+0000  auto-highlight-symbol-20240627.650.tar
+Built auto-highlight-symbol in 3.421s, finished at 2025-12-01T00:43:41+0000

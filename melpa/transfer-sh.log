@@ -1,18 +1,15 @@
-Package: transfer-sh
-Fetcher: gitlab
-Source:  https://gitlab.com/tuedachu/transfer-sh.el
-
+ • Building package transfer-sh (from gitlab:tuedachu/transfer-sh.el)...
 Updating /mnt/store/melpa/working/transfer-sh/
 Checking out 0621a66d00ec91a209a542c10b158095088bd44d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/transfer-sh/
-  to /tmp/transfer-shIvX5L3/transfer-sh-20200601.1708
+  to /tmp/transfer-shlDpLQz/transfer-sh-20200601.1708
     transfer-sh.el -> transfer-sh.el
 Created transfer-sh-20200601.1708.tar containing:
   transfer-sh-20200601.1708/
   transfer-sh-20200601.1708/transfer-sh-pkg.el
   transfer-sh-20200601.1708/transfer-sh.el
  ✓ Success:
-  2025-11-17T01:04:03+0000  transfer-sh-20200601.1708.entry
-  2025-11-17T01:04:03+0000  transfer-sh-20200601.1708.tar
-Built transfer-sh in 3.902s, finished at 2025-11-17T01:04:04+0000
+  2025-12-01T01:51:36+0000  transfer-sh-20200601.1708.entry
+  2025-12-01T01:51:36+0000  transfer-sh-20200601.1708.tar
+Built transfer-sh in 3.611s, finished at 2025-12-01T01:51:37+0000

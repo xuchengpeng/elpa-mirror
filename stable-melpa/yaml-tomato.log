@@ -1,18 +1,15 @@
-Package: yaml-tomato
-Fetcher: github
-Source:  https://github.com/RadekMolenda/yaml-tomato
-
+ • Building package yaml-tomato (from github:RadekMolenda/yaml-tomato)...
 Updating /mnt/store/melpa/working/yaml-tomato/
 Checking out 1272c502fac6ce6b0f8b7f8a9beb353f0b35e13c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/yaml-tomato/
-  to /tmp/yaml-tomatoFgmEvB/yaml-tomato-20151123.753
+  to /tmp/yaml-tomatoA0Y3qn/yaml-tomato-20151123.753
     yaml-tomato.el -> yaml-tomato.el
 Created yaml-tomato-20151123.753.tar containing:
   yaml-tomato-20151123.753/
   yaml-tomato-20151123.753/yaml-tomato-pkg.el
   yaml-tomato-20151123.753/yaml-tomato.el
  ✓ Success:
-  2025-11-17T01:09:24+0000  yaml-tomato-20151123.753.entry
-  2025-11-17T01:09:24+0000  yaml-tomato-20151123.753.tar
-Built yaml-tomato in 2.704s, finished at 2025-11-17T01:09:25+0000
+  2025-12-01T01:57:10+0000  yaml-tomato-20151123.753.entry
+  2025-12-01T01:57:10+0000  yaml-tomato-20151123.753.tar
+Built yaml-tomato in 2.962s, finished at 2025-12-01T01:57:12+0000

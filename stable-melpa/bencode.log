@@ -1,18 +1,15 @@
-Package: bencode
-Fetcher: github
-Source:  https://github.com/rorokimdim/emacs-bencode
-
+ • Building package bencode (from github:rorokimdim/emacs-bencode)...
 Updating /mnt/store/melpa/working/bencode/
 Checking out b5fe9c9d4b9b5ea61cedd77987ca46eb8154bd16
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/bencode/
-  to /tmp/bencodefqJK3E/bencode-20190317.2010
+  to /tmp/bencode2zLKB0/bencode-20190317.2010
     bencode.el -> bencode.el
 Created bencode-20190317.2010.tar containing:
   bencode-20190317.2010/
   bencode-20190317.2010/bencode-pkg.el
   bencode-20190317.2010/bencode.el
  ✓ Success:
-  2025-11-16T23:57:38+0000  bencode-20190317.2010.entry
-  2025-11-16T23:57:38+0000  bencode-20190317.2010.tar
-Built bencode in 2.785s, finished at 2025-11-16T23:57:39+0000
+  2025-12-01T00:44:47+0000  bencode-20190317.2010.entry
+  2025-12-01T00:44:47+0000  bencode-20190317.2010.tar
+Built bencode in 2.925s, finished at 2025-12-01T00:44:48+0000

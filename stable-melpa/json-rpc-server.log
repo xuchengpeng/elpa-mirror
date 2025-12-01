@@ -1,18 +1,15 @@
-Package: json-rpc-server
-Fetcher: github
-Source:  https://github.com/jcaw/json-rpc-server.el
-
+ • Building package json-rpc-server (from github:jcaw/json-rpc-server.el)...
 Updating /mnt/store/melpa/working/json-rpc-server/
 Checking out 349e1f4722474bf1f75dbc8eb9d9c59d790b8083
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/json-rpc-server/
-  to /tmp/json-rpc-server7P4Jfh/json-rpc-server-20220205.1504
+  to /tmp/json-rpc-serverR1m3Ep/json-rpc-server-20220205.1504
     json-rpc-server.el -> json-rpc-server.el
 Created json-rpc-server-20220205.1504.tar containing:
   json-rpc-server-20220205.1504/
   json-rpc-server-20220205.1504/json-rpc-server-pkg.el
   json-rpc-server-20220205.1504/json-rpc-server.el
  ✓ Success:
-  2025-11-17T00:31:20+0000  json-rpc-server-20220205.1504.entry
-  2025-11-17T00:31:20+0000  json-rpc-server-20220205.1504.tar
-Built json-rpc-server in 2.971s, finished at 2025-11-17T00:31:21+0000
+  2025-12-01T01:18:28+0000  json-rpc-server-20220205.1504.entry
+  2025-12-01T01:18:28+0000  json-rpc-server-20220205.1504.tar
+Built json-rpc-server in 2.958s, finished at 2025-12-01T01:18:29+0000

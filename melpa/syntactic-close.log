@@ -1,18 +1,15 @@
-Package: syntactic-close
-Fetcher: github
-Source:  https://github.com/emacs-berlin/syntactic-close
-
+ • Building package syntactic-close (from github:emacs-berlin/syntactic-close)...
 Updating /mnt/store/melpa/working/syntactic-close/
 Checking out 2c7d5e1841937e13fd1a2a2cb41ef5b636f497e3
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/syntactic-close/
-  to /tmp/syntactic-closekTiAKP/syntactic-close-20250530.1921
+  to /tmp/syntactic-closekNfdFk/syntactic-close-20250530.1921
     syntactic-close.el -> syntactic-close.el
 Created syntactic-close-20250530.1921.tar containing:
   syntactic-close-20250530.1921/
   syntactic-close-20250530.1921/syntactic-close-pkg.el
   syntactic-close-20250530.1921/syntactic-close.el
  ✓ Success:
-  2025-11-17T01:01:49+0000  syntactic-close-20250530.1921.entry
-  2025-11-17T01:01:48+0000  syntactic-close-20250530.1921.tar
-Built syntactic-close in 3.302s, finished at 2025-11-17T01:01:49+0000
+  2025-12-01T01:49:04+0000  syntactic-close-20250530.1921.entry
+  2025-12-01T01:49:04+0000  syntactic-close-20250530.1921.tar
+Built syntactic-close in 3.572s, finished at 2025-12-01T01:49:05+0000

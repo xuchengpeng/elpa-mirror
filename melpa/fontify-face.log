@@ -1,18 +1,15 @@
-Package: fontify-face
-Fetcher: github
-Source:  https://github.com/Fuco1/fontify-face
-
+ • Building package fontify-face (from github:Fuco1/fontify-face)...
 Updating /mnt/store/melpa/working/fontify-face/
 Checking out b975c764b6e9e070c7673317146b4d345ec83ef8
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/fontify-face/
-  to /tmp/fontify-facezYwzIx/fontify-face-20251111.1121
+  to /tmp/fontify-face1PaJOP/fontify-face-20251111.1121
     fontify-face.el -> fontify-face.el
 Created fontify-face-20251111.1121.tar containing:
   fontify-face-20251111.1121/
   fontify-face-20251111.1121/fontify-face-pkg.el
   fontify-face-20251111.1121/fontify-face.el
  ✓ Success:
-  2025-11-17T00:19:36+0000  fontify-face-20251111.1121.entry
-  2025-11-17T00:19:36+0000  fontify-face-20251111.1121.tar
-Built fontify-face in 3.309s, finished at 2025-11-17T00:19:37+0000
+  2025-12-01T01:06:57+0000  fontify-face-20251111.1121.entry
+  2025-12-01T01:06:57+0000  fontify-face-20251111.1121.tar
+Built fontify-face in 3.342s, finished at 2025-12-01T01:06:58+0000

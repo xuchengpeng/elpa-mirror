@@ -1,18 +1,15 @@
-Package: django-manage
-Fetcher: github
-Source:  https://github.com/gopar/django-manage
-
+ • Building package django-manage (from github:gopar/django-manage)...
 Updating /mnt/store/melpa/working/django-manage/
 Checking out e72b1cf2fdbb5c624d19169176e60467b4918fe2
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/django-manage/
-  to /tmp/django-managePRFHbU/django-manage-20160819.212
+  to /tmp/django-managekSnzmE/django-manage-20160819.212
     django-manage.el -> django-manage.el
 Created django-manage-20160819.212.tar containing:
   django-manage-20160819.212/
   django-manage-20160819.212/django-manage-pkg.el
   django-manage-20160819.212/django-manage.el
  ✓ Success:
-  2025-11-17T00:08:34+0000  django-manage-20160819.212.entry
-  2025-11-17T00:08:34+0000  django-manage-20160819.212.tar
-Built django-manage in 2.763s, finished at 2025-11-17T00:08:35+0000
+  2025-12-01T00:55:41+0000  django-manage-20160819.212.entry
+  2025-12-01T00:55:41+0000  django-manage-20160819.212.tar
+Built django-manage in 2.777s, finished at 2025-12-01T00:55:42+0000

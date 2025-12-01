@@ -1,18 +1,15 @@
-Package: flymake-cspell
-Fetcher: github
-Source:  https://github.com/fritzgrabo/flymake-cspell
-
+ • Building package flymake-cspell (from github:fritzgrabo/flymake-cspell)...
 Updating /mnt/store/melpa/working/flymake-cspell/
 Checking out a573c07142cd0142c4cc1affd57f96b4d5c229b3
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/flymake-cspell/
-  to /tmp/flymake-cspell7ZzLQr/flymake-cspell-20240304.1349
+  to /tmp/flymake-cspellMDc5e6/flymake-cspell-20240304.1349
     flymake-cspell.el -> flymake-cspell.el
 Created flymake-cspell-20240304.1349.tar containing:
   flymake-cspell-20240304.1349/
   flymake-cspell-20240304.1349/flymake-cspell-pkg.el
   flymake-cspell-20240304.1349/flymake-cspell.el
  ✓ Success:
-  2025-11-17T00:18:39+0000  flymake-cspell-20240304.1349.entry
-  2025-11-17T00:18:39+0000  flymake-cspell-20240304.1349.tar
-Built flymake-cspell in 2.824s, finished at 2025-11-17T00:18:40+0000
+  2025-12-01T01:05:59+0000  flymake-cspell-20240304.1349.entry
+  2025-12-01T01:05:59+0000  flymake-cspell-20240304.1349.tar
+Built flymake-cspell in 2.754s, finished at 2025-12-01T01:06:00+0000

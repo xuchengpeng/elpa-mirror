@@ -1,18 +1,15 @@
-Package: live-preview
-Fetcher: github
-Source:  https://github.com/lassik/emacs-live-preview
-
+ • Building package live-preview (from github:lassik/emacs-live-preview)...
 Updating /mnt/store/melpa/working/live-preview/
 Checking out 135f2b9a8ecf81d00cf92175d144a33561e36f4c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/live-preview/
-  to /tmp/live-preview2pS2Do/live-preview-20231215.1612
+  to /tmp/live-previewYe3YsE/live-preview-20231215.1612
     live-preview.el -> live-preview.el
 Created live-preview-20231215.1612.tar containing:
   live-preview-20231215.1612/
   live-preview-20231215.1612/live-preview-pkg.el
   live-preview-20231215.1612/live-preview.el
  ✓ Success:
-  2025-11-17T00:34:39+0000  live-preview-20231215.1612.entry
-  2025-11-17T00:34:39+0000  live-preview-20231215.1612.tar
-Built live-preview in 2.859s, finished at 2025-11-17T00:34:40+0000
+  2025-12-01T01:21:46+0000  live-preview-20231215.1612.entry
+  2025-12-01T01:21:46+0000  live-preview-20231215.1612.tar
+Built live-preview in 2.880s, finished at 2025-12-01T01:21:47+0000

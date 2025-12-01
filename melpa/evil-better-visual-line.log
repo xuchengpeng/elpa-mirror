@@ -1,18 +1,15 @@
-Package: evil-better-visual-line
-Fetcher: github
-Source:  https://github.com/YourFin/evil-better-visual-line
-
+ • Building package evil-better-visual-line (from github:YourFin/evil-better-visual-line)...
 Updating /mnt/store/melpa/working/evil-better-visual-line/
 Checking out 7a65dfb17ab93857eb4c7a39d4018d9399705293
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/evil-better-visual-line/
-  to /tmp/evil-better-visual-lineHyzmE7/evil-better-visual-line-20200123.2045
+  to /tmp/evil-better-visual-lineW3lhJr/evil-better-visual-line-20200123.2045
     evil-better-visual-line.el -> evil-better-visual-line.el
 Created evil-better-visual-line-20200123.2045.tar containing:
   evil-better-visual-line-20200123.2045/
   evil-better-visual-line-20200123.2045/evil-better-visual-line-pkg.el
   evil-better-visual-line-20200123.2045/evil-better-visual-line.el
  ✓ Success:
-  2025-11-17T00:14:21+0000  evil-better-visual-line-20200123.2045.entry
-  2025-11-17T00:14:21+0000  evil-better-visual-line-20200123.2045.tar
-Built evil-better-visual-line in 2.723s, finished at 2025-11-17T00:14:22+0000
+  2025-12-01T01:01:34+0000  evil-better-visual-line-20200123.2045.entry
+  2025-12-01T01:01:34+0000  evil-better-visual-line-20200123.2045.tar
+Built evil-better-visual-line in 3.204s, finished at 2025-12-01T01:01:35+0000

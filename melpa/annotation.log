@@ -1,18 +1,15 @@
-Package: annotation
-Fetcher: github
-Source:  https://github.com/agda/agda
-
+ • Building package annotation (from github:agda/agda)...
 Updating /mnt/store/melpa/working/annotation/
 Checking out 213db6e50bb89c1b0b2832eab4c6caafb137eb6d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/annotation/
-  to /tmp/annotationiVkaCH/annotation-20250805.1029
+  to /tmp/annotation8auB4S/annotation-20250805.1029
   ! src/data/emacs-mode/annotation.el -> annotation.el
 Created annotation-20250805.1029.tar containing:
   annotation-20250805.1029/
   annotation-20250805.1029/annotation-pkg.el
   annotation-20250805.1029/annotation.el
  ✓ Success:
-  2025-11-16T23:55:26+0000  annotation-20250805.1029.entry
-  2025-11-16T23:55:26+0000  annotation-20250805.1029.tar
-Built annotation in 9.507s, finished at 2025-11-16T23:55:28+0000
+  2025-12-01T00:42:29+0000  annotation-20250805.1029.entry
+  2025-12-01T00:42:29+0000  annotation-20250805.1029.tar
+Built annotation in 5.827s, finished at 2025-12-01T00:42:30+0000

@@ -1,12 +1,9 @@
-Package: ac-emoji
-Fetcher: github
-Source:  https://github.com/emacsorphanage/ac-emoji
-
+ • Building package ac-emoji (from github:emacsorphanage/ac-emoji)...
 Updating /mnt/store/melpa/working/ac-emoji/
 Checking out 53677f754929ead403ccde64b714ebb6b8fc808e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ac-emoji/
-  to /tmp/ac-emojiO5hz40/ac-emoji-20150823.711
+  to /tmp/ac-emojilCNdeO/ac-emoji-20150823.711
     ac-emoji-data.el -> ac-emoji-data.el
     ac-emoji.el -> ac-emoji.el
 Created ac-emoji-20150823.711.tar containing:
@@ -15,6 +12,6 @@ Created ac-emoji-20150823.711.tar containing:
   ac-emoji-20150823.711/ac-emoji-pkg.el
   ac-emoji-20150823.711/ac-emoji.el
  ✓ Success:
-  2025-11-16T23:53:44+0000  ac-emoji-20150823.711.entry
-  2025-11-16T23:53:44+0000  ac-emoji-20150823.711.tar
-Built ac-emoji in 2.720s, finished at 2025-11-16T23:53:45+0000
+  2025-12-01T00:40:58+0000  ac-emoji-20150823.711.entry
+  2025-12-01T00:40:58+0000  ac-emoji-20150823.711.tar
+Built ac-emoji in 2.797s, finished at 2025-12-01T00:40:59+0000

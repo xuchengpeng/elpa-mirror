@@ -1,18 +1,15 @@
-Package: consult-gh-with-pr-review
-Fetcher: github
-Source:  https://github.com/armindarvish/consult-gh
-
+ • Building package consult-gh-with-pr-review (from github:armindarvish/consult-gh)...
 Updating /mnt/store/melpa/working/consult-gh-with-pr-review/
 Checking out 2b625a0331c9a92c67fef8ea2e694b28d5006421
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/consult-gh-with-pr-review/
-  to /tmp/consult-gh-with-pr-reviewXA9RWd/consult-gh-with-pr-review-20250906.1805
+  to /tmp/consult-gh-with-pr-reviewnesKP1/consult-gh-with-pr-review-20250906.1805
     consult-gh-with-pr-review.el -> consult-gh-with-pr-review.el
 Created consult-gh-with-pr-review-20250906.1805.tar containing:
   consult-gh-with-pr-review-20250906.1805/
   consult-gh-with-pr-review-20250906.1805/consult-gh-with-pr-review-pkg.el
   consult-gh-with-pr-review-20250906.1805/consult-gh-with-pr-review.el
  ✓ Success:
-  2025-11-17T00:04:21+0000  consult-gh-with-pr-review-20250906.1805.entry
-  2025-11-17T00:04:20+0000  consult-gh-with-pr-review-20250906.1805.tar
-Built consult-gh-with-pr-review in 5.752s, finished at 2025-11-17T00:04:22+0000
+  2025-12-01T00:51:00+0000  consult-gh-with-pr-review-20250906.1805.entry
+  2025-12-01T00:51:00+0000  consult-gh-with-pr-review-20250906.1805.tar
+Built consult-gh-with-pr-review in 3.394s, finished at 2025-12-01T00:51:01+0000

@@ -1,18 +1,15 @@
-Package: eclipse-theme
-Fetcher: github
-Source:  https://github.com/abo-abo/eclipse-theme
-
+ • Building package eclipse-theme (from github:abo-abo/eclipse-theme)...
 Updating /mnt/store/melpa/working/eclipse-theme/
 Checking out dcf97865512ed450f9d5137c1a05e12edb5b7f80
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/eclipse-theme/
-  to /tmp/eclipse-themel3B5hw/eclipse-theme-20191113.1518
+  to /tmp/eclipse-themeWt2Gcx/eclipse-theme-20191113.1518
     eclipse-theme.el -> eclipse-theme.el
 Created eclipse-theme-20191113.1518.tar containing:
   eclipse-theme-20191113.1518/
   eclipse-theme-20191113.1518/eclipse-theme-pkg.el
   eclipse-theme-20191113.1518/eclipse-theme.el
  ✓ Success:
-  2025-11-17T00:10:16+0000  eclipse-theme-20191113.1518.entry
-  2025-11-17T00:10:15+0000  eclipse-theme-20191113.1518.tar
-Built eclipse-theme in 4.534s, finished at 2025-11-17T00:10:17+0000
+  2025-12-01T00:57:12+0000  eclipse-theme-20191113.1518.entry
+  2025-12-01T00:57:12+0000  eclipse-theme-20191113.1518.tar
+Built eclipse-theme in 2.891s, finished at 2025-12-01T00:57:13+0000

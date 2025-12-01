@@ -1,18 +1,15 @@
-Package: kapacitor
-Fetcher: github
-Source:  https://github.com/manojm321/kapacitor-el
-
+ • Building package kapacitor (from github:manojm321/kapacitor-el)...
 Updating /mnt/store/melpa/working/kapacitor/
 Checking out e3300d8b4017a2f66b0d929cb85bcc7ee2612072
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/kapacitor/
-  to /tmp/kapacitorOWn0qQ/kapacitor-20190414.1908
+  to /tmp/kapacitor5IaWTy/kapacitor-20190414.1908
     kapacitor.el -> kapacitor.el
 Created kapacitor-20190414.1908.tar containing:
   kapacitor-20190414.1908/
   kapacitor-20190414.1908/kapacitor-pkg.el
   kapacitor-20190414.1908/kapacitor.el
  ✓ Success:
-  2025-11-17T00:31:57+0000  kapacitor-20190414.1908.entry
-  2025-11-17T00:31:57+0000  kapacitor-20190414.1908.tar
-Built kapacitor in 2.794s, finished at 2025-11-17T00:31:58+0000
+  2025-12-01T01:19:04+0000  kapacitor-20190414.1908.entry
+  2025-12-01T01:19:03+0000  kapacitor-20190414.1908.tar
+Built kapacitor in 3.443s, finished at 2025-12-01T01:19:05+0000

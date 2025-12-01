@@ -1,18 +1,15 @@
-Package: projectile-ripgrep
-Fetcher: github
-Source:  https://github.com/nlamirault/ripgrep.el
-
+ • Building package projectile-ripgrep (from github:nlamirault/ripgrep.el)...
 Updating /mnt/store/melpa/working/projectile-ripgrep/
 Checking out b6bd5beb0c11348f1afd9486cbb451d0d2e3c45a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/projectile-ripgrep/
-  to /tmp/projectile-ripgrepDbfptf/projectile-ripgrep-20221013.541
+  to /tmp/projectile-ripgrepjQHRdq/projectile-ripgrep-20221013.541
     projectile-ripgrep.el -> projectile-ripgrep.el
 Created projectile-ripgrep-20221013.541.tar containing:
   projectile-ripgrep-20221013.541/
   projectile-ripgrep-20221013.541/projectile-ripgrep-pkg.el
   projectile-ripgrep-20221013.541/projectile-ripgrep.el
  ✓ Success:
-  2025-11-17T00:51:35+0000  projectile-ripgrep-20221013.541.entry
-  2025-11-17T00:51:35+0000  projectile-ripgrep-20221013.541.tar
-Built projectile-ripgrep in 2.897s, finished at 2025-11-17T00:51:36+0000
+  2025-12-01T01:39:04+0000  projectile-ripgrep-20221013.541.entry
+  2025-12-01T01:39:04+0000  projectile-ripgrep-20221013.541.tar
+Built projectile-ripgrep in 3.283s, finished at 2025-12-01T01:39:05+0000

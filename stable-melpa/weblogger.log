@@ -1,18 +1,15 @@
-Package: weblogger
-Fetcher: github
-Source:  https://github.com/hexmode/weblogger-el
-
+ • Building package weblogger (from github:hexmode/weblogger-el)...
 Updating /mnt/store/melpa/working/weblogger/
 Checking out 40cfbfc69be6a619173804441db2f407e3fa1731
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/weblogger/
-  to /tmp/webloggerZ3T28j/weblogger-20110926.1618
+  to /tmp/webloggerV2lnzC/weblogger-20110926.1618
     weblogger.el -> weblogger.el
 Created weblogger-20110926.1618.tar containing:
   weblogger-20110926.1618/
   weblogger-20110926.1618/weblogger-pkg.el
   weblogger-20110926.1618/weblogger.el
  ✓ Success:
-  2025-11-17T01:07:44+0000  weblogger-20110926.1618.entry
-  2025-11-17T01:07:44+0000  weblogger-20110926.1618.tar
-Built weblogger in 2.970s, finished at 2025-11-17T01:07:45+0000
+  2025-12-01T01:55:25+0000  weblogger-20110926.1618.entry
+  2025-12-01T01:55:25+0000  weblogger-20110926.1618.tar
+Built weblogger in 4.453s, finished at 2025-12-01T01:55:26+0000

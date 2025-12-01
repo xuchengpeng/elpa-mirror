@@ -1,18 +1,15 @@
-Package: nerd-icons-ivy-rich
-Fetcher: github
-Source:  https://github.com/seagle0128/nerd-icons-ivy-rich
-
+ • Building package nerd-icons-ivy-rich (from github:seagle0128/nerd-icons-ivy-rich)...
 Updating /mnt/store/melpa/working/nerd-icons-ivy-rich/
 Checking out 5006f91b49e86e232cdc1a628501b76124c41dac
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/nerd-icons-ivy-rich/
-  to /tmp/nerd-icons-ivy-rich8H4N6I/nerd-icons-ivy-rich-20250307.1005
+  to /tmp/nerd-icons-ivy-richuJ97qd/nerd-icons-ivy-rich-20250307.1005
     nerd-icons-ivy-rich.el -> nerd-icons-ivy-rich.el
 Created nerd-icons-ivy-rich-20250307.1005.tar containing:
   nerd-icons-ivy-rich-20250307.1005/
   nerd-icons-ivy-rich-20250307.1005/nerd-icons-ivy-rich-pkg.el
   nerd-icons-ivy-rich-20250307.1005/nerd-icons-ivy-rich.el
  ✓ Success:
-  2025-11-17T00:40:29+0000  nerd-icons-ivy-rich-20250307.1005.entry
-  2025-11-17T00:40:28+0000  nerd-icons-ivy-rich-20250307.1005.tar
-Built nerd-icons-ivy-rich in 3.330s, finished at 2025-11-17T00:40:29+0000
+  2025-12-01T01:27:47+0000  nerd-icons-ivy-rich-20250307.1005.entry
+  2025-12-01T01:27:47+0000  nerd-icons-ivy-rich-20250307.1005.tar
+Built nerd-icons-ivy-rich in 3.174s, finished at 2025-12-01T01:27:48+0000

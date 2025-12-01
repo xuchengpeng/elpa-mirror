@@ -1,18 +1,15 @@
-Package: evil-smartparens
-Fetcher: github
-Source:  https://github.com/expez/evil-smartparens
-
+ • Building package evil-smartparens (from github:expez/evil-smartparens)...
 Updating /mnt/store/melpa/working/evil-smartparens/
 Checking out 026d4a3cfce415a4dfae1457f871b385386e61d3
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/evil-smartparens/
-  to /tmp/evil-smartparensTJjUnF/evil-smartparens-20171210.1513
+  to /tmp/evil-smartparens7vtZMJ/evil-smartparens-20171210.1513
     evil-smartparens.el -> evil-smartparens.el
 Created evil-smartparens-20171210.1513.tar containing:
   evil-smartparens-20171210.1513/
   evil-smartparens-20171210.1513/evil-smartparens-pkg.el
   evil-smartparens-20171210.1513/evil-smartparens.el
  ✓ Success:
-  2025-11-17T00:15:00+0000  evil-smartparens-20171210.1513.entry
-  2025-11-17T00:15:00+0000  evil-smartparens-20171210.1513.tar
-Built evil-smartparens in 2.968s, finished at 2025-11-17T00:15:01+0000
+  2025-12-01T01:02:17+0000  evil-smartparens-20171210.1513.entry
+  2025-12-01T01:02:17+0000  evil-smartparens-20171210.1513.tar
+Built evil-smartparens in 3.080s, finished at 2025-12-01T01:02:18+0000

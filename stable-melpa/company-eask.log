@@ -1,18 +1,15 @@
-Package: company-eask
-Fetcher: github
-Source:  https://github.com/emacs-eask/company-eask
-
+ • Building package company-eask (from github:emacs-eask/company-eask)...
 Updating /mnt/store/melpa/working/company-eask/
 Checking out 3d8973a70f01121cad052b352ec0a3d76d8110d2
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/company-eask/
-  to /tmp/company-easkUwJjdw/company-eask-20240329.1742
+  to /tmp/company-eask6dwRNW/company-eask-20240329.1742
     company-eask.el -> company-eask.el
 Created company-eask-20240329.1742.tar containing:
   company-eask-20240329.1742/
   company-eask-20240329.1742/company-eask-pkg.el
   company-eask-20240329.1742/company-eask.el
  ✓ Success:
-  2025-11-17T00:03:04+0000  company-eask-20240329.1742.entry
-  2025-11-17T00:03:04+0000  company-eask-20240329.1742.tar
-Built company-eask in 3.543s, finished at 2025-11-17T00:03:05+0000
+  2025-12-01T00:49:54+0000  company-eask-20240329.1742.entry
+  2025-12-01T00:49:54+0000  company-eask-20240329.1742.tar
+Built company-eask in 3.268s, finished at 2025-12-01T00:49:55+0000

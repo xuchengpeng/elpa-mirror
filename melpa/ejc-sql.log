@@ -1,12 +1,9 @@
-Package: ejc-sql
-Fetcher: gitlab
-Source:  https://gitlab.com/kostafey/ejc-sql
-
+ • Building package ejc-sql (from gitlab:kostafey/ejc-sql)...
 Updating /mnt/store/melpa/working/ejc-sql/
 Checking out 1fc5a38d974aed401424ecd3b49a74e0a0ebc3bb
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ejc-sql/
-  to /tmp/ejc-sqln5tRYU/ejc-sql-20241111.117
+  to /tmp/ejc-sqllB4MLo/ejc-sql-20241111.117
     ejc-autocomplete.el -> ejc-autocomplete.el
     ejc-company.el -> ejc-company.el
     ejc-completion-common.el -> ejc-completion-common.el
@@ -66,6 +63,6 @@ Created ejc-sql-20241111.117.tar containing:
   ejc-sql-20241111.117/src/ejc_sql/output.clj
   ejc-sql-20241111.117/src/ejc_sql/structure.clj
  ✓ Success:
-  2025-11-17T00:10:54+0000  ejc-sql-20241111.117.entry
-  2025-11-17T00:10:54+0000  ejc-sql-20241111.117.tar
-Built ejc-sql in 4.169s, finished at 2025-11-17T00:10:55+0000
+  2025-12-01T00:57:51+0000  ejc-sql-20241111.117.entry
+  2025-12-01T00:57:51+0000  ejc-sql-20241111.117.tar
+Built ejc-sql in 5.521s, finished at 2025-12-01T00:57:53+0000

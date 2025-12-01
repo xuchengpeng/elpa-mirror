@@ -1,18 +1,15 @@
-Package: calc-prog-utils
-Fetcher: github
-Source:  https://github.com/Jesse-Millwood/calc-prog-utils
-
+ • Building package calc-prog-utils (from github:Jesse-Millwood/calc-prog-utils)...
 Updating /mnt/store/melpa/working/calc-prog-utils/
 Checking out 190acfda56660a2d75df2d9eac5b14edaccccd80
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/calc-prog-utils/
-  to /tmp/calc-prog-utilszbKvsi/calc-prog-utils-20220820.1855
+  to /tmp/calc-prog-utilsxQfY00/calc-prog-utils-20220820.1855
     calc-prog-utils.el -> calc-prog-utils.el
 Created calc-prog-utils-20220820.1855.tar containing:
   calc-prog-utils-20220820.1855/
   calc-prog-utils-20220820.1855/calc-prog-utils-pkg.el
   calc-prog-utils-20220820.1855/calc-prog-utils.el
  ✓ Success:
-  2025-11-16T23:59:41+0000  calc-prog-utils-20220820.1855.entry
-  2025-11-16T23:59:41+0000  calc-prog-utils-20220820.1855.tar
-Built calc-prog-utils in 2.733s, finished at 2025-11-16T23:59:42+0000
+  2025-12-01T00:46:54+0000  calc-prog-utils-20220820.1855.entry
+  2025-12-01T00:46:54+0000  calc-prog-utils-20220820.1855.tar
+Built calc-prog-utils in 2.943s, finished at 2025-12-01T00:46:55+0000

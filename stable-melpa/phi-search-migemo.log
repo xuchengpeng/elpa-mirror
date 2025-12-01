@@ -1,18 +1,15 @@
-Package: phi-search-migemo
-Fetcher: github
-Source:  https://github.com/zk-phi/phi-search-migemo
-
+ • Building package phi-search-migemo (from github:zk-phi/phi-search-migemo)...
 Updating /mnt/store/melpa/working/phi-search-migemo/
 Checking out 723b584d386639d59298d872ad7a035d3f8008b0
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/phi-search-migemo/
-  to /tmp/phi-search-migemoMiGh86/phi-search-migemo-20170618.921
+  to /tmp/phi-search-migemo60MD1X/phi-search-migemo-20170618.921
     phi-search-migemo.el -> phi-search-migemo.el
 Created phi-search-migemo-20170618.921.tar containing:
   phi-search-migemo-20170618.921/
   phi-search-migemo-20170618.921/phi-search-migemo-pkg.el
   phi-search-migemo-20170618.921/phi-search-migemo.el
  ✓ Success:
-  2025-11-17T00:49:10+0000  phi-search-migemo-20170618.921.entry
-  2025-11-17T00:49:10+0000  phi-search-migemo-20170618.921.tar
-Built phi-search-migemo in 3.328s, finished at 2025-11-17T00:49:11+0000
+  2025-12-01T01:36:38+0000  phi-search-migemo-20170618.921.entry
+  2025-12-01T01:36:38+0000  phi-search-migemo-20170618.921.tar
+Built phi-search-migemo in 3.077s, finished at 2025-12-01T01:36:38+0000

@@ -1,18 +1,15 @@
-Package: h5dump-mode
-Fetcher: github
-Source:  https://github.com/berquist/h5dump-mode
-
+ • Building package h5dump-mode (from github:berquist/h5dump-mode)...
 Updating /mnt/store/melpa/working/h5dump-mode/
 Checking out 3c9e4608112da91db76bf316417023bed0422ef3
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/h5dump-mode/
-  to /tmp/h5dump-modemh4l0a/h5dump-mode-20221128.1935
+  to /tmp/h5dump-modetEO4lf/h5dump-mode-20221128.1935
     h5dump-mode.el -> h5dump-mode.el
 Created h5dump-mode-20221128.1935.tar containing:
   h5dump-mode-20221128.1935/
   h5dump-mode-20221128.1935/h5dump-mode-pkg.el
   h5dump-mode-20221128.1935/h5dump-mode.el
  ✓ Success:
-  2025-11-17T00:23:48+0000  h5dump-mode-20221128.1935.entry
-  2025-11-17T00:23:47+0000  h5dump-mode-20221128.1935.tar
-Built h5dump-mode in 2.723s, finished at 2025-11-17T00:23:48+0000
+  2025-12-01T01:11:08+0000  h5dump-mode-20221128.1935.entry
+  2025-12-01T01:11:07+0000  h5dump-mode-20221128.1935.tar
+Built h5dump-mode in 2.835s, finished at 2025-12-01T01:11:08+0000

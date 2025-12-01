@@ -1,18 +1,15 @@
-Package: consult-gh-nerd-icons
-Fetcher: github
-Source:  https://github.com/armindarvish/consult-gh
-
+ • Building package consult-gh-nerd-icons (from github:armindarvish/consult-gh)...
 Updating /mnt/store/melpa/working/consult-gh-nerd-icons/
 Checking out feba9c563f3919401c89dd4008d23ae0896c47ce
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/consult-gh-nerd-icons/
-  to /tmp/consult-gh-nerd-iconsrhElES/consult-gh-nerd-icons-20250915.2241
+  to /tmp/consult-gh-nerd-iconsZ3JShU/consult-gh-nerd-icons-20250915.2241
     consult-gh-nerd-icons.el -> consult-gh-nerd-icons.el
 Created consult-gh-nerd-icons-20250915.2241.tar containing:
   consult-gh-nerd-icons-20250915.2241/
   consult-gh-nerd-icons-20250915.2241/consult-gh-nerd-icons-pkg.el
   consult-gh-nerd-icons-20250915.2241/consult-gh-nerd-icons.el
  ✓ Success:
-  2025-11-17T00:04:20+0000  consult-gh-nerd-icons-20250915.2241.entry
-  2025-11-17T00:04:20+0000  consult-gh-nerd-icons-20250915.2241.tar
-Built consult-gh-nerd-icons in 5.420s, finished at 2025-11-17T00:04:22+0000
+  2025-12-01T00:50:59+0000  consult-gh-nerd-icons-20250915.2241.entry
+  2025-12-01T00:50:59+0000  consult-gh-nerd-icons-20250915.2241.tar
+Built consult-gh-nerd-icons in 3.214s, finished at 2025-12-01T00:51:00+0000

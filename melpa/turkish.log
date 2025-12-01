@@ -1,18 +1,15 @@
-Package: turkish
-Fetcher: github
-Source:  https://github.com/emres/turkish-mode
-
+ • Building package turkish (from github:emres/turkish-mode)...
 Updating /mnt/store/melpa/working/turkish/
 Checking out 9831a316c176bb21a1b91226323ea4133163e00c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/turkish/
-  to /tmp/turkish7orxC0/turkish-20170910.1511
+  to /tmp/turkishDdvxbu/turkish-20170910.1511
     turkish.el -> turkish.el
 Created turkish-20170910.1511.tar containing:
   turkish-20170910.1511/
   turkish-20170910.1511/turkish-pkg.el
   turkish-20170910.1511/turkish.el
  ✓ Success:
-  2025-11-17T01:04:47+0000  turkish-20170910.1511.entry
-  2025-11-17T01:04:47+0000  turkish-20170910.1511.tar
-Built turkish in 3.431s, finished at 2025-11-17T01:04:48+0000
+  2025-12-01T01:52:20+0000  turkish-20170910.1511.entry
+  2025-12-01T01:52:20+0000  turkish-20170910.1511.tar
+Built turkish in 3.335s, finished at 2025-12-01T01:52:21+0000

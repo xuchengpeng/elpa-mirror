@@ -1,18 +1,15 @@
-Package: format-table
-Fetcher: github
-Source:  https://github.com/functionreturnfunction/format-table
-
+ • Building package format-table (from github:functionreturnfunction/format-table)...
 Updating /mnt/store/melpa/working/format-table/
 Checking out dfcae3a867e574577fc09a43b045889ff155b58f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/format-table/
-  to /tmp/format-tableHe5Dsy/format-table-20181223.1616
+  to /tmp/format-tablehKLuam/format-table-20181223.1616
     format-table.el -> format-table.el
 Created format-table-20181223.1616.tar containing:
   format-table-20181223.1616/
   format-table-20181223.1616/format-table-pkg.el
   format-table-20181223.1616/format-table.el
  ✓ Success:
-  2025-11-17T00:19:45+0000  format-table-20181223.1616.entry
-  2025-11-17T00:19:45+0000  format-table-20181223.1616.tar
-Built format-table in 3.084s, finished at 2025-11-17T00:19:46+0000
+  2025-12-01T01:07:06+0000  format-table-20181223.1616.entry
+  2025-12-01T01:07:06+0000  format-table-20181223.1616.tar
+Built format-table in 2.900s, finished at 2025-12-01T01:07:06+0000

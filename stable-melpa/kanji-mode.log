@@ -1,12 +1,9 @@
-Package: kanji-mode
-Fetcher: github
-Source:  https://github.com/wsgac/kanji-mode
-
+ • Building package kanji-mode (from github:wsgac/kanji-mode)...
 Updating /mnt/store/melpa/working/kanji-mode/
 Checking out 09719b00d60e22bd31c93b21c0c817eced9d0406
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/kanji-mode/
-  to /tmp/kanji-modeBiPvyK/kanji-mode-20241120.1923
+  to /tmp/kanji-mode0I5IXf/kanji-mode-20241120.1923
     kanji-mode.el -> kanji-mode.el
     kanji => kanji
 Created kanji-mode-20241120.1923.tar containing:
@@ -6679,6 +6676,6 @@ Created kanji-mode-20241120.1923.tar containing:
   kanji-mode-20241120.1923/kanji/200a4.svg
   kanji-mode-20241120.1923/kanji/26951.svg
  ✓ Success:
-  2025-11-17T00:32:08+0000  kanji-mode-20241120.1923.entry
-  2025-11-17T00:32:01+0000  kanji-mode-20241120.1923.tar
-Built kanji-mode in 18.423s, finished at 2025-11-17T00:32:09+0000
+  2025-12-01T01:19:21+0000  kanji-mode-20241120.1923.entry
+  2025-12-01T01:19:14+0000  kanji-mode-20241120.1923.tar
+Built kanji-mode in 22.994s, finished at 2025-12-01T01:19:22+0000

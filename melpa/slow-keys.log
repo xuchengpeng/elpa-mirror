@@ -1,18 +1,15 @@
-Package: slow-keys
-Fetcher: sourcehut
-Source:  https://git.sr.ht/~gitmux/slow-keys
-
+ • Building package slow-keys (from sourcehut:gitmux/slow-keys)...
 Updating /mnt/store/melpa/working/slow-keys/
 Checking out b951ae4bdcea56ced03f227b82b28c3d91d15e61
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/slow-keys/
-  to /tmp/slow-keysRGBp4h/slow-keys-20220807.1425
+  to /tmp/slow-keysjX8MGF/slow-keys-20220807.1425
     slow-keys.el -> slow-keys.el
 Created slow-keys-20220807.1425.tar containing:
   slow-keys-20220807.1425/
   slow-keys-20220807.1425/slow-keys-pkg.el
   slow-keys-20220807.1425/slow-keys.el
  ✓ Success:
-  2025-11-17T00:58:30+0000  slow-keys-20220807.1425.entry
-  2025-11-17T00:58:30+0000  slow-keys-20220807.1425.tar
-Built slow-keys in 3.399s, finished at 2025-11-17T00:58:31+0000
+  2025-12-01T01:45:58+0000  slow-keys-20220807.1425.entry
+  2025-12-01T01:45:58+0000  slow-keys-20220807.1425.tar
+Built slow-keys in 3.588s, finished at 2025-12-01T01:45:59+0000

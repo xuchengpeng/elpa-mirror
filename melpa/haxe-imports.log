@@ -1,18 +1,15 @@
-Package: haxe-imports
-Fetcher: github
-Source:  https://github.com/accidentalrebel/emacs-haxe-imports
-
+ • Building package haxe-imports (from github:accidentalrebel/emacs-haxe-imports)...
 Updating /mnt/store/melpa/working/haxe-imports/
 Checking out a4ab31759bd237e78c055dda73e808a4ee1b5fde
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/haxe-imports/
-  to /tmp/haxe-importsMij30g/haxe-imports-20170330.2304
+  to /tmp/haxe-importsUp2k5g/haxe-imports-20170330.2304
     haxe-imports.el -> haxe-imports.el
 Created haxe-imports-20170330.2304.tar containing:
   haxe-imports-20170330.2304/
   haxe-imports-20170330.2304/haxe-imports-pkg.el
   haxe-imports-20170330.2304/haxe-imports.el
  ✓ Success:
-  2025-11-17T00:24:12+0000  haxe-imports-20170330.2304.entry
-  2025-11-17T00:24:12+0000  haxe-imports-20170330.2304.tar
-Built haxe-imports in 2.540s, finished at 2025-11-17T00:24:13+0000
+  2025-12-01T01:11:32+0000  haxe-imports-20170330.2304.entry
+  2025-12-01T01:11:32+0000  haxe-imports-20170330.2304.tar
+Built haxe-imports in 2.490s, finished at 2025-12-01T01:11:33+0000

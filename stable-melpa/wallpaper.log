@@ -1,18 +1,15 @@
-Package: wallpaper
-Fetcher: github
-Source:  https://github.com/farlado/emacs-wallpaper
-
+ • Building package wallpaper (from github:farlado/emacs-wallpaper)...
 Updating /mnt/store/melpa/working/wallpaper/
 Checking out cc0101726dd2fa2b4eda06924c7abfae54f663e2
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/wallpaper/
-  to /tmp/wallpaperAeGSH9/wallpaper-20201019.2123
+  to /tmp/wallpaperhVNq8x/wallpaper-20201019.2123
     wallpaper.el -> wallpaper.el
 Created wallpaper-20201019.2123.tar containing:
   wallpaper-20201019.2123/
   wallpaper-20201019.2123/wallpaper-pkg.el
   wallpaper-20201019.2123/wallpaper.el
  ✓ Success:
-  2025-11-17T01:07:21+0000  wallpaper-20201019.2123.entry
-  2025-11-17T01:07:21+0000  wallpaper-20201019.2123.tar
-Built wallpaper in 4.478s, finished at 2025-11-17T01:07:22+0000
+  2025-12-01T01:54:51+0000  wallpaper-20201019.2123.entry
+  2025-12-01T01:54:51+0000  wallpaper-20201019.2123.tar
+Built wallpaper in 2.744s, finished at 2025-12-01T01:54:52+0000

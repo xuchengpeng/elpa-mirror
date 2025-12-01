@@ -1,12 +1,9 @@
-Package: agent-shell
-Fetcher: github
-Source:  https://github.com/xenodium/agent-shell
-
+ • Building package agent-shell (from github:xenodium/agent-shell)...
 Updating /mnt/store/melpa/working/agent-shell/
-Checking out a16e1e0a1c9cf01246c23ca4d9dbd81ad9be9fd9
+Checking out 9df5d153bd4cde1c5e2e6072122a37ee0122c531
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/agent-shell/
-  to /tmp/agent-shellm7cXAk/agent-shell-20251110.1049
+  to /tmp/agent-shellfcYf7h/agent-shell-20251130.1717
     agent-shell-anthropic.el -> agent-shell-anthropic.el
     agent-shell-cursor.el -> agent-shell-cursor.el
     agent-shell-diff.el -> agent-shell-diff.el
@@ -18,21 +15,21 @@ Copying files (->) and directories (=>)
     agent-shell-qwen.el -> agent-shell-qwen.el
     agent-shell-ui.el -> agent-shell-ui.el
     agent-shell.el -> agent-shell.el
-Created agent-shell-20251110.1049.tar containing:
-  agent-shell-20251110.1049/
-  agent-shell-20251110.1049/agent-shell-anthropic.el
-  agent-shell-20251110.1049/agent-shell-cursor.el
-  agent-shell-20251110.1049/agent-shell-diff.el
-  agent-shell-20251110.1049/agent-shell-google.el
-  agent-shell-20251110.1049/agent-shell-goose.el
-  agent-shell-20251110.1049/agent-shell-heartbeat.el
-  agent-shell-20251110.1049/agent-shell-openai.el
-  agent-shell-20251110.1049/agent-shell-opencode.el
-  agent-shell-20251110.1049/agent-shell-pkg.el
-  agent-shell-20251110.1049/agent-shell-qwen.el
-  agent-shell-20251110.1049/agent-shell-ui.el
-  agent-shell-20251110.1049/agent-shell.el
+Created agent-shell-20251130.1717.tar containing:
+  agent-shell-20251130.1717/
+  agent-shell-20251130.1717/agent-shell-anthropic.el
+  agent-shell-20251130.1717/agent-shell-cursor.el
+  agent-shell-20251130.1717/agent-shell-diff.el
+  agent-shell-20251130.1717/agent-shell-google.el
+  agent-shell-20251130.1717/agent-shell-goose.el
+  agent-shell-20251130.1717/agent-shell-heartbeat.el
+  agent-shell-20251130.1717/agent-shell-openai.el
+  agent-shell-20251130.1717/agent-shell-opencode.el
+  agent-shell-20251130.1717/agent-shell-pkg.el
+  agent-shell-20251130.1717/agent-shell-qwen.el
+  agent-shell-20251130.1717/agent-shell-ui.el
+  agent-shell-20251130.1717/agent-shell.el
  ✓ Success:
-  2025-11-16T23:54:25+0000  agent-shell-20251110.1049.entry
-  2025-11-16T23:54:25+0000  agent-shell-20251110.1049.tar
-Built agent-shell in 3.518s, finished at 2025-11-16T23:54:26+0000
+  2025-12-01T00:41:41+0000  agent-shell-20251130.1717.entry
+  2025-12-01T00:41:41+0000  agent-shell-20251130.1717.tar
+Built agent-shell in 3.695s, finished at 2025-12-01T00:41:42+0000

@@ -1,12 +1,9 @@
-Package: mmm-mode
-Fetcher: github
-Source:  https://github.com/dgutov/mmm-mode
-
+ • Building package mmm-mode (from github:dgutov/mmm-mode)...
 Updating /mnt/store/melpa/working/mmm-mode/
 Checking out b1f5c7dbdc405e6e10d9ddd99a43a6b2ad61b176
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mmm-mode/
-  to /tmp/mmm-modeCBT8pC/mmm-mode-20240222.428
+  to /tmp/mmm-modexVB7mz/mmm-mode-20240222.428
     mmm-auto.el -> mmm-auto.el
     mmm-class.el -> mmm-class.el
     mmm-cmds.el -> mmm-cmds.el
@@ -49,6 +46,6 @@ Created mmm-mode-20240222.428.tar containing:
   mmm-mode-20240222.428/mmm-vars.el
   mmm-mode-20240222.428/mmm.info
  ✓ Success:
-  2025-11-17T00:38:11+0000  mmm-mode-20240222.428.entry
-  2025-11-17T00:38:11+0000  mmm-mode-20240222.428.tar
-Built mmm-mode in 5.813s, finished at 2025-11-17T00:38:12+0000
+  2025-12-01T01:25:32+0000  mmm-mode-20240222.428.entry
+  2025-12-01T01:25:32+0000  mmm-mode-20240222.428.tar
+Built mmm-mode in 6.343s, finished at 2025-12-01T01:25:33+0000

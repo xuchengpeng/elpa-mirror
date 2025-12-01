@@ -1,18 +1,15 @@
-Package: ruby-extra-highlight
-Fetcher: github
-Source:  https://github.com/Lindydancer/ruby-extra-highlight
-
+ • Building package ruby-extra-highlight (from github:Lindydancer/ruby-extra-highlight)...
 Updating /mnt/store/melpa/working/ruby-extra-highlight/
 Checking out d1f6d41e5c2fc4cc7a23f4e79fa3710fdc74ec61
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ruby-extra-highlight/
-  to /tmp/ruby-extra-highlightj0Jx1e/ruby-extra-highlight-20250103.1518
+  to /tmp/ruby-extra-highlight7WaUo9/ruby-extra-highlight-20250103.1518
     ruby-extra-highlight.el -> ruby-extra-highlight.el
 Created ruby-extra-highlight-20250103.1518.tar containing:
   ruby-extra-highlight-20250103.1518/
   ruby-extra-highlight-20250103.1518/ruby-extra-highlight-pkg.el
   ruby-extra-highlight-20250103.1518/ruby-extra-highlight.el
  ✓ Success:
-  2025-11-17T00:55:18+0000  ruby-extra-highlight-20250103.1518.entry
-  2025-11-17T00:55:18+0000  ruby-extra-highlight-20250103.1518.tar
-Built ruby-extra-highlight in 3.875s, finished at 2025-11-17T00:55:20+0000
+  2025-12-01T01:42:55+0000  ruby-extra-highlight-20250103.1518.entry
+  2025-12-01T01:42:55+0000  ruby-extra-highlight-20250103.1518.tar
+Built ruby-extra-highlight in 2.868s, finished at 2025-12-01T01:42:56+0000

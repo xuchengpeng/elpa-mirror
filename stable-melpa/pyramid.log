@@ -1,12 +1,9 @@
-Package: pyramid
-Fetcher: github
-Source:  https://github.com/dakra/pyramid.el
-
+ • Building package pyramid (from github:dakra/pyramid.el)...
 Updating /mnt/store/melpa/working/pyramid/
 Checking out c8a8b36725d85664e74f59600fe5d18d06ea907d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/pyramid/
-  to /tmp/pyramidXTbx1e/pyramid-20230114.1049
+  to /tmp/pyramidX2OKrQ/pyramid-20230114.1049
     pyramid.el -> pyramid.el
     snippets => snippets
 Created pyramid-20230114.1049.tar containing:
@@ -21,6 +18,6 @@ Created pyramid-20230114.1049.tar containing:
   pyramid-20230114.1049/snippets/web-mode/
   pyramid-20230114.1049/snippets/web-mode/route_url
  ✓ Success:
-  2025-11-17T00:52:35+0000  pyramid-20230114.1049.entry
-  2025-11-17T00:52:35+0000  pyramid-20230114.1049.tar
-Built pyramid in 2.876s, finished at 2025-11-17T00:52:36+0000
+  2025-12-01T01:40:07+0000  pyramid-20230114.1049.entry
+  2025-12-01T01:40:07+0000  pyramid-20230114.1049.tar
+Built pyramid in 2.892s, finished at 2025-12-01T01:40:08+0000

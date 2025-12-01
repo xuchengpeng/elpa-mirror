@@ -1,18 +1,15 @@
-Package: fluxus-mode
-Fetcher: github
-Source:  https://github.com/defaultxr/fluxus-mode
-
+ • Building package fluxus-mode (from github:defaultxr/fluxus-mode)...
 Updating /mnt/store/melpa/working/fluxus-mode/
 Checking out a14578640c578a4fd09cb7e25da1e87d637719ae
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/fluxus-mode/
-  to /tmp/fluxus-modeKcKpWp/fluxus-mode-20210715.58
+  to /tmp/fluxus-modelVDGw7/fluxus-mode-20210715.58
     fluxus-mode.el -> fluxus-mode.el
 Created fluxus-mode-20210715.58.tar containing:
   fluxus-mode-20210715.58/
   fluxus-mode-20210715.58/fluxus-mode-pkg.el
   fluxus-mode-20210715.58/fluxus-mode.el
  ✓ Success:
-  2025-11-17T00:17:09+0000  fluxus-mode-20210715.58.entry
-  2025-11-17T00:17:09+0000  fluxus-mode-20210715.58.tar
-Built fluxus-mode in 2.742s, finished at 2025-11-17T00:17:10+0000
+  2025-12-01T01:04:28+0000  fluxus-mode-20210715.58.entry
+  2025-12-01T01:04:28+0000  fluxus-mode-20210715.58.tar
+Built fluxus-mode in 2.821s, finished at 2025-12-01T01:04:29+0000

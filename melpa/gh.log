@@ -1,12 +1,9 @@
-Package: gh
-Fetcher: github
-Source:  https://github.com/sigma/gh.el
-
+ • Building package gh (from github:sigma/gh.el)...
 Updating /mnt/store/melpa/working/gh/
 Checking out b5a8d8209340d49ad82dab22d23dae0434499fdf
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/gh/
-  to /tmp/ghOUwDwv/gh-20230825.1217
+  to /tmp/ghB9BDZW/gh-20230825.1217
     gh-api.el -> gh-api.el
     gh-auth.el -> gh-auth.el
     gh-cache.el -> gh-cache.el
@@ -48,6 +45,6 @@ Created gh-20230825.1217.tar containing:
   gh-20230825.1217/gh-users.el
   gh-20230825.1217/gh.el
  ✓ Success:
-  2025-11-17T00:20:48+0000  gh-20230825.1217.entry
-  2025-11-17T00:20:48+0000  gh-20230825.1217.tar
-Built gh in 3.206s, finished at 2025-11-17T00:20:49+0000
+  2025-12-01T01:08:11+0000  gh-20230825.1217.entry
+  2025-12-01T01:08:11+0000  gh-20230825.1217.tar
+Built gh in 3.038s, finished at 2025-12-01T01:08:12+0000

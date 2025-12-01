@@ -1,18 +1,15 @@
-Package: emidje
-Fetcher: github
-Source:  https://github.com/nubank/emidje
-
+ • Building package emidje (from github:nubank/emidje)...
 Updating /mnt/store/melpa/working/emidje/
 Checking out 7e92f053964d925c97dc8cca8d4d70a3030021db
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/emidje/
-  to /tmp/emidjetGDo3k/emidje-20190209.1726
+  to /tmp/emidjejCJaG3/emidje-20190209.1726
     emidje.el -> emidje.el
 Created emidje-20190209.1726.tar containing:
   emidje-20190209.1726/
   emidje-20190209.1726/emidje-pkg.el
   emidje-20190209.1726/emidje.el
  ✓ Success:
-  2025-11-17T00:12:31+0000  emidje-20190209.1726.entry
-  2025-11-17T00:12:30+0000  emidje-20190209.1726.tar
-Built emidje in 3.177s, finished at 2025-11-17T00:12:31+0000
+  2025-12-01T00:59:39+0000  emidje-20190209.1726.entry
+  2025-12-01T00:59:39+0000  emidje-20190209.1726.tar
+Built emidje in 3.269s, finished at 2025-12-01T00:59:40+0000

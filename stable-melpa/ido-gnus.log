@@ -1,18 +1,15 @@
-Package: ido-gnus
-Fetcher: github
-Source:  https://github.com/vapniks/ido-gnus
-
+ • Building package ido-gnus (from github:vapniks/ido-gnus)...
 Updating /mnt/store/melpa/working/ido-gnus/
 Checking out f5fe3f6aa8086f675ba216abace9e3d5f2e3a089
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ido-gnus/
-  to /tmp/ido-gnusCJgqPC/ido-gnus-20140216.1646
+  to /tmp/ido-gnusLBIv9E/ido-gnus-20140216.1646
     ido-gnus.el -> ido-gnus.el
 Created ido-gnus-20140216.1646.tar containing:
   ido-gnus-20140216.1646/
   ido-gnus-20140216.1646/ido-gnus-pkg.el
   ido-gnus-20140216.1646/ido-gnus.el
  ✓ Success:
-  2025-11-17T00:28:25+0000  ido-gnus-20140216.1646.entry
-  2025-11-17T00:28:25+0000  ido-gnus-20140216.1646.tar
-Built ido-gnus in 3.166s, finished at 2025-11-17T00:28:26+0000
+  2025-12-01T01:15:32+0000  ido-gnus-20140216.1646.entry
+  2025-12-01T01:15:32+0000  ido-gnus-20140216.1646.tar
+Built ido-gnus in 4.643s, finished at 2025-12-01T01:15:33+0000

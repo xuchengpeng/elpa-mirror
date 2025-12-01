@@ -1,18 +1,15 @@
-Package: uuid
-Fetcher: github
-Source:  https://github.com/nicferrier/emacs-uuid
-
+ • Building package uuid (from github:nicferrier/emacs-uuid)...
 Updating /mnt/store/melpa/working/uuid/
 Checking out 1519bfeb0e31602b840bc8dd35d7c7e732c159fe
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/uuid/
-  to /tmp/uuid9CrWef/uuid-20120910.851
+  to /tmp/uuidaJYypv/uuid-20120910.851
     uuid.el -> uuid.el
 Created uuid-20120910.851.tar containing:
   uuid-20120910.851/
   uuid-20120910.851/uuid-pkg.el
   uuid-20120910.851/uuid.el
  ✓ Success:
-  2025-11-17T01:05:48+0000  uuid-20120910.851.entry
-  2025-11-17T01:05:48+0000  uuid-20120910.851.tar
-Built uuid in 2.796s, finished at 2025-11-17T01:05:49+0000
+  2025-12-01T01:53:20+0000  uuid-20120910.851.entry
+  2025-12-01T01:53:20+0000  uuid-20120910.851.tar
+Built uuid in 2.646s, finished at 2025-12-01T01:53:21+0000

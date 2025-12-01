@@ -1,18 +1,15 @@
-Package: company-c-headers
-Fetcher: github
-Source:  https://github.com/randomphrase/company-c-headers
-
+ • Building package company-c-headers (from github:randomphrase/company-c-headers)...
 Updating /mnt/store/melpa/working/company-c-headers/
 Checking out 5e676ab0c2f287c868b1e3931afd4c78895910cd
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/company-c-headers/
-  to /tmp/company-c-headersVtzxbC/company-c-headers-20190825.1631
+  to /tmp/company-c-headersRf8Shx/company-c-headers-20190825.1631
     company-c-headers.el -> company-c-headers.el
 Created company-c-headers-20190825.1631.tar containing:
   company-c-headers-20190825.1631/
   company-c-headers-20190825.1631/company-c-headers-pkg.el
   company-c-headers-20190825.1631/company-c-headers.el
  ✓ Success:
-  2025-11-17T00:02:57+0000  company-c-headers-20190825.1631.entry
-  2025-11-17T00:02:57+0000  company-c-headers-20190825.1631.tar
-Built company-c-headers in 2.893s, finished at 2025-11-17T00:02:58+0000
+  2025-12-01T00:49:48+0000  company-c-headers-20190825.1631.entry
+  2025-12-01T00:49:48+0000  company-c-headers-20190825.1631.tar
+Built company-c-headers in 2.802s, finished at 2025-12-01T00:49:49+0000

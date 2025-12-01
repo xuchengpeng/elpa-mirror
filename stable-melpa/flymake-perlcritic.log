@@ -1,19 +1,16 @@
-Package: flymake-perlcritic
-Fetcher: github
-Source:  https://github.com/flymake/emacs-flymake-perlcritic
-
+ • Building package flymake-perlcritic (from github:flymake/emacs-flymake-perlcritic)...
 Updating /mnt/store/melpa/working/flymake-perlcritic/
 Checking out 311743e97d2f705e76755697eea9ff451a39dd64
 Warning: flymake-perlcritic :files spec is equivalent to the default
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/flymake-perlcritic/
-  to /tmp/flymake-perlcriticQp9uNt/flymake-perlcritic-20250615.802
+  to /tmp/flymake-perlcriticXfxSeb/flymake-perlcritic-20250615.802
     flymake-perlcritic.el -> flymake-perlcritic.el
 Created flymake-perlcritic-20250615.802.tar containing:
   flymake-perlcritic-20250615.802/
   flymake-perlcritic-20250615.802/flymake-perlcritic-pkg.el
   flymake-perlcritic-20250615.802/flymake-perlcritic.el
  ✓ Success:
-  2025-11-17T00:19:03+0000  flymake-perlcritic-20250615.802.entry
-  2025-11-17T00:19:03+0000  flymake-perlcritic-20250615.802.tar
-Built flymake-perlcritic in 2.807s, finished at 2025-11-17T00:19:04+0000
+  2025-12-01T01:06:23+0000  flymake-perlcritic-20250615.802.entry
+  2025-12-01T01:06:23+0000  flymake-perlcritic-20250615.802.tar
+Built flymake-perlcritic in 2.869s, finished at 2025-12-01T01:06:24+0000

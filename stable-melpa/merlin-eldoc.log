@@ -1,18 +1,15 @@
-Package: merlin-eldoc
-Fetcher: github
-Source:  https://github.com/Khady/merlin-eldoc
-
+ • Building package merlin-eldoc (from github:Khady/merlin-eldoc)...
 Updating /mnt/store/melpa/working/merlin-eldoc/
 Checking out bf8edc63d85b35e4def352fa7ce4ea39f43e1fd8
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/merlin-eldoc/
-  to /tmp/merlin-eldock9g47e/merlin-eldoc-20230213.555
+  to /tmp/merlin-eldocqy4lBo/merlin-eldoc-20230213.555
     merlin-eldoc.el -> merlin-eldoc.el
 Created merlin-eldoc-20230213.555.tar containing:
   merlin-eldoc-20230213.555/
   merlin-eldoc-20230213.555/merlin-eldoc-pkg.el
   merlin-eldoc-20230213.555/merlin-eldoc.el
  ✓ Success:
-  2025-11-17T00:37:18+0000  merlin-eldoc-20230213.555.entry
-  2025-11-17T00:37:17+0000  merlin-eldoc-20230213.555.tar
-Built merlin-eldoc in 3.560s, finished at 2025-11-17T00:37:19+0000
+  2025-12-01T01:24:38+0000  merlin-eldoc-20230213.555.entry
+  2025-12-01T01:24:38+0000  merlin-eldoc-20230213.555.tar
+Built merlin-eldoc in 3.657s, finished at 2025-12-01T01:24:39+0000

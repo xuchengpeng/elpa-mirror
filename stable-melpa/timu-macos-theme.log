@@ -1,12 +1,9 @@
-Package: timu-macos-theme
-Fetcher: gitlab
-Source:  https://gitlab.com/aimebertrand/timu-macos-theme
-
+ • Building package timu-macos-theme (from gitlab:aimebertrand/timu-macos-theme)...
 Updating /mnt/store/melpa/working/timu-macos-theme/
 Checking out 20f0a64549209457045602b16097e4630f56691d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/timu-macos-theme/
-  to /tmp/timu-macos-themeZZwuRB/timu-macos-theme-20251102.1635
+  to /tmp/timu-macos-themegdBhTp/timu-macos-theme-20251102.1635
     timu-macos-theme.el -> timu-macos-theme.el
     timu-macos-theme.info -> timu-macos-theme.info
 Created timu-macos-theme-20251102.1635.tar containing:
@@ -16,6 +13,6 @@ Created timu-macos-theme-20251102.1635.tar containing:
   timu-macos-theme-20251102.1635/timu-macos-theme.el
   timu-macos-theme-20251102.1635/timu-macos-theme.info
  ✓ Success:
-  2025-11-17T01:03:21+0000  timu-macos-theme-20251102.1635.entry
-  2025-11-17T01:03:21+0000  timu-macos-theme-20251102.1635.tar
-Built timu-macos-theme in 4.016s, finished at 2025-11-17T01:03:22+0000
+  2025-12-01T01:50:55+0000  timu-macos-theme-20251102.1635.entry
+  2025-12-01T01:50:55+0000  timu-macos-theme-20251102.1635.tar
+Built timu-macos-theme in 3.840s, finished at 2025-12-01T01:50:56+0000

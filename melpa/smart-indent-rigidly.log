@@ -1,18 +1,15 @@
-Package: smart-indent-rigidly
-Fetcher: github
-Source:  https://github.com/re5et/smart-indent-rigidly
-
+ • Building package smart-indent-rigidly (from github:re5et/smart-indent-rigidly)...
 Updating /mnt/store/melpa/working/smart-indent-rigidly/
 Checking out 323d1fe4d0b81e598249aad01bc44adb180ece0e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/smart-indent-rigidly/
-  to /tmp/smart-indent-rigidly8tCTOh/smart-indent-rigidly-20141206.15
+  to /tmp/smart-indent-rigidlyvpGLZa/smart-indent-rigidly-20141206.15
     smart-indent-rigidly.el -> smart-indent-rigidly.el
 Created smart-indent-rigidly-20141206.15.tar containing:
   smart-indent-rigidly-20141206.15/
   smart-indent-rigidly-20141206.15/smart-indent-rigidly-pkg.el
   smart-indent-rigidly-20141206.15/smart-indent-rigidly.el
  ✓ Success:
-  2025-11-17T00:58:44+0000  smart-indent-rigidly-20141206.15.entry
-  2025-11-17T00:58:44+0000  smart-indent-rigidly-20141206.15.tar
-Built smart-indent-rigidly in 2.715s, finished at 2025-11-17T00:58:45+0000
+  2025-12-01T01:46:13+0000  smart-indent-rigidly-20141206.15.entry
+  2025-12-01T01:46:13+0000  smart-indent-rigidly-20141206.15.tar
+Built smart-indent-rigidly in 2.729s, finished at 2025-12-01T01:46:14+0000

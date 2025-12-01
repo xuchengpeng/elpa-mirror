@@ -1,12 +1,9 @@
-Package: pinyin
-Fetcher: github
-Source:  https://github.com/xuchunyang/pinyin.el
-
+ • Building package pinyin (from github:xuchunyang/pinyin.el)...
 Updating /mnt/store/melpa/working/pinyin/
 Checking out b7a0aad8ff35e50d1c536df4c0e73fc7e9d06700
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/pinyin/
-  to /tmp/pinyinnmR7wJ/pinyin-20220815.1239
+  to /tmp/pinyinqp8moR/pinyin-20220815.1239
     pinyin.el -> pinyin.el
     pinyin-data/pinyin.txt -> pinyin-data/pinyin.txt
 Created pinyin-20220815.1239.tar containing:
@@ -16,6 +13,6 @@ Created pinyin-20220815.1239.tar containing:
   pinyin-20220815.1239/pinyin-pkg.el
   pinyin-20220815.1239/pinyin.el
  ✓ Success:
-  2025-11-17T00:49:31+0000  pinyin-20220815.1239.entry
-  2025-11-17T00:49:31+0000  pinyin-20220815.1239.tar
-Built pinyin in 3.194s, finished at 2025-11-17T00:49:32+0000
+  2025-12-01T01:36:59+0000  pinyin-20220815.1239.entry
+  2025-12-01T01:36:59+0000  pinyin-20220815.1239.tar
+Built pinyin in 3.286s, finished at 2025-12-01T01:37:00+0000

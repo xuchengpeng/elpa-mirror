@@ -1,18 +1,15 @@
-Package: ibuffer-vc
-Fetcher: github
-Source:  https://github.com/purcell/ibuffer-vc
-
+ • Building package ibuffer-vc (from github:purcell/ibuffer-vc)...
 Updating /mnt/store/melpa/working/ibuffer-vc/
 Checking out 890c692da9348ef071a4b27940082a4dad05b27c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ibuffer-vc/
-  to /tmp/ibuffer-vcL7EQL6/ibuffer-vc-20241106.1518
+  to /tmp/ibuffer-vcNdDCIe/ibuffer-vc-20241106.1518
     ibuffer-vc.el -> ibuffer-vc.el
 Created ibuffer-vc-20241106.1518.tar containing:
   ibuffer-vc-20241106.1518/
   ibuffer-vc-20241106.1518/ibuffer-vc-pkg.el
   ibuffer-vc-20241106.1518/ibuffer-vc.el
  ✓ Success:
-  2025-11-17T00:28:12+0000  ibuffer-vc-20241106.1518.entry
-  2025-11-17T00:28:12+0000  ibuffer-vc-20241106.1518.tar
-Built ibuffer-vc in 2.909s, finished at 2025-11-17T00:28:13+0000
+  2025-12-01T01:15:12+0000  ibuffer-vc-20241106.1518.entry
+  2025-12-01T01:15:12+0000  ibuffer-vc-20241106.1518.tar
+Built ibuffer-vc in 4.813s, finished at 2025-12-01T01:15:13+0000

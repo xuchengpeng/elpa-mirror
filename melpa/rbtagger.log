@@ -1,12 +1,9 @@
-Package: rbtagger
-Fetcher: github
-Source:  https://github.com/thiagoa/rbtagger
-
+ • Building package rbtagger (from github:thiagoa/rbtagger)...
 Updating /mnt/store/melpa/working/rbtagger/
 Checking out 650c428ef145ce697f02ef12cfadd9deb82b856f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/rbtagger/
-  to /tmp/rbtaggerMOv89R/rbtagger-20251024.1551
+  to /tmp/rbtaggerVQ1MHs/rbtagger-20251024.1551
     rbtagger.el -> rbtagger.el
     bin => bin
 Created rbtagger-20251024.1551.tar containing:
@@ -17,6 +14,6 @@ Created rbtagger-20251024.1551.tar containing:
   rbtagger-20251024.1551/rbtagger-pkg.el
   rbtagger-20251024.1551/rbtagger.el
  ✓ Success:
-  2025-11-17T00:53:28+0000  rbtagger-20251024.1551.entry
-  2025-11-17T00:53:28+0000  rbtagger-20251024.1551.tar
-Built rbtagger in 3.284s, finished at 2025-11-17T00:53:29+0000
+  2025-12-01T01:41:02+0000  rbtagger-20251024.1551.entry
+  2025-12-01T01:41:02+0000  rbtagger-20251024.1551.tar
+Built rbtagger in 3.783s, finished at 2025-12-01T01:41:03+0000

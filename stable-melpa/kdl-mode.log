@@ -1,18 +1,15 @@
-Package: kdl-mode
-Fetcher: github
-Source:  https://github.com/taquangtrung/emacs-kdl-mode
-
+ • Building package kdl-mode (from github:taquangtrung/emacs-kdl-mode)...
 Updating /mnt/store/melpa/working/kdl-mode/
 Checking out 0723706e1248bf07b2761f630ad0de2393a76aeb
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/kdl-mode/
-  to /tmp/kdl-modebe8H1z/kdl-mode-20250620.259
+  to /tmp/kdl-modeDR6KEC/kdl-mode-20250620.259
     kdl-mode.el -> kdl-mode.el
 Created kdl-mode-20250620.259.tar containing:
   kdl-mode-20250620.259/
   kdl-mode-20250620.259/kdl-mode-pkg.el
   kdl-mode-20250620.259/kdl-mode.el
  ✓ Success:
-  2025-11-17T00:32:04+0000  kdl-mode-20250620.259.entry
-  2025-11-17T00:32:04+0000  kdl-mode-20250620.259.tar
-Built kdl-mode in 3.208s, finished at 2025-11-17T00:32:05+0000
+  2025-12-01T01:19:10+0000  kdl-mode-20250620.259.entry
+  2025-12-01T01:19:10+0000  kdl-mode-20250620.259.tar
+Built kdl-mode in 3.624s, finished at 2025-12-01T01:19:11+0000

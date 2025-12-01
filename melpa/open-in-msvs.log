@@ -1,12 +1,9 @@
-Package: open-in-msvs
-Fetcher: github
-Source:  https://github.com/evgeny-panasyuk/open-in-msvs.el
-
+ • Building package open-in-msvs (from github:evgeny-panasyuk/open-in-msvs.el)...
 Updating /mnt/store/melpa/working/open-in-msvs/
 Checking out e0d071c83188ad5db8f3297d6ce784b4ed554a04
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/open-in-msvs/
-  to /tmp/open-in-msvsWMTW4L/open-in-msvs-20170123.2228
+  to /tmp/open-in-msvsiOLi3G/open-in-msvs-20170123.2228
     open-in-msvs.el -> open-in-msvs.el
     open-in-msvs.vbs -> open-in-msvs.vbs
 Created open-in-msvs-20170123.2228.tar containing:
@@ -15,6 +12,6 @@ Created open-in-msvs-20170123.2228.tar containing:
   open-in-msvs-20170123.2228/open-in-msvs.el
   open-in-msvs-20170123.2228/open-in-msvs.vbs
  ✓ Success:
-  2025-11-17T00:43:11+0000  open-in-msvs-20170123.2228.entry
-  2025-11-17T00:43:11+0000  open-in-msvs-20170123.2228.tar
-Built open-in-msvs in 2.881s, finished at 2025-11-17T00:43:12+0000
+  2025-12-01T01:30:28+0000  open-in-msvs-20170123.2228.entry
+  2025-12-01T01:30:28+0000  open-in-msvs-20170123.2228.tar
+Built open-in-msvs in 2.823s, finished at 2025-12-01T01:30:29+0000

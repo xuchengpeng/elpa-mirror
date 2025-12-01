@@ -1,18 +1,15 @@
-Package: prodigy
-Fetcher: github
-Source:  https://github.com/rejeep/prodigy.el
-
+ • Building package prodigy (from github:rejeep/prodigy.el)...
 Updating /mnt/store/melpa/working/prodigy/
 Checking out 7bd89fdd544209afb28d6abe828728ad62257617
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/prodigy/
-  to /tmp/prodigyW9bdip/prodigy-20250401.1948
+  to /tmp/prodigyS61cVW/prodigy-20250401.1948
     prodigy.el -> prodigy.el
 Created prodigy-20250401.1948.tar containing:
   prodigy-20250401.1948/
   prodigy-20250401.1948/prodigy-pkg.el
   prodigy-20250401.1948/prodigy.el
  ✓ Success:
-  2025-11-17T00:51:20+0000  prodigy-20250401.1948.entry
-  2025-11-17T00:51:20+0000  prodigy-20250401.1948.tar
-Built prodigy in 3.048s, finished at 2025-11-17T00:51:21+0000
+  2025-12-01T01:38:50+0000  prodigy-20250401.1948.entry
+  2025-12-01T01:38:50+0000  prodigy-20250401.1948.tar
+Built prodigy in 3.102s, finished at 2025-12-01T01:38:51+0000

@@ -1,12 +1,9 @@
-Package: simple-mpc
-Fetcher: github
-Source:  https://github.com/jorenvo/simple-mpc
-
+ • Building package simple-mpc (from github:jorenvo/simple-mpc)...
 Updating /mnt/store/melpa/working/simple-mpc/
 Checking out 57ee14ada8aec477ddde5e4f632c8d3d99a66535
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/simple-mpc/
-  to /tmp/simple-mpcrGaIfT/simple-mpc-20220216.102
+  to /tmp/simple-mpcClzFZZ/simple-mpc-20220216.102
     simple-mpc-current-playlist.el -> simple-mpc-current-playlist.el
     simple-mpc-mode.el -> simple-mpc-mode.el
     simple-mpc-query.el -> simple-mpc-query.el
@@ -23,6 +20,6 @@ Created simple-mpc-20220216.102.tar containing:
   simple-mpc-20220216.102/simple-mpc-vars.el
   simple-mpc-20220216.102/simple-mpc.el
  ✓ Success:
-  2025-11-17T00:58:03+0000  simple-mpc-20220216.102.entry
-  2025-11-17T00:58:03+0000  simple-mpc-20220216.102.tar
-Built simple-mpc in 2.975s, finished at 2025-11-17T00:58:04+0000
+  2025-12-01T01:45:31+0000  simple-mpc-20220216.102.entry
+  2025-12-01T01:45:31+0000  simple-mpc-20220216.102.tar
+Built simple-mpc in 2.795s, finished at 2025-12-01T01:45:32+0000

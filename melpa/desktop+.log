@@ -1,16 +1,13 @@
-Package: desktop+
-Fetcher: github
-Source:  https://github.com/ffevotte/desktop-plus
-
+ • Building package desktop+ (from github:ffevotte/desktop-plus)...
 Updating /mnt/store/melpa/working/desktop+/
 Checking out d26f369bda96860eef18365cdb5c79f39a2c765c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/desktop+/
-  to /tmp/desktop+nDkMZB/desktop+-20170107.2132
+  to /tmp/desktop+AvUMPL/desktop+-20170107.2132
     desktop+.el -> desktop+.el
 Created desktop+-20170107.2132.tar containing:
   desktop+-20170107.2132/
   desktop+-20170107.2132/desktop+-pkg.el
   desktop+-20170107.2132/desktop+.el
  ✓ Success:
-Built desktop+ in 3.281s, finished at 2025-11-17T00:07:15+0000
+Built desktop+ in 3.309s, finished at 2025-12-01T00:54:22+0000

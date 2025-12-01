@@ -1,12 +1,9 @@
-Package: tc
-Fetcher: github
-Source:  https://github.com/kanchoku/tc
-
+ • Building package tc (from github:kanchoku/tc)...
 Updating /mnt/store/melpa/working/tc/
 Checking out f7d81efa7a2a481e58d8fc0a404473654f7a96a1
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/tc/
-  to /tmp/tcPcbNlW/tc-20251019.735
+  to /tmp/tcJnRNW9/tc-20251019.735
     eelll.el -> eelll.el
     tc-bushu.el -> tc-bushu.el
     tc-complete.el -> tc-complete.el
@@ -88,6 +85,6 @@ Created tc-20251019.735.tar containing:
   tc-20251019.735/ttc-tbl.el
   tc-20251019.735/tutc-tbl.el
  ✓ Success:
-  2025-11-17T01:02:19+0000  tc-20251019.735.entry
-  2025-11-17T01:02:19+0000  tc-20251019.735.tar
-Built tc in 4.611s, finished at 2025-11-17T01:02:20+0000
+  2025-12-01T01:49:50+0000  tc-20251019.735.entry
+  2025-12-01T01:49:50+0000  tc-20251019.735.tar
+Built tc in 7.977s, finished at 2025-12-01T01:49:52+0000

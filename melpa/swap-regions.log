@@ -1,18 +1,15 @@
-Package: swap-regions
-Fetcher: github
-Source:  https://github.com/xuchunyang/swap-regions.el
-
+ • Building package swap-regions (from github:xuchunyang/swap-regions.el)...
 Updating /mnt/store/melpa/working/swap-regions/
 Checking out f4fd9880cf690e003fcde88dcf2b46adbbbb03cd
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/swap-regions/
-  to /tmp/swap-regionsjE6P0C/swap-regions-20180915.1346
+  to /tmp/swap-regionsV43T2C/swap-regions-20180915.1346
     swap-regions.el -> swap-regions.el
 Created swap-regions-20180915.1346.tar containing:
   swap-regions-20180915.1346/
   swap-regions-20180915.1346/swap-regions-pkg.el
   swap-regions-20180915.1346/swap-regions.el
  ✓ Success:
-  2025-11-17T01:01:15+0000  swap-regions-20180915.1346.entry
-  2025-11-17T01:01:15+0000  swap-regions-20180915.1346.tar
-Built swap-regions in 4.383s, finished at 2025-11-17T01:01:17+0000
+  2025-12-01T01:48:40+0000  swap-regions-20180915.1346.entry
+  2025-12-01T01:48:40+0000  swap-regions-20180915.1346.tar
+Built swap-regions in 2.889s, finished at 2025-12-01T01:48:41+0000

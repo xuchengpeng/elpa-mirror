@@ -1,12 +1,9 @@
-Package: anaconda-mode
-Fetcher: github
-Source:  https://github.com/pythonic-emacs/anaconda-mode
-
+ • Building package anaconda-mode (from github:pythonic-emacs/anaconda-mode)...
 Updating /mnt/store/melpa/working/anaconda-mode/
 Checking out ee1562c6b443be9208910c700e229824b2f1af7a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/anaconda-mode/
-  to /tmp/anaconda-modegxVPQc/anaconda-mode-20250430.227
+  to /tmp/anaconda-modeIo9ZyP/anaconda-mode-20250430.227
     anaconda-mode.el -> anaconda-mode.el
     anaconda-mode.py -> anaconda-mode.py
 Created anaconda-mode-20250430.227.tar containing:
@@ -15,6 +12,6 @@ Created anaconda-mode-20250430.227.tar containing:
   anaconda-mode-20250430.227/anaconda-mode.el
   anaconda-mode-20250430.227/anaconda-mode.py
  ✓ Success:
-  2025-11-16T23:55:03+0000  anaconda-mode-20250430.227.entry
-  2025-11-16T23:55:03+0000  anaconda-mode-20250430.227.tar
-Built anaconda-mode in 5.807s, finished at 2025-11-16T23:55:05+0000
+  2025-12-01T00:42:13+0000  anaconda-mode-20250430.227.entry
+  2025-12-01T00:42:13+0000  anaconda-mode-20250430.227.tar
+Built anaconda-mode in 3.292s, finished at 2025-12-01T00:42:14+0000

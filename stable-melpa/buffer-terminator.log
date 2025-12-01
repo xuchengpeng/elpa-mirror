@@ -1,18 +1,15 @@
-Package: buffer-terminator
-Fetcher: github
-Source:  https://github.com/jamescherti/buffer-terminator.el
-
+ • Building package buffer-terminator (from github:jamescherti/buffer-terminator.el)...
 Updating /mnt/store/melpa/working/buffer-terminator/
 Checking out 68552751bcfd049e72a5b81b3077b121ec7a7d01
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/buffer-terminator/
-  to /tmp/buffer-terminatorZvwizg/buffer-terminator-20250911.2238
+  to /tmp/buffer-terminatorl3DqVC/buffer-terminator-20250911.2238
     buffer-terminator.el -> buffer-terminator.el
 Created buffer-terminator-20250911.2238.tar containing:
   buffer-terminator-20250911.2238/
   buffer-terminator-20250911.2238/buffer-terminator-pkg.el
   buffer-terminator-20250911.2238/buffer-terminator.el
  ✓ Success:
-  2025-11-16T23:59:14+0000  buffer-terminator-20250911.2238.entry
-  2025-11-16T23:59:14+0000  buffer-terminator-20250911.2238.tar
-Built buffer-terminator in 2.845s, finished at 2025-11-16T23:59:15+0000
+  2025-12-01T00:46:16+0000  buffer-terminator-20250911.2238.entry
+  2025-12-01T00:46:16+0000  buffer-terminator-20250911.2238.tar
+Built buffer-terminator in 5.002s, finished at 2025-12-01T00:46:17+0000

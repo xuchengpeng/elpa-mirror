@@ -1,18 +1,15 @@
-Package: use-ttf
-Fetcher: github
-Source:  https://github.com/jcs-elpa/use-ttf
-
+ • Building package use-ttf (from github:jcs-elpa/use-ttf)...
 Updating /mnt/store/melpa/working/use-ttf/
 Checking out 762a10f270430b278d48fd290100f0b899e5b9f5
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/use-ttf/
-  to /tmp/use-ttfXqGJ9D/use-ttf-20250624.1031
+  to /tmp/use-ttfWKT7XI/use-ttf-20250624.1031
     use-ttf.el -> use-ttf.el
 Created use-ttf-20250624.1031.tar containing:
   use-ttf-20250624.1031/
   use-ttf-20250624.1031/use-ttf-pkg.el
   use-ttf-20250624.1031/use-ttf.el
  ✓ Success:
-  2025-11-17T01:05:45+0000  use-ttf-20250624.1031.entry
-  2025-11-17T01:05:45+0000  use-ttf-20250624.1031.tar
-Built use-ttf in 2.843s, finished at 2025-11-17T01:05:46+0000
+  2025-12-01T01:53:17+0000  use-ttf-20250624.1031.entry
+  2025-12-01T01:53:17+0000  use-ttf-20250624.1031.tar
+Built use-ttf in 2.610s, finished at 2025-12-01T01:53:18+0000

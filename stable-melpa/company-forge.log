@@ -1,12 +1,9 @@
-Package: company-forge
-Fetcher: github
-Source:  https://github.com/pkryger/company-forge.el
-
+ • Building package company-forge (from github:pkryger/company-forge.el)...
 Updating /mnt/store/melpa/working/company-forge/
 Checking out 17f20cf41bd8711e1e8d9c93a7385dad55754ff0
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/company-forge/
-  to /tmp/company-forgeuforKk/company-forge-20251101.1346
+  to /tmp/company-forges2jsl7/company-forge-20251101.1346
     company-forge.el -> company-forge.el
     icons => icons
 Created company-forge-20251101.1346.tar containing:
@@ -29,6 +26,6 @@ Created company-forge-20251101.1346.tar containing:
   company-forge-20251101.1346/icons/people-16.svg
   company-forge-20251101.1346/icons/person-16.svg
  ✓ Success:
-  2025-11-17T00:03:09+0000  company-forge-20251101.1346.entry
-  2025-11-17T00:03:09+0000  company-forge-20251101.1346.tar
-Built company-forge in 2.956s, finished at 2025-11-17T00:03:10+0000
+  2025-12-01T00:49:58+0000  company-forge-20251101.1346.entry
+  2025-12-01T00:49:58+0000  company-forge-20251101.1346.tar
+Built company-forge in 2.888s, finished at 2025-12-01T00:49:59+0000
