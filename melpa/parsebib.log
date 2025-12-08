@@ -1,15 +1,15 @@
  • Building package parsebib (from github:joostkremers/parsebib)...
 Updating /mnt/store/melpa/working/parsebib/
-Checking out 4a9df6f1b4f37bbf4f8712eac99c8a25698f1c0e
+Checking out b3990a18984284f0809e6e095196936e65fda2eb
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/parsebib/
-  to /tmp/parsebibsf49YN/parsebib-20250922.1100
+  to /tmp/parsebibgxQ1se/parsebib-20251125.1320
     parsebib.el -> parsebib.el
-Created parsebib-20250922.1100.tar containing:
-  parsebib-20250922.1100/
-  parsebib-20250922.1100/parsebib-pkg.el
-  parsebib-20250922.1100/parsebib.el
+Created parsebib-20251125.1320.tar containing:
+  parsebib-20251125.1320/
+  parsebib-20251125.1320/parsebib-pkg.el
+  parsebib-20251125.1320/parsebib.el
  ✓ Success:
-  2025-12-01T01:35:35+0000  parsebib-20250922.1100.entry
-  2025-12-01T01:35:35+0000  parsebib-20250922.1100.tar
-Built parsebib in 3.099s, finished at 2025-12-01T01:35:36+0000
+  2025-12-08T00:32:25+0000  parsebib-20251125.1320.entry
+  2025-12-08T00:32:25+0000  parsebib-20251125.1320.tar
+Built parsebib in 3.211s, finished at 2025-12-08T00:32:26+0000

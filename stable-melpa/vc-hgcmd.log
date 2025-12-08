@@ -3,13 +3,13 @@ Updating /mnt/store/melpa/working/vc-hgcmd/
 Checking out d044448965d31ca8214f8bca48487e4d9b9d9a0f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/vc-hgcmd/
-  to /tmp/vc-hgcmdw1smaF/vc-hgcmd-20211021.1704
+  to /tmp/vc-hgcmd6QlH4B/vc-hgcmd-20211021.1704
     vc-hgcmd.el -> vc-hgcmd.el
 Created vc-hgcmd-20211021.1704.tar containing:
   vc-hgcmd-20211021.1704/
   vc-hgcmd-20211021.1704/vc-hgcmd-pkg.el
   vc-hgcmd-20211021.1704/vc-hgcmd.el
  ✓ Success:
-  2025-12-01T01:53:32+0000  vc-hgcmd-20211021.1704.entry
-  2025-12-01T01:53:32+0000  vc-hgcmd-20211021.1704.tar
-Built vc-hgcmd in 2.445s, finished at 2025-12-01T01:53:33+0000
+  2025-12-08T00:49:53+0000  vc-hgcmd-20211021.1704.entry
+  2025-12-08T00:49:53+0000  vc-hgcmd-20211021.1704.tar
+Built vc-hgcmd in 2.897s, finished at 2025-12-08T00:49:54+0000

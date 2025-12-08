@@ -3,7 +3,7 @@ Updating /mnt/store/melpa/working/tikz/
 Checking out 4b205afc5c88f050639135d1d57f1276db323842
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/tikz/
-  to /tmp/tikzjXSU4G/tikz-20220526.521
+  to /tmp/tikzWxPwEk/tikz-20220526.521
     tikz.el -> tikz.el
     templates => templates
 Created tikz-20220526.521.tar containing:
@@ -15,6 +15,6 @@ Created tikz-20220526.521.tar containing:
   tikz-20220526.521/tikz-pkg.el
   tikz-20220526.521/tikz.el
  ✓ Success:
-  2025-12-01T01:50:43+0000  tikz-20220526.521.entry
-  2025-12-01T01:50:43+0000  tikz-20220526.521.tar
-Built tikz in 3.172s, finished at 2025-12-01T01:50:44+0000
+  2025-12-08T00:46:53+0000  tikz-20220526.521.entry
+  2025-12-08T00:46:53+0000  tikz-20220526.521.tar
+Built tikz in 2.949s, finished at 2025-12-08T00:46:54+0000

@@ -1,9 +1,9 @@
  • Building package org-srs (from github:bohonghuang/org-srs)...
 Updating /mnt/store/melpa/working/org-srs/
-Checking out dcfcddd769be3fb2f4bd08cf78bd56f15b183085
+Checking out 2a7b49854b65d116f929f1ae193bd2365f2f9b0c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/org-srs/
-  to /tmp/org-srsi1k4Ot/org-srs-20251116.1631
+  to /tmp/org-srsgKOIu7/org-srs-20251207.854
     org-srs-algorithm-fsrs-optimizer.el -> org-srs-algorithm-fsrs-optimizer.el
     org-srs-algorithm-fsrs.el -> org-srs-algorithm-fsrs.el
     org-srs-algorithm.el -> org-srs-algorithm.el
@@ -35,41 +35,41 @@ Copying files (->) and directories (=>)
     org-srs-table.el -> org-srs-table.el
     org-srs-time.el -> org-srs-time.el
     org-srs.el -> org-srs.el
-Created org-srs-20251116.1631.tar containing:
-  org-srs-20251116.1631/
-  org-srs-20251116.1631/org-srs-algorithm-fsrs-optimizer.el
-  org-srs-20251116.1631/org-srs-algorithm-fsrs.el
-  org-srs-20251116.1631/org-srs-algorithm.el
-  org-srs-20251116.1631/org-srs-child-frame.el
-  org-srs-20251116.1631/org-srs-embed.el
-  org-srs-20251116.1631/org-srs-entry.el
-  org-srs-20251116.1631/org-srs-item-card.el
-  org-srs-20251116.1631/org-srs-item-cloze-latex.el
-  org-srs-20251116.1631/org-srs-item-cloze.el
-  org-srs-20251116.1631/org-srs-item.el
-  org-srs-20251116.1631/org-srs-log.el
-  org-srs-20251116.1631/org-srs-mouse.el
-  org-srs-20251116.1631/org-srs-pkg.el
-  org-srs-20251116.1631/org-srs-property.el
-  org-srs-20251116.1631/org-srs-query.el
-  org-srs-20251116.1631/org-srs-review-ahead.el
-  org-srs-20251116.1631/org-srs-review-cache.el
-  org-srs-20251116.1631/org-srs-review-cram.el
-  org-srs-20251116.1631/org-srs-review-rate.el
-  org-srs-20251116.1631/org-srs-review-strategy.el
-  org-srs-20251116.1631/org-srs-review.el
-  org-srs-20251116.1631/org-srs-schedule-bury.el
-  org-srs-20251116.1631/org-srs-schedule-fuzz.el
-  org-srs-20251116.1631/org-srs-schedule-offset.el
-  org-srs-20251116.1631/org-srs-schedule-step.el
-  org-srs-20251116.1631/org-srs-schedule.el
-  org-srs-20251116.1631/org-srs-stats-history.el
-  org-srs-20251116.1631/org-srs-stats-interval.el
-  org-srs-20251116.1631/org-srs-stats.el
-  org-srs-20251116.1631/org-srs-table.el
-  org-srs-20251116.1631/org-srs-time.el
-  org-srs-20251116.1631/org-srs.el
+Created org-srs-20251207.854.tar containing:
+  org-srs-20251207.854/
+  org-srs-20251207.854/org-srs-algorithm-fsrs-optimizer.el
+  org-srs-20251207.854/org-srs-algorithm-fsrs.el
+  org-srs-20251207.854/org-srs-algorithm.el
+  org-srs-20251207.854/org-srs-child-frame.el
+  org-srs-20251207.854/org-srs-embed.el
+  org-srs-20251207.854/org-srs-entry.el
+  org-srs-20251207.854/org-srs-item-card.el
+  org-srs-20251207.854/org-srs-item-cloze-latex.el
+  org-srs-20251207.854/org-srs-item-cloze.el
+  org-srs-20251207.854/org-srs-item.el
+  org-srs-20251207.854/org-srs-log.el
+  org-srs-20251207.854/org-srs-mouse.el
+  org-srs-20251207.854/org-srs-pkg.el
+  org-srs-20251207.854/org-srs-property.el
+  org-srs-20251207.854/org-srs-query.el
+  org-srs-20251207.854/org-srs-review-ahead.el
+  org-srs-20251207.854/org-srs-review-cache.el
+  org-srs-20251207.854/org-srs-review-cram.el
+  org-srs-20251207.854/org-srs-review-rate.el
+  org-srs-20251207.854/org-srs-review-strategy.el
+  org-srs-20251207.854/org-srs-review.el
+  org-srs-20251207.854/org-srs-schedule-bury.el
+  org-srs-20251207.854/org-srs-schedule-fuzz.el
+  org-srs-20251207.854/org-srs-schedule-offset.el
+  org-srs-20251207.854/org-srs-schedule-step.el
+  org-srs-20251207.854/org-srs-schedule.el
+  org-srs-20251207.854/org-srs-stats-history.el
+  org-srs-20251207.854/org-srs-stats-interval.el
+  org-srs-20251207.854/org-srs-stats.el
+  org-srs-20251207.854/org-srs-table.el
+  org-srs-20251207.854/org-srs-time.el
+  org-srs-20251207.854/org-srs.el
  ✓ Success:
-  2025-12-01T01:33:16+0000  org-srs-20251116.1631.entry
-  2025-12-01T01:33:15+0000  org-srs-20251116.1631.tar
-Built org-srs in 3.106s, finished at 2025-12-01T01:33:16+0000
+  2025-12-08T00:29:55+0000  org-srs-20251207.854.entry
+  2025-12-08T00:29:55+0000  org-srs-20251207.854.tar
+Built org-srs in 3.591s, finished at 2025-12-08T00:29:55+0000

@@ -3,7 +3,7 @@ Updating /mnt/store/melpa/working/w3m/
 Checking out 87cacb2a0e59db00b8deb3f40a2a9f8141f3217b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/w3m/
-  to /tmp/w3m525nRb/w3m-20251201.129
+  to /tmp/w3mmF9UIY/w3m-20251201.129
     bookmark-w3m.el -> bookmark-w3m.el
     mime-w3m.el -> mime-w3m.el
     w3m-antenna.el -> w3m-antenna.el
@@ -111,8 +111,6 @@ Created w3m-20251201.129.tar containing:
   w3m-20251201.129/w3m.el
   w3m-20251201.129/w3mhack.el
  ✓ Success:
-  2025-11-30T23:28:20+0000  w3m-20250503.2349.entry
-  2025-11-30T23:28:20+0000  w3m-20250503.2349.tar
-  2025-12-01T01:54:45+0000  w3m-20251201.129.entry
-  2025-12-01T01:54:45+0000  w3m-20251201.129.tar
-Built w3m in 4.261s, finished at 2025-12-01T01:54:46+0000
+  2025-12-08T00:50:49+0000  w3m-20251201.129.entry
+  2025-12-08T00:50:49+0000  w3m-20251201.129.tar
+Built w3m in 4.311s, finished at 2025-12-08T00:50:50+0000

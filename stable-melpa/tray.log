@@ -3,15 +3,13 @@ Updating /mnt/store/melpa/working/tray/
 Checking out e9133190502b5923859f590abf6e18e198b878ef
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/tray/
-  to /tmp/trayJTvb09/tray-20251130.2326
+  to /tmp/trayc01ZJW/tray-20251130.2326
     tray.el -> tray.el
 Created tray-20251130.2326.tar containing:
   tray-20251130.2326/
   tray-20251130.2326/tray-pkg.el
   tray-20251130.2326/tray.el
  ✓ Success:
-  2025-11-30T23:25:18+0000  tray-20251111.1731.entry
-  2025-11-30T23:25:18+0000  tray-20251111.1731.tar
-  2025-12-01T01:51:46+0000  tray-20251130.2326.entry
-  2025-12-01T01:51:46+0000  tray-20251130.2326.tar
-Built tray in 2.860s, finished at 2025-12-01T01:51:47+0000
+  2025-12-08T00:47:56+0000  tray-20251130.2326.entry
+  2025-12-08T00:47:56+0000  tray-20251130.2326.tar
+Built tray in 4.147s, finished at 2025-12-08T00:47:58+0000

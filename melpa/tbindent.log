@@ -1,15 +1,15 @@
  • Building package tbindent (from github:pierre-rouleau/tab-based-indent)...
 Updating /mnt/store/melpa/working/tbindent/
-Checking out cd78a27e88ea4b17f63c7480b7cdfd1895bac0d4
+Checking out 473e3bd7e13f7d5868688e3dc274b96e705c279f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/tbindent/
-  to /tmp/tbindent6MVD00/tbindent-20251130.2135
+  to /tmp/tbindentdrAwhw/tbindent-20251201.2003
     tbindent.el -> tbindent.el
-Created tbindent-20251130.2135.tar containing:
-  tbindent-20251130.2135/
-  tbindent-20251130.2135/tbindent-pkg.el
-  tbindent-20251130.2135/tbindent.el
+Created tbindent-20251201.2003.tar containing:
+  tbindent-20251201.2003/
+  tbindent-20251201.2003/tbindent-pkg.el
+  tbindent-20251201.2003/tbindent.el
  ✓ Success:
-  2025-12-01T01:49:45+0000  tbindent-20251130.2135.entry
-  2025-12-01T01:49:45+0000  tbindent-20251130.2135.tar
-Built tbindent in 5.401s, finished at 2025-12-01T01:49:46+0000
+  2025-12-08T00:46:01+0000  tbindent-20251201.2003.entry
+  2025-12-08T00:46:01+0000  tbindent-20251201.2003.tar
+Built tbindent in 3.096s, finished at 2025-12-08T00:46:02+0000

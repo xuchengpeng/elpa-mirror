@@ -1,17 +1,17 @@
  • Building package difftastic (from github:pkryger/difftastic.el)...
 Updating /mnt/store/melpa/working/difftastic/
-Checking out 9cb89fcff94f68b869e214b08d7af7265b78ecbd
+Checking out 1f5471632d78b37df968a4d8790442aed3da3af7
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/difftastic/
-  to /tmp/difftastickWNyxB/difftastic-20251021.1320
+  to /tmp/difftasticUZvTM8/difftastic-20251202.1715
     difftastic-bindings.el -> difftastic-bindings.el
     difftastic.el -> difftastic.el
-Created difftastic-20251021.1320.tar containing:
-  difftastic-20251021.1320/
-  difftastic-20251021.1320/difftastic-bindings.el
-  difftastic-20251021.1320/difftastic-pkg.el
-  difftastic-20251021.1320/difftastic.el
+Created difftastic-20251202.1715.tar containing:
+  difftastic-20251202.1715/
+  difftastic-20251202.1715/difftastic-bindings.el
+  difftastic-20251202.1715/difftastic-pkg.el
+  difftastic-20251202.1715/difftastic.el
  ✓ Success:
-  2025-12-01T00:54:39+0000  difftastic-20251021.1320.entry
-  2025-12-01T00:54:39+0000  difftastic-20251021.1320.tar
-Built difftastic in 3.236s, finished at 2025-12-01T00:54:40+0000
+  2025-12-07T23:52:46+0000  difftastic-20251202.1715.entry
+  2025-12-07T23:52:45+0000  difftastic-20251202.1715.tar
+Built difftastic in 2.885s, finished at 2025-12-07T23:52:46+0000

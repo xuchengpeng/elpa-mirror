@@ -1,15 +1,15 @@
  • Building package hack-mode (from github:hhvm/hack-mode)...
 Updating /mnt/store/melpa/working/hack-mode/
-Checking out 0addbff8b61cfd75b81961507a1646c4acd316ba
+Checking out 0d11408f40185e4483395cf4e578b260e8fae195
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/hack-mode/
-  to /tmp/hack-modesJMTzQ/hack-mode-20250304.640
+  to /tmp/hack-modej3Zdaj/hack-mode-20251207.350
     hack-mode.el -> hack-mode.el
-Created hack-mode-20250304.640.tar containing:
-  hack-mode-20250304.640/
-  hack-mode-20250304.640/hack-mode-pkg.el
-  hack-mode-20250304.640/hack-mode.el
+Created hack-mode-20251207.350.tar containing:
+  hack-mode-20251207.350/
+  hack-mode-20251207.350/hack-mode-pkg.el
+  hack-mode-20251207.350/hack-mode.el
  ✓ Success:
-  2025-12-01T01:11:09+0000  hack-mode-20250304.640.entry
-  2025-12-01T01:11:09+0000  hack-mode-20250304.640.tar
-Built hack-mode in 3.398s, finished at 2025-12-01T01:11:10+0000
+  2025-12-08T00:09:06+0000  hack-mode-20251207.350.entry
+  2025-12-08T00:09:06+0000  hack-mode-20251207.350.tar
+Built hack-mode in 5.279s, finished at 2025-12-08T00:09:08+0000
