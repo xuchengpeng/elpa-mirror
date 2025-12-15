@@ -1,19 +1,31 @@
  • Building package hyperstitional-themes (from github:precompute/hyperstitional-themes)...
 Updating /mnt/store/melpa/working/hyperstitional-themes/
-Checking out 0fe57ce5edb4237608ff93a41d9f24edb287eec0
+Checking out 86b942006b6c201e0ee4608797d9acc0083f499a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/hyperstitional-themes/
-  to /tmp/hyperstitional-themesnJM2e6/hyperstitional-themes-20250611.1813
+  to /tmp/hyperstitional-themesQQxESs/hyperstitional-themes-20251214.1417
     hyperstitional-themes-digitalsear-inverted-theme.el -> hyperstitional-themes-digitalsear-inverted-theme.el
     hyperstitional-themes-digitalsear-theme.el -> hyperstitional-themes-digitalsear-theme.el
+    hyperstitional-themes-rebug-alternate-flipped-theme.el -> hyperstitional-themes-rebug-alternate-flipped-theme.el
+    hyperstitional-themes-rebug-alternate-theme.el -> hyperstitional-themes-rebug-alternate-theme.el
+    hyperstitional-themes-rebug-flipped-theme.el -> hyperstitional-themes-rebug-flipped-theme.el
+    hyperstitional-themes-rebug-lawn-lush-theme.el -> hyperstitional-themes-rebug-lawn-lush-theme.el
+    hyperstitional-themes-rebug-lawn-sere-theme.el -> hyperstitional-themes-rebug-lawn-sere-theme.el
+    hyperstitional-themes-rebug-theme.el -> hyperstitional-themes-rebug-theme.el
     hyperstitional-themes.el -> hyperstitional-themes.el
-Created hyperstitional-themes-20250611.1813.tar containing:
-  hyperstitional-themes-20250611.1813/
-  hyperstitional-themes-20250611.1813/hyperstitional-themes-digitalsear-inverted-theme.el
-  hyperstitional-themes-20250611.1813/hyperstitional-themes-digitalsear-theme.el
-  hyperstitional-themes-20250611.1813/hyperstitional-themes-pkg.el
-  hyperstitional-themes-20250611.1813/hyperstitional-themes.el
+Created hyperstitional-themes-20251214.1417.tar containing:
+  hyperstitional-themes-20251214.1417/
+  hyperstitional-themes-20251214.1417/hyperstitional-themes-digitalsear-inverted-theme.el
+  hyperstitional-themes-20251214.1417/hyperstitional-themes-digitalsear-theme.el
+  hyperstitional-themes-20251214.1417/hyperstitional-themes-pkg.el
+  hyperstitional-themes-20251214.1417/hyperstitional-themes-rebug-alternate-flipped-theme.el
+  hyperstitional-themes-20251214.1417/hyperstitional-themes-rebug-alternate-theme.el
+  hyperstitional-themes-20251214.1417/hyperstitional-themes-rebug-flipped-theme.el
+  hyperstitional-themes-20251214.1417/hyperstitional-themes-rebug-lawn-lush-theme.el
+  hyperstitional-themes-20251214.1417/hyperstitional-themes-rebug-lawn-sere-theme.el
+  hyperstitional-themes-20251214.1417/hyperstitional-themes-rebug-theme.el
+  hyperstitional-themes-20251214.1417/hyperstitional-themes.el
  ✓ Success:
-  2025-12-08T00:12:45+0000  hyperstitional-themes-20250611.1813.entry
-  2025-12-08T00:12:45+0000  hyperstitional-themes-20250611.1813.tar
-Built hyperstitional-themes in 2.967s, finished at 2025-12-08T00:12:46+0000
+  2025-12-15T00:11:05+0000  hyperstitional-themes-20251214.1417.entry
+  2025-12-15T00:11:05+0000  hyperstitional-themes-20251214.1417.tar
+Built hyperstitional-themes in 3.252s, finished at 2025-12-15T00:11:06+0000

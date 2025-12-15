@@ -1,9 +1,9 @@
  • Building package corfu (from github:minad/corfu)...
 Updating /mnt/store/melpa/working/corfu/
-Checking out 3159a412dcc8c82a89f458c3a5bfd06f22c59ee5
+Checking out 7de90521c819d0f6e28c2713eb37bfb0aa2c216b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/corfu/
-  to /tmp/corfumHIsn9/corfu-20251207.1728
+  to /tmp/corfupNkx3a/corfu-20251214.1852
     corfu.el -> corfu.el
   ! extensions/corfu-echo.el -> corfu-echo.el
   ! extensions/corfu-history.el -> corfu-history.el
@@ -11,17 +11,17 @@ Copying files (->) and directories (=>)
   ! extensions/corfu-info.el -> corfu-info.el
   ! extensions/corfu-popupinfo.el -> corfu-popupinfo.el
   ! extensions/corfu-quick.el -> corfu-quick.el
-Created corfu-20251207.1728.tar containing:
-  corfu-20251207.1728/
-  corfu-20251207.1728/corfu-echo.el
-  corfu-20251207.1728/corfu-history.el
-  corfu-20251207.1728/corfu-indexed.el
-  corfu-20251207.1728/corfu-info.el
-  corfu-20251207.1728/corfu-pkg.el
-  corfu-20251207.1728/corfu-popupinfo.el
-  corfu-20251207.1728/corfu-quick.el
-  corfu-20251207.1728/corfu.el
+Created corfu-20251214.1852.tar containing:
+  corfu-20251214.1852/
+  corfu-20251214.1852/corfu-echo.el
+  corfu-20251214.1852/corfu-history.el
+  corfu-20251214.1852/corfu-indexed.el
+  corfu-20251214.1852/corfu-info.el
+  corfu-20251214.1852/corfu-pkg.el
+  corfu-20251214.1852/corfu-popupinfo.el
+  corfu-20251214.1852/corfu-quick.el
+  corfu-20251214.1852/corfu.el
  ✓ Success:
-  2025-12-07T23:49:55+0000  corfu-20251207.1728.entry
-  2025-12-07T23:49:55+0000  corfu-20251207.1728.tar
-Built corfu in 3.236s, finished at 2025-12-07T23:49:56+0000
+  2025-12-14T23:47:46+0000  corfu-20251214.1852.entry
+  2025-12-14T23:47:46+0000  corfu-20251214.1852.tar
+Built corfu in 3.252s, finished at 2025-12-14T23:47:46+0000

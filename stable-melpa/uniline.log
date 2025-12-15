@@ -1,24 +1,24 @@
  • Building package uniline (from github:tbanel/uniline)...
 Updating /mnt/store/melpa/working/uniline/
-Checking out 0210c42eff96a9c45ca9f6209160153355f30dff
+Checking out 0002d5bd96bbbf721ac57c7ecdeaa632d477d083
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/uniline/
-  to /tmp/unilineubi9cl/uniline-20251202.917
+  to /tmp/unilineVar2wn/uniline-20251213.1143
     uniline-core.el -> uniline-core.el
     uniline-hydra.el -> uniline-hydra.el
     uniline-transient.el -> uniline-transient.el
     uniline.el -> uniline.el
     uniline.info -> uniline.info
-Created uniline-20251202.917.tar containing:
-  uniline-20251202.917/
-  uniline-20251202.917/dir
-  uniline-20251202.917/uniline-core.el
-  uniline-20251202.917/uniline-hydra.el
-  uniline-20251202.917/uniline-pkg.el
-  uniline-20251202.917/uniline-transient.el
-  uniline-20251202.917/uniline.el
-  uniline-20251202.917/uniline.info
+Created uniline-20251213.1143.tar containing:
+  uniline-20251213.1143/
+  uniline-20251213.1143/dir
+  uniline-20251213.1143/uniline-core.el
+  uniline-20251213.1143/uniline-hydra.el
+  uniline-20251213.1143/uniline-pkg.el
+  uniline-20251213.1143/uniline-transient.el
+  uniline-20251213.1143/uniline.el
+  uniline-20251213.1143/uniline.info
  ✓ Success:
-  2025-12-08T00:49:18+0000  uniline-20251202.917.entry
-  2025-12-08T00:49:18+0000  uniline-20251202.917.tar
-Built uniline in 3.440s, finished at 2025-12-08T00:49:19+0000
+  2025-12-15T00:48:05+0000  uniline-20251213.1143.entry
+  2025-12-15T00:48:05+0000  uniline-20251213.1143.tar
+Built uniline in 3.523s, finished at 2025-12-15T00:48:06+0000

@@ -1,15 +1,15 @@
  • Building package restclient (from github:emacsorphanage/restclient)...
 Updating /mnt/store/melpa/working/restclient/
-Checking out 3b6a4edd9cc61d94f457dd4c79be2eecb8378d27
+Checking out 1800a4e367c250051617d0b8c16a7cbd7f47da69
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/restclient/
-  to /tmp/restclientu3MUm7/restclient-20251207.2147
+  to /tmp/restclientTBj3w7/restclient-20251209.2022
     restclient.el -> restclient.el
-Created restclient-20251207.2147.tar containing:
-  restclient-20251207.2147/
-  restclient-20251207.2147/restclient-pkg.el
-  restclient-20251207.2147/restclient.el
+Created restclient-20251209.2022.tar containing:
+  restclient-20251209.2022/
+  restclient-20251209.2022/restclient-pkg.el
+  restclient-20251209.2022/restclient.el
  ✓ Success:
-  2025-12-08T00:38:45+0000  restclient-20251207.2147.entry
-  2025-12-08T00:38:45+0000  restclient-20251207.2147.tar
-Built restclient in 2.649s, finished at 2025-12-08T00:38:46+0000
+  2025-12-15T00:37:45+0000  restclient-20251209.2022.entry
+  2025-12-15T00:37:45+0000  restclient-20251209.2022.tar
+Built restclient in 2.767s, finished at 2025-12-15T00:37:45+0000

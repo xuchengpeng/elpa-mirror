@@ -1,15 +1,15 @@
  • Building package graphql-mode (from github:davazp/graphql-mode)...
 Updating /mnt/store/melpa/working/graphql-mode/
-Checking out 2183895ea7932359586c4bb99e8562c4aef3aaf7
+Checking out ccec811d0f1cb13e63e330234e408d56ba0f4d8e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/graphql-mode/
-  to /tmp/graphql-moderQu1p3/graphql-mode-20240218.1603
+  to /tmp/graphql-modewj4sUn/graphql-mode-20251213.1110
     graphql-mode.el -> graphql-mode.el
-Created graphql-mode-20240218.1603.tar containing:
-  graphql-mode-20240218.1603/
-  graphql-mode-20240218.1603/graphql-mode-pkg.el
-  graphql-mode-20240218.1603/graphql-mode.el
+Created graphql-mode-20251213.1110.tar containing:
+  graphql-mode-20251213.1110/
+  graphql-mode-20251213.1110/graphql-mode-pkg.el
+  graphql-mode-20251213.1110/graphql-mode.el
  ✓ Success:
-  2025-12-08T00:08:12+0000  graphql-mode-20240218.1603.entry
-  2025-12-08T00:08:11+0000  graphql-mode-20240218.1603.tar
-Built graphql-mode in 4.232s, finished at 2025-12-08T00:08:13+0000
+  2025-12-15T00:06:36+0000  graphql-mode-20251213.1110.entry
+  2025-12-15T00:06:36+0000  graphql-mode-20251213.1110.tar
+Built graphql-mode in 2.605s, finished at 2025-12-15T00:06:36+0000

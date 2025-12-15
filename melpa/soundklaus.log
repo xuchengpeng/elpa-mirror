@@ -3,7 +3,7 @@ Updating /mnt/store/melpa/working/soundklaus/
 Checking out 15ce6e7f24a45e4f202d83cca9fa3bfdd94ca592
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/soundklaus/
-  to /tmp/soundklausove9OQ/soundklaus-20191220.2112
+  to /tmp/soundklausoMyW3X/soundklaus-20191220.2112
     soundklaus-collection.el -> soundklaus-collection.el
     soundklaus-custom.el -> soundklaus-custom.el
     soundklaus-generic.el -> soundklaus-generic.el
@@ -30,6 +30,6 @@ Created soundklaus-20191220.2112.tar containing:
   soundklaus-20191220.2112/soundklaus-utils.el
   soundklaus-20191220.2112/soundklaus.el
  ✓ Success:
-  2025-12-08T00:43:43+0000  soundklaus-20191220.2112.entry
-  2025-12-08T00:43:43+0000  soundklaus-20191220.2112.tar
-Built soundklaus in 3.377s, finished at 2025-12-08T00:43:44+0000
+  2025-12-15T00:42:22+0000  soundklaus-20191220.2112.entry
+  2025-12-15T00:42:22+0000  soundklaus-20191220.2112.tar
+Built soundklaus in 3.307s, finished at 2025-12-15T00:42:23+0000

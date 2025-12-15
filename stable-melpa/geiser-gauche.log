@@ -1,17 +1,17 @@
  • Building package geiser-gauche (from gitlab:emacs-geiser/gauche)...
 Updating /mnt/store/melpa/working/geiser-gauche/
-Checking out 9eb8b35f0c3bf44ae7990be707591ed8498b6fa3
+Checking out adbd3c8d9031955c5941af459ea0e2bd60b7c925
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/geiser-gauche/
-  to /tmp/geiser-gauche6uXKr9/geiser-gauche-20250311.735
+  to /tmp/geiser-gauchekYseLx/geiser-gauche-20251213.1148
     geiser-gauche.el -> geiser-gauche.el
     geiser-gauche.scm -> geiser-gauche.scm
-Created geiser-gauche-20250311.735.tar containing:
-  geiser-gauche-20250311.735/
-  geiser-gauche-20250311.735/geiser-gauche-pkg.el
-  geiser-gauche-20250311.735/geiser-gauche.el
-  geiser-gauche-20250311.735/geiser-gauche.scm
+Created geiser-gauche-20251213.1148.tar containing:
+  geiser-gauche-20251213.1148/
+  geiser-gauche-20251213.1148/geiser-gauche-pkg.el
+  geiser-gauche-20251213.1148/geiser-gauche.el
+  geiser-gauche-20251213.1148/geiser-gauche.scm
  ✓ Success:
-  2025-12-08T00:05:46+0000  geiser-gauche-20250311.735.entry
-  2025-12-08T00:05:46+0000  geiser-gauche-20250311.735.tar
-Built geiser-gauche in 3.884s, finished at 2025-12-08T00:05:47+0000
+  2025-12-15T00:04:13+0000  geiser-gauche-20251213.1148.entry
+  2025-12-15T00:04:13+0000  geiser-gauche-20251213.1148.tar
+Built geiser-gauche in 3.933s, finished at 2025-12-15T00:04:14+0000

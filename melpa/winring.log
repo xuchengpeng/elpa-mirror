@@ -3,13 +3,13 @@ Updating /mnt/store/melpa/working/winring/
 Checking out 286bd61536396e262295a442b7a5ed49cbcc81d9
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/winring/
-  to /tmp/winringwQwdhv/winring-20251122.112
+  to /tmp/winringMA1lyc/winring-20251122.112
     winring.el -> winring.el
 Created winring-20251122.112.tar containing:
   winring-20251122.112/
   winring-20251122.112/winring-pkg.el
   winring-20251122.112/winring.el
  ✓ Success:
-  2025-12-08T00:51:53+0000  winring-20251122.112.entry
-  2025-12-08T00:51:53+0000  winring-20251122.112.tar
-Built winring in 3.554s, finished at 2025-12-08T00:51:54+0000
+  2025-12-15T00:51:01+0000  winring-20251122.112.entry
+  2025-12-15T00:51:01+0000  winring-20251122.112.tar
+Built winring in 3.629s, finished at 2025-12-15T00:51:02+0000

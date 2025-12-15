@@ -1,15 +1,15 @@
  • Building package esb (from github:0xhenrique/esb)...
 Updating /mnt/store/melpa/working/esb/
-Checking out 874ad790046f35c2a4a5589841f5ee9923ad8d8f
+Checking out 3646ddab71ede860257182a7e772aad476533d39
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/esb/
-  to /tmp/esbTD1f3d/esb-20250602.218
+  to /tmp/esbrRyfa3/esb-20251208.653
     esb.el -> esb.el
-Created esb-20250602.218.tar containing:
-  esb-20250602.218/
-  esb-20250602.218/esb-pkg.el
-  esb-20250602.218/esb.el
+Created esb-20251208.653.tar containing:
+  esb-20251208.653/
+  esb-20251208.653/esb-pkg.el
+  esb-20251208.653/esb.el
  ✓ Success:
-  2025-12-07T23:58:44+0000  esb-20250602.218.entry
-  2025-12-07T23:58:44+0000  esb-20250602.218.tar
-Built esb in 3.239s, finished at 2025-12-07T23:58:45+0000
+  2025-12-14T23:56:26+0000  esb-20251208.653.entry
+  2025-12-14T23:56:26+0000  esb-20251208.653.tar
+Built esb in 3.181s, finished at 2025-12-14T23:56:27+0000

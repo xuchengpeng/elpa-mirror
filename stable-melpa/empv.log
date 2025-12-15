@@ -1,15 +1,15 @@
  • Building package empv (from github:isamert/empv.el)...
 Updating /mnt/store/melpa/working/empv/
-Checking out 6b40d9e6f8d479eb22a8649fb92de513d3fc2b44
+Checking out 7ef178763d3d3044fd030368d66e15a0bbeed160
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/empv/
-  to /tmp/empv43YXyC/empv-20251116.2314
+  to /tmp/empvd4jKDa/empv-20251214.1032
     empv.el -> empv.el
-Created empv-20251116.2314.tar containing:
-  empv-20251116.2314/
-  empv-20251116.2314/empv-pkg.el
-  empv-20251116.2314/empv.el
+Created empv-20251214.1032.tar containing:
+  empv-20251214.1032/
+  empv-20251214.1032/empv-pkg.el
+  empv-20251214.1032/empv.el
  ✓ Success:
-  2025-12-07T23:57:53+0000  empv-20251116.2314.entry
-  2025-12-07T23:57:53+0000  empv-20251116.2314.tar
-Built empv in 4.114s, finished at 2025-12-07T23:57:54+0000
+  2025-12-14T23:55:34+0000  empv-20251214.1032.entry
+  2025-12-14T23:55:34+0000  empv-20251214.1032.tar
+Built empv in 3.590s, finished at 2025-12-14T23:55:35+0000
