@@ -1,15 +1,15 @@
  • Building package diff-ansi (from codeberg:ideasman42/emacs-diff-ansi)...
 Updating /mnt/store/melpa/working/diff-ansi/
-Checking out 5db2c410fc754a919b5b6811277646da5a26778c
+Checking out dd600ebdc632c8f525dcba392526e6e56fcbca61
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/diff-ansi/
-  to /tmp/diff-ansipP3skV/diff-ansi-20251126.1134
+  to /tmp/diff-ansiMfqm2N/diff-ansi-20251216.227
     diff-ansi.el -> diff-ansi.el
-Created diff-ansi-20251126.1134.tar containing:
-  diff-ansi-20251126.1134/
-  diff-ansi-20251126.1134/diff-ansi-pkg.el
-  diff-ansi-20251126.1134/diff-ansi.el
+Created diff-ansi-20251216.227.tar containing:
+  diff-ansi-20251216.227/
+  diff-ansi-20251216.227/diff-ansi-pkg.el
+  diff-ansi-20251216.227/diff-ansi.el
  ✓ Success:
-  2025-12-14T23:50:18+0000  diff-ansi-20251126.1134.entry
-  2025-12-14T23:50:18+0000  diff-ansi-20251126.1134.tar
-Built diff-ansi in 3.598s, finished at 2025-12-14T23:50:19+0000
+  2025-12-22T01:51:25+0000  diff-ansi-20251216.227.entry
+  2025-12-22T01:51:25+0000  diff-ansi-20251216.227.tar
+Built diff-ansi in 3.791s, finished at 2025-12-22T01:51:26+0000

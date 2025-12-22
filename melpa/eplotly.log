@@ -1,15 +1,17 @@
  • Building package eplotly (from codeberg:GioBo/eplotly)...
 Updating /mnt/store/melpa/working/eplotly/
-Checking out dd8165b20726a53fd90ce2499105842ce71211bf
+Checking out 7f36d03d7d3226da05c4e60a692f9a1055d92212
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/eplotly/
-  to /tmp/eplotly13wRbx/eplotly-20251118.2156
+  to /tmp/eplotlyPY0BqN/eplotly-20251221.1257
     eplotly.el -> eplotly.el
-Created eplotly-20251118.2156.tar containing:
-  eplotly-20251118.2156/
-  eplotly-20251118.2156/eplotly-pkg.el
-  eplotly-20251118.2156/eplotly.el
+    utils.el -> utils.el
+Created eplotly-20251221.1257.tar containing:
+  eplotly-20251221.1257/
+  eplotly-20251221.1257/eplotly-pkg.el
+  eplotly-20251221.1257/eplotly.el
+  eplotly-20251221.1257/utils.el
  ✓ Success:
-  2025-12-14T23:55:50+0000  eplotly-20251118.2156.entry
-  2025-12-14T23:55:50+0000  eplotly-20251118.2156.tar
-Built eplotly in 3.697s, finished at 2025-12-14T23:55:51+0000
+  2025-12-22T01:57:27+0000  eplotly-20251221.1257.entry
+  2025-12-22T01:57:27+0000  eplotly-20251221.1257.tar
+Built eplotly in 3.722s, finished at 2025-12-22T01:57:28+0000

@@ -1,20 +1,20 @@
  • Building package citar-denote (from github:pprevos/citar-denote)...
 Updating /mnt/store/melpa/working/citar-denote/
-Checking out 9223c052d8583d5a9faa7f7237daedbbd55e9553
+Checking out 0c04d022ff2c992ec233938a14cbfc4f4914c431
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/citar-denote/
-  to /tmp/citar-denoteSGDNQM/citar-denote-20250614.2046
+  to /tmp/citar-denotexAZNV6/citar-denote-20251220.2230
     citar-denote.el -> citar-denote.el
     citar-denote.info -> citar-denote.info
     citar-denote.texi -> citar-denote.texi
 Generating citar-denote.info
-Created citar-denote-20250614.2046.tar containing:
-  citar-denote-20250614.2046/
-  citar-denote-20250614.2046/citar-denote-pkg.el
-  citar-denote-20250614.2046/citar-denote.el
-  citar-denote-20250614.2046/citar-denote.info
-  citar-denote-20250614.2046/dir
+Created citar-denote-20251220.2230.tar containing:
+  citar-denote-20251220.2230/
+  citar-denote-20251220.2230/citar-denote-pkg.el
+  citar-denote-20251220.2230/citar-denote.el
+  citar-denote-20251220.2230/citar-denote.info
+  citar-denote-20251220.2230/dir
  ✓ Success:
-  2025-12-15T02:08:21+0000  citar-denote-20250614.2046.entry
-  2025-12-15T02:08:20+0000  citar-denote-20250614.2046.tar
-Built citar-denote in 4.595s, finished at 2025-12-15T02:08:21+0000
+  2025-12-22T01:45:18+0000  citar-denote-20251220.2230.entry
+  2025-12-22T01:45:18+0000  citar-denote-20251220.2230.tar
+Built citar-denote in 4.911s, finished at 2025-12-22T01:45:19+0000

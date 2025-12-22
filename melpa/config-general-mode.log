@@ -1,15 +1,15 @@
- • Building package config-general-mode (from github:TLINDEN/config-general-mode)...
+ • Building package config-general-mode (from codeberg:scip/config-general-mode)...
 Updating /mnt/store/melpa/working/config-general-mode/
-Checking out b4a8e6ba0bb027a77e4a0f701409f3e57bb2e4c0
+Checking out f92cc6d9b3f3cc49e58cea2b10ad3c2e8aced813
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/config-general-mode/
-  to /tmp/config-general-modeEVFBVl/config-general-mode-20171024.1840
+  to /tmp/config-general-modeAF0I6Q/config-general-mode-20251217.1842
     config-general-mode.el -> config-general-mode.el
-Created config-general-mode-20171024.1840.tar containing:
-  config-general-mode-20171024.1840/
-  config-general-mode-20171024.1840/config-general-mode-pkg.el
-  config-general-mode-20171024.1840/config-general-mode.el
+Created config-general-mode-20251217.1842.tar containing:
+  config-general-mode-20251217.1842/
+  config-general-mode-20251217.1842/config-general-mode-pkg.el
+  config-general-mode-20251217.1842/config-general-mode.el
  ✓ Success:
-  2025-12-14T23:47:07+0000  config-general-mode-20171024.1840.entry
-  2025-12-14T23:47:07+0000  config-general-mode-20171024.1840.tar
-Built config-general-mode in 2.715s, finished at 2025-12-14T23:47:08+0000
+  2025-12-22T01:48:04+0000  config-general-mode-20251217.1842.entry
+  2025-12-22T01:48:04+0000  config-general-mode-20251217.1842.tar
+Built config-general-mode in 3.836s, finished at 2025-12-22T01:48:05+0000

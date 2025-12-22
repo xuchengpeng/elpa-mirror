@@ -1,18 +1,18 @@
  • Building package orgtbl-join (from github:tbanel/orgtbljoin)...
 Updating /mnt/store/melpa/working/orgtbl-join/
-Checking out 8b46d63462ef8da78fea7819b4807d4118b09d75
+Checking out efc557bdb2dd4edeeabb473476d0dc2b207ea28d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/orgtbl-join/
-  to /tmp/orgtbl-joinF9fLYT/orgtbl-join-20251214.1716
+  to /tmp/orgtbl-joinxZVDYG/orgtbl-join-20251216.931
     orgtbl-join.el -> orgtbl-join.el
     orgtbl-join.info -> orgtbl-join.info
-Created orgtbl-join-20251214.1716.tar containing:
-  orgtbl-join-20251214.1716/
-  orgtbl-join-20251214.1716/dir
-  orgtbl-join-20251214.1716/orgtbl-join-pkg.el
-  orgtbl-join-20251214.1716/orgtbl-join.el
-  orgtbl-join-20251214.1716/orgtbl-join.info
+Created orgtbl-join-20251216.931.tar containing:
+  orgtbl-join-20251216.931/
+  orgtbl-join-20251216.931/dir
+  orgtbl-join-20251216.931/orgtbl-join-pkg.el
+  orgtbl-join-20251216.931/orgtbl-join.el
+  orgtbl-join-20251216.931/orgtbl-join.info
  ✓ Success:
-  2025-12-15T00:29:26+0000  orgtbl-join-20251214.1716.entry
-  2025-12-15T00:29:26+0000  orgtbl-join-20251214.1716.tar
-Built orgtbl-join in 3.295s, finished at 2025-12-15T00:29:27+0000
+  2025-12-22T00:05:35+0000  orgtbl-join-20251216.931.entry
+  2025-12-22T00:05:35+0000  orgtbl-join-20251216.931.tar
+Built orgtbl-join in 3.339s, finished at 2025-12-22T00:05:36+0000

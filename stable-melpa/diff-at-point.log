@@ -1,15 +1,15 @@
  • Building package diff-at-point (from codeberg:ideasman42/emacs-diff-at-point)...
 Updating /mnt/store/melpa/working/diff-at-point/
-Checking out ecc81b4af98acc06cae3e593d83e74fd51f5b9f8
+Checking out 9c1617f0fba88c1f7daef78276c86d4447c99d48
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/diff-at-point/
-  to /tmp/diff-at-point8KkVpd/diff-at-point-20250922.2326
+  to /tmp/diff-at-pointrEND3F/diff-at-point-20251216.111
     diff-at-point.el -> diff-at-point.el
-Created diff-at-point-20250922.2326.tar containing:
-  diff-at-point-20250922.2326/
-  diff-at-point-20250922.2326/diff-at-point-pkg.el
-  diff-at-point-20250922.2326/diff-at-point.el
+Created diff-at-point-20251216.111.tar containing:
+  diff-at-point-20251216.111/
+  diff-at-point-20251216.111/diff-at-point-pkg.el
+  diff-at-point-20251216.111/diff-at-point.el
  ✓ Success:
-  2025-12-14T23:50:18+0000  diff-at-point-20250922.2326.entry
-  2025-12-14T23:50:18+0000  diff-at-point-20250922.2326.tar
-Built diff-at-point in 3.427s, finished at 2025-12-14T23:50:19+0000
+  2025-12-22T01:51:25+0000  diff-at-point-20251216.111.entry
+  2025-12-22T01:51:25+0000  diff-at-point-20251216.111.tar
+Built diff-at-point in 3.652s, finished at 2025-12-22T01:51:26+0000

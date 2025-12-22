@@ -1,17 +1,17 @@
  • Building package easy-hugo (from github:masasam/emacs-easy-hugo)...
 Updating /mnt/store/melpa/working/easy-hugo/
-Checking out ee4a6d2ee65d90c0c1739bc688d08f7b855a6b8a
+Checking out dafe607c5192d14234639fb45c65a5644a0adb23
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/easy-hugo/
-  to /tmp/easy-hugoJ27seo/easy-hugo-20250908.2343
+  to /tmp/easy-hugou48MkV/easy-hugo-20251220.949
     easy-hugo-transient.el -> easy-hugo-transient.el
     easy-hugo.el -> easy-hugo.el
-Created easy-hugo-20250908.2343.tar containing:
-  easy-hugo-20250908.2343/
-  easy-hugo-20250908.2343/easy-hugo-pkg.el
-  easy-hugo-20250908.2343/easy-hugo-transient.el
-  easy-hugo-20250908.2343/easy-hugo.el
+Created easy-hugo-20251220.949.tar containing:
+  easy-hugo-20251220.949/
+  easy-hugo-20251220.949/easy-hugo-pkg.el
+  easy-hugo-20251220.949/easy-hugo-transient.el
+  easy-hugo-20251220.949/easy-hugo.el
  ✓ Success:
-  2025-12-14T23:53:00+0000  easy-hugo-20250908.2343.entry
-  2025-12-14T23:53:00+0000  easy-hugo-20250908.2343.tar
-Built easy-hugo in 2.899s, finished at 2025-12-14T23:53:01+0000
+  2025-12-22T01:54:31+0000  easy-hugo-20251220.949.entry
+  2025-12-22T01:54:31+0000  easy-hugo-20251220.949.tar
+Built easy-hugo in 3.017s, finished at 2025-12-22T01:54:32+0000

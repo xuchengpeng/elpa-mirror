@@ -73,54 +73,54 @@ Assistant". Previous sentence was written by Ellama itself.
   │   ;; could be llm-openai for example
   │   (require 'llm-ollama)
   │   (setopt ellama-provider
-  │ 	(make-llm-ollama
-  │ 	 ;; this model should be pulled to use it
-  │ 	 ;; value should be the same as you print in terminal during pull
-  │ 	 :chat-model "llama3:8b-instruct-q8_0"
-  │ 	 :embedding-model "nomic-embed-text"
-  │ 	 :default-chat-non-standard-params '(("num_ctx" . 8192))))
+  │           (make-llm-ollama
+  │            ;; this model should be pulled to use it
+  │            ;; value should be the same as you print in terminal during pull
+  │            :chat-model "llama3:8b-instruct-q8_0"
+  │            :embedding-model "nomic-embed-text"
+  │            :default-chat-non-standard-params '(("num_ctx" . 8192))))
   │   (setopt ellama-summarization-provider
-  │ 	(make-llm-ollama
-  │ 	 :chat-model "qwen2.5:3b"
-  │ 	 :embedding-model "nomic-embed-text"
-  │ 	 :default-chat-non-standard-params '(("num_ctx" . 32768))))
+  │           (make-llm-ollama
+  │            :chat-model "qwen2.5:3b"
+  │            :embedding-model "nomic-embed-text"
+  │            :default-chat-non-standard-params '(("num_ctx" . 32768))))
   │   (setopt ellama-coding-provider
-  │ 	(make-llm-ollama
-  │ 	 :chat-model "qwen2.5-coder:3b"
-  │ 	 :embedding-model "nomic-embed-text"
-  │ 	 :default-chat-non-standard-params '(("num_ctx" . 32768))))
+  │           (make-llm-ollama
+  │            :chat-model "qwen2.5-coder:3b"
+  │            :embedding-model "nomic-embed-text"
+  │            :default-chat-non-standard-params '(("num_ctx" . 32768))))
   │   ;; Predefined llm providers for interactive switching.
   │   ;; You shouldn't add ollama providers here - it can be selected interactively
   │   ;; without it. It is just example.
   │   (setopt ellama-providers
-  │ 	'(("zephyr" . (make-llm-ollama
-  │ 		       :chat-model "zephyr:7b-beta-q6_K"
-  │ 		       :embedding-model "zephyr:7b-beta-q6_K"))
-  │ 	  ("mistral" . (make-llm-ollama
-  │ 			:chat-model "mistral:7b-instruct-v0.2-q6_K"
-  │ 			:embedding-model "mistral:7b-instruct-v0.2-q6_K"))
-  │ 	  ("mixtral" . (make-llm-ollama
-  │ 			:chat-model "mixtral:8x7b-instruct-v0.1-q3_K_M-4k"
-  │ 			:embedding-model "mixtral:8x7b-instruct-v0.1-q3_K_M-4k"))))
+  │           '(("zephyr" . (make-llm-ollama
+  │                          :chat-model "zephyr:7b-beta-q6_K"
+  │                          :embedding-model "zephyr:7b-beta-q6_K"))
+  │             ("mistral" . (make-llm-ollama
+  │                           :chat-model "mistral:7b-instruct-v0.2-q6_K"
+  │                           :embedding-model "mistral:7b-instruct-v0.2-q6_K"))
+  │             ("mixtral" . (make-llm-ollama
+  │                           :chat-model "mixtral:8x7b-instruct-v0.1-q3_K_M-4k"
+  │                           :embedding-model "mixtral:8x7b-instruct-v0.1-q3_K_M-4k"))))
   │   ;; Naming new sessions with llm
   │   (setopt ellama-naming-provider
-  │ 	(make-llm-ollama
-  │ 	 :chat-model "llama3:8b-instruct-q8_0"
-  │ 	 :embedding-model "nomic-embed-text"
-  │ 	 :default-chat-non-standard-params '(("stop" . ("\n")))))
+  │           (make-llm-ollama
+  │            :chat-model "llama3:8b-instruct-q8_0"
+  │            :embedding-model "nomic-embed-text"
+  │            :default-chat-non-standard-params '(("stop" . ("\n")))))
   │   (setopt ellama-naming-scheme 'ellama-generate-name-by-llm)
   │   ;; Translation llm provider
   │   (setopt ellama-translation-provider
-  │ 	(make-llm-ollama
-  │ 	 :chat-model "qwen2.5:3b"
-  │ 	 :embedding-model "nomic-embed-text"
-  │ 	 :default-chat-non-standard-params
-  │ 	 '(("num_ctx" . 32768))))
+  │           (make-llm-ollama
+  │            :chat-model "qwen2.5:3b"
+  │            :embedding-model "nomic-embed-text"
+  │            :default-chat-non-standard-params
+  │            '(("num_ctx" . 32768))))
   │   (setopt ellama-extraction-provider (make-llm-ollama
-  │ 				    :chat-model "qwen2.5-coder:7b-instruct-q8_0"
-  │ 				    :embedding-model "nomic-embed-text"
-  │ 				    :default-chat-non-standard-params
-  │ 				    '(("num_ctx" . 32768))))
+  │                                       :chat-model "qwen2.5-coder:7b-instruct-q8_0"
+  │                                       :embedding-model "nomic-embed-text"
+  │                                       :default-chat-non-standard-params
+  │                                       '(("num_ctx" . 32768))))
   │   ;; customize display buffer behaviour
   │   ;; see ~(info "(elisp) Buffer Display Action Functions")~
   │   (setopt ellama-chat-display-action-function #'display-buffer-full-frame)
@@ -247,6 +247,12 @@ Assistant". Previous sentence was written by Ellama itself.
     buffer.
   • `ellama-community-prompts-update-variables': Prompt user for values
     of variables found in current buffer and update them.
+  • `ellama-response-process-method': Configure how LLM responses are
+    processed.  Options include streaming for real-time output, async
+    for asynchronous processing, or skipping every N messages to reduce
+    resource usage.
+  • `ellama-blueprint-variable-regexp': Regular expression to match
+    blueprint variables like `{var_name}'.
 
 
 3 Keymap

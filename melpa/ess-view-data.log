@@ -1,15 +1,15 @@
  • Building package ess-view-data (from github:ShuguangSun/ess-view-data)...
 Updating /mnt/store/melpa/working/ess-view-data/
-Checking out 5ec1c7206f1431c7b24f0990497ecc7e0fb33939
+Checking out 7dcbd23d4cef2030753d16e1ca1811d3466484e7
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ess-view-data/
-  to /tmp/ess-view-data78V0GX/ess-view-data-20250516.121
+  to /tmp/ess-view-dataORa2da/ess-view-data-20251219.1514
     ess-view-data.el -> ess-view-data.el
-Created ess-view-data-20250516.121.tar containing:
-  ess-view-data-20250516.121/
-  ess-view-data-20250516.121/ess-view-data-pkg.el
-  ess-view-data-20250516.121/ess-view-data.el
+Created ess-view-data-20251219.1514.tar containing:
+  ess-view-data-20251219.1514/
+  ess-view-data-20251219.1514/ess-view-data-pkg.el
+  ess-view-data-20251219.1514/ess-view-data.el
  ✓ Success:
-  2025-12-14T23:56:59+0000  ess-view-data-20250516.121.entry
-  2025-12-14T23:56:59+0000  ess-view-data-20250516.121.tar
-Built ess-view-data in 4.558s, finished at 2025-12-14T23:57:01+0000
+  2025-12-22T01:58:35+0000  ess-view-data-20251219.1514.entry
+  2025-12-22T01:58:35+0000  ess-view-data-20251219.1514.tar
+Built ess-view-data in 5.122s, finished at 2025-12-22T01:58:37+0000

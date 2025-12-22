@@ -1,17 +1,17 @@
  • Building package semantic-thrift (from github:jerryxgh/semantic-thrift)...
 Updating /mnt/store/melpa/working/semantic-thrift/
-Checking out 2242c4d77e6fe13801cd46d15b3bd4d2b0932c72
+Checking out 102f1bfa25347bf41a393e28102e94b58e7d50f6
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/semantic-thrift/
-  to /tmp/semantic-thriftyTcD23/semantic-thrift-20251214.1551
+  to /tmp/semantic-thriftm8Jygl/semantic-thrift-20251221.1454
     semantic-thrift-wy.el -> semantic-thrift-wy.el
     semantic-thrift.el -> semantic-thrift.el
-Created semantic-thrift-20251214.1551.tar containing:
-  semantic-thrift-20251214.1551/
-  semantic-thrift-20251214.1551/semantic-thrift-pkg.el
-  semantic-thrift-20251214.1551/semantic-thrift-wy.el
-  semantic-thrift-20251214.1551/semantic-thrift.el
+Created semantic-thrift-20251221.1454.tar containing:
+  semantic-thrift-20251221.1454/
+  semantic-thrift-20251221.1454/semantic-thrift-pkg.el
+  semantic-thrift-20251221.1454/semantic-thrift-wy.el
+  semantic-thrift-20251221.1454/semantic-thrift.el
  ✓ Success:
-  2025-12-15T00:39:46+0000  semantic-thrift-20251214.1551.entry
-  2025-12-15T00:39:45+0000  semantic-thrift-20251214.1551.tar
-Built semantic-thrift in 3.262s, finished at 2025-12-15T00:39:46+0000
+  2025-12-22T00:15:32+0000  semantic-thrift-20251221.1454.entry
+  2025-12-22T00:15:32+0000  semantic-thrift-20251221.1454.tar
+Built semantic-thrift in 5.184s, finished at 2025-12-22T00:15:33+0000

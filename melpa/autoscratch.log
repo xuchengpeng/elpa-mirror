@@ -1,15 +1,15 @@
- • Building package autoscratch (from github:TLINDEN/autoscratch)...
+ • Building package autoscratch (from codeberg:scip/autoscratch)...
 Updating /mnt/store/melpa/working/autoscratch/
-Checking out c5cf26b41f86aeb9f8bc64da2fe484ece807ac19
+Checking out c56cc89dc4a51e0d5966391d78849dc391634bb5
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/autoscratch/
-  to /tmp/autoscratchR0Gm0Y/autoscratch-20230612.719
+  to /tmp/autoscratchPWuAPc/autoscratch-20251217.1834
     autoscratch.el -> autoscratch.el
-Created autoscratch-20230612.719.tar containing:
-  autoscratch-20230612.719/
-  autoscratch-20230612.719/autoscratch-pkg.el
-  autoscratch-20230612.719/autoscratch.el
+Created autoscratch-20251217.1834.tar containing:
+  autoscratch-20251217.1834/
+  autoscratch-20251217.1834/autoscratch-pkg.el
+  autoscratch-20251217.1834/autoscratch.el
  ✓ Success:
-  2025-12-15T02:04:03+0000  autoscratch-20230612.719.entry
-  2025-12-15T02:04:03+0000  autoscratch-20230612.719.tar
-Built autoscratch in 2.795s, finished at 2025-12-15T02:04:04+0000
+  2025-12-22T01:40:46+0000  autoscratch-20251217.1834.entry
+  2025-12-22T01:40:46+0000  autoscratch-20251217.1834.tar
+Built autoscratch in 4.499s, finished at 2025-12-22T01:40:47+0000

@@ -1,15 +1,15 @@
  • Building package osm (from github:minad/osm)...
 Updating /mnt/store/melpa/working/osm/
-Checking out e58e46abedfeecaf569bbbb7a4fdabc4eb3273a7
+Checking out 5cd646e6e5bffe53acccf3fc06cf74eb5227a9da
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/osm/
-  to /tmp/osm9lesQr/osm-20251202.2058
+  to /tmp/osm3t1bG3/osm-20251221.1844
     osm.el -> osm.el
-Created osm-20251202.2058.tar containing:
-  osm-20251202.2058/
-  osm-20251202.2058/osm-pkg.el
-  osm-20251202.2058/osm.el
+Created osm-20251221.1844.tar containing:
+  osm-20251221.1844/
+  osm-20251221.1844/osm-pkg.el
+  osm-20251221.1844/osm.el
  ✓ Success:
-  2025-12-15T00:29:32+0000  osm-20251202.2058.entry
-  2025-12-15T00:29:32+0000  osm-20251202.2058.tar
-Built osm in 3.434s, finished at 2025-12-15T00:29:33+0000
+  2025-12-22T00:05:41+0000  osm-20251221.1844.entry
+  2025-12-22T00:05:41+0000  osm-20251221.1844.tar
+Built osm in 3.508s, finished at 2025-12-22T00:05:42+0000

@@ -1,0 +1,17 @@
+ • Building package clj-refactor (from github:clojure-emacs/clj-refactor.el)...
+Updating /mnt/store/melpa/working/clj-refactor/
+Checking out 362cb46bf808dc42d2aaf022afe93048439680c4
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/clj-refactor/
+  to /tmp/clj-refactorfZzNxM/clj-refactor-20250514.1903
+    clj-refactor.el -> clj-refactor.el
+    CHANGELOG.md -> CHANGELOG.md
+Created clj-refactor-20250514.1903.tar containing:
+  clj-refactor-20250514.1903/
+  clj-refactor-20250514.1903/CHANGELOG.md
+  clj-refactor-20250514.1903/clj-refactor-pkg.el
+  clj-refactor-20250514.1903/clj-refactor.el
+ ✓ Success:
+  2025-12-22T01:45:42+0000  clj-refactor-20250514.1903.entry
+  2025-12-22T01:45:42+0000  clj-refactor-20250514.1903.tar
+Built clj-refactor in 3.590s, finished at 2025-12-22T01:45:43+0000
