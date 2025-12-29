@@ -1,9 +1,9 @@
  • Building package eide (from https://forge.tedomum.net/hjuvi/eide.git)...
 Updating /mnt/store/melpa/working/eide/
-Checking out e3aeed7fcd2892b0d3d3b8f29743ec864ab7466d
+Checking out 3767f271e7783deb85eafe7851fb2a0c597f9651
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/eide/
-  to /tmp/eideIlcnqR/eide-20251122.2140
+  to /tmp/eidepZDhGA/eide-20251226.729
   ! src/eide-compare.el -> eide-compare.el
   ! src/eide-config.el -> eide-config.el
   ! src/eide-display.el -> eide-display.el
@@ -18,24 +18,24 @@ Copying files (->) and directories (=>)
   ! src/eide.el -> eide.el
   ! src/themes/eide-dark-theme.el -> eide-dark-theme.el
   ! src/themes/eide-light-theme.el -> eide-light-theme.el
-Created eide-20251122.2140.tar containing:
-  eide-20251122.2140/
-  eide-20251122.2140/eide-compare.el
-  eide-20251122.2140/eide-config.el
-  eide-20251122.2140/eide-dark-theme.el
-  eide-20251122.2140/eide-display.el
-  eide-20251122.2140/eide-edit.el
-  eide-20251122.2140/eide-keys.el
-  eide-20251122.2140/eide-light-theme.el
-  eide-20251122.2140/eide-menu.el
-  eide-20251122.2140/eide-pkg.el
-  eide-20251122.2140/eide-popup.el
-  eide-20251122.2140/eide-project.el
-  eide-20251122.2140/eide-search.el
-  eide-20251122.2140/eide-vc.el
-  eide-20251122.2140/eide-windows.el
-  eide-20251122.2140/eide.el
+Created eide-20251226.729.tar containing:
+  eide-20251226.729/
+  eide-20251226.729/eide-compare.el
+  eide-20251226.729/eide-config.el
+  eide-20251226.729/eide-dark-theme.el
+  eide-20251226.729/eide-display.el
+  eide-20251226.729/eide-edit.el
+  eide-20251226.729/eide-keys.el
+  eide-20251226.729/eide-light-theme.el
+  eide-20251226.729/eide-menu.el
+  eide-20251226.729/eide-pkg.el
+  eide-20251226.729/eide-popup.el
+  eide-20251226.729/eide-project.el
+  eide-20251226.729/eide-search.el
+  eide-20251226.729/eide-vc.el
+  eide-20251226.729/eide-windows.el
+  eide-20251226.729/eide.el
  ✓ Success:
-  2025-12-22T01:55:16+0000  eide-20251122.2140.entry
-  2025-12-22T01:55:16+0000  eide-20251122.2140.tar
-Built eide in 5.120s, finished at 2025-12-22T01:55:17+0000
+  2025-12-29T00:25:25+0000  eide-20251226.729.entry
+  2025-12-29T00:25:25+0000  eide-20251226.729.tar
+Built eide in 5.374s, finished at 2025-12-29T00:25:26+0000

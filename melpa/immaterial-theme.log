@@ -1,19 +1,19 @@
  • Building package immaterial-theme (from github:petergardfjall/emacs-immaterial-theme)...
 Updating /mnt/store/melpa/working/immaterial-theme/
-Checking out cbfe12f95d05d56929dad6b0f996089288fb9eae
+Checking out c478e875d9949a0b8341fa146ea9a408997623f5
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/immaterial-theme/
-  to /tmp/immaterial-themeYxF2ik/immaterial-theme-20250124.826
+  to /tmp/immaterial-theme78i0yd/immaterial-theme-20251222.1352
     immaterial-dark-theme.el -> immaterial-dark-theme.el
     immaterial-light-theme.el -> immaterial-light-theme.el
     immaterial-theme.el -> immaterial-theme.el
-Created immaterial-theme-20250124.826.tar containing:
-  immaterial-theme-20250124.826/
-  immaterial-theme-20250124.826/immaterial-dark-theme.el
-  immaterial-theme-20250124.826/immaterial-light-theme.el
-  immaterial-theme-20250124.826/immaterial-theme-pkg.el
-  immaterial-theme-20250124.826/immaterial-theme.el
+Created immaterial-theme-20251222.1352.tar containing:
+  immaterial-theme-20251222.1352/
+  immaterial-theme-20251222.1352/immaterial-dark-theme.el
+  immaterial-theme-20251222.1352/immaterial-light-theme.el
+  immaterial-theme-20251222.1352/immaterial-theme-pkg.el
+  immaterial-theme-20251222.1352/immaterial-theme.el
  ✓ Success:
-  2025-12-21T23:46:54+0000  immaterial-theme-20250124.826.entry
-  2025-12-21T23:46:54+0000  immaterial-theme-20250124.826.tar
-Built immaterial-theme in 5.436s, finished at 2025-12-21T23:46:56+0000
+  2025-12-29T00:43:50+0000  immaterial-theme-20251222.1352.entry
+  2025-12-29T00:43:50+0000  immaterial-theme-20251222.1352.tar
+Built immaterial-theme in 3.690s, finished at 2025-12-29T00:43:51+0000

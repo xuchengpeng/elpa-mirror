@@ -1,17 +1,17 @@
  • Building package cnfonts (from github:tumashu/cnfonts)...
 Updating /mnt/store/melpa/working/cnfonts/
-Checking out 0b4fb8c2f743594010bb8137db6e71087efdaf67
+Checking out 9daace1a96febb4f8ec72f1a845a4e63ae56bc4c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/cnfonts/
-  to /tmp/cnfontsOKBvwi/cnfonts-20241120.2133
+  to /tmp/cnfontsMPVozm/cnfonts-20251223.636
     cnfonts-ui.el -> cnfonts-ui.el
     cnfonts.el -> cnfonts.el
-Created cnfonts-20241120.2133.tar containing:
-  cnfonts-20241120.2133/
-  cnfonts-20241120.2133/cnfonts-pkg.el
-  cnfonts-20241120.2133/cnfonts-ui.el
-  cnfonts-20241120.2133/cnfonts.el
+Created cnfonts-20251223.636.tar containing:
+  cnfonts-20251223.636/
+  cnfonts-20251223.636/cnfonts-pkg.el
+  cnfonts-20251223.636/cnfonts-ui.el
+  cnfonts-20251223.636/cnfonts.el
  ✓ Success:
-  2025-12-22T01:46:05+0000  cnfonts-20241120.2133.entry
-  2025-12-22T01:46:04+0000  cnfonts-20241120.2133.tar
-Built cnfonts in 3.919s, finished at 2025-12-22T01:46:05+0000
+  2025-12-29T00:16:30+0000  cnfonts-20251223.636.entry
+  2025-12-29T00:16:30+0000  cnfonts-20251223.636.tar
+Built cnfonts in 3.562s, finished at 2025-12-29T00:16:31+0000

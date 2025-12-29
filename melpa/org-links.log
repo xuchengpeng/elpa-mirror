@@ -1,15 +1,15 @@
  • Building package org-links (from github:Anoncheg1/emacs-org-links)...
 Updating /mnt/store/melpa/working/org-links/
-Checking out bc174233f9c11c74cdd15a678d91427ff58715ad
+Checking out c6e8cc6753d3b880b09a6e28f244ada48debfb2b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/org-links/
-  to /tmp/org-linksPCvd0I/org-links-20251218.1721
+  to /tmp/org-linksigPejW/org-links-20251227.1950
     org-links.el -> org-links.el
-Created org-links-20251218.1721.tar containing:
-  org-links-20251218.1721/
-  org-links-20251218.1721/org-links-pkg.el
-  org-links-20251218.1721/org-links.el
+Created org-links-20251227.1950.tar containing:
+  org-links-20251227.1950/
+  org-links-20251227.1950/org-links-pkg.el
+  org-links-20251227.1950/org-links.el
  ✓ Success:
-  2025-12-22T00:03:28+0000  org-links-20251218.1721.entry
-  2025-12-22T00:03:28+0000  org-links-20251218.1721.tar
-Built org-links in 2.975s, finished at 2025-12-22T00:03:29+0000
+  2025-12-29T01:00:33+0000  org-links-20251227.1950.entry
+  2025-12-29T01:00:33+0000  org-links-20251227.1950.tar
+Built org-links in 3.044s, finished at 2025-12-29T01:00:34+0000

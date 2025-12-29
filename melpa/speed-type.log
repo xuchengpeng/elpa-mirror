@@ -1,17 +1,15 @@
  • Building package speed-type (from github:dakra/speed-type)...
 Updating /mnt/store/melpa/working/speed-type/
-Checking out f6a42cbd356250e7a257662e3f43c00d1fa8fed9
+Checking out b87d8d50bbe247e804d3b9a92bb0fc698770e486
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/speed-type/
-  to /tmp/speed-typemW0dff/speed-type-20251221.2156
+  to /tmp/speed-typeoUqlm9/speed-type-20251223.2332
     speed-type.el -> speed-type.el
-Created speed-type-20251221.2156.tar containing:
-  speed-type-20251221.2156/
-  speed-type-20251221.2156/speed-type-pkg.el
-  speed-type-20251221.2156/speed-type.el
+Created speed-type-20251223.2332.tar containing:
+  speed-type-20251223.2332/
+  speed-type-20251223.2332/speed-type-pkg.el
+  speed-type-20251223.2332/speed-type.el
  ✓ Success:
-  2025-12-21T21:49:23+0000  speed-type-20251218.2217.entry
-  2025-12-21T21:49:23+0000  speed-type-20251218.2217.tar
-  2025-12-22T00:18:35+0000  speed-type-20251221.2156.entry
-  2025-12-22T00:18:35+0000  speed-type-20251221.2156.tar
-Built speed-type in 3.619s, finished at 2025-12-22T00:18:36+0000
+  2025-12-29T01:15:53+0000  speed-type-20251223.2332.entry
+  2025-12-29T01:15:53+0000  speed-type-20251223.2332.tar
+Built speed-type in 5.943s, finished at 2025-12-29T01:15:54+0000

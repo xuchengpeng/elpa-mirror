@@ -1,15 +1,15 @@
  • Building package inf-ruby (from github:nonsequitur/inf-ruby)...
 Updating /mnt/store/melpa/working/inf-ruby/
-Checking out b8076aad10dfb0ba1e3a8b0d39c2b370dbe96ab0
+Checking out 274398a24288a7db430a656b580ffbf889ca02aa
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/inf-ruby/
-  to /tmp/inf-rubyufPGJK/inf-ruby-20250212.29
+  to /tmp/inf-rubyQhViyP/inf-ruby-20251224.216
     inf-ruby.el -> inf-ruby.el
-Created inf-ruby-20250212.29.tar containing:
-  inf-ruby-20250212.29/
-  inf-ruby-20250212.29/inf-ruby-pkg.el
-  inf-ruby-20250212.29/inf-ruby.el
+Created inf-ruby-20251224.216.tar containing:
+  inf-ruby-20251224.216/
+  inf-ruby-20251224.216/inf-ruby-pkg.el
+  inf-ruby-20251224.216/inf-ruby.el
  ✓ Success:
-  2025-12-21T23:47:18+0000  inf-ruby-20250212.29.entry
-  2025-12-21T23:47:18+0000  inf-ruby-20250212.29.tar
-Built inf-ruby in 3.057s, finished at 2025-12-21T23:47:19+0000
+  2025-12-29T00:44:06+0000  inf-ruby-20251224.216.entry
+  2025-12-29T00:44:06+0000  inf-ruby-20251224.216.tar
+Built inf-ruby in 3.433s, finished at 2025-12-29T00:44:07+0000

@@ -1,19 +1,21 @@
  • Building package verb (from github:federicotdn/verb)...
 Updating /mnt/store/melpa/working/verb/
-Checking out ec93e0b18f3b65f6f9517e4001ff1c0c643b32cd
+Checking out f45e31b2bcdea2a859bb28cbb1819469978457c9
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/verb/
-  to /tmp/verbO8C0xQ/verb-20251216.1822
+  to /tmp/verbA3vnLQ/verb-20251222.2151
     ob-verb.el -> ob-verb.el
+    verb-restclient.el -> verb-restclient.el
     verb-util.el -> verb-util.el
     verb.el -> verb.el
-Created verb-20251216.1822.tar containing:
-  verb-20251216.1822/
-  verb-20251216.1822/ob-verb.el
-  verb-20251216.1822/verb-pkg.el
-  verb-20251216.1822/verb-util.el
-  verb-20251216.1822/verb.el
+Created verb-20251222.2151.tar containing:
+  verb-20251222.2151/
+  verb-20251222.2151/ob-verb.el
+  verb-20251222.2151/verb-pkg.el
+  verb-20251222.2151/verb-restclient.el
+  verb-20251222.2151/verb-util.el
+  verb-20251222.2151/verb.el
  ✓ Success:
-  2025-12-22T00:25:14+0000  verb-20251216.1822.entry
-  2025-12-22T00:25:14+0000  verb-20251216.1822.tar
-Built verb in 2.848s, finished at 2025-12-22T00:25:15+0000
+  2025-12-29T01:22:51+0000  verb-20251222.2151.entry
+  2025-12-29T01:22:51+0000  verb-20251222.2151.tar
+Built verb in 3.200s, finished at 2025-12-29T01:22:52+0000

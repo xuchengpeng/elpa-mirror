@@ -1,16 +1,16 @@
  • Building package loopy-dash (from github:okamsn/loopy-dash)...
 Updating /mnt/store/melpa/working/loopy-dash/
-Checking out 56c8413dbcffef2b1a0896d53584296619cb1504
+Checking out d60c4f49a640541e415e5471ad26c2d8e6886888
 Warning: loopy-dash :files spec is equivalent to the default
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/loopy-dash/
-  to /tmp/loopy-dashnMGKG8/loopy-dash-20241228.323
+  to /tmp/loopy-dash2XSsQB/loopy-dash-20251226.2031
     loopy-dash.el -> loopy-dash.el
-Created loopy-dash-20241228.323.tar containing:
-  loopy-dash-20241228.323/
-  loopy-dash-20241228.323/loopy-dash-pkg.el
-  loopy-dash-20241228.323/loopy-dash.el
+Created loopy-dash-20251226.2031.tar containing:
+  loopy-dash-20251226.2031/
+  loopy-dash-20251226.2031/loopy-dash-pkg.el
+  loopy-dash-20251226.2031/loopy-dash.el
  ✓ Success:
-  2025-12-21T23:53:42+0000  loopy-dash-20241228.323.entry
-  2025-12-21T23:53:42+0000  loopy-dash-20241228.323.tar
-Built loopy-dash in 2.904s, finished at 2025-12-21T23:53:43+0000
+  2025-12-29T00:50:40+0000  loopy-dash-20251226.2031.entry
+  2025-12-29T00:50:40+0000  loopy-dash-20251226.2031.tar
+Built loopy-dash in 3.120s, finished at 2025-12-29T00:50:41+0000

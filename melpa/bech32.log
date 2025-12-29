@@ -3,13 +3,13 @@ Updating /mnt/store/melpa/working/bech32/
 Checking out badbf267fa488df1cb87809ed234ebd67786f2f8
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/bech32/
-  to /tmp/bech32lH1i7e/bech32-20221210.1154
+  to /tmp/bech32ZXpZAT/bech32-20221210.1154
     bech32.el -> bech32.el
 Created bech32-20221210.1154.tar containing:
   bech32-20221210.1154/
   bech32-20221210.1154/bech32-pkg.el
   bech32-20221210.1154/bech32.el
  ✓ Success:
-  2025-12-22T01:41:50+0000  bech32-20221210.1154.entry
-  2025-12-22T01:41:50+0000  bech32-20221210.1154.tar
-Built bech32 in 4.293s, finished at 2025-12-22T01:41:51+0000
+  2025-12-29T00:11:47+0000  bech32-20221210.1154.entry
+  2025-12-29T00:11:47+0000  bech32-20221210.1154.tar
+Built bech32 in 3.359s, finished at 2025-12-29T00:11:48+0000

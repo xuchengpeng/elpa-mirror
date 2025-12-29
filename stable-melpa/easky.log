@@ -1,17 +1,17 @@
  • Building package easky (from github:emacs-eask/easky)...
 Updating /mnt/store/melpa/working/easky/
-Checking out 8c9f23446e3e728fc9fb12e3cc02b9b67c1e837d
+Checking out f68ef0376b16aa3cebe651a8782cf9076ea0f7dd
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/easky/
-  to /tmp/easkyNPnC8d/easky-20250630.1831
+  to /tmp/easkySen2St/easky-20251227.1304
     easky-package.el -> easky-package.el
     easky.el -> easky.el
-Created easky-20250630.1831.tar containing:
-  easky-20250630.1831/
-  easky-20250630.1831/easky-package.el
-  easky-20250630.1831/easky-pkg.el
-  easky-20250630.1831/easky.el
+Created easky-20251227.1304.tar containing:
+  easky-20251227.1304/
+  easky-20251227.1304/easky-package.el
+  easky-20251227.1304/easky-pkg.el
+  easky-20251227.1304/easky.el
  ✓ Success:
-  2025-12-22T01:54:29+0000  easky-20250630.1831.entry
-  2025-12-22T01:54:29+0000  easky-20250630.1831.tar
-Built easky in 3.568s, finished at 2025-12-22T01:54:30+0000
+  2025-12-29T00:24:18+0000  easky-20251227.1304.entry
+  2025-12-29T00:24:18+0000  easky-20251227.1304.tar
+Built easky in 3.598s, finished at 2025-12-29T00:24:19+0000

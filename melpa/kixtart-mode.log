@@ -1,21 +1,21 @@
  • Building package kixtart-mode (from sourcehut:mew/kixtart-mode)...
 Updating /mnt/store/melpa/working/kixtart-mode/
-Checking out 828da8a0b899274fe769e015b76c2a480a1a8338
+Checking out 3df4cfa9ffdaceb3842b8346020832b0a8a13496
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/kixtart-mode/
-  to /tmp/kixtart-modePZKYp1/kixtart-mode-20251215.1200
+  to /tmp/kixtart-modeF3yZru/kixtart-mode-20251228.1221
   ! doc/kixtart-mode.texi -> kixtart-mode.texi
     kixtart-docstrings.el -> kixtart-docstrings.el
     kixtart-mode.el -> kixtart-mode.el
 Generating kixtart-mode.info
-Created kixtart-mode-20251215.1200.tar containing:
-  kixtart-mode-20251215.1200/
-  kixtart-mode-20251215.1200/dir
-  kixtart-mode-20251215.1200/kixtart-docstrings.el
-  kixtart-mode-20251215.1200/kixtart-mode-pkg.el
-  kixtart-mode-20251215.1200/kixtart-mode.el
-  kixtart-mode-20251215.1200/kixtart-mode.info
+Created kixtart-mode-20251228.1221.tar containing:
+  kixtart-mode-20251228.1221/
+  kixtart-mode-20251228.1221/dir
+  kixtart-mode-20251228.1221/kixtart-docstrings.el
+  kixtart-mode-20251228.1221/kixtart-mode-pkg.el
+  kixtart-mode-20251228.1221/kixtart-mode.el
+  kixtart-mode-20251228.1221/kixtart-mode.info
  ✓ Success:
-  2025-12-21T23:51:07+0000  kixtart-mode-20251215.1200.entry
-  2025-12-21T23:51:07+0000  kixtart-mode-20251215.1200.tar
-Built kixtart-mode in 6.162s, finished at 2025-12-21T23:51:08+0000
+  2025-12-29T00:48:19+0000  kixtart-mode-20251228.1221.entry
+  2025-12-29T00:48:19+0000  kixtart-mode-20251228.1221.tar
+Built kixtart-mode in 5.712s, finished at 2025-12-29T00:48:20+0000

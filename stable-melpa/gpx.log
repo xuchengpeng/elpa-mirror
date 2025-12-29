@@ -1,19 +1,19 @@
  • Building package gpx (from github:mkcms/gpx-mode)...
 Updating /mnt/store/melpa/working/gpx/
-Checking out f9a34cf11a41b991ae93cce34a0b6fc3b2050f4a
+Checking out d97efb2c2701118f418c22ab1b6518bef0d79517
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/gpx/
-  to /tmp/gpxD1QBh7/gpx-20251208.2014
+  to /tmp/gpxqMNeHU/gpx-20251228.1347
     gpx.el -> gpx.el
     gpx2html.py -> gpx2html.py
     plot_track_elevation.py -> plot_track_elevation.py
-Created gpx-20251208.2014.tar containing:
-  gpx-20251208.2014/
-  gpx-20251208.2014/gpx-pkg.el
-  gpx-20251208.2014/gpx.el
-  gpx-20251208.2014/gpx2html.py
-  gpx-20251208.2014/plot_track_elevation.py
+Created gpx-20251228.1347.tar containing:
+  gpx-20251228.1347/
+  gpx-20251228.1347/gpx-pkg.el
+  gpx-20251228.1347/gpx.el
+  gpx-20251228.1347/gpx2html.py
+  gpx-20251228.1347/plot_track_elevation.py
  ✓ Success:
-  2025-12-22T02:07:54+0000  gpx-20251208.2014.entry
-  2025-12-22T02:07:54+0000  gpx-20251208.2014.tar
-Built gpx in 3.485s, finished at 2025-12-22T02:07:55+0000
+  2025-12-29T00:38:02+0000  gpx-20251228.1347.entry
+  2025-12-29T00:38:02+0000  gpx-20251228.1347.tar
+Built gpx in 3.845s, finished at 2025-12-29T00:38:03+0000

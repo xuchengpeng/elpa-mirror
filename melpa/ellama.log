@@ -1,31 +1,33 @@
  • Building package ellama (from github:s-kostyaev/ellama)...
 Updating /mnt/store/melpa/working/ellama/
-Checking out dfda86230dd312ad259eb4b7b1264546f0a02810
+Checking out 025c56b0543cc70dfcfe38e646a743de3964e6c7
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ellama/
-  to /tmp/ellamaKK3y4V/ellama-20251220.2246
+  to /tmp/ellamaMyjkdk/ellama-20251228.32
     ellama-blueprint.el -> ellama-blueprint.el
     ellama-community-prompts.el -> ellama-community-prompts.el
     ellama-context.el -> ellama-context.el
     ellama-manual.el -> ellama-manual.el
+    ellama-tools.el -> ellama-tools.el
     ellama-transient.el -> ellama-transient.el
     ellama.el -> ellama.el
     ellama.info -> ellama.info
     doclicense.texi -> doclicense.texi
 Generating doclicense.info
-Created ellama-20251220.2246.tar containing:
-  ellama-20251220.2246/
-  ellama-20251220.2246/dir
-  ellama-20251220.2246/doclicense.info
-  ellama-20251220.2246/ellama-blueprint.el
-  ellama-20251220.2246/ellama-community-prompts.el
-  ellama-20251220.2246/ellama-context.el
-  ellama-20251220.2246/ellama-manual.el
-  ellama-20251220.2246/ellama-pkg.el
-  ellama-20251220.2246/ellama-transient.el
-  ellama-20251220.2246/ellama.el
-  ellama-20251220.2246/ellama.info
+Created ellama-20251228.32.tar containing:
+  ellama-20251228.32/
+  ellama-20251228.32/dir
+  ellama-20251228.32/doclicense.info
+  ellama-20251228.32/ellama-blueprint.el
+  ellama-20251228.32/ellama-community-prompts.el
+  ellama-20251228.32/ellama-context.el
+  ellama-20251228.32/ellama-manual.el
+  ellama-20251228.32/ellama-pkg.el
+  ellama-20251228.32/ellama-tools.el
+  ellama-20251228.32/ellama-transient.el
+  ellama-20251228.32/ellama.el
+  ellama-20251228.32/ellama.info
  ✓ Success:
-  2025-12-22T01:56:18+0000  ellama-20251220.2246.entry
-  2025-12-22T01:56:18+0000  ellama-20251220.2246.tar
-Built ellama in 5.277s, finished at 2025-12-22T01:56:19+0000
+  2025-12-29T00:26:27+0000  ellama-20251228.32.entry
+  2025-12-29T00:26:27+0000  ellama-20251228.32.tar
+Built ellama in 6.135s, finished at 2025-12-29T00:26:28+0000
