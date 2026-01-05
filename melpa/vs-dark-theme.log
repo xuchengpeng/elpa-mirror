@@ -1,15 +1,15 @@
  • Building package vs-dark-theme (from github:emacs-vs/vs-dark-theme)...
 Updating /mnt/store/melpa/working/vs-dark-theme/
-Checking out 95f042c1521ef253171301bccd668e85761d8776
+Checking out ce1442aa8ee8cdc37f29011fb0f88401918bb889
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/vs-dark-theme/
-  to /tmp/vs-dark-themeKJNkBG/vs-dark-theme-20251224.1531
+  to /tmp/vs-dark-theme5K3Qxo/vs-dark-theme-20260101.1429
     vs-dark-theme.el -> vs-dark-theme.el
-Created vs-dark-theme-20251224.1531.tar containing:
-  vs-dark-theme-20251224.1531/
-  vs-dark-theme-20251224.1531/vs-dark-theme-pkg.el
-  vs-dark-theme-20251224.1531/vs-dark-theme.el
+Created vs-dark-theme-20260101.1429.tar containing:
+  vs-dark-theme-20260101.1429/
+  vs-dark-theme-20260101.1429/vs-dark-theme-pkg.el
+  vs-dark-theme-20260101.1429/vs-dark-theme.el
  ✓ Success:
-  2025-12-29T01:23:23+0000  vs-dark-theme-20251224.1531.entry
-  2025-12-29T01:23:23+0000  vs-dark-theme-20251224.1531.tar
-Built vs-dark-theme in 3.423s, finished at 2025-12-29T01:23:24+0000
+  2026-01-05T02:20:09+0000  vs-dark-theme-20260101.1429.entry
+  2026-01-05T02:20:09+0000  vs-dark-theme-20260101.1429.tar
+Built vs-dark-theme in 3.306s, finished at 2026-01-05T02:20:10+0000

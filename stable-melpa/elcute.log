@@ -1,15 +1,15 @@
  • Building package elcute (from codeberg:vilij/slurpbarf-elcute)...
 Updating /mnt/store/melpa/working/elcute/
-Checking out f590cc7f9308c37231693e41bf773da002542d51
+Checking out 5ec0f75a308ab8ae1f29bbb3c18b63514fc83c20
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/elcute/
-  to /tmp/elcuteW4x7de/elcute-20251018.1822
+  to /tmp/elcuteK8R1mk/elcute-20260102.1001
     elcute.el -> elcute.el
-Created elcute-20251018.1822.tar containing:
-  elcute-20251018.1822/
-  elcute-20251018.1822/elcute-pkg.el
-  elcute-20251018.1822/elcute.el
+Created elcute-20260102.1001.tar containing:
+  elcute-20260102.1001/
+  elcute-20260102.1001/elcute-pkg.el
+  elcute-20260102.1001/elcute.el
  ✓ Success:
-  2025-12-29T00:25:47+0000  elcute-20251018.1822.entry
-  2025-12-29T00:25:47+0000  elcute-20251018.1822.tar
-Built elcute in 3.672s, finished at 2025-12-29T00:25:48+0000
+  2026-01-05T01:21:08+0000  elcute-20260102.1001.entry
+  2026-01-05T01:21:08+0000  elcute-20260102.1001.tar
+Built elcute in 17.849s, finished at 2026-01-05T01:21:09+0000

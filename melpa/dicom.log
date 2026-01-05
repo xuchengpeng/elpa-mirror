@@ -1,15 +1,15 @@
  • Building package dicom (from github:minad/dicom)...
 Updating /mnt/store/melpa/working/dicom/
-Checking out 608963ef1475335d7466b50c38c5aaaeeb4cf98a
+Checking out 4353dfab9d175322813556b5484d182c5ffe6cbd
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/dicom/
-  to /tmp/dicomrPlCA4/dicom-20251218.2251
+  to /tmp/dicomrFBvyY/dicom-20260104.1113
     dicom.el -> dicom.el
-Created dicom-20251218.2251.tar containing:
-  dicom-20251218.2251/
-  dicom-20251218.2251/dicom-pkg.el
-  dicom-20251218.2251/dicom.el
+Created dicom-20260104.1113.tar containing:
+  dicom-20260104.1113/
+  dicom-20260104.1113/dicom-pkg.el
+  dicom-20260104.1113/dicom.el
  ✓ Success:
-  2025-12-29T00:21:44+0000  dicom-20251218.2251.entry
-  2025-12-29T00:21:44+0000  dicom-20251218.2251.tar
-Built dicom in 3.444s, finished at 2025-12-29T00:21:45+0000
+  2026-01-05T01:16:37+0000  dicom-20260104.1113.entry
+  2026-01-05T01:16:37+0000  dicom-20260104.1113.tar
+Built dicom in 3.872s, finished at 2026-01-05T01:16:38+0000

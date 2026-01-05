@@ -1,15 +1,15 @@
  • Building package metal-archives (from github:seblemaguer/metal-archives.el)...
 Updating /mnt/store/melpa/working/metal-archives/
-Checking out c474246c0c6b688a34e69c04261d4cd993189dc3
+Checking out da7c1efcc3d4859019de8fa030899fe191e33608
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/metal-archives/
-  to /tmp/metal-archivesddkYtZ/metal-archives-20240824.1023
+  to /tmp/metal-archivesgaen0X/metal-archives-20260101.1230
     metal-archives.el -> metal-archives.el
-Created metal-archives-20240824.1023.tar containing:
-  metal-archives-20240824.1023/
-  metal-archives-20240824.1023/metal-archives-pkg.el
-  metal-archives-20240824.1023/metal-archives.el
+Created metal-archives-20260101.1230.tar containing:
+  metal-archives-20260101.1230/
+  metal-archives-20260101.1230/metal-archives-pkg.el
+  metal-archives-20260101.1230/metal-archives.el
  ✓ Success:
-  2025-12-29T00:53:13+0000  metal-archives-20240824.1023.entry
-  2025-12-29T00:53:13+0000  metal-archives-20240824.1023.tar
-Built metal-archives in 4.924s, finished at 2025-12-29T00:53:15+0000
+  2026-01-05T01:49:13+0000  metal-archives-20260101.1230.entry
+  2026-01-05T01:49:13+0000  metal-archives-20260101.1230.tar
+Built metal-archives in 3.539s, finished at 2026-01-05T01:49:14+0000

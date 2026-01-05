@@ -1,15 +1,15 @@
  • Building package ivy-rtags (from github:Andersbakken/rtags)...
 Updating /mnt/store/melpa/working/ivy-rtags/
-Checking out dd6b20f7e57a30f32a8ccbb6c22038383dba746b
+Checking out 829a6298d6bfba8ed541570fcbe3daf5ce3135d0
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ivy-rtags/
-  to /tmp/ivy-rtagsPex6zM/ivy-rtags-20250801.1647
+  to /tmp/ivy-rtagsEVSVUG/ivy-rtags-20251228.2249
   ! src/ivy-rtags.el -> ivy-rtags.el
-Created ivy-rtags-20250801.1647.tar containing:
-  ivy-rtags-20250801.1647/
-  ivy-rtags-20250801.1647/ivy-rtags-pkg.el
-  ivy-rtags-20250801.1647/ivy-rtags.el
+Created ivy-rtags-20251228.2249.tar containing:
+  ivy-rtags-20251228.2249/
+  ivy-rtags-20251228.2249/ivy-rtags-pkg.el
+  ivy-rtags-20251228.2249/ivy-rtags.el
  ✓ Success:
-  2025-12-29T00:45:29+0000  ivy-rtags-20250801.1647.entry
-  2025-12-29T00:45:29+0000  ivy-rtags-20250801.1647.tar
-Built ivy-rtags in 4.304s, finished at 2025-12-29T00:45:31+0000
+  2026-01-05T01:41:14+0000  ivy-rtags-20251228.2249.entry
+  2026-01-05T01:41:14+0000  ivy-rtags-20251228.2249.tar
+Built ivy-rtags in 3.068s, finished at 2026-01-05T01:41:14+0000

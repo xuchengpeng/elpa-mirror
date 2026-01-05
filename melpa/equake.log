@@ -1,15 +1,15 @@
  • Building package equake (from github:emacsomancer/equake)...
 Updating /mnt/store/melpa/working/equake/
-Checking out 60e9cbfae7a79e14a8e95da1148122c05500eb20
+Checking out 4469dd9eb1519f4d699d43d6cdb3a59488021fe8
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/equake/
-  to /tmp/equakezYrmx0/equake-20251208.2019
+  to /tmp/equakeyRmzJO/equake-20260102.225
     equake.el -> equake.el
-Created equake-20251208.2019.tar containing:
-  equake-20251208.2019/
-  equake-20251208.2019/equake-pkg.el
-  equake-20251208.2019/equake.el
+Created equake-20260102.225.tar containing:
+  equake-20260102.225/
+  equake-20260102.225/equake-pkg.el
+  equake-20260102.225/equake.el
  ✓ Success:
-  2025-12-29T00:27:39+0000  equake-20251208.2019.entry
-  2025-12-29T00:27:39+0000  equake-20251208.2019.tar
-Built equake in 2.815s, finished at 2025-12-29T00:27:40+0000
+  2026-01-05T01:22:47+0000  equake-20260102.225.entry
+  2026-01-05T01:22:47+0000  equake-20260102.225.tar
+Built equake in 2.845s, finished at 2026-01-05T01:22:48+0000

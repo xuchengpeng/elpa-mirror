@@ -3,13 +3,13 @@ Updating /mnt/store/melpa/working/import-js/
 Checking out d2bbb53f96395415f9f01de4fa88d82c1f59ba63
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/import-js/
-  to /tmp/import-js9LEemf/import-js-20220215.1948
+  to /tmp/import-js3HM2jh/import-js-20220215.1948
   ! plugin/import-js.el -> import-js.el
 Created import-js-20220215.1948.tar containing:
   import-js-20220215.1948/
   import-js-20220215.1948/import-js-pkg.el
   import-js-20220215.1948/import-js.el
  ✓ Success:
-  2025-12-29T00:43:53+0000  import-js-20220215.1948.entry
-  2025-12-29T00:43:53+0000  import-js-20220215.1948.tar
-Built import-js in 3.188s, finished at 2025-12-29T00:43:54+0000
+  2026-01-05T01:39:43+0000  import-js-20220215.1948.entry
+  2026-01-05T01:39:43+0000  import-js-20220215.1948.tar
+Built import-js in 3.202s, finished at 2026-01-05T01:39:44+0000

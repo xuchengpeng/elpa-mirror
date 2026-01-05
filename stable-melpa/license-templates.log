@@ -1,15 +1,15 @@
  • Building package license-templates (from github:jcs-elpa/license-templates)...
 Updating /mnt/store/melpa/working/license-templates/
-Checking out 93c4374301aa3fdb3dc67e3a7513af02e536d367
+Checking out c53a4e9f748be1a9c4c032602b927f9ab5a16702
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/license-templates/
-  to /tmp/license-templatesA11RZl/license-templates-20250101.1008
+  to /tmp/license-templatesLS53QN/license-templates-20260101.600
     license-templates.el -> license-templates.el
-Created license-templates-20250101.1008.tar containing:
-  license-templates-20250101.1008/
-  license-templates-20250101.1008/license-templates-pkg.el
-  license-templates-20250101.1008/license-templates.el
+Created license-templates-20260101.600.tar containing:
+  license-templates-20260101.600/
+  license-templates-20260101.600/license-templates-pkg.el
+  license-templates-20260101.600/license-templates.el
  ✓ Success:
-  2025-12-29T00:49:36+0000  license-templates-20250101.1008.entry
-  2025-12-29T00:49:36+0000  license-templates-20250101.1008.tar
-Built license-templates in 3.060s, finished at 2025-12-29T00:49:37+0000
+  2026-01-05T01:45:19+0000  license-templates-20260101.600.entry
+  2026-01-05T01:45:18+0000  license-templates-20260101.600.tar
+Built license-templates in 2.894s, finished at 2026-01-05T01:45:20+0000

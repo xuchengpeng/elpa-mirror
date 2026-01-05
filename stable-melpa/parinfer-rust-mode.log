@@ -1,23 +1,23 @@
  • Building package parinfer-rust-mode (from github:justinbarclay/parinfer-rust-mode)...
 Updating /mnt/store/melpa/working/parinfer-rust-mode/
-Checking out 40b4b9f226f115b8eec245ac8f97e43d1bfafa0f
+Checking out 6ee9f905c41f6368689ad12aa99516b9ee4fb06d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/parinfer-rust-mode/
-  to /tmp/parinfer-rust-mode4jK1xy/parinfer-rust-mode-20251209.617
+  to /tmp/parinfer-rust-modenSge2u/parinfer-rust-mode-20260101.1949
     parinfer-rust-changes.el -> parinfer-rust-changes.el
     parinfer-rust-flycheck.el -> parinfer-rust-flycheck.el
     parinfer-rust-flymake.el -> parinfer-rust-flymake.el
     parinfer-rust-helper.el -> parinfer-rust-helper.el
     parinfer-rust-mode.el -> parinfer-rust-mode.el
-Created parinfer-rust-mode-20251209.617.tar containing:
-  parinfer-rust-mode-20251209.617/
-  parinfer-rust-mode-20251209.617/parinfer-rust-changes.el
-  parinfer-rust-mode-20251209.617/parinfer-rust-flycheck.el
-  parinfer-rust-mode-20251209.617/parinfer-rust-flymake.el
-  parinfer-rust-mode-20251209.617/parinfer-rust-helper.el
-  parinfer-rust-mode-20251209.617/parinfer-rust-mode-pkg.el
-  parinfer-rust-mode-20251209.617/parinfer-rust-mode.el
+Created parinfer-rust-mode-20260101.1949.tar containing:
+  parinfer-rust-mode-20260101.1949/
+  parinfer-rust-mode-20260101.1949/parinfer-rust-changes.el
+  parinfer-rust-mode-20260101.1949/parinfer-rust-flycheck.el
+  parinfer-rust-mode-20260101.1949/parinfer-rust-flymake.el
+  parinfer-rust-mode-20260101.1949/parinfer-rust-helper.el
+  parinfer-rust-mode-20260101.1949/parinfer-rust-mode-pkg.el
+  parinfer-rust-mode-20260101.1949/parinfer-rust-mode.el
  ✓ Success:
-  2025-12-29T01:04:00+0000  parinfer-rust-mode-20251209.617.entry
-  2025-12-29T01:04:00+0000  parinfer-rust-mode-20251209.617.tar
-Built parinfer-rust-mode in 3.282s, finished at 2025-12-29T01:04:01+0000
+  2026-01-05T02:00:38+0000  parinfer-rust-mode-20260101.1949.entry
+  2026-01-05T02:00:37+0000  parinfer-rust-mode-20260101.1949.tar
+Built parinfer-rust-mode in 3.196s, finished at 2026-01-05T02:00:38+0000

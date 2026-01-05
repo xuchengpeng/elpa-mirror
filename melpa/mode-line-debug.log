@@ -1,15 +1,15 @@
  • Building package mode-line-debug (from github:tarsius/mode-line-debug)...
 Updating /mnt/store/melpa/working/mode-line-debug/
-Checking out f68cfa2ea28ce2dc6f40d4c93a44a701510e8e04
+Checking out a6c26f9d8b574edd3001b8abc6c4801048428385
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mode-line-debug/
-  to /tmp/mode-line-debugLpnmNO/mode-line-debug-20251101.2033
+  to /tmp/mode-line-debugtClEeI/mode-line-debug-20260101.1838
     mode-line-debug.el -> mode-line-debug.el
-Created mode-line-debug-20251101.2033.tar containing:
-  mode-line-debug-20251101.2033/
-  mode-line-debug-20251101.2033/mode-line-debug-pkg.el
-  mode-line-debug-20251101.2033/mode-line-debug.el
+Created mode-line-debug-20260101.1838.tar containing:
+  mode-line-debug-20260101.1838/
+  mode-line-debug-20260101.1838/mode-line-debug-pkg.el
+  mode-line-debug-20260101.1838/mode-line-debug.el
  ✓ Success:
-  2025-12-29T00:54:18+0000  mode-line-debug-20251101.2033.entry
-  2025-12-29T00:54:18+0000  mode-line-debug-20251101.2033.tar
-Built mode-line-debug in 2.867s, finished at 2025-12-29T00:54:19+0000
+  2026-01-05T01:50:07+0000  mode-line-debug-20260101.1838.entry
+  2026-01-05T01:50:07+0000  mode-line-debug-20260101.1838.tar
+Built mode-line-debug in 3.374s, finished at 2026-01-05T01:50:08+0000

@@ -1,15 +1,15 @@
  • Building package diminish-buffer (from github:jcs-elpa/diminish-buffer)...
 Updating /mnt/store/melpa/working/diminish-buffer/
-Checking out 6cc16c7b29b7f77b7df1fc59287551b1120a7bf7
+Checking out bd94b5b58655454728b655a30c93c0347749cf37
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/diminish-buffer/
-  to /tmp/diminish-bufferZP2Rnx/diminish-buffer-20250101.1007
+  to /tmp/diminish-buffergDb1zB/diminish-buffer-20260101.558
     diminish-buffer.el -> diminish-buffer.el
-Created diminish-buffer-20250101.1007.tar containing:
-  diminish-buffer-20250101.1007/
-  diminish-buffer-20250101.1007/diminish-buffer-pkg.el
-  diminish-buffer-20250101.1007/diminish-buffer.el
+Created diminish-buffer-20260101.558.tar containing:
+  diminish-buffer-20260101.558/
+  diminish-buffer-20260101.558/diminish-buffer-pkg.el
+  diminish-buffer-20260101.558/diminish-buffer.el
  ✓ Success:
-  2025-12-29T00:22:00+0000  diminish-buffer-20250101.1007.entry
-  2025-12-29T00:22:00+0000  diminish-buffer-20250101.1007.tar
-Built diminish-buffer in 2.839s, finished at 2025-12-29T00:22:00+0000
+  2026-01-05T01:16:53+0000  diminish-buffer-20260101.558.entry
+  2026-01-05T01:16:53+0000  diminish-buffer-20260101.558.tar
+Built diminish-buffer in 3.055s, finished at 2026-01-05T01:16:54+0000

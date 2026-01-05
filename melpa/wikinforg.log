@@ -1,15 +1,15 @@
  • Building package wikinforg (from github:progfolio/wikinforg)...
 Updating /mnt/store/melpa/working/wikinforg/
-Checking out edf2fc770e32e82a9ffa226ce602dbb9636d9ac5
+Checking out 9f1b72c2f2e5648f9b736470e350750b8726884c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/wikinforg/
-  to /tmp/wikinforgFslioF/wikinforg-20250809.56
+  to /tmp/wikinforgWpQj6S/wikinforg-20260101.1716
     wikinforg.el -> wikinforg.el
-Created wikinforg-20250809.56.tar containing:
-  wikinforg-20250809.56/
-  wikinforg-20250809.56/wikinforg-pkg.el
-  wikinforg-20250809.56/wikinforg.el
+Created wikinforg-20260101.1716.tar containing:
+  wikinforg-20260101.1716/
+  wikinforg-20260101.1716/wikinforg-pkg.el
+  wikinforg-20260101.1716/wikinforg.el
  ✓ Success:
-  2025-12-29T01:24:36+0000  wikinforg-20250809.56.entry
-  2025-12-29T01:24:36+0000  wikinforg-20250809.56.tar
-Built wikinforg in 3.108s, finished at 2025-12-29T01:24:37+0000
+  2026-01-05T02:21:20+0000  wikinforg-20260101.1716.entry
+  2026-01-05T02:21:20+0000  wikinforg-20260101.1716.tar
+Built wikinforg in 2.962s, finished at 2026-01-05T02:21:21+0000

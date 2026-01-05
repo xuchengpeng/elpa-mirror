@@ -1,17 +1,17 @@
  • Building package scad-mode (from github:openscad/emacs-scad-mode)...
 Updating /mnt/store/melpa/working/scad-mode/
-Checking out b130730a3123387e69c85cf10633701ea447fa2a
+Checking out 23e4a92342f97935221687256304d4f1767124f7
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/scad-mode/
-  to /tmp/scad-modePJIzVg/scad-mode-20251007.1702
+  to /tmp/scad-modemHSTbj/scad-mode-20260104.1120
     ob-scad.el -> ob-scad.el
     scad-mode.el -> scad-mode.el
-Created scad-mode-20251007.1702.tar containing:
-  scad-mode-20251007.1702/
-  scad-mode-20251007.1702/ob-scad.el
-  scad-mode-20251007.1702/scad-mode-pkg.el
-  scad-mode-20251007.1702/scad-mode.el
+Created scad-mode-20260104.1120.tar containing:
+  scad-mode-20260104.1120/
+  scad-mode-20260104.1120/ob-scad.el
+  scad-mode-20260104.1120/scad-mode-pkg.el
+  scad-mode-20260104.1120/scad-mode.el
  ✓ Success:
-  2025-12-29T01:12:16+0000  scad-mode-20251007.1702.entry
-  2025-12-29T01:12:16+0000  scad-mode-20251007.1702.tar
-Built scad-mode in 3.664s, finished at 2025-12-29T01:12:17+0000
+  2026-01-05T02:09:05+0000  scad-mode-20260104.1120.entry
+  2026-01-05T02:09:04+0000  scad-mode-20260104.1120.tar
+Built scad-mode in 3.601s, finished at 2026-01-05T02:09:05+0000

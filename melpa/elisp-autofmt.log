@@ -1,19 +1,19 @@
  • Building package elisp-autofmt (from codeberg:ideasman42/emacs-elisp-autofmt)...
 Updating /mnt/store/melpa/working/elisp-autofmt/
-Checking out aa0adce42f6f3cb25677aa4fb67c18bdf5526926
+Checking out 7c092f61dbf9673c9947c7048255c95b9d929204
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/elisp-autofmt/
-  to /tmp/elisp-autofmtOVkIov/elisp-autofmt-20251209.58
+  to /tmp/elisp-autofmtdQ5xkd/elisp-autofmt-20260101.1120
     elisp-autofmt.el -> elisp-autofmt.el
     elisp-autofmt.py -> elisp-autofmt.py
     elisp-autofmt.overrides.json -> elisp-autofmt.overrides.json
-Created elisp-autofmt-20251209.58.tar containing:
-  elisp-autofmt-20251209.58/
-  elisp-autofmt-20251209.58/elisp-autofmt-pkg.el
-  elisp-autofmt-20251209.58/elisp-autofmt.el
-  elisp-autofmt-20251209.58/elisp-autofmt.overrides.json
-  elisp-autofmt-20251209.58/elisp-autofmt.py
+Created elisp-autofmt-20260101.1120.tar containing:
+  elisp-autofmt-20260101.1120/
+  elisp-autofmt-20260101.1120/elisp-autofmt-pkg.el
+  elisp-autofmt-20260101.1120/elisp-autofmt.el
+  elisp-autofmt-20260101.1120/elisp-autofmt.overrides.json
+  elisp-autofmt-20260101.1120/elisp-autofmt.py
  ✓ Success:
-  2025-12-29T00:26:13+0000  elisp-autofmt-20251209.58.entry
-  2025-12-29T00:26:13+0000  elisp-autofmt-20251209.58.tar
-Built elisp-autofmt in 3.689s, finished at 2025-12-29T00:26:14+0000
+  2026-01-05T01:21:20+0000  elisp-autofmt-20260101.1120.entry
+  2026-01-05T01:21:20+0000  elisp-autofmt-20260101.1120.tar
+Built elisp-autofmt in 3.767s, finished at 2026-01-05T01:21:21+0000

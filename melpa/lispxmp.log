@@ -1,15 +1,15 @@
  • Building package lispxmp (from github:rubikitch/lispxmp)...
 Updating /mnt/store/melpa/working/lispxmp/
-Checking out 7ad077b4ee91ce8a42f84eeddb9fc7ea4eac7814
+Checking out af33c88276706633a0c37dddd672b27867a4b543
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/lispxmp/
-  to /tmp/lispxmpQlckhK/lispxmp-20170926.23
+  to /tmp/lispxmpGrvTgt/lispxmp-20260103.2307
     lispxmp.el -> lispxmp.el
-Created lispxmp-20170926.23.tar containing:
-  lispxmp-20170926.23/
-  lispxmp-20170926.23/lispxmp-pkg.el
-  lispxmp-20170926.23/lispxmp.el
+Created lispxmp-20260103.2307.tar containing:
+  lispxmp-20260103.2307/
+  lispxmp-20260103.2307/lispxmp-pkg.el
+  lispxmp-20260103.2307/lispxmp.el
  ✓ Success:
-  2025-12-29T00:49:53+0000  lispxmp-20170926.23.entry
-  2025-12-29T00:49:53+0000  lispxmp-20170926.23.tar
-Built lispxmp in 2.923s, finished at 2025-12-29T00:49:54+0000
+  2026-01-05T01:45:37+0000  lispxmp-20260103.2307.entry
+  2026-01-05T01:45:37+0000  lispxmp-20260103.2307.tar
+Built lispxmp in 2.966s, finished at 2026-01-05T01:45:38+0000

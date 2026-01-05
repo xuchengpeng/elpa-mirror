@@ -1,15 +1,15 @@
  • Building package flyover (from github:konrad1977/flyover)...
 Updating /mnt/store/melpa/working/flyover/
-Checking out 0446b4289bd7a3f169f2ab8eb6f6fa0365322bab
+Checking out 27a68d2207ca7ceac69f904389738cf0e0ef1cc5
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/flyover/
-  to /tmp/flyoveryPn3V6/flyover-20251208.647
+  to /tmp/flyover0WWZQ9/flyover-20260103.1332
     flyover.el -> flyover.el
-Created flyover-20251208.647.tar containing:
-  flyover-20251208.647/
-  flyover-20251208.647/flyover-pkg.el
-  flyover-20251208.647/flyover.el
+Created flyover-20260103.1332.tar containing:
+  flyover-20260103.1332/
+  flyover-20260103.1332/flyover-pkg.el
+  flyover-20260103.1332/flyover.el
  ✓ Success:
-  2025-12-29T00:34:11+0000  flyover-20251208.647.entry
-  2025-12-29T00:34:11+0000  flyover-20251208.647.tar
-Built flyover in 3.351s, finished at 2025-12-29T00:34:12+0000
+  2026-01-05T01:29:17+0000  flyover-20260103.1332.entry
+  2026-01-05T01:29:17+0000  flyover-20260103.1332.tar
+Built flyover in 3.231s, finished at 2026-01-05T01:29:18+0000

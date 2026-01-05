@@ -1,15 +1,15 @@
  • Building package evil-numbers (from github:juliapath/evil-numbers)...
 Updating /mnt/store/melpa/working/evil-numbers/
-Checking out 5362f19b78409b3220756cb2bf960a90d1196ee6
+Checking out 616aff9e5cee012954756ed2715209fa90308cdf
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/evil-numbers/
-  to /tmp/evil-numbersvCzJN3/evil-numbers-20251216.54
+  to /tmp/evil-numbersDBlSNp/evil-numbers-20260103.850
     evil-numbers.el -> evil-numbers.el
-Created evil-numbers-20251216.54.tar containing:
-  evil-numbers-20251216.54/
-  evil-numbers-20251216.54/evil-numbers-pkg.el
-  evil-numbers-20251216.54/evil-numbers.el
+Created evil-numbers-20260103.850.tar containing:
+  evil-numbers-20260103.850/
+  evil-numbers-20260103.850/evil-numbers-pkg.el
+  evil-numbers-20260103.850/evil-numbers.el
  ✓ Success:
-  2025-12-29T00:29:28+0000  evil-numbers-20251216.54.entry
-  2025-12-29T00:29:28+0000  evil-numbers-20251216.54.tar
-Built evil-numbers in 3.320s, finished at 2025-12-29T00:29:29+0000
+  2026-01-05T01:24:55+0000  evil-numbers-20260103.850.entry
+  2026-01-05T01:24:55+0000  evil-numbers-20260103.850.tar
+Built evil-numbers in 3.017s, finished at 2026-01-05T01:24:56+0000

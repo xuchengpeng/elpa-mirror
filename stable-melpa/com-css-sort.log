@@ -1,15 +1,15 @@
  • Building package com-css-sort (from github:jcs-elpa/com-css-sort)...
 Updating /mnt/store/melpa/working/com-css-sort/
-Checking out 4c6f8bfd88c0bcee9ac121f013d1fcd88f462bae
+Checking out 244f910ef55c853e75b0109b7fd96ce742a13461
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/com-css-sort/
-  to /tmp/com-css-sortdDkC9Q/com-css-sort-20250101.1004
+  to /tmp/com-css-sortZDIi1e/com-css-sort-20260101.558
     com-css-sort.el -> com-css-sort.el
-Created com-css-sort-20250101.1004.tar containing:
-  com-css-sort-20250101.1004/
-  com-css-sort-20250101.1004/com-css-sort-pkg.el
-  com-css-sort-20250101.1004/com-css-sort.el
+Created com-css-sort-20260101.558.tar containing:
+  com-css-sort-20260101.558/
+  com-css-sort-20260101.558/com-css-sort-pkg.el
+  com-css-sort-20260101.558/com-css-sort.el
  ✓ Success:
-  2025-12-29T00:16:56+0000  com-css-sort-20250101.1004.entry
-  2025-12-29T00:16:56+0000  com-css-sort-20250101.1004.tar
-Built com-css-sort in 3.007s, finished at 2025-12-29T00:16:57+0000
+  2026-01-05T01:11:42+0000  com-css-sort-20260101.558.entry
+  2026-01-05T01:11:42+0000  com-css-sort-20260101.558.tar
+Built com-css-sort in 3.157s, finished at 2026-01-05T01:11:43+0000

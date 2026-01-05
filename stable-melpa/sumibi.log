@@ -1,19 +1,19 @@
  • Building package sumibi (from github:kiyoka/Sumibi)...
 Updating /mnt/store/melpa/working/sumibi/
-Checking out 47ecde2e815e4540bbb110bee1c0d5c50569f6f8
+Checking out 581a6d61ecc6d627676f946f9703b0fc74685551
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/sumibi/
-  to /tmp/sumibiLzRnHw/sumibi-20251206.718
+  to /tmp/sumibiYk0YhD/sumibi-20260104.1157
   ! lisp/sumibi-english-words.el -> sumibi-english-words.el
   ! lisp/sumibi-localdic.el -> sumibi-localdic.el
   ! lisp/sumibi.el -> sumibi.el
-Created sumibi-20251206.718.tar containing:
-  sumibi-20251206.718/
-  sumibi-20251206.718/sumibi-english-words.el
-  sumibi-20251206.718/sumibi-localdic.el
-  sumibi-20251206.718/sumibi-pkg.el
-  sumibi-20251206.718/sumibi.el
+Created sumibi-20260104.1157.tar containing:
+  sumibi-20260104.1157/
+  sumibi-20260104.1157/sumibi-english-words.el
+  sumibi-20260104.1157/sumibi-localdic.el
+  sumibi-20260104.1157/sumibi-pkg.el
+  sumibi-20260104.1157/sumibi.el
  ✓ Success:
-  2025-12-29T01:17:39+0000  sumibi-20251206.718.entry
-  2025-12-29T01:17:39+0000  sumibi-20251206.718.tar
-Built sumibi in 6.975s, finished at 2025-12-29T01:17:40+0000
+  2026-01-05T02:14:11+0000  sumibi-20260104.1157.entry
+  2026-01-05T02:14:11+0000  sumibi-20260104.1157.tar
+Built sumibi in 6.721s, finished at 2026-01-05T02:14:12+0000

@@ -1,15 +1,15 @@
  • Building package alt-codes (from github:jcs-elpa/alt-codes)...
 Updating /mnt/store/melpa/working/alt-codes/
-Checking out 24e3740f88c29efda5c4791720a55c4c548b1ed8
+Checking out 1a4df7f34b1072ef199aba602c6c3901d3da5bb1
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/alt-codes/
-  to /tmp/alt-codesQM5g76/alt-codes-20250101.1002
+  to /tmp/alt-codesZaAALa/alt-codes-20260101.557
     alt-codes.el -> alt-codes.el
-Created alt-codes-20250101.1002.tar containing:
-  alt-codes-20250101.1002/
-  alt-codes-20250101.1002/alt-codes-pkg.el
-  alt-codes-20250101.1002/alt-codes.el
+Created alt-codes-20260101.557.tar containing:
+  alt-codes-20260101.557/
+  alt-codes-20260101.557/alt-codes-pkg.el
+  alt-codes-20260101.557/alt-codes.el
  ✓ Success:
-  2025-12-29T00:09:14+0000  alt-codes-20250101.1002.entry
-  2025-12-29T00:09:14+0000  alt-codes-20250101.1002.tar
-Built alt-codes in 3.403s, finished at 2025-12-29T00:09:15+0000
+  2026-01-05T01:03:36+0000  alt-codes-20260101.557.entry
+  2026-01-05T01:03:36+0000  alt-codes-20260101.557.tar
+Built alt-codes in 5.900s, finished at 2026-01-05T01:03:38+0000

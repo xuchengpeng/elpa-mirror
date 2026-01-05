@@ -1,15 +1,15 @@
  • Building package lsp-ltex (from github:emacs-languagetool/lsp-ltex)...
 Updating /mnt/store/melpa/working/lsp-ltex/
-Checking out 3cfb4ed92b71ab63daaab77962fd6dd23a2851e7
+Checking out 6adc2b4d32a907943a6ce06e2267090241e7af6a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/lsp-ltex/
-  to /tmp/lsp-ltex2J4FO5/lsp-ltex-20250228.2215
+  to /tmp/lsp-ltexKJbtSq/lsp-ltex-20260101.535
     lsp-ltex.el -> lsp-ltex.el
-Created lsp-ltex-20250228.2215.tar containing:
-  lsp-ltex-20250228.2215/
-  lsp-ltex-20250228.2215/lsp-ltex-pkg.el
-  lsp-ltex-20250228.2215/lsp-ltex.el
+Created lsp-ltex-20260101.535.tar containing:
+  lsp-ltex-20260101.535/
+  lsp-ltex-20260101.535/lsp-ltex-pkg.el
+  lsp-ltex-20260101.535/lsp-ltex.el
  ✓ Success:
-  2025-12-29T00:50:56+0000  lsp-ltex-20250228.2215.entry
-  2025-12-29T00:50:56+0000  lsp-ltex-20250228.2215.tar
-Built lsp-ltex in 3.072s, finished at 2025-12-29T00:50:57+0000
+  2026-01-05T01:46:38+0000  lsp-ltex-20260101.535.entry
+  2026-01-05T01:46:38+0000  lsp-ltex-20260101.535.tar
+Built lsp-ltex in 3.130s, finished at 2026-01-05T01:46:39+0000

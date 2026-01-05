@@ -1,15 +1,15 @@
  • Building package keycast (from github:tarsius/keycast)...
 Updating /mnt/store/melpa/working/keycast/
-Checking out 090ade99c1c03830d45cc763e5733a1ca001c4e5
+Checking out b831e380c4deb1d51ce5db0a965b96427aec52e4
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/keycast/
-  to /tmp/keycastnXKgdF/keycast-20251101.2021
+  to /tmp/keycastQpOzB2/keycast-20260101.1835
     keycast.el -> keycast.el
-Created keycast-20251101.2021.tar containing:
-  keycast-20251101.2021/
-  keycast-20251101.2021/keycast-pkg.el
-  keycast-20251101.2021/keycast.el
+Created keycast-20260101.1835.tar containing:
+  keycast-20260101.1835/
+  keycast-20260101.1835/keycast-pkg.el
+  keycast-20260101.1835/keycast.el
  ✓ Success:
-  2025-12-29T00:47:47+0000  keycast-20251101.2021.entry
-  2025-12-29T00:47:47+0000  keycast-20251101.2021.tar
-Built keycast in 5.052s, finished at 2025-12-29T00:47:49+0000
+  2026-01-05T01:43:38+0000  keycast-20260101.1835.entry
+  2026-01-05T01:43:38+0000  keycast-20260101.1835.tar
+Built keycast in 3.002s, finished at 2026-01-05T01:43:39+0000

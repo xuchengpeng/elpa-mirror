@@ -1,0 +1,15 @@
+ • Building package gptel-cpp-complete (from github:beacoder/gptel-cpp-complete)...
+Updating /mnt/store/melpa/working/gptel-cpp-complete/
+Checking out 57e505526210532007e93503d2b2f276ac102fbb
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/gptel-cpp-complete/
+  to /tmp/gptel-cpp-complete14dzHV/gptel-cpp-complete-20260104.209
+    gptel-cpp-complete.el -> gptel-cpp-complete.el
+Created gptel-cpp-complete-20260104.209.tar containing:
+  gptel-cpp-complete-20260104.209/
+  gptel-cpp-complete-20260104.209/gptel-cpp-complete-pkg.el
+  gptel-cpp-complete-20260104.209/gptel-cpp-complete.el
+ ✓ Success:
+  2026-01-05T01:33:19+0000  gptel-cpp-complete-20260104.209.entry
+  2026-01-05T01:33:19+0000  gptel-cpp-complete-20260104.209.tar
+Built gptel-cpp-complete in 3.080s, finished at 2026-01-05T01:33:20+0000

@@ -1,21 +1,23 @@
  • Building package imbot (from github:QiangF/imbot)...
 Updating /mnt/store/melpa/working/imbot/
-Checking out 3d4d5b0e73981a5249bcedfabd6bb188a1283075
+Checking out c76967403e285e4f475cfb3fb06f9e076b21d65d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/imbot/
-  to /tmp/imbotZVGC0i/imbot-20250108.1419
-    imbot--fcitx5.el -> imbot--fcitx5.el
-    imbot--ibus.el -> imbot--ibus.el
-    imbot--windows.el -> imbot--windows.el
+  to /tmp/imbotJLkcxu/imbot-20260105.115
+    backend-fcitx-dbus.el -> backend-fcitx-dbus.el
+    backend-rime-lib.el -> backend-rime-lib.el
     imbot.el -> imbot.el
-Created imbot-20250108.1419.tar containing:
-  imbot-20250108.1419/
-  imbot-20250108.1419/imbot--fcitx5.el
-  imbot-20250108.1419/imbot--ibus.el
-  imbot-20250108.1419/imbot--windows.el
-  imbot-20250108.1419/imbot-pkg.el
-  imbot-20250108.1419/imbot.el
+    test-fcitx5.el -> test-fcitx5.el
+Created imbot-20260105.115.tar containing:
+  imbot-20260105.115/
+  imbot-20260105.115/backend-fcitx-dbus.el
+  imbot-20260105.115/backend-rime-lib.el
+  imbot-20260105.115/imbot-pkg.el
+  imbot-20260105.115/imbot.el
+  imbot-20260105.115/test-fcitx5.el
  ✓ Success:
-  2025-12-29T00:43:45+0000  imbot-20250108.1419.entry
-  2025-12-29T00:43:45+0000  imbot-20250108.1419.tar
-Built imbot in 3.483s, finished at 2025-12-29T00:43:46+0000
+  2026-01-04T23:00:08+0000  imbot-20260104.143.entry
+  2026-01-04T23:00:08+0000  imbot-20260104.143.tar
+  2026-01-05T01:39:34+0000  imbot-20260105.115.entry
+  2026-01-05T01:39:34+0000  imbot-20260105.115.tar
+Built imbot in 3.889s, finished at 2026-01-05T01:39:35+0000

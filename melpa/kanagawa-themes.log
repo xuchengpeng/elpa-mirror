@@ -1,21 +1,21 @@
  • Building package kanagawa-themes (from github:Fabiokleis/kanagawa-emacs)...
 Updating /mnt/store/melpa/working/kanagawa-themes/
-Checking out 1eddb5fe124dbec2a4b65e3e314fa49e41f36122
+Checking out 95516102a673b924c0446ae548c9053773f878ea
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/kanagawa-themes/
-  to /tmp/kanagawa-themesqkDiuM/kanagawa-themes-20251222.1218
+  to /tmp/kanagawa-themesALFIpk/kanagawa-themes-20260102.1542
     kanagawa-dragon-theme.el -> kanagawa-dragon-theme.el
     kanagawa-lotus-theme.el -> kanagawa-lotus-theme.el
     kanagawa-themes.el -> kanagawa-themes.el
     kanagawa-wave-theme.el -> kanagawa-wave-theme.el
-Created kanagawa-themes-20251222.1218.tar containing:
-  kanagawa-themes-20251222.1218/
-  kanagawa-themes-20251222.1218/kanagawa-dragon-theme.el
-  kanagawa-themes-20251222.1218/kanagawa-lotus-theme.el
-  kanagawa-themes-20251222.1218/kanagawa-themes-pkg.el
-  kanagawa-themes-20251222.1218/kanagawa-themes.el
-  kanagawa-themes-20251222.1218/kanagawa-wave-theme.el
+Created kanagawa-themes-20260102.1542.tar containing:
+  kanagawa-themes-20260102.1542/
+  kanagawa-themes-20260102.1542/kanagawa-dragon-theme.el
+  kanagawa-themes-20260102.1542/kanagawa-lotus-theme.el
+  kanagawa-themes-20260102.1542/kanagawa-themes-pkg.el
+  kanagawa-themes-20260102.1542/kanagawa-themes.el
+  kanagawa-themes-20260102.1542/kanagawa-wave-theme.el
  ✓ Success:
-  2025-12-29T00:47:14+0000  kanagawa-themes-20251222.1218.entry
-  2025-12-29T00:47:14+0000  kanagawa-themes-20251222.1218.tar
-Built kanagawa-themes in 2.813s, finished at 2025-12-29T00:47:15+0000
+  2026-01-05T01:43:14+0000  kanagawa-themes-20260102.1542.entry
+  2026-01-05T01:43:14+0000  kanagawa-themes-20260102.1542.tar
+Built kanagawa-themes in 2.989s, finished at 2026-01-05T01:43:15+0000

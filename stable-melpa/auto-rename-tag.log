@@ -1,15 +1,15 @@
  • Building package auto-rename-tag (from github:emacs-vs/auto-rename-tag)...
 Updating /mnt/store/melpa/working/auto-rename-tag/
-Checking out b38895ff4821df3a0461959146e9f912d2acde4e
+Checking out ace6de8bc8200aa9c9f37c8266d0e1b51627b559
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/auto-rename-tag/
-  to /tmp/auto-rename-tagiMyKtS/auto-rename-tag-20250101.906
+  to /tmp/auto-rename-taguhSEaO/auto-rename-tag-20260101.547
     auto-rename-tag.el -> auto-rename-tag.el
-Created auto-rename-tag-20250101.906.tar containing:
-  auto-rename-tag-20250101.906/
-  auto-rename-tag-20250101.906/auto-rename-tag-pkg.el
-  auto-rename-tag-20250101.906/auto-rename-tag.el
+Created auto-rename-tag-20260101.547.tar containing:
+  auto-rename-tag-20260101.547/
+  auto-rename-tag-20260101.547/auto-rename-tag-pkg.el
+  auto-rename-tag-20260101.547/auto-rename-tag.el
  ✓ Success:
-  2025-12-29T00:10:51+0000  auto-rename-tag-20250101.906.entry
-  2025-12-29T00:10:51+0000  auto-rename-tag-20250101.906.tar
-Built auto-rename-tag in 2.851s, finished at 2025-12-29T00:10:52+0000
+  2026-01-05T01:05:33+0000  auto-rename-tag-20260101.547.entry
+  2026-01-05T01:05:33+0000  auto-rename-tag-20260101.547.tar
+Built auto-rename-tag in 3.260s, finished at 2026-01-05T01:05:34+0000

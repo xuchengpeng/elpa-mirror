@@ -1,15 +1,15 @@
  • Building package eldoc-eask (from github:emacs-eask/eldoc-eask)...
 Updating /mnt/store/melpa/working/eldoc-eask/
-Checking out 2433fa00abfa8d4b384aff022f496287e0975776
+Checking out d305a63c5e67a3e8a6ff448c7419bcc1ac05d5b4
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/eldoc-eask/
-  to /tmp/eldoc-easkOHiAoz/eldoc-eask-20250101.837
+  to /tmp/eldoc-eask7FzwWo/eldoc-eask-20251231.1607
     eldoc-eask.el -> eldoc-eask.el
-Created eldoc-eask-20250101.837.tar containing:
-  eldoc-eask-20250101.837/
-  eldoc-eask-20250101.837/eldoc-eask-pkg.el
-  eldoc-eask-20250101.837/eldoc-eask.el
+Created eldoc-eask-20251231.1607.tar containing:
+  eldoc-eask-20251231.1607/
+  eldoc-eask-20251231.1607/eldoc-eask-pkg.el
+  eldoc-eask-20251231.1607/eldoc-eask.el
  ✓ Success:
-  2025-12-29T00:25:49+0000  eldoc-eask-20250101.837.entry
-  2025-12-29T00:25:49+0000  eldoc-eask-20250101.837.tar
-Built eldoc-eask in 2.970s, finished at 2025-12-29T00:25:50+0000
+  2026-01-05T01:20:54+0000  eldoc-eask-20251231.1607.entry
+  2026-01-05T01:20:54+0000  eldoc-eask-20251231.1607.tar
+Built eldoc-eask in 2.706s, finished at 2026-01-05T01:20:55+0000

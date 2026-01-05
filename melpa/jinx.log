@@ -1,19 +1,19 @@
  • Building package jinx (from github:minad/jinx)...
 Updating /mnt/store/melpa/working/jinx/
-Checking out 46aec1bdaad149ddfcc34217d05e69b1b718c4c4
+Checking out 331ed3d8f45db3c4b6b494d88abd388569f9bc0e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/jinx/
-  to /tmp/jinxR8aHW4/jinx-20251224.1108
+  to /tmp/jinxndTJP0/jinx-20260104.1105
     jinx.el -> jinx.el
     jinx-mod.c -> jinx-mod.c
     emacs-module.h -> emacs-module.h
-Created jinx-20251224.1108.tar containing:
-  jinx-20251224.1108/
-  jinx-20251224.1108/emacs-module.h
-  jinx-20251224.1108/jinx-mod.c
-  jinx-20251224.1108/jinx-pkg.el
-  jinx-20251224.1108/jinx.el
+Created jinx-20260104.1105.tar containing:
+  jinx-20260104.1105/
+  jinx-20260104.1105/emacs-module.h
+  jinx-20260104.1105/jinx-mod.c
+  jinx-20260104.1105/jinx-pkg.el
+  jinx-20260104.1105/jinx.el
  ✓ Success:
-  2025-12-29T00:46:14+0000  jinx-20251224.1108.entry
-  2025-12-29T00:46:14+0000  jinx-20251224.1108.tar
-Built jinx in 3.640s, finished at 2025-12-29T00:46:15+0000
+  2026-01-05T01:42:11+0000  jinx-20260104.1105.entry
+  2026-01-05T01:42:11+0000  jinx-20260104.1105.tar
+Built jinx in 3.649s, finished at 2026-01-05T01:42:12+0000

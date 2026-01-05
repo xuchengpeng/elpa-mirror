@@ -1,15 +1,15 @@
  • Building package marginalia (from github:minad/marginalia)...
 Updating /mnt/store/melpa/working/marginalia/
-Checking out 61bf01985aea982db351002951882438fcada08b
+Checking out fc0cee1151fced42db6014e1d29a61ed63de81d9
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/marginalia/
-  to /tmp/marginaliaAdOrsx/marginalia-20251223.1509
+  to /tmp/marginaliaxm88O7/marginalia-20260104.1119
     marginalia.el -> marginalia.el
-Created marginalia-20251223.1509.tar containing:
-  marginalia-20251223.1509/
-  marginalia-20251223.1509/marginalia-pkg.el
-  marginalia-20251223.1509/marginalia.el
+Created marginalia-20260104.1119.tar containing:
+  marginalia-20260104.1119/
+  marginalia-20260104.1119/marginalia-pkg.el
+  marginalia-20260104.1119/marginalia.el
  ✓ Success:
-  2025-12-29T00:52:10+0000  marginalia-20251223.1509.entry
-  2025-12-29T00:52:10+0000  marginalia-20251223.1509.tar
-Built marginalia in 3.827s, finished at 2025-12-29T00:52:11+0000
+  2026-01-05T01:48:15+0000  marginalia-20260104.1119.entry
+  2026-01-05T01:48:15+0000  marginalia-20260104.1119.tar
+Built marginalia in 3.709s, finished at 2026-01-05T01:48:16+0000
