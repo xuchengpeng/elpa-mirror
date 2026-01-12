@@ -1,15 +1,15 @@
  • Building package turepo (from github:swarnimcodes/turepo)...
 Updating /mnt/store/melpa/working/turepo/
-Checking out ff78a987a7cb61a08e390bef3d720d0707246ac1
+Checking out 4d75992fce9a78b4b8a2baedefc856d5a248576a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/turepo/
-  to /tmp/turepor7aEO2/turepo-20251229.434
+  to /tmp/turepojy0SIb/turepo-20260106.1210
     turepo.el -> turepo.el
-Created turepo-20251229.434.tar containing:
-  turepo-20251229.434/
-  turepo-20251229.434/turepo-pkg.el
-  turepo-20251229.434/turepo.el
+Created turepo-20260106.1210.tar containing:
+  turepo-20260106.1210/
+  turepo-20260106.1210/turepo-pkg.el
+  turepo-20260106.1210/turepo.el
  ✓ Success:
-  2026-01-05T02:18:05+0000  turepo-20251229.434.entry
-  2026-01-05T02:18:04+0000  turepo-20251229.434.tar
-Built turepo in 3.065s, finished at 2026-01-05T02:18:05+0000
+  2026-01-12T00:56:43+0000  turepo-20260106.1210.entry
+  2026-01-12T00:56:43+0000  turepo-20260106.1210.tar
+Built turepo in 2.995s, finished at 2026-01-12T00:56:44+0000

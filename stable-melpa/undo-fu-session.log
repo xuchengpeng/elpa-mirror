@@ -1,15 +1,15 @@
  • Building package undo-fu-session (from codeberg:ideasman42/emacs-undo-fu-session)...
 Updating /mnt/store/melpa/working/undo-fu-session/
-Checking out 58bd7f321e6fb2a359d32f23a962fd1d74966314
+Checking out 34ae31308d2f290f87a330c76a627b7fe8ebb720
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/undo-fu-session/
-  to /tmp/undo-fu-sessionO4yLNG/undo-fu-session-20260104.1244
+  to /tmp/undo-fu-sessionuz3OBO/undo-fu-session-20260108.1313
     undo-fu-session.el -> undo-fu-session.el
-Created undo-fu-session-20260104.1244.tar containing:
-  undo-fu-session-20260104.1244/
-  undo-fu-session-20260104.1244/undo-fu-session-pkg.el
-  undo-fu-session-20260104.1244/undo-fu-session.el
+Created undo-fu-session-20260108.1313.tar containing:
+  undo-fu-session-20260108.1313/
+  undo-fu-session-20260108.1313/undo-fu-session-pkg.el
+  undo-fu-session-20260108.1313/undo-fu-session.el
  ✓ Success:
-  2026-01-05T02:18:35+0000  undo-fu-session-20260104.1244.entry
-  2026-01-05T02:18:35+0000  undo-fu-session-20260104.1244.tar
-Built undo-fu-session in 3.624s, finished at 2026-01-05T02:18:36+0000
+  2026-01-12T00:57:11+0000  undo-fu-session-20260108.1313.entry
+  2026-01-12T00:57:10+0000  undo-fu-session-20260108.1313.tar
+Built undo-fu-session in 3.485s, finished at 2026-01-12T00:57:11+0000

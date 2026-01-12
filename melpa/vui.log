@@ -1,15 +1,15 @@
  • Building package vui (from github:d12frosted/vui.el)...
 Updating /mnt/store/melpa/working/vui/
-Checking out 67c508c0f2dd6773a590df47c355edb3911f0bcb
+Checking out c9989805dbe7f7482905ad03562d955d847e97c8
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/vui/
-  to /tmp/vuiZTZBQc/vui-20251228.1847
+  to /tmp/vuiqYdK8i/vui-20260106.738
     vui.el -> vui.el
-Created vui-20251228.1847.tar containing:
-  vui-20251228.1847/
-  vui-20251228.1847/vui-pkg.el
-  vui-20251228.1847/vui.el
+Created vui-20260106.738.tar containing:
+  vui-20260106.738/
+  vui-20260106.738/vui-pkg.el
+  vui-20260106.738/vui.el
  ✓ Success:
-  2026-01-05T02:20:20+0000  vui-20251228.1847.entry
-  2026-01-05T02:20:20+0000  vui-20251228.1847.tar
-Built vui in 3.560s, finished at 2026-01-05T02:20:21+0000
+  2026-01-12T00:58:46+0000  vui-20260106.738.entry
+  2026-01-12T00:58:46+0000  vui-20260106.738.tar
+Built vui in 4.974s, finished at 2026-01-12T00:58:48+0000

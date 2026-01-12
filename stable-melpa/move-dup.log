@@ -3,13 +3,13 @@ Updating /mnt/store/melpa/working/move-dup/
 Checking out bf2e578b89d7e7bf0b5500d9afcf49ac6ec2dcd1
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/move-dup/
-  to /tmp/move-dupAcaSUY/move-dup-20210127.1938
+  to /tmp/move-dupaeonp6/move-dup-20210127.1938
     move-dup.el -> move-dup.el
 Created move-dup-20210127.1938.tar containing:
   move-dup-20210127.1938/
   move-dup-20210127.1938/move-dup-pkg.el
   move-dup-20210127.1938/move-dup.el
  ✓ Success:
-  2026-01-05T01:50:41+0000  move-dup-20210127.1938.entry
-  2026-01-05T01:50:41+0000  move-dup-20210127.1938.tar
-Built move-dup in 3.047s, finished at 2026-01-05T01:50:42+0000
+  2026-01-12T00:31:56+0000  move-dup-20210127.1938.entry
+  2026-01-12T00:31:56+0000  move-dup-20210127.1938.tar
+Built move-dup in 2.603s, finished at 2026-01-12T00:31:57+0000

@@ -3,13 +3,13 @@ Updating /mnt/store/melpa/working/helm-gtags/
 Checking out 6278f138896585dd60cd954f991cffcc0ebf6440
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/helm-gtags/
-  to /tmp/helm-gtagsU8nG7f/helm-gtags-20260103.1800
+  to /tmp/helm-gtagsT0lAmW/helm-gtags-20260103.1800
     helm-gtags.el -> helm-gtags.el
 Created helm-gtags-20260103.1800.tar containing:
   helm-gtags-20260103.1800/
   helm-gtags-20260103.1800/helm-gtags-pkg.el
   helm-gtags-20260103.1800/helm-gtags.el
  ✓ Success:
-  2026-01-05T01:36:09+0000  helm-gtags-20260103.1800.entry
-  2026-01-05T01:36:09+0000  helm-gtags-20260103.1800.tar
-Built helm-gtags in 4.733s, finished at 2026-01-05T01:36:11+0000
+  2026-01-12T00:18:38+0000  helm-gtags-20260103.1800.entry
+  2026-01-12T00:18:38+0000  helm-gtags-20260103.1800.tar
+Built helm-gtags in 2.951s, finished at 2026-01-12T00:18:39+0000

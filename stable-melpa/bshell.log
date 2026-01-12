@@ -1,15 +1,15 @@
  • Building package bshell (from github:plandes/bshell)...
 Updating /mnt/store/melpa/working/bshell/
-Checking out d59559cf7c5dded8b9639346ae5c1384d8b9be4e
+Checking out c13907ac0d2d8eda58c0e35d99179ed8c0e4c25a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/bshell/
-  to /tmp/bshellovl0Pc/bshell-20240112.2303
+  to /tmp/bshellRF929o/bshell-20260107.1914
     bshell.el -> bshell.el
-Created bshell-20240112.2303.tar containing:
-  bshell-20240112.2303/
-  bshell-20240112.2303/bshell-pkg.el
-  bshell-20240112.2303/bshell.el
+Created bshell-20260107.1914.tar containing:
+  bshell-20260107.1914/
+  bshell-20260107.1914/bshell-pkg.el
+  bshell-20260107.1914/bshell.el
  ✓ Success:
-  2026-01-05T01:08:12+0000  bshell-20240112.2303.entry
-  2026-01-05T01:08:12+0000  bshell-20240112.2303.tar
-Built bshell in 2.850s, finished at 2026-01-05T01:08:13+0000
+  2026-01-11T23:53:18+0000  bshell-20260107.1914.entry
+  2026-01-11T23:53:18+0000  bshell-20260107.1914.tar
+Built bshell in 2.714s, finished at 2026-01-11T23:53:19+0000

@@ -3,13 +3,13 @@ Updating /mnt/store/melpa/working/clippy/
 Checking out 006e0bbe3f695c0e0ebdc0de5095255608eb9e6c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/clippy/
-  to /tmp/clippyUkpccc/clippy-20250511.2020
+  to /tmp/clippyPtERu8/clippy-20250511.2020
     clippy.el -> clippy.el
 Created clippy-20250511.2020.tar containing:
   clippy-20250511.2020/
   clippy-20250511.2020/clippy-pkg.el
   clippy-20250511.2020/clippy.el
  ✓ Success:
-  2026-01-05T01:10:48+0000  clippy-20250511.2020.entry
-  2026-01-05T01:10:48+0000  clippy-20250511.2020.tar
-Built clippy in 3.615s, finished at 2026-01-05T01:10:49+0000
+  2026-01-11T23:55:35+0000  clippy-20250511.2020.entry
+  2026-01-11T23:55:35+0000  clippy-20250511.2020.tar
+Built clippy in 3.163s, finished at 2026-01-11T23:55:36+0000

@@ -1,15 +1,15 @@
  • Building package elisp-dev-mcp (from github:laurynas-biveinis/elisp-dev-mcp)...
 Updating /mnt/store/melpa/working/elisp-dev-mcp/
-Checking out 0c874f14f01f72958e03e0723766c4c8fe52ddc7
+Checking out 62e811321329b60bd3d288b0601eda7eb69eaa29
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/elisp-dev-mcp/
-  to /tmp/elisp-dev-mcpNgLCOg/elisp-dev-mcp-20260102.559
+  to /tmp/elisp-dev-mcpQznzEu/elisp-dev-mcp-20260109.756
     elisp-dev-mcp.el -> elisp-dev-mcp.el
-Created elisp-dev-mcp-20260102.559.tar containing:
-  elisp-dev-mcp-20260102.559/
-  elisp-dev-mcp-20260102.559/elisp-dev-mcp-pkg.el
-  elisp-dev-mcp-20260102.559/elisp-dev-mcp.el
+Created elisp-dev-mcp-20260109.756.tar containing:
+  elisp-dev-mcp-20260109.756/
+  elisp-dev-mcp-20260109.756/elisp-dev-mcp-pkg.el
+  elisp-dev-mcp-20260109.756/elisp-dev-mcp.el
  ✓ Success:
-  2026-01-05T01:21:20+0000  elisp-dev-mcp-20260102.559.entry
-  2026-01-05T01:21:20+0000  elisp-dev-mcp-20260102.559.tar
-Built elisp-dev-mcp in 2.906s, finished at 2026-01-05T01:21:21+0000
+  2026-01-12T00:05:28+0000  elisp-dev-mcp-20260109.756.entry
+  2026-01-12T00:05:28+0000  elisp-dev-mcp-20260109.756.tar
+Built elisp-dev-mcp in 3.103s, finished at 2026-01-12T00:05:29+0000

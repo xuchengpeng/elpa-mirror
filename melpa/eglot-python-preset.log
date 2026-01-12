@@ -1,15 +1,15 @@
  • Building package eglot-python-preset (from github:mwolson/eglot-python-preset)...
 Updating /mnt/store/melpa/working/eglot-python-preset/
-Checking out e18a0ea0a176dcb308bd77aeeb72c22954d87433
+Checking out 5877dbd06c0fdd6c849e8d7836f7323d39ad9c27
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/eglot-python-preset/
-  to /tmp/eglot-python-presetLq9TAO/eglot-python-preset-20260102.1801
+  to /tmp/eglot-python-presetAfkxJO/eglot-python-preset-20260108.56
     eglot-python-preset.el -> eglot-python-preset.el
-Created eglot-python-preset-20260102.1801.tar containing:
-  eglot-python-preset-20260102.1801/
-  eglot-python-preset-20260102.1801/eglot-python-preset-pkg.el
-  eglot-python-preset-20260102.1801/eglot-python-preset.el
+Created eglot-python-preset-20260108.56.tar containing:
+  eglot-python-preset-20260108.56/
+  eglot-python-preset-20260108.56/eglot-python-preset-pkg.el
+  eglot-python-preset-20260108.56/eglot-python-preset.el
  ✓ Success:
-  2026-01-05T01:20:21+0000  eglot-python-preset-20260102.1801.entry
-  2026-01-05T01:20:21+0000  eglot-python-preset-20260102.1801.tar
-Built eglot-python-preset in 3.076s, finished at 2026-01-05T01:20:22+0000
+  2026-01-12T00:04:31+0000  eglot-python-preset-20260108.56.entry
+  2026-01-12T00:04:31+0000  eglot-python-preset-20260108.56.tar
+Built eglot-python-preset in 2.842s, finished at 2026-01-12T00:04:32+0000

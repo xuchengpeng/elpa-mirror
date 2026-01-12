@@ -1,15 +1,15 @@
  • Building package bookmark-in-project (from codeberg:ideasman42/emacs-bookmark-in-project)...
 Updating /mnt/store/melpa/working/bookmark-in-project/
-Checking out 7839b4c9cd79d3993774867a97c9c5cf83944862
+Checking out bf923ddd3e74fe99e086221e461a5fa7599d0644
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/bookmark-in-project/
-  to /tmp/bookmark-in-projectgA4rUZ/bookmark-in-project-20251214.537
+  to /tmp/bookmark-in-projectm6GmON/bookmark-in-project-20260108.1305
     bookmark-in-project.el -> bookmark-in-project.el
-Created bookmark-in-project-20251214.537.tar containing:
-  bookmark-in-project-20251214.537/
-  bookmark-in-project-20251214.537/bookmark-in-project-pkg.el
-  bookmark-in-project-20251214.537/bookmark-in-project.el
+Created bookmark-in-project-20260108.1305.tar containing:
+  bookmark-in-project-20260108.1305/
+  bookmark-in-project-20260108.1305/bookmark-in-project-pkg.el
+  bookmark-in-project-20260108.1305/bookmark-in-project.el
  ✓ Success:
-  2026-01-05T01:07:50+0000  bookmark-in-project-20251214.537.entry
-  2026-01-05T01:07:50+0000  bookmark-in-project-20251214.537.tar
-Built bookmark-in-project in 3.734s, finished at 2026-01-05T01:07:51+0000
+  2026-01-11T23:52:58+0000  bookmark-in-project-20260108.1305.entry
+  2026-01-11T23:52:58+0000  bookmark-in-project-20260108.1305.tar
+Built bookmark-in-project in 3.644s, finished at 2026-01-11T23:52:59+0000

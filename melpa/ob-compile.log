@@ -3,13 +3,13 @@ Updating /mnt/store/melpa/working/ob-compile/
 Checking out d9c3e446467badad571eef8832232ae5a6f9f05b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ob-compile/
-  to /tmp/ob-compile7a2eaT/ob-compile-20240324.320
+  to /tmp/ob-compileBPGp0H/ob-compile-20240324.320
     ob-compile.el -> ob-compile.el
 Created ob-compile-20240324.320.tar containing:
   ob-compile-20240324.320/
   ob-compile-20240324.320/ob-compile-pkg.el
   ob-compile-20240324.320/ob-compile.el
  ✓ Success:
-  2026-01-05T01:53:53+0000  ob-compile-20240324.320.entry
-  2026-01-05T01:53:53+0000  ob-compile-20240324.320.tar
-Built ob-compile in 2.881s, finished at 2026-01-05T01:53:54+0000
+  2026-01-12T00:34:34+0000  ob-compile-20240324.320.entry
+  2026-01-12T00:34:34+0000  ob-compile-20240324.320.tar
+Built ob-compile in 2.620s, finished at 2026-01-12T00:34:35+0000

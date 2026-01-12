@@ -1,15 +1,15 @@
  • Building package thrift (from github:facebook/fbthrift)...
 Updating /mnt/store/melpa/working/thrift/
-Checking out 749e4d12818e6d0b6edbd256db5d100a0e0c3c14
+Checking out 1c89f94651bcfb367f536836b02f090217340c4c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/thrift/
-  to /tmp/thrifto7EENj/thrift-20251227.923
+  to /tmp/thriftPwRy2P/thrift-20260104.1731
   ! thrift/contrib/thrift.el -> thrift.el
-Created thrift-20251227.923.tar containing:
-  thrift-20251227.923/
-  thrift-20251227.923/thrift-pkg.el
-  thrift-20251227.923/thrift.el
+Created thrift-20260104.1731.tar containing:
+  thrift-20260104.1731/
+  thrift-20260104.1731/thrift-pkg.el
+  thrift-20260104.1731/thrift.el
  ✓ Success:
-  2026-01-05T02:16:11+0000  thrift-20251227.923.entry
-  2026-01-05T02:16:10+0000  thrift-20251227.923.tar
-Built thrift in 13.473s, finished at 2026-01-05T02:16:13+0000
+  2026-01-12T00:55:11+0000  thrift-20260104.1731.entry
+  2026-01-12T00:55:11+0000  thrift-20260104.1731.tar
+Built thrift in 9.701s, finished at 2026-01-12T00:55:13+0000

@@ -3,13 +3,13 @@ Updating /mnt/store/melpa/working/move-mode/
 Checking out e72e2d5102669b82ba70599fb64e64241d49376d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/move-mode/
-  to /tmp/move-modeGF21yo/move-mode-20251224.1152
+  to /tmp/move-modeAmQmvc/move-mode-20251224.1152
     move-mode.el -> move-mode.el
 Created move-mode-20251224.1152.tar containing:
   move-mode-20251224.1152/
   move-mode-20251224.1152/move-mode-pkg.el
   move-mode-20251224.1152/move-mode.el
  ✓ Success:
-  2026-01-05T01:50:42+0000  move-mode-20251224.1152.entry
-  2026-01-05T01:50:41+0000  move-mode-20251224.1152.tar
-Built move-mode in 3.141s, finished at 2026-01-05T01:50:42+0000
+  2026-01-12T00:31:56+0000  move-mode-20251224.1152.entry
+  2026-01-12T00:31:56+0000  move-mode-20251224.1152.tar
+Built move-mode in 2.659s, finished at 2026-01-12T00:31:57+0000

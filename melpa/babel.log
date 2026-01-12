@@ -3,13 +3,13 @@ Updating /mnt/store/melpa/working/babel/
 Checking out 946e69c61188bc41793402ac48466d8967ddb43d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/babel/
-  to /tmp/babeloXZ0P7/babel-20210612.640
+  to /tmp/babeltEwAIK/babel-20210612.640
     babel.el -> babel.el
 Created babel-20210612.640.tar containing:
   babel-20210612.640/
   babel-20210612.640/babel-pkg.el
   babel-20210612.640/babel.el
  ✓ Success:
-  2026-01-05T01:06:00+0000  babel-20210612.640.entry
-  2026-01-05T01:06:00+0000  babel-20210612.640.tar
-Built babel in 3.773s, finished at 2026-01-05T01:06:01+0000
+  2026-01-11T23:51:34+0000  babel-20210612.640.entry
+  2026-01-11T23:51:34+0000  babel-20210612.640.tar
+Built babel in 3.304s, finished at 2026-01-11T23:51:35+0000

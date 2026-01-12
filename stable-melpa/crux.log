@@ -3,13 +3,13 @@ Updating /mnt/store/melpa/working/crux/
 Checking out e42f5558199576628e827a6e3db29eae56f4126a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/crux/
-  to /tmp/cruxb3NdGF/crux-20250421.936
+  to /tmp/cruxTtNMnC/crux-20250421.936
     crux.el -> crux.el
 Created crux-20250421.936.tar containing:
   crux-20250421.936/
   crux-20250421.936/crux-pkg.el
   crux-20250421.936/crux.el
  ✓ Success:
-  2026-01-05T01:14:41+0000  crux-20250421.936.entry
-  2026-01-05T01:14:41+0000  crux-20250421.936.tar
-Built crux in 3.754s, finished at 2026-01-05T01:14:42+0000
+  2026-01-11T23:59:05+0000  crux-20250421.936.entry
+  2026-01-11T23:59:05+0000  crux-20250421.936.tar
+Built crux in 3.353s, finished at 2026-01-11T23:59:06+0000

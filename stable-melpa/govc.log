@@ -3,13 +3,13 @@ Updating /mnt/store/melpa/working/govc/
 Checking out bedcaadc5399abbaaaebac504718a1b043cd354d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/govc/
-  to /tmp/govc0tY6vv/govc-20250702.120
+  to /tmp/govc5Uu1o6/govc-20250702.120
   ! govc/emacs/govc.el -> govc.el
 Created govc-20250702.120.tar containing:
   govc-20250702.120/
   govc-20250702.120/govc-pkg.el
   govc-20250702.120/govc.el
  ✓ Success:
-  2026-01-05T01:33:12+0000  govc-20250702.120.entry
-  2026-01-05T01:33:12+0000  govc-20250702.120.tar
-Built govc in 5.805s, finished at 2026-01-05T01:33:13+0000
+  2026-01-12T00:16:34+0000  govc-20250702.120.entry
+  2026-01-12T00:16:34+0000  govc-20250702.120.tar
+Built govc in 5.038s, finished at 2026-01-12T00:16:35+0000

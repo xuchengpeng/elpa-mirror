@@ -1,15 +1,17 @@
  • Building package toml (from github:gongo/emacs-toml)...
 Updating /mnt/store/melpa/working/toml/
-Checking out 8d8cefa2a0590ed4b68064a7a55a552c0a16a68a
+Checking out 4b16eb52fcf89d46d7a970d7ba51c119063cbf4b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/toml/
-  to /tmp/tomlDbOAof/toml-20250729.635
+  to /tmp/tomlXfCDDi/toml-20260108.1307
+    toml-test-official.el -> toml-test-official.el
     toml.el -> toml.el
-Created toml-20250729.635.tar containing:
-  toml-20250729.635/
-  toml-20250729.635/toml-pkg.el
-  toml-20250729.635/toml.el
+Created toml-20260108.1307.tar containing:
+  toml-20260108.1307/
+  toml-20260108.1307/toml-pkg.el
+  toml-20260108.1307/toml-test-official.el
+  toml-20260108.1307/toml.el
  ✓ Success:
-  2026-01-05T02:16:59+0000  toml-20250729.635.entry
-  2026-01-05T02:16:59+0000  toml-20250729.635.tar
-Built toml in 2.908s, finished at 2026-01-05T02:17:00+0000
+  2026-01-12T00:55:42+0000  toml-20260108.1307.entry
+  2026-01-12T00:55:42+0000  toml-20260108.1307.tar
+Built toml in 2.901s, finished at 2026-01-12T00:55:43+0000

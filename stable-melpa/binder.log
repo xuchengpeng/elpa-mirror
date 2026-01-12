@@ -3,7 +3,7 @@ Updating /mnt/store/melpa/working/binder/
 Checking out 08a0c9d4179ed31dcbacea3ab0077cd22db341b5
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/binder/
-  to /tmp/binderZIAlLI/binder-20250101.1950
+  to /tmp/binderM5q6NN/binder-20250101.1950
     binder-tutorial.el -> binder-tutorial.el
     binder.el -> binder.el
 Created binder-20250101.1950.tar containing:
@@ -12,6 +12,6 @@ Created binder-20250101.1950.tar containing:
   binder-20250101.1950/binder-tutorial.el
   binder-20250101.1950/binder.el
  ✓ Success:
-  2026-01-05T01:07:19+0000  binder-20250101.1950.entry
-  2026-01-05T01:07:19+0000  binder-20250101.1950.tar
-Built binder in 6.401s, finished at 2026-01-05T01:07:21+0000
+  2026-01-11T23:52:30+0000  binder-20250101.1950.entry
+  2026-01-11T23:52:30+0000  binder-20250101.1950.tar
+Built binder in 3.919s, finished at 2026-01-11T23:52:31+0000

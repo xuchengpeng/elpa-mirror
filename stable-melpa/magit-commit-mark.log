@@ -1,15 +1,15 @@
  • Building package magit-commit-mark (from codeberg:ideasman42/emacs-magit-commit-mark)...
 Updating /mnt/store/melpa/working/magit-commit-mark/
-Checking out ff967ea9f2fb542427676b22ad35030232ee8a64
+Checking out ba986f350466a68d9937d0487e9b8f75303bc465
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/magit-commit-mark/
-  to /tmp/magit-commit-mark4y8tOu/magit-commit-mark-20251229.627
+  to /tmp/magit-commit-markzLqHpW/magit-commit-mark-20260105.203
     magit-commit-mark.el -> magit-commit-mark.el
-Created magit-commit-mark-20251229.627.tar containing:
-  magit-commit-mark-20251229.627/
-  magit-commit-mark-20251229.627/magit-commit-mark-pkg.el
-  magit-commit-mark-20251229.627/magit-commit-mark.el
+Created magit-commit-mark-20260105.203.tar containing:
+  magit-commit-mark-20260105.203/
+  magit-commit-mark-20260105.203/magit-commit-mark-pkg.el
+  magit-commit-mark-20260105.203/magit-commit-mark.el
  ✓ Success:
-  2026-01-05T01:47:20+0000  magit-commit-mark-20251229.627.entry
-  2026-01-05T01:47:20+0000  magit-commit-mark-20251229.627.tar
-Built magit-commit-mark in 5.141s, finished at 2026-01-05T01:47:22+0000
+  2026-01-12T00:28:52+0000  magit-commit-mark-20260105.203.entry
+  2026-01-12T00:28:52+0000  magit-commit-mark-20260105.203.tar
+Built magit-commit-mark in 3.443s, finished at 2026-01-12T00:28:53+0000

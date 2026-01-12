@@ -1,15 +1,15 @@
  • Building package q-mode (from github:psaris/q-mode)...
 Updating /mnt/store/melpa/working/q-mode/
-Checking out 72dea863150151bc08fd983717b5a2d12f30d64e
+Checking out ce1c5e827c29f7799b699aa0a476f4f06a1cf7ff
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/q-mode/
-  to /tmp/q-modefx7liC/q-mode-20260101.2301
+  to /tmp/q-modeFasic5/q-mode-20260110.1639
     q-mode.el -> q-mode.el
-Created q-mode-20260101.2301.tar containing:
-  q-mode-20260101.2301/
-  q-mode-20260101.2301/q-mode-pkg.el
-  q-mode-20260101.2301/q-mode.el
+Created q-mode-20260110.1639.tar containing:
+  q-mode-20260110.1639/
+  q-mode-20260110.1639/q-mode-pkg.el
+  q-mode-20260110.1639/q-mode.el
  ✓ Success:
-  2026-01-05T02:05:52+0000  q-mode-20260101.2301.entry
-  2026-01-05T02:05:51+0000  q-mode-20260101.2301.tar
-Built q-mode in 4.364s, finished at 2026-01-05T02:05:53+0000
+  2026-01-12T00:45:23+0000  q-mode-20260110.1639.entry
+  2026-01-12T00:45:23+0000  q-mode-20260110.1639.tar
+Built q-mode in 2.708s, finished at 2026-01-12T00:45:24+0000

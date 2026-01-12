@@ -3,13 +3,13 @@ Updating /mnt/store/melpa/working/helm-mu/
 Checking out 8275efff2c5e41da1264f9b261b93afc116c32a5
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/helm-mu/
-  to /tmp/helm-muBzcGC7/helm-mu-20251128.1556
+  to /tmp/helm-mupbN2Wr/helm-mu-20251128.1556
     helm-mu.el -> helm-mu.el
 Created helm-mu-20251128.1556.tar containing:
   helm-mu-20251128.1556/
   helm-mu-20251128.1556/helm-mu-pkg.el
   helm-mu-20251128.1556/helm-mu.el
  ✓ Success:
-  2026-01-05T01:36:34+0000  helm-mu-20251128.1556.entry
-  2026-01-05T01:36:34+0000  helm-mu-20251128.1556.tar
-Built helm-mu in 3.390s, finished at 2026-01-05T01:36:35+0000
+  2026-01-12T00:18:59+0000  helm-mu-20251128.1556.entry
+  2026-01-12T00:18:59+0000  helm-mu-20251128.1556.tar
+Built helm-mu in 4.982s, finished at 2026-01-12T00:19:00+0000

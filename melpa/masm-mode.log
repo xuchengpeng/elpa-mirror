@@ -3,13 +3,13 @@ Updating /mnt/store/melpa/working/masm-mode/
 Checking out ab63524d195332ec9f703783704231606e69c292
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/masm-mode/
-  to /tmp/masm-modeq06yiV/masm-mode-20200308.1450
+  to /tmp/masm-modeAfI03T/masm-mode-20200308.1450
     masm-mode.el -> masm-mode.el
 Created masm-mode-20200308.1450.tar containing:
   masm-mode-20200308.1450/
   masm-mode-20200308.1450/masm-mode-pkg.el
   masm-mode-20200308.1450/masm-mode.el
  ✓ Success:
-  2026-01-05T01:48:31+0000  masm-mode-20200308.1450.entry
-  2026-01-05T01:48:31+0000  masm-mode-20200308.1450.tar
-Built masm-mode in 3.164s, finished at 2026-01-05T01:48:32+0000
+  2026-01-12T00:29:42+0000  masm-mode-20200308.1450.entry
+  2026-01-12T00:29:42+0000  masm-mode-20200308.1450.tar
+Built masm-mode in 2.860s, finished at 2026-01-12T00:29:43+0000

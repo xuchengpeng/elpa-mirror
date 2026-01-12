@@ -1,21 +1,21 @@
  • Building package doom-modeline (from github:seagle0128/doom-modeline)...
 Updating /mnt/store/melpa/working/doom-modeline/
-Checking out d074b922ae37a9dab994fce204533e0c0143ab75
+Checking out 9ac20488c56be0e88611881beb713cc58e02eff3
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/doom-modeline/
-  to /tmp/doom-modelinezvp2TH/doom-modeline-20260104.316
+  to /tmp/doom-modelineM57o0B/doom-modeline-20260110.517
     doom-modeline-core.el -> doom-modeline-core.el
     doom-modeline-env.el -> doom-modeline-env.el
     doom-modeline-segments.el -> doom-modeline-segments.el
     doom-modeline.el -> doom-modeline.el
-Created doom-modeline-20260104.316.tar containing:
-  doom-modeline-20260104.316/
-  doom-modeline-20260104.316/doom-modeline-core.el
-  doom-modeline-20260104.316/doom-modeline-env.el
-  doom-modeline-20260104.316/doom-modeline-pkg.el
-  doom-modeline-20260104.316/doom-modeline-segments.el
-  doom-modeline-20260104.316/doom-modeline.el
+Created doom-modeline-20260110.517.tar containing:
+  doom-modeline-20260110.517/
+  doom-modeline-20260110.517/doom-modeline-core.el
+  doom-modeline-20260110.517/doom-modeline-env.el
+  doom-modeline-20260110.517/doom-modeline-pkg.el
+  doom-modeline-20260110.517/doom-modeline-segments.el
+  doom-modeline-20260110.517/doom-modeline.el
  ✓ Success:
-  2026-01-05T01:18:32+0000  doom-modeline-20260104.316.entry
-  2026-01-05T01:18:32+0000  doom-modeline-20260104.316.tar
-Built doom-modeline in 7.319s, finished at 2026-01-05T01:18:34+0000
+  2026-01-12T00:02:56+0000  doom-modeline-20260110.517.entry
+  2026-01-12T00:02:56+0000  doom-modeline-20260110.517.tar
+Built doom-modeline in 4.039s, finished at 2026-01-12T00:02:57+0000

@@ -3,13 +3,13 @@ Updating /mnt/store/melpa/working/helm-ls-hg/
 Checking out 61b91a22fcfb62d0fc56e361ec01ce96973c7165
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/helm-ls-hg/
-  to /tmp/helm-ls-hgSSyPj9/helm-ls-hg-20150909.543
+  to /tmp/helm-ls-hgEb4n5z/helm-ls-hg-20150909.543
     helm-ls-hg.el -> helm-ls-hg.el
 Created helm-ls-hg-20150909.543.tar containing:
   helm-ls-hg-20150909.543/
   helm-ls-hg-20150909.543/helm-ls-hg-pkg.el
   helm-ls-hg-20150909.543/helm-ls-hg.el
  ✓ Success:
-  2026-01-05T01:36:29+0000  helm-ls-hg-20150909.543.entry
-  2026-01-05T01:36:29+0000  helm-ls-hg-20150909.543.tar
-Built helm-ls-hg in 2.785s, finished at 2026-01-05T01:36:30+0000
+  2026-01-12T00:18:52+0000  helm-ls-hg-20150909.543.entry
+  2026-01-12T00:18:52+0000  helm-ls-hg-20150909.543.tar
+Built helm-ls-hg in 2.888s, finished at 2026-01-12T00:18:53+0000

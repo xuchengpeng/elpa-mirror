@@ -3,7 +3,7 @@ Updating /mnt/store/melpa/working/creds/
 Checking out 00ebefd10005c170b790a01380cb6a98f798ce5c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/creds/
-  to /tmp/credsYYYgp9/creds-20140510.1706
+  to /tmp/credsVow6Lp/creds-20140510.1706
     creds-pkg.el -> creds-pkg.el
     creds.el -> creds.el
 Created creds-20140510.1706.tar containing:
@@ -11,6 +11,6 @@ Created creds-20140510.1706.tar containing:
   creds-20140510.1706/creds-pkg.el
   creds-20140510.1706/creds.el
  ✓ Success:
-  2026-01-05T01:14:35+0000  creds-20140510.1706.entry
-  2026-01-05T01:14:35+0000  creds-20140510.1706.tar
-Built creds in 3.268s, finished at 2026-01-05T01:14:36+0000
+  2026-01-11T23:59:00+0000  creds-20140510.1706.entry
+  2026-01-11T23:59:00+0000  creds-20140510.1706.tar
+Built creds in 2.794s, finished at 2026-01-11T23:59:01+0000

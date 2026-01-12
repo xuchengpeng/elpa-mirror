@@ -3,13 +3,13 @@ Updating /mnt/store/melpa/working/helm-firefox/
 Checking out 9356ace9fac469b94121c36e5960cc1f5ce14663
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/helm-firefox/
-  to /tmp/helm-firefoxjfFggW/helm-firefox-20260102.537
+  to /tmp/helm-firefoxCg0X5Q/helm-firefox-20260102.537
     helm-firefox.el -> helm-firefox.el
 Created helm-firefox-20260102.537.tar containing:
   helm-firefox-20260102.537/
   helm-firefox-20260102.537/helm-firefox-pkg.el
   helm-firefox-20260102.537/helm-firefox.el
  ✓ Success:
-  2026-01-05T01:35:49+0000  helm-firefox-20260102.537.entry
-  2026-01-05T01:35:49+0000  helm-firefox-20260102.537.tar
-Built helm-firefox in 4.481s, finished at 2026-01-05T01:35:51+0000
+  2026-01-12T00:18:27+0000  helm-firefox-20260102.537.entry
+  2026-01-12T00:18:27+0000  helm-firefox-20260102.537.tar
+Built helm-firefox in 2.610s, finished at 2026-01-12T00:18:28+0000
