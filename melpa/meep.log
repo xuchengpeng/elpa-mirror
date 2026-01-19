@@ -1,17 +1,15 @@
  • Building package meep (from codeberg:ideasman42/emacs-meep)...
 Updating /mnt/store/melpa/working/meep/
-Checking out 3e3dce277d2164a17eb5ea7bb200249c65e7c100
+Checking out a9ddd7bb069115353d41ec352427509b07fa634f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/meep/
-  to /tmp/meepOGF2ah/meep-20260111.2344
+  to /tmp/meepe8b1Fh/meep-20260114.2349
     meep.el -> meep.el
-Created meep-20260111.2344.tar containing:
-  meep-20260111.2344/
-  meep-20260111.2344/meep-pkg.el
-  meep-20260111.2344/meep.el
+Created meep-20260114.2349.tar containing:
+  meep-20260114.2349/
+  meep-20260114.2349/meep-pkg.el
+  meep-20260114.2349/meep.el
  ✓ Success:
-  2026-01-11T22:10:29+0000  meep-20260111.1011.entry
-  2026-01-11T22:10:29+0000  meep-20260111.1011.tar
-  2026-01-12T00:30:04+0000  meep-20260111.2344.entry
-  2026-01-12T00:30:04+0000  meep-20260111.2344.tar
-Built meep in 5.121s, finished at 2026-01-12T00:30:05+0000
+  2026-01-19T00:06:51+0000  meep-20260114.2349.entry
+  2026-01-19T00:06:51+0000  meep-20260114.2349.tar
+Built meep in 3.864s, finished at 2026-01-19T00:06:52+0000

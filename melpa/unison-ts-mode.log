@@ -1,23 +1,23 @@
  • Building package unison-ts-mode (from github:fmguerreiro/unison-ts-mode)...
 Updating /mnt/store/melpa/working/unison-ts-mode/
-Checking out f8d291e8be9b2a3259d59e2d469660465a3d5deb
+Checking out 7f0ed7c03d98fefc88c420bc49c423c66db186d7
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/unison-ts-mode/
-  to /tmp/unison-ts-modeP3JqCp/unison-ts-mode-20251209.856
+  to /tmp/unison-ts-modeaGFe8k/unison-ts-mode-20260113.846
     unison-ts-font-lock.el -> unison-ts-font-lock.el
     unison-ts-indent-rules.el -> unison-ts-indent-rules.el
     unison-ts-install.el -> unison-ts-install.el
     unison-ts-mode.el -> unison-ts-mode.el
     unison-ts-repl.el -> unison-ts-repl.el
-Created unison-ts-mode-20251209.856.tar containing:
-  unison-ts-mode-20251209.856/
-  unison-ts-mode-20251209.856/unison-ts-font-lock.el
-  unison-ts-mode-20251209.856/unison-ts-indent-rules.el
-  unison-ts-mode-20251209.856/unison-ts-install.el
-  unison-ts-mode-20251209.856/unison-ts-mode-pkg.el
-  unison-ts-mode-20251209.856/unison-ts-mode.el
-  unison-ts-mode-20251209.856/unison-ts-repl.el
+Created unison-ts-mode-20260113.846.tar containing:
+  unison-ts-mode-20260113.846/
+  unison-ts-mode-20260113.846/unison-ts-font-lock.el
+  unison-ts-mode-20260113.846/unison-ts-indent-rules.el
+  unison-ts-mode-20260113.846/unison-ts-install.el
+  unison-ts-mode-20260113.846/unison-ts-mode-pkg.el
+  unison-ts-mode-20260113.846/unison-ts-mode.el
+  unison-ts-mode-20260113.846/unison-ts-repl.el
  ✓ Success:
-  2026-01-12T00:57:23+0000  unison-ts-mode-20251209.856.entry
-  2026-01-12T00:57:23+0000  unison-ts-mode-20251209.856.tar
-Built unison-ts-mode in 2.822s, finished at 2026-01-12T00:57:24+0000
+  2026-01-19T00:35:14+0000  unison-ts-mode-20260113.846.entry
+  2026-01-19T00:35:14+0000  unison-ts-mode-20260113.846.tar
+Built unison-ts-mode in 3.495s, finished at 2026-01-19T00:35:15+0000

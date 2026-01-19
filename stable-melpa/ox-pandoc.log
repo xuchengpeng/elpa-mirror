@@ -1,15 +1,15 @@
  • Building package ox-pandoc (from github:emacsorphanage/ox-pandoc)...
 Updating /mnt/store/melpa/working/ox-pandoc/
-Checking out 5766c70b6db5a553829ccdcf52fcf3c6244e443d
+Checking out 1caeb56a4be26597319e7288edbc2cabada151b4
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ox-pandoc/
-  to /tmp/ox-pandoccXBIKB/ox-pandoc-20250424.908
+  to /tmp/ox-pandocI1btQ9/ox-pandoc-20260113.1929
     ox-pandoc.el -> ox-pandoc.el
-Created ox-pandoc-20250424.908.tar containing:
-  ox-pandoc-20250424.908/
-  ox-pandoc-20250424.908/ox-pandoc-pkg.el
-  ox-pandoc-20250424.908/ox-pandoc.el
+Created ox-pandoc-20260113.1929.tar containing:
+  ox-pandoc-20260113.1929/
+  ox-pandoc-20260113.1929/ox-pandoc-pkg.el
+  ox-pandoc-20260113.1929/ox-pandoc.el
  ✓ Success:
-  2026-01-12T00:40:07+0000  ox-pandoc-20250424.908.entry
-  2026-01-12T00:40:07+0000  ox-pandoc-20250424.908.tar
-Built ox-pandoc in 2.913s, finished at 2026-01-12T00:40:08+0000
+  2026-01-19T00:17:02+0000  ox-pandoc-20260113.1929.entry
+  2026-01-19T00:17:02+0000  ox-pandoc-20260113.1929.tar
+Built ox-pandoc in 3.142s, finished at 2026-01-19T00:17:03+0000

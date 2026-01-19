@@ -1,6 +1,7 @@
-               ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-                CONSULT.EL - CONSULTING COMPLETING-READ
-               ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+           ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+                  CONSULT.EL - SEARCH AND NAVIGATE VIA
+                            COMPLETING-READ
+           ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
 Consult provides search and navigation commands based on the Emacs
@@ -64,6 +65,7 @@ Table of Contents
 .. 2. Custom variables
 .. 3. Project support
 .. 4. Fine-tuning
+.. 5. Default completion UI with auto update
 4. Recommended packages
 5. Bug reports
 6. Hacking
@@ -396,10 +398,6 @@ Table of Contents
   • `consult-theme': Select a theme and disable all currently enabled
     themes.  Supports live preview of the theme while scrolling through
     the candidates.
-  • `consult-preview-at-point' and `consult-preview-at-point-mode':
-    Command and minor mode which previews the candidate at point in the
-    `*Completions*' buffer. This mode is relevant if you use [Mct] or
-    the default `*Completions*' UI.
   • `consult-completion-in-region': In case you don't use [Corfu] as
     your in-buffer completion UI, this function can be set as
     `completion-in-region-function'. Then your minibuffer completion UI
@@ -418,8 +416,6 @@ Table of Contents
     completion for example via Corfu works properly since the completion
     takes place directly in the original buffer.
 
-
-[Mct] <https://git.sr.ht/~protesilaos/mct>
 
 [Corfu] <https://github.com/minad/corfu>
 
@@ -477,9 +473,8 @@ Table of Contents
   │  consult-bookmark consult-recent-file consult-xref
   │  consult-source-bookmark consult-source-file-register
   │  consult-source-recent-file consult-source-project-recent-file
-  │  ;; my/command-wrapping-consult    ;; disable auto previews inside my command
-  │  :preview-key '(:debounce 0.4 any) ;; Option 1: Delay preview
-  │  ;; :preview-key "M-.")            ;; Option 2: Manual preview
+  │  :preview-key '(:debounce 0.4 any)) ;; Option 1: Delay preview
+  │  ;; :preview-key "M-."              ;; Option 2: Manual preview
   └────
 
   In this case one may wonder what the difference is between using an
@@ -612,12 +607,32 @@ Table of Contents
     characters.
   • `#to#': Force searching for "to" using grep, since the grep pattern
     must be longer than `consult-async-min-input' characters by default.
-  • `#defun -- --invert-match#': Pass argument `--invert-match' to grep.
 
-  Asynchronous processes like `find' and `grep' create an error log
-  buffer `_*consult-async*' (note the leading space), which is useful
-  for troubleshooting. The prompt has a small indicator showing the
-  process status:
+  You can pass options to the underlying command. The following examples
+  apply to ripgrep:
+
+  • `#foo bar --invert-match' or `#foo bar -v': Invert matching.
+  • `#foo bar --context=2' or `#foo bar -C2': Include two lines of
+    context.
+  • `#foo bar --hidden' or `#foo bar -.': Search hidden files.
+  • `#foo bar --glob=*.org' or `#foo bar -g *.org': Search files
+    matching the glob pattern.
+  • `#foo bar --type=elisp' or `#foo bar -t elisp': Search only Elisp
+    files.
+  • `#.* -F': Treat input as fixed string, and not as regular
+    expression.
+  • `#foo bar -s': Treat input as case sensitive (`-s'), sensitive
+    (`-i'), or smart case (`-S').
+
+  Input can come after the options and the dash can be escaped:
+
+  • `#\-foo bar': Search for `-foo' and `bar' with escaped dash.
+  • `#-v -- foo bar': Inverted search, words come after options.
+
+  The asynchronous processes create an error log buffer
+  `_*consult-async*' (note the leading space), which you can inspect for
+  troubleshooting. The prompt has a small indicator showing the process
+  status:
 
   • `:' the usual prompt colon, before input is provided.
   • `*' with warning face, the process is running.
@@ -886,10 +901,6 @@ Table of Contents
   │          ("M-s" . consult-history)                 ;; orig. next-matching-history-element
   │          ("M-r" . consult-history))                ;; orig. previous-matching-history-element
   │ 
-  │   ;; Enable automatic preview at point in the *Completions* buffer. This is
-  │   ;; relevant when you use the default completion UI.
-  │   :hook (completion-list-mode . consult-preview-at-point-mode)
-  │ 
   │   ;; The :init configuration is always executed (Not lazy)
   │   :init
   │ 
@@ -1098,6 +1109,33 @@ Table of Contents
 [Consult wiki] <https://github.com/minad/consult/wiki>
 
 [multi sources] See section 2.4
+
+
+3.5 Default completion UI with auto update
+──────────────────────────────────────────
+
+  I recommend to use Vertico for best performance and an intuitive UI.
+  Nevertheless the default completions buffer UI works decently and
+  supports automatic update in newer Emacs versions. I suggest the
+  following configuration on Emacs 31:
+
+  ┌────
+  │ (setq
+  │  ;; One column view with annotations
+  │  completions-format 'one-column
+  │  completions-detailed t
+  │  completions-group t
+  │  ;; Sort candidates by history position
+  │  completions-sort 'historical
+  │  ;; Allow navigating from the minibuffer
+  │  minibuffer-visible-completions 'up-down
+  │  ;; Show completions eagerly and update automatically
+  │  completion-eager-update t
+  │  completion-eager-display t
+  │  ;; Disable noise (inline help also blocks input)
+  │  completion-show-help nil
+  │  completion-show-inline-help nil)
+  └────
 
 
 4 Recommended packages

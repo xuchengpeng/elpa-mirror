@@ -1,21 +1,21 @@
  • Building package package-build (from github:melpa/package-build)...
 Updating /mnt/store/melpa/working/package-build/
-Checking out f29d17b3a2d87267f277f93ac512e87e7f1918c3
+Checking out 79cff850383c875119da351567ea4713875f269f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/package-build/
-  to /tmp/package-buildI99BUa/package-build-20260103.1540
+  to /tmp/package-buildh7yaHB/package-build-20260115.1042
     package-build-badges.el -> package-build-badges.el
     package-build.el -> package-build.el
     package-recipe-mode.el -> package-recipe-mode.el
     package-recipe.el -> package-recipe.el
-Created package-build-20260103.1540.tar containing:
-  package-build-20260103.1540/
-  package-build-20260103.1540/package-build-badges.el
-  package-build-20260103.1540/package-build-pkg.el
-  package-build-20260103.1540/package-build.el
-  package-build-20260103.1540/package-recipe-mode.el
-  package-build-20260103.1540/package-recipe.el
+Created package-build-20260115.1042.tar containing:
+  package-build-20260115.1042/
+  package-build-20260115.1042/package-build-badges.el
+  package-build-20260115.1042/package-build-pkg.el
+  package-build-20260115.1042/package-build.el
+  package-build-20260115.1042/package-recipe-mode.el
+  package-build-20260115.1042/package-recipe.el
  ✓ Success:
-  2026-01-12T00:40:30+0000  package-build-20260103.1540.entry
-  2026-01-12T00:40:30+0000  package-build-20260103.1540.tar
-Built package-build in 3.576s, finished at 2026-01-12T00:40:31+0000
+  2026-01-19T00:17:25+0000  package-build-20260115.1042.entry
+  2026-01-19T00:17:25+0000  package-build-20260115.1042.tar
+Built package-build in 3.784s, finished at 2026-01-19T00:17:26+0000

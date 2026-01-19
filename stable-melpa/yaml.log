@@ -1,15 +1,15 @@
  • Building package yaml (from github:zkry/yaml.el)...
 Updating /mnt/store/melpa/working/yaml/
-Checking out 920f71b0c12f6036846f3590a32a71a310ed369f
+Checking out f2369fb4985ed054be47ae111760ff2075dff72a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/yaml/
-  to /tmp/yamlHbRQiz/yaml-20260111.2049
+  to /tmp/yamlfimajK/yaml-20260113.653
     yaml.el -> yaml.el
-Created yaml-20260111.2049.tar containing:
-  yaml-20260111.2049/
-  yaml-20260111.2049/yaml-pkg.el
-  yaml-20260111.2049/yaml.el
+Created yaml-20260113.653.tar containing:
+  yaml-20260113.653/
+  yaml-20260113.653/yaml-pkg.el
+  yaml-20260113.653/yaml.el
  ✓ Success:
-  2026-01-12T01:01:12+0000  yaml-20260111.2049.entry
-  2026-01-12T01:01:12+0000  yaml-20260111.2049.tar
-Built yaml in 3.138s, finished at 2026-01-12T01:01:12+0000
+  2026-01-19T00:39:09+0000  yaml-20260113.653.entry
+  2026-01-19T00:39:09+0000  yaml-20260113.653.tar
+Built yaml in 3.332s, finished at 2026-01-19T00:39:10+0000

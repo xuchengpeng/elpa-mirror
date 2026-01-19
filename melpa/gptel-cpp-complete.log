@@ -1,19 +1,19 @@
  • Building package gptel-cpp-complete (from github:beacoder/gptel-cpp-complete)...
 Updating /mnt/store/melpa/working/gptel-cpp-complete/
-Checking out 4c7e79426ff61a3190c8aef24395dceb1ab9e943
+Checking out c38815f81f40ef519c2bcc5dfa9a29b72cc54a4c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/gptel-cpp-complete/
-  to /tmp/gptel-cpp-completedAkrFw/gptel-cpp-complete-20260110.37
+  to /tmp/gptel-cpp-completeEQ9Fk6/gptel-cpp-complete-20260112.803
     gptel-cpp-complete.el -> gptel-cpp-complete.el
   ! treesit-grammars/libtree-sitter-c.so -> libtree-sitter-c.so
   ! treesit-grammars/libtree-sitter-cpp.so -> libtree-sitter-cpp.so
-Created gptel-cpp-complete-20260110.37.tar containing:
-  gptel-cpp-complete-20260110.37/
-  gptel-cpp-complete-20260110.37/gptel-cpp-complete-pkg.el
-  gptel-cpp-complete-20260110.37/gptel-cpp-complete.el
-  gptel-cpp-complete-20260110.37/libtree-sitter-c.so
-  gptel-cpp-complete-20260110.37/libtree-sitter-cpp.so
+Created gptel-cpp-complete-20260112.803.tar containing:
+  gptel-cpp-complete-20260112.803/
+  gptel-cpp-complete-20260112.803/gptel-cpp-complete-pkg.el
+  gptel-cpp-complete-20260112.803/gptel-cpp-complete.el
+  gptel-cpp-complete-20260112.803/libtree-sitter-c.so
+  gptel-cpp-complete-20260112.803/libtree-sitter-cpp.so
  ✓ Success:
-  2026-01-12T00:16:41+0000  gptel-cpp-complete-20260110.37.entry
-  2026-01-12T00:16:41+0000  gptel-cpp-complete-20260110.37.tar
-Built gptel-cpp-complete in 2.860s, finished at 2026-01-12T00:16:42+0000
+  2026-01-18T23:52:31+0000  gptel-cpp-complete-20260112.803.entry
+  2026-01-18T23:52:31+0000  gptel-cpp-complete-20260112.803.tar
+Built gptel-cpp-complete in 4.441s, finished at 2026-01-18T23:52:33+0000

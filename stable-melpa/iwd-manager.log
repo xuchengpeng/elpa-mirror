@@ -1,15 +1,15 @@
  • Building package iwd-manager (from github:sarg/wifi-manager)...
 Updating /mnt/store/melpa/working/iwd-manager/
-Checking out 22b424e6e6fa0eb4353394c64f31657ded09fe2b
+Checking out e947dff1f5593b3b01b380cc195108649392b89a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/iwd-manager/
-  to /tmp/iwd-manageri62xs0/iwd-manager-20260103.2138
+  to /tmp/iwd-managerew9EDM/iwd-manager-20260113.1101
     iwd-manager.el -> iwd-manager.el
-Created iwd-manager-20260103.2138.tar containing:
-  iwd-manager-20260103.2138/
-  iwd-manager-20260103.2138/iwd-manager-pkg.el
-  iwd-manager-20260103.2138/iwd-manager.el
+Created iwd-manager-20260113.1101.tar containing:
+  iwd-manager-20260113.1101/
+  iwd-manager-20260113.1101/iwd-manager-pkg.el
+  iwd-manager-20260113.1101/iwd-manager.el
  ✓ Success:
-  2026-01-12T00:23:27+0000  iwd-manager-20260103.2138.entry
-  2026-01-12T00:23:27+0000  iwd-manager-20260103.2138.tar
-Built iwd-manager in 2.616s, finished at 2026-01-12T00:23:28+0000
+  2026-01-18T23:59:41+0000  iwd-manager-20260113.1101.entry
+  2026-01-18T23:59:40+0000  iwd-manager-20260113.1101.tar
+Built iwd-manager in 2.975s, finished at 2026-01-18T23:59:41+0000
