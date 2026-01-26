@@ -1,0 +1,17 @@
+ • Building package company-ansible (from github:krzysztof-magosa/company-ansible)...
+Updating /mnt/store/melpa/working/company-ansible/
+Checking out 338922601cf9e8ada863fe6f2dd9d5145d9983b0
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/company-ansible/
+  to /tmp/company-ansibleJV2dDS/company-ansible-20240221.2255
+    company-ansible-keywords.el -> company-ansible-keywords.el
+    company-ansible.el -> company-ansible.el
+Created company-ansible-20240221.2255.tar containing:
+  company-ansible-20240221.2255/
+  company-ansible-20240221.2255/company-ansible-keywords.el
+  company-ansible-20240221.2255/company-ansible-pkg.el
+  company-ansible-20240221.2255/company-ansible.el
+ ✓ Success:
+  2026-01-26T01:45:37+0000  company-ansible-20240221.2255.entry
+  2026-01-26T01:45:37+0000  company-ansible-20240221.2255.tar
+Built company-ansible in 3.868s, finished at 2026-01-26T01:45:39+0000

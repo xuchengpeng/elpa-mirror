@@ -1,15 +1,15 @@
  • Building package miasma-theme (from github:daut/miasma-theme.el)...
 Updating /mnt/store/melpa/working/miasma-theme/
-Checking out 998aa50769722f1a92f99124d76a1689c2d9eaf1
+Checking out 313678cfe8cb386f2240ed62d91495bb65e1fc2b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/miasma-theme/
-  to /tmp/miasma-themeeuZgb5/miasma-theme-20260113.1800
+  to /tmp/miasma-theme4JefGy/miasma-theme-20260124.2048
     miasma-theme.el -> miasma-theme.el
-Created miasma-theme-20260113.1800.tar containing:
-  miasma-theme-20260113.1800/
-  miasma-theme-20260113.1800/miasma-theme-pkg.el
-  miasma-theme-20260113.1800/miasma-theme.el
+Created miasma-theme-20260124.2048.tar containing:
+  miasma-theme-20260124.2048/
+  miasma-theme-20260124.2048/miasma-theme-pkg.el
+  miasma-theme-20260124.2048/miasma-theme.el
  ✓ Success:
-  2026-01-19T00:07:18+0000  miasma-theme-20260113.1800.entry
-  2026-01-19T00:07:18+0000  miasma-theme-20260113.1800.tar
-Built miasma-theme in 3.288s, finished at 2026-01-19T00:07:19+0000
+  2026-01-25T23:11:42+0000  miasma-theme-20260124.2048.entry
+  2026-01-25T23:11:42+0000  miasma-theme-20260124.2048.tar
+Built miasma-theme in 4.420s, finished at 2026-01-25T23:11:44+0000

@@ -1,15 +1,17 @@
  • Building package royal-hemlock-theme (from github:vs-123/royal-hemlock-theme)...
 Updating /mnt/store/melpa/working/royal-hemlock-theme/
-Checking out 50c01627b7132feb6549e9498a41e12a8d53add7
+Checking out 8a4d85a7029866540db5261b33b20223374f26ac
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/royal-hemlock-theme/
-  to /tmp/royal-hemlock-themeRLJ1Xc/royal-hemlock-theme-20260110.903
+  to /tmp/royal-hemlock-themeesZA6q/royal-hemlock-theme-20260123.1254
+    royal-hemlock-theme-mono-theme.el -> royal-hemlock-theme-mono-theme.el
     royal-hemlock-theme.el -> royal-hemlock-theme.el
-Created royal-hemlock-theme-20260110.903.tar containing:
-  royal-hemlock-theme-20260110.903/
-  royal-hemlock-theme-20260110.903/royal-hemlock-theme-pkg.el
-  royal-hemlock-theme-20260110.903/royal-hemlock-theme.el
+Created royal-hemlock-theme-20260123.1254.tar containing:
+  royal-hemlock-theme-20260123.1254/
+  royal-hemlock-theme-20260123.1254/royal-hemlock-theme-mono-theme.el
+  royal-hemlock-theme-20260123.1254/royal-hemlock-theme-pkg.el
+  royal-hemlock-theme-20260123.1254/royal-hemlock-theme.el
  ✓ Success:
-  2026-01-19T00:24:54+0000  royal-hemlock-theme-20260110.903.entry
-  2026-01-19T00:24:54+0000  royal-hemlock-theme-20260110.903.tar
-Built royal-hemlock-theme in 2.870s, finished at 2026-01-19T00:24:54+0000
+  2026-01-25T23:36:16+0000  royal-hemlock-theme-20260123.1254.entry
+  2026-01-25T23:36:16+0000  royal-hemlock-theme-20260123.1254.tar
+Built royal-hemlock-theme in 6.085s, finished at 2026-01-25T23:36:19+0000

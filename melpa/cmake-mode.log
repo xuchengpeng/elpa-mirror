@@ -1,15 +1,15 @@
  • Building package cmake-mode (from https://gitlab.kitware.com/cmake/cmake.git)...
 Updating /mnt/store/melpa/working/cmake-mode/
-Checking out 485f11a780435eb6495b79227d3237383778ac3e
+Checking out 3356d93e66fb2a70c4cf8e4849429c1d8839bdee
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/cmake-mode/
-  to /tmp/cmake-mode9iozKK/cmake-mode-20251208.1833
+  to /tmp/cmake-modee5bLVk/cmake-mode-20260120.1446
   ! Auxiliary/cmake-mode.el -> cmake-mode.el
-Created cmake-mode-20251208.1833.tar containing:
-  cmake-mode-20251208.1833/
-  cmake-mode-20251208.1833/cmake-mode-pkg.el
-  cmake-mode-20251208.1833/cmake-mode.el
+Created cmake-mode-20260120.1446.tar containing:
+  cmake-mode-20260120.1446/
+  cmake-mode-20260120.1446/cmake-mode-pkg.el
+  cmake-mode-20260120.1446/cmake-mode.el
  ✓ Success:
-  2026-01-19T01:56:15+0000  cmake-mode-20251208.1833.entry
-  2026-01-19T01:56:15+0000  cmake-mode-20251208.1833.tar
-Built cmake-mode in 9.567s, finished at 2026-01-19T01:56:17+0000
+  2026-01-26T01:44:49+0000  cmake-mode-20260120.1446.entry
+  2026-01-26T01:44:49+0000  cmake-mode-20260120.1446.tar
+Built cmake-mode in 12.637s, finished at 2026-01-26T01:44:51+0000

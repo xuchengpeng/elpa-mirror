@@ -1,15 +1,15 @@
  • Building package orgmdb (from github:isamert/orgmdb.el)...
 Updating /mnt/store/melpa/working/orgmdb/
-Checking out 416b2d6e9a9db179d69798d0f034307dc9cc762d
+Checking out 4f24d187e2bf484ef4f68c191324659dca62c2f6
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/orgmdb/
-  to /tmp/orgmdbJLCjJN/orgmdb-20251105.2227
+  to /tmp/orgmdbKuH7Bl/orgmdb-20260120.1738
     orgmdb.el -> orgmdb.el
-Created orgmdb-20251105.2227.tar containing:
-  orgmdb-20251105.2227/
-  orgmdb-20251105.2227/orgmdb-pkg.el
-  orgmdb-20251105.2227/orgmdb.el
+Created orgmdb-20260120.1738.tar containing:
+  orgmdb-20260120.1738/
+  orgmdb-20260120.1738/orgmdb-pkg.el
+  orgmdb-20260120.1738/orgmdb.el
  ✓ Success:
-  2026-01-19T00:16:14+0000  orgmdb-20251105.2227.entry
-  2026-01-19T00:16:14+0000  orgmdb-20251105.2227.tar
-Built orgmdb in 3.068s, finished at 2026-01-19T00:16:15+0000
+  2026-01-25T23:23:42+0000  orgmdb-20260120.1738.entry
+  2026-01-25T23:23:42+0000  orgmdb-20260120.1738.tar
+Built orgmdb in 4.355s, finished at 2026-01-25T23:23:44+0000

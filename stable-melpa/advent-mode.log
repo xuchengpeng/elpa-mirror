@@ -1,0 +1,15 @@
+ • Building package advent-mode (from github:vkazanov/advent-mode)...
+Updating /mnt/store/melpa/working/advent-mode/
+Checking out 6b24e8e62d4c6abdd383b5a0c5efe031680d2538
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/advent-mode/
+  to /tmp/advent-modeognaco/advent-mode-20260125.654
+    advent-mode.el -> advent-mode.el
+Created advent-mode-20260125.654.tar containing:
+  advent-mode-20260125.654/
+  advent-mode-20260125.654/advent-mode-pkg.el
+  advent-mode-20260125.654/advent-mode.el
+ ✓ Success:
+  2026-01-26T01:33:45+0000  advent-mode-20260125.654.entry
+  2026-01-26T01:33:45+0000  advent-mode-20260125.654.tar
+Built advent-mode in 4.326s, finished at 2026-01-26T01:33:46+0000

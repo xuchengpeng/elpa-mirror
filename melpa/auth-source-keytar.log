@@ -3,13 +3,13 @@ Updating /mnt/store/melpa/working/auth-source-keytar/
 Checking out ae32dd807aa3cff59e4384ce8c9d7de259e45998
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/auth-source-keytar/
-  to /tmp/auth-source-keytar0T8R0N/auth-source-keytar-20251231.1726
+  to /tmp/auth-source-keytarI6LKGz/auth-source-keytar-20251231.1726
     auth-source-keytar.el -> auth-source-keytar.el
 Created auth-source-keytar-20251231.1726.tar containing:
   auth-source-keytar-20251231.1726/
   auth-source-keytar-20251231.1726/auth-source-keytar-pkg.el
   auth-source-keytar-20251231.1726/auth-source-keytar.el
  ✓ Success:
-  2026-01-19T01:50:42+0000  auth-source-keytar-20251231.1726.entry
-  2026-01-19T01:50:42+0000  auth-source-keytar-20251231.1726.tar
-Built auth-source-keytar in 3.043s, finished at 2026-01-19T01:50:43+0000
+  2026-01-26T01:36:28+0000  auth-source-keytar-20251231.1726.entry
+  2026-01-26T01:36:27+0000  auth-source-keytar-20251231.1726.tar
+Built auth-source-keytar in 6.442s, finished at 2026-01-26T01:36:30+0000
