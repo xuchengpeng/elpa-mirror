@@ -1,15 +1,15 @@
  • Building package macher (from github:kmontag/macher)...
 Updating /mnt/store/melpa/working/macher/
-Checking out eb9c108e400fe8bbb3c8724f45ef6bd0d2a2ae33
+Checking out 4226e3c09c12bc1cbe1ff8c55e58731092617829
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/macher/
-  to /tmp/macher8jNfJm/macher-20260107.2043
+  to /tmp/macherF2Eqj6/macher-20260128.623
     macher.el -> macher.el
-Created macher-20260107.2043.tar containing:
-  macher-20260107.2043/
-  macher-20260107.2043/macher-pkg.el
-  macher-20260107.2043/macher.el
+Created macher-20260128.623.tar containing:
+  macher-20260128.623/
+  macher-20260128.623/macher-pkg.el
+  macher-20260128.623/macher.el
  ✓ Success:
-  2026-01-25T23:09:07+0000  macher-20260107.2043.entry
-  2026-01-25T23:09:07+0000  macher-20260107.2043.tar
-Built macher in 4.606s, finished at 2026-01-25T23:09:09+0000
+  2026-02-01T23:41:12+0000  macher-20260128.623.entry
+  2026-02-01T23:41:11+0000  macher-20260128.623.tar
+Built macher in 6.299s, finished at 2026-02-01T23:41:14+0000

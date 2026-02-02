@@ -1,12 +1,13 @@
  • Building package ollama-buddy (from github:captainflasmr/ollama-buddy)...
 Updating /mnt/store/melpa/working/ollama-buddy/
-Checking out 3e5e38c2263f2ece0c276d79778fed01448b5446
+Checking out ccd5f1f52197d5a2210826211e4accb3188c2c78
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ollama-buddy/
-  to /tmp/ollama-buddywDlV3v/ollama-buddy-20251211.1257
+  to /tmp/ollama-buddy3XQVE9/ollama-buddy-20260201.2304
     ollama-buddy-awesome.el -> ollama-buddy-awesome.el
     ollama-buddy-claude.el -> ollama-buddy-claude.el
     ollama-buddy-codestral.el -> ollama-buddy-codestral.el
+    ollama-buddy-copilot.el -> ollama-buddy-copilot.el
     ollama-buddy-core.el -> ollama-buddy-core.el
     ollama-buddy-curl.el -> ollama-buddy-curl.el
     ollama-buddy-fabric.el -> ollama-buddy-fabric.el
@@ -19,24 +20,27 @@ Copying files (->) and directories (=>)
   ! docs/ollama-buddy.info -> ollama-buddy.info
   ! docs/ollama-buddy.texi -> ollama-buddy.texi
 Generating ollama-buddy.info
-Created ollama-buddy-20251211.1257.tar containing:
-  ollama-buddy-20251211.1257/
-  ollama-buddy-20251211.1257/dir
-  ollama-buddy-20251211.1257/ollama-buddy-awesome.el
-  ollama-buddy-20251211.1257/ollama-buddy-claude.el
-  ollama-buddy-20251211.1257/ollama-buddy-codestral.el
-  ollama-buddy-20251211.1257/ollama-buddy-core.el
-  ollama-buddy-20251211.1257/ollama-buddy-curl.el
-  ollama-buddy-20251211.1257/ollama-buddy-fabric.el
-  ollama-buddy-20251211.1257/ollama-buddy-gemini.el
-  ollama-buddy-20251211.1257/ollama-buddy-grok.el
-  ollama-buddy-20251211.1257/ollama-buddy-openai.el
-  ollama-buddy-20251211.1257/ollama-buddy-pkg.el
-  ollama-buddy-20251211.1257/ollama-buddy-transient.el
-  ollama-buddy-20251211.1257/ollama-buddy-user-prompts.el
-  ollama-buddy-20251211.1257/ollama-buddy.el
-  ollama-buddy-20251211.1257/ollama-buddy.info
+Created ollama-buddy-20260201.2304.tar containing:
+  ollama-buddy-20260201.2304/
+  ollama-buddy-20260201.2304/dir
+  ollama-buddy-20260201.2304/ollama-buddy-awesome.el
+  ollama-buddy-20260201.2304/ollama-buddy-claude.el
+  ollama-buddy-20260201.2304/ollama-buddy-codestral.el
+  ollama-buddy-20260201.2304/ollama-buddy-copilot.el
+  ollama-buddy-20260201.2304/ollama-buddy-core.el
+  ollama-buddy-20260201.2304/ollama-buddy-curl.el
+  ollama-buddy-20260201.2304/ollama-buddy-fabric.el
+  ollama-buddy-20260201.2304/ollama-buddy-gemini.el
+  ollama-buddy-20260201.2304/ollama-buddy-grok.el
+  ollama-buddy-20260201.2304/ollama-buddy-openai.el
+  ollama-buddy-20260201.2304/ollama-buddy-pkg.el
+  ollama-buddy-20260201.2304/ollama-buddy-transient.el
+  ollama-buddy-20260201.2304/ollama-buddy-user-prompts.el
+  ollama-buddy-20260201.2304/ollama-buddy.el
+  ollama-buddy-20260201.2304/ollama-buddy.info
  ✓ Success:
-  2026-01-25T23:19:12+0000  ollama-buddy-20251211.1257.entry
-  2026-01-25T23:19:12+0000  ollama-buddy-20251211.1257.tar
-Built ollama-buddy in 9.553s, finished at 2026-01-25T23:19:14+0000
+  2026-02-01T19:53:09+0000  ollama-buddy-20260201.1908.entry
+  2026-02-01T19:53:09+0000  ollama-buddy-20260201.1908.tar
+  2026-02-01T23:52:53+0000  ollama-buddy-20260201.2304.entry
+  2026-02-01T23:52:53+0000  ollama-buddy-20260201.2304.tar
+Built ollama-buddy in 12.102s, finished at 2026-02-01T23:52:54+0000

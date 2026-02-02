@@ -1,19 +1,19 @@
  • Building package po-mode (from github:emacsmirror/po-mode)...
 Updating /mnt/store/melpa/working/po-mode/
-Checking out 5500e864a5aab5254efd7da11b57faefec08134e
+Checking out 24d793df3cffd2fa7636be6f00c2f283577655d4
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/po-mode/
-  to /tmp/po-modeYaNqN1/po-mode-20260102.409
+  to /tmp/po-moder2CRJl/po-mode-20260127.509
     po-compat.el -> po-compat.el
     po-mode.el -> po-mode.el
     start-po.el -> start-po.el
-Created po-mode-20260102.409.tar containing:
-  po-mode-20260102.409/
-  po-mode-20260102.409/po-compat.el
-  po-mode-20260102.409/po-mode-pkg.el
-  po-mode-20260102.409/po-mode.el
-  po-mode-20260102.409/start-po.el
+Created po-mode-20260127.509.tar containing:
+  po-mode-20260127.509/
+  po-mode-20260127.509/po-compat.el
+  po-mode-20260127.509/po-mode-pkg.el
+  po-mode-20260127.509/po-mode.el
+  po-mode-20260127.509/start-po.el
  ✓ Success:
-  2026-01-25T23:28:46+0000  po-mode-20260102.409.entry
-  2026-01-25T23:28:46+0000  po-mode-20260102.409.tar
-Built po-mode in 4.615s, finished at 2026-01-25T23:28:47+0000
+  2026-02-02T00:05:49+0000  po-mode-20260127.509.entry
+  2026-02-02T00:05:49+0000  po-mode-20260127.509.tar
+Built po-mode in 5.069s, finished at 2026-02-02T00:05:50+0000

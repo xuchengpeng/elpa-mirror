@@ -1,19 +1,19 @@
  • Building package easysession (from github:jamescherti/easysession.el)...
 Updating /mnt/store/melpa/working/easysession/
-Checking out 314b167ce85807895a1025c692ed4e73e1709b77
+Checking out 7a4d8e673884a8644593652757854ce8ea297511
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/easysession/
-  to /tmp/easysessionk15hj5/easysession-20260118.36
+  to /tmp/easysessionGiUWnS/easysession-20260201.1321
     easysession.el -> easysession.el
   ! extensions/easysession-magit.el -> easysession-magit.el
   ! extensions/easysession-scratch.el -> easysession-scratch.el
-Created easysession-20260118.36.tar containing:
-  easysession-20260118.36/
-  easysession-20260118.36/easysession-magit.el
-  easysession-20260118.36/easysession-pkg.el
-  easysession-20260118.36/easysession-scratch.el
-  easysession-20260118.36/easysession.el
+Created easysession-20260201.1321.tar containing:
+  easysession-20260201.1321/
+  easysession-20260201.1321/easysession-magit.el
+  easysession-20260201.1321/easysession-pkg.el
+  easysession-20260201.1321/easysession-scratch.el
+  easysession-20260201.1321/easysession.el
  ✓ Success:
-  2026-01-26T01:55:47+0000  easysession-20260118.36.entry
-  2026-01-26T01:55:46+0000  easysession-20260118.36.tar
-Built easysession in 4.745s, finished at 2026-01-26T01:55:48+0000
+  2026-02-01T22:58:36+0000  easysession-20260201.1321.entry
+  2026-02-01T22:58:35+0000  easysession-20260201.1321.tar
+Built easysession in 9.238s, finished at 2026-02-01T22:58:38+0000

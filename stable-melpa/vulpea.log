@@ -1,9 +1,9 @@
  • Building package vulpea (from github:d12frosted/vulpea)...
 Updating /mnt/store/melpa/working/vulpea/
-Checking out 8a7ffece1b683e7c7439e05419e942d93d536348
+Checking out 317ae97a04bb6cbe7744d78a5347353c513e3740
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/vulpea/
-  to /tmp/vulpeajcXnLK/vulpea-20260106.747
+  to /tmp/vulpeaeCrDlL/vulpea-20260201.1648
     vulpea-buffer.el -> vulpea-buffer.el
     vulpea-db-extract.el -> vulpea-db-extract.el
     vulpea-db-query.el -> vulpea-db-query.el
@@ -14,20 +14,20 @@ Copying files (->) and directories (=>)
     vulpea-select.el -> vulpea-select.el
     vulpea-utils.el -> vulpea-utils.el
     vulpea.el -> vulpea.el
-Created vulpea-20260106.747.tar containing:
-  vulpea-20260106.747/
-  vulpea-20260106.747/vulpea-buffer.el
-  vulpea-20260106.747/vulpea-db-extract.el
-  vulpea-20260106.747/vulpea-db-query.el
-  vulpea-20260106.747/vulpea-db-sync.el
-  vulpea-20260106.747/vulpea-db.el
-  vulpea-20260106.747/vulpea-meta.el
-  vulpea-20260106.747/vulpea-note.el
-  vulpea-20260106.747/vulpea-pkg.el
-  vulpea-20260106.747/vulpea-select.el
-  vulpea-20260106.747/vulpea-utils.el
-  vulpea-20260106.747/vulpea.el
+Created vulpea-20260201.1648.tar containing:
+  vulpea-20260201.1648/
+  vulpea-20260201.1648/vulpea-buffer.el
+  vulpea-20260201.1648/vulpea-db-extract.el
+  vulpea-20260201.1648/vulpea-db-query.el
+  vulpea-20260201.1648/vulpea-db-sync.el
+  vulpea-20260201.1648/vulpea-db.el
+  vulpea-20260201.1648/vulpea-meta.el
+  vulpea-20260201.1648/vulpea-note.el
+  vulpea-20260201.1648/vulpea-pkg.el
+  vulpea-20260201.1648/vulpea-select.el
+  vulpea-20260201.1648/vulpea-utils.el
+  vulpea-20260201.1648/vulpea.el
  ✓ Success:
-  2026-01-25T23:51:51+0000  vulpea-20260106.747.entry
-  2026-01-25T23:51:51+0000  vulpea-20260106.747.tar
-Built vulpea in 4.984s, finished at 2026-01-25T23:51:52+0000
+  2026-02-02T00:35:59+0000  vulpea-20260201.1648.entry
+  2026-02-02T00:35:59+0000  vulpea-20260201.1648.tar
+Built vulpea in 6.441s, finished at 2026-02-02T00:36:02+0000

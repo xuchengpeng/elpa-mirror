@@ -1,15 +1,15 @@
  • Building package no-littering (from github:emacscollective/no-littering)...
 Updating /mnt/store/melpa/working/no-littering/
-Checking out f854fc971df346b65d58a9aebb89f20cf0a6fc77
+Checking out 7d8fd72222b77ffaaaf8a32eedebb1f546d2441f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/no-littering/
-  to /tmp/no-litteringNi8eYh/no-littering-20260101.1839
+  to /tmp/no-litteringMz6e6a/no-littering-20260201.1509
     no-littering.el -> no-littering.el
-Created no-littering-20260101.1839.tar containing:
-  no-littering-20260101.1839/
-  no-littering-20260101.1839/no-littering-pkg.el
-  no-littering-20260101.1839/no-littering.el
+Created no-littering-20260201.1509.tar containing:
+  no-littering-20260201.1509/
+  no-littering-20260201.1509/no-littering-pkg.el
+  no-littering-20260201.1509/no-littering.el
  ✓ Success:
-  2026-01-25T23:16:11+0000  no-littering-20260101.1839.entry
-  2026-01-25T23:16:11+0000  no-littering-20260101.1839.tar
-Built no-littering in 3.364s, finished at 2026-01-25T23:16:12+0000
+  2026-02-01T23:49:48+0000  no-littering-20260201.1509.entry
+  2026-02-01T23:49:48+0000  no-littering-20260201.1509.tar
+Built no-littering in 4.115s, finished at 2026-02-01T23:49:49+0000

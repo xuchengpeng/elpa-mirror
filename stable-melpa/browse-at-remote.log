@@ -1,15 +1,15 @@
  • Building package browse-at-remote (from github:rmuslimov/browse-at-remote)...
 Updating /mnt/store/melpa/working/browse-at-remote/
-Checking out 27b17cc63b9f9dca893425908373251eb9b10f44
+Checking out 38e5ffd77493c17c821fd88f938dbf42705a5158
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/browse-at-remote/
-  to /tmp/browse-at-remote5eFFyt/browse-at-remote-20251223.2328
+  to /tmp/browse-at-remote269NGj/browse-at-remote-20260126.608
     browse-at-remote.el -> browse-at-remote.el
-Created browse-at-remote-20251223.2328.tar containing:
-  browse-at-remote-20251223.2328/
-  browse-at-remote-20251223.2328/browse-at-remote-pkg.el
-  browse-at-remote-20251223.2328/browse-at-remote.el
+Created browse-at-remote-20260126.608.tar containing:
+  browse-at-remote-20260126.608/
+  browse-at-remote-20260126.608/browse-at-remote-pkg.el
+  browse-at-remote-20260126.608/browse-at-remote.el
  ✓ Success:
-  2026-01-26T01:40:29+0000  browse-at-remote-20251223.2328.entry
-  2026-01-26T01:40:29+0000  browse-at-remote-20251223.2328.tar
-Built browse-at-remote in 4.983s, finished at 2026-01-26T01:40:31+0000
+  2026-02-01T22:41:40+0000  browse-at-remote-20260126.608.entry
+  2026-02-01T22:41:40+0000  browse-at-remote-20260126.608.tar
+Built browse-at-remote in 4.947s, finished at 2026-02-01T22:41:42+0000

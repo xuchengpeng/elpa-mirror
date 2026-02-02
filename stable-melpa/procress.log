@@ -1,15 +1,15 @@
  • Building package procress (from github:haji-ali/procress)...
 Updating /mnt/store/melpa/working/procress/
-Checking out 137655ec1193bd1ea1a1ee3362349491c873710a
+Checking out de0c3b40a7f5d66d71529784e0a35069a064e27d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/procress/
-  to /tmp/procress074543/procress-20250914.1846
+  to /tmp/procressa2OxXb/procress-20260129.1256
     procress.el -> procress.el
-Created procress-20250914.1846.tar containing:
-  procress-20250914.1846/
-  procress-20250914.1846/procress-pkg.el
-  procress-20250914.1846/procress.el
+Created procress-20260129.1256.tar containing:
+  procress-20260129.1256/
+  procress-20260129.1256/procress-pkg.el
+  procress-20260129.1256/procress.el
  ✓ Success:
-  2026-01-25T23:30:25+0000  procress-20250914.1846.entry
-  2026-01-25T23:30:25+0000  procress-20250914.1846.tar
-Built procress in 5.977s, finished at 2026-01-25T23:30:27+0000
+  2026-02-02T00:08:04+0000  procress-20260129.1256.entry
+  2026-02-02T00:08:04+0000  procress-20260129.1256.tar
+Built procress in 5.478s, finished at 2026-02-02T00:08:06+0000
