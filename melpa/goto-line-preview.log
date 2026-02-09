@@ -1,15 +1,15 @@
  • Building package goto-line-preview (from github:emacs-vs/goto-line-preview)...
 Updating /mnt/store/melpa/working/goto-line-preview/
-Checking out e11a1e7bfff5240e44d71d2ff8fae2d5bcbda784
+Checking out 7c86228bc4f92b5129302824881f36d7ae39ee0a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/goto-line-preview/
-  to /tmp/goto-line-previewQxrPIz/goto-line-preview-20260128.834
+  to /tmp/goto-line-previewQdnK17/goto-line-preview-20260204.956
     goto-line-preview.el -> goto-line-preview.el
-Created goto-line-preview-20260128.834.tar containing:
-  goto-line-preview-20260128.834/
-  goto-line-preview-20260128.834/goto-line-preview-pkg.el
-  goto-line-preview-20260128.834/goto-line-preview.el
+Created goto-line-preview-20260204.956.tar containing:
+  goto-line-preview-20260204.956/
+  goto-line-preview-20260204.956/goto-line-preview-pkg.el
+  goto-line-preview-20260204.956/goto-line-preview.el
  ✓ Success:
-  2026-02-01T23:19:45+0000  goto-line-preview-20260128.834.entry
-  2026-02-01T23:19:45+0000  goto-line-preview-20260128.834.tar
-Built goto-line-preview in 4.646s, finished at 2026-02-01T23:19:47+0000
+  2026-02-09T00:39:37+0000  goto-line-preview-20260204.956.entry
+  2026-02-09T00:39:37+0000  goto-line-preview-20260204.956.tar
+Built goto-line-preview in 2.686s, finished at 2026-02-09T00:39:38+0000

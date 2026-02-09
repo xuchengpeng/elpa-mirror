@@ -18,10 +18,10 @@ See see https://github.com/Anoncheg1/emacs-oai for the full set
 of features and setup instructions.
 
 Configuration:
-(add-to-list 'load-path "path/to/oai")
+(add-to-list 'load-path "path/to/oai") ; (optional)
 (require 'oai)
 (add-hook 'org-mode-hook #'oai-mode) ; oai.el
-(setq oai-restapi-con-token "xxx") ; oai-restapi.el
+(setq oai-restapi-con-token "xxx") ; oai-restapi.el (optional)
 
 You will need an OpenAI API key-token.
 It can be stored in the format:
@@ -34,12 +34,9 @@ Keys binded by default:
 - In block #+begin_ai..#+end_ai blocks:
     - C-c C-c - to send the text to the OpenAI API and insert a response
     - C-c . - to inspect raw data (and C-u C-c .)
-    - C-c C-. - to see url.el raw HTTP data (working only during request)
-    - M-h - mark ai block content
-    - C-u M-h - mark chat message
-    - C-c <backspace> - (kill-region-at-point) to remove the chat
-      part under point.  (oai-block.el)
-    - C-c C-l - set :max-tokens
+    - C-c C-.  - to see url.el raw HTTP data (working only during request)
+    - M-h - mark element in ai block (C-u M-h - mark chat message)
+    - C-c C-t - set :max-tokens
 - in buffer with oai-mode enabled:
     - C-g - to stop all requsts.
 

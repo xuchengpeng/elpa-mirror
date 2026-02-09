@@ -1,15 +1,15 @@
  • Building package nerd-icons-dired (from github:rainstormstudio/nerd-icons-dired)...
 Updating /mnt/store/melpa/working/nerd-icons-dired/
-Checking out 3265d6c4b552eae457d50d423adb10494113d70b
+Checking out 929b62f01b93d30a3f42cc507fc45c84a2457b3f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/nerd-icons-dired/
-  to /tmp/nerd-icons-diredsKTWbw/nerd-icons-dired-20251106.1840
+  to /tmp/nerd-icons-diredcDWFiQ/nerd-icons-dired-20260206.1554
     nerd-icons-dired.el -> nerd-icons-dired.el
-Created nerd-icons-dired-20251106.1840.tar containing:
-  nerd-icons-dired-20251106.1840/
-  nerd-icons-dired-20251106.1840/nerd-icons-dired-pkg.el
-  nerd-icons-dired-20251106.1840/nerd-icons-dired.el
+Created nerd-icons-dired-20260206.1554.tar containing:
+  nerd-icons-dired-20260206.1554/
+  nerd-icons-dired-20260206.1554/nerd-icons-dired-pkg.el
+  nerd-icons-dired-20260206.1554/nerd-icons-dired.el
  ✓ Success:
-  2026-02-01T23:48:52+0000  nerd-icons-dired-20251106.1840.entry
-  2026-02-01T23:48:52+0000  nerd-icons-dired-20251106.1840.tar
-Built nerd-icons-dired in 4.215s, finished at 2026-02-01T23:48:54+0000
+  2026-02-09T00:55:45+0000  nerd-icons-dired-20260206.1554.entry
+  2026-02-09T00:55:45+0000  nerd-icons-dired-20260206.1554.tar
+Built nerd-icons-dired in 2.634s, finished at 2026-02-09T00:55:46+0000

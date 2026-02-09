@@ -3,13 +3,13 @@ Updating /mnt/store/melpa/working/redtt/
 Checking out c95d1a0787fb92eb011df690b4bdc1029a611c0b
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/redtt/
-  to /tmp/redttxVeiji/redtt-20181121.21
+  to /tmp/redttSeNzmQ/redtt-20181121.21
   ! emacs/redtt.el -> redtt.el
 Created redtt-20181121.21.tar containing:
   redtt-20181121.21/
   redtt-20181121.21/redtt-pkg.el
   redtt-20181121.21/redtt.el
  ✓ Success:
-  2026-02-02T00:12:54+0000  redtt-20181121.21.entry
-  2026-02-02T00:12:53+0000  redtt-20181121.21.tar
-Built redtt in 7.625s, finished at 2026-02-02T00:12:56+0000
+  2026-02-09T01:08:33+0000  redtt-20181121.21.entry
+  2026-02-09T01:08:33+0000  redtt-20181121.21.tar
+Built redtt in 2.638s, finished at 2026-02-09T01:08:33+0000

@@ -1,9 +1,14 @@
-Emacs frontend for the pi coding agent (https://shittycodingagent.ai/).
+Emacs frontend for the pi coding agent (https://pi.dev).
 Provides a two-window interface for AI-assisted coding: chat history
 with rendered markdown, and a separate prompt composition buffer.
 
 Requirements:
-  - pi coding agent installed and in PATH
+  - pi coding agent 0.51.3 or later, installed and in PATH
+
+Optional Dependencies:
+  - phscroll: Markdown tables that exceed the window width wrap awkwardly.
+    phscroll enables horizontal scrolling so tables stay readable.
+    Install from: https://github.com/misohena/phscroll
 
 Usage:
   M-x pi           Start a session in current project

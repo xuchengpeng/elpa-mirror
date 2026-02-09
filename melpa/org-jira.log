@@ -1,19 +1,19 @@
  • Building package org-jira (from github:ahungry/org-jira)...
 Updating /mnt/store/melpa/working/org-jira/
-Checking out f3e4aa431c57b8d219631233ad173cccbc0a4e73
+Checking out 738002ddbeb0b4311089706f0a979ceea53bf095
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/org-jira/
-  to /tmp/org-jiraB2f9cW/org-jira-20260126.238
+  to /tmp/org-jiraj3YRFs/org-jira-20260205.2052
     jiralib.el -> jiralib.el
     org-jira.el -> org-jira.el
     org-jira-sdk.el -> org-jira-sdk.el
-Created org-jira-20260126.238.tar containing:
-  org-jira-20260126.238/
-  org-jira-20260126.238/jiralib.el
-  org-jira-20260126.238/org-jira-pkg.el
-  org-jira-20260126.238/org-jira-sdk.el
-  org-jira-20260126.238/org-jira.el
+Created org-jira-20260205.2052.tar containing:
+  org-jira-20260205.2052/
+  org-jira-20260205.2052/jiralib.el
+  org-jira-20260205.2052/org-jira-pkg.el
+  org-jira-20260205.2052/org-jira-sdk.el
+  org-jira-20260205.2052/org-jira.el
  ✓ Success:
-  2026-02-01T23:55:31+0000  org-jira-20260126.238.entry
-  2026-02-01T23:55:31+0000  org-jira-20260126.238.tar
-Built org-jira in 5.154s, finished at 2026-02-01T23:55:32+0000
+  2026-02-09T00:59:42+0000  org-jira-20260205.2052.entry
+  2026-02-09T00:59:42+0000  org-jira-20260205.2052.tar
+Built org-jira in 3.065s, finished at 2026-02-09T00:59:43+0000
