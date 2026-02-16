@@ -1,17 +1,17 @@
  • Building package consult-org-roam (from github:jgru/consult-org-roam)...
 Updating /mnt/store/melpa/working/consult-org-roam/
-Checking out 7d825fffd6f990b800485376f62dd9b277991709
+Checking out 781d9c1cfee8631bc125fa45bab92de320d3941e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/consult-org-roam/
-  to /tmp/consult-org-roamfoMKtW/consult-org-roam-20251116.1230
+  to /tmp/consult-org-roamZNGSuW/consult-org-roam-20260209.1805
     consult-org-roam-buffer.el -> consult-org-roam-buffer.el
     consult-org-roam.el -> consult-org-roam.el
-Created consult-org-roam-20251116.1230.tar containing:
-  consult-org-roam-20251116.1230/
-  consult-org-roam-20251116.1230/consult-org-roam-buffer.el
-  consult-org-roam-20251116.1230/consult-org-roam-pkg.el
-  consult-org-roam-20251116.1230/consult-org-roam.el
+Created consult-org-roam-20260209.1805.tar containing:
+  consult-org-roam-20260209.1805/
+  consult-org-roam-20260209.1805/consult-org-roam-buffer.el
+  consult-org-roam-20260209.1805/consult-org-roam-pkg.el
+  consult-org-roam-20260209.1805/consult-org-roam.el
  ✓ Success:
-  2026-02-09T00:22:16+0000  consult-org-roam-20251116.1230.entry
-  2026-02-09T00:22:16+0000  consult-org-roam-20251116.1230.tar
-Built consult-org-roam in 2.768s, finished at 2026-02-09T00:22:17+0000
+  2026-02-16T01:24:29+0000  consult-org-roam-20260209.1805.entry
+  2026-02-16T01:24:29+0000  consult-org-roam-20260209.1805.tar
+Built consult-org-roam in 2.718s, finished at 2026-02-16T01:24:30+0000

@@ -1,15 +1,15 @@
  • Building package pass (from github:NicolasPetton/pass)...
 Updating /mnt/store/melpa/working/pass/
-Checking out de4adfaeba5eb4d1facaf75f582f1ba36373299a
+Checking out 143456809fd2dbece9f241f4361085e1de0b0e75
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/pass/
-  to /tmp/passikK3nE/pass-20260109.1144
+  to /tmp/passB8ordv/pass-20260214.2130
     pass.el -> pass.el
-Created pass-20260109.1144.tar containing:
-  pass-20260109.1144/
-  pass-20260109.1144/pass-pkg.el
-  pass-20260109.1144/pass.el
+Created pass-20260214.2130.tar containing:
+  pass-20260214.2130/
+  pass-20260214.2130/pass-pkg.el
+  pass-20260214.2130/pass.el
  ✓ Success:
-  2026-02-09T01:03:14+0000  pass-20260109.1144.entry
-  2026-02-09T01:03:14+0000  pass-20260109.1144.tar
-Built pass in 4.461s, finished at 2026-02-09T01:03:15+0000
+  2026-02-16T02:05:07+0000  pass-20260214.2130.entry
+  2026-02-16T02:05:07+0000  pass-20260214.2130.tar
+Built pass in 4.588s, finished at 2026-02-16T02:05:08+0000

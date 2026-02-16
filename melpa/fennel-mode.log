@@ -1,25 +1,25 @@
  • Building package fennel-mode (from sourcehut:technomancy/fennel-mode)...
 Updating /mnt/store/melpa/working/fennel-mode/
-Checking out c1bccdec9e8923247c9b1a5ffcf14039d2ddb227
+Checking out 9c1dac3c39fcdbecbb9e963898cb353ec8ba6cc3
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/fennel-mode/
-  to /tmp/fennel-modeVWOUAD/fennel-mode-20251028.2216
+  to /tmp/fennel-modebo4OXj/fennel-mode-20260210.2300
     antifennel.el -> antifennel.el
     fennel-ls-flymake.el -> fennel-ls-flymake.el
     fennel-mode.el -> fennel-mode.el
     fennel-proto-repl.el -> fennel-proto-repl.el
     fennel-scratch.el -> fennel-scratch.el
     ob-fennel.el -> ob-fennel.el
-Created fennel-mode-20251028.2216.tar containing:
-  fennel-mode-20251028.2216/
-  fennel-mode-20251028.2216/antifennel.el
-  fennel-mode-20251028.2216/fennel-ls-flymake.el
-  fennel-mode-20251028.2216/fennel-mode-pkg.el
-  fennel-mode-20251028.2216/fennel-mode.el
-  fennel-mode-20251028.2216/fennel-proto-repl.el
-  fennel-mode-20251028.2216/fennel-scratch.el
-  fennel-mode-20251028.2216/ob-fennel.el
+Created fennel-mode-20260210.2300.tar containing:
+  fennel-mode-20260210.2300/
+  fennel-mode-20260210.2300/antifennel.el
+  fennel-mode-20260210.2300/fennel-ls-flymake.el
+  fennel-mode-20260210.2300/fennel-mode-pkg.el
+  fennel-mode-20260210.2300/fennel-mode.el
+  fennel-mode-20260210.2300/fennel-proto-repl.el
+  fennel-mode-20260210.2300/fennel-scratch.el
+  fennel-mode-20260210.2300/ob-fennel.el
  ✓ Success:
-  2026-02-09T00:33:39+0000  fennel-mode-20251028.2216.entry
-  2026-02-09T00:33:39+0000  fennel-mode-20251028.2216.tar
-Built fennel-mode in 3.880s, finished at 2026-02-09T00:33:40+0000
+  2026-02-16T01:35:44+0000  fennel-mode-20260210.2300.entry
+  2026-02-16T01:35:44+0000  fennel-mode-20260210.2300.tar
+Built fennel-mode in 4.035s, finished at 2026-02-16T01:35:45+0000

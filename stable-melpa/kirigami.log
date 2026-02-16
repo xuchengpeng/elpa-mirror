@@ -1,15 +1,15 @@
  • Building package kirigami (from github:jamescherti/kirigami.el)...
 Updating /mnt/store/melpa/working/kirigami/
-Checking out 584bef80397396662af331cb64d5856f72596ff9
+Checking out 067ca5c96faab2715dec0a46420a60945c621b82
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/kirigami/
-  to /tmp/kirigamiD5s18C/kirigami-20260204.1708
+  to /tmp/kirigamiSkmQ9B/kirigami-20260215.2013
     kirigami.el -> kirigami.el
-Created kirigami-20260204.1708.tar containing:
-  kirigami-20260204.1708/
-  kirigami-20260204.1708/kirigami-pkg.el
-  kirigami-20260204.1708/kirigami.el
+Created kirigami-20260215.2013.tar containing:
+  kirigami-20260215.2013/
+  kirigami-20260215.2013/kirigami-pkg.el
+  kirigami-20260215.2013/kirigami.el
  ✓ Success:
-  2026-02-09T00:48:39+0000  kirigami-20260204.1708.entry
-  2026-02-09T00:48:39+0000  kirigami-20260204.1708.tar
-Built kirigami in 2.490s, finished at 2026-02-09T00:48:39+0000
+  2026-02-16T01:50:34+0000  kirigami-20260215.2013.entry
+  2026-02-16T01:50:34+0000  kirigami-20260215.2013.tar
+Built kirigami in 2.630s, finished at 2026-02-16T01:50:35+0000

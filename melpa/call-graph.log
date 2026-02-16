@@ -1,15 +1,15 @@
  • Building package call-graph (from github:beacoder/call-graph)...
 Updating /mnt/store/melpa/working/call-graph/
-Checking out 95008f18991691fc117c12e84cde2b9dc04e4e4b
+Checking out 38cb7a4488af63208d7ee1766a141453518e0abc
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/call-graph/
-  to /tmp/call-graphOEyDNE/call-graph-20251227.222
+  to /tmp/call-graphLPnZTe/call-graph-20260212.649
     call-graph.el -> call-graph.el
-Created call-graph-20251227.222.tar containing:
-  call-graph-20251227.222/
-  call-graph-20251227.222/call-graph-pkg.el
-  call-graph-20251227.222/call-graph.el
+Created call-graph-20260212.649.tar containing:
+  call-graph-20260212.649/
+  call-graph-20260212.649/call-graph-pkg.el
+  call-graph-20260212.649/call-graph.el
  ✓ Success:
-  2026-02-09T00:18:32+0000  call-graph-20251227.222.entry
-  2026-02-09T00:18:32+0000  call-graph-20251227.222.tar
-Built call-graph in 2.481s, finished at 2026-02-09T00:18:33+0000
+  2026-02-16T01:20:48+0000  call-graph-20260212.649.entry
+  2026-02-16T01:20:48+0000  call-graph-20260212.649.tar
+Built call-graph in 2.763s, finished at 2026-02-16T01:20:49+0000

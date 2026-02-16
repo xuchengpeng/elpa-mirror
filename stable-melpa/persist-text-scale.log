@@ -1,15 +1,15 @@
  • Building package persist-text-scale (from github:jamescherti/persist-text-scale.el)...
 Updating /mnt/store/melpa/working/persist-text-scale/
-Checking out 11a77f63a0cf7aa8ac836dab077e0dbb11e8f332
+Checking out 1d2983986a32da95c878ce05929f43ecc370c82c
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/persist-text-scale/
-  to /tmp/persist-text-scaleXOpEzg/persist-text-scale-20260204.1727
+  to /tmp/persist-text-scale8fOuVP/persist-text-scale-20260215.2013
     persist-text-scale.el -> persist-text-scale.el
-Created persist-text-scale-20260204.1727.tar containing:
-  persist-text-scale-20260204.1727/
-  persist-text-scale-20260204.1727/persist-text-scale-pkg.el
-  persist-text-scale-20260204.1727/persist-text-scale.el
+Created persist-text-scale-20260215.2013.tar containing:
+  persist-text-scale-20260215.2013/
+  persist-text-scale-20260215.2013/persist-text-scale-pkg.el
+  persist-text-scale-20260215.2013/persist-text-scale.el
  ✓ Success:
-  2026-02-09T01:04:02+0000  persist-text-scale-20260204.1727.entry
-  2026-02-09T01:04:02+0000  persist-text-scale-20260204.1727.tar
-Built persist-text-scale in 2.990s, finished at 2026-02-09T01:04:03+0000
+  2026-02-16T02:05:50+0000  persist-text-scale-20260215.2013.entry
+  2026-02-16T02:05:50+0000  persist-text-scale-20260215.2013.tar
+Built persist-text-scale in 2.932s, finished at 2026-02-16T02:05:51+0000

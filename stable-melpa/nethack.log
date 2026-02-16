@@ -1,9 +1,9 @@
  • Building package nethack (from github:Feyorsh/nethack-el)...
 Updating /mnt/store/melpa/working/nethack/
-Checking out c17e18049da8ddff3c5772cae3aac813e70dd2d3
+Checking out dfd8b26bac48b8c59d8bddf79eb9721ad06f98c6
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/nethack/
-  to /tmp/nethackLooNON/nethack-20260202.54
+  to /tmp/nethackichcs8/nethack-20260210.119
     nethack-api.el -> nethack-api.el
     nethack-cmd.el -> nethack-cmd.el
     nethack-compat.el -> nethack-compat.el
@@ -14,20 +14,20 @@ Copying files (->) and directories (=>)
     nethack.el -> nethack.el
     enh-367.patch -> enh-367.patch
     enh-370.patch -> enh-370.patch
-Created nethack-20260202.54.tar containing:
-  nethack-20260202.54/
-  nethack-20260202.54/enh-367.patch
-  nethack-20260202.54/enh-370.patch
-  nethack-20260202.54/nethack-api.el
-  nethack-20260202.54/nethack-cmd.el
-  nethack-20260202.54/nethack-compat.el
-  nethack-20260202.54/nethack-gen-tiles.el
-  nethack-20260202.54/nethack-keys.el
-  nethack-20260202.54/nethack-lisprec.el
-  nethack-20260202.54/nethack-options.el
-  nethack-20260202.54/nethack-pkg.el
-  nethack-20260202.54/nethack.el
+Created nethack-20260210.119.tar containing:
+  nethack-20260210.119/
+  nethack-20260210.119/enh-367.patch
+  nethack-20260210.119/enh-370.patch
+  nethack-20260210.119/nethack-api.el
+  nethack-20260210.119/nethack-cmd.el
+  nethack-20260210.119/nethack-compat.el
+  nethack-20260210.119/nethack-gen-tiles.el
+  nethack-20260210.119/nethack-keys.el
+  nethack-20260210.119/nethack-lisprec.el
+  nethack-20260210.119/nethack-options.el
+  nethack-20260210.119/nethack-pkg.el
+  nethack-20260210.119/nethack.el
  ✓ Success:
-  2026-02-09T00:55:50+0000  nethack-20260202.54.entry
-  2026-02-09T00:55:50+0000  nethack-20260202.54.tar
-Built nethack in 3.226s, finished at 2026-02-09T00:55:51+0000
+  2026-02-16T01:57:40+0000  nethack-20260210.119.entry
+  2026-02-16T01:57:40+0000  nethack-20260210.119.tar
+Built nethack in 3.024s, finished at 2026-02-16T01:57:41+0000

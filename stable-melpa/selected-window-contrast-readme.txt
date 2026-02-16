@@ -1,10 +1,8 @@
-It Loop windows at frame, measure and adjust contrast.  Allow to
- set color (face) of background and text by comparing their
- brightness.
-This is useful for changing themes during the daytime (circadian
- package) and for highlighting selected window.  Also this works
- for modeline.
- We also highligh cursor position, this may be disabled witha
+Highlight selected window by adjusting contrast of text
+ "foreground" and background.
+Working good if you switch temes frequently, contrast will be kept.
+Also this works for modeline.
+ We also highligh cursor position, this may be disabled with
  M-x customize-variable RET selected-window-contrast-text-switch-mode
 
 Usage:
@@ -17,12 +15,11 @@ Usage:
   (setopt selected-window-contrast-text-others 0.6)
   (add-hook 'buffer-list-update-hook
             #'selected-window-contrast-highlight-selected-window))
-  ;; Experimental:
-  ;; (add-hook 'window-selection-change-functions
-  ;;   #'selected-window-contrast-mark-small-rectangle-temporary)
 
 
-Note: selected-window-contrast-text-switch-mode
+To disable highlighting window with rectangle around pointer use:
+(setopt selected-window-contrast-mode 1)
+
 
 How this works:
  1) We get color with `face-attribute' `selected-frame' for
@@ -36,7 +33,7 @@ Customize: M-x customize-group RET selected-window-contrast
 
 Donate:
 - BTC (Bitcoin) address: 1CcDWSQ2vgqv5LxZuWaHGW52B9fkT5io25
-- USDT (Tether) address: TVoXfYMkVYLnQZV3mGZ6GvmumuBfGsZzsN
+- USDT (Tether TRX-TRON) address: TVoXfYMkVYLnQZV3mGZ6GvmumuBfGsZzsN
 - TON (Telegram) address: UQC8rjJFCHQkfdp7KmCkTZCb5dGzLFYe2TzsiZpfsnyTFt9D
 
 Other packages:
