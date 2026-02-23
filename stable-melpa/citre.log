@@ -1,9 +1,9 @@
  • Building package citre (from github:universal-ctags/citre)...
 Updating /mnt/store/melpa/working/citre/
-Checking out 300596a34b61b486530ce3759e8fb722d9534325
+Checking out 72375aac87cb245b4f49a4737456f626091a0a42
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/citre/
-  to /tmp/citreWE2h9d/citre-20251015.220
+  to /tmp/citre-6ABZgK/citre-20260220.1324
     citre-backend-interface.el -> citre-backend-interface.el
     citre-common-tag.el -> citre-common-tag.el
     citre-common-util.el -> citre-common-util.el
@@ -20,26 +20,26 @@ Copying files (->) and directories (=>)
     citre-ui-peek.el -> citre-ui-peek.el
     citre-xref-adapter.el -> citre-xref-adapter.el
     citre.el -> citre.el
-Created citre-20251015.220.tar containing:
-  citre-20251015.220/
-  citre-20251015.220/citre-backend-interface.el
-  citre-20251015.220/citre-common-tag.el
-  citre-20251015.220/citre-common-util.el
-  citre-20251015.220/citre-config.el
-  citre-20251015.220/citre-ctags.el
-  citre-20251015.220/citre-global.el
-  citre-20251015.220/citre-lang-c.el
-  citre-20251015.220/citre-lang-fileref.el
-  citre-20251015.220/citre-lang-verilog.el
-  citre-20251015.220/citre-pkg.el
-  citre-20251015.220/citre-readtags-tables.el
-  citre-20251015.220/citre-readtags.el
-  citre-20251015.220/citre-tags.el
-  citre-20251015.220/citre-ui-jump.el
-  citre-20251015.220/citre-ui-peek.el
-  citre-20251015.220/citre-xref-adapter.el
-  citre-20251015.220/citre.el
+Created citre-20260220.1324.tar containing:
+  citre-20260220.1324/
+  citre-20260220.1324/citre-backend-interface.el
+  citre-20260220.1324/citre-common-tag.el
+  citre-20260220.1324/citre-common-util.el
+  citre-20260220.1324/citre-config.el
+  citre-20260220.1324/citre-ctags.el
+  citre-20260220.1324/citre-global.el
+  citre-20260220.1324/citre-lang-c.el
+  citre-20260220.1324/citre-lang-fileref.el
+  citre-20260220.1324/citre-lang-verilog.el
+  citre-20260220.1324/citre-pkg.el
+  citre-20260220.1324/citre-readtags-tables.el
+  citre-20260220.1324/citre-readtags.el
+  citre-20260220.1324/citre-tags.el
+  citre-20260220.1324/citre-ui-jump.el
+  citre-20260220.1324/citre-ui-peek.el
+  citre-20260220.1324/citre-xref-adapter.el
+  citre-20260220.1324/citre.el
  ✓ Success:
-  2026-02-16T01:22:04+0000  citre-20251015.220.entry
-  2026-02-16T01:22:04+0000  citre-20251015.220.tar
-Built citre in 2.999s, finished at 2026-02-16T01:22:05+0000
+  2026-02-23T00:40:14+0000  citre-20260220.1324.entry
+  2026-02-23T00:40:13+0000  citre-20260220.1324.tar
+Built citre in 15.236s, finished at 2026-02-23T00:40:18+0000

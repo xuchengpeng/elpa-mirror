@@ -1,15 +1,15 @@
  • Building package khoj (from github:khoj-ai/khoj)...
 Updating /mnt/store/melpa/working/khoj/
-Checking out d55a00288bd6257d1b84f2a491ca24fb00530d43
+Checking out 94bae4789aca60e5bea67e3f96fbeb2ed39fff72
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/khoj/
-  to /tmp/khojh3yvGQ/khoj-20260102.359
+  to /tmp/khoj-gDv5kA/khoj-20260222.1956
   ! src/interface/emacs/khoj.el -> khoj.el
-Created khoj-20260102.359.tar containing:
-  khoj-20260102.359/
-  khoj-20260102.359/khoj-pkg.el
-  khoj-20260102.359/khoj.el
+Created khoj-20260222.1956.tar containing:
+  khoj-20260222.1956/
+  khoj-20260222.1956/khoj-pkg.el
+  khoj-20260222.1956/khoj.el
  ✓ Success:
-  2026-02-16T01:50:30+0000  khoj-20260102.359.entry
-  2026-02-16T01:50:30+0000  khoj-20260102.359.tar
-Built khoj in 3.895s, finished at 2026-02-16T01:50:31+0000
+  2026-02-23T01:15:06+0000  khoj-20260222.1956.entry
+  2026-02-23T01:15:06+0000  khoj-20260222.1956.tar
+Built khoj in 7.120s, finished at 2026-02-23T01:15:07+0000

@@ -1,15 +1,15 @@
  • Building package magit-gh (from github:jonathanchu/magit-gh)...
 Updating /mnt/store/melpa/working/magit-gh/
-Checking out b984e84d0d11565c8b7771552f1500b51cdef639
+Checking out 5b3cb8f367e3d9fbb5d9593683b492bd7b5399c7
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/magit-gh/
-  to /tmp/magit-ghqAaGFo/magit-gh-20260215.351
+  to /tmp/magit-gh-c7a21u/magit-gh-20260221.522
     magit-gh.el -> magit-gh.el
-Created magit-gh-20260215.351.tar containing:
-  magit-gh-20260215.351/
-  magit-gh-20260215.351/magit-gh-pkg.el
-  magit-gh-20260215.351/magit-gh.el
+Created magit-gh-20260221.522.tar containing:
+  magit-gh-20260221.522/
+  magit-gh-20260221.522/magit-gh-pkg.el
+  magit-gh-20260221.522/magit-gh.el
  ✓ Success:
-  2026-02-16T01:53:38+0000  magit-gh-20260215.351.entry
-  2026-02-16T01:53:38+0000  magit-gh-20260215.351.tar
-Built magit-gh in 4.031s, finished at 2026-02-16T01:53:39+0000
+  2026-02-23T01:18:56+0000  magit-gh-20260221.522.entry
+  2026-02-23T01:18:56+0000  magit-gh-20260221.522.tar
+Built magit-gh in 5.068s, finished at 2026-02-23T01:18:57+0000

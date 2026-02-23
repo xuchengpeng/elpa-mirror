@@ -1,15 +1,15 @@
  • Building package nael-lsp (from codeberg:mekeor/nael)...
 Updating /mnt/store/melpa/working/nael-lsp/
-Checking out 3ee1cf286dc1ee3c9f99357079288ce1285c10c0
+Checking out fbfb6757365cbde89d7ae0b56727315db15d31e4
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/nael-lsp/
-  to /tmp/nael-lspEI2OpS/nael-lsp-20260122.1407
+  to /tmp/nael-lsp-HyvgPY/nael-lsp-20260222.33
   ! nael-lsp/nael-lsp.el -> nael-lsp.el
-Created nael-lsp-20260122.1407.tar containing:
-  nael-lsp-20260122.1407/
-  nael-lsp-20260122.1407/nael-lsp-pkg.el
-  nael-lsp-20260122.1407/nael-lsp.el
+Created nael-lsp-20260222.33.tar containing:
+  nael-lsp-20260222.33/
+  nael-lsp-20260222.33/nael-lsp-pkg.el
+  nael-lsp-20260222.33/nael-lsp.el
  ✓ Success:
-  2026-02-16T01:57:13+0000  nael-lsp-20260122.1407.entry
-  2026-02-16T01:57:13+0000  nael-lsp-20260122.1407.tar
-Built nael-lsp in 4.005s, finished at 2026-02-16T01:57:14+0000
+  2026-02-23T01:23:13+0000  nael-lsp-20260222.33.entry
+  2026-02-23T01:23:13+0000  nael-lsp-20260222.33.tar
+Built nael-lsp in 4.684s, finished at 2026-02-23T01:23:14+0000

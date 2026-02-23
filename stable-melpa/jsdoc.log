@@ -3,13 +3,13 @@ Updating /mnt/store/melpa/working/jsdoc/
 Checking out 623994bb50d845de487c100f5cd393ce1d792460
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/jsdoc/
-  to /tmp/jsdocGBF6K9/jsdoc-20241227.1219
+  to /tmp/jsdoc-UdnRnG/jsdoc-20241227.1219
     jsdoc.el -> jsdoc.el
 Created jsdoc-20241227.1219.tar containing:
   jsdoc-20241227.1219/
   jsdoc-20241227.1219/jsdoc-pkg.el
   jsdoc-20241227.1219/jsdoc.el
  ✓ Success:
-  2026-02-16T01:49:26+0000  jsdoc-20241227.1219.entry
-  2026-02-16T01:49:26+0000  jsdoc-20241227.1219.tar
-Built jsdoc in 2.771s, finished at 2026-02-16T01:49:27+0000
+  2026-02-23T01:13:53+0000  jsdoc-20241227.1219.entry
+  2026-02-23T01:13:53+0000  jsdoc-20241227.1219.tar
+Built jsdoc in 3.052s, finished at 2026-02-23T01:13:54+0000

@@ -3,7 +3,7 @@ Updating /mnt/store/melpa/working/futhark-mode/
 Checking out ac363a47f6b24b9af5b817fb7bd94c16ebd46c3d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/futhark-mode/
-  to /tmp/futhark-mode4j6eAd/futhark-mode-20250311.1518
+  to /tmp/futhark-mode-qBcQw7/futhark-mode-20250311.1518
     futhark-comint.el -> futhark-comint.el
     futhark-dev.el -> futhark-dev.el
     futhark-fmt.el -> futhark-fmt.el
@@ -20,6 +20,6 @@ Created futhark-mode-20250311.1518.tar containing:
   futhark-mode-20250311.1518/futhark-mode-pkg.el
   futhark-mode-20250311.1518/futhark-mode.el
  ✓ Success:
-  2026-02-16T01:39:26+0000  futhark-mode-20250311.1518.entry
-  2026-02-16T01:39:26+0000  futhark-mode-20250311.1518.tar
-Built futhark-mode in 2.692s, finished at 2026-02-16T01:39:27+0000
+  2026-02-23T01:02:42+0000  futhark-mode-20250311.1518.entry
+  2026-02-23T01:02:42+0000  futhark-mode-20250311.1518.tar
+Built futhark-mode in 2.939s, finished at 2026-02-23T01:02:43+0000

@@ -3,13 +3,13 @@ Updating /mnt/store/melpa/working/icsql/
 Checking out 24c013486fd56386946eadc9a2f653e9f0d3f4de
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/icsql/
-  to /tmp/icsqlNWK6sd/icsql-20231021.1949
+  to /tmp/icsql-3CB62b/icsql-20231021.1949
     icsql.el -> icsql.el
 Created icsql-20231021.1949.tar containing:
   icsql-20231021.1949/
   icsql-20231021.1949/icsql-pkg.el
   icsql-20231021.1949/icsql.el
  ✓ Success:
-  2026-02-16T01:46:25+0000  icsql-20231021.1949.entry
-  2026-02-16T01:46:25+0000  icsql-20231021.1949.tar
-Built icsql in 2.264s, finished at 2026-02-16T01:46:25+0000
+  2026-02-23T01:10:36+0000  icsql-20231021.1949.entry
+  2026-02-23T01:10:36+0000  icsql-20231021.1949.tar
+Built icsql in 2.712s, finished at 2026-02-23T01:10:37+0000

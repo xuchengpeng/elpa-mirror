@@ -32,23 +32,23 @@ Assistant". Previous sentence was written by Ellama itself.
 ══════════════
 
   Just `M-x' `package-install' Enter `ellama' Enter. By default it uses
-  [ollama] provider. If you ok with it, you need to install [ollama] and
-  pull [any ollama model] like this:
+  [ollama] provider. If you are OK with it, you need to install [ollama]
+  and pull [any ollama model] like this:
 
   ┌────
   │ ollama pull qwen2.5:3b
   └────
 
-  You can use `ellama' with other model or other llm provider.  Without
-  any configuration, the first available ollama model will be used.  You
-  can customize ellama configuration like this:
+  You can use `ellama' with other models or another LLM provider.
+  Without any configuration, the first available ollama model will be
+  used.  You can customize ellama configuration like this:
 
   ┌────
   │ (use-package ellama
   │   :ensure t
   │   :bind ("C-c e" . ellama)
   │   ;; send last message in chat buffer with C-c C-c
-  │   :hook (org-ctrl-c-ctrl-c-final . ellama-chat-send-last-message)
+  │   :hook (org-ctrl-c-ctrl-c-hook . ellama-chat-send-last-message)
   │   :init (setopt ellama-auto-scroll t)
   │   :config
   │   ;; show ellama context in header line in all buffers
@@ -57,14 +57,14 @@ Assistant". Previous sentence was written by Ellama itself.
   │   (ellama-session-header-line-global-mode +1))
   └────
 
-  More sofisticated configuration example:
+  More sophisticated configuration example:
 
   ┌────
   │ (use-package ellama
   │   :ensure t
   │   :bind ("C-c e" . ellama)
   │   ;; send last message in chat buffer with C-c C-c
-  │   :hook (org-ctrl-c-ctrl-c-final . ellama-chat-send-last-message)
+  │   :hook (org-ctrl-c-ctrl-c-hook . ellama-chat-send-last-message)
   │   :init
   │   ;; setup key bindings
   │   ;; (setopt ellama-keymap-prefix "C-c e")
@@ -154,12 +154,13 @@ Assistant". Previous sentence was written by Ellama itself.
   • `ellama-write': This command allows you to generate text using an
     LLM. When called interactively, it prompts for an instruction that
     is then used to generate text based on the context. If a region is
-    active, the selected text is added to the context before generating
-    the response.
+    active, the selected text is added to ephemeral context before
+    generating the response.
   • `ellama-chat-send-last-message': Send last user message extracted
     from current ellama chat buffer.
   • `ellama-ask-about': Ask Ellama about a selected region or the
-    current buffer.
+    current buffer. Automatically adds selected region or current buffer
+    to ephemeral context for one request.
   • `ellama-ask-selection': Send selected region or current buffer to
     ellama chat.
   • `ellama-ask-line': Send current line to ellama chat.
@@ -173,7 +174,8 @@ Assistant". Previous sentence was written by Ellama itself.
     buffer using Ellama.
   • `ellama-summarize-killring': Summarize text from the kill ring.
   • `ellama-code-review': Review code in a selected region or the
-    current buffer using Ellama.
+    current buffer using Ellama. Automatically adds selected region or
+    current buffer to ephemeral context for one request.
   • `ellama-change': Change text in a selected region or the current
     buffer according to a provided change.
   • `ellama-make-list': Create a markdown list from the active region or
@@ -188,7 +190,7 @@ Assistant". Previous sentence was written by Ellama itself.
   • `ellama-code-add': Generate and insert new code based on
     description. This function prompts the user to describe the code
     they want to generate. If a region is active, it includes the
-    selected text as context for code generation.
+    selected text in ephemeral context for code generation.
   • `ellama-code-edit': Change selected code or code in the current
     buffer according to a provided change using Ellama.
   • `ellama-code-improve': Change selected code or code in the current
@@ -216,7 +218,7 @@ Assistant". Previous sentence was written by Ellama itself.
   • `ellama-context-add-selection': Add selected region to context.
   • `ellama-context-add-info-node': Add info node to context.
   • `ellama-context-reset': Clear global context.
-  • `ellama-manage-context': Manage the global context. Inside context
+  • `ellama-context-manage': Manage the global context. Inside context
     management buffer you can see ellama context elements. Available
     actions with key bindings:
     • `n': Move to the next line.
@@ -226,17 +228,17 @@ Assistant". Previous sentence was written by Ellama itself.
     • `a': Open the transient context menu for adding new elements.
     • `d': Remove the context element at the current point.
     • `RET': Preview the context element at the current point.
-  • `ellama-preview-context-element-at-point': Preview ellama context
+  • `ellama-context-preview-element-at-point': Preview ellama context
     element at point. Works inside ellama context management buffer.
-  • `ellama-remove-context-element-at-point': Remove ellama context
+  • `ellama-context-remove-element-at-point': Remove ellama context
     element at point from global context. Works inside ellama context
     management buffer.
-  • `ellama-chat-translation-enable': Chat translation enable.
-  • `ellama-chat-translation-disable': Chat translation disable.
+  • `ellama-chat-translation-enable': Enable chat translation.
+  • `ellama-chat-translation-disable': Disable chat translation.
   • `ellama-solve-reasoning-problem': Solve reasoning problem with
     Abstraction of Thought technique. It uses a chain of multiple
-    messages to LLM and help it to provide much better answers on
-    reasoning problems. Even small LLMs like phi3-mini provides much
+    messages to an LLM and helps it to provide much better answers on
+    reasoning problems. Even small LLMs like phi3-mini provide much
     better results on reasoning tasks using AoT.
   • `ellama-solve-domain-specific-problem': Solve domain specific
     problem with simple chain. It makes LLMs act like a professional and
@@ -245,14 +247,8 @@ Assistant". Previous sentence was written by Ellama itself.
     the community prompt collection. The user is prompted to choose a
     role, and then a corresponding prompt is inserted into a blueprint
     buffer.
-  • `ellama-community-prompts-update-variables': Prompt user for values
-    of variables found in current buffer and update them.
-  • `ellama-response-process-method': Configure how LLM responses are
-    processed.  Options include streaming for real-time output, async
-    for asynchronous processing, or skipping every N messages to reduce
-    resource usage.
-  • `ellama-blueprint-variable-regexp': Regular expression to match
-    blueprint variables like `{var_name}'.
+  • `ellama-blueprint-fill-variables': Prompt user for values of
+    variables found in current blueprint buffer and update them.
   • `ellama-tools-enable-by-name': Enable a specific tool by its
     name. Use this command to activate individual tools. Requires the
     tool name as input.
@@ -294,7 +290,7 @@ Assistant". Previous sentence was written by Ellama itself.
    "s c"   ellama-summarize-killring        Summarize killring           
    "s l"   ellama-load-session              Session Load                 
    "s r"   ellama-session-rename            Session rename               
-   "s d"   ellama-session-delete            Delete delete                
+   "s d"   ellama-session-delete            Session delete               
    "s a"   ellama-session-switch            Session activate             
    "P"     ellama-proofread                 Proofread                    
    "i w"   ellama-improve-wording           Improve wording              
@@ -346,6 +342,10 @@ Assistant". Previous sentence was written by Ellama itself.
     automatically during generation. Disabled by default.
   • `ellama-fill-paragraphs': Option to customize ellama paragraphs
     filling behaviour.
+  • `ellama-response-process-method': Configure how LLM responses are
+    processed.  Options include streaming for real-time output, async
+    for asynchronous processing, or skipping every N messages to reduce
+    resource usage.
   • `ellama-name-prompt-words-count': Count of words in prompt to
     generate name.
   • Prompt templates for every command.
@@ -367,7 +367,7 @@ Assistant". Previous sentence was written by Ellama itself.
     `ellama-provider' will be used if not set.
   • `ellama-coding-provider': LLM coding tasks provider.
     `ellama-provider' will be used if not set.
-  • `ellama-summarization-provider' LLM summarization provider.
+  • `ellama-summarization-provider': LLM summarization provider.
     `ellama-provider' will be used if not set.
   • `ellama-show-quotes': Show quotes content in chat buffer. Disabled
     by default.
@@ -396,11 +396,11 @@ Assistant". Previous sentence was written by Ellama itself.
     diverse applications.
   • `ellama-context-posframe-enabled': Enable showing posframe with
     ellama context.
-  • `ellama-manage-context-display-action-function': Display action
-    function for `ellama-render-context'. Default value
+  • `ellama-context-manage-display-action-function': Display action
+    function for `ellama-context-manage'. Default value
     `display-buffer-same-window'.
-  • `ellama-preview-context-element-display-action-function': Display
-    action function for `ellama-preview-context-element'.
+  • `ellama-context-preview-element-display-action-function': Display
+    action function for `ellama-context-preview-element'.
   • `ellama-context-line-always-visible': Make context header or mode
     line always visible, even with empty context.
   • `ellama-community-prompts-url': The URL of the community prompts
@@ -431,6 +431,8 @@ Assistant". Previous sentence was written by Ellama itself.
     project-specific blueprints.
   • `ellama-blueprint-file-extensions': File extensions recognized as
     blueprint files.
+  • `ellama-blueprint-variable-regexp': Regular expression to match
+    blueprint variables like `{var_name}'.
   • `ellama-skills-global-path': Path to the global directory containing
     Agent Skills.
   • `ellama-skills-local-path': Project-relative path for local Agent
@@ -459,6 +461,10 @@ Assistant". Previous sentence was written by Ellama itself.
   is prepended to your prompt before transmission to the
   LLM. Additionally, Ellama supports an "ephemeral context," which is
   temporary and only available for a single request.
+
+  Some commands add context automatically as ephemeral context:
+  `ellama-ask-about', `ellama-code-review', `ellama-write', and
+  `ellama-code-add'.
 
 
 5.1 Transient Menus for Context Management

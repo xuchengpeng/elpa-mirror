@@ -1,15 +1,15 @@
  • Building package tp (from codeberg:martianh/tp.el)...
 Updating /mnt/store/melpa/working/tp/
-Checking out cce2dfe0ec2b5c070cb13a7bdf95695eeb6e3caf
+Checking out cef3fc2daefbbfc29ad02b7e1f39542b57c72fe8
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/tp/
-  to /tmp/tpUC5hCw/tp-20250206.812
+  to /tmp/tp-N4pIDE/tp-20260219.1435
     tp.el -> tp.el
-Created tp-20250206.812.tar containing:
-  tp-20250206.812/
-  tp-20250206.812/tp-pkg.el
-  tp-20250206.812/tp.el
+Created tp-20260219.1435.tar containing:
+  tp-20260219.1435/
+  tp-20260219.1435/tp-pkg.el
+  tp-20260219.1435/tp.el
  ✓ Success:
-  2026-02-16T00:07:08+0000  tp-20250206.812.entry
-  2026-02-16T00:07:08+0000  tp-20250206.812.tar
-Built tp in 3.535s, finished at 2026-02-16T00:07:09+0000
+  2026-02-23T01:48:39+0000  tp-20260219.1435.entry
+  2026-02-23T01:48:39+0000  tp-20260219.1435.tar
+Built tp in 4.005s, finished at 2026-02-23T01:48:40+0000

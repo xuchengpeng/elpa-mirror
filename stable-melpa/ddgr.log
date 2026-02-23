@@ -1,15 +1,15 @@
  • Building package ddgr (from github:necaris/ddgr.el)...
 Updating /mnt/store/melpa/working/ddgr/
-Checking out 5757df2d050b9d789459366f9b2caa39337188e9
+Checking out 55cba194c477f435221094d31798a588df4137e7
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ddgr/
-  to /tmp/ddgrLWV53V/ddgr-20260202.303
+  to /tmp/ddgr-5Y5fTe/ddgr-20260217.345
     ddgr.el -> ddgr.el
-Created ddgr-20260202.303.tar containing:
-  ddgr-20260202.303/
-  ddgr-20260202.303/ddgr-pkg.el
-  ddgr-20260202.303/ddgr.el
+Created ddgr-20260217.345.tar containing:
+  ddgr-20260217.345/
+  ddgr-20260217.345/ddgr-pkg.el
+  ddgr-20260217.345/ddgr.el
  ✓ Success:
-  2026-02-16T01:26:41+0000  ddgr-20260202.303.entry
-  2026-02-16T01:26:41+0000  ddgr-20260202.303.tar
-Built ddgr in 2.470s, finished at 2026-02-16T01:26:41+0000
+  2026-02-23T00:46:45+0000  ddgr-20260217.345.entry
+  2026-02-23T00:46:45+0000  ddgr-20260217.345.tar
+Built ddgr in 5.824s, finished at 2026-02-23T00:46:48+0000

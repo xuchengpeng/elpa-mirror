@@ -1,17 +1,15 @@
  • Building package kubel (from github:abrochard/kubel)...
 Updating /mnt/store/melpa/working/kubel/
-Checking out cee2cadc5fbe05bd35eee916f2f13b97cab85147
+Checking out e42ebaf74a3d8174935a9122b174ed1d874241dd
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/kubel/
-  to /tmp/kubelQ86Ud5/kubel-20260216.52
+  to /tmp/kubel-N9VlHv/kubel-20260222.1818
     kubel.el -> kubel.el
-Created kubel-20260216.52.tar containing:
-  kubel-20260216.52/
-  kubel-20260216.52/kubel-pkg.el
-  kubel-20260216.52/kubel.el
+Created kubel-20260222.1818.tar containing:
+  kubel-20260222.1818/
+  kubel-20260222.1818/kubel-pkg.el
+  kubel-20260222.1818/kubel.el
  ✓ Success:
-  2026-02-15T23:38:15+0000  kubel-20260215.1652.entry
-  2026-02-15T23:38:15+0000  kubel-20260215.1652.tar
-  2026-02-16T01:50:51+0000  kubel-20260216.52.entry
-  2026-02-16T01:50:51+0000  kubel-20260216.52.tar
-Built kubel in 3.177s, finished at 2026-02-16T01:50:52+0000
+  2026-02-23T01:15:45+0000  kubel-20260222.1818.entry
+  2026-02-23T01:15:45+0000  kubel-20260222.1818.tar
+Built kubel in 5.849s, finished at 2026-02-23T01:15:47+0000

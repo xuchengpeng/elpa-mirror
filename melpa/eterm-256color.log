@@ -3,7 +3,7 @@ Updating /mnt/store/melpa/working/eterm-256color/
 Checking out 05fdbd336a888a0f4068578a6d385d8bf812a4e8
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/eterm-256color/
-  to /tmp/eterm-256colorHcNJbx/eterm-256color-20210224.2241
+  to /tmp/eterm-256color-b1GSrH/eterm-256color-20210224.2241
     eterm-256color.el -> eterm-256color.el
     eterm-256color.ti -> eterm-256color.ti
 Created eterm-256color-20210224.2241.tar containing:
@@ -12,6 +12,6 @@ Created eterm-256color-20210224.2241.tar containing:
   eterm-256color-20210224.2241/eterm-256color.el
   eterm-256color-20210224.2241/eterm-256color.ti
  ✓ Success:
-  2026-02-16T01:33:51+0000  eterm-256color-20210224.2241.entry
-  2026-02-16T01:33:51+0000  eterm-256color-20210224.2241.tar
-Built eterm-256color in 2.679s, finished at 2026-02-16T01:33:52+0000
+  2026-02-23T00:55:56+0000  eterm-256color-20210224.2241.entry
+  2026-02-23T00:55:56+0000  eterm-256color-20210224.2241.tar
+Built eterm-256color in 3.304s, finished at 2026-02-23T00:55:57+0000

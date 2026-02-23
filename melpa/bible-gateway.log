@@ -1,15 +1,15 @@
  • Building package bible-gateway (from github:kristjoc/bible-gateway)...
 Updating /mnt/store/melpa/working/bible-gateway/
-Checking out ef0c29d327f43456e3b41a3c0e59eacd1ada3b5f
+Checking out b0fb2c0fcbb5f178061b5b4bbe6ea17adabe7c36
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/bible-gateway/
-  to /tmp/bible-gateway0iNsjB/bible-gateway-20260212.2155
+  to /tmp/bible-gateway-qrkZkG/bible-gateway-20260220.1327
     bible-gateway.el -> bible-gateway.el
-Created bible-gateway-20260212.2155.tar containing:
-  bible-gateway-20260212.2155/
-  bible-gateway-20260212.2155/bible-gateway-pkg.el
-  bible-gateway-20260212.2155/bible-gateway.el
+Created bible-gateway-20260220.1327.tar containing:
+  bible-gateway-20260220.1327/
+  bible-gateway-20260220.1327/bible-gateway-pkg.el
+  bible-gateway-20260220.1327/bible-gateway.el
  ✓ Success:
-  2026-02-16T01:18:57+0000  bible-gateway-20260212.2155.entry
-  2026-02-16T01:18:56+0000  bible-gateway-20260212.2155.tar
-Built bible-gateway in 3.248s, finished at 2026-02-16T01:18:57+0000
+  2026-02-23T00:36:03+0000  bible-gateway-20260220.1327.entry
+  2026-02-23T00:36:03+0000  bible-gateway-20260220.1327.tar
+Built bible-gateway in 4.548s, finished at 2026-02-23T00:36:05+0000

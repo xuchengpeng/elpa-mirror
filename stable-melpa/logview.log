@@ -1,15 +1,15 @@
  • Building package logview (from github:doublep/logview)...
 Updating /mnt/store/melpa/working/logview/
-Checking out 9c97221dd04d7398df098e9f942efff016b60bbf
+Checking out 50cac3f726abd4e7872b8fa36ede72550ce66a64
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/logview/
-  to /tmp/logviewFqJpxS/logview-20251104.1725
+  to /tmp/logview-KgH8Hw/logview-20260218.2013
     logview.el -> logview.el
-Created logview-20251104.1725.tar containing:
-  logview-20251104.1725/
-  logview-20251104.1725/logview-pkg.el
-  logview-20251104.1725/logview.el
+Created logview-20260218.2013.tar containing:
+  logview-20260218.2013/
+  logview-20260218.2013/logview-pkg.el
+  logview-20260218.2013/logview.el
  ✓ Success:
-  2026-02-16T01:52:39+0000  logview-20251104.1725.entry
-  2026-02-16T01:52:39+0000  logview-20251104.1725.tar
-Built logview in 3.028s, finished at 2026-02-16T01:52:40+0000
+  2026-02-23T01:17:50+0000  logview-20260218.2013.entry
+  2026-02-23T01:17:49+0000  logview-20260218.2013.tar
+Built logview in 3.590s, finished at 2026-02-23T01:17:51+0000

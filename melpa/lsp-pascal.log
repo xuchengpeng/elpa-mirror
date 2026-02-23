@@ -3,13 +3,13 @@ Updating /mnt/store/melpa/working/lsp-pascal/
 Checking out 9b65bf9e923b1459d1feb1d7528e5855e7bd4ef2
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/lsp-pascal/
-  to /tmp/lsp-pascal7XB9In/lsp-pascal-20200422.1610
+  to /tmp/lsp-pascal-Z4jF6f/lsp-pascal-20200422.1610
     lsp-pascal.el -> lsp-pascal.el
 Created lsp-pascal-20200422.1610.tar containing:
   lsp-pascal-20200422.1610/
   lsp-pascal-20200422.1610/lsp-pascal-pkg.el
   lsp-pascal-20200422.1610/lsp-pascal.el
  ✓ Success:
-  2026-02-16T01:53:00+0000  lsp-pascal-20200422.1610.entry
-  2026-02-16T01:53:00+0000  lsp-pascal-20200422.1610.tar
-Built lsp-pascal in 2.569s, finished at 2026-02-16T01:53:01+0000
+  2026-02-23T01:18:13+0000  lsp-pascal-20200422.1610.entry
+  2026-02-23T01:18:13+0000  lsp-pascal-20200422.1610.tar
+Built lsp-pascal in 2.837s, finished at 2026-02-23T01:18:14+0000

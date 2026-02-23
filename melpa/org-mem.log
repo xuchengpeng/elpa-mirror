@@ -1,43 +1,27 @@
  • Building package org-mem (from github:meedstrom/org-mem)...
 Updating /mnt/store/melpa/working/org-mem/
-Checking out 3f9c030396844c976bd5d80f08d0a3aa42962486
+Checking out 5e40d04461039863138d50f3fd2782cc654c3600
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/org-mem/
-  to /tmp/org-memHIKIDI/org-mem-20260211.117
-    org-mem-db1.el -> org-mem-db1.el
+  to /tmp/org-mem-AVqwSt/org-mem-20260222.1027
     org-mem-list.el -> org-mem-list.el
     org-mem-parser.el -> org-mem-parser.el
     org-mem-roamy.el -> org-mem-roamy.el
     org-mem-updater.el -> org-mem-updater.el
     org-mem.el -> org-mem.el
-  ! lisp/indexed-list.el -> indexed-list.el
-  ! lisp/indexed-org-parser.el -> indexed-org-parser.el
-  ! lisp/indexed-orgdb.el -> indexed-orgdb.el
-  ! lisp/indexed-roam.el -> indexed-roam.el
-  ! lisp/indexed-x.el -> indexed-x.el
-  ! lisp/indexed.el -> indexed.el
-  ! lisp/org-mem-x.el -> org-mem-x.el
     org-mem.texi -> org-mem.texi
 Generating org-mem.info
-Created org-mem-20260211.117.tar containing:
-  org-mem-20260211.117/
-  org-mem-20260211.117/dir
-  org-mem-20260211.117/indexed-list.el
-  org-mem-20260211.117/indexed-org-parser.el
-  org-mem-20260211.117/indexed-orgdb.el
-  org-mem-20260211.117/indexed-roam.el
-  org-mem-20260211.117/indexed-x.el
-  org-mem-20260211.117/indexed.el
-  org-mem-20260211.117/org-mem-db1.el
-  org-mem-20260211.117/org-mem-list.el
-  org-mem-20260211.117/org-mem-parser.el
-  org-mem-20260211.117/org-mem-pkg.el
-  org-mem-20260211.117/org-mem-roamy.el
-  org-mem-20260211.117/org-mem-updater.el
-  org-mem-20260211.117/org-mem-x.el
-  org-mem-20260211.117/org-mem.el
-  org-mem-20260211.117/org-mem.info
+Created org-mem-20260222.1027.tar containing:
+  org-mem-20260222.1027/
+  org-mem-20260222.1027/dir
+  org-mem-20260222.1027/org-mem-list.el
+  org-mem-20260222.1027/org-mem-parser.el
+  org-mem-20260222.1027/org-mem-pkg.el
+  org-mem-20260222.1027/org-mem-roamy.el
+  org-mem-20260222.1027/org-mem-updater.el
+  org-mem-20260222.1027/org-mem.el
+  org-mem-20260222.1027/org-mem.info
  ✓ Success:
-  2026-02-16T02:01:47+0000  org-mem-20260211.117.entry
-  2026-02-16T02:01:47+0000  org-mem-20260211.117.tar
-Built org-mem in 4.877s, finished at 2026-02-16T02:01:48+0000
+  2026-02-23T01:28:40+0000  org-mem-20260222.1027.entry
+  2026-02-23T01:28:40+0000  org-mem-20260222.1027.tar
+Built org-mem in 4.697s, finished at 2026-02-23T01:28:41+0000

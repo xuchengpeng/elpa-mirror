@@ -3,13 +3,13 @@ Updating /mnt/store/melpa/working/mocha/
 Checking out 6a72fa20e7be6e55c09b1bc9887ee09c5df28e45
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/mocha/
-  to /tmp/mocharlZxiS/mocha-20200729.1130
+  to /tmp/mocha-J7L7Q8/mocha-20200729.1130
     mocha.el -> mocha.el
 Created mocha-20200729.1130.tar containing:
   mocha-20200729.1130/
   mocha-20200729.1130/mocha-pkg.el
   mocha-20200729.1130/mocha.el
  ✓ Success:
-  2026-02-16T01:55:51+0000  mocha-20200729.1130.entry
-  2026-02-16T01:55:51+0000  mocha-20200729.1130.tar
-Built mocha in 2.731s, finished at 2026-02-16T01:55:52+0000
+  2026-02-23T01:21:38+0000  mocha-20200729.1130.entry
+  2026-02-23T01:21:38+0000  mocha-20200729.1130.tar
+Built mocha in 3.039s, finished at 2026-02-23T01:21:39+0000

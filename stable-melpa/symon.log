@@ -1,15 +1,15 @@
  • Building package symon (from github:zk-phi/symon)...
 Updating /mnt/store/melpa/working/symon/
-Checking out 76461679dfe13a5dccd3c8735fb6f58b26b46733
+Checking out d663045c290f80b77136d6a49f2be0226f01b565
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/symon/
-  to /tmp/symonl3LOtZ/symon-20170224.833
+  to /tmp/symon-nFmOGr/symon-20260218.1909
     symon.el -> symon.el
-Created symon-20170224.833.tar containing:
-  symon-20170224.833/
-  symon-20170224.833/symon-pkg.el
-  symon-20170224.833/symon.el
+Created symon-20260218.1909.tar containing:
+  symon-20260218.1909/
+  symon-20260218.1909/symon-pkg.el
+  symon-20260218.1909/symon.el
  ✓ Success:
-  2026-02-16T00:04:48+0000  symon-20170224.833.entry
-  2026-02-16T00:04:48+0000  symon-20170224.833.tar
-Built symon in 2.631s, finished at 2026-02-16T00:04:49+0000
+  2026-02-23T01:46:15+0000  symon-20260218.1909.entry
+  2026-02-23T01:46:15+0000  symon-20260218.1909.tar
+Built symon in 3.176s, finished at 2026-02-23T01:46:16+0000

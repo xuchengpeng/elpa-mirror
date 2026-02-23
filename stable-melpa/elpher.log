@@ -1,20 +1,20 @@
  • Building package elpher (from https://thelambdalab.xyz/git/elpher.git)...
 Updating /mnt/store/melpa/working/elpher/
-Checking out 11d59512609db1220c1137014d97a4373e36155a
+Checking out d799c467a1f35934f96d33960d638ddf796f01ba
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/elpher/
-  to /tmp/elpherAuf7WU/elpher-20260121.2028
+  to /tmp/elpher-K9oIW4/elpher-20260221.920
     elpher-pkg.el -> elpher-pkg.el
     elpher.el -> elpher.el
     elpher.texi -> elpher.texi
 Generating elpher.info
-Created elpher-20260121.2028.tar containing:
-  elpher-20260121.2028/
-  elpher-20260121.2028/dir
-  elpher-20260121.2028/elpher-pkg.el
-  elpher-20260121.2028/elpher.el
-  elpher-20260121.2028/elpher.info
+Created elpher-20260221.920.tar containing:
+  elpher-20260221.920/
+  elpher-20260221.920/dir
+  elpher-20260221.920/elpher-pkg.el
+  elpher-20260221.920/elpher.el
+  elpher-20260221.920/elpher.info
  ✓ Success:
-  2026-02-16T01:31:58+0000  elpher-20260121.2028.entry
-  2026-02-16T01:31:58+0000  elpher-20260121.2028.tar
-Built elpher in 17.432s, finished at 2026-02-16T01:32:00+0000
+  2026-02-23T00:53:44+0000  elpher-20260221.920.entry
+  2026-02-23T00:53:44+0000  elpher-20260221.920.tar
+Built elpher in 18.274s, finished at 2026-02-23T00:53:45+0000

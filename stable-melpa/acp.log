@@ -1,21 +1,19 @@
  • Building package acp (from github:xenodium/acp.el)...
 Updating /mnt/store/melpa/working/acp/
-Checking out b9bc89948bb1242e613b8ed5d271c88c00e2ef4a
+Checking out 49de56f0de328ad9022e2784f52acd73170f7e75
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/acp/
-  to /tmp/acpjkNBE2/acp-20260215.2309
+  to /tmp/acp-sBiez6/acp-20260221.2307
     acp-fakes.el -> acp-fakes.el
     acp-traffic.el -> acp-traffic.el
     acp.el -> acp.el
-Created acp-20260215.2309.tar containing:
-  acp-20260215.2309/
-  acp-20260215.2309/acp-fakes.el
-  acp-20260215.2309/acp-pkg.el
-  acp-20260215.2309/acp-traffic.el
-  acp-20260215.2309/acp.el
+Created acp-20260221.2307.tar containing:
+  acp-20260221.2307/
+  acp-20260221.2307/acp-fakes.el
+  acp-20260221.2307/acp-pkg.el
+  acp-20260221.2307/acp-traffic.el
+  acp-20260221.2307/acp.el
  ✓ Success:
-  2026-02-15T23:02:57+0000  acp-20260213.1849.entry
-  2026-02-15T23:02:57+0000  acp-20260213.1849.tar
-  2026-02-16T01:15:50+0000  acp-20260215.2309.entry
-  2026-02-16T01:15:50+0000  acp-20260215.2309.tar
-Built acp in 3.042s, finished at 2026-02-16T01:15:50+0000
+  2026-02-23T00:31:44+0000  acp-20260221.2307.entry
+  2026-02-23T00:31:44+0000  acp-20260221.2307.tar
+Built acp in 3.948s, finished at 2026-02-23T00:31:45+0000

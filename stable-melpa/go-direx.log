@@ -3,13 +3,13 @@ Updating /mnt/store/melpa/working/go-direx/
 Checking out aecb9fef4d56d04d230d37c75c260c8392b5ad9f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/go-direx/
-  to /tmp/go-direxGMDily/go-direx-20150316.143
+  to /tmp/go-direx-LlUZfz/go-direx-20150316.143
     go-direx.el -> go-direx.el
 Created go-direx-20150316.143.tar containing:
   go-direx-20150316.143/
   go-direx-20150316.143/go-direx-pkg.el
   go-direx-20150316.143/go-direx.el
  ✓ Success:
-  2026-02-16T01:41:07+0000  go-direx-20150316.143.entry
-  2026-02-16T01:41:07+0000  go-direx-20150316.143.tar
-Built go-direx in 2.693s, finished at 2026-02-16T01:41:08+0000
+  2026-02-23T01:04:46+0000  go-direx-20150316.143.entry
+  2026-02-23T01:04:46+0000  go-direx-20150316.143.tar
+Built go-direx in 2.356s, finished at 2026-02-23T01:04:47+0000
