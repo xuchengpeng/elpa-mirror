@@ -1,23 +1,23 @@
  • Building package fedi (from codeberg:martianh/fedi.el)...
 Updating /mnt/store/melpa/working/fedi/
-Checking out e4923e35aabfa14eb5fefc5b3685932d8fe1068e
+Checking out 74fab520f1d008f5a389a673616a617c03c74600
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/fedi/
-  to /tmp/fedi-q08mxo/fedi-20260213.1527
+  to /tmp/fedi-NqSSZ6/fedi-20260223.1326
     fedi-auth.el -> fedi-auth.el
     fedi-http.el -> fedi-http.el
     fedi-iso.el -> fedi-iso.el
     fedi-post.el -> fedi-post.el
     fedi.el -> fedi.el
-Created fedi-20260213.1527.tar containing:
-  fedi-20260213.1527/
-  fedi-20260213.1527/fedi-auth.el
-  fedi-20260213.1527/fedi-http.el
-  fedi-20260213.1527/fedi-iso.el
-  fedi-20260213.1527/fedi-pkg.el
-  fedi-20260213.1527/fedi-post.el
-  fedi-20260213.1527/fedi.el
+Created fedi-20260223.1326.tar containing:
+  fedi-20260223.1326/
+  fedi-20260223.1326/fedi-auth.el
+  fedi-20260223.1326/fedi-http.el
+  fedi-20260223.1326/fedi-iso.el
+  fedi-20260223.1326/fedi-pkg.el
+  fedi-20260223.1326/fedi-post.el
+  fedi-20260223.1326/fedi.el
  ✓ Success:
-  2026-02-23T00:58:32+0000  fedi-20260213.1527.entry
-  2026-02-23T00:58:31+0000  fedi-20260213.1527.tar
-Built fedi in 7.456s, finished at 2026-02-23T00:58:33+0000
+  2026-03-02T00:27:03+0000  fedi-20260223.1326.entry
+  2026-03-02T00:27:03+0000  fedi-20260223.1326.tar
+Built fedi in 4.300s, finished at 2026-03-02T00:27:04+0000

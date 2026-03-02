@@ -1,15 +1,15 @@
  • Building package epkg-marginalia (from github:emacscollective/epkg-marginalia)...
 Updating /mnt/store/melpa/working/epkg-marginalia/
-Checking out 1fda65cebc0d53319f2972ae52d182bdf5470702
+Checking out d6ccf20529c39652968d1b017fae78404ac191fb
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/epkg-marginalia/
-  to /tmp/epkg-marginalia-jrlEyM/epkg-marginalia-20260201.1511
+  to /tmp/epkg-marginalia-goQmVr/epkg-marginalia-20260301.1306
     epkg-marginalia.el -> epkg-marginalia.el
-Created epkg-marginalia-20260201.1511.tar containing:
-  epkg-marginalia-20260201.1511/
-  epkg-marginalia-20260201.1511/epkg-marginalia-pkg.el
-  epkg-marginalia-20260201.1511/epkg-marginalia.el
+Created epkg-marginalia-20260301.1306.tar containing:
+  epkg-marginalia-20260301.1306/
+  epkg-marginalia-20260301.1306/epkg-marginalia-pkg.el
+  epkg-marginalia-20260301.1306/epkg-marginalia.el
  ✓ Success:
-  2026-02-23T00:54:33+0000  epkg-marginalia-20260201.1511.entry
-  2026-02-23T00:54:33+0000  epkg-marginalia-20260201.1511.tar
-Built epkg-marginalia in 3.458s, finished at 2026-02-23T00:54:34+0000
+  2026-03-02T00:23:57+0000  epkg-marginalia-20260301.1306.entry
+  2026-03-02T00:23:57+0000  epkg-marginalia-20260301.1306.tar
+Built epkg-marginalia in 3.071s, finished at 2026-03-02T00:23:58+0000

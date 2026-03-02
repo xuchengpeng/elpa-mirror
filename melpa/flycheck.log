@@ -1,17 +1,17 @@
  • Building package flycheck (from github:flycheck/flycheck)...
 Updating /mnt/store/melpa/working/flycheck/
-Checking out ebddfd89b1eea91b8590f542908672569942fb82
+Checking out b714e2770f6a2d1f441557f7c14182ae4e3defef
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/flycheck/
-  to /tmp/flycheck-ZuvHGr/flycheck-20260219.1225
+  to /tmp/flycheck-v2QbUG/flycheck-20260224.1923
     flycheck-buttercup.el -> flycheck-buttercup.el
     flycheck.el -> flycheck.el
-Created flycheck-20260219.1225.tar containing:
-  flycheck-20260219.1225/
-  flycheck-20260219.1225/flycheck-buttercup.el
-  flycheck-20260219.1225/flycheck-pkg.el
-  flycheck-20260219.1225/flycheck.el
+Created flycheck-20260224.1923.tar containing:
+  flycheck-20260224.1923/
+  flycheck-20260224.1923/flycheck-buttercup.el
+  flycheck-20260224.1923/flycheck-pkg.el
+  flycheck-20260224.1923/flycheck.el
  ✓ Success:
-  2026-02-23T00:59:38+0000  flycheck-20260219.1225.entry
-  2026-02-23T00:59:38+0000  flycheck-20260219.1225.tar
-Built flycheck in 5.574s, finished at 2026-02-23T00:59:40+0000
+  2026-03-02T00:28:07+0000  flycheck-20260224.1923.entry
+  2026-03-02T00:28:07+0000  flycheck-20260224.1923.tar
+Built flycheck in 7.784s, finished at 2026-03-02T00:28:09+0000

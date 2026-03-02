@@ -1,9 +1,9 @@
  • Building package epkg (from github:emacscollective/epkg)...
 Updating /mnt/store/melpa/working/epkg/
-Checking out f0ae7cd28d036850fe6cb18b47742b8e892e5c09
+Checking out fc3cba38a416ec4e26a7d8eb7bc5ee910e67aa73
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/epkg/
-  to /tmp/epkg-He5mTq/epkg-20260217.1917
+  to /tmp/epkg-7iyHLL/epkg-20260301.1302
   ! lisp/epkg-desc.el -> epkg-desc.el
   ! lisp/epkg-elpa.el -> epkg-elpa.el
   ! lisp/epkg-list.el -> epkg-list.el
@@ -14,20 +14,20 @@ Copying files (->) and directories (=>)
   ! docs/epkg.texi -> epkg.texi
     .dir-locals.el -> .dir-locals.el
 Generating epkg.info
-Created epkg-20260217.1917.tar containing:
-  epkg-20260217.1917/
-  epkg-20260217.1917/.dir-locals.el
-  epkg-20260217.1917/dir
-  epkg-20260217.1917/epkg-desc.el
-  epkg-20260217.1917/epkg-elpa.el
-  epkg-20260217.1917/epkg-list.el
-  epkg-20260217.1917/epkg-org.el
-  epkg-20260217.1917/epkg-pkg.el
-  epkg-20260217.1917/epkg-schemata.el
-  epkg-20260217.1917/epkg-utils.el
-  epkg-20260217.1917/epkg.el
-  epkg-20260217.1917/epkg.info
+Created epkg-20260301.1302.tar containing:
+  epkg-20260301.1302/
+  epkg-20260301.1302/.dir-locals.el
+  epkg-20260301.1302/dir
+  epkg-20260301.1302/epkg-desc.el
+  epkg-20260301.1302/epkg-elpa.el
+  epkg-20260301.1302/epkg-list.el
+  epkg-20260301.1302/epkg-org.el
+  epkg-20260301.1302/epkg-pkg.el
+  epkg-20260301.1302/epkg-schemata.el
+  epkg-20260301.1302/epkg-utils.el
+  epkg-20260301.1302/epkg.el
+  epkg-20260301.1302/epkg.info
  ✓ Success:
-  2026-02-23T00:54:35+0000  epkg-20260217.1917.entry
-  2026-02-23T00:54:35+0000  epkg-20260217.1917.tar
-Built epkg in 5.668s, finished at 2026-02-23T00:54:36+0000
+  2026-03-02T00:23:59+0000  epkg-20260301.1302.entry
+  2026-03-02T00:23:59+0000  epkg-20260301.1302.tar
+Built epkg in 4.959s, finished at 2026-03-02T00:24:00+0000

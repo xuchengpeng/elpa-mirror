@@ -3,13 +3,13 @@ Updating /mnt/store/melpa/working/whisper/
 Checking out e956feabced9c9081779dd89ff366e25e4d64fd9
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/whisper/
-  to /tmp/whisper-3CcIj7/whisper-20251219.342
+  to /tmp/whisper-8ImDSp/whisper-20251219.342
     whisper.el -> whisper.el
 Created whisper-20251219.342.tar containing:
   whisper-20251219.342/
   whisper-20251219.342/whisper-pkg.el
   whisper-20251219.342/whisper.el
  ✓ Success:
-  2026-02-23T01:53:09+0000  whisper-20251219.342.entry
-  2026-02-23T01:53:09+0000  whisper-20251219.342.tar
-Built whisper in 2.891s, finished at 2026-02-23T01:53:10+0000
+  2026-03-02T01:17:43+0000  whisper-20251219.342.entry
+  2026-03-02T01:17:43+0000  whisper-20251219.342.tar
+Built whisper in 2.690s, finished at 2026-03-02T01:17:44+0000

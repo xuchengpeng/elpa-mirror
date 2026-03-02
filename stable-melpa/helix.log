@@ -1,21 +1,21 @@
  • Building package helix (from github:mgmarlow/helix-mode)...
 Updating /mnt/store/melpa/working/helix/
-Checking out 95720173db4b0d4a4fab17aa8413700484c92a77
+Checking out f97bda708771202ae9860800349f8f0114c81869
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/helix/
-  to /tmp/helix-euoxoq/helix-20251125.2011
+  to /tmp/helix-J5CSH3/helix-20260227.2334
     helix-core.el -> helix-core.el
     helix-jj.el -> helix-jj.el
     helix-multiple-cursors.el -> helix-multiple-cursors.el
     helix.el -> helix.el
-Created helix-20251125.2011.tar containing:
-  helix-20251125.2011/
-  helix-20251125.2011/helix-core.el
-  helix-20251125.2011/helix-jj.el
-  helix-20251125.2011/helix-multiple-cursors.el
-  helix-20251125.2011/helix-pkg.el
-  helix-20251125.2011/helix.el
+Created helix-20260227.2334.tar containing:
+  helix-20260227.2334/
+  helix-20260227.2334/helix-core.el
+  helix-20260227.2334/helix-jj.el
+  helix-20260227.2334/helix-multiple-cursors.el
+  helix-20260227.2334/helix-pkg.el
+  helix-20260227.2334/helix.el
  ✓ Success:
-  2026-02-23T01:06:47+0000  helix-20251125.2011.entry
-  2026-02-23T01:06:47+0000  helix-20251125.2011.tar
-Built helix in 2.900s, finished at 2026-02-23T01:06:48+0000
+  2026-03-02T00:35:21+0000  helix-20260227.2334.entry
+  2026-03-02T00:35:21+0000  helix-20260227.2334.tar
+Built helix in 2.952s, finished at 2026-03-02T00:35:22+0000

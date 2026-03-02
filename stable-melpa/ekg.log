@@ -1,9 +1,9 @@
  • Building package ekg (from github:ahyatt/ekg)...
 Updating /mnt/store/melpa/working/ekg/
-Checking out 9358c6c71fd8d585c1fabd3612090f83f1526228
+Checking out 532e77c95068dfed6a0f773b7b7f0a78e81e0f45
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ekg/
-  to /tmp/ekg-uFibj2/ekg-20260222.2157
+  to /tmp/ekg-WZ7oC9/ekg-20260301.1917
     ekg-agent.el -> ekg-agent.el
     ekg-auto-save.el -> ekg-auto-save.el
     ekg-denote.el -> ekg-denote.el
@@ -18,23 +18,23 @@ Copying files (->) and directories (=>)
   ! doc/ekg.texi -> ekg.texi
 Generating doclicense.info
 Generating ekg.info
-Created ekg-20260222.2157.tar containing:
-  ekg-20260222.2157/
-  ekg-20260222.2157/dir
-  ekg-20260222.2157/doclicense.info
-  ekg-20260222.2157/ekg-agent.el
-  ekg-20260222.2157/ekg-auto-save.el
-  ekg-20260222.2157/ekg-denote.el
-  ekg-20260222.2157/ekg-embedding.el
-  ekg-20260222.2157/ekg-llm.el
-  ekg-20260222.2157/ekg-logseq.el
-  ekg-20260222.2157/ekg-org-roam.el
-  ekg-20260222.2157/ekg-org.el
-  ekg-20260222.2157/ekg-pkg.el
-  ekg-20260222.2157/ekg-test-utils.el
-  ekg-20260222.2157/ekg.el
-  ekg-20260222.2157/ekg.info
+Created ekg-20260301.1917.tar containing:
+  ekg-20260301.1917/
+  ekg-20260301.1917/dir
+  ekg-20260301.1917/doclicense.info
+  ekg-20260301.1917/ekg-agent.el
+  ekg-20260301.1917/ekg-auto-save.el
+  ekg-20260301.1917/ekg-denote.el
+  ekg-20260301.1917/ekg-embedding.el
+  ekg-20260301.1917/ekg-llm.el
+  ekg-20260301.1917/ekg-logseq.el
+  ekg-20260301.1917/ekg-org-roam.el
+  ekg-20260301.1917/ekg-org.el
+  ekg-20260301.1917/ekg-pkg.el
+  ekg-20260301.1917/ekg-test-utils.el
+  ekg-20260301.1917/ekg.el
+  ekg-20260301.1917/ekg.info
  ✓ Success:
-  2026-02-23T00:51:50+0000  ekg-20260222.2157.entry
-  2026-02-23T00:51:50+0000  ekg-20260222.2157.tar
-Built ekg in 8.834s, finished at 2026-02-23T00:51:51+0000
+  2026-03-02T00:21:42+0000  ekg-20260301.1917.entry
+  2026-03-02T00:21:42+0000  ekg-20260301.1917.tar
+Built ekg in 7.620s, finished at 2026-03-02T00:21:43+0000

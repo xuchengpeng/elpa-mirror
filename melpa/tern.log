@@ -3,13 +3,13 @@ Updating /mnt/store/melpa/working/tern/
 Checking out 0d19800db70a6348c627a69f444b91d21ad89629
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/tern/
-  to /tmp/tern-FG9KJj/tern-20191227.950
+  to /tmp/tern-MEyLik/tern-20191227.950
   ! emacs/tern.el -> tern.el
 Created tern-20191227.950.tar containing:
   tern-20191227.950/
   tern-20191227.950/tern-pkg.el
   tern-20191227.950/tern.el
  ✓ Success:
-  2026-02-23T01:47:18+0000  tern-20191227.950.entry
-  2026-02-23T01:47:18+0000  tern-20191227.950.tar
-Built tern in 3.501s, finished at 2026-02-23T01:47:19+0000
+  2026-03-02T01:12:25+0000  tern-20191227.950.entry
+  2026-03-02T01:12:25+0000  tern-20191227.950.tar
+Built tern in 3.055s, finished at 2026-03-02T01:12:26+0000

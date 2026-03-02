@@ -1,9 +1,9 @@
  • Building package gnosis (from https://git.thanosapollo.org/gnosis)...
 Updating /mnt/store/melpa/working/gnosis/
-Checking out 729d1ebf8debc1961581e548683741b5590fe6be
+Checking out efac49bb1c55779d41d1f0aa22a0fb18486b6722
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/gnosis/
-  to /tmp/gnosis-UacCQM/gnosis-20260202.352
+  to /tmp/gnosis-Cht5J7/gnosis-20260224.1202
     gnosis-algorithm.el -> gnosis-algorithm.el
     gnosis-dashboard.el -> gnosis-dashboard.el
     gnosis-monkeytype.el -> gnosis-monkeytype.el
@@ -12,17 +12,17 @@ Copying files (->) and directories (=>)
   ! doc/gnosis.info -> gnosis.info
   ! doc/gnosis.texi -> gnosis.texi
 Generating gnosis.info
-Created gnosis-20260202.352.tar containing:
-  gnosis-20260202.352/
-  gnosis-20260202.352/dir
-  gnosis-20260202.352/gnosis-algorithm.el
-  gnosis-20260202.352/gnosis-dashboard.el
-  gnosis-20260202.352/gnosis-monkeytype.el
-  gnosis-20260202.352/gnosis-pkg.el
-  gnosis-20260202.352/gnosis-utils.el
-  gnosis-20260202.352/gnosis.el
-  gnosis-20260202.352/gnosis.info
+Created gnosis-20260224.1202.tar containing:
+  gnosis-20260224.1202/
+  gnosis-20260224.1202/dir
+  gnosis-20260224.1202/gnosis-algorithm.el
+  gnosis-20260224.1202/gnosis-dashboard.el
+  gnosis-20260224.1202/gnosis-monkeytype.el
+  gnosis-20260224.1202/gnosis-pkg.el
+  gnosis-20260224.1202/gnosis-utils.el
+  gnosis-20260224.1202/gnosis.el
+  gnosis-20260224.1202/gnosis.info
  ✓ Success:
-  2026-02-23T01:04:36+0000  gnosis-20260202.352.entry
-  2026-02-23T01:04:36+0000  gnosis-20260202.352.tar
-Built gnosis in 5.441s, finished at 2026-02-23T01:04:37+0000
+  2026-03-02T00:32:56+0000  gnosis-20260224.1202.entry
+  2026-03-02T00:32:56+0000  gnosis-20260224.1202.tar
+Built gnosis in 6.857s, finished at 2026-03-02T00:32:57+0000
