@@ -1,19 +1,19 @@
  • Building package truename-cache (from github:meedstrom/truename-cache)...
 Updating /mnt/store/melpa/working/truename-cache/
-Checking out 356a11ff9fc0c37413779e3f7388ba1410225ea9
+Checking out 6540dd050c0db1e73e03dfa6fe253dd5fb03b579
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/truename-cache/
-  to /tmp/truename-cache-eocuUz/truename-cache-20260228.1839
+  to /tmp/truename-cache-9W2Ax6/truename-cache-20260305.246
     truename-cache.el -> truename-cache.el
     truename-cache.texi -> truename-cache.texi
 Generating truename-cache.info
-Created truename-cache-20260228.1839.tar containing:
-  truename-cache-20260228.1839/
-  truename-cache-20260228.1839/dir
-  truename-cache-20260228.1839/truename-cache-pkg.el
-  truename-cache-20260228.1839/truename-cache.el
-  truename-cache-20260228.1839/truename-cache.info
+Created truename-cache-20260305.246.tar containing:
+  truename-cache-20260305.246/
+  truename-cache-20260305.246/dir
+  truename-cache-20260305.246/truename-cache-pkg.el
+  truename-cache-20260305.246/truename-cache.el
+  truename-cache-20260305.246/truename-cache.info
  ✓ Success:
-  2026-03-02T01:14:38+0000  truename-cache-20260228.1839.entry
-  2026-03-02T01:14:38+0000  truename-cache-20260228.1839.tar
-Built truename-cache in 4.829s, finished at 2026-03-02T01:14:39+0000
+  2026-03-08T23:18:00+0000  truename-cache-20260305.246.entry
+  2026-03-08T23:18:00+0000  truename-cache-20260305.246.tar
+Built truename-cache in 6.522s, finished at 2026-03-08T23:18:02+0000

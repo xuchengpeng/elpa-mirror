@@ -1,17 +1,17 @@
  • Building package posframe (from github:tumashu/posframe)...
 Updating /mnt/store/melpa/working/posframe/
-Checking out 41cc4def6190f100ba50dca51457c38f4f90dfb1
+Checking out 3a80911b2f45ce6926196930bb7d5cc662c7b3c8
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/posframe/
-  to /tmp/posframe-6I9xKG/posframe-20260225.112
+  to /tmp/posframe-Emc84A/posframe-20260302.251
     posframe-benchmark.el -> posframe-benchmark.el
     posframe.el -> posframe.el
-Created posframe-20260225.112.tar containing:
-  posframe-20260225.112/
-  posframe-20260225.112/posframe-benchmark.el
-  posframe-20260225.112/posframe-pkg.el
-  posframe-20260225.112/posframe.el
+Created posframe-20260302.251.tar containing:
+  posframe-20260302.251/
+  posframe-20260302.251/posframe-benchmark.el
+  posframe-20260302.251/posframe-pkg.el
+  posframe-20260302.251/posframe.el
  ✓ Success:
-  2026-03-02T01:00:44+0000  posframe-20260225.112.entry
-  2026-03-02T01:00:44+0000  posframe-20260225.112.tar
-Built posframe in 3.431s, finished at 2026-03-02T01:00:45+0000
+  2026-03-08T22:57:21+0000  posframe-20260302.251.entry
+  2026-03-08T22:57:21+0000  posframe-20260302.251.tar
+Built posframe in 4.492s, finished at 2026-03-08T22:57:22+0000

@@ -3,7 +3,7 @@ Updating /mnt/store/melpa/working/poke-line/
 Checking out 8d484dbaa1215d902fbd1e3c9163b39a43ec532a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/poke-line/
-  to /tmp/poke-line-YhxWr1/poke-line-20201023.247
+  to /tmp/poke-line-yc8ipF/poke-line-20201023.247
     poke-line-types.el -> poke-line-types.el
     poke-line.el -> poke-line.el
     img => img
@@ -925,6 +925,6 @@ Created poke-line-20201023.247.tar containing:
   poke-line-20201023.247/poke-line-types.el
   poke-line-20201023.247/poke-line.el
  ✓ Success:
-  2026-03-02T01:00:18+0000  poke-line-20201023.247.entry
-  2026-03-02T01:00:17+0000  poke-line-20201023.247.tar
-Built poke-line in 5.592s, finished at 2026-03-02T01:00:19+0000
+  2026-03-08T22:56:42+0000  poke-line-20201023.247.entry
+  2026-03-08T22:56:41+0000  poke-line-20201023.247.tar
+Built poke-line in 7.132s, finished at 2026-03-08T22:56:43+0000

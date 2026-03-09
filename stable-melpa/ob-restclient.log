@@ -3,13 +3,13 @@ Updating /mnt/store/melpa/working/ob-restclient/
 Checking out 94dd9cd98ff50717135ed5089afb378616faf11a
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ob-restclient/
-  to /tmp/ob-restclient-1yO9lM/ob-restclient-20250806.2153
+  to /tmp/ob-restclient-64B5pZ/ob-restclient-20250806.2153
     ob-restclient.el -> ob-restclient.el
 Created ob-restclient-20250806.2153.tar containing:
   ob-restclient-20250806.2153/
   ob-restclient-20250806.2153/ob-restclient-pkg.el
   ob-restclient-20250806.2153/ob-restclient.el
  ✓ Success:
-  2026-03-02T00:52:48+0000  ob-restclient-20250806.2153.entry
-  2026-03-02T00:52:48+0000  ob-restclient-20250806.2153.tar
-Built ob-restclient in 2.874s, finished at 2026-03-02T00:52:49+0000
+  2026-03-08T22:44:54+0000  ob-restclient-20250806.2153.entry
+  2026-03-08T22:44:54+0000  ob-restclient-20250806.2153.tar
+Built ob-restclient in 4.607s, finished at 2026-03-08T22:44:56+0000

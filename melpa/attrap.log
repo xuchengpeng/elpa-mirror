@@ -1,15 +1,15 @@
  • Building package attrap (from github:jyp/attrap)...
 Updating /mnt/store/melpa/working/attrap/
-Checking out 2cb8d146635a4e1fb92a027551253629c6f55a1b
+Checking out ad1d9443fcd93e32f2aefadc5af2646701664581
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/attrap/
-  to /tmp/attrap-rJ5xLp/attrap-20251221.914
+  to /tmp/attrap-7uTFjf/attrap-20260304.1504
     attrap.el -> attrap.el
-Created attrap-20251221.914.tar containing:
-  attrap-20251221.914/
-  attrap-20251221.914/attrap-pkg.el
-  attrap-20251221.914/attrap.el
+Created attrap-20260304.1504.tar containing:
+  attrap-20260304.1504/
+  attrap-20260304.1504/attrap-pkg.el
+  attrap-20260304.1504/attrap.el
  ✓ Success:
-  2026-03-02T00:07:48+0000  attrap-20251221.914.entry
-  2026-03-02T00:07:48+0000  attrap-20251221.914.tar
-Built attrap in 3.228s, finished at 2026-03-02T00:07:49+0000
+  2026-03-09T01:11:02+0000  attrap-20260304.1504.entry
+  2026-03-09T01:11:02+0000  attrap-20260304.1504.tar
+Built attrap in 4.469s, finished at 2026-03-09T01:11:03+0000

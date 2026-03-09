@@ -1,52 +1,49 @@
-                               ━━━━━━━━━
-                                ORG-MEM
-                               ━━━━━━━━━
+1 Org-mem
+═════════
 
+  A cache of metadata about the contents of all your Org files –
+  headings, links, timestamps and so on.
 
-A cache of metadata about the contents of all your Org files – headings,
-links, timestamps and so on.
+  Builds quickly, so that there is no need to persist data across
+  sessions.
 
-Builds quickly, so that there is no need to persist data across
-sessions.
+  My `M-x org-mem-reset':
 
-My `M-x org-mem-reset':
+  ┌────
+  │ Org-mem saw 2418 files, 8388 headings, 8624 links (3418 IDs, 4874 ID-links) in 1.95s
+  └────
 
-┌────
-│ Org-mem saw 2418 files, 8388 headings, 8624 links (3418 IDs, 4874 ID-links) in 1.95s
-└────
+  This library came from asking myself "what could I move out of
+  [org-node], that'd make sense in core?"  Maybe a proposal for
+  upstream, or at least a proof-of-concept.
 
-This library came from asking myself "what could I move out of
-[org-node], that'd make sense in core?"  Maybe a proposal for upstream,
-or at least a proof-of-concept.
+  Many notetaking packages now reinvent the wheel, when it comes to
+  keeping track of some or many files and what may be in them.
 
-Many notetaking packages now reinvent the wheel, when it comes to
-keeping track of some or many files and what may be in them.
+  Example: org-roam's DB, org-node's hash tables, and other packages
+  just re-run grep all the time, which still leads to writing elisp to
+  cross-reference the results.
 
-Example: org-roam's DB, org-node's hash tables, and other packages just
-re-run grep all the time, which still leads to writing elisp to
-cross-reference the results.
+  And they must do this, because Org ships no tool to query across lots
+  of files.
 
-And they must do this, because Org ships no tool to query across lots of
-files.
-
-Well—Org does ship the agenda, which has tools.  But you know what
-happens if you put 2,000 files into `org-agenda-files'!  It needs to
-open each file in real-time to check anything in them, so everyday
-commands grind to a halt, or even crash: many OSes have a cap of 1,024
-simultaneous file handles.
+  Well—Org does ship the agenda, which has tools.  But you know what
+  happens if you put 2,000 files into `org-agenda-files'!  It needs to
+  open each file in real-time to check anything in them, so everyday
+  commands grind to a halt, or even crash: many OSes have a cap of 1,024
+  simultaneous file handles.
 
 
 [org-node] <https://github.com/meedstrom/org-node>
 
 
-1 Quick start
+2 Quick start
 ═════════════
 
   Example setup:
 
   ┌────
-  │ (setq org-mem-watch-dirs '("~/org/" "/mnt/stuff/notes/"))
-  │ (setq org-mem-do-sync-with-org-id t)
+  │ (setq org-mem-watch-dirs '("~/org" "/mnt/stuff/notes"))
   │ (org-mem-updater-mode)
   └────
 
@@ -55,15 +52,18 @@ simultaneous file handles.
   return a lot of results.  See examples of how to use them at section
   [Elisp API]!
 
-  The above example checks all files in `org-mem-watch-dirs'
-  recursively, as well as files mentioned in `org-id-locations' and
-  `org-id-extra-files'.
+  See an example in detail by typing `M-x org-mem-list-example'.
+
+  You do not even need to configure `org-mem-watch-dirs', if Org is
+  loaded.  Org-mem will guess where to look for Org files anyway!  That
+  is controlled by the user option `org-mem-do-look-everywhere' (default
+  t).
 
 
 [Elisp API] <https://github.com/meedstrom/org-mem#elisp-api>
 
 
-2 Two APIs
+3 Two APIs
 ══════════
 
   You get two different APIs to pick from, to access the same data.
@@ -79,7 +79,7 @@ simultaneous file handles.
   hash tables.  Now you get both, without having to install either.
 
 
-3 Data only
+4 Data only
 ═══════════
 
   A design choice: Org-mem *only* delivers data.  It could easily ship
@@ -101,7 +101,7 @@ simultaneous file handles.
   do with user interaction.
 
 
-4 No Org at init
+5 No Org at init
 ════════════════
 
   A design choice: Org-mem does not use Org code to analyze your files,
@@ -143,7 +143,7 @@ simultaneous file handles.
 <https://github.com/meedstrom/org-mem/blob/main/org-mem-parser.el>
 
 
-5 A SQLite database, for free
+6 A SQLite database, for free
 ═════════════════════════════
 
   Included is a drop-in for [org-roam's] `(org-roam-db)', called
@@ -158,7 +158,7 @@ simultaneous file handles.
 [org-sql]
 <https://github.com/ndwarshuis/org-sql/blob/80bea9996de7fa8bc7ff891a91cfaff91111dcd8/org-sql.el#L141>
 
-5.1 Without org-roam installed
+6.1 Without org-roam installed
 ──────────────────────────────
 
   Activating the mode creates an in-memory database by default.
@@ -173,54 +173,16 @@ simultaneous file handles.
   │ (emacsql (org-mem-roamy-db) [:select * :from files :limit 10])
   └────
 
-
-5.2 With org-roam installed
-───────────────────────────
-
-  You can use this to end your dependence on `org-roam-db-sync'.  Set
-  the following to let org-mem overwrite the "org-roam.db" file.
-
-  ┌────
-  │ (setq org-roam-db-update-on-save nil)
-  │ (setq org-mem-roamy-do-overwrite-real-db t)
-  │ (org-mem-roamy-db-mode)
-  └────
-
-  Now, you have a new, all-fake org-roam.db!  Test that org-roam's
-  `org-roam-db-query' works:
-
-  ┌────
-  │ (org-roam-db-query [:select * :from files :limit 10])
-  └────
-
-  If it works, then various packages that depend on org-roam's DB should
-  also work without issue.
-
-  N/B: because `(equal (org-roam-db) (org-mem-roamy-db))', the above is
-  equivalent to these expressions:
-
-  ┌────
-  │ (emacsql (org-roam-db) [:select * :from files :limit 10])
-  │ (emacsql (org-mem-roamy-db) [:select * :from files :limit 10])
-  └────
-
-  A known issue when when you run multiple Emacs instances: "attempt to
-  write a readonly database".  Get unstuck with `M-:
-  (org-roam-db--close-all)'.
+  For more tips, see section [SQL API].
 
 
-5.3 View what info is in the DB
-───────────────────────────────
-
-  Use `M-x org-mem-list-db-contents'.
-
-  Or the new `M-x org-roam-db-explore', with exactly the same UI.
+[SQL API] <https://github.com/meedstrom/org-mem#sql-api>
 
 
-6 Elisp API
+7 Elisp API
 ═══════════
 
-6.1 Example: Let org-agenda cast its net wide
+7.1 Example: Let org-agenda cast its net wide
 ─────────────────────────────────────────────
 
   You can't put 2,000 files in `org-agenda-files', but most contain
@@ -249,7 +211,7 @@ simultaneous file handles.
   └────
 
 
-6.2 Example: Warn about dangling clocks at init
+7.2 Example: Warn about dangling clocks at init
 ───────────────────────────────────────────────
 
   While Org can warn about dangling clocks through the
@@ -276,7 +238,7 @@ simultaneous file handles.
   └────
 
 
-6.3 Force an update
+7.3 Force an update
 ───────────────────
 
   If you want to force-update the cache in synchronous code, you should
@@ -294,7 +256,7 @@ simultaneous file handles.
   └────
 
 
-6.4 Entries and links
+7.4 Entries and links
 ─────────────────────
 
   We use two types of objects to help represent file contents:
@@ -330,7 +292,7 @@ simultaneous file handles.
       welcome!
 
 
-6.5 Full list of functions
+7.5 Full list of functions
 ──────────────────────────
 
   Updated [2026-02-26 Thu].
@@ -511,10 +473,86 @@ simultaneous file handles.
   • `org-mem-updater-update'
 
 
-7 Tips
+8 SQL API
+═════════
+
+8.1 With org-roam installed
+───────────────────────────
+
+  You can use this to end your dependence on `org-roam-db-sync'.  Set
+  the following to let org-mem overwrite the "org-roam.db" file.
+
+  ┌────
+  │ (setq org-roam-db-update-on-save nil)
+  │ (setq org-mem-roamy-do-overwrite-real-db t)
+  │ (org-mem-roamy-db-mode)
+  └────
+
+  Now, you have a new, all-fake org-roam.db!  Test that org-roam's
+  `org-roam-db-query' works:
+
+  ┌────
+  │ (org-roam-db-query [:select * :from files :limit 10])
+  └────
+
+  If it works, then various packages that depend on org-roam's DB should
+  also work without issue.  However, you'll have to be content with them
+  pulling in org-roam even if you never turn it on.
+
+  N/B: because `(equal (org-roam-db) (org-mem-roamy-db))', the above is
+  equivalent to these expressions:
+
+  ┌────
+  │ (emacsql (org-roam-db) [:select * :from files :limit 10])
+  │ (emacsql (org-mem-roamy-db) [:select * :from files :limit 10])
+  └────
+
+
+8.2 To developers
+─────────────────
+
+  If you write a package that actually only needed to use org-roam's DB
+  and not its other utilities like `org-roam-capture', you should be
+  able to stop requiring org-roam, and do e.g.
+
+  ┌────
+  │ (defun my-db ()
+  │   (cond ((fboundp 'org-roam-db) (org-roam-db))
+  │         ((fboundp 'org-mem-roamy-db) (org-mem-roamy-db))
+  │         (t (error "Enable either org-roam-db-autosync-mode or org-mem-roamy-db-mode"))
+  └────
+
+  and then rewrite all your `(org-roam-db-query ...)' forms to:
+
+  ┌────
+  │ (emacsql (my-db) ...)
+  └────
+
+  In theory, anyway ;-)
+
+  Please report any issues!
+
+
+8.3 Known issue
+───────────────
+
+  Error "attempt to write a readonly database" can happen when when you
+  run multiple Emacs instances.  Get unstuck with `M-:
+  (org-roam-db--close-all)'.
+
+
+8.4 View what info is in the DB
+───────────────────────────────
+
+  Use `M-x org-mem-list-db-contents'.
+
+  Or the new `M-x org-roam-db-explore', with exactly the same UI.
+
+
+9 Tips
 ══════
 
-7.1 Encrypted files (`.org.gpg' `.org.age')
+9.1 Encrypted files (`.org.gpg' `.org.age')
 ───────────────────────────────────────────
 
   Suppose you use [age.el] to keep files encrypted.
@@ -532,11 +570,11 @@ simultaneous file handles.
 [age.el] <https://github.com/anticomputer/age.el>
 
 
-8 Current limitations
-═════════════════════
+10 Current limitations
+══════════════════════
 
-8.1 Limitation: TRAMP
-─────────────────────
+10.1 Limitation: TRAMP
+──────────────────────
 
   Files over TRAMP are excluded from org-mem's database, so as far as
   org-mem is concerned, it is as if they do not exist.
@@ -546,21 +584,41 @@ simultaneous file handles.
   It is fixable in theory.
 
 
-8.2 Limitation: Encrypted entries
-─────────────────────────────────
+10.2 Limitation: Encrypted entries
+──────────────────────────────────
 
   The body text of specific entries may be encrypted by `org-crypt'.  If
   so, org-mem cannot find links nor timestamps inside.
 
 
-8.3 Limitation: SETUPFILE
-─────────────────────────
+10.3 Limitation: SETUPFILE
+──────────────────────────
 
   No support yet for buffer settings from `#+SETUPFILE:'.
 
 
-9 Future work
-═════════════
+10.4 Limitation: diary-sexps
+────────────────────────────
+
+  If you have a timestamp that's not a plain
+
+  ┌────
+  │ SCHEDULED: [2026-03-06 Fri 06:11]
+  └────
+
+
+  but a diary-sexp like
+
+  ┌────
+  │ SCHEDULED: <%%(memq (calendar-day-of-week date) (1 2 3 4 5)))>
+  └────
+
+
+  then `(org-mem-entry-scheduled ENTRY)' returns nil, unfortunately.
+
+
+11 Future work
+══════════════
 
   Use Org's own parser.
 

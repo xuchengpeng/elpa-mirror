@@ -3,13 +3,13 @@ Updating /mnt/store/melpa/working/q-mode/
 Checking out 766e7b58b666de13cd0dced7828c762be92f08cc
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/q-mode/
-  to /tmp/q-mode-5jy5Cv/q-mode-20260216.1450
+  to /tmp/q-mode-QE0Wv1/q-mode-20260216.1450
     q-mode.el -> q-mode.el
 Created q-mode-20260216.1450.tar containing:
   q-mode-20260216.1450/
   q-mode-20260216.1450/q-mode-pkg.el
   q-mode-20260216.1450/q-mode.el
  ✓ Success:
-  2026-03-02T01:03:14+0000  q-mode-20260216.1450.entry
-  2026-03-02T01:03:14+0000  q-mode-20260216.1450.tar
-Built q-mode in 2.741s, finished at 2026-03-02T01:03:15+0000
+  2026-03-08T23:00:19+0000  q-mode-20260216.1450.entry
+  2026-03-08T23:00:19+0000  q-mode-20260216.1450.tar
+Built q-mode in 4.435s, finished at 2026-03-08T23:00:20+0000

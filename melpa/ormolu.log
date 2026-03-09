@@ -3,13 +3,13 @@ Updating /mnt/store/melpa/working/ormolu/
 Checking out a6b1d3f8838d067ac5352fb0673c3c3dae7abd73
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/ormolu/
-  to /tmp/ormolu-f7cxTt/ormolu-20220530.921
+  to /tmp/ormolu-88F2UY/ormolu-20220530.921
     ormolu.el -> ormolu.el
 Created ormolu-20220530.921.tar containing:
   ormolu-20220530.921/
   ormolu-20220530.921/ormolu-pkg.el
   ormolu-20220530.921/ormolu.el
  ✓ Success:
-  2026-03-02T00:56:58+0000  ormolu-20220530.921.entry
-  2026-03-02T00:56:58+0000  ormolu-20220530.921.tar
-Built ormolu in 2.578s, finished at 2026-03-02T00:56:59+0000
+  2026-03-08T22:51:16+0000  ormolu-20220530.921.entry
+  2026-03-08T22:51:16+0000  ormolu-20220530.921.tar
+Built ormolu in 3.844s, finished at 2026-03-08T22:51:17+0000

@@ -3,13 +3,13 @@ Updating /mnt/store/melpa/working/typst-preview/
 Checking out 7e89cf105e4fef5e79977a4a790d5b3b18d305f6
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/typst-preview/
-  to /tmp/typst-preview-A2acdl/typst-preview-20260215.2252
+  to /tmp/typst-preview-7WP1ms/typst-preview-20260215.2252
     typst-preview.el -> typst-preview.el
 Created typst-preview-20260215.2252.tar containing:
   typst-preview-20260215.2252/
   typst-preview-20260215.2252/typst-preview-pkg.el
   typst-preview-20260215.2252/typst-preview.el
  ✓ Success:
-  2026-03-02T01:15:02+0000  typst-preview-20260215.2252.entry
-  2026-03-02T01:15:02+0000  typst-preview-20260215.2252.tar
-Built typst-preview in 3.660s, finished at 2026-03-02T01:15:03+0000
+  2026-03-08T23:18:35+0000  typst-preview-20260215.2252.entry
+  2026-03-08T23:18:35+0000  typst-preview-20260215.2252.tar
+Built typst-preview in 4.972s, finished at 2026-03-08T23:18:36+0000

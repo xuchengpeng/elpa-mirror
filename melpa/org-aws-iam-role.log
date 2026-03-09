@@ -1,15 +1,15 @@
  • Building package org-aws-iam-role (from github:will-abb/org-aws-iam-role)...
 Updating /mnt/store/melpa/working/org-aws-iam-role/
-Checking out 4c6cdde1efd1f33a4e2434db7af7617ce590e90c
+Checking out 0175d5ac66f43f8d32db64a04421fddf57e10af7
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/org-aws-iam-role/
-  to /tmp/org-aws-iam-role-B0EtLO/org-aws-iam-role-20260207.1643
+  to /tmp/org-aws-iam-role-pTcqax/org-aws-iam-role-20260308.1750
     org-aws-iam-role.el -> org-aws-iam-role.el
-Created org-aws-iam-role-20260207.1643.tar containing:
-  org-aws-iam-role-20260207.1643/
-  org-aws-iam-role-20260207.1643/org-aws-iam-role-pkg.el
-  org-aws-iam-role-20260207.1643/org-aws-iam-role.el
+Created org-aws-iam-role-20260308.1750.tar containing:
+  org-aws-iam-role-20260308.1750/
+  org-aws-iam-role-20260308.1750/org-aws-iam-role-pkg.el
+  org-aws-iam-role-20260308.1750/org-aws-iam-role.el
  ✓ Success:
-  2026-03-02T00:53:56+0000  org-aws-iam-role-20260207.1643.entry
-  2026-03-02T00:53:56+0000  org-aws-iam-role-20260207.1643.tar
-Built org-aws-iam-role in 2.804s, finished at 2026-03-02T00:53:57+0000
+  2026-03-08T22:46:39+0000  org-aws-iam-role-20260308.1750.entry
+  2026-03-08T22:46:39+0000  org-aws-iam-role-20260308.1750.tar
+Built org-aws-iam-role in 4.285s, finished at 2026-03-08T22:46:40+0000

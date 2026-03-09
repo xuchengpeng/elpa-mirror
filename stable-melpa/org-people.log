@@ -1,0 +1,15 @@
+ • Building package org-people (from github:skx/org-people)...
+Updating /mnt/store/melpa/working/org-people/
+Checking out a8798a298a16dda24fdcc3eab97284c967b70b20
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/org-people/
+  to /tmp/org-people-ictQsC/org-people-20260308.1903
+    org-people.el -> org-people.el
+Created org-people-20260308.1903.tar containing:
+  org-people-20260308.1903/
+  org-people-20260308.1903/org-people-pkg.el
+  org-people-20260308.1903/org-people.el
+ ✓ Success:
+  2026-03-08T22:48:40+0000  org-people-20260308.1903.entry
+  2026-03-08T22:48:39+0000  org-people-20260308.1903.tar
+Built org-people in 8.014s, finished at 2026-03-08T22:48:42+0000

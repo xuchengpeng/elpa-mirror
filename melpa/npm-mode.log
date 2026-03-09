@@ -3,13 +3,13 @@ Updating /mnt/store/melpa/working/npm-mode/
 Checking out 3ee7c0bad5b7a041d4739ef3aaa06a3dc764e5eb
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/npm-mode/
-  to /tmp/npm-mode-j4xyCK/npm-mode-20190616.2025
+  to /tmp/npm-mode-r3xh2K/npm-mode-20190616.2025
     npm-mode.el -> npm-mode.el
 Created npm-mode-20190616.2025.tar containing:
   npm-mode-20190616.2025/
   npm-mode-20190616.2025/npm-mode-pkg.el
   npm-mode-20190616.2025/npm-mode.el
  ✓ Success:
-  2026-03-02T00:51:50+0000  npm-mode-20190616.2025.entry
-  2026-03-02T00:51:50+0000  npm-mode-20190616.2025.tar
-Built npm-mode in 2.664s, finished at 2026-03-02T00:51:51+0000
+  2026-03-08T22:43:23+0000  npm-mode-20190616.2025.entry
+  2026-03-08T22:43:23+0000  npm-mode-20190616.2025.tar
+Built npm-mode in 6.700s, finished at 2026-03-08T22:43:25+0000

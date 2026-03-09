@@ -1,17 +1,17 @@
  • Building package neocaml (from github:bbatsov/neocaml)...
 Updating /mnt/store/melpa/working/neocaml/
-Checking out 40c989e597f12661b7f7a078564cc82a9d57f821
+Checking out 37ccaaa523801a5f511ba0a654a9d2a4ef1aec8d
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/neocaml/
-  to /tmp/neocaml-O4f0cJ/neocaml-20260226.1408
+  to /tmp/neocaml-4SO83P/neocaml-20260308.1845
     neocaml-repl.el -> neocaml-repl.el
     neocaml.el -> neocaml.el
-Created neocaml-20260226.1408.tar containing:
-  neocaml-20260226.1408/
-  neocaml-20260226.1408/neocaml-pkg.el
-  neocaml-20260226.1408/neocaml-repl.el
-  neocaml-20260226.1408/neocaml.el
+Created neocaml-20260308.1845.tar containing:
+  neocaml-20260308.1845/
+  neocaml-20260308.1845/neocaml-pkg.el
+  neocaml-20260308.1845/neocaml-repl.el
+  neocaml-20260308.1845/neocaml.el
  ✓ Success:
-  2026-03-02T00:50:41+0000  neocaml-20260226.1408.entry
-  2026-03-02T00:50:40+0000  neocaml-20260226.1408.tar
-Built neocaml in 5.617s, finished at 2026-03-02T00:50:42+0000
+  2026-03-08T22:41:31+0000  neocaml-20260308.1845.entry
+  2026-03-08T22:41:31+0000  neocaml-20260308.1845.tar
+Built neocaml in 5.541s, finished at 2026-03-08T22:41:32+0000

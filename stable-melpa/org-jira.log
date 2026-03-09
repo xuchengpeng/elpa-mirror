@@ -3,7 +3,7 @@ Updating /mnt/store/melpa/working/org-jira/
 Checking out 738002ddbeb0b4311089706f0a979ceea53bf095
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/org-jira/
-  to /tmp/org-jira-elWs84/org-jira-20260205.2052
+  to /tmp/org-jira-b921XS/org-jira-20260205.2052
     jiralib.el -> jiralib.el
     org-jira.el -> org-jira.el
     org-jira-sdk.el -> org-jira-sdk.el
@@ -14,6 +14,6 @@ Created org-jira-20260205.2052.tar containing:
   org-jira-20260205.2052/org-jira-sdk.el
   org-jira-20260205.2052/org-jira.el
  ✓ Success:
-  2026-03-02T00:54:46+0000  org-jira-20260205.2052.entry
-  2026-03-02T00:54:46+0000  org-jira-20260205.2052.tar
-Built org-jira in 2.995s, finished at 2026-03-02T00:54:47+0000
+  2026-03-08T22:47:53+0000  org-jira-20260205.2052.entry
+  2026-03-08T22:47:53+0000  org-jira-20260205.2052.tar
+Built org-jira in 4.870s, finished at 2026-03-08T22:47:55+0000

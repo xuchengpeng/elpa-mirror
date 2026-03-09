@@ -1,15 +1,15 @@
  • Building package repo-grep (from github:BHFock/repo-grep)...
 Updating /mnt/store/melpa/working/repo-grep/
-Checking out 786259b805bd0617f1e718c1da79a5ef2da5a2ec
+Checking out c680c35bf04d58529498e8e46bed3f6d8847805e
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/repo-grep/
-  to /tmp/repo-grep-RLroWt/repo-grep-20260219.1754
+  to /tmp/repo-grep-9DfzXb/repo-grep-20260308.1843
     repo-grep.el -> repo-grep.el
-Created repo-grep-20260219.1754.tar containing:
-  repo-grep-20260219.1754/
-  repo-grep-20260219.1754/repo-grep-pkg.el
-  repo-grep-20260219.1754/repo-grep.el
+Created repo-grep-20260308.1843.tar containing:
+  repo-grep-20260308.1843/
+  repo-grep-20260308.1843/repo-grep-pkg.el
+  repo-grep-20260308.1843/repo-grep.el
  ✓ Success:
-  2026-03-02T01:04:44+0000  repo-grep-20260219.1754.entry
-  2026-03-02T01:04:44+0000  repo-grep-20260219.1754.tar
-Built repo-grep in 2.906s, finished at 2026-03-02T01:04:45+0000
+  2026-03-08T23:03:01+0000  repo-grep-20260308.1843.entry
+  2026-03-08T23:03:01+0000  repo-grep-20260308.1843.tar
+Built repo-grep in 3.607s, finished at 2026-03-08T23:03:02+0000

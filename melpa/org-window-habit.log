@@ -1,9 +1,9 @@
  • Building package org-window-habit (from github:colonelpanic8/org-window-habit)...
 Updating /mnt/store/melpa/working/org-window-habit/
-Checking out 4d23ef0994770b7d233e11dca9bbf1b1a5479c45
+Checking out 0a459cb3e2b633e9a035e3bbc6299efc85e67c0f
 Copying files (->) and directories (=>)
   from /mnt/store/melpa/working/org-window-habit/
-  to /tmp/org-window-habit-xXeTTB/org-window-habit-20260204.1025
+  to /tmp/org-window-habit-gajOob/org-window-habit-20260306.305
     org-window-habit-advice.el -> org-window-habit-advice.el
     org-window-habit-computation.el -> org-window-habit-computation.el
     org-window-habit-config.el -> org-window-habit-config.el
@@ -14,20 +14,20 @@ Copying files (->) and directories (=>)
     org-window-habit-meta.el -> org-window-habit-meta.el
     org-window-habit-time.el -> org-window-habit-time.el
     org-window-habit.el -> org-window-habit.el
-Created org-window-habit-20260204.1025.tar containing:
-  org-window-habit-20260204.1025/
-  org-window-habit-20260204.1025/org-window-habit-advice.el
-  org-window-habit-20260204.1025/org-window-habit-computation.el
-  org-window-habit-20260204.1025/org-window-habit-config.el
-  org-window-habit-20260204.1025/org-window-habit-core.el
-  org-window-habit-20260204.1025/org-window-habit-graph.el
-  org-window-habit-20260204.1025/org-window-habit-instance.el
-  org-window-habit-20260204.1025/org-window-habit-logbook.el
-  org-window-habit-20260204.1025/org-window-habit-meta.el
-  org-window-habit-20260204.1025/org-window-habit-pkg.el
-  org-window-habit-20260204.1025/org-window-habit-time.el
-  org-window-habit-20260204.1025/org-window-habit.el
+Created org-window-habit-20260306.305.tar containing:
+  org-window-habit-20260306.305/
+  org-window-habit-20260306.305/org-window-habit-advice.el
+  org-window-habit-20260306.305/org-window-habit-computation.el
+  org-window-habit-20260306.305/org-window-habit-config.el
+  org-window-habit-20260306.305/org-window-habit-core.el
+  org-window-habit-20260306.305/org-window-habit-graph.el
+  org-window-habit-20260306.305/org-window-habit-instance.el
+  org-window-habit-20260306.305/org-window-habit-logbook.el
+  org-window-habit-20260306.305/org-window-habit-meta.el
+  org-window-habit-20260306.305/org-window-habit-pkg.el
+  org-window-habit-20260306.305/org-window-habit-time.el
+  org-window-habit-20260306.305/org-window-habit.el
  ✓ Success:
-  2026-03-02T00:56:29+0000  org-window-habit-20260204.1025.entry
-  2026-03-02T00:56:29+0000  org-window-habit-20260204.1025.tar
-Built org-window-habit in 5.184s, finished at 2026-03-02T00:56:31+0000
+  2026-03-08T22:50:43+0000  org-window-habit-20260306.305.entry
+  2026-03-08T22:50:43+0000  org-window-habit-20260306.305.tar
+Built org-window-habit in 5.147s, finished at 2026-03-08T22:50:45+0000
